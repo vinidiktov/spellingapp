@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ecd3bd3e-2c91-4ff0-be3d-02cda0a8b274</uuid>
+  <title>Самые частотные слова 30</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>1</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>summit</question>
+    <answer>встреча глав правительств</answer>
+    <comment>[ˈsʌmɪt]</comment>
+    <uuid>ac003612-3d77-4137-a774-38d093ea0868</uuid>
+  </card>
+  <card>
+    <question>participation</question>
+    <answer>участие</answer>
+    <comment>[pɑːˌtɪsɪˈpeɪʃən]</comment>
+    <uuid>4c0bb4f7-da63-404a-9226-cbd0bd0c64f6</uuid>
+  </card>
+  <card>
+    <question>weakness</question>
+    <answer>слабость</answer>
+    <comment>[ˈwiːknɪs]</comment>
+    <uuid>38225967-9b36-44c9-a6b7-d9288c672b8b</uuid>
+  </card>
+  <card>
+    <question>block</question>
+    <answer>преграждать</answer>
+    <comment>[blɒk]</comment>
+    <uuid>e1a138d1-c440-4a42-9623-1457a0d84ce9</uuid>
+  </card>
+  <card>
+    <question>so-called</question>
+    <answer>так называемый</answer>
+    <comment>[ˈsəʊˈkɔːld]</comment>
+    <uuid>0057d19e-571e-4b79-a723-560e83959cd5</uuid>
+  </card>
+  <card>
+    <question>adapt</question>
+    <answer>приспосабливаться, адаптироваться</answer>
+    <comment>[əˈdæpt]</comment>
+    <uuid>a03f5c9e-ffb2-47a9-abdf-58e4e3fa6e45</uuid>
+  </card>
+  <card>
+    <question>absorb</question>
+    <answer>впитывать, поглощать</answer>
+    <comment>[əbˈsɔːb]</comment>
+    <uuid>8edfee3f-c593-4d3c-9293-339912033e66</uuid>
+  </card>
+  <card>
+    <question>encounter</question>
+    <answer>сталкиваться с (трудностями, проблемами)</answer>
+    <comment>[ɪnˈkаʊntə]</comment>
+    <uuid>92f10336-cadb-40fd-9657-0468875b0cab</uuid>
+  </card>
+  <card>
+    <question>defeat</question>
+    <answer>наносить поражение; побеждать</answer>
+    <comment>[dɪˈfiːt]</comment>
+    <uuid>d8a4e350-d5c2-4f9c-83ef-9669c6422c32</uuid>
+  </card>
+  <card>
+    <question>excitement</question>
+    <answer>возбуждение, волнение</answer>
+    <comment>[ɪkˈsаɪtmənt]</comment>
+    <uuid>2fd2baab-bed7-47fd-9695-d3a24be6661e</uuid>
+  </card>
+  <card>
+    <question>brick</question>
+    <answer>кирпич</answer>
+    <comment>[brɪk]</comment>
+    <uuid>6b750141-144b-4681-a872-11e15afcc3f5</uuid>
+  </card>
+  <card>
+    <question>blind</question>
+    <answer>слепой</answer>
+    <comment>[blаɪnd]</comment>
+    <uuid>2ac01ec0-1335-4a6e-8840-5364e020d34f</uuid>
+  </card>
+  <card>
+    <question>wire</question>
+    <answer>проволока</answer>
+    <comment>[ˈwаɪə]</comment>
+    <uuid>ccf0fbfc-1cb1-4a0f-9fad-03d81723527a</uuid>
+  </card>
+  <card>
+    <question>crop</question>
+    <answer>сельскохозяйственная культура</answer>
+    <comment>[krɒp]</comment>
+    <uuid>5cb7c502-4177-4424-896b-63ac812faeea</uuid>
+  </card>
+  <card>
+    <question>square</question>
+    <answer>квадратный</answer>
+    <comment>[skweə]</comment>
+    <uuid>435fa22f-a68b-4c9b-8ffc-6b96a0271caf</uuid>
+  </card>
+  <card>
+    <question>transition</question>
+    <answer>переход (от одного состояния к другому)</answer>
+    <comment>[trænˈsɪʒən]</comment>
+    <uuid>2a76a850-ac83-427e-b3d7-feb738a68cd7</uuid>
+  </card>
+  <card>
+    <question>thereby</question>
+    <answer>таким образом, тем самым</answer>
+    <comment>[ˈðeəˈbаɪ]</comment>
+    <uuid>972f9349-d31f-4a3a-81fa-42d10a50a801</uuid>
+  </card>
+  <card>
+    <question>protest</question>
+    <answer>протестовать</answer>
+    <comment>[ˈprəʊtest]</comment>
+    <uuid>08cd9fbd-ecd9-4adc-b237-22d01605bef9</uuid>
+  </card>
+  <card>
+    <question>roll</question>
+    <answer>рулон</answer>
+    <comment>[rəʊl]</comment>
+    <uuid>95cd882c-df9e-486d-811b-11218e519d67</uuid>
+  </card>
+  <card>
+    <question>stop</question>
+    <answer>to come to a ~ - остановиться (о машине)</answer>
+    <comment>[stɒp]</comment>
+    <uuid>94fe45fe-bf5b-4ee6-ba86-423258ac0389</uuid>
+  </card>
+  <card>
+    <question>assistant</question>
+    <answer>помощник, ассистент</answer>
+    <comment>[əˈsɪstənt]</comment>
+    <uuid>2610e00e-b400-436f-8d53-3830873a31b6</uuid>
+  </card>
+  <card>
+    <question>deaf</question>
+    <answer>глухой</answer>
+    <comment>[def]</comment>
+    <uuid>e867e1da-40ff-4316-9e1e-085d0ba79f93</uuid>
+  </card>
+  <card>
+    <question>constituency</question>
+    <answer>избирательный округ (брит.)</answer>
+    <comment>[kənˈstɪtjʊənsɪ]</comment>
+    <uuid>65cfca81-e947-4378-9689-5ffa64e86053</uuid>
+  </card>
+  <card>
+    <question>continuous</question>
+    <answer>непрерывный</answer>
+    <comment>[kənˈtɪnjʊəs]</comment>
+    <uuid>cd2cd48d-8df8-4a2d-9917-50435c05b2c5</uuid>
+  </card>
+  <card>
+    <question>concert</question>
+    <answer>концерт</answer>
+    <comment>[ˈkɒnsɜːt]</comment>
+    <uuid>f594ec85-75f6-4f01-911e-0417c7286e59</uuid>
+  </card>
+  <card>
+    <question>breast</question>
+    <answer>грудь (женская)</answer>
+    <comment>[brest]</comment>
+    <uuid>4e99ebe6-93c3-4dcc-a032-98522e068ed0</uuid>
+  </card>
+  <card>
+    <question>extraordinary</question>
+    <answer>необычайный</answer>
+    <comment>[ɪksˈtrɔːdnrɪ]</comment>
+    <uuid>8ec6dfe0-ccb0-4132-9aa5-a0c3ccf4cc55</uuid>
+  </card>
+  <card>
+    <question>squad</question>
+    <answer>отряд (полиции)</answer>
+    <comment>[skwɒd]</comment>
+    <uuid>06102bd4-b401-43fc-8193-dcdbe007b107</uuid>
+  </card>
+  <card>
+    <question>wonder</question>
+    <answer>удивление, изумление</answer>
+    <comment>[ˈwʌndə]</comment>
+    <uuid>7e5894db-b403-4e08-ae98-58e1ed512256</uuid>
+  </card>
+  <card>
+    <question>cream</question>
+    <answer>сливки</answer>
+    <comment>[kriːm]</comment>
+    <uuid>c3ec4777-c8f8-41eb-88e2-d1ea18715c42</uuid>
+  </card>
+  <card>
+    <question>tennis</question>
+    <answer>теннис</answer>
+    <comment>[ˈtenɪs]</comment>
+    <uuid>17ce58d3-6b61-4301-be66-cab4dce4fdb1</uuid>
+  </card>
+  <card>
+    <question>personally</question>
+    <answer>что касается меня</answer>
+    <comment>[ˈpɜːsnəlɪ]</comment>
+    <uuid>3c61d002-e11b-4e9c-8b7b-c7bb677fcd0b</uuid>
+  </card>
+  <card>
+    <question>communicate</question>
+    <answer>общаться</answer>
+    <comment>[kəˈmjuːnɪkeɪt]</comment>
+    <uuid>a006a80c-aabc-4920-a87d-7071bbd9e6b2</uuid>
+  </card>
+  <card>
+    <question>pride</question>
+    <answer>гордость</answer>
+    <comment>[prаɪd]</comment>
+    <uuid>43adb6a7-b657-433c-8639-7700134252db</uuid>
+  </card>
+  <card>
+    <question>bowl</question>
+    <answer>миска</answer>
+    <comment>[bəʊl]</comment>
+    <uuid>86fb8779-7485-498d-9224-eed4b0c1c4dd</uuid>
+  </card>
+  <card>
+    <question>file</question>
+    <answer>регистрировать и хранить в определенном порядке (документы)</answer>
+    <comment>[fаɪl]</comment>
+    <uuid>edad48ba-02ca-4c1c-a684-e8457856266f</uuid>
+  </card>
+  <card>
+    <question>expertise</question>
+    <answer>знания, опыт (в данной специальности)</answer>
+    <comment>[ˌekspɜːˈtiːz]</comment>
+    <uuid>e4225c2a-87cb-4a0a-aa25-55aaabdd7218</uuid>
+  </card>
+  <card>
+    <question>govern</question>
+    <answer>править (страной и т.п.)</answer>
+    <comment>[ˈgʌvən]</comment>
+    <uuid>af239b28-2572-4222-95cf-f5a04693c849</uuid>
+  </card>
+  <card>
+    <question>leather</question>
+    <answer>кожа</answer>
+    <comment>[ˈleðə]</comment>
+    <uuid>8dd064e2-ca56-4a2c-a90a-7c4ba11fd9a5</uuid>
+  </card>
+  <card>
+    <question>observer</question>
+    <answer>наблюдатель</answer>
+    <comment>[əbˈzɜːvə]</comment>
+    <uuid>3bdd7451-8ac6-4c11-ba80-4b7fc76cdbf8</uuid>
+  </card>
+  <card>
+    <question>margin</question>
+    <answer>поле (страницы)</answer>
+    <comment>[ˈmɑːʤɪn]</comment>
+    <uuid>0bbba8e9-ce59-4981-b0b9-bde8db2d45fc</uuid>
+  </card>
+  <card>
+    <question>uncertainty</question>
+    <answer>неизвестность, неопределенность</answer>
+    <comment>[ʌnˈsɜːtntɪ]</comment>
+    <uuid>45b64dc2-cd4e-49da-9352-988a019a6d8f</uuid>
+  </card>
+  <card>
+    <question>reinforce</question>
+    <answer>подкреплять</answer>
+    <comment>[ˌriːɪnˈfɔːs]</comment>
+    <uuid>557aa604-cc87-498e-a631-7de1c1ea7390</uuid>
+  </card>
+  <card>
+    <question>ideal</question>
+    <answer>идеал</answer>
+    <comment>[аɪˈdɪəl]</comment>
+    <uuid>eb9a437a-605a-4949-9298-cb9dedbdd270</uuid>
+  </card>
+  <card>
+    <question>injure</question>
+    <answer>повредить</answer>
+    <comment>[ˈɪnʤə]</comment>
+    <uuid>a1165f1c-b75e-4ffe-94f9-85f0c2ec85a6</uuid>
+  </card>
+  <card>
+    <question>holding</question>
+    <answer>владение (акциями и т.п.)</answer>
+    <comment>[ˈhəʊldɪŋ]</comment>
+    <uuid>82f207e5-c468-4201-ab4a-32f3deb97abf</uuid>
+  </card>
+  <card>
+    <question>universal</question>
+    <answer>всеобщий, всемирный</answer>
+    <comment>[ˌjuːnɪˈvɜːsəl]</comment>
+    <uuid>d72c09a4-5060-4a07-9e58-ed62ac504542</uuid>
+  </card>
+  <card>
+    <question>evident</question>
+    <answer>очевидный, ясный</answer>
+    <comment>[ˈevɪdənt]</comment>
+    <uuid>b34b2a18-87f9-4fa5-9da7-dd4cdd842078</uuid>
+  </card>
+  <card>
+    <question>dust</question>
+    <answer>пыль</answer>
+    <comment>[dʌst]</comment>
+    <uuid>d03b700f-9ea6-4973-89b7-37084eba8c9f</uuid>
+  </card>
+  <card>
+    <question>overseas</question>
+    <answer>иностранный, заграничный (=заморский)</answer>
+    <comment>[ˈəʊvəˈsiːz]</comment>
+    <uuid>e0dcb668-7994-4484-bff7-d323d7bbd0ed</uuid>
+  </card>
+  <card>
+    <question>desperate</question>
+    <answer>доведенный до отчаяния</answer>
+    <comment>[ˈdespərɪt]</comment>
+    <uuid>0846ab17-47c9-422d-84bd-fe219526a623</uuid>
+  </card>
+  <card>
+    <question>swim</question>
+    <answer>плавать</answer>
+    <comment>[swɪm]</comment>
+    <uuid>a39320a8-d1fc-4d8c-99ef-1fca89439308</uuid>
+  </card>
+  <card>
+    <question>occasional</question>
+    <answer>случающийся время от времени, иногда</answer>
+    <comment>[əˈkeɪʒənl]</comment>
+    <uuid>7d1a2fdb-c044-4754-98b4-6e1922664358</uuid>
+  </card>
+  <card>
+    <question>trouser</question>
+    <answer>~s - брюки (брит.)</answer>
+    <comment>[(---)]</comment>
+    <uuid>8b2684c2-b56a-4cab-bde6-356f64255756</uuid>
+  </card>
+  <card>
+    <question>surprisingly</question>
+    <answer>удивительно, на удивление</answer>
+    <comment>[səˈprаɪzɪŋlɪ]</comment>
+    <uuid>aab3c65a-7cc3-458f-a5f6-7ca04d096dfd</uuid>
+  </card>
+  <card>
+    <question>register</question>
+    <answer>официальный список</answer>
+    <comment>[ˈreʤɪstə]</comment>
+    <uuid>fd512c60-84a8-46bf-8732-908eb1d546cf</uuid>
+  </card>
+  <card>
+    <question>album</question>
+    <answer>альбом</answer>
+    <comment>[ˈælbəm]</comment>
+    <uuid>03c2dbcc-fe59-48d7-8bb4-1569c47cde30</uuid>
+  </card>
+  <card>
+    <question>guideline</question>
+    <answer>руководство, нормы (напр. по радиационной защите)</answer>
+    <comment>[ˈgаɪdlаɪn]</comment>
+    <uuid>d6f01150-2f5f-4d7a-9a04-498eb606b8e8</uuid>
+  </card>
+  <card>
+    <question>disturb</question>
+    <answer>беспокоить</answer>
+    <comment>[dɪsˈtɜːb]</comment>
+    <uuid>12d06984-5c86-450e-b348-f4c91de4bc8b</uuid>
+  </card>
+  <card>
+    <question>amendment</question>
+    <answer>поправка (к законопроекту и т.п.)</answer>
+    <comment>[əˈmendmənt]</comment>
+    <uuid>49073b9a-7714-4794-86e0-08e665c433d3</uuid>
+  </card>
+  <card>
+    <question>architect</question>
+    <answer>архитектор</answer>
+    <comment>[ˈɑːkɪtekt]</comment>
+    <uuid>f1c7084c-e077-40cd-9270-9924cf2fc07e</uuid>
+  </card>
+  <card>
+    <question>objection</question>
+    <answer>возражение</answer>
+    <comment>[əbˈʤekʃən]</comment>
+    <uuid>385388ee-7fcd-4380-8962-26daa2f464aa</uuid>
+  </card>
+  <card>
+    <question>chart</question>
+    <answer>диаграмма</answer>
+    <comment>[ʧɑːt]</comment>
+    <uuid>aad70359-cd4b-4d15-b135-232aaf6852b6</uuid>
+  </card>
+  <card>
+    <question>cattle</question>
+    <answer>крупный рогатый скот</answer>
+    <comment>[ˈkætl]</comment>
+    <uuid>90193790-7b0d-4c9b-a865-26b103a00f52</uuid>
+  </card>
+  <card>
+    <question>doubt</question>
+    <answer>сомневаться</answer>
+    <comment>[dаʊt]</comment>
+    <uuid>90620aff-cbe7-40eb-9a0f-f5ab1d6919a8</uuid>
+  </card>
+  <card>
+    <question>react</question>
+    <answer>реагировать</answer>
+    <comment>[rɪˈækt]</comment>
+    <uuid>ab4831c1-83ff-441c-a87f-67f6387b676d</uuid>
+  </card>
+  <card>
+    <question>consciousness</question>
+    <answer>сознание</answer>
+    <comment>[ˈkɒnʃəsnɪs]</comment>
+    <uuid>43f6d5a3-1827-40d1-896d-d78b176f50c8</uuid>
+  </card>
+  <card>
+    <question>right</question>
+    <answer>хорошо, согласен</answer>
+    <comment>[rаɪt]</comment>
+    <uuid>24fdab6d-49a7-451c-97ba-9198a583bd8c</uuid>
+  </card>
+  <card>
+    <question>purely</question>
+    <answer>чисто (случайно и т.п.)</answer>
+    <comment>[ˈpjʊəlɪ]</comment>
+    <uuid>b85124cf-86b4-4820-b965-e4944360a08b</uuid>
+  </card>
+  <card>
+    <question>tin</question>
+    <answer>олово</answer>
+    <comment>[tɪn]</comment>
+    <uuid>c4b57a71-241c-4b2d-b387-107bee207fe5</uuid>
+  </card>
+  <card>
+    <question>tube</question>
+    <answer>труба, трубка</answer>
+    <comment>[tjuːb]</comment>
+    <uuid>9ddbc48b-f03c-46db-a609-af39a5445f07</uuid>
+  </card>
+  <card>
+    <question>fulfil</question>
+    <answer>исполнять, осуществлять (мечту и т.п.)</answer>
+    <comment>[fʊlˈfɪl]</comment>
+    <uuid>95b181b1-0c7d-4215-b9b4-a225c470e134</uuid>
+  </card>
+  <card>
+    <question>commonly</question>
+    <answer>обычно, обыкновенно</answer>
+    <comment>[ˈkɒmənlɪ]</comment>
+    <uuid>6256b412-ae93-42b4-b430-67bce63cd5b6</uuid>
+  </card>
+  <card>
+    <question>sufficiently</question>
+    <answer>достаточно</answer>
+    <comment>[səˈfɪʃəntli]</comment>
+    <uuid>d1e23399-6cc7-488d-8c5b-96696bc1b9f9</uuid>
+  </card>
+  <card>
+    <question>coin</question>
+    <answer>монета</answer>
+    <comment>[kɔɪn]</comment>
+    <uuid>e403f11c-7ee8-4934-a70b-bde7d86a21ec</uuid>
+  </card>
+  <card>
+    <question>frighten</question>
+    <answer>пугать</answer>
+    <comment>[ˈfrаɪtn]</comment>
+    <uuid>5f312b3c-ade7-4bc7-856f-28add15a173a</uuid>
+  </card>
+  <card>
+    <question>grammar</question>
+    <answer>грамматика</answer>
+    <comment>[ˈgræmə]</comment>
+    <uuid>885c95f2-4601-4b1f-affc-60ffc80da056</uuid>
+  </card>
+  <card>
+    <question>diary</question>
+    <answer>дневник</answer>
+    <comment>[ˈdаɪərɪ]</comment>
+    <uuid>498c143f-ad54-4bb5-bd54-09ec96d8de0a</uuid>
+  </card>
+  <card>
+    <question>flesh</question>
+    <answer>тело, плоть</answer>
+    <comment>[fleʃ]</comment>
+    <uuid>71661147-22d9-457f-991b-7bcdb6a8b537</uuid>
+  </card>
+  <card>
+    <question>summary</question>
+    <answer>краткое изложение</answer>
+    <comment>[ˈsʌmərɪ]</comment>
+    <uuid>3a557b9b-eed7-4a50-8c47-074eeb111f62</uuid>
+  </card>
+  <card>
+    <question>infant</question>
+    <answer>младенец, (маленький) ребенок (форм.)</answer>
+    <comment>[ˈɪnfənt]</comment>
+    <uuid>32a6ffc5-1e2e-4d69-bd1e-cc4adc01bb5d</uuid>
+  </card>
+  <card>
+    <question>stir</question>
+    <answer>мешать, помешивать, размешивать</answer>
+    <comment>[stɜː]</comment>
+    <uuid>370d7c10-234d-4713-8d9c-80c6e2ddbcc0</uuid>
+  </card>
+  <card>
+    <question>storm</question>
+    <answer>буря, гроза, ураган</answer>
+    <comment>[stɔːm]</comment>
+    <uuid>98fb8227-cc2f-4782-893e-7820b9863ab7</uuid>
+  </card>
+  <card>
+    <question>mail</question>
+    <answer>почта, почтовая корреспонденция</answer>
+    <comment>[meɪl]</comment>
+    <uuid>21f276c3-f46f-48bb-9cc0-cc773a49faed</uuid>
+  </card>
+  <card>
+    <question>rugby</question>
+    <answer>регби</answer>
+    <comment>[ˈrʌgbɪ]</comment>
+    <uuid>c7b1436b-f447-48bf-93c9-9ae16b01ad84</uuid>
+  </card>
+  <card>
+    <question>virtue</question>
+    <answer>добродетель</answer>
+    <comment>[ˈvɜːtjuː]</comment>
+    <uuid>924b46d8-d3f1-41a3-8a03-a5e66f2cb70d</uuid>
+  </card>
+  <card>
+    <question>specimen</question>
+    <answer>образец (крови и т.п.)</answer>
+    <comment>[ˈspesɪmɪn]</comment>
+    <uuid>8ee3060c-e5db-4346-9588-965be4cf0d7a</uuid>
+  </card>
+  <card>
+    <question>psychology</question>
+    <answer>психология</answer>
+    <comment>[sаɪˈkɒləʤɪ]</comment>
+    <uuid>55f5d563-b31c-4760-9bb1-145734c3433a</uuid>
+  </card>
+  <card>
+    <question>paint</question>
+    <answer>краска</answer>
+    <comment>[peɪnt]</comment>
+    <uuid>f5fa034c-7381-4664-9aaf-4bedcb991902</uuid>
+  </card>
+  <card>
+    <question>constraint</question>
+    <answer>ограничение</answer>
+    <comment>[kənˈstreɪnt]</comment>
+    <uuid>60b80dcf-4ca7-473a-bff3-fee4909a1c4a</uuid>
+  </card>
+  <card>
+    <question>trace</question>
+    <answer>выследить, разыскать</answer>
+    <comment>[treɪs]</comment>
+    <uuid>035320a9-806c-44e8-a3a3-21b47ba463f7</uuid>
+  </card>
+  <card>
+    <question>privilege</question>
+    <answer>привилегия</answer>
+    <comment>[ˈprɪvɪlɪʤ]</comment>
+    <uuid>2154730a-ea6f-49f7-b898-abe2575d6a6d</uuid>
+  </card>
+  <card>
+    <question>completion</question>
+    <answer>завершение, окончание</answer>
+    <comment>[kəmˈpliːʃən]</comment>
+    <uuid>c4e9b14a-76bd-4203-a5b0-937ccf491734</uuid>
+  </card>
+  <card>
+    <question>progress</question>
+    <answer>продвигаться</answer>
+    <comment>[ˈprəʊgrəs]</comment>
+    <uuid>3a6224fc-077d-4327-a374-cdcbb93345fe</uuid>
+  </card>
+  <card>
+    <question>hers</question>
+    <answer>её (абсолютная форма)</answer>
+    <comment>[hɜːz]</comment>
+    <uuid>fc1985b3-012a-49be-b4f5-cccf92a8fc2b</uuid>
+  </card>
+  <card>
+    <question>grade</question>
+    <answer>качество, сорт (напр. высший сорт)</answer>
+    <comment>[greɪd]</comment>
+    <uuid>2a4c6ab5-31a4-417d-808b-560fe2026174</uuid>
+  </card>
+  <card>
+    <question>exploit</question>
+    <answer>эксплуатировать</answer>
+    <comment>[ˈeksplɔɪt]</comment>
+    <uuid>f96584b5-5a55-4a25-845c-c902e7bce20a</uuid>
+  </card>
+  <card>
+    <question>import</question>
+    <answer>ввоз, импорт</answer>
+    <comment>[ˈɪmpɔːt]</comment>
+    <uuid>f98e2ff5-f0fe-40ac-85cb-a9ee523e3966</uuid>
+  </card>
+  <card>
+    <question>potato</question>
+    <answer>картофель</answer>
+    <comment>[pəˈteɪtəʊ]</comment>
+    <uuid>89322440-7de0-441b-b263-aa9bfecd3fac</uuid>
+  </card>
+  <card>
+    <question>repair</question>
+    <answer>ремонтировать, чинить</answer>
+    <comment>[rɪˈpeə]</comment>
+    <uuid>e4cb1623-fb4f-41df-b366-c2e2b50d1a25</uuid>
+  </card>
+</cards>
+</stack>
