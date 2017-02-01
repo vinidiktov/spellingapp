@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>9c7e41bd-b724-4cb3-9cad-1ec74620cb3b</uuid>
+  <title>Приветствия</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>adiós</question>
+    <answer>до свидания</answer>
+    <comment></comment>
+    <uuid>23346250-4725-41fd-ac4e-f7d26c6f018d</uuid>
+  </card>
+  <card>
+    <question>hola</question>
+    <answer>здравствуй(те)</answer>
+    <comment></comment>
+    <uuid>3068649c-f25c-4123-a5bc-7fdc8f96a818</uuid>
+  </card>
+  <card>
+    <question>abrazar</question>
+    <answer>обнимать(ся)</answer>
+    <comment></comment>
+    <uuid>2c237fa7-b9f5-4cd5-81a7-c7f9e0f7034c</uuid>
+  </card>
+  <card>
+    <question>besar</question>
+    <answer>целовать(ся)</answer>
+    <comment></comment>
+    <uuid>6cf75d6a-c2ac-4891-b9e4-0abf3314efd9</uuid>
+  </card>
+  <card>
+    <question>dar la mano</question>
+    <answer>здороваться за руку</answer>
+    <comment></comment>
+    <uuid>63e22d2f-849a-4803-9978-6f2b81a9c835</uuid>
+  </card>
+  <card>
+    <question>saludar</question>
+    <answer>махать</answer>
+    <comment></comment>
+    <uuid>c6cde3f5-1fb0-404b-b59f-ce9405afe952</uuid>
+  </card>
+</cards>
+</stack>

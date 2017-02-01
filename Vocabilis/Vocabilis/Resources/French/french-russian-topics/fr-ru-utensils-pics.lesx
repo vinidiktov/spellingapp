@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dc47dab2-57c7-48ae-9648-fcb8b22140b3</uuid>
+  <title>Столовые принадлежности</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le bol</question>
+    <answer>миска</answer>
+    <comment></comment>
+    <answer_picture>bowl.gif</answer_picture>
+    <uuid>ef7759ba-1e5a-42af-ad87-0c88b5e1372b</uuid>
+  </card>
+  <card>
+    <question>l&apos;ouvre-boîte</question>
+    <answer>консервный нож</answer>
+    <comment></comment>
+    <answer_picture>can_opener.gif</answer_picture>
+    <uuid>5508ce18-6613-4e8a-bea1-c583bd2abd86</uuid>
+  </card>
+  <card>
+    <question>les baguettes</question>
+    <answer>палочки для еды</answer>
+    <comment></comment>
+    <answer_picture>chopsticks.gif</answer_picture>
+    <uuid>300e7580-d9d4-4453-953c-3b40e4e27275</uuid>
+  </card>
+  <card>
+    <question>le couperet</question>
+    <answer>большой нож, секач</answer>
+    <comment></comment>
+    <answer_picture>cleaver.gif</answer_picture>
+    <uuid>2fcd3b37-061d-4a6b-9275-3f6c386efe07</uuid>
+  </card>
+  <card>
+    <question>l&apos;emporte-pièce</question>
+    <answer>формочка для печения</answer>
+    <comment></comment>
+    <answer_picture>cookie_cutter.gif</answer_picture>
+    <uuid>adc7b4c2-73e3-440f-890f-cba2703aa5b3</uuid>
+  </card>
+  <card>
+    <question>le tire-bouchon</question>
+    <answer>штопор</answer>
+    <comment></comment>
+    <answer_picture>corkscrew.gif</answer_picture>
+    <uuid>6e225ffc-1046-46ce-8d61-ae567189ddf6</uuid>
+  </card>
+  <card>
+    <question>la tasse</question>
+    <answer>чашка</answer>
+    <comment></comment>
+    <answer_picture>cup.gif</answer_picture>
+    <uuid>ef977a9c-5b47-4c09-9e5a-d35dac9af6a8</uuid>
+  </card>
+  <card>
+    <question>la planche à découper</question>
+    <answer>доска для резки хлеба</answer>
+    <comment></comment>
+    <answer_picture>cutting_board.gif</answer_picture>
+    <uuid>9898c930-b6ce-41cf-8813-74a2d06d710d</uuid>
+  </card>
+  <card>
+    <question>la fourche</question>
+    <answer>вилка</answer>
+    <comment></comment>
+    <answer_picture>fork.gif</answer_picture>
+    <uuid>77246014-6362-4998-9dc1-172bc6bbf822</uuid>
+  </card>
+  <card>
+    <question>la poêle [pwal] à frire</question>
+    <answer>сковорода</answer>
+    <comment></comment>
+    <answer_picture>frying_pan.gif</answer_picture>
+    <uuid>f2dd4169-5e7b-44d2-b12c-198cf9edbe82</uuid>
+  </card>
+  <card>
+    <question>le verre</question>
+    <answer>стакан</answer>
+    <comment></comment>
+    <answer_picture>glass.gif</answer_picture>
+    <uuid>b5e602e9-d313-4266-962c-3406b323784b</uuid>
+  </card>
+  <card>
+    <question>le couteau</question>
+    <answer>нож</answer>
+    <comment></comment>
+    <answer_picture>knife.gif</answer_picture>
+    <uuid>70610df5-8664-47d1-ad3f-a67b4dcf0def</uuid>
+  </card>
+  <card>
+    <question>la louche</question>
+    <answer>ковш, черпак</answer>
+    <comment></comment>
+    <answer_picture>ladle.gif</answer_picture>
+    <uuid>85761339-95b1-4107-a61d-7f612a8c88a4</uuid>
+  </card>
+  <card>
+    <question>la grande tasse</question>
+    <answer>кружка</answer>
+    <comment></comment>
+    <answer_picture>mug.gif</answer_picture>
+    <uuid>d6d23366-c72f-43eb-b2f4-96217b057988</uuid>
+  </card>
+  <card>
+    <question>la serviette</question>
+    <answer>салфетка</answer>
+    <comment></comment>
+    <answer_picture>napkin.gif</answer_picture>
+    <uuid>f0be11c0-6095-4d13-b454-5b7854739c59</uuid>
+  </card>
+  <card>
+    <question>l&apos;assiette</question>
+    <answer>тарелка</answer>
+    <comment></comment>
+    <answer_picture>plate.gif</answer_picture>
+    <uuid>3e7dae94-2ba8-4e2a-8b2d-1706c350d9b6</uuid>
+  </card>
+  <card>
+    <question>la cocotte</question>
+    <answer>кастрюля</answer>
+    <comment></comment>
+    <answer_picture>pot.gif</answer_picture>
+    <uuid>6725ea40-86b4-44ab-8dcc-5e1347707649</uuid>
+  </card>
+  <card>
+    <question>le tamis</question>
+    <answer>решето, сито</answer>
+    <comment></comment>
+    <answer_picture>sieve.gif</answer_picture>
+    <uuid>bec5d684-c4aa-4246-9112-14949e98b315</uuid>
+  </card>
+  <card>
+    <question>la cuillère</question>
+    <answer>ложка</answer>
+    <comment></comment>
+    <answer_picture>spoon.gif</answer_picture>
+    <uuid>cf6bac8b-c6cf-4ef3-ba19-e6d4b6e397dd</uuid>
+  </card>
+  <card>
+    <question>la théière</question>
+    <answer>чайник (для заварки)</answer>
+    <comment></comment>
+    <answer_picture>teapot.gif</answer_picture>
+    <uuid>2bda9093-e1b0-44df-94fa-24d982f86f8c</uuid>
+  </card>
+  <card>
+    <question>le verre à vin</question>
+    <answer>бокал, фужер, рюмка</answer>
+    <comment></comment>
+    <answer_picture>wineglass.gif</answer_picture>
+    <uuid>4c3c9e80-a938-4417-9820-55391d8c74b1</uuid>
+  </card>
+</cards>
+</stack>

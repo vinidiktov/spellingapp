@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>36e46370-b7bf-40db-a345-3bc389609b06</uuid>
+  <title>Сладости, кондитерские изделия</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Eis</question>
+    <answer>мороженое</answer>
+    <comment></comment>
+    <uuid>d19059b8-f6ad-4c90-92e8-3d90ab038402</uuid>
+  </card>
+  <card>
+    <question>das Eis am Stiel</question>
+    <answer>мороженое на палочке</answer>
+    <comment></comment>
+    <uuid>2faaa790-e764-4fd9-a3eb-c0b460f5a647</uuid>
+  </card>
+  <card>
+    <question>das Gebäck</question>
+    <answer>печенье, хлебобулочные изделия</answer>
+    <comment></comment>
+    <uuid>ac19c960-239c-4a62-886f-b3d0dbc031ba</uuid>
+  </card>
+  <card>
+    <question>das Marzipan</question>
+    <answer>марципан</answer>
+    <comment></comment>
+    <uuid>64d4ea3e-b54b-4101-9e14-fef95b90a8da</uuid>
+  </card>
+  <card>
+    <question>der Apfelkuchen</question>
+    <answer>яблочный пирог</answer>
+    <comment></comment>
+    <uuid>a9d17fc5-948d-47ac-868d-6480de7663ac</uuid>
+  </card>
+  <card>
+    <question>der Bonbon</question>
+    <answer>конфета</answer>
+    <comment></comment>
+    <uuid>df9fda23-7296-461b-a24f-6a8494caef13</uuid>
+  </card>
+  <card>
+    <question>der Kuchen</question>
+    <answer>пирожное</answer>
+    <comment></comment>
+    <uuid>7760cf93-5381-40c7-bbc3-3e4f3b9853d1</uuid>
+  </card>
+  <card>
+    <question>der Pflaumenkuchen</question>
+    <answer>сливовый пирог</answer>
+    <comment></comment>
+    <uuid>20cbd290-e512-4775-a1aa-c962b4a7d51a</uuid>
+  </card>
+  <card>
+    <question>der Schokoriegel</question>
+    <answer>шоколадный батон</answer>
+    <comment></comment>
+    <uuid>d2e06b73-9d88-4adf-bff4-1dcd63c62ed4</uuid>
+  </card>
+  <card>
+    <question>der Streuselkuchen</question>
+    <answer>пирог со сладкой крошкой</answer>
+    <comment></comment>
+    <uuid>318619dd-1adc-4591-9793-652f09bae16e</uuid>
+  </card>
+  <card>
+    <question>die Kekse</question>
+    <answer>кекс</answer>
+    <comment></comment>
+    <uuid>21ffe765-5430-4c00-8a5e-92e9ed23fc33</uuid>
+  </card>
+  <card>
+    <question>die Käsetorte</question>
+    <answer>торт с творожной начинкой</answer>
+    <comment></comment>
+    <uuid>300da24c-15bb-4216-83d2-adadf2508a76</uuid>
+  </card>
+  <card>
+    <question>die Praline</question>
+    <answer>шоколадная конфета с начинкой</answer>
+    <comment></comment>
+    <uuid>5dac8f25-1786-4379-bc65-f8fc6e3ae7aa</uuid>
+  </card>
+  <card>
+    <question>die Sahnetorte</question>
+    <answer>торт с заварным кремом</answer>
+    <comment></comment>
+    <uuid>d6e4e4f5-7122-4d5f-9679-9c6d2cc34ebd</uuid>
+  </card>
+  <card>
+    <question>die Schokolade</question>
+    <answer>шоколад</answer>
+    <comment></comment>
+    <uuid>e617edba-841e-4bcb-a65d-4694c2cb495e</uuid>
+  </card>
+  <card>
+    <question>die Torte</question>
+    <answer>торт</answer>
+    <comment></comment>
+    <uuid>c61a999d-a24b-4ee8-a49a-475edd584775</uuid>
+  </card>
+  <card>
+    <question>die Vollmilch-Schokolade</question>
+    <answer>шоколад из цельного молока</answer>
+    <comment></comment>
+    <uuid>7496ebeb-3557-47d5-8b68-4b7a14141dec</uuid>
+  </card>
+  <card>
+    <question>ein Stück</question>
+    <answer>кусок</answer>
+    <comment></comment>
+    <uuid>248cf07e-9574-49b1-ad86-c969540f875c</uuid>
+  </card>
+  <card>
+    <question>ein Stück Schokolade</question>
+    <answer>кусочек шоколада</answer>
+    <comment></comment>
+    <uuid>45284e4b-e53a-4d4b-93c6-728c3384587d</uuid>
+  </card>
+  <card>
+    <question>eine Portion Eis</question>
+    <answer>порция мороженого</answer>
+    <comment></comment>
+    <uuid>4c3539ee-0c77-4856-99c5-9f2550f45a20</uuid>
+  </card>
+  <card>
+    <question>eine Tafel Schokolade</question>
+    <answer>плитка шоколада</answer>
+    <comment></comment>
+    <uuid>71165bc1-2bca-422c-b130-95b9fa038e1d</uuid>
+  </card>
+  <card>
+    <question>Erdbeer?</question>
+    <answer>Клубничное? (мороженое)</answer>
+    <comment></comment>
+    <uuid>7c34cb42-0679-4dc4-b66c-b5b9fe1b1d46</uuid>
+  </card>
+  <card>
+    <question>mit Schlafsahne</question>
+    <answer>со взбитыми сливками</answer>
+    <comment></comment>
+    <uuid>c249e37c-4426-48fe-ad04-2da0597c364d</uuid>
+  </card>
+  <card>
+    <question>Nuß?</question>
+    <answer>Ореховое? (мороженое)</answer>
+    <comment></comment>
+    <uuid>2f2685c8-71c5-403b-a704-c41cea4c8b4f</uuid>
+  </card>
+  <card>
+    <question>Schwarzwälder Kirschtorte</question>
+    <answer>вишневый торт &quot;Шварцвельдер&quot;</answer>
+    <comment></comment>
+    <uuid>2989fa79-c4cd-45ee-8a82-f86699884186</uuid>
+  </card>
+  <card>
+    <question>Vanille?</question>
+    <answer>Ванильное? (мороженое)</answer>
+    <comment></comment>
+    <uuid>f3b53c05-877a-4e80-ba4f-81f4054d7f92</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>460e8843-e851-4a57-9043-c6808425181e</uuid>
+  <title>В гостинице. Часть 2 :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>taxi</question>
+    <answer>такси</answer>
+    <comment>[ˈtæksiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7c788e68-a432-4032-ae6f-677f7b9a10d8</uuid>
+    <examples>
+       <example>
+          <value>to order a taxi</value>
+          <translation>заказать такси</translation>
+          <comment>to order - заказать, taxi - такси</comment>
+       </example>
+       <example>
+          <value>a taxi stand</value>
+          <translation>стоянка такси</translation>
+          <comment>taxi - такси, stand - стоянка</comment>
+       </example>
+       <example>
+          <value>to call a taxi</value>
+          <translation>вызвать такси</translation>
+          <comment>to call - звонить, вызывать, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to find a taxi</value>
+          <translation>найти такси</translation>
+          <comment>to find - найти, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to get somebody a taxi</value>
+          <translation>вызвать кому-либо такси</translation>
+          <comment>to get - доставать, получать, somebody - кто-либо, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to have the number for a taxi</value>
+          <translation>иметь номер телефона такси</translation>
+          <comment>to have - иметь, number - номер, taxi - такси</comment>
+       </example>
+       <example>
+          <value>in a taxi</value>
+          <translation>в такси</translation>
+          <comment>taxi - такси</comment>
+       </example>
+       <example>
+          <value>to leave in a taxi</value>
+          <translation>оставить в такси</translation>
+          <comment>to leave - оставлять, taxi - такси</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>repair</question>
+    <answer>ремонтировать</answer>
+    <comment>[rɪˈper]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4e42c0bb-7a89-47fa-8399-84534c2e7ea4</uuid>
+    <examples>
+       <example>
+          <value>to have my electric shaver repaired</value>
+          <translation>отдать в починку мою бритву</translation>
+          <comment>to have - иметь, electric - электрический, shaver - бритва, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+       <example>
+          <value>to have my shoes repaired</value>
+          <translation>отдать в ремонт мои туфли</translation>
+          <comment>to have - иметь, shoes - туфли, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+       <example>
+          <value>to have my watch repaired</value>
+          <translation>отдать в починку мои часы</translation>
+          <comment>to have - иметь, watch - часы, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+       <example>
+          <value>the cost of repairs</value>
+          <translation>стоимость ремонта</translation>
+          <comment>cost - стоимость, repairs - ремонт</comment>
+       </example>
+       <example>
+          <value>to repair the brakes</value>
+          <translation>отремонтировать тормоз</translation>
+          <comment>to repair - ремонтировать, brake - тормоз</comment>
+       </example>
+       <example>
+          <value>to repair the carburettor</value>
+          <translation>отремонтировать карбюратор</translation>
+          <comment>to repair - ремонтировать, carburettor - карбюратор</comment>
+       </example>
+       <example>
+          <value>to repair the clutch</value>
+          <translation>отремонтировать сцепление</translation>
+          <comment>to repair - ремонтировать, clutch - сцепление</comment>
+       </example>
+       <example>
+          <value>to repair the ignition</value>
+          <translation>отремонтировать зажигание</translation>
+          <comment>to repair - ремонтировать, ignition - зажигание</comment>
+       </example>
+       <example>
+          <value>to repair the shock absorber</value>
+          <translation>отремонтировать амортизатор</translation>
+          <comment>to repair - ремонтировать, shock absorber - амортизатор</comment>
+       </example>
+       <example>
+          <value>to repair your denture</value>
+          <translation>отремонтировать (твой) протез</translation>
+          <comment>to repair - отремонтировать, denture - протез</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>seven</question>
+    <answer>семь</answer>
+    <comment>[ˈsevən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82574923-d3d4-4251-ba9e-c55b979d4187</uuid>
+    <examples>
+       <example>
+          <value>to wake me at seven a.m.</value>
+          <translation>разбудить меня в семь часов утра</translation>
+          <comment>to wake - будить, seven - семь, a.m. - до полудня</comment>
+       </example>
+       <example>
+          <value>a child of seven</value>
+          <translation>ребенок семи лет</translation>
+          <comment>child - ребенок, seven - семь</comment>
+       </example>
+       <example>
+          <value>at seven o&apos;clock</value>
+          <translation>в 7 часов</translation>
+          <comment>seven - семь, o&apos;clock - часы (время)</comment>
+       </example>
+       <example>
+          <value>at seven p.m.</value>
+          <translation>в 7 часов вечера</translation>
+          <comment>seven - семь, p.m. - после полудня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>extra</question>
+    <answer>дополнительный</answer>
+    <comment>[ˈekstrə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>217648c8-51d6-417d-85d1-a29d2e093f7b</uuid>
+    <examples>
+       <example>
+          <value>an extra pillow</value>
+          <translation>еще одна подушка</translation>
+          <comment>extra - дополнительный, pillow - подушка</comment>
+       </example>
+       <example>
+          <value>an extra towel</value>
+          <translation>еще одно полотенце</translation>
+          <comment>extra - дополнительный, towel - полотенце</comment>
+       </example>
+       <example>
+          <value>an extra large</value>
+          <translation>очень большой размер</translation>
+          <comment>extra - особо, особенно, large - большой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bring</question>
+    <answer>приносить</answer>
+    <comment>[brɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d7807e2-9def-4265-b076-10bc93691b0c</uuid>
+    <examples>
+       <example>
+          <value>to bring my breakfast</value>
+          <translation>принести мой завтрак</translation>
+          <comment>to bring - приносить, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to bring to the room</value>
+          <translation>принести в номер</translation>
+          <comment>to bring - приносить, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to bring a fork</value>
+          <translation>принести вилку</translation>
+          <comment>to bring - принести, fork - вилка</comment>
+       </example>
+       <example>
+          <value>to bring a glass</value>
+          <translation>принести бокал</translation>
+          <comment>to bring - приносить, glass - бокал</comment>
+       </example>
+       <example>
+          <value>to bring a knife</value>
+          <translation>принести нож</translation>
+          <comment>to bring - принести, knife - нож</comment>
+       </example>
+       <example>
+          <value>to bring a spoon</value>
+          <translation>принести ложку</translation>
+          <comment>to bring - принести, spoon - ложка</comment>
+       </example>
+       <example>
+          <value>to bring a wineglass</value>
+          <translation>принести рюмку</translation>
+          <comment>to bring - принести, wineglass - бокал; рюмка</comment>
+       </example>
+       <example>
+          <value>to bring an ashtray</value>
+          <translation>принести пепельницу</translation>
+          <comment>to bring - принести, ashtray - пепельница</comment>
+       </example>
+       <example>
+          <value>to bring one more chair</value>
+          <translation>принести еще один стул</translation>
+          <comment>to bring - принести, one more - еще один, chair - стул</comment>
+       </example>
+       <example>
+          <value>to bring one more setting</value>
+          <translation>принести еще один прибор</translation>
+          <comment>to bring - принести, one more - еще один, setting - прибор (столовый)</comment>
+       </example>
+       <example>
+          <value>to bring the bill</value>
+          <translation>принести счет</translation>
+          <comment>to bring - принести, bill - счет</comment>
+       </example>
+       <example>
+          <value>to bring some tea</value>
+          <translation>принести чай</translation>
+          <comment>to bring - принести, some - некоторое количество, tea - чай</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shoes</question>
+    <answer>туфли</answer>
+    <comment>[ʃuːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>380155c7-4854-4910-8cbf-39e99216ec75</uuid>
+    <examples>
+       <example>
+          <value>to have my shoes repaired</value>
+          <translation>отдать в ремонт мои туфли</translation>
+          <comment>to have - иметь, shoes - туфли, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+       <example>
+          <value>low shoes</value>
+          <translation>полуботинки</translation>
+          <comment>low - низкий, shoes - туфли, полуботинки</comment>
+       </example>
+       <example>
+          <value>not expensive shoes</value>
+          <translation>недорогие туфли</translation>
+          <comment>expensive - дорогой, shoe - туфля</comment>
+       </example>
+       <example>
+          <value>to try on some shoes</value>
+          <translation>примерить туфли</translation>
+          <comment>to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>want</question>
+    <answer>хотеть</answer>
+    <comment>[wɑːnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>36e245b0-22d9-4068-a913-9d815b26735f</uuid>
+    <examples>
+       <example>
+          <value>to want to order</value>
+          <translation>хотеть заказать</translation>
+          <comment>to want - хотеть, to order - заказать</comment>
+       </example>
+       <example>
+          <value>to want black coffee</value>
+          <translation>хотеть черный кофе</translation>
+          <comment>to want - хотеть, black - черный, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to want for dessert</value>
+          <translation>хотеть на десерт</translation>
+          <comment>to want - хотеть, dessert - десерт</comment>
+       </example>
+       <example>
+          <value>to want to eat</value>
+          <translation>хотеть съесть</translation>
+          <comment>to want - хотеть, to eat - есть, кушать</comment>
+       </example>
+       <example>
+          <value>to want to reserve</value>
+          <translation>хотеть забронировать</translation>
+          <comment>to want - хотеть, to reserve - забронировать</comment>
+       </example>
+       <example>
+          <value>to want to rent</value>
+          <translation>хотеть арендовать</translation>
+          <comment>to want - хотеть, to rent - арендовать</comment>
+       </example>
+       <example>
+          <value>to want to buy</value>
+          <translation>хотеть купить</translation>
+          <comment>to want - хотеть, to buy - купить</comment>
+       </example>
+       <example>
+          <value>to want it pulled out</value>
+          <translation>хотеть, чтобы его (зуб) вырвали</translation>
+          <comment>to want - хотеть, to pull out - вытянуть, вырывать</comment>
+       </example>
+       <example>
+          <value>to want to go to the movies</value>
+          <translation>хотеть пойти в кино</translation>
+          <comment>to want - хотеть, to go - ехать, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>to want something for a gift</value>
+          <translation>хотеть что-нибудь в качестве подарка</translation>
+          <comment>to want - хотеть, something - что-нибудь, gift - подарок</comment>
+       </example>
+       <example>
+          <value>to want a chicken</value>
+          <translation>хотеть курицу</translation>
+          <comment>to want - хотеть, chicken - курица, цыпленок</comment>
+       </example>
+       <example>
+          <value>to want beef</value>
+          <translation>хотеть говядину</translation>
+          <comment>to want - хотеть, beef - говядина</comment>
+       </example>
+       <example>
+          <value>to want lamb</value>
+          <translation>хотеть баранину</translation>
+          <comment>to want - хотеть, lamb - баранина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wash</question>
+    <answer>мыть</answer>
+    <comment>[wɑːʃ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e3223068-fac4-4694-a8f0-996f0335fb55</uuid>
+    <examples>
+       <example>
+          <value>to have my linen washed</value>
+          <translation>отдать в стирку белье</translation>
+          <comment>to have - иметь, linen - белье, washed - постиранный, to wash - стирать</comment>
+       </example>
+       <example>
+          <value>to wash this shirt</value>
+          <translation>выстирать эту рубашку</translation>
+          <comment>to wash - стирать, shirt - рубашка</comment>
+       </example>
+       <example>
+          <value>to have my car washed</value>
+          <translation>отдать мою машину в автомойку</translation>
+          <comment>to have - иметь, my - мой, моя, car - машина, washed - помытый, to wash - мыть</comment>
+       </example>
+       <example>
+          <value>to wash the car</value>
+          <translation>помыть машину</translation>
+          <comment>to wash - мыть, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bag</question>
+    <answer>сумка</answer>
+    <comment>[bæg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a51a8dd-1e10-438b-a25b-d427bb79a2fd</uuid>
+    <examples>
+       <example>
+          <value>to take this bag</value>
+          <translation>отнести (взять) эту сумку</translation>
+          <comment>to take - брать, this - этот, эта, bag - сумка</comment>
+       </example>
+       <example>
+          <value>to leave your bag</value>
+          <translation>забыть (твою) сумку</translation>
+          <comment>to leave - оставлять, bag - сумка</comment>
+       </example>
+       <example>
+          <value>to snatch out your bag</value>
+          <translation>выхватить твою сумку</translation>
+          <comment>to snatch - хватать, bag - сумка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>blocked</question>
+    <answer>засоренный</answer>
+    <comment>[blɑːkt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e898158f-a224-4d98-8a13-ed8b227683dc</uuid>
+    <examples>
+       <example>
+          <value>a blocked bathtub</value>
+          <translation>засорившаяся ванная</translation>
+          <comment>blocked - засоренный, bathtub - ванна</comment>
+       </example>
+       <example>
+          <value>a blocked shower</value>
+          <translation>засорившийся душ</translation>
+          <comment>blocked - засоренный, shower - душ</comment>
+       </example>
+       <example>
+          <value>a blocked sink</value>
+          <translation>засорившаяся раковина</translation>
+          <comment>blocked - засоренный, sink - раковина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sheet</question>
+    <answer>простыня</answer>
+    <comment>[ʃiːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a6c928f2-b454-4090-9e18-cf2dbc235910</uuid>
+    <examples>
+       <example>
+          <value>to change the sheets</value>
+          <translation>сменить простыни</translation>
+          <comment>to change - менять, sheet - простыня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shirt</question>
+    <answer>рубашка</answer>
+    <comment>[ʃɜːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f5bf1bf-99ff-4e88-9963-d3c2530bd8f0</uuid>
+    <examples>
+       <example>
+          <value>to wash this shirt</value>
+          <translation>выстирать эту рубашку</translation>
+          <comment>to wash - стирать, shirt - рубашка</comment>
+       </example>
+       <example>
+          <value>to press this shirt</value>
+          <translation>погладить эту рубашку</translation>
+          <comment>to press - гладить, shirt - рубашка</comment>
+       </example>
+       <example>
+          <value>white T-shirts</value>
+          <translation>белые футболки</translation>
+          <comment>white - белый, T-shirt - футболка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clock</question>
+    <answer>часы</answer>
+    <comment>[klɑːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9e2ee0c4-a00f-4d9e-8f6d-efa72d1f6cca</uuid>
+    <examples>
+       <example>
+          <value>for five o&apos;clock</value>
+          <translation>на пять часов</translation>
+          <comment>to order - заказать, taxi - такси, five - пять, o&apos;clock - часы (время)</comment>
+       </example>
+       <example>
+          <value>at seven o&apos;clock</value>
+          <translation>в 7 часов</translation>
+          <comment>seven - семь, o&apos;clock - часы (время)</comment>
+       </example>
+       <example>
+          <value>eight o&apos;clock</value>
+          <translation>восемь часов</translation>
+          <comment>eight - восемь, o&apos;clock - часы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>give</question>
+    <answer>давать</answer>
+    <comment>[gɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf133cf0-b8c0-4f13-9bde-7a7cb4e84d43</uuid>
+    <examples>
+       <example>
+          <value>to give you a needle</value>
+          <translation>дать тебе иголку</translation>
+          <comment>to give - давать, needle - игла</comment>
+       </example>
+       <example>
+          <value>to give you an ashtray</value>
+          <translation>дать тебе пепельницу</translation>
+          <comment>to give - давать, ashtray - пепельница</comment>
+       </example>
+       <example>
+          <value>to give you the key</value>
+          <translation>дать тебе ключ</translation>
+          <comment>to give - давать, key - ключ</comment>
+       </example>
+       <example>
+          <value>to give something to drink</value>
+          <translation>дать что-нибудь попить</translation>
+          <comment>to give - дать, something - что-либо, to drink - пить</comment>
+       </example>
+       <example>
+          <value>to give a ride home</value>
+          <translation>отвезти домой</translation>
+          <comment>to give - давать, ride - поездка, home - дом</comment>
+       </example>
+       <example>
+          <value>to give two stamps</value>
+          <translation>дать две марки</translation>
+          <comment>to give - давать, two - два, stamp - марка</comment>
+       </example>
+       <example>
+          <value>to give a prescription</value>
+          <translation>выписать рецепт</translation>
+          <comment>to give - дать, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>to give an anesthetic</value>
+          <translation>сделать обезболивание</translation>
+          <comment>to give - дать, anesthetic - обезболивающее</comment>
+       </example>
+       <example>
+          <value>to give a program</value>
+          <translation>дать программку</translation>
+          <comment>to give - дать, program - программка</comment>
+       </example>
+       <example>
+          <value>to give a concert</value>
+          <translation>давать концерт</translation>
+          <comment>to give - давать, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to give a discount</value>
+          <translation>давать скидку</translation>
+          <comment>to give - давать, discount - скидка</comment>
+       </example>
+       <example>
+          <value>to give a lighter</value>
+          <translation>дать зажигалку</translation>
+          <comment>to give - давать, lighter - зажигалка</comment>
+       </example>
+       <example>
+          <value>to give postcards</value>
+          <translation>давать открытки</translation>
+          <comment>to give - давать, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>to give a remedy for weight loss</value>
+          <translation>давать средство для похудения</translation>
+          <comment>to give - давать, remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+       <example>
+          <value>to give a sedative</value>
+          <translation>давать болеутоляющее</translation>
+          <comment>to give - давать, sedative - болеутоляющее</comment>
+       </example>
+       <example>
+          <value>to give multiminerals</value>
+          <translation>давать мультиминералы</translation>
+          <comment>to give - давать, multiminerals - мультиминералы</comment>
+       </example>
+       <example>
+          <value>to give multivitamins</value>
+          <translation>давать поливитамины</translation>
+          <comment>to give - давать, multivitamins - поливитамины</comment>
+       </example>
+       <example>
+          <value>to give something for a cold</value>
+          <translation>давать что-нибудь от насморка</translation>
+          <comment>to give - давать, something - что-нибудь, cold - простуда</comment>
+       </example>
+       <example>
+          <value>to give something for a cough</value>
+          <translation>давать что-нибудь от кашля</translation>
+          <comment>to give - давать, something - что-нибудь, cough - кашель</comment>
+       </example>
+       <example>
+          <value>to give something for a headache</value>
+          <translation>давать что-нибудь от головной боли</translation>
+          <comment>to give - давать, something - что-нибудь, headache - головная боль</comment>
+       </example>
+       <example>
+          <value>to give something for stomach aches</value>
+          <translation>давать что-нибудь от болей в желудке</translation>
+          <comment>to give - давать, something - что-нибудь, stomach - желудок, ache - боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two</question>
+    <answer>два</answer>
+    <comment>[tuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>52baf308-b790-4199-bb73-e259c58a5443</uuid>
+    <examples>
+       <example>
+          <value>supper for two</value>
+          <translation>ужин на двоих</translation>
+          <comment>supper - ужин, two - два</comment>
+       </example>
+       <example>
+          <value>two tickets</value>
+          <translation>два билета</translation>
+          <comment>two - два, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to give two stamps</value>
+          <translation>дать две марки</translation>
+          <comment>to give - давать, two - два, stamp - марка</comment>
+       </example>
+       <example>
+          <value>two stamps</value>
+          <translation>две марки</translation>
+          <comment>two - два, stamp - марка</comment>
+       </example>
+       <example>
+          <value>to reserve two tickets</value>
+          <translation>заказать два билета</translation>
+          <comment>to reserve - заказать, two - два, ticket - билет</comment>
+       </example>
+       <example>
+          <value>two seats in the amphitheater</value>
+          <translation>два билета в амфитеатре</translation>
+          <comment>two - два, seat - место, amphitheater - амфитеатр</comment>
+       </example>
+       <example>
+          <value>two seats in the box</value>
+          <translation>два билета в ложе</translation>
+          <comment>two - два, seat - место, box - ложа в театре</comment>
+       </example>
+       <example>
+          <value>two seats in the dress circle</value>
+          <translation>два билета в бельэтаже</translation>
+          <comment>two - два, seat - место, dress circle - бельэтаж</comment>
+       </example>
+       <example>
+          <value>two seats in the gallery</value>
+          <translation>два билета на галерке</translation>
+          <comment>two - два, seat - место, gallery - галерка в театре</comment>
+       </example>
+       <example>
+          <value>two seats in the orchestra</value>
+          <translation>два билета в партере</translation>
+          <comment>two - два, seat - место, orchestra - партер в театре</comment>
+       </example>
+       <example>
+          <value>two tickets for Saturday evening</value>
+          <translation>два билета на вечерний сеанс в субботу</translation>
+          <comment>two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+       <example>
+          <value>two tickets for tonight&apos;s performance</value>
+          <translation>два билета на сегодняшний вечерний спектакль</translation>
+          <comment>two - два, ticket - билет, tonight - сегодня вечером, performance - спектакль</comment>
+       </example>
+       <example>
+          <value>two tickets in the stalls</value>
+          <translation>два билета в партер</translation>
+          <comment>two - два, ticket - билет, the stalls - партер в театре</comment>
+       </example>
+       <example>
+          <value>two tickets for this show</value>
+          <translation>два билета на этот сеанс</translation>
+          <comment>two - два, ticket - билет, this - этот, эта, show - показ, сеанс</comment>
+       </example>
+       <example>
+          <value>two hundred grams</value>
+          <translation>двести граммов</translation>
+          <comment>two - два, hundred - сто, gram - грамм</comment>
+       </example>
+       <example>
+          <value>two hundred grams of ham</value>
+          <translation>двести граммов ветчины</translation>
+          <comment>two - два, hundred - сто, gram - грамм, ham - ветчина</comment>
+       </example>
+       <example>
+          <value>two large bunches of grapes</value>
+          <translation>две большие грозди винограда</translation>
+          <comment>two - два, large - большой, bunch - гроздь, grapes - виноград</comment>
+       </example>
+       <example>
+          <value>two pork chops</value>
+          <translation>две свиные отбивные</translation>
+          <comment>two - два, pork - свинина, chop - отбивная</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>send</question>
+    <answer>посылать</answer>
+    <comment>[send]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>00ae30ad-3eca-4521-bc9f-9f6dc724d883</uuid>
+    <examples>
+       <example>
+          <value>to send a technician</value>
+          <translation>прислать мастера</translation>
+          <comment>to send - послать, technician - техник</comment>
+       </example>
+       <example>
+          <value>to send somebody</value>
+          <translation>прислать кого-либо</translation>
+          <comment>to send - послать, somebody - кто-нибудь</comment>
+       </example>
+       <example>
+          <value>to send me a mechanic</value>
+          <translation>прислать мне механика</translation>
+          <comment>to send - послать, mechanic - механик</comment>
+       </example>
+       <example>
+          <value>to send a letter</value>
+          <translation>отправить письмо</translation>
+          <comment>to send - послать, letter - письмо</comment>
+       </example>
+       <example>
+          <value>to send a money order</value>
+          <translation>отправить денежный перевод</translation>
+          <comment>to send - послать, money - деньги, order - ордер, заказ</comment>
+       </example>
+       <example>
+          <value>to send a telegram</value>
+          <translation>послать телеграмму</translation>
+          <comment>to send - послать, telegram - телеграмма</comment>
+       </example>
+       <example>
+          <value>to send general delivery</value>
+          <translation>отправить до востребования</translation>
+          <comment>to send - послать, general - общий, delivery - доставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hot</question>
+    <answer>горячий</answer>
+    <comment>[hɑːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2b3dea08-f179-4f2d-a402-7a1d4aeb8295</uuid>
+    <examples>
+       <example>
+          <value>hot water</value>
+          <translation>горячая вода</translation>
+          <comment>hot - горячий, water - вода</comment>
+       </example>
+       <example>
+          <value>a cup of hot chocolate</value>
+          <translation>чашка горячего шоколада</translation>
+          <comment>cup - чашка, hot - горячий, chocolate - шоколад</comment>
+       </example>
+       <example>
+          <value>to wait for the hot dish</value>
+          <translation>ждать горячее</translation>
+          <comment>to wait - ждать, hot - горячий, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>a hot day</value>
+          <translation>жаркий день</translation>
+          <comment>hot - жаркий, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shaver</question>
+    <answer>бритва</answer>
+    <comment>[ˈʃeɪvər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b84d5a22-0ba1-49bb-ac46-32995366ea20</uuid>
+    <examples>
+       <example>
+          <value>the outlet for the shaver</value>
+          <translation>розетка для бритвы</translation>
+          <comment>outlet - розетка, shaver - бритва</comment>
+       </example>
+       <example>
+          <value>to have my electric shaver repaired</value>
+          <translation>отдать в починку мою бритву</translation>
+          <comment>to have - иметь, electric - электрический, shaver - бритва, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>soap</question>
+    <answer>мыло</answer>
+    <comment>[soʊp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d61e48bd-50ed-4f30-a5f5-c992466e4bc2</uuid>
+    <examples>
+       <example>
+          <value>a bar of soap</value>
+          <translation>кусок мыла</translation>
+          <comment>bar - кусок, soap - мыло</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pants</question>
+    <answer>брюки</answer>
+    <comment>[pænts]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d881e6a8-9bdb-40fa-9be2-fde2b344fca2</uuid>
+    <examples>
+       <example>
+          <value>to have my pants pressed</value>
+          <translation>отдать погладить брюки</translation>
+          <comment>to have - иметь, pants - брюки, pressed - отглаженный, to press - гладить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>needle</question>
+    <answer>игла</answer>
+    <comment>[ˈniːdl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7a4c4b47-be03-4389-9bfd-382553f05654</uuid>
+    <examples>
+       <example>
+          <value>a needle with a thread</value>
+          <translation>иголка с ниткой</translation>
+          <comment>needle - игла, thread - нитка</comment>
+       </example>
+       <example>
+          <value>to give you a needle</value>
+          <translation>дать тебе иголку</translation>
+          <comment>to give - давать, needle - игла</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>electric</question>
+    <answer>электрический</answer>
+    <comment>[ɪˈlektrɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>30415c59-07b1-4778-bf6b-09eb7a9bbd15</uuid>
+    <examples>
+       <example>
+          <value>to have my electric shaver repaired</value>
+          <translation>отдать в починку мою бритву</translation>
+          <comment>to have - иметь, electric - электрический, shaver - бритва, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hairdresser</question>
+    <answer>парикмахерская (для женщин)</answer>
+    <comment>[ˈherˌdresər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a07b71ce-9417-45a2-81fa-6c7a76c810db</uuid>
+    <examples>
+       <example>
+          <value>the nearest hairdresser</value>
+          <translation>ближайшая парикмахерская (для женщин)</translation>
+          <comment>the nearest - ближайший, near - рядом с, hairdresser - парикмахерская (для женщин)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wake</question>
+    <answer>будить</answer>
+    <comment>[weɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a7ea00d1-db89-438b-a7a1-6c89151025a5</uuid>
+    <examples>
+       <example>
+          <value>to wake me at seven a.m.</value>
+          <translation>разбудить меня в семь часов утра</translation>
+          <comment>to wake - будить, seven - семь, a.m. - до полудня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>watch</question>
+    <answer>часы</answer>
+    <comment>[wɑːʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c0c58f14-bbf8-4423-8ea9-8cde416e109a</uuid>
+    <examples>
+       <example>
+          <value>to have my watch repaired</value>
+          <translation>отдать в починку мои часы</translation>
+          <comment>to have - иметь, watch - часы, repaired - отремонтированный, to repair - ремонтировать</comment>
+       </example>
+       <example>
+          <value>an accurate watch</value>
+          <translation>точные часы</translation>
+          <comment>accurate - точный, watch - часы</comment>
+       </example>
+       <example>
+          <value>My watch is slow.</value>
+          <translation>Мои часы отстают.</translation>
+          <comment>watch - часы, slow - медленный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>who</question>
+    <answer>кто</answer>
+    <comment>[huː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9f4cc5bc-d6c3-4635-ae5a-7cd15c885acd</uuid>
+    <examples>
+       <example>
+          <value>Who&apos;s there?</value>
+          <translation>Кто там?</translation>
+          <comment>who - кто, there - там</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>serve</question>
+    <answer>подавать (к столу)</answer>
+    <comment>[sɜːrv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7593a327-1188-4491-aa8e-5c65bec82dbc</uuid>
+    <examples>
+       <example>
+          <value>to serve breakfast</value>
+          <translation>подавать завтрак</translation>
+          <comment>serve - подавать (к столу), breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to serve coffee in a coffee pot</value>
+          <translation>подавать кофе в кофейнике</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, coffee pot - кофейник</comment>
+       </example>
+       <example>
+          <value>to serve coffee in cups</value>
+          <translation>подавать кофе в чашках</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, cup - чашка</comment>
+       </example>
+       <example>
+          <value>to serve coffee</value>
+          <translation>подавать кофе</translation>
+          <comment>to serve - подавать, coffee - кофе</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>water</question>
+    <answer>вода</answer>
+    <comment>[ˈwɔːtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53857d45-d2cb-4cc0-97bb-c490492c6d88</uuid>
+    <examples>
+       <example>
+          <value>hot water</value>
+          <translation>горячая вода</translation>
+          <comment>hot - горячий, water - вода</comment>
+       </example>
+       <example>
+          <value>a bottle of mineral water</value>
+          <translation>бутылка минеральной воды</translation>
+          <comment>bottle - бутылка, mineral - минеральный, water - вода</comment>
+       </example>
+       <example>
+          <value>mineral water</value>
+          <translation>минеральная вода</translation>
+          <comment>mineral - минеральный, water - вода</comment>
+       </example>
+       <example>
+          <value>a decanter of water</value>
+          <translation>графин воды</translation>
+          <comment>decanter - графин, water - вода</comment>
+       </example>
+       <example>
+          <value>water with ice</value>
+          <translation>вода со льдом</translation>
+          <comment>water - вода, ice - лед</comment>
+       </example>
+       <example>
+          <value>mineral water without gas</value>
+          <translation>минеральная вода без газа</translation>
+          <comment>mineral - минеральный, water - вода, without - без, gas - газ</comment>
+       </example>
+       <example>
+          <value>water temperature</value>
+          <translation>температура воды</translation>
+          <comment>water - вода, temperature - температура</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>baggage</question>
+    <answer>багаж</answer>
+    <comment>[ˈbægɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f61dafb3-acf6-4c9c-97bb-c836708144cc</uuid>
+    <examples>
+       <example>
+          <value>to take my baggage</value>
+          <translation>отнести (взять) мой багаж</translation>
+          <comment>to take - брать, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>excess baggage</value>
+          <translation>перевес багажа</translation>
+          <comment>excess - избыточный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>the loss of baggage</value>
+          <translation>пропажа багажа</translation>
+          <comment>loss - пропажа, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>the lost baggage</value>
+          <translation>утерянный багаж</translation>
+          <comment>lost - утерянный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to lose baggage</value>
+          <translation>потерять багаж</translation>
+          <comment>to lose - терять, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to apply for the lost baggage</value>
+          <translation>обратиться по поводу пропажи багажа</translation>
+          <comment>to apply (for) - подавать заявление (на), lost - потерянный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>My baggage is insured.</value>
+          <translation>Мой багаж застрахован.</translation>
+          <comment>baggage - багаж, to insure - страховать</comment>
+       </example>
+       <example>
+          <value>to insure your baggage</value>
+          <translation>застраховать свой (=твой) багаж</translation>
+          <comment>to insure - страховать, your - твой, ваш, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to pay for the excess baggage</value>
+          <translation>доплатить за перевес багажа</translation>
+          <comment>to pay - платить, excess - избыточный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to receive baggage</value>
+          <translation>получать багаж</translation>
+          <comment>to receive - получать, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to register as baggage</value>
+          <translation>сдать в багаж</translation>
+          <comment>to register - регистрировать, as - в качестве, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>the baggage car</value>
+          <translation>багажный вагон</translation>
+          <comment>baggage - багаж, car - вагон</comment>
+       </example>
+       <example>
+          <value>to check my baggage</value>
+          <translation>сдать свои вещи в багаж</translation>
+          <comment>check - сдавать, my - мой, моя, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to receive my baggage</value>
+          <translation>получить свой багаж</translation>
+          <comment>to receive - получать, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>barber</question>
+    <answer>парикмахерская (для мужчин)</answer>
+    <comment>[ˈbɑːrbər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b292971-2a99-4866-bedc-027fde78f65d</uuid>
+    <examples>
+       <example>
+          <value>the nearest barber</value>
+          <translation>ближайшая парикмахерская (для мужчин)</translation>
+          <comment>the nearest - ближайший, near - рядом с, barber - парикмахерская (для мужчин)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sink</question>
+    <answer>раковина</answer>
+    <comment>[sɪŋk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>40334d67-fc34-4b08-a8ea-6a456927b555</uuid>
+    <examples>
+       <example>
+          <value>a blocked sink</value>
+          <translation>засорившаяся раковина</translation>
+          <comment>blocked - засоренный, sink - раковина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>key</question>
+    <answer>ключ</answer>
+    <comment>[kiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d2759089-974a-4769-b671-a4c1e55ff869</uuid>
+    <examples>
+       <example>
+          <value>the key to my room</value>
+          <translation>ключ от моего номера</translation>
+          <comment>key - ключ, my - мой, моя, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to give you the key</value>
+          <translation>дать тебе ключ</translation>
+          <comment>to give - давать, key - ключ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>supper</question>
+    <answer>ужин</answer>
+    <comment>[ˈsʌpər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae0fdfa3-89e7-4556-908d-3fbaacb2f982</uuid>
+    <examples>
+       <example>
+          <value>supper for two</value>
+          <translation>ужин на двоих</translation>
+          <comment>supper - ужин, two - два</comment>
+       </example>
+       <example>
+          <value>to order supper</value>
+          <translation>заказать ужин</translation>
+          <comment>to order - заказать, supper - ужин</comment>
+       </example>
+       <example>
+          <value>to have supper</value>
+          <translation>ужинать</translation>
+          <comment>to have - иметь, supper - ужин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>press</question>
+    <answer>гладить</answer>
+    <comment>[pres]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c8fa4d1c-ea33-4d06-8ed9-853137ff4243</uuid>
+    <examples>
+       <example>
+          <value>to have my pants pressed</value>
+          <translation>отдать погладить брюки</translation>
+          <comment>to have - иметь, pants - брюки, pressed - отглаженный, to press - гладить</comment>
+       </example>
+       <example>
+          <value>to press this shirt</value>
+          <translation>погладить эту рубашку</translation>
+          <comment>to press - гладить, shirt - рубашка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>towel</question>
+    <answer>полотенце</answer>
+    <comment>[ˈtаʊəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7d675721-3c61-4cca-b0b8-c699e1df1dc9</uuid>
+    <examples>
+       <example>
+          <value>an extra towel</value>
+          <translation>еще одно полотенце</translation>
+          <comment>extra - дополнительный, towel - полотенце</comment>
+       </example>
+       <example>
+          <value>to change the towel</value>
+          <translation>сменить полотенце</translation>
+          <comment>to change - менять, towel - полотенце</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>minute</question>
+    <answer>минута</answer>
+    <comment>[ˈmɪnɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b8e2f260-43cd-4f6b-9edc-83f9c51ba972</uuid>
+    <examples>
+       <example>
+          <value>to wait a minute</value>
+          <translation>подождать минуточку</translation>
+          <comment>to wait - ждать, ожидать, minute - минута</comment>
+       </example>
+       <example>
+          <value>fifteen minutes</value>
+          <translation>пятнадцать минут</translation>
+          <comment>fifteen - пятнадцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>in twenty minutes</value>
+          <translation>через двадцать минут</translation>
+          <comment>twenty - двадцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>thirty minutes</value>
+          <translation>30 минут</translation>
+          <comment>thirty - тридцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>to be ten minutes late</value>
+          <translation>опаздывать на 10 минут</translation>
+          <comment>ten - десять, minute - минута, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to be five minutes late</value>
+          <translation>опаздывать на 5 минут</translation>
+          <comment>five - пять, minute - минута, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>in ten minutes</value>
+          <translation>через 10 минут</translation>
+          <comment>ten - десять, minute - минута</comment>
+       </example>
+       <example>
+          <value>a three minute call</value>
+          <translation>трехминутный звонок</translation>
+          <comment>three - три, minute - минута, call - звонок</comment>
+       </example>
+       <example>
+          <value>in a couple of minutes</value>
+          <translation>через пару минут</translation>
+          <comment>couple - пара, minute - минута</comment>
+       </example>
+       <example>
+          <value>for five minutes</value>
+          <translation>в течение пяти минут</translation>
+          <comment>five - пять, minute - минута</comment>
+       </example>
+       <example>
+          <value>five minutes</value>
+          <translation>пять минут</translation>
+          <comment>five - пять, minute - минута</comment>
+       </example>
+       <example>
+          <value>twenty five minutes</value>
+          <translation>двадцать пять минут</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wait</question>
+    <answer>ждать</answer>
+    <comment>[weɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2c971c67-17e1-4dff-9d46-5bbe2de94720</uuid>
+    <examples>
+       <example>
+          <value>to wait a minute</value>
+          <translation>подождать минуточку</translation>
+          <comment>to wait - ждать, ожидать, minute - минута</comment>
+       </example>
+       <example>
+          <value>to wait for the hot dish</value>
+          <translation>ждать горячее</translation>
+          <comment>to wait - ждать, hot - горячий, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>to wait for a call</value>
+          <translation>ждать звонка</translation>
+          <comment>to wait - ожидать, call - звонок</comment>
+       </example>
+       <example>
+          <value>to wait for you here</value>
+          <translation>подождать тебя здесь</translation>
+          <comment>to wait - ждать, ожидать, here - здесь</comment>
+       </example>
+       <example>
+          <value>to have to wait</value>
+          <translation>нужно подождать</translation>
+          <comment>to have to - быть должным, to wait - ждать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bar</question>
+    <answer>бар</answer>
+    <comment>[bɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>48bb39cd-2e5d-4000-8a8f-9ce92e4c43af</uuid>
+    <examples>
+       <example>
+          <value>a bar of soap</value>
+          <translation>кусок мыла</translation>
+          <comment>bar - кусок, soap - мыло</comment>
+       </example>
+       <example>
+          <value>a snack bar</value>
+          <translation>буфет</translation>
+          <comment>snack - закуска, bar - бар</comment>
+       </example>
+       <example>
+          <value>in the nearest bar</value>
+          <translation>в ближайшем баре</translation>
+          <comment>the nearest - ближайший, bar - бар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thread</question>
+    <answer>нитка</answer>
+    <comment>[θred]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>72b5e161-8715-4e88-b64b-4a2eb4cc0d1a</uuid>
+    <examples>
+       <example>
+          <value>a needle with a thread</value>
+          <translation>иголка с ниткой</translation>
+          <comment>needle - игла, thread - нитка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ashtray</question>
+    <answer>пепельница</answer>
+    <comment>[ˈæʃtreɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>001b4ba3-3b54-4d89-9f89-5e08212e9f80</uuid>
+    <examples>
+       <example>
+          <value>to give you an ashtray</value>
+          <translation>дать тебе пепельницу</translation>
+          <comment>to give - давать, ashtray - пепельница</comment>
+       </example>
+       <example>
+          <value>to bring an ashtray</value>
+          <translation>принести пепельницу</translation>
+          <comment>to bring - принести, ashtray - пепельница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bed</question>
+    <answer>кровать</answer>
+    <comment>[bed]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4f8cb888-32d0-479d-905c-c9f06e4696bc</uuid>
+    <examples>
+       <example>
+          <value>to change the bed linen</value>
+          <translation>сменить постельное белье</translation>
+          <comment>to change - менять, bed - кровать, постель, linen - белье</comment>
+       </example>
+       <example>
+          <value>to stay in bed</value>
+          <translation>оставаться в постели</translation>
+          <comment>to stay - оставаться, bed - кровать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>linen</question>
+    <answer>белье</answer>
+    <comment>[ˈlɪnən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9938d232-54e6-4b76-95b5-b02b4ab4b4a2</uuid>
+    <examples>
+       <example>
+          <value>to change the bed linen</value>
+          <translation>сменить постельное белье</translation>
+          <comment>to change - менять, bed - кровать, постель, linen - белье</comment>
+       </example>
+       <example>
+          <value>to have my linen washed</value>
+          <translation>отдать в стирку белье</translation>
+          <comment>to have - иметь, linen - белье, washed - постиранный, to wash - стирать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dirty</question>
+    <answer>грязный</answer>
+    <comment>[ˈdɜːrtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d3be1a48-96c6-4741-9a1f-b45bb268ebc3</uuid>
+    <examples>
+       <example>
+          <value>a dirty room</value>
+          <translation>грязный номер (комната)</translation>
+          <comment>dirty - грязный, room - комната, номер в гостинице</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clean</question>
+    <answer>чистить</answer>
+    <comment>[kliːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0d7e84bf-a4e5-4538-a45d-7370c58ac6ac</uuid>
+    <examples>
+       <example>
+          <value>to have my suit cleaned</value>
+          <translation>отдать в чистку костюм</translation>
+          <comment>to have - иметь, suit - костюм, cleaned - очищенный, to clean - очищать</comment>
+       </example>
+       <example>
+          <value>a kilogram of cleaned shrimps</value>
+          <translation>килограмм очищенных креветок</translation>
+          <comment>kilogram - килограмм, cleaned - очищенный, shrimp - креветка</comment>
+       </example>
+       <example>
+          <value>cleaned shrimps</value>
+          <translation>очищенные креветки</translation>
+          <comment>cleaned - очищенный, shrimp - креветка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>suitcase</question>
+    <answer>чемодан</answer>
+    <comment>[ˈsuːtˌkeɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>574074ff-51b6-4bfe-a976-44222d8d0d1e</uuid>
+    <examples>
+       <example>
+          <value>to take down my suitcases</value>
+          <translation>снести вниз мои чемоданы</translation>
+          <comment>to take down - унести вниз, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to take this suitcase</value>
+          <translation>отнести (взять) этот чемодан</translation>
+          <comment>to take - брать, this - этот, эта, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to find my suitcase</value>
+          <translation>найти свой (=мой) чемодан</translation>
+          <comment>to find - находить, my - мой, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to lose a suitcase</value>
+          <translation>потерять чемодан</translation>
+          <comment>to lose - терять, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to leave your suitcase</value>
+          <translation>забыть (твой) чемодан</translation>
+          <comment>to leave - оставлять, suitcase - чемодан</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>technician</question>
+    <answer>техник</answer>
+    <comment>[tekˈnɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3cbd8432-ca82-4661-8bfc-afaa1298a33d</uuid>
+    <examples>
+       <example>
+          <value>to send a technician</value>
+          <translation>прислать мастера</translation>
+          <comment>to send - послать, technician - техник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>let</question>
+    <answer>позволять</answer>
+    <comment>[let]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20b2bd62-2985-4ac7-b70c-a9f33b17eef6</uuid>
+    <examples>
+       <example>
+          <value>to let somebody know</value>
+          <translation>предупредить кого-либо</translation>
+          <comment>to let - позволять, somebody - кто-либо, to know - знать</comment>
+       </example>
+       <example>
+          <value>to let you know</value>
+          <translation>дать тебе знать</translation>
+          <comment>to let - позволять, to know - знать</comment>
+       </example>
+       <example>
+          <value>to let me pass</value>
+          <translation>разрешить мне пройти</translation>
+          <comment>to let - позволить, разрешить, to pass - пройти</comment>
+       </example>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня здесь.</translation>
+          <comment>to let off - высаживать (из машины), here - здесь</comment>
+       </example>
+       <example>
+          <value>to let somebody examine you</value>
+          <translation>позволить кому-либо осмотреть тебя</translation>
+          <comment>to let - позволять, somebody - кто-либо, to examine - осмотреть</comment>
+       </example>
+       <example>
+          <value>to let off steam</value>
+          <translation>расслабиться (&quot;выпустить пар&quot;)</translation>
+          <comment>to let off - выпускать, steam - пар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bathtub</question>
+    <answer>ванна</answer>
+    <comment>[ˈbæθtʌb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91b09d9a-61ab-4a88-8898-ed42cf7ff00c</uuid>
+    <examples>
+       <example>
+          <value>a blocked bathtub</value>
+          <translation>засорившаяся ванная</translation>
+          <comment>blocked - засоренный, bathtub - ванна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pillow</question>
+    <answer>подушка</answer>
+    <comment>[ˈpɪloʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dcd84678-fb8d-4bb2-8590-d95b072a4e21</uuid>
+    <examples>
+       <example>
+          <value>an extra pillow</value>
+          <translation>еще одна подушка</translation>
+          <comment>extra - дополнительный, pillow - подушка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>outlet</question>
+    <answer>розетка</answer>
+    <comment>[ˈаʊtlet]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>beb3644a-1981-415b-8dc2-dafcacf9f1e2</uuid>
+    <examples>
+       <example>
+          <value>the outlet for the shaver</value>
+          <translation>розетка для бритвы</translation>
+          <comment>outlet - розетка, shaver - бритва</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

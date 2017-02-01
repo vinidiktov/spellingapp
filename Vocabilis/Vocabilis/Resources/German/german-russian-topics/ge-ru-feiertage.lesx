@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d2503e3e-43e7-462a-b12a-dfbfec8eec25</uuid>
+  <title>Праздники</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Allerheiligen</question>
+    <answer>праздник Всех Святых</answer>
+    <comment></comment>
+    <uuid>76530e83-1a26-4da4-9ed7-dc36cba5d89d</uuid>
+  </card>
+  <card>
+    <question>das Christkind</question>
+    <answer>Христос- младенец</answer>
+    <comment></comment>
+    <uuid>62db8ea6-aebf-4042-bf9c-6a3af8406fcc</uuid>
+  </card>
+  <card>
+    <question>das Osterei</question>
+    <answer>пасхальное яйцо</answer>
+    <comment></comment>
+    <uuid>ae60eba9-9ca3-43f5-8cd1-9296326bb5f5</uuid>
+  </card>
+  <card>
+    <question>das Weihnachtslied</question>
+    <answer>рождественская песня</answer>
+    <comment></comment>
+    <uuid>56729b6c-ca0b-4cbd-a512-a3ebe4f9832c</uuid>
+  </card>
+  <card>
+    <question>der erste Mai</question>
+    <answer>1-е мая</answer>
+    <comment></comment>
+    <uuid>37255f61-b2b1-4c11-8c80-3d37e33a7000</uuid>
+  </card>
+  <card>
+    <question>der Feiertag</question>
+    <answer>праздник</answer>
+    <comment></comment>
+    <uuid>90c7a472-9edd-4152-9377-e80d250cc174</uuid>
+  </card>
+  <card>
+    <question>der Heilige Abend</question>
+    <answer>(рождественский) сочельник</answer>
+    <comment></comment>
+    <uuid>62715ee9-f66c-4782-984d-5036fdd5ed25</uuid>
+  </card>
+  <card>
+    <question>der Karfreitag</question>
+    <answer>великая (страстная) пятница</answer>
+    <comment></comment>
+    <uuid>77ee5dcf-5a33-4fe5-863a-73ec212c74d2</uuid>
+  </card>
+  <card>
+    <question>der Osterhase</question>
+    <answer>пасхальный заяц</answer>
+    <comment></comment>
+    <uuid>79612caa-fb5f-45c2-83e1-7b0b521b8205</uuid>
+  </card>
+  <card>
+    <question>der Tag der deutschen Einheit</question>
+    <answer>день объединения Германии</answer>
+    <comment></comment>
+    <uuid>01d99106-2604-4321-97e0-1ba2ca279ade</uuid>
+  </card>
+  <card>
+    <question>der Weihnachtsbaum</question>
+    <answer>рождественская ёлка</answer>
+    <comment></comment>
+    <uuid>87e08091-4fbd-4c8d-9ba7-ab6dfb520463</uuid>
+  </card>
+  <card>
+    <question>der Weihnachtsmann</question>
+    <answer>Дед Мороз</answer>
+    <comment></comment>
+    <uuid>5ccd61e9-07a6-4795-8b0a-a939e6bca62c</uuid>
+  </card>
+  <card>
+    <question>Fröhliche Weihnachten!</question>
+    <answer>С Рождеством Христовым!</answer>
+    <comment></comment>
+    <uuid>06903e20-476f-48a0-ac3e-86a7dd9f5452</uuid>
+  </card>
+  <card>
+    <question>Himmelfahrt</question>
+    <answer>Вознесение Господне</answer>
+    <comment></comment>
+    <uuid>bd4eee29-53c4-4a3f-9a88-ec14067fd664</uuid>
+  </card>
+  <card>
+    <question>Ich wünsche Ihnen ein frohes Weihnachtsfest!</question>
+    <answer>Я желаю Вам веселого Рождества!</answer>
+    <comment></comment>
+    <uuid>e447285f-72d4-4dfb-8fad-4033ea9c607a</uuid>
+  </card>
+  <card>
+    <question>Ich wünsche Ihnen ein gutes neues Jahr.</question>
+    <answer>Я желаю Вам веселого Нового Года.</answer>
+    <comment></comment>
+    <uuid>3ceb6f75-0d93-4429-910d-77d7906c82a2</uuid>
+  </card>
+  <card>
+    <question>Ostern</question>
+    <answer>Пасха</answer>
+    <comment></comment>
+    <uuid>028921f8-e9ed-4078-a167-7213a49ca0b9</uuid>
+  </card>
+  <card>
+    <question>Pfingsten</question>
+    <answer>Троица</answer>
+    <comment></comment>
+    <uuid>ae9c15fc-be9d-4685-9595-94114825dc85</uuid>
+  </card>
+  <card>
+    <question>Reformationstag</question>
+    <answer>день реформации</answer>
+    <comment></comment>
+    <uuid>ef29770c-39f3-4526-8b66-9828b42023d0</uuid>
+  </card>
+  <card>
+    <question>Weihnachten</question>
+    <answer>Рождество</answer>
+    <comment></comment>
+    <uuid>295b4edc-51ce-40bb-bd4c-6057bf51c12e</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ba3acc42-8922-4958-a08f-62c0d9162660</uuid>
+  <title>Приглашения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2013</year>
+     <month>3</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Let&apos;s go to the movies.</question>
+    <answer>Давайте сходим в кино.</answer>
+    <comment>[lets gəʊ tə ðə ˈmuːvɪz]</comment>
+    <uuid>eaf63ac9-9ba6-451c-9b8c-5f2bd8e0c7e4</uuid>
+  </card>
+  <card>
+    <question>Allow me? (Shall we dance?)</question>
+    <answer>Разрешите пригласить вас на танец.</answer>
+    <comment>[əˈlаʊ miː ʃæl wi dɑːns]</comment>
+    <uuid>27778910-cc5e-4a95-8733-e3560461d53b</uuid>
+  </card>
+  <card>
+    <question>Are you free tomorrow?</question>
+    <answer>Вы завтра свободны?</answer>
+    <comment>[ə jʊ friː təˈmɒrəʊ]</comment>
+    <uuid>18cfa8e2-bb9b-4451-92c7-afadd7503ace</uuid>
+  </card>
+  <card>
+    <question>I am free tomorrow.</question>
+    <answer>Я завтра свободен.</answer>
+    <comment>[аɪ æm friː təˈmɒrəʊ]</comment>
+    <uuid>716c7e3c-a39b-48f9-b0c1-7e0a3dfe70a1</uuid>
+  </card>
+  <card>
+    <question>I am afraid, I am busy tomorrow.</question>
+    <answer>Боюсь, я завтра занят.</answer>
+    <comment>[аɪ æm əˈfreɪd аɪ æm ˈbɪzɪ təˈmɒrəʊ]</comment>
+    <uuid>7aa31fb4-4f39-4541-af2e-3bbd32ca6f45</uuid>
+  </card>
+  <card>
+    <question>When are we meeting? (What time are we meeting?)</question>
+    <answer>Во сколько мы с вами встретимся?</answer>
+    <comment>[wen ə wi ˈmiːtɪŋ wɒt tаɪm ə wi ˈmiːtɪŋ]</comment>
+    <uuid>5206b6dc-2e54-419c-bc62-5a079745b8ba</uuid>
+  </card>
+  <card>
+    <question>Let&apos;s meet at 6. (Let&apos;s meet at 6 PM)</question>
+    <answer>Встретимся в 6 часов вечера.</answer>
+    <comment>[lets miːt æt sɪks lets miːt æt sɪks ˈpiːˈem]</comment>
+    <uuid>2bcbfbc1-f89c-44fa-82c2-aec5301d2cc9</uuid>
+  </card>
+  <card>
+    <question>How about Friday?</question>
+    <answer>Как насчет пятницы?</answer>
+    <comment>[hаʊ əˈbаʊt ˈfrаɪdɪ]</comment>
+    <uuid>8d55e8f7-2153-45fc-b751-d8b1dbf2cfd1</uuid>
+  </card>
+  <card>
+    <question>Will Friday work for you?</question>
+    <answer>Вам пятница подойдет?</answer>
+    <comment>[wɪl ˈfrаɪdɪ wɜːk fə jʊ]</comment>
+    <uuid>4dc24b8c-3b62-42fb-a7c1-546ddcb2fe06</uuid>
+  </card>
+  <card>
+    <question>It&apos;ll work.</question>
+    <answer>Договорились.</answer>
+    <comment>[ɪtl wɜːk]</comment>
+    <uuid>5bf4ad0e-9f18-4076-a2d5-318fba20d5ac</uuid>
+  </card>
+  <card>
+    <question>I&apos;m afraid, I can&apos;t.</question>
+    <answer>Боюсь, я не смогу.</answer>
+    <comment>[аɪm əˈfreɪd аɪ kɑːnt]</comment>
+    <uuid>93ba5897-2fe2-4c66-96ad-f119b041ebe6</uuid>
+  </card>
+  <card>
+    <question>It&apos;ll be a pleasure.</question>
+    <answer>С удовольствием.</answer>
+    <comment>[ɪtl biː ə ˈpleʒə]</comment>
+    <uuid>8fdecafb-a3f6-4ed2-a86d-4b62e303783b</uuid>
+  </card>
+  <card>
+    <question>Would you like to go to a theater?</question>
+    <answer>Не хотите ли вы сходить в театр?</answer>
+    <comment>[wʊd jʊ lаɪk tə gəʊ tʊ ə ˈθɪətə]</comment>
+    <uuid>02e429a9-c19b-485e-892d-1ba3727d1b0c</uuid>
+  </card>
+  <card>
+    <question>Do you like classical music?</question>
+    <answer>Вам нравится классическая музыка?</answer>
+    <comment>[duː jʊ lаɪk ˈklæsɪkəl ˈmjuːzɪk]</comment>
+    <uuid>19edc2d0-84b4-48c0-bd09-04002744482a</uuid>
+  </card>
+  <card>
+    <question>I prefer rock.</question>
+    <answer>Я предпочитаю рок.</answer>
+    <comment>[аɪ prɪˈfɜː rɒk]</comment>
+    <uuid>60a4485d-c37b-43ff-b82e-c1b942f0ab6b</uuid>
+  </card>
+  <card>
+    <question>I like American movies.</question>
+    <answer>Мне нравятся американские фильмы.</answer>
+    <comment>[аɪ lаɪk əˈmerɪkən ˈmuːvɪz]</comment>
+    <uuid>199d9028-b2c2-4b5e-b045-2ec684f9728b</uuid>
+  </card>
+  <card>
+    <question>Where should we meet?</question>
+    <answer>Где мы с вами встретимся?</answer>
+    <comment>[weə ʃʊd wi miːt]</comment>
+    <uuid>bb2fb9af-12d4-4af1-9804-6d20de56bca0</uuid>
+  </card>
+  <card>
+    <question>How about a concert?</question>
+    <answer>Предлагаю сходить на концерт.</answer>
+    <comment>[hаʊ əˈbаʊt ə ˈkɒnsɜːt]</comment>
+    <uuid>6b46847c-3143-46fa-94c7-3673e61c2287</uuid>
+  </card>
+  <card>
+    <question>Great idea!</question>
+    <answer>Отличная идея.</answer>
+    <comment>[greɪt аɪˈdɪə]</comment>
+    <uuid>772258fc-2061-4267-b17a-de2bf88e7f3d</uuid>
+  </card>
+  <card>
+    <question>Works for me.</question>
+    <answer>Я за.</answer>
+    <comment>[wɜːks fə miː]</comment>
+    <uuid>76fecd6a-4a3a-4057-a881-ca0b1c96bfaa</uuid>
+  </card>
+  <card>
+    <question>I don&apos;t mind.</question>
+    <answer>Я не против.</answer>
+    <comment>[аɪ dəʊnt mаɪnd]</comment>
+    <uuid>b1fa3095-10a8-460c-86a3-22911e0e5f20</uuid>
+  </card>
+  <card>
+    <question>How would you like to go to the movies? (How about a movie?)</question>
+    <answer>Как вы смотрите на то чтобы сходить в кино?</answer>
+    <comment>[hаʊ wʊd jʊ lаɪk tə gəʊ tə ðə ˈmuːvɪz hаʊ əˈbаʊt ə ˈmuːvɪ]</comment>
+    <uuid>c5ac8e97-85cf-4428-8d2c-d117a841fe9e</uuid>
+  </card>
+  <card>
+    <question>I&apos;d love to, but I can&apos;t.</question>
+    <answer>Я бы с удовольствием, но не могу.</answer>
+    <comment>[аɪd lʌv tə bʌt аɪ kɑːnt]</comment>
+    <uuid>52f6c916-79dc-43fc-abe7-ce5be94ffb60</uuid>
+  </card>
+  <card>
+    <question>Let&apos;s do it some other time.</question>
+    <answer>Давайте как-нибудь в другой раз.</answer>
+    <comment>[lets duː ɪt sʌm ˈʌðə tаɪm]</comment>
+    <uuid>db1ca3d6-53db-4fb7-a1e1-a9ca23194f00</uuid>
+  </card>
+  <card>
+    <question>I&apos;ll give you a call.</question>
+    <answer>Я вам позвоню.</answer>
+    <comment>[аɪl gɪv jʊ ə kɔːl]</comment>
+    <uuid>ef2bd83c-9971-4456-b985-6ab5822dec14</uuid>
+  </card>
+  <card>
+    <question>I&apos;ll pick you up.</question>
+    <answer>Я за вами заеду.</answer>
+    <comment>[аɪl pɪk jʊ ʌp]</comment>
+    <uuid>63fbaa12-6852-4661-b13d-84e3650eb50c</uuid>
+  </card>
+  <card>
+    <question>Let&apos;s meet at the movie theater. (See you at the movie theater.)</question>
+    <answer>Встретимся у кинотеатра.</answer>
+    <comment>[lets miːt æt ðə ˈmuːvɪ ˈθɪətə siː jʊ æt ðə ˈmuːvɪ ˈθɪətə]</comment>
+    <uuid>810c755a-7e83-4ae0-b20f-53ef521dd9c5</uuid>
+  </card>
+  <card>
+    <question>Thank you for inviting me.</question>
+    <answer>Спасибо за приглашение.</answer>
+    <comment>[θæŋk jʊ fər ɪnˈvаɪtɪŋ miː]</comment>
+    <uuid>9352165e-82be-4367-82e2-70577b0d4c31</uuid>
+  </card>
+  <card>
+    <question>I am glad you are coming. (I am glad you came.)</question>
+    <answer>Рад, что вы согласились.</answer>
+    <comment>[аɪ æm glæd jʊ ə ˈkʌmɪŋ аɪ æm glæd jʊ keɪm]</comment>
+    <uuid>079735f4-3fa5-45c4-8713-fd0a939c12c4</uuid>
+  </card>
+  <card>
+    <question>Come for dinner.</question>
+    <answer>Приходите к нам на ужин.</answer>
+    <comment>[kʌm fə ˈdɪnə]</comment>
+    <uuid>5e5365e4-9c25-4ac9-ac82-5ca492795b93</uuid>
+  </card>
+  <card>
+    <question>Come to visit.</question>
+    <answer>Приходите к нам в гости.</answer>
+    <comment>[kʌm tə ˈvɪzɪt]</comment>
+    <uuid>045f7360-17f9-4ec5-8f09-f7d794ffdef2</uuid>
+  </card>
+  <card>
+    <question>Would you like to come with me?</question>
+    <answer>Хотите пойти со мной?</answer>
+    <comment>[wʊd jʊ lаɪk tə kʌm wɪð miː]</comment>
+    <uuid>74dd3a2d-0a65-42db-8875-0a2aa49a021d</uuid>
+  </card>
+  <card>
+    <question>Sounds good.</question>
+    <answer>Звучит заманчиво.</answer>
+    <comment>[sаʊndz gʊd]</comment>
+    <uuid>ba46ee13-eafc-4c93-bd8a-9fe12c64ba1e</uuid>
+  </card>
+</cards>
+</stack>

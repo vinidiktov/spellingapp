@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>134d72a9-d184-4248-9521-137be7cc5f90</uuid>
+  <title>Образование</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Abitur</question>
+    <answer>аттестат зрелости</answer>
+    <comment></comment>
+    <uuid>1d45f906-703b-4151-b41f-e3b2e126a82b</uuid>
+  </card>
+  <card>
+    <question>das Gymnasium</question>
+    <answer>гимназия</answer>
+    <comment></comment>
+    <uuid>3dac0290-1d0c-4e01-92f1-18b4e14b1832</uuid>
+  </card>
+  <card>
+    <question>das Können</question>
+    <answer>умение</answer>
+    <comment></comment>
+    <uuid>8e152603-df5d-4175-9863-9701693b2e85</uuid>
+  </card>
+  <card>
+    <question>das Semester</question>
+    <answer>семестр</answer>
+    <comment></comment>
+    <uuid>ca035bc6-3128-4fc9-98bb-7258478a0668</uuid>
+  </card>
+  <card>
+    <question>das Studium</question>
+    <answer>учеба</answer>
+    <comment></comment>
+    <uuid>7f12b843-3254-4a4f-966b-6c288ce4c2b3</uuid>
+  </card>
+  <card>
+    <question>das Wissen</question>
+    <answer>знание</answer>
+    <comment></comment>
+    <uuid>10a0ccb6-a32f-4c4f-b0f1-56f544d14b8f</uuid>
+  </card>
+  <card>
+    <question>der Auszubildende</question>
+    <answer>ученик на производстве</answer>
+    <comment></comment>
+    <uuid>523c1b3f-1a79-423a-8cbc-64e34b052863</uuid>
+  </card>
+  <card>
+    <question>der Automechaniker</question>
+    <answer>автослесарь</answer>
+    <comment></comment>
+    <uuid>7556a0d4-c8fd-4463-a601-b148a12b2b98</uuid>
+  </card>
+  <card>
+    <question>der AZUBI</question>
+    <answer>ученик на производстве (сокращение)</answer>
+    <comment></comment>
+    <uuid>12e2314a-3150-4c6f-b488-52c822d87d83</uuid>
+  </card>
+  <card>
+    <question>der Doktor</question>
+    <answer>доктор, кандидат наук</answer>
+    <comment></comment>
+    <uuid>c25b3dce-0d08-490f-ae1f-991d7fa34d02</uuid>
+  </card>
+  <card>
+    <question>der Elektriker</question>
+    <answer>электрик</answer>
+    <comment></comment>
+    <uuid>bb6fba17-ee75-400e-909c-088edd524106</uuid>
+  </card>
+  <card>
+    <question>der Fachmann</question>
+    <answer>специалист</answer>
+    <comment></comment>
+    <uuid>7ff2b291-0d87-4ab3-bf4b-4afad87f1114</uuid>
+  </card>
+  <card>
+    <question>der Geselle</question>
+    <answer>подмастерье</answer>
+    <comment></comment>
+    <uuid>cf80d335-d949-48bd-a165-1daebd655cbe</uuid>
+  </card>
+  <card>
+    <question>der Hauptschulabschluß</question>
+    <answer>окончание неполной средней школы</answer>
+    <comment></comment>
+    <uuid>738b201b-0a23-4965-a262-78d8fe39f0c5</uuid>
+  </card>
+  <card>
+    <question>der Installateur</question>
+    <answer>(электро) монтер</answer>
+    <comment></comment>
+    <uuid>5e711f8a-2782-4fe9-9904-e7b5207940cd</uuid>
+  </card>
+  <card>
+    <question>der Lehrling</question>
+    <answer>ученик (на производстве)</answer>
+    <comment></comment>
+    <uuid>c6f74ffa-251a-4b13-aefb-8e50395bdab7</uuid>
+  </card>
+  <card>
+    <question>der Maler</question>
+    <answer>маляр</answer>
+    <comment></comment>
+    <uuid>9c7285e8-b72d-4f22-837b-5c62f9bb9b7b</uuid>
+  </card>
+  <card>
+    <question>der Maurer</question>
+    <answer>каменщик</answer>
+    <comment></comment>
+    <uuid>90d5b6b7-e0ab-4a49-9667-88f9d4134e2c</uuid>
+  </card>
+  <card>
+    <question>der Meister</question>
+    <answer>мастер</answer>
+    <comment></comment>
+    <uuid>cab8938d-c43a-4b3f-81fe-1941ccfeeaff</uuid>
+  </card>
+  <card>
+    <question>der Realschulabschluß</question>
+    <answer>окончание реального училища</answer>
+    <comment></comment>
+    <uuid>f2aeb737-0f65-44f0-af09-2feedb6c58cd</uuid>
+  </card>
+  <card>
+    <question>der Schlosser</question>
+    <answer>слесарь</answer>
+    <comment></comment>
+    <uuid>c65fb29f-1f69-4a05-95d2-b010ff442594</uuid>
+  </card>
+  <card>
+    <question>der Student</question>
+    <answer>студент</answer>
+    <comment></comment>
+    <uuid>437e120d-9a47-4b07-aade-4f98d2a0f9ae</uuid>
+  </card>
+  <card>
+    <question>der Tischer</question>
+    <answer>столяр</answer>
+    <comment></comment>
+    <uuid>4b94522a-1d7e-419b-bcd6-18b5224bb024</uuid>
+  </card>
+  <card>
+    <question>die Arzthelferin</question>
+    <answer>ассистентка врача</answer>
+    <comment></comment>
+    <uuid>6a2aaa09-ee14-4c60-8d09-c78aecd7f1b1</uuid>
+  </card>
+  <card>
+    <question>die Bankangestellte</question>
+    <answer>служащая банка</answer>
+    <comment></comment>
+    <uuid>1a33f3f5-e64f-40fd-a1ee-16974629fecc</uuid>
+  </card>
+  <card>
+    <question>die begehrtesten Lehrstellen</question>
+    <answer>наиболее популярные профессии</answer>
+    <comment></comment>
+    <uuid>290a9001-cf6c-471d-b0f9-16eb1e02ed87</uuid>
+  </card>
+  <card>
+    <question>die Berufsschule</question>
+    <answer>профессиональная школа, ПТУ</answer>
+    <comment></comment>
+    <uuid>d14dc12f-5f64-4e36-87c8-b4ec4cb02a47</uuid>
+  </card>
+  <card>
+    <question>die Büroangestellte</question>
+    <answer>служащая бюро</answer>
+    <comment></comment>
+    <uuid>07d8fa36-3b17-4acb-b6dd-744334429382</uuid>
+  </card>
+  <card>
+    <question>die Friseuse</question>
+    <answer>парикмахер</answer>
+    <comment></comment>
+    <uuid>d4769101-fc6b-4e1e-93c5-478f7230aaaa</uuid>
+  </card>
+  <card>
+    <question>die Gesellenprüfung</question>
+    <answer>экзамен на звание &quot;подмастерье&quot;</answer>
+    <comment></comment>
+    <uuid>2241a13c-0f55-4d71-96a0-25ac50d9f9bf</uuid>
+  </card>
+  <card>
+    <question>die Hauptschule</question>
+    <answer>неполная средняя школа</answer>
+    <comment></comment>
+    <uuid>7e4a3a08-8645-4389-b47e-abfa02ef06ac</uuid>
+  </card>
+  <card>
+    <question>die Hochschule</question>
+    <answer>ВУЗ</answer>
+    <comment></comment>
+    <uuid>58c94e3b-3a5c-445f-829d-1639d479ed52</uuid>
+  </card>
+  <card>
+    <question>die Kauffrau</question>
+    <answer>коммерсантка</answer>
+    <comment></comment>
+    <uuid>ddaadc7e-105a-4d9e-adaa-194b99121bd7</uuid>
+  </card>
+  <card>
+    <question>die Kenntnisse</question>
+    <answer>знания</answer>
+    <comment></comment>
+    <uuid>0e37e5f5-02c4-4e85-a8ff-dba0a663ec65</uuid>
+  </card>
+  <card>
+    <question>die Lehre</question>
+    <answer>обучение</answer>
+    <comment></comment>
+    <uuid>e4780153-b641-4b54-b8cf-697b57c9edfe</uuid>
+  </card>
+  <card>
+    <question>die Lehrstelle</question>
+    <answer>место ученика на производстве</answer>
+    <comment></comment>
+    <uuid>b85fa4dd-44e9-411a-83a4-2c79dfafeea0</uuid>
+  </card>
+  <card>
+    <question>die Leistung</question>
+    <answer>работа, продуктивность</answer>
+    <comment></comment>
+    <uuid>da241864-608b-46ec-b0ee-7c01f27c6c4e</uuid>
+  </card>
+  <card>
+    <question>die Meisterprüfung</question>
+    <answer>экзамен на звание мастера</answer>
+    <comment></comment>
+    <uuid>16ba91b7-7d4f-48df-b99a-fedf18c272aa</uuid>
+  </card>
+  <card>
+    <question>die Prüfung</question>
+    <answer>экзамен</answer>
+    <comment></comment>
+    <uuid>95e4bb9e-8a76-479f-bcd7-5ffbb12fc386</uuid>
+  </card>
+  <card>
+    <question>die Realschule</question>
+    <answer>реальное училище</answer>
+    <comment></comment>
+    <uuid>d997877b-c0a2-43e0-80fa-11b5b8636ec9</uuid>
+  </card>
+  <card>
+    <question>die staatliche Prüfung</question>
+    <answer>государственный экзамен</answer>
+    <comment></comment>
+    <uuid>84d1ecaf-26f8-4a46-9382-69911f105bce</uuid>
+  </card>
+  <card>
+    <question>die Universität</question>
+    <answer>университет</answer>
+    <comment></comment>
+    <uuid>28809f3b-81e2-4d71-8588-fd05a3a82002</uuid>
+  </card>
+  <card>
+    <question>die Verkäuferin</question>
+    <answer>продавщица</answer>
+    <comment></comment>
+    <uuid>3e34d3a7-7c54-4b85-aec5-488d6ad80b39</uuid>
+  </card>
+  <card>
+    <question>Ich bin Fachmann für</question>
+    <answer>Я специалист по</answer>
+    <comment></comment>
+    <uuid>45e6f7a8-33ec-4323-89aa-3f31b5b5e892</uuid>
+  </card>
+  <card>
+    <question>Ich bin im 6. Semester.</question>
+    <answer>Я на 6 семестре.</answer>
+    <comment></comment>
+    <uuid>3fa96dbb-784d-4f04-ade6-48d4e2c391df</uuid>
+  </card>
+  <card>
+    <question>Ich habe das Abitur.</question>
+    <answer>У меня есть аттестат зрелости.</answer>
+    <comment></comment>
+    <uuid>b85a5762-5e72-4245-bb01-d5aa921ba603</uuid>
+  </card>
+  <card>
+    <question>Ich habe den Realschulabschluß.</question>
+    <answer>Я окончил реальное училище.</answer>
+    <comment></comment>
+    <uuid>6a36bbaa-4886-4712-bcdd-652cd74fbfbc</uuid>
+  </card>
+  <card>
+    <question>Ich habe Erfahrung als Koch.</question>
+    <answer>У меня опыт работы повара.</answer>
+    <comment></comment>
+    <uuid>ed456545-97af-4a0c-9e59-3cf6e28f6a9f</uuid>
+  </card>
+  <card>
+    <question>Ich habe Medizin studiert.</question>
+    <answer>Я изучал медицину.</answer>
+    <comment></comment>
+    <uuid>6eca94b8-4fa9-476e-b0fe-d3d2e1ee3aae</uuid>
+  </card>
+  <card>
+    <question>studieren</question>
+    <answer>учиться</answer>
+    <comment></comment>
+    <uuid>286cb37a-6f4f-451a-9c11-d2e151c7c65f</uuid>
+  </card>
+</cards>
+</stack>

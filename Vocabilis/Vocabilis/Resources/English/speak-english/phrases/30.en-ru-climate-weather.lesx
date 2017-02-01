@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c7e5d956-bfaf-497b-9e70-239f745a6cab</uuid>
+  <title>Климат, Погода :: Фразы</title>
+  <author>Alex Ermakov.</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>15</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>What a wonderful day!</question>
+    <answer>Какой прекрасный день!</answer>
+    <comment>[hwʌt ə ˈwʌndərfəl deɪ]</comment>
+    <answer_comment>what - что, какой, lovely - замечательный, day - день</answer_comment>
+    
+    <uuid>99084422-6ff1-4500-b56a-8d754c621fde</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What awful weather!</question>
+    <answer>Какая ужасная погода!</answer>
+    <comment>[hwʌt ˈɔːfəl ˈweðər]</comment>
+    <answer_comment>what - что, какой, awful - ужасный, weather - погода</answer_comment>
+    
+    <uuid>828887b4-57ae-4195-9c50-4475306cfebe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is it usually as warm as this?</question>
+    <answer>Здесь всегда так тепло?</answer>
+    <comment>[ɪz ɪt ˈjuːʒuːəliː æz wɔːrm æz ðɪs]</comment>
+    <answer_comment>usually - обычно, as... as,,, - также... как..., this - это, этот, эта</answer_comment>
+    
+    <uuid>cccee20e-1f58-4b34-8db9-f04d42065b69</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the climate in your country like?</question>
+    <answer>Какой у вас климат?</answer>
+    <comment>[hwʌt ɪz ðə ˈklаɪmɪt ɪn jər ˈkʌntriː lаɪk]</comment>
+    <answer_comment>what - что, какой, climate - климат, your - твой, ваш, country - страна, like - как, наподобии</answer_comment>
+    
+    <uuid>3d19a8f2-5622-46e1-9e1b-e900c13bd95d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a continental climate.</question>
+    <answer>У нас континентальный климат.</answer>
+    <comment>[wiː hæv ə ˌkɑːnˈtnentl ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, continental - континентальный, climate - климат</answer_comment>
+    
+    <uuid>9ad74281-fd1d-4fc4-bb3f-522bcf09588c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a sharp continental climate.</question>
+    <answer>У нас резко континентальный климат.</answer>
+    <comment>[wiː hæv ə ʃɑːrp ˌkɑːnˈtnentl ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, sharp - резкий, continental - континентальный, climate - климат</answer_comment>
+    
+    <uuid>c2c1f6dc-c499-478f-a123-da952a4d64fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a sea climate.</question>
+    <answer>У нас морской климат.</answer>
+    <comment>[wiː hæv ə siː ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, sea - морской, climate - климат</answer_comment>
+    
+    <uuid>fb707a7f-5e4a-4a52-a9a6-aef2578b3d88</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a subtropical climate.</question>
+    <answer>У нас субтропический климат.</answer>
+    <comment>[wiː hæv ə səbˈtrɑːpɪkəl ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, subtropical - субтропический, climate - климат</answer_comment>
+    
+    <uuid>57b78934-b716-40f7-8751-ecce7e829374</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a mediterranean climate.</question>
+    <answer>У нас средиземноморский климат.</answer>
+    <comment>[wiː hæv ə ˌmedɪtəˈreɪniən ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, mediterranean - средиземноморский, climate - климат</answer_comment>
+    
+    <uuid>c5ad871b-9176-48ee-9d3c-8ff7c72a5998</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have a tropical climate.</question>
+    <answer>У нас тропический климат.</answer>
+    <comment>[wiː hæv ə ˈtrɑːpɪkəl ˈklаɪmɪt]</comment>
+    <answer_comment>to have - иметь, tropical - тропический, climate - климат</answer_comment>
+    
+    <uuid>bd740bb4-7209-429e-8250-f8435417ee53</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you having high humidity?</question>
+    <answer>У вас высокая влажность?</answer>
+    <comment>[ɑːr jʊ ˈhævɪŋ hаɪ hjuːˈmɪdɪtiː]</comment>
+    <answer_comment>having - имеющий, high - высокий, humidity - влажность</answer_comment>
+    
+    <uuid>d3837719-474e-4c70-8699-adc8490c591b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you having low humidity?</question>
+    <answer>У вас низкая влажность?</answer>
+    <comment>[ɑːr jʊ ˈhævɪŋ loʊ hjuːˈmɪdɪtiː]</comment>
+    <answer_comment>having - имеющий, low - низкий, humidity - влажность</answer_comment>
+    
+    <uuid>3b6d317f-67f4-4b74-8a52-f4b4078116f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is winter in your country severe?</question>
+    <answer>У вас суровая зима?</answer>
+    <comment>[ɪz ˈwɪntər ɪn jər ˈkʌntriː sɪˈvɪr]</comment>
+    <answer_comment>winter - зима, your - твой, ваш, country - страна, severe - суровый</answer_comment>
+    
+    <uuid>eba2b186-732e-493a-92bc-29b060637e9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is winter in your country soft?</question>
+    <answer>У вас мягкая зима?</answer>
+    <comment>[ɪz ˈwɪntər ɪn jər ˈkʌntriː sɔːft]</comment>
+    <answer_comment>winter - зима, your - твой, ваш, country - страна, soft - мягкий</answer_comment>
+    
+    <uuid>d184cf07-d562-4125-b861-4bdbafef92ad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is summer in your country hot?</question>
+    <answer>У вас жаркое лето?</answer>
+    <comment>[ɪz ˈsʌmər ɪn jər ˈkʌntriː hɑːt]</comment>
+    <answer_comment>summer - лето, your - твой, ваш, country - страна, hot - жаркий</answer_comment>
+    
+    <uuid>bfcac88b-fdc9-4c14-9fa5-34f9c5f87e95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the average temperature in your country in winter?</question>
+    <answer>Какая у вас средняя температура зимой?</answer>
+    <comment>[hwʌt ɪz ðiː ˈævərɪʤ ˈtempərəʧər ɪn jər ˈkʌntriː ɪn ˈwɪntər]</comment>
+    <answer_comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, winter - зима</answer_comment>
+    
+    <uuid>0c0c971a-b664-4bff-8ded-8172adceae03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the average temperature in your country in spring?</question>
+    <answer>Какая у вас средняя температура весной?</answer>
+    <comment>[hwʌt ɪz ðiː ˈævərɪʤ ˈtempərəʧər ɪn jər ˈkʌntriː ɪn sprɪŋ]</comment>
+    <answer_comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, spring - весна</answer_comment>
+    
+    <uuid>9a3addfc-5b6e-454a-8450-475057a88fbd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the average temperature in your country in summer?</question>
+    <answer>Какая у вас средняя температура летом?</answer>
+    <comment>[hwʌt ɪz ðiː ˈævərɪʤ ˈtempərəʧər ɪn jər ˈkʌntriː ɪn ˈsʌmər]</comment>
+    <answer_comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, summer - лето</answer_comment>
+    
+    <uuid>248a51b2-ae99-43f5-84f3-311a72991deb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the average temperature in your country in autumn?</question>
+    <answer>Какая у вас средняя температура осенью?</answer>
+    <comment>[hwʌt ɪz ðiː ˈævərɪʤ ˈtempərəʧər ɪn jər ˈkʌntriː ɪn ˈɔːtəm]</comment>
+    <answer_comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, autumn - осень</answer_comment>
+    
+    <uuid>0033543b-2b87-4dac-a1e8-37395e3c16f3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Plus ten degrees.</question>
+    <answer>Плюс 10 градусов.</answer>
+    <comment>[plʌs ten dɪˈgriːz]</comment>
+    <answer_comment>plus - плюс, ten - десять, degree - градус</answer_comment>
+    
+    <uuid>db703211-3005-4c80-a553-1ca1f08210d7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Minus ten degrees.</question>
+    <answer>Минус 10 градусов.</answer>
+    <comment>[ˈmаɪnəs ten dɪˈgriːz]</comment>
+    <answer_comment>minus - минус, ten - десять, degree - градус</answer_comment>
+    
+    <uuid>57db3ca4-59c4-4086-b6a1-00ed7fdf8680</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have snow in winter?</question>
+    <answer>У вас бывает зимой снег?</answer>
+    <comment>[duː jʊ hæv snoʊ ɪn ˈwɪntər]</comment>
+    <answer_comment>to have - иметь, snow - снег, winter - зима</answer_comment>
+    
+    <uuid>22f4391f-4c3d-4dd6-8cd5-880daca156a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does snow fall here?</question>
+    <answer>Когда здесь выпадает снег?</answer>
+    <comment>[hwen dʌz snoʊ fɔːl hɪr]</comment>
+    <answer_comment>snow - снег, to fall - падать, here - здесь</answer_comment>
+    
+    <uuid>55129a5f-6947-4612-b6a8-b49f138d002a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does spring come here?</question>
+    <answer>Когда здесь наступает весна?</answer>
+    <comment>[hwen dʌz sprɪŋ kʌm hɪr]</comment>
+    <answer_comment>when - когда, spring - весна, to come - приходить, here - здесь</answer_comment>
+    
+    <uuid>9b76fcd5-1111-426b-9df8-072f5d955148</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you stand cold well?</question>
+    <answer>Вы хорошо переносите холод?</answer>
+    <comment>[duː jʊ stænd koʊld wel]</comment>
+    <answer_comment>to stand - выдерживать, cold - холод, well - хорошо</answer_comment>
+    
+    <uuid>ec46f5c2-2e53-4d0d-8f38-c4a635242536</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you stand heat badly?</question>
+    <answer>Вы плохо переносите жару?</answer>
+    <comment>[duː jʊ stænd hiːt ˈbædliː]</comment>
+    <answer_comment>to stand - выдерживать, heat - жара, badly - плохо</answer_comment>
+    
+    <uuid>95169072-381a-44bc-88f6-3c6e084725b7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the weather today?</question>
+    <answer>Какая сегодня погода?</answer>
+    <comment>[hwʌts ðə ˈweðər təˈdeɪ]</comment>
+    <answer_comment>what - что, какой, weather - погода, today - сегодня</answer_comment>
+    
+    <uuid>3bfe37e3-693d-48c4-87ce-45105b14e181</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today it&apos;s hot outside.</question>
+    <answer>Сегодня на улице жарко.</answer>
+    <comment>[təˈdeɪ ɪts hɑːt аʊtˈsаɪd]</comment>
+    <answer_comment>today - сегодня, hot - жаркий, outside - на улице</answer_comment>
+    
+    <uuid>67650a39-d69e-4965-9187-a6802a906f7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today it&apos;s cold outside.</question>
+    <answer>Сегодня на улице холодно.</answer>
+    <comment>[təˈdeɪ ɪts koʊld аʊtˈsаɪd]</comment>
+    <answer_comment>today - сегодня, cold - холодный, outside - на улице</answer_comment>
+    
+    <uuid>6a6a63d2-f7b9-46b5-a846-b1479b0f2ca3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s rainy.</question>
+    <answer>Дождливо.</answer>
+    <comment>[ɪts ˈreɪniː]</comment>
+    <answer_comment>rainy - дождливый</answer_comment>
+    
+    <uuid>c88f5a1f-115e-4803-a6bf-1179acc92dc2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s stuffy.</question>
+    <answer>Душно.</answer>
+    <comment>[ɪts ˈstʌfiː]</comment>
+    <answer_comment>stuffy - душный</answer_comment>
+    
+    <uuid>6d8183a4-b34e-4b5a-99f6-d67fdb8e1a9f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s cloudy.</question>
+    <answer>Пасмурно.</answer>
+    <comment>[ɪts ˈklаʊdiː]</comment>
+    <answer_comment>cloudy - облачный</answer_comment>
+    
+    <uuid>4a2da323-921d-4547-8749-ec202e776bcc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s cool.</question>
+    <answer>Прохладно.</answer>
+    <comment>[ɪts kuːl]</comment>
+    <answer_comment>cool - прохладный</answer_comment>
+    
+    <uuid>d45d174a-63e1-435d-864f-768831481ac9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s windy.</question>
+    <answer>Ветрено.</answer>
+    <comment>[ɪts ˈwɪndiː]</comment>
+    <answer_comment>windy - ветреный</answer_comment>
+    
+    <uuid>6e4d6b0e-b705-4251-9fb6-c241e1baaab2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s clear.</question>
+    <answer>Ясно.</answer>
+    <comment>[ɪts klɪr]</comment>
+    <answer_comment>clear - ясный</answer_comment>
+    
+    <uuid>3ace997f-ab06-46b5-9d67-4fa9d2a14177</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s frosty.</question>
+    <answer>Морозно.</answer>
+    <comment>[ɪts ˈfrɔːstiː]</comment>
+    <answer_comment>frosty - морозный</answer_comment>
+    
+    <uuid>91239957-3036-446f-89b1-d026a5d165e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s a blizzard.</question>
+    <answer>Метель.</answer>
+    <comment>[ɪts ə ˈblɪzərd]</comment>
+    <answer_comment>blizzard - снежная буря</answer_comment>
+    
+    <uuid>f1ca997b-3ac6-4b5a-a35e-1731da8ef23f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sky is blue.</question>
+    <answer>Небо голубое.</answer>
+    <comment>[ðə skаɪ ɪz bluː]</comment>
+    <answer_comment>sky - небо, blue - голубой</answer_comment>
+    
+    <uuid>57fca4d9-9181-4fc8-8322-3935f4feea4a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sky is clear.</question>
+    <answer>Небо ясное.</answer>
+    <comment>[ðə skаɪ ɪz klɪr]</comment>
+    <answer_comment>sky - небо, clear - ясный</answer_comment>
+    
+    <uuid>f38122d2-51c5-40c6-86a7-8f95ea57aa6c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sky is cloudy.</question>
+    <answer>Небо облачное.</answer>
+    <comment>[ðə skаɪ ɪz ˈklаʊdiː]</comment>
+    <answer_comment>sky - небо, cloudy - облачный</answer_comment>
+    
+    <uuid>433e8cbd-0e36-4b00-9b64-7bc1b06232c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s raining.</question>
+    <answer>Идет дождь.</answer>
+    <comment>[ɪts ˈreɪnɪŋ]</comment>
+    <answer_comment>to rain - идти (о дожде)</answer_comment>
+    
+    <uuid>2fa8fe67-e998-47a5-a92d-2ce130f5800f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s snowing.</question>
+    <answer>Идет снег.</answer>
+    <comment>[ɪts ˈsnoʊɪŋ]</comment>
+    <answer_comment>to snow - идти (о снеге)</answer_comment>
+    
+    <uuid>ce7237fe-4ad4-4960-a160-a19a50f4245f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s hailing.</question>
+    <answer>Идет град.</answer>
+    <comment>[ɪts ˈheɪlɪŋ]</comment>
+    <answer_comment>to hail - идти (о граде)</answer_comment>
+    
+    <uuid>210805ac-af9b-4de6-bf48-aa3233bf8736</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Strong wind blows.</question>
+    <answer>Дует сильный ветер.</answer>
+    <comment>[strɔːŋ wɪnd bloʊz]</comment>
+    <answer_comment>strong - сильный, wind - ветер, to blow - дуть</answer_comment>
+    
+    <uuid>047fda36-859c-4b14-8ced-97d392163782</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s pouring.</question>
+    <answer>Дождь льет как из ведра.</answer>
+    <comment>[ɪts ˈpɔːrɪŋ]</comment>
+    <answer_comment>to pour - лить (о дожде)</answer_comment>
+    
+    <uuid>2ba92ffb-4032-47c4-a8cc-4a7e94da018b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s driving rain.</question>
+    <answer>Идет проливной дождь.</answer>
+    <comment>[ɪts ˈdrаɪvɪŋ reɪn]</comment>
+    <answer_comment>driving rain - проливной дождь</answer_comment>
+    
+    <uuid>d182cdc4-68a2-44d3-8c59-59d06e9cca5f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s getting cold.</question>
+    <answer>Холодает.</answer>
+    <comment>[ɪts ˈgetɪŋ koʊld]</comment>
+    <answer_comment>to get - становиться, cold - холодный</answer_comment>
+    
+    <uuid>b0c46ea3-8966-413e-8fa3-31d9508178c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Frosts have struck.</question>
+    <answer>Ударили морозы.</answer>
+    <comment>[frɔːsts hæv strʌk]</comment>
+    <answer_comment>frost - мороз, to strike - ударить</answer_comment>
+    
+    <uuid>a909eb0b-b767-4058-af7e-1cc899ba5404</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yesterday it was hot all day long.</question>
+    <answer>Вчера весь день было жарко.</answer>
+    <comment>[ˈjestərdiː ɪt wʌz hɑːt ɔːl deɪ lɔːŋ]</comment>
+    <answer_comment>yesterday - вчера, it - это, was - был, было, была, hot - жаркий, all - весь, day - день, long - длинный</answer_comment>
+    
+    <uuid>7caeaaf0-06c1-41d3-8aef-5434f4da20f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yesterday it was cold all day long.</question>
+    <answer>Вчера весь день было холодно.</answer>
+    <comment>[ˈjestərdiː ɪt wʌz koʊld ɔːl deɪ lɔːŋ]</comment>
+    <answer_comment>yesterday - вчера, it - это, was - был, было, была, cold - холодный, all - весь, day - день, long - длинный</answer_comment>
+    
+    <uuid>f92e7f3c-805f-4bea-904d-336c701f140e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yesterday snow was falling all day long.</question>
+    <answer>Вчера весь день шел снег.</answer>
+    <comment>[ˈjestərdiː snoʊ wʌz ˈfɔːlɪŋ ɔːl deɪ lɔːŋ]</comment>
+    <answer_comment>yesterday - вчера, snow - снег, was - был, была, было, falling - падающий, all - весь, day - день, long - длинный</answer_comment>
+    
+    <uuid>b0dc899c-593c-47a2-b65e-142adc14f3c5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yesterday rain was pouring all day long.</question>
+    <answer>Вчера весь день шел дождь.</answer>
+    <comment>[ˈjestərdiː reɪn wʌz ˈpɔːrɪŋ ɔːl deɪ lɔːŋ]</comment>
+    <answer_comment>yesterday - вчера, rain - дождь, was - был, была, было, pouring - льющий, all - весь, day - день, long - длинный</answer_comment>
+    
+    <uuid>5da894fd-c54f-46a9-ac2e-fb9dde71305e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today the sun is shining brightly.</question>
+    <answer>Сегодня солнце светит ярко.</answer>
+    <comment>[təˈdeɪ ðə sʌn ɪz ˈʃаɪnɪŋ ˈbrаɪtli]</comment>
+    <answer_comment>today - сегодня, sun - солнце, shining - светящий, brightly - ярко</answer_comment>
+    
+    <uuid>b6012b24-818d-435f-8950-23fa12751a40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today the weather is much better.</question>
+    <answer>Сегодня распогодилось.</answer>
+    <comment>[təˈdeɪ ðə ˈweðər ɪz mʌʧ ˈbetər]</comment>
+    <answer_comment>today - сегодня, weather - погода, much - много, better - лучше</answer_comment>
+    
+    <uuid>48ebf61d-026b-4d4c-863d-5bf24da55b98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today the weather is wonderful.</question>
+    <answer>Сегодня погода чудесная!</answer>
+    <comment>[təˈdeɪ ðə ˈweðər ɪz ˈwʌndərfəl]</comment>
+    <answer_comment>today - сегодня, weather - погода, wonderful - чудесный</answer_comment>
+    
+    <uuid>1f788c66-7755-46a8-8bd5-c2695cccee23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Now it&apos;s full moon.</question>
+    <answer>Сейчас полнолуние.</answer>
+    <comment>[nаʊ ɪts fʊl muːn]</comment>
+    <answer_comment>now - сейчас, full - полный, moon - луна</answer_comment>
+    
+    <uuid>7f23f993-9ea0-4621-8645-765810df8173</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Now it&apos;s new moon.</question>
+    <answer>Сейчас новолуние.</answer>
+    <comment>[nаʊ ɪts nuː muːn]</comment>
+    <answer_comment>now - сейчас, new - новый, moon - луна</answer_comment>
+    
+    <uuid>330f0afd-a048-4496-bd27-d42c81ff8629</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the weather forecast for tomorrow?</question>
+    <answer>Какой прогноз погоды на завтра?</answer>
+    <comment>[hwʌts ðə ˈweðər ˈfɔːrˌkæst fər təˈmɔːroʊ]</comment>
+    <answer_comment>what - что, какой, weather - погода, forecast - прогноз, tomorrow - завтра</answer_comment>
+    
+    <uuid>e4ea978d-1b48-44b9-9b56-f5d6193d419c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the weather forecast for today?</question>
+    <answer>Какой прогноз погоды на сегодня?</answer>
+    <comment>[hwʌts ðə ˈweðər ˈfɔːrˌkæst fər təˈdeɪ]</comment>
+    <answer_comment>what - что, какой, weather - погода, forecast - прогноз, today - сегодня</answer_comment>
+    
+    <uuid>072196b7-2117-41ad-af18-0515d4f6355f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you think it&apos;s going to be a nice day tomorrow?</question>
+    <answer>Как вы думаете, завтра будет хороший день?</answer>
+    <comment>[duː jʊ θɪŋk ɪts ˈgoʊɪŋ tə biː ə nаɪs deɪ təˈmɔːroʊ]</comment>
+    <answer_comment>to think - думать, to be going to - собираться (что-л. делать), to be - быть, nice - замечательный, day - день, tomorrow - завтра</answer_comment>
+    
+    <uuid>091f8e6e-4f83-45d8-baee-fa5ab2053c87</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you think it&apos;s going to rain tomorrow?</question>
+    <answer>Как вы думаете, завтра будет дождь?</answer>
+    <comment>[duː jʊ θɪŋk ɪts ˈgoʊɪŋ tə reɪn təˈmɔːroʊ]</comment>
+    <answer_comment>to think - думать, to be going to - собираться (что-л. делать), to rain - идти (о дожде), tomorrow - завтра</answer_comment>
+    
+    <uuid>c284ab8e-956b-4672-acd6-aed29034200c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you think it&apos;s going to snow tomorrow?</question>
+    <answer>Как вы думаете, завтра будет снег?</answer>
+    <comment>[duː jʊ θɪŋk ɪts ˈgoʊɪŋ tə snoʊ təˈmɔːroʊ]</comment>
+    <answer_comment>to think - думать, to be going to - собираться (что-л. делать), to snow - идти (о снеге), tomorrow - завтра</answer_comment>
+    
+    <uuid>060031ec-60ab-4a71-b49d-c5e916ee04c1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be warm.</question>
+    <answer>Завтра будет тепло.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː wɔːrm]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, warm - теплый</answer_comment>
+    
+    <uuid>e3c3df2d-8ac7-4a5e-bd5c-456b846c35e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be hot.</question>
+    <answer>Завтра будет жарко.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː hɑːt]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, hot - жаркий</answer_comment>
+    
+    <uuid>69ab9ea5-6467-47d8-a985-abc13f79d843</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be cold.</question>
+    <answer>Завтра будет холодно.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː koʊld]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, cold - холодный</answer_comment>
+    
+    <uuid>f6a81071-82d5-4a6d-bf4d-addba9976e13</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be rainy.</question>
+    <answer>Завтра будет дождливо.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː ˈreɪniː]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, rainy - дождливый</answer_comment>
+    
+    <uuid>4eb68dd8-bd92-44de-a941-6b10b1aa0fac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be foggy.</question>
+    <answer>Завтра будет туман.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː ˈfɑːgiː]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, foggy - туманный</answer_comment>
+    
+    <uuid>a177206c-2109-486f-9b75-24af594f2e99</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be a thunderstorm.</question>
+    <answer>Завтра будет гроза.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː ə ˈθʌndərˌstɔːrm]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, thunderstorm - гром</answer_comment>
+    
+    <uuid>088e0656-57d2-424b-8eb2-9a3a6193e42a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tomorrow it will be a storm.</question>
+    <answer>Завтра будет буря.</answer>
+    <comment>[təˈmɔːroʊ ɪt wɪl biː ə stɔːrm]</comment>
+    <answer_comment>tomorrow - завтра, it - это, to be - быть, storm - буря, шторм</answer_comment>
+    
+    <uuid>2ae76261-4167-4724-9871-37cd01a6b4c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is water temperature today?</question>
+    <answer>Какая сегодня температура воды?</answer>
+    <comment>[hwʌt ɪz ˈwɔːtər ˈtempərəʧər təˈdeɪ]</comment>
+    <answer_comment>what - что, какой, water - вода, temperature - температура, today - сегодня</answer_comment>
+    
+    <uuid>2c4ac01f-4077-472e-8341-2a96421dcd3e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the temperature?</question>
+    <answer>Какая температура воздуха?</answer>
+    <comment>[hwʌts ðə ˈtempərəʧər]</comment>
+    <answer_comment>what - что, какой, temperature - температура</answer_comment>
+    
+    <uuid>3b2d4f34-17ba-4282-9637-b5ec6a336de6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is the sea very choppy?</question>
+    <answer>На море сильное волнение?</answer>
+    <comment>[ɪz ðə siː ˈveriː ˈʧɑːpiː]</comment>
+    <answer_comment>sea - море, very - очень, choppy - неспокойный (о море)</answer_comment>
+    
+    <uuid>c211030c-d1d3-4a12-b20d-918bfb7c6de9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the wind force?</question>
+    <answer>Какая сила ветра?</answer>
+    <comment>[hwʌt ɪz ðə wɪnd fɔːrs]</comment>
+    <answer_comment>what - что, какой, wind - ветер, force - сила</answer_comment>
+    
+    <uuid>49d2aea3-647c-4503-a967-f8142f1b5865</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sea is stormy.</question>
+    <answer>Море штормит.</answer>
+    <comment>[ðə siː ɪz ˈstɔːrmiː]</comment>
+    <answer_comment>sea - море, stormy - штормовой</answer_comment>
+    
+    <uuid>60673ca9-3a77-40f0-8a31-f61430b33874</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Today a storm has broken out.</question>
+    <answer>Сегодня разыгрался шторм.</answer>
+    <comment>[təˈdeɪ ə stɔːrm hæz ˈbroʊkən аʊt]</comment>
+    <answer_comment>today - сегодня, storm - буря, to break out - разразиться</answer_comment>
+    
+    <uuid>1a0f8c6d-7e5e-46b6-ae75-79d7ae5021ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Swimming is forbidden.</question>
+    <answer>Купаться запрещено.</answer>
+    <comment>[ˈswɪmɪŋ ɪz fərˈbɪdn]</comment>
+    <answer_comment>swimming - плавание, forbidden - запрещенный</answer_comment>
+    
+    <uuid>25feaa52-6408-4896-a0b7-07dba80092e2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can&apos;t even stay in the sun for five minutes.</question>
+    <answer>На солнце невозможно находиться и пяти минут!</answer>
+    <comment>[kænt ˈiːvən steɪ ɪn ðə sʌn fər fаɪv ˈmɪnɪts]</comment>
+    <answer_comment>can - мочь, even - даже, to stay - оставаться, sun - солнце, for - в течение, five - пять, minute - минута</answer_comment>
+    
+    <uuid>7ca94a36-4cd2-477e-9e2a-67c626788148</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It hasn&apos;t rained a drop for months.</question>
+    <answer>На протяжении нескольких месяцев не выпало ни капли.</answer>
+    <comment>[ɪt ˈhаzənt reɪnd ə drɑːp fər mʌnθs]</comment>
+    <answer_comment>to rain - идти (о дожде), drop - капля, for - в течение, month - месяц</answer_comment>
+    
+    <uuid>472cabb1-94e1-4956-9452-6efecdc854ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s getting clearer.</question>
+    <answer>Проясняется.</answer>
+    <comment>[ɪts ˈgetɪŋ ˈklɪrrə]</comment>
+    <answer_comment>to get - становиться, clearer - яснее</answer_comment>
+    
+    <uuid>4444cc59-4ba6-4521-83a1-d60fc7bb4cfb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What a severe winter we have this year!</question>
+    <answer>Какая холодная зима в этом году!</answer>
+    <comment>[hwʌt ə sɪˈvɪr ˈwɪntər wiː hæv ðɪs jɪr]</comment>
+    <answer_comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</answer_comment>
+    
+    <uuid>efd53192-937c-4458-a1a2-af64ffcbe4e3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Don&apos;t be frostbitten!</question>
+    <answer>Не обморозься!</answer>
+    <comment>[doʊnt biː ˈfrɔːstbɪtn]</comment>
+    <answer_comment>to be - быть, frostbitten - обмороженный</answer_comment>
+    
+    <uuid>394c8cf2-dc70-48fe-9308-2f58edd3bb35</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The snow is going to fall thick.</question>
+    <answer>Будет сильный снегопад.</answer>
+    <comment>[ðə snoʊ ɪz ˈgoʊɪŋ tə fɔːl θɪk]</comment>
+    <answer_comment>snow - снег, to be going to - собираться (что-л. сделать), to fall - падать, thick - густой, толстый</answer_comment>
+    
+    <uuid>7d595e59-f351-42c7-8afe-cee91c7205e9</uuid>
+  </card>
+</cards>
+</stack>

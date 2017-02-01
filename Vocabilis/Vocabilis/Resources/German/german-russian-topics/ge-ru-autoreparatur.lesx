@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5e9ee80c-666d-4a5f-bc19-5445edea0978</uuid>
+  <title>Ремонт автомобиля</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>die Reparaturwerkstatt</question>
+    <answer>техпомощь</answer>
+    <comment></comment>
+    <uuid>7d1005c0-6885-4232-b97d-65beb0a9129c</uuid>
+  </card>
+  <card>
+    <question>Darf ich mal bei Ihnen telefonieren?</question>
+    <answer>Можно от вас позвонить?</answer>
+    <comment></comment>
+    <uuid>14439705-cead-4494-a27c-683853bdecc8</uuid>
+  </card>
+  <card>
+    <question>Das Gaspedal ist kaputt.</question>
+    <answer>Педаль акселератора сломалась.</answer>
+    <comment></comment>
+    <uuid>15a37710-6e42-4efe-b811-4465d138a469</uuid>
+  </card>
+  <card>
+    <question>der Abschleppdienst</question>
+    <answer>аварийно-буксирная служба</answer>
+    <comment></comment>
+    <uuid>cb95813b-b890-4147-bb8f-b8f074b4c0c5</uuid>
+  </card>
+  <card>
+    <question>Der Abschleppdienst kommt gleich.</question>
+    <answer>Аварийно-буксирная служба сейчас прибудет.</answer>
+    <comment></comment>
+    <uuid>0bd13b56-e547-48bb-a70d-e5f12c47d892</uuid>
+  </card>
+  <card>
+    <question>Der Keilriemen rutscht.</question>
+    <answer>Клиновой ремень скользит.</answer>
+    <comment></comment>
+    <uuid>e9681ab7-aa3b-4471-9e97-7f13311fd5cf</uuid>
+  </card>
+  <card>
+    <question>Der Motor ist defekt.</question>
+    <answer>Двигатель сломался.</answer>
+    <comment></comment>
+    <uuid>79c138cc-1399-401e-8c8e-e1cfa939daaa</uuid>
+  </card>
+  <card>
+    <question>Der Schlüssel steckt innen.</question>
+    <answer>Ключ находится внутри машины.</answer>
+    <comment></comment>
+    <uuid>74de9fb2-b325-424b-afcc-39b2e2b83897</uuid>
+  </card>
+  <card>
+    <question>Die Batterie ist leer.</question>
+    <answer>Аккумуляторная батарея села.</answer>
+    <comment></comment>
+    <uuid>b2f52286-dcea-4251-936b-0957de2d5d6c</uuid>
+  </card>
+  <card>
+    <question>Die Gangschaltung ist nicht in Ordnung.</question>
+    <answer>Переключатель скоростей не в порядке.</answer>
+    <comment></comment>
+    <uuid>70151576-b15d-4037-aff1-5e60691d72b3</uuid>
+  </card>
+  <card>
+    <question>Die Handbremse funktioniert nicht.</question>
+    <answer>Ручной тормоз не работает.</answer>
+    <comment></comment>
+    <uuid>45783448-9393-4b3b-b7ac-00112231f0ef</uuid>
+  </card>
+  <card>
+    <question>die Notrufsäle</question>
+    <answer>колонка вызова помощи</answer>
+    <comment></comment>
+    <uuid>1510fb7c-9543-4aa2-b324-64da8eb06e02</uuid>
+  </card>
+  <card>
+    <question>die Panne</question>
+    <answer>авария</answer>
+    <comment></comment>
+    <uuid>c363668b-187a-4b35-b6f9-3f9f25def1e7</uuid>
+  </card>
+  <card>
+    <question>die Reifenpanne</question>
+    <answer>прокол шин</answer>
+    <comment></comment>
+    <uuid>8fff1b0f-3d3e-405f-b6a0-3d3ea384544a</uuid>
+  </card>
+  <card>
+    <question>die Werkstatt</question>
+    <answer>мастерская</answer>
+    <comment></comment>
+    <uuid>7bc35ce4-27d2-4988-91ff-7cfb9440ead1</uuid>
+  </card>
+  <card>
+    <question>Ich brauche eine neue Glühbirne.</question>
+    <answer>Мне нужна новая лампочка.</answer>
+    <comment></comment>
+    <uuid>c0bdc15d-fda5-4ec7-983d-0de204787cd6</uuid>
+  </card>
+  <card>
+    <question>Ich brauche eine neue Sicherung.</question>
+    <answer>Мне нужен новый предохранитель.</answer>
+    <comment></comment>
+    <uuid>1d243b0c-8a86-432a-b289-f57dc73d54d7</uuid>
+  </card>
+  <card>
+    <question>Ich habe den Schlüssel verloren.</question>
+    <answer>Я потерял ключи.</answer>
+    <comment></comment>
+    <uuid>3431d9e5-d2a2-4513-b6f1-f53a0449c504</uuid>
+  </card>
+  <card>
+    <question>Ich habe eine Panne. Können Sie mir helfen?</question>
+    <answer>У меня произошла авария. Вы мне можете помочь?</answer>
+    <comment></comment>
+    <uuid>63ed8140-76d8-44ca-8e63-fcc542bc1c4b</uuid>
+  </card>
+  <card>
+    <question>Ich habe eine Reifenpanne.</question>
+    <answer>У меня лопнула шина.</answer>
+    <comment></comment>
+    <uuid>ae4f600a-d590-4b0f-9ef2-e9a712d472f3</uuid>
+  </card>
+  <card>
+    <question>Kann ich hier warten?</question>
+    <answer>Я могу здесь подождать?</answer>
+    <comment></comment>
+    <uuid>562485bf-d4f3-400e-ae25-b3458f244ef1</uuid>
+  </card>
+  <card>
+    <question>Schreiben Sie den Preis auf.</question>
+    <answer>Запишите цену.</answer>
+    <comment></comment>
+    <uuid>13c50dcd-c506-4788-bd33-43eaf1993575</uuid>
+  </card>
+  <card>
+    <question>Wie lange wird es dauern?</question>
+    <answer>Как долго это будет длиться?</answer>
+    <comment></comment>
+    <uuid>8c589903-3d66-432f-8dd8-de772090bbf8</uuid>
+  </card>
+  <card>
+    <question>Wieviel wird die Reparatur kosten?</question>
+    <answer>Сколько будет стоить ремонт?</answer>
+    <comment></comment>
+    <uuid>cadff1c4-263e-42f8-b476-1e9da04021bb</uuid>
+  </card>
+  <card>
+    <question>Wo ist hier die nächste VW-Werkstatt?</question>
+    <answer>Где ближайшая мастерская &quot;Фольксваген &quot;?</answer>
+    <comment></comment>
+    <uuid>47757c86-e028-4b12-81f6-9470a0a2d675</uuid>
+  </card>
+  <card>
+    <question>Wo steht Ihr Fahrzeug?</question>
+    <answer>Где находится Ваша машина?</answer>
+    <comment></comment>
+    <uuid>f924fc93-a3b6-4408-a88d-a6db7dde6445</uuid>
+  </card>
+  <card>
+    <question>Würden Sie bitte die Kupplung nachsehen?</question>
+    <answer>Посмотрите, пожалуйста, сцепление.</answer>
+    <comment></comment>
+    <uuid>a05a6eb3-fd7c-47dc-ade1-21faf0716c69</uuid>
+  </card>
+  <card>
+    <question>Würden Sie bitte die Zündung überprüfen?</question>
+    <answer>Проверьте, пожалуйста, зажигание.</answer>
+    <comment></comment>
+    <uuid>2899531e-8581-4593-9727-a39ceb40e069</uuid>
+  </card>
+</cards>
+</stack>

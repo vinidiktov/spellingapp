@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>029e73c2-2e2a-47bb-a5e7-5e4614f405d3</uuid>
+  <title>Предлоги</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>au-dessus de</question>
+    <answer>над</answer>
+    <comment></comment>
+    <answer_picture>above.gif</answer_picture>
+    <uuid>cd8b5222-06dc-4ec0-9f44-dc5c2714da13</uuid>
+  </card>
+  <card>
+    <question>après</question>
+    <answer>после</answer>
+    <comment></comment>
+    <answer_picture>after.gif</answer_picture>
+    <uuid>93767693-252d-4812-8f2d-346dcea73630</uuid>
+  </card>
+  <card>
+    <question>avant</question>
+    <answer>перед, до (A. after)</answer>
+    <comment></comment>
+    <answer_picture>before.gif</answer_picture>
+    <uuid>a411ab8e-18fe-4688-ae7b-8939011d6b58</uuid>
+  </card>
+  <card>
+    <question>derrière</question>
+    <answer>позади</answer>
+    <comment></comment>
+    <answer_picture>behind.gif</answer_picture>
+    <uuid>7399b637-aeab-4108-b2ea-3a7838e5021a</uuid>
+  </card>
+  <card>
+    <question>à côté de</question>
+    <answer>рядом с</answer>
+    <comment></comment>
+    <answer_picture>beside.gif</answer_picture>
+    <uuid>e3aad9ca-a637-4cc2-adac-da6fb6d1991f</uuid>
+  </card>
+  <card>
+    <question>dans</question>
+    <answer>в, внутри</answer>
+    <comment></comment>
+    <answer_picture>in.gif</answer_picture>
+    <uuid>e9f39a7e-1e61-47cb-b4a5-489b73098f82</uuid>
+  </card>
+  <card>
+    <question>devant</question>
+    <answer>перед (A. behind)</answer>
+    <comment></comment>
+    <answer_picture>in_front_of.gif</answer_picture>
+    <uuid>95fac1d6-64d0-443b-9c6f-036a416e73a7</uuid>
+  </card>
+  <card>
+    <question>dernier</question>
+    <answer>последний</answer>
+    <comment></comment>
+    <answer_picture>last.gif</answer_picture>
+    <uuid>f19d29bd-7a7b-4413-90bb-f84325f3b763</uuid>
+  </card>
+  <card>
+    <question>suivant</question>
+    <answer>следующий</answer>
+    <comment></comment>
+    <answer_picture>next.gif</answer_picture>
+    <uuid>3dd262ca-6e45-485d-be4a-6d22d3277283</uuid>
+  </card>
+  <card>
+    <question>sur</question>
+    <answer>на</answer>
+    <comment></comment>
+    <answer_picture>on.gif</answer_picture>
+    <uuid>7405d963-0f78-4d5f-8a24-b0dabd6484c4</uuid>
+  </card>
+  <card>
+    <question>sous</question>
+    <answer>под</answer>
+    <comment></comment>
+    <answer_picture>under.gif</answer_picture>
+    <uuid>fdf2ea08-a796-43fb-921a-0556440fdd0a</uuid>
+  </card>
+</cards>
+</stack>

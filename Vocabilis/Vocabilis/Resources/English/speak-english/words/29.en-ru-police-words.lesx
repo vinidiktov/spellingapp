@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>23ce43d2-c103-48b6-abd8-081c5b223073</uuid>
+  <title>В полицейском участке :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>reprehensible</question>
+    <answer>предосудительный</answer>
+    <comment>[ˌreprɪˈhensəbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e1235d60-df38-48c0-880f-18e252640e01</uuid>
+    <examples>
+       <example>
+          <value>anything reprehensible</value>
+          <translation>что-нибудь предосудительное</translation>
+          <comment>anything - что-нибудь, reprehensible - предосудительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>rob</question>
+    <answer>грабить</answer>
+    <comment>[rɑːb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f791bc80-fa15-469a-af8a-21defd9df189</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve been robbed.</value>
+          <translation>Меня ограбили.</translation>
+          <comment>robbed - ограбленный, to rob - грабить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>suspicious</question>
+    <answer>подозрительный</answer>
+    <comment>[səˈspɪʃəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1995174b-16ec-4b9b-9446-4ea55ca5f631</uuid>
+    <examples>
+       <example>
+          <value>anything suspicious</value>
+          <translation>что-нибудь подозрительное</translation>
+          <comment>anything - что-нибудь, suspicious - подозрительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>purse</question>
+    <answer>кошелек</answer>
+    <comment>[pɜːrs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>24d26fb6-bf6a-4788-bbd6-eb42b74b5b57</uuid>
+    <examples>
+       <example>
+          <value>in my purse</value>
+          <translation>в моем кошельке</translation>
+          <comment>my - мой, моя, purse - кошелек</comment>
+       </example>
+       <example>
+          <value>to lose your purse</value>
+          <translation>потерять (твой) кошелек (женский)</translation>
+          <comment>to lose - терять, purse - кошелек (женский)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>embassy</question>
+    <answer>посольство</answer>
+    <comment>[ˈembəsiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5e8da104-411b-4f24-945d-b3356a60bdd2</uuid>
+    <examples>
+       <example>
+          <value>an official from the embassy</value>
+          <translation>сотрудник посольства</translation>
+          <comment>official - официальное лицо, embassy - посольство</comment>
+       </example>
+       <example>
+          <value>to call an official from the embassy</value>
+          <translation>пригласить (вызвать) сотрудника посольства</translation>
+          <comment>to call - звать, official - официальное лицо, embassy - посольство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ship</question>
+    <answer>корабль</answer>
+    <comment>[ʃɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b511591-9b96-4398-9c18-578052fcad21</uuid>
+    <examples>
+       <example>
+          <value>to be left behind by your ship</value>
+          <translation>отстать от (твоего) теплохода</translation>
+          <comment>to leave - оставлять, behind - позади, ship - теплоход</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>miss</question>
+    <answer>пропускать</answer>
+    <comment>[mɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d3696c9-dca4-4a83-a200-92f8296db6ac</uuid>
+    <examples>
+       <example>
+          <value>to miss the plane</value>
+          <translation>опоздать на самолет</translation>
+          <comment>to miss - опоздать, пропустить, plane - самолет</comment>
+       </example>
+       <example>
+          <value>to miss the train</value>
+          <translation>опоздать на поезд</translation>
+          <comment>to miss - опоздать, пропустить, train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>somewhere</question>
+    <answer>где-то</answer>
+    <comment>[ˈsʌmhwer]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ad6caca6-f62b-45e9-a8ef-63ea6a38ba42</uuid>
+    <examples>
+       <example>
+          <value>to lose somewhere</value>
+          <translation>где-то потерять</translation>
+          <comment>to lose - терять, somewhere - где-то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>illegal</question>
+    <answer>незаконный</answer>
+    <comment>[ɪˈliːgəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0932a1a9-acff-4683-bd1b-0f3625b259cd</uuid>
+    <examples>
+       <example>
+          <value>to be detained illegally</value>
+          <translation>быть незаконно задержанным</translation>
+          <comment>to detain - задерживать, detained - задержанный, illegally - незаконно, illegal - незаконный, legal - законный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>explain</question>
+    <answer>объяснять</answer>
+    <comment>[ɪkˈspleɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fed1054b-40e8-4310-9f1b-a8a2fcdc500a</uuid>
+    <examples>
+       <example>
+          <value>to explain everything</value>
+          <translation>все объяснить</translation>
+          <comment>to explain - объяснить, everything - все</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>people</question>
+    <answer>люди</answer>
+    <comment>[ˈpiːpəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc1b21bc-6caf-4fa8-bb5f-86ed58800003</uuid>
+    <examples>
+       <example>
+          <value>some people</value>
+          <translation>какие-то люди</translation>
+          <comment>some - некоторый, people - люди</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>detain</question>
+    <answer>задерживать</answer>
+    <comment>[dɪˈteɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c4c657ae-7bd9-45d0-b48f-1911e74b0159</uuid>
+    <examples>
+       <example>
+          <value>to be detained illegally</value>
+          <translation>быть незаконно задержанным</translation>
+          <comment>to detain - задерживать, detained - задержанный, illegally - незаконно, illegal - незаконный, legal - законный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tourist</question>
+    <answer>турист</answer>
+    <comment>[ˈtʊrɪst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>04a375e9-7efa-446d-8ae7-582d763380c9</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m a tourist.</value>
+          <translation>Я турист.</translation>
+          <comment>tourist - туристом</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>business</question>
+    <answer>дело</answer>
+    <comment>[ˈbɪznɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3aa86425-7f13-464e-a8f5-8145538574ce</uuid>
+    <examples>
+       <example>
+          <value>to be on business here</value>
+          <translation>быть здесь по делу</translation>
+          <comment>business - дело, here - здесь</comment>
+       </example>
+       <example>
+          <value>your regular business</value>
+          <translation>ваше постоянное занятие</translation>
+          <comment>your - твой, ваш, regular - постоянный, business - дело, занятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>snatch</question>
+    <answer>хватать</answer>
+    <comment>[snætʃ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb869940-d4a6-4af2-953a-bba733d50394</uuid>
+    <examples>
+       <example>
+          <value>to snatch out your bag</value>
+          <translation>выхватить твою сумку</translation>
+          <comment>to snatch - хватать, bag - сумка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>alone</question>
+    <answer>один</answer>
+    <comment>[əˈloʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>18e53608-1dd3-4d8e-8c2e-a4f8daa341f3</uuid>
+    <examples>
+       <example>
+          <value>to leave somebody alone</value>
+          <translation>оставить кого-либо в покое</translation>
+          <comment>to leave - оставлять, somebody - кто-либо, alone - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>consulate</question>
+    <answer>консульство</answer>
+    <comment>[ˈkɑːnsəlɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bddfac13-a194-4483-9462-8b96b79568cc</uuid>
+    <examples>
+       <example>
+          <value>an official from the consulate</value>
+          <translation>сотрудник консульства</translation>
+          <comment>official - официальное лицо, consulate - консульство</comment>
+       </example>
+       <example>
+          <value>to call an official from the consulate</value>
+          <translation>пригласить (вызвать) сотрудника консульства</translation>
+          <comment>to call - звать, official - официальное лицо, consulate - консульство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stolen</question>
+    <answer>украденный</answer>
+    <comment>[ˈstoʊlən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>37b46ea0-eef2-4d16-94d6-62f1099b6cd1</uuid>
+    <examples>
+       <example>
+          <value>My wallet has been stolen.</value>
+          <translation>У меня украли бумажник.</translation>
+          <comment>wallet - бумажник, stolen - украденный, to steal - красть</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>leave</question>
+    <answer>оставлять</answer>
+    <comment>[liːv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2e9bca31-9bcb-45d9-9a98-5908dfa1e817</uuid>
+    <examples>
+       <example>
+          <value>to leave your bag</value>
+          <translation>забыть (твою) сумку</translation>
+          <comment>to leave - оставлять, bag - сумка</comment>
+       </example>
+       <example>
+          <value>to leave your suitcase</value>
+          <translation>забыть (твой) чемодан</translation>
+          <comment>to leave - оставлять, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to leave in a bus</value>
+          <translation>оставить в автобусе</translation>
+          <comment>to leave - оставлять, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to leave in a taxi</value>
+          <translation>оставить в такси</translation>
+          <comment>to leave - оставлять, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to leave somebody alone</value>
+          <translation>оставить кого-либо в покое</translation>
+          <comment>to leave - оставлять, somebody - кто-либо, alone - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wallet</question>
+    <answer>бумажник</answer>
+    <comment>[ˈwɑːlɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0cea5089-e1c3-45fd-a797-dd2bbcdd64dd</uuid>
+    <examples>
+       <example>
+          <value>in the wallet</value>
+          <translation>в бумажнике</translation>
+          <comment>wallet - бумажник</comment>
+       </example>
+       <example>
+          <value>to lose your wallet</value>
+          <translation>потерять (твой) бумажник</translation>
+          <comment>to lose - терять, wallet - бумажник</comment>
+       </example>
+       <example>
+          <value>My wallet has been stolen.</value>
+          <translation>У меня украли бумажник.</translation>
+          <comment>wallet - бумажник, stolen - украденный, to steal - красть</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>remain</question>
+    <answer>оставаться</answer>
+    <comment>[rɪˈmeɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31a95a05-134d-4794-b5b8-f5f2b3ae92e3</uuid>
+    <examples>
+       <example>
+          <value>to remain there</value>
+          <translation>остаться там</translation>
+          <comment>to remain - оставаться, there - там</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>steal</question>
+    <answer>красть</answer>
+    <comment>[stiːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca2f3d19-70cd-48a6-be6f-d2d6ed760aef</uuid>
+    <examples>
+       <example>
+          <value>to steal a car</value>
+          <translation>украсть машину</translation>
+          <comment>to steal - воровать, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

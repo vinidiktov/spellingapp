@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d66ecd93-2dd1-480f-8092-4fbf92d00d52</uuid>
+  <title>Бытовое обслуживание :: Парикмахерская :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>23</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Hay peluquería en el hotel?</question>
+    <answer>В гостинице есть парикмахерская?</answer>
+    <comment></comment>
+    <uuid>2c3c55f9-eee6-46f0-9c34-fe24226b58f1</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay por aquí cerca una peluquería?</question>
+    <answer>Где здесь поблизости парикмахерская?</answer>
+    <comment></comment>
+    <uuid>464ae026-08d8-4368-b075-51c76897b893</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el salón de caballeros?</question>
+    <answer>Где мужской зал?</answer>
+    <comment></comment>
+    <uuid>03a53111-5b4c-4895-9070-1bbf8b66f216</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el salón de señoras?</question>
+    <answer>Где женский зал?</answer>
+    <comment></comment>
+    <uuid>6096018a-fd39-4b7b-be0d-494a4952604e</uuid>
+  </card>
+  <card>
+    <question>¿Hay salón de belleza en su peluquería?</question>
+    <answer>В вашей парикмахерской есть косметический кабинет?</answer>
+    <comment></comment>
+    <uuid>a5a9da32-ea67-4859-8dbc-56557c66f762</uuid>
+  </card>
+  <card>
+    <question>¿Quién es el último?</question>
+    <answer>Кто последний?</answer>
+    <comment></comment>
+    <uuid>854fd3d4-c3a3-4e85-8e21-848c7e151e1c</uuid>
+  </card>
+  <card>
+    <question>Ahora es mi turno.</question>
+    <answer>Сейчас моя очередь.</answer>
+    <comment></comment>
+    <uuid>4416b659-746a-492e-8d93-d683bbd61a50</uuid>
+  </card>
+  <card>
+    <question>Ahora es su turno.</question>
+    <answer>Сейчас Ваша очередь.</answer>
+    <comment></comment>
+    <uuid>4c7885fd-cd61-4bde-9c78-7f275dbcf3eb</uuid>
+  </card>
+  <card>
+    <question>Necesito cortarme el pelo.</question>
+    <answer>Мне надо подстричься.</answer>
+    <comment></comment>
+    <uuid>94b87857-57b5-4bb1-a84f-274f81b9eb9e</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale?</question>
+    <answer>Сколько это будет стоить? (=Сколько стоит?)</answer>
+    <comment></comment>
+    <uuid>d41d0cf2-985b-4041-a748-f191e90afe34</uuid>
+  </card>
+  <card>
+    <question>Quisiera cortarme el pelo.</question>
+    <answer>Я хотел бы подстричься.</answer>
+    <comment></comment>
+    <uuid>5245e3fa-512f-4045-9819-bbfd1ec1d51a</uuid>
+  </card>
+  <card>
+    <question>Quisiera afeitarme.</question>
+    <answer>Я хотел бы побриться.</answer>
+    <comment></comment>
+    <uuid>204158c2-cca0-44e1-a386-c8bd880a8891</uuid>
+  </card>
+  <card>
+    <question>No me corte demasiado.</question>
+    <answer>Постригите меня не очень коротко. (=Не стригите меня слишком.)</answer>
+    <comment></comment>
+    <uuid>6d73bdcb-5499-41d2-ab1c-e2c7f6334b59</uuid>
+  </card>
+  <card>
+    <question>No demasiado corto, por favor.</question>
+    <answer>Не очень коротко, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>6b4d47fa-9590-4fb2-9275-de4af8b672f7</uuid>
+  </card>
+  <card>
+    <question>Por favor, quíteme de delante.</question>
+    <answer>Постригите, пожалуйста, спереди.</answer>
+    <comment></comment>
+    <uuid>c306696a-c313-421f-83bf-caa0e06fcf43</uuid>
+  </card>
+  <card>
+    <question>Por favor, quíteme de los lados.</question>
+    <answer>Постригите, пожалуйста, с боков.</answer>
+    <comment></comment>
+    <uuid>baf41d68-c3e0-479e-8d4d-c0c4841235b8</uuid>
+  </card>
+  <card>
+    <question>Por favor, quíteme de atrás.</question>
+    <answer>Постригите, пожалуйста, сзади.</answer>
+    <comment></comment>
+    <uuid>80c61bd1-9458-463f-8e25-765b75a331b6</uuid>
+  </card>
+  <card>
+    <question>Por favor, arrégleme el pelo.</question>
+    <answer>Подровняйте, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>b86cbafa-d3b2-48c3-a053-1da7e233ac88</uuid>
+  </card>
+  <card>
+    <question>Déjemelo corto.</question>
+    <answer>Постригите меня коротко.</answer>
+    <comment></comment>
+    <uuid>d891fdd7-4115-428a-8d78-668c44e63e7f</uuid>
+  </card>
+  <card>
+    <question>Hágame la raya en medio.</question>
+    <answer>Сделайте (мне) пробор посередине.</answer>
+    <comment></comment>
+    <uuid>3500e593-dda9-4e08-b752-b66533ebe00c</uuid>
+  </card>
+  <card>
+    <question>Hágame la raya a la izquierda.</question>
+    <answer>Сделайте (мне) пробор слева.</answer>
+    <comment></comment>
+    <uuid>eebdded7-0937-40f4-aaee-78f41a772a85</uuid>
+  </card>
+  <card>
+    <question>Hágame la raya a la derecha.</question>
+    <answer>Сделайте (мне) пробор справа.</answer>
+    <comment></comment>
+    <uuid>32ca7373-142f-4fad-9383-15f8ef808aa9</uuid>
+  </card>
+  <card>
+    <question>Por favor, iguáleme el bigote.</question>
+    <answer>Поправьте мне, пожалуйста, усы.</answer>
+    <comment></comment>
+    <uuid>4b011228-8f64-4951-9b8f-818f39e007d6</uuid>
+  </card>
+  <card>
+    <question>Por favor, iguáleme la barba.</question>
+    <answer>Поправьте мне, пожалуйста, бороду.</answer>
+    <comment></comment>
+    <uuid>a6c64ca9-429f-4fb1-9d4e-4a53d42bee45</uuid>
+  </card>
+  <card>
+    <question>Por favor, iguáleme las patillas.</question>
+    <answer>Поправьте мне, пожалуйста, бакенбарды.</answer>
+    <comment></comment>
+    <uuid>cd719d81-c2bd-4ff7-b7d7-f2003aec701a</uuid>
+  </card>
+  <card>
+    <question>Por favor, láveme la cabeza.</question>
+    <answer>Вымойте мне, пожалуйста, голову.</answer>
+    <comment></comment>
+    <uuid>0d47548f-a6dd-4c02-a049-65a24e23015e</uuid>
+  </card>
+  <card>
+    <question>Por favor, aféiteme.</question>
+    <answer>Побрейте меня, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>e236f400-b8d2-404d-ad2c-b6cb04ea5783</uuid>
+  </card>
+  <card>
+    <question>Por favor, deme una compresa caliente.</question>
+    <answer>Горячий компресс, пожалуйста. (=Пожалуйста, дайте мне ...)</answer>
+    <comment></comment>
+    <uuid>da8312f2-2007-4824-9fb9-c8d04bfe7658</uuid>
+  </card>
+  <card>
+    <question>Por favor, deme un masaje facial.</question>
+    <answer>Сделайте, пожалуйста, массаж лица. (=Пожалуйста, дайте мне ...)</answer>
+    <comment></comment>
+    <uuid>4daee307-a103-45ba-be0d-b0c67004ddb8</uuid>
+  </card>
+  <card>
+    <question>Aplíqueme, por favor, un masaje al cuello.</question>
+    <answer>Сделайте мне, пожалуйста, массаж шеи. (=Примените мне, ...)</answer>
+    <comment></comment>
+    <uuid>72e3db99-6073-4ba3-a009-926a37610aae</uuid>
+  </card>
+  <card>
+    <question>Aplíqueme, por favor, un masaje a la cabeza.</question>
+    <answer>Сделайте мне, пожалуйста, массаж головы. (=Примените мне, ...)</answer>
+    <comment></comment>
+    <uuid>20a0ff51-9e56-4d89-8f4f-1d5ec393dc11</uuid>
+  </card>
+  <card>
+    <question>Por favor, deme un poco de agua de colonia.</question>
+    <answer>Пожалуйста, (дайте мне) немного одеколона.</answer>
+    <comment></comment>
+    <uuid>0901f049-9aa1-4f9d-83f4-572a5afa964b</uuid>
+  </card>
+  <card>
+    <question>Por favor, deme un poco de loción.</question>
+    <answer>Пожалуйста, (дайте мне) немного лосьона.</answer>
+    <comment></comment>
+    <uuid>7fe17fab-a6c3-4bf3-bc36-2bb673a59f0e</uuid>
+  </card>
+  <card>
+    <question>Anóteme, por favor.</question>
+    <answer>Запишите меня, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>4e5a513b-c31b-4307-a759-46ef1ba85de1</uuid>
+  </card>
+  <card>
+    <question>¿Puedo reservar por teléfono?</question>
+    <answer>Могу я записаться по телефону?</answer>
+    <comment></comment>
+    <uuid>934612eb-ab56-4a74-90fa-3ce29d0e368f</uuid>
+  </card>
+  <card>
+    <question>Quisiera apuntarme para hoy a las ...</question>
+    <answer>Я хотела бы записаться на сегодня на ... часов.</answer>
+    <comment></comment>
+    <uuid>7f7d4542-4e1d-4bfa-87cf-9dbeb8a42b3e</uuid>
+  </card>
+  <card>
+    <question>Quisiera apuntarme para mañana a las ...</question>
+    <answer>Я хотела бы записаться на завтра на ... часов.</answer>
+    <comment></comment>
+    <uuid>577d59cd-b701-4032-9f82-c9ae20f85a38</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo podrían atenderme?</question>
+    <answer>Когда я могу прийти? (=Когда вы (мн.ч.) могли бы меня обслужить?)</answer>
+    <comment></comment>
+    <uuid>c579f065-c0f9-424e-bfd4-021b04f907fa</uuid>
+  </card>
+  <card>
+    <question>Hágame un corte de moda.</question>
+    <answer>Сделайте мне модную стрижку.</answer>
+    <comment></comment>
+    <uuid>62b0d776-612e-4d84-b559-58b0b5268783</uuid>
+  </card>
+  <card>
+    <question>Hágame el peinado con secador.</question>
+    <answer>Сделайте укладку феном.</answer>
+    <comment></comment>
+    <uuid>1a4bb986-def7-42e3-8af3-20b982dd2d69</uuid>
+  </card>
+  <card>
+    <question>Quisiera cambiar de peinado.</question>
+    <answer>Я хочу изменить причёску. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>5fd44ff7-ad5b-41fd-94a6-254b50329410</uuid>
+  </card>
+  <card>
+    <question>Quisiera lavarme la cabeza.</question>
+    <answer>Я хочу помыть голову. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>4274bb03-6a66-4036-875b-78c123a7626a</uuid>
+  </card>
+  <card>
+    <question>Quisiera peinarme.</question>
+    <answer>Я хочу сделать укладку. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>4fa71240-83cd-469f-9aa3-eeaa35471030</uuid>
+  </card>
+  <card>
+    <question>Quisiera cortarme el pelo.</question>
+    <answer>Я хочу постричь волосы. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>7d64a405-41d8-4cb6-b392-021dc0a83fce</uuid>
+  </card>
+  <card>
+    <question>Quisiera ver modelos de peinados.</question>
+    <answer>Я хотела бы посмотреть модели причёсок.</answer>
+    <comment></comment>
+    <uuid>e126c5c6-ea47-41c4-8e43-63aaf877eb83</uuid>
+  </card>
+  <card>
+    <question>¿Este peinado está de moda?</question>
+    <answer>Это модная причёска?</answer>
+    <comment></comment>
+    <uuid>ec279e00-e072-4932-bd96-34dc5ecd3616</uuid>
+  </card>
+  <card>
+    <question>¿Qué peinados están ahora de moda?</question>
+    <answer>Какие причёски сейчас в моде?</answer>
+    <comment></comment>
+    <uuid>15eaaaf6-af51-479c-8c4d-fc7975606797</uuid>
+  </card>
+  <card>
+    <question>Quiero un corte de pelo actual.</question>
+    <answer>Сделайте модную стрижку. (=Хочу стрижку современную.)</answer>
+    <comment></comment>
+    <uuid>2d277b00-6558-4ca0-8fdf-402f22c8349f</uuid>
+  </card>
+  <card>
+    <question>Quisiera las orejas descubiertas.</question>
+    <answer>Я хочу, чтобы уши были открыты. (=Я хотел(а) бы уши открытые.)</answer>
+    <comment></comment>
+    <uuid>bb84dbd6-5859-45a4-82c1-cb293f2daebe</uuid>
+  </card>
+  <card>
+    <question>Quisiera las orejas sin descubrir.</question>
+    <answer>Я хочу, чтобы уши были закрыты. (=Я хотел(а) бы уши закрытые.)</answer>
+    <comment></comment>
+    <uuid>3e66375b-223a-49d9-a41e-ed378a43a8c8</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes un buen preparado para fortalecer el cabello?</question>
+    <answer>У вас (мн.ч.) есть хорошее средство для укрепления волос?</answer>
+    <comment></comment>
+    <uuid>3b05c39b-b996-4ef1-b9a1-cda8b40576ad</uuid>
+  </card>
+  <card>
+    <question>Péineme sin raya.</question>
+    <answer>Расчешите мне волосы, не оставляя пробора. (=Расчешите меня без пробора.)</answer>
+    <comment></comment>
+    <uuid>cd95dedf-704c-4c84-944d-46c0b250fe65</uuid>
+  </card>
+  <card>
+    <question>Péineme con raya a la izquierda.</question>
+    <answer>Оставьте пробор слева. (=Расчешите меня с пробором слева.)</answer>
+    <comment></comment>
+    <uuid>60a48c23-f5d8-474e-8a1b-a1a26f891539</uuid>
+  </card>
+  <card>
+    <question>Péineme con raya a la derecha.</question>
+    <answer>Оставьте пробор справа. (=Расчешите меня с пробором справа.)</answer>
+    <comment></comment>
+    <uuid>e780ab43-57b3-4d2a-8b7a-841145486dfa</uuid>
+  </card>
+  <card>
+    <question>Póngame laca.</question>
+    <answer>Покройте волосы лаком. (=Положите мне лак.)</answer>
+    <comment></comment>
+    <uuid>6472227f-ea8e-4885-a80c-53e560a689a4</uuid>
+  </card>
+  <card>
+    <question>No necesito laca.</question>
+    <answer>Лак (мне) не нужен.</answer>
+    <comment></comment>
+    <uuid>94a0f74d-dc76-4fd1-ab08-46fab6d757a0</uuid>
+  </card>
+  <card>
+    <question>Quisiera aclararme el pelo.</question>
+    <answer>Я хочу осветлить волосы. (=Я хотел(а) бы осветлить себе волосы.)</answer>
+    <comment></comment>
+    <uuid>ac3fdefa-e914-4d7f-9f6a-8393cb946413</uuid>
+  </card>
+  <card>
+    <question>Quisiera teñirme el pelo.</question>
+    <answer>Я хочу подкрасить волосы. (=Я хотел(а) бы подкрасить себе волосы.)</answer>
+    <comment></comment>
+    <uuid>fee84347-f479-46ab-8e22-f162492aad95</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el salón de belleza?</question>
+    <answer>Где косметический кабинет? (=Где салон красоты?)</answer>
+    <comment></comment>
+    <uuid>9de9059a-b928-41c1-b1c9-ce475aa1c6ea</uuid>
+  </card>
+  <card>
+    <question>Por favor, quisiera una mascarilla.</question>
+    <answer>Сделайте мне, пожалуйста, маску. (=Пожалуйста, я хотела бы ...)</answer>
+    <comment></comment>
+    <uuid>b53f96db-8e6d-4703-bd16-aad5c6d47765</uuid>
+  </card>
+  <card>
+    <question>Por favor, quisiera una limpieza de cutis.</question>
+    <answer>Сделайте мне, пожалуйста, чистку лица. (=Пожалуйста, я хотела бы ...)</answer>
+    <comment></comment>
+    <uuid>3c871dc8-93e8-4b41-ac1d-940841fe88c2</uuid>
+  </card>
+  <card>
+    <question>Por favor, quisiera maquillarme.</question>
+    <answer>Сделайте мне, пожалуйста, макияж. (=Пожалуйста, я хотела бы ...)</answer>
+    <comment></comment>
+    <uuid>f0138e2e-6882-4986-9937-98c5a9f845c1</uuid>
+  </card>
+  <card>
+    <question>Quisiera teñirme las cejas.</question>
+    <answer>Я хочу покрасить брови. (=Я хотела бы ...)</answer>
+    <comment></comment>
+    <uuid>3458e837-1478-41c0-b99a-af1c6a35a0a8</uuid>
+  </card>
+  <card>
+    <question>Quisiera teñirme las pestañas.</question>
+    <answer>Я хочу покрасить ресницы. (=Я хотела бы ...)</answer>
+    <comment></comment>
+    <uuid>6917ef13-9a01-4638-90f9-4629aa8a34cd</uuid>
+  </card>
+  <card>
+    <question>Por favor, depíleme las cejas.</question>
+    <answer>Подправьте, пожалуйста, (мне) брови.</answer>
+    <comment></comment>
+    <uuid>e14f8fee-656a-4cd5-aa95-18826cfaad1e</uuid>
+  </card>
+  <card>
+    <question>Dele forma a las cejas.</question>
+    <answer>Придайте форму бровям.</answer>
+    <comment></comment>
+    <uuid>861c6fe0-2222-49ad-8b20-cd054c2bceab</uuid>
+  </card>
+  <card>
+    <question>Por favor, hágame la manicura.</question>
+    <answer>Сделайте (мне), пожалуйста, маникюр.</answer>
+    <comment></comment>
+    <uuid>28e96f4a-ef00-46c8-9899-03b3ddbebc52</uuid>
+  </card>
+  <card>
+    <question>Por favor, córteme las uñas.</question>
+    <answer>Пожалуйста, прошу укоротить (мне) ногти.</answer>
+    <comment></comment>
+    <uuid>e865e89b-0904-4c82-a7cd-2fd92e04d7e8</uuid>
+  </card>
+  <card>
+    <question>Por favor, no me corte demasiado.</question>
+    <answer>Пожалуйста, прошу оставить ногти подлиннее. (=Пожалуйста, не обрезайте мне слишком.)</answer>
+    <comment></comment>
+    <uuid>7d682d94-95c9-4543-8815-01594d675a5a</uuid>
+  </card>
+  <card>
+    <question>Por favor, iguáleme las uñas.</question>
+    <answer>Пожалуйста, прошу подровнять (мне) ногти.</answer>
+    <comment></comment>
+    <uuid>a06444c4-428d-42c7-9ce3-6944d598e31d</uuid>
+  </card>
+  <card>
+    <question>Pínteme las uñas con esmalte incoloro.</question>
+    <answer>Покройте (мне) ногти бесцветным лаком.</answer>
+    <comment></comment>
+    <uuid>ecab82bd-4e13-43a2-af5b-7208eab0f029</uuid>
+  </card>
+  <card>
+    <question>Pínteme las uñas con esmalte claro.</question>
+    <answer>Покройте (мне) ногти светлым лаком.</answer>
+    <comment></comment>
+    <uuid>e90975d3-221f-46ab-aaa0-556e6ac30e2c</uuid>
+  </card>
+  <card>
+    <question>Pínteme las uñas con esmalte oscuro.</question>
+    <answer>Покройте (мне) ногти тёмным лаком.</answer>
+    <comment></comment>
+    <uuid>e08a08c2-7327-4c97-9ac9-c02080075f5b</uuid>
+  </card>
+  <card>
+    <question>Pínteme las uñas con esmalte perlado.</question>
+    <answer>Покройте (мне) ногти перламутровым лаком.</answer>
+    <comment></comment>
+    <uuid>9a1f104a-f733-4ffe-bbc3-b3fb2311556f</uuid>
+  </card>
+  <card>
+    <question>Pínteme las uñas con esmalte rosa.</question>
+    <answer>Покройте (мне) ногти розовым лаком.</answer>
+    <comment></comment>
+    <uuid>cd7fc8c9-7dab-45ba-a31e-e12c060315ab</uuid>
+  </card>
+  <card>
+    <question>Por favor, quíteme el esmalte.</question>
+    <answer>Снимите, пожалуйста, лак.</answer>
+    <comment></comment>
+    <uuid>1c1d8339-db29-4cf3-a637-b122c33ee1d6</uuid>
+  </card>
+  <card>
+    <question>Muchas gracias.</question>
+    <answer>Благодарю вас.</answer>
+    <comment></comment>
+    <uuid>a7b422c3-f85c-4892-8ec2-5f94f13f2d7b</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto es?</question>
+    <answer>Сколько с меня?</answer>
+    <comment></comment>
+    <uuid>98015e90-c732-41f2-b550-ea9a53d39639</uuid>
+  </card>
+</cards>
+</stack>

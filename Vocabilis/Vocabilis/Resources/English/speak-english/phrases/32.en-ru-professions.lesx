@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>74c24881-a252-4d02-bd1e-320519e3f3a8</uuid>
+  <title>Профессии :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>17</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>What&apos;s your job?</question>
+    <answer>Кем вы работаете?</answer>
+    <comment>[hwʌts jər ʤɑːb]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, job - работа</answer_comment>
+    
+    <uuid>4adfe176-0cf8-4e97-b388-cdd64390057f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your profession?</question>
+    <answer>Кто вы по профессии?</answer>
+    <comment>[hwʌts jər prəˈfeʃən]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, profession - профессия</answer_comment>
+    
+    <uuid>0e3c29d9-b4f8-4a59-8b9c-d3cc07e92c78</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do you do?</question>
+    <answer>Что вы делаете? Чем занимаетесь?</answer>
+    <comment>[hwʌt duː jʊ duː]</comment>
+    <answer_comment>what - что, to do - делать</answer_comment>
+    
+    <uuid>92df1e1b-79d4-442f-b561-64e6fdee8dd2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s Mr. Brown&apos;s trade?</question>
+    <answer>Кто по профессии мистер Браун?</answer>
+    <comment>[hwʌts ˈmɪstər brаʊnz treɪd]</comment>
+    <answer_comment>what - что, Mr. Brown - мистер Браун, trade - профессия, ремесло</answer_comment>
+    
+    <uuid>301ad2d2-72c9-46d2-b0b6-e384f4fb00f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where does your father work?</question>
+    <answer>Где работает ваш отец?</answer>
+    <comment>[hwer dʌz jər ˈfɑːðər wɜːrk]</comment>
+    <answer_comment>where - где, your - твой, ваш, father - отец, to work - работать</answer_comment>
+    
+    <uuid>00291446-2944-4c81-b430-0d29225f018b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>In what capacity?</question>
+    <answer>Кем работает?</answer>
+    <comment>[ɪn hwʌt kəˈpæsɪtiː]</comment>
+    <answer_comment>what - какой, capacity - положение, качество</answer_comment>
+    
+    <uuid>cb1060c1-7175-4c4c-bfed-01dc50f9b742</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your regular business?</question>
+    <answer>Чем вы постоянно занимаетесь?</answer>
+    <comment>[hwʌts jər ˈregjələr ˈbɪznɪs]</comment>
+    <answer_comment>what - какой, your - твой, ваш, regular - обычный, business - дело</answer_comment>
+    
+    <uuid>6cfe9efe-beb6-4ca2-8c54-99ca04921122</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work as an editor.</question>
+    <answer>Я работаю редактором.</answer>
+    <comment>[аɪ wɜːrk æz ən ˈedɪtər]</comment>
+    <answer_comment>to work - работать, as - в качестве, editor - редактор</answer_comment>
+    
+    <uuid>0bc88ea5-a799-4f11-9040-b3a1b294c7ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your occupation?</question>
+    <answer>Какая у вас специальность?</answer>
+    <comment>[hwʌts jər ˌɑːkjəˈpeɪʃən]</comment>
+    <answer_comment>what - какой, your - твой, ваш, occupation - работа, профессия, занятие</answer_comment>
+    
+    <uuid>b59c6768-c536-46aa-8f3f-baf7e1aed760</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your speciality?</question>
+    <answer>Кто вы по специальности?</answer>
+    <comment>[hwʌts jər ˌspeʃɪˈælɪtiː]</comment>
+    <answer_comment>what - какой, your - твой, ваш, speciality - специальность</answer_comment>
+    
+    <uuid>c7c2c1be-095e-4f1b-b3a0-ddd75ebe51dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a teacher by speciality.</question>
+    <answer>Я учитель по специальности.</answer>
+    <comment>[аɪm ə ˈtiːʧər bаɪ ˌspeʃɪˈælɪtiː]</comment>
+    <answer_comment>teacher - учитель, speciality - специальность</answer_comment>
+    
+    <uuid>795bc941-5cd4-4671-a9c2-f925256259e3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m an engineer.</question>
+    <answer>Я инженер.</answer>
+    <comment>[аɪm ən ˌenʤəˈnɪr]</comment>
+    <answer_comment>engineer - инженер</answer_comment>
+    
+    <uuid>51669217-0c4e-44a6-8e7d-71b9f59f43de</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do you teach?</question>
+    <answer>Что вы преподаете?</answer>
+    <comment>[hwʌt duː jʊ tiːʧ]</comment>
+    <answer_comment>what - что, to teach - преподавать</answer_comment>
+    
+    <uuid>0a96bfc5-9fb7-4d40-8221-9cdab2c74e3b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I teach math.</question>
+    <answer>Я преподаю математику.</answer>
+    <comment>[аɪ tiːʧ mæθ]</comment>
+    <answer_comment>to teach - преподавать, math - математика</answer_comment>
+    
+    <uuid>bb3be9bc-641d-47b4-aa13-66a0585fe7d1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are you engaged in?</question>
+    <answer>Чем вы занимаетесь?</answer>
+    <comment>[hwʌt ɑːr jʊ enˈgeɪʤd ɪn]</comment>
+    <answer_comment>what - что, you - ты, вы, engaged - занятый</answer_comment>
+    
+    <uuid>b15172ca-8f11-44a7-ad94-4b099a4c1c45</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m engaged in history.</question>
+    <answer>Я занимаюсь историей.</answer>
+    <comment>[аɪm enˈgeɪʤd ɪn ˈhɪstəriː]</comment>
+    <answer_comment>engaged - занятый, history - история</answer_comment>
+    
+    <uuid>4d6ce564-9518-4bf7-87f4-aa17bc5045fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where do you work?</question>
+    <answer>Где вы работаете?</answer>
+    <comment>[hwer duː jʊ wɜːrk]</comment>
+    <answer_comment>where - где, to work - работать</answer_comment>
+    
+    <uuid>50557998-3a09-478f-afc6-dd34ee1c6c1c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work at a factory.</question>
+    <answer>Я работаю на заводе.</answer>
+    <comment>[аɪ wɜːrk ət ə ˈfæktəriː]</comment>
+    <answer_comment>to work - работать, factory - фабрика, завод</answer_comment>
+    
+    <uuid>4fbbe700-8a99-46e0-962f-209d52a0f603</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work at a bank.</question>
+    <answer>Я работаю в банке.</answer>
+    <comment>[аɪ wɜːrk ət ə bæŋk]</comment>
+    <answer_comment>to work - работать, bank - банк</answer_comment>
+    
+    <uuid>6f16d09c-e493-4225-ab6a-60c9945b0634</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work at a hospital.</question>
+    <answer>Я работаю в больнице.</answer>
+    <comment>[аɪ wɜːrk ət ə ˈhɑːspɪtl]</comment>
+    <answer_comment>to work - работать, hospital - больница</answer_comment>
+    
+    <uuid>beb83565-ec7d-4f7f-86d1-a7f45db2cc50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work at an office.</question>
+    <answer>Я работаю в офисе.</answer>
+    <comment>[аɪ wɜːrk ət ən ˈɔːfɪs]</comment>
+    <answer_comment>to work - работать, office - офис</answer_comment>
+    
+    <uuid>b2b0cd60-f700-4529-8fa4-778fe02c3788</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I work at a research institute.</question>
+    <answer>Я работаю в научно-исследовательском институте.</answer>
+    <comment>[аɪ wɜːrk ət ə rɪˈsɜːrʧ ˈɪnstɪˌtuːt]</comment>
+    <answer_comment>to work - работать, research - исследование, institute - институт</answer_comment>
+    
+    <uuid>05af9c47-42fc-4ab8-8b34-425c3c0c3174</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a broker.</question>
+    <answer>Я брокер.</answer>
+    <comment>[аɪm ə ˈbroʊkər]</comment>
+    <answer_comment>broker - брокер</answer_comment>
+    
+    <uuid>172a57e7-2e93-4e74-83ae-06a1dbb1f8e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m an accountant.</question>
+    <answer>Я бухгалтер.</answer>
+    <comment>[аɪm ən əˈkаʊntnt]</comment>
+    <answer_comment>accountant - бухгалтер</answer_comment>
+    
+    <uuid>abfd75a3-5e9e-4f0a-abb3-7c8f9836f806</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a designer.</question>
+    <answer>Я дизайнер.</answer>
+    <comment>[аɪm ə dɪˈzаɪnər]</comment>
+    <answer_comment>designer - дизайнер</answer_comment>
+    
+    <uuid>0bdb9abd-b274-4da8-8c20-965434e7e4e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a distributor.</question>
+    <answer>Я дистрибьютор.</answer>
+    <comment>[аɪm ə dɪˈstrɪbjətər]</comment>
+    <answer_comment>distributor - дистрибьютор</answer_comment>
+    
+    <uuid>3df1f838-fd0a-49cd-abb7-15de015779ec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a doctor.</question>
+    <answer>Я врач.</answer>
+    <comment>[аɪm ə ˈdɑːktər]</comment>
+    <answer_comment>doctor - врач, доктор</answer_comment>
+    
+    <uuid>bc4da5a0-4d2e-4091-a219-3eb582446107</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a manager.</question>
+    <answer>Я менеджер.</answer>
+    <comment>[аɪm ə ˈmænɪʤər]</comment>
+    <answer_comment>manager - менеджер, управляющий</answer_comment>
+    
+    <uuid>82559c17-a4d6-4e9a-b4cd-0d0467a5a58f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a programmer.</question>
+    <answer>Я программист.</answer>
+    <comment>[аɪm ə ˈproʊgræmə]</comment>
+    <answer_comment>programmer - программист</answer_comment>
+    
+    <uuid>903e2676-de5f-4608-bc47-1fc677841bee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m an employee.</question>
+    <answer>Я служащий.</answer>
+    <comment>[аɪm ən emˈplɔɪiː]</comment>
+    <answer_comment>employee - служащий</answer_comment>
+    
+    <uuid>dc7572cd-0ba8-40f2-98c8-70ffd9910f16</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m between jobs.</question>
+    <answer>Я временно не работаю.</answer>
+    <comment>[аɪm bɪˈtwiːn ʤɑːbz]</comment>
+    <answer_comment>between - между, job - работа</answer_comment>
+    
+    <uuid>2b8f537b-368a-4be1-a0f1-7b0475b4b465</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your wife&apos;s job?</question>
+    <answer>Кем работает ваша жена?</answer>
+    <comment>[hwʌts jər wаɪfs ʤɑːb]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, wife - жена, job - работа</answer_comment>
+    
+    <uuid>2d44d4db-5a34-43c9-a39c-d60f0908fbad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My wife is a housewife.</question>
+    <answer>Моя жена домохозяйка.</answer>
+    <comment>[mаɪ wаɪf ɪz ə ˈhаʊsˌwаɪf]</comment>
+    <answer_comment>wife - жена, housewife - домохозяйка</answer_comment>
+    
+    <uuid>fea0c285-624e-4ec5-bf0c-39effe3d7533</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a student.</question>
+    <answer>Я студент.</answer>
+    <comment>[аɪm ə ˈstuːdnt]</comment>
+    <answer_comment>student - студент</answer_comment>
+    
+    <uuid>8e1b2514-8122-47c4-97f8-187bef7d5224</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where do you study?</question>
+    <answer>Где вы учитесь?</answer>
+    <comment>[hwer duː jʊ ˈstʌdiː]</comment>
+    <answer_comment>where - где, to study - учиться</answer_comment>
+    
+    <uuid>cb02af6b-45ca-4441-a5ba-e1584f36f226</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I go to college.</question>
+    <answer>Я учусь в коллежде.</answer>
+    <comment>[аɪ goʊ tə ˈkɑːlɪʤ]</comment>
+    <answer_comment>to go - идти, college - колледж</answer_comment>
+    
+    <uuid>340b0078-18ff-45a7-806d-67809bb6b00e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I go to university.</question>
+    <answer>Я учусь в университете.</answer>
+    <comment>[аɪ goʊ tə ˌjuːnəˈvɜːrsɪtiː]</comment>
+    <answer_comment>to go - идти, university - университет</answer_comment>
+    
+    <uuid>670dbd0e-13ef-4cc1-a58b-658e4512b7a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I go to an academy.</question>
+    <answer>Я учусь в академии.</answer>
+    <comment>[аɪ goʊ tu ən əˈkædəmiː]</comment>
+    <answer_comment>to go - идти, academy - академия</answer_comment>
+    
+    <uuid>e6f21526-1893-45b2-b0c5-92a80b35a1ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are you studying?</question>
+    <answer>На каком факультете вы учитесь?</answer>
+    <comment>[hwʌt ɑːr jʊ ˈstʌdiːɪŋ]</comment>
+    <answer_comment>to study - учиться</answer_comment>
+    
+    <uuid>a92e7c61-3d94-4821-ae1d-4b6706333343</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m studying philology.</question>
+    <answer>Я учусь на филологическом факультете.</answer>
+    <comment>[аɪm ˈstʌdiːɪŋ fɪˈlɑːləʤiː]</comment>
+    <answer_comment>to study - изучать, philology - филология</answer_comment>
+    
+    <uuid>f620634e-8af4-4dc3-a0a1-899a223e1491</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m studying economics.</question>
+    <answer>Я учусь на экономическом факультете.</answer>
+    <comment>[аɪm ˈstʌdiːɪŋ ˌiːkəˈnɑːmɪks]</comment>
+    <answer_comment>to study - изучать, economics - экономика</answer_comment>
+    
+    <uuid>711e0326-f67e-4102-85fc-57af1c4b0c61</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m studying law.</question>
+    <answer>Я учусь на юридическом факультете.</answer>
+    <comment>[аɪm ˈstʌdiːɪŋ lɔː]</comment>
+    <answer_comment>to study - изучать, law - право</answer_comment>
+    
+    <uuid>76cee47e-c7fa-4ec9-9b81-4a04293fdb34</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a freshman.</question>
+    <answer>Я учусь на первом курсе.</answer>
+    <comment>[аɪm ə ˈfreʃmən]</comment>
+    <answer_comment>freshman - первокурсник</answer_comment>
+    
+    <uuid>0790f5bb-82ee-4223-8bd4-11a1253b0bbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a sophomore.</question>
+    <answer>Я учусь на втором курсе.</answer>
+    <comment>[аɪm ə ˈsɑːfəˌmɔːr]</comment>
+    <answer_comment>sophomore - второкурсник</answer_comment>
+    
+    <uuid>04f005c5-5bf6-4c45-a303-1c86c0e38778</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a junior.</question>
+    <answer>Я учюсь на третьем курсе.</answer>
+    <comment>[аɪm ə ˈʤuːnjər]</comment>
+    <answer_comment>junior - студент младшего курса</answer_comment>
+    
+    <uuid>ab3197d0-9237-4cb4-815a-22fc27fc0dff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a senior.</question>
+    <answer>Я учюсь на четвертом курсе.</answer>
+    <comment>[аɪm ə ˈsiːnjər]</comment>
+    <answer_comment>senior - студент старшего курса</answer_comment>
+    
+    <uuid>025e9ad6-010f-4a6d-99c9-ae9ef75ac637</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where do your parents work?</question>
+    <answer>Где работают ваши родители?</answer>
+    <comment>[hwer duː jər ˈperənts wɜːrk]</comment>
+    <answer_comment>where - где, your - твой, ваш, parents - родители, to work - работать</answer_comment>
+    
+    <uuid>fe61e0ca-bfb5-44e7-a222-c4dd5de2395f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>They are retired.</question>
+    <answer>Они на пенсии.</answer>
+    <comment>[ðeɪ ɑːr rɪˈtаɪrd]</comment>
+    <answer_comment>they - они, retired - пенсионный</answer_comment>
+    
+    <uuid>5752eae8-c318-456c-9485-7cea7582beba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What would you like to be?</question>
+    <answer>Кем бы вы хотели быть?</answer>
+    <comment>[hwʌt wʊd jʊ lаɪk tə biː]</comment>
+    <answer_comment>what - что, какой, would like - хотеть, to be - быть</answer_comment>
+    
+    <uuid>a648ef82-c036-411a-920c-4eab22527a69</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to be an actor.</question>
+    <answer>Я бы хотел быть актером.</answer>
+    <comment>[аɪd lаɪk tə biː ən ˈæktər]</comment>
+    <answer_comment>would like - хотеть, to be - быть, actor - актер</answer_comment>
+    
+    <uuid>165522e9-835e-482e-b190-b05a4a6bb6f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to be a bank employee.</question>
+    <answer>Я бы хотел быть банковским служащим.</answer>
+    <comment>[аɪd lаɪk tə biː ə bæŋk emˈplɔɪiː]</comment>
+    <answer_comment>would like - хотеть, to be - быть, bank - банк, employee - служащий</answer_comment>
+    
+    <uuid>377dbd84-a745-4134-94a1-5ce8ef6ec66a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to be a vet.</question>
+    <answer>Я бы хотел быть ветеринаром.</answer>
+    <comment>[аɪd lаɪk tə biː ə vet]</comment>
+    <answer_comment>would like - хотеть, to be - быть, vet - ветеринар</answer_comment>
+    
+    <uuid>7388772b-a919-4951-920f-b6c0f864a8b8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;s a workaholic.</question>
+    <answer>Он трудоголик.</answer>
+    <comment>[hiz ə ˌwɜːrkəˈhɑːlɪk]</comment>
+    <answer_comment>he - он, workaholic - трудоголик</answer_comment>
+    
+    <uuid>382b1036-b2a8-4b22-8353-bd9071ef3eae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>He works very hard.</question>
+    <answer>Он работает не покладая рук.</answer>
+    <comment>[hiː wɜːrks ˈveriː hɑːrd]</comment>
+    <answer_comment>he - он, to work - работать, very - очень, hard - упорный</answer_comment>
+    
+    <uuid>bdadba93-c545-41b5-9c06-200727118bc7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;s job hunting.</question>
+    <answer>Он ищет работу.</answer>
+    <comment>[hiz ʤɑːb ˈhʌntɪŋ]</comment>
+    <answer_comment>job - работа, hunting - охотящийся</answer_comment>
+    
+    <uuid>e6cd8c5b-57d2-48b0-b6c5-c236d1d32653</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;s looking for a new job.</question>
+    <answer>Он ищет новую работу.</answer>
+    <comment>[hiz ˈlʊkɪŋ fər ə nuː ʤɑːb]</comment>
+    <answer_comment>looking for - ищущий, new - новый, job - работа</answer_comment>
+    
+    <uuid>fa7184d7-8fde-49c7-83c8-aab8c617afae</uuid>
+  </card>
+</cards>
+</stack>

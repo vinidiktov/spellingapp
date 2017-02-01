@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>26387915-0dbe-4fe9-aef6-78e665a6edf3</uuid>
+  <title>Игрушки</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le jeu de société</question>
+    <answer>настольная игра</answer>
+    <comment></comment>
+    <answer_picture>boardgame.gif</answer_picture>
+    <uuid>239debd7-b726-4345-937e-a32597da716f</uuid>
+  </card>
+  <card>
+    <question>la voiture</question>
+    <answer>машина, машинка</answer>
+    <comment></comment>
+    <answer_picture>car.gif</answer_picture>
+    <uuid>5804ac52-25db-446a-9070-b1fd534bb4a0</uuid>
+  </card>
+  <card>
+    <question>les cartes</question>
+    <answer>карты (игральные)</answer>
+    <comment></comment>
+    <answer_picture>cards.gif</answer_picture>
+    <uuid>80c5648a-614e-4865-a38b-7913a20efd7f</uuid>
+  </card>
+  <card>
+    <question>les dés</question>
+    <answer>игральные кости</answer>
+    <comment></comment>
+    <answer_picture>dice.gif</answer_picture>
+    <uuid>ddb324ac-7fd8-4903-918e-354cd64754e0</uuid>
+  </card>
+  <card>
+    <question>la poupée</question>
+    <answer>кукла</answer>
+    <comment></comment>
+    <answer_picture>doll.gif</answer_picture>
+    <uuid>f2b467de-6b3d-42ca-a259-fc0d298294e9</uuid>
+  </card>
+  <card>
+    <question>le lego</question>
+    <answer>лего</answer>
+    <comment></comment>
+    <answer_picture>lego.gif</answer_picture>
+    <uuid>989545c9-f0b0-4f53-a451-f0b8382b654a</uuid>
+  </card>
+  <card>
+    <question>l&apos;avion en papier</question>
+    <answer>бумажный самолётик</answer>
+    <comment></comment>
+    <answer_picture>paper_plane.gif</answer_picture>
+    <uuid>7c964671-cfb8-4251-acd7-ef0b7f6511e1</uuid>
+  </card>
+  <card>
+    <question>le puzzle [pœzl]</question>
+    <answer>головоломка, ребус, мозаика</answer>
+    <comment></comment>
+    <answer_picture>puzzle.gif</answer_picture>
+    <uuid>46386252-228e-4040-865d-c17fb91bd3be</uuid>
+  </card>
+  <card>
+    <question>le jeu vidéo</question>
+    <answer>видеоигровое устройство</answer>
+    <comment></comment>
+    <answer_picture>videogame.gif</answer_picture>
+    <uuid>641b111d-725c-4ce1-9dcd-08ef216cf727</uuid>
+  </card>
+</cards>
+</stack>

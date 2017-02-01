@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5ea3dd0e-6c03-43f8-adf3-15bbe6c93992</uuid>
+  <title>Частотный испанский 16</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2015</year>
+     <month>7</month>
+     <day>22</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>rural</question>
+    <answer>сельский (= aldeano)</answer>
+    <comment></comment>
+    <uuid>d1744e9b-0d8c-414a-b3b0-86feda32b42c</uuid>
+  </card>
+  <card>
+    <question>la selección</question>
+    <answer>выбор, отбор (= elección)</answer>
+    <comment></comment>
+    <uuid>3e28ccd1-2d06-42ea-9260-71ae71ed6b9e</uuid>
+  </card>
+  <card>
+    <question>el gusto</question>
+    <answer>вкус (вкусовое ощущение)</answer>
+    <comment></comment>
+    <uuid>c80b14a8-08b8-4dec-8a0a-c6aa82a3afd7</uuid>
+  </card>
+  <card>
+    <question>así que</question>
+    <answer>так что, поэтому</answer>
+    <comment></comment>
+    <uuid>dc7c1490-9906-49e4-bef3-9089e361c706</uuid>
+  </card>
+  <card>
+    <question>revelar</question>
+    <answer>раскрывать (секрет); разоблачать</answer>
+    <comment></comment>
+    <uuid>c38900df-82d9-4ee4-9926-bde33fcb29bb</uuid>
+  </card>
+  <card>
+    <question>acudir</question>
+    <answer>прийти, явиться (=   venir, llegar)</answer>
+    <comment></comment>
+    <uuid>b25080a0-2259-40c5-98e3-20812642a300</uuid>
+  </card>
+  <card>
+    <question>asistir</question>
+    <answer>(a) присутствовать (на), посещать</answer>
+    <comment></comment>
+    <uuid>aa6544f5-7b41-48f1-9592-2df577a467df</uuid>
+  </card>
+  <card>
+    <question>docente</question>
+    <answer>учебный; образовательный</answer>
+    <comment></comment>
+    <uuid>7097a944-ce57-44c4-88a1-c9cfaa7aca76</uuid>
+  </card>
+  <card>
+    <question>la célula</question>
+    <answer>биол. клетка</answer>
+    <comment></comment>
+    <uuid>a1457185-028d-4229-98fb-ef7efaf2d5c9</uuid>
+  </card>
+  <card>
+    <question>variable</question>
+    <answer>изменчивый, переменчивый (= inconstante)</answer>
+    <comment></comment>
+    <uuid>9330df5e-9f35-48ad-a7c8-962248510456</uuid>
+  </card>
+  <card>
+    <question>dormir</question>
+    <answer>спать</answer>
+    <comment></comment>
+    <uuid>cbf36b1a-6109-4170-a5f4-33d966b3ae81</uuid>
+  </card>
+  <card>
+    <question>la ejecución</question>
+    <answer>исполнение; осуществление (=  cumplimiento m, realización f)</answer>
+    <comment></comment>
+    <uuid>8155f3f0-1ac1-4f41-8756-999ff5a5675e</uuid>
+  </card>
+  <card>
+    <question>el productor</question>
+    <answer>производитель</answer>
+    <comment></comment>
+    <uuid>63719022-f38a-4c02-a7c1-1832324c5e9f</uuid>
+  </card>
+  <card>
+    <question>el examen</question>
+    <answer>экзамен</answer>
+    <comment></comment>
+    <uuid>191e1c66-5b4b-48bd-850e-2a901bb917f2</uuid>
+  </card>
+  <card>
+    <question>poderoso</question>
+    <answer>могущественный (= potente)</answer>
+    <comment></comment>
+    <uuid>85db44e7-c4e6-4753-b482-85d07ada4320</uuid>
+  </card>
+  <card>
+    <question>la estrella</question>
+    <answer>звезда</answer>
+    <comment></comment>
+    <uuid>efb266de-b365-460c-8a20-c9939a0b342a</uuid>
+  </card>
+  <card>
+    <question>regresar</question>
+    <answer>вернуться (= volver, retornar)</answer>
+    <comment></comment>
+    <uuid>c2da1122-d50c-496f-ae56-d994a558effc</uuid>
+  </card>
+  <card>
+    <question>la pantalla</question>
+    <answer>экран</answer>
+    <comment></comment>
+    <uuid>aca8a359-0cc9-4a4a-a63c-67d92c486134</uuid>
+  </card>
+  <card>
+    <question>la cifra</question>
+    <answer>цифра (= número m)</answer>
+    <comment></comment>
+    <uuid>180ca4fc-e2d2-4b69-b4ee-5a0f23714e63</uuid>
+  </card>
+  <card>
+    <question>la costumbre</question>
+    <answer>привычка (=  hábito m)</answer>
+    <comment></comment>
+    <uuid>5e2ea4ce-b096-44b1-b097-1767e42cf28f</uuid>
+  </card>
+  <card>
+    <question>el directivo</question>
+    <answer>руководство (руководители)</answer>
+    <comment></comment>
+    <uuid>bdcb89bd-75ba-448a-b541-8a7fd33ec20e</uuid>
+  </card>
+  <card>
+    <question>el cáncer</question>
+    <answer>рак (болезнь)</answer>
+    <comment></comment>
+    <uuid>f8987737-fff1-4b31-b366-3d89f19cebc7</uuid>
+  </card>
+  <card>
+    <question>sagrado</question>
+    <answer>священный</answer>
+    <comment></comment>
+    <uuid>a2741513-f006-45f3-b58e-dee34149626f</uuid>
+  </card>
+  <card>
+    <question>otorgar</question>
+    <answer>предоставлять (заем, услуги и т.п.) (= dar, conceder)</answer>
+    <comment></comment>
+    <uuid>d448dff7-36bb-4508-adf4-f33fc9b27ffd</uuid>
+  </card>
+  <card>
+    <question>diseñar</question>
+    <answer>рисовать карандашом; чертить</answer>
+    <comment></comment>
+    <uuid>5eab84ad-3ba7-4fd0-a89e-f70bb359ed96</uuid>
+  </card>
+  <card>
+    <question>eficaz</question>
+    <answer>эффективный (= eficiente)</answer>
+    <comment></comment>
+    <uuid>97d94d69-cad6-49c1-acda-acf64bdf226e</uuid>
+  </card>
+  <card>
+    <question>castellano</question>
+    <answer>кастильский</answer>
+    <comment></comment>
+    <uuid>c878c2ba-e48d-4aa5-be98-6df9008a402f</uuid>
+  </card>
+  <card>
+    <question>el as</question>
+    <answer>карт. туз</answer>
+    <comment></comment>
+    <uuid>0f9afd41-66d2-496a-8217-92e2a4b009be</uuid>
+  </card>
+  <card>
+    <question>lógico</question>
+    <answer>логический</answer>
+    <comment></comment>
+    <uuid>32827f61-4622-48f6-8e64-ff3ea2ba1d01</uuid>
+  </card>
+  <card>
+    <question>la mirada</question>
+    <answer>взгляд (=  ojeada f, vistazo m)</answer>
+    <comment></comment>
+    <uuid>871f766b-ec2a-426d-a4d9-f075091987de</uuid>
+  </card>
+  <card>
+    <question>radical</question>
+    <answer>радикальный</answer>
+    <comment></comment>
+    <uuid>b7add4ee-34f9-45b3-8e56-3acf8fc3bfc9</uuid>
+  </card>
+  <card>
+    <question>hacerse</question>
+    <answer>становиться, делаться (= llegar a ser, devenir)</answer>
+    <comment></comment>
+    <uuid>25b88df7-ac24-4e82-af5c-48ac4f892dd3</uuid>
+  </card>
+  <card>
+    <question>frecuente</question>
+    <answer>частый</answer>
+    <comment></comment>
+    <uuid>5921c5bc-b0a9-4dcd-9a85-eb5f594f50c4</uuid>
+  </card>
+  <card>
+    <question>la temperatura</question>
+    <answer>температура</answer>
+    <comment></comment>
+    <uuid>22647ba6-698d-47b8-a73e-41433f34baa5</uuid>
+  </card>
+  <card>
+    <question>el puerto</question>
+    <answer>порт</answer>
+    <comment></comment>
+    <uuid>3f2ae274-ce5e-42af-a1a7-15db508b1b99</uuid>
+  </card>
+  <card>
+    <question>favorecer</question>
+    <answer>благоприятствовать, быть благоприятным</answer>
+    <comment></comment>
+    <uuid>a9a7a7c5-5d43-4a9d-bbbc-534ec303c407</uuid>
+  </card>
+  <card>
+    <question>coincidir</question>
+    <answer>совпадать</answer>
+    <comment></comment>
+    <uuid>18975428-b41e-4eaa-91f8-7cbf966ceb90</uuid>
+  </card>
+  <card>
+    <question>infantil</question>
+    <answer>детский</answer>
+    <comment></comment>
+    <uuid>c43730e4-d897-4d45-85cd-5fc89b02c0fd</uuid>
+  </card>
+  <card>
+    <question>cultural</question>
+    <answer>культурный</answer>
+    <comment></comment>
+    <uuid>56827fb0-4338-4a73-9678-0356200d2b3d</uuid>
+  </card>
+  <card>
+    <question>Alemania</question>
+    <answer>Германия</answer>
+    <comment></comment>
+    <uuid>3c0c8c7f-87c0-429f-9e18-cda2be2f2a33</uuid>
+  </card>
+  <card>
+    <question>tirar</question>
+    <answer>бросать; кидать (=  echar, arrojar, lanzar)</answer>
+    <comment></comment>
+    <uuid>51f135e1-e605-49f0-83cb-60d7f6128594</uuid>
+  </card>
+  <card>
+    <question>atrás</question>
+    <answer>сзади, позади (=  detrás)</answer>
+    <comment></comment>
+    <uuid>60082c7b-a8ed-4d35-ae5e-f7c4025e8943</uuid>
+  </card>
+  <card>
+    <question>la consulta</question>
+    <answer>консультация (совет)</answer>
+    <comment></comment>
+    <uuid>9e7287cb-274c-4c5c-a512-ac2eb90141b2</uuid>
+  </card>
+  <card>
+    <question>la modificación</question>
+    <answer>модификация</answer>
+    <comment></comment>
+    <uuid>71205957-0823-4957-a93e-c949871c71a4</uuid>
+  </card>
+  <card>
+    <question>curioso</question>
+    <answer>любопытный; любознательный</answer>
+    <comment></comment>
+    <uuid>95056b71-b304-461d-9124-b04b554eca35</uuid>
+  </card>
+  <card>
+    <question>la ventana</question>
+    <answer>окно</answer>
+    <comment></comment>
+    <uuid>1618d143-cb9a-437e-9d92-cee1510b9a18</uuid>
+  </card>
+  <card>
+    <question>disminuir</question>
+    <answer>уменьшать; сокращать (=  reducir)</answer>
+    <comment></comment>
+    <uuid>2a4dbe63-aa69-46a9-9229-218774a263b7</uuid>
+  </card>
+  <card>
+    <question>el símbolo</question>
+    <answer>символ</answer>
+    <comment></comment>
+    <uuid>c5858eb9-1288-4ac3-a056-c1c270e39ffd</uuid>
+  </card>
+  <card>
+    <question>la tesis</question>
+    <answer>тезис; положение</answer>
+    <comment></comment>
+    <uuid>9fcdd39b-7b9d-4217-b584-f1de303806ba</uuid>
+  </card>
+  <card>
+    <question>el viento</question>
+    <answer>ветер</answer>
+    <comment></comment>
+    <uuid>9d7afef2-26ae-4d0c-abd3-e83291b303a8</uuid>
+  </card>
+  <card>
+    <question>la señal</question>
+    <answer>сигнал</answer>
+    <comment></comment>
+    <uuid>e1a289ea-b7c7-40bd-ae15-8df7d39ccec1</uuid>
+  </card>
+  <card>
+    <question>distinguir</question>
+    <answer>отличать; различать (= diferenciar)</answer>
+    <comment></comment>
+    <uuid>aaea2540-6d01-487b-b62c-ce7d69e59d83</uuid>
+  </card>
+  <card>
+    <question>la aparición</question>
+    <answer>появление, возникновение</answer>
+    <comment></comment>
+    <uuid>2a036643-3164-451a-ba88-111ccf0730d6</uuid>
+  </card>
+  <card>
+    <question>auténtico</question>
+    <answer>настоящий, подлинный (=  original, verdadero)</answer>
+    <comment></comment>
+    <uuid>8835808c-cf20-4da0-a8a7-d7ecece9a9a6</uuid>
+  </card>
+  <card>
+    <question>fuera</question>
+    <answer>снаружи</answer>
+    <comment></comment>
+    <uuid>74f402bf-e942-4fd0-aef2-827cefc75aa2</uuid>
+  </card>
+  <card>
+    <question>entrever</question>
+    <answer>видеть мельком</answer>
+    <comment></comment>
+    <uuid>6e4a3be6-5fd5-4562-b8c6-1da98f18ad8b</uuid>
+  </card>
+  <card>
+    <question>bello</question>
+    <answer>красивый (= lindo, hermoso)</answer>
+    <comment></comment>
+    <uuid>969af7c8-5c9c-476a-ac64-52200625e92c</uuid>
+  </card>
+  <card>
+    <question>la creencia</question>
+    <answer>вера (=  fe  f)</answer>
+    <comment></comment>
+    <uuid>0996863b-cf33-4062-9c69-8398f493c55e</uuid>
+  </card>
+  <card>
+    <question>interpretar</question>
+    <answer>толковать</answer>
+    <comment></comment>
+    <uuid>08238f97-ca5e-47a8-afdf-6e5a3a3c566f</uuid>
+  </card>
+  <card>
+    <question>convenir</question>
+    <answer>договариваться (= acordar)</answer>
+    <comment></comment>
+    <uuid>aee7e71d-a7a7-422e-b02c-e76a8187d1b4</uuid>
+  </card>
+  <card>
+    <question>comprometer</question>
+    <answer>подвергать опасности; ставить под удар</answer>
+    <comment></comment>
+    <uuid>65a2eb1d-8c5d-4248-acc9-ebd4d00c4b64</uuid>
+  </card>
+  <card>
+    <question>el funcionario</question>
+    <answer>служащий; чиновник</answer>
+    <comment></comment>
+    <uuid>ed866c46-e8f6-47b3-b6b1-e9f9b489348a</uuid>
+  </card>
+  <card>
+    <question>el costo</question>
+    <answer>цена; стоимость</answer>
+    <comment></comment>
+    <uuid>eb83c4d9-ce32-4177-8dde-e834f65014b8</uuid>
+  </card>
+  <card>
+    <question>estatal</question>
+    <answer>государственный</answer>
+    <comment></comment>
+    <uuid>e5095fe6-746d-4b24-863a-1c478a19b22e</uuid>
+  </card>
+  <card>
+    <question>les</question>
+    <answer>им; Вам; их; Вас</answer>
+    <comment></comment>
+    <uuid>f2349e71-cc13-461b-998c-6a9603fd72a5</uuid>
+  </card>
+  <card>
+    <question>dividir</question>
+    <answer>разделять</answer>
+    <comment></comment>
+    <uuid>c086c001-c415-4731-aeff-75755593bb9a</uuid>
+  </card>
+  <card>
+    <question>discutir</question>
+    <answer>обсуждать (=  debatir)</answer>
+    <comment></comment>
+    <uuid>2e168401-ac3b-4a5e-8e89-344f333fd149</uuid>
+  </card>
+  <card>
+    <question>la prevención</question>
+    <answer>предотвращение</answer>
+    <comment></comment>
+    <uuid>e873457f-79f4-47d2-bbc4-7a9f61d292f5</uuid>
+  </card>
+  <card>
+    <question>elevar</question>
+    <answer>поднимать; повышать (= aumentar, subir)</answer>
+    <comment></comment>
+    <uuid>cc736f54-fb5d-4bea-a852-cbf055e15897</uuid>
+  </card>
+  <card>
+    <question>contestar</question>
+    <answer>отвечать (на вопрос и т.п.) (= responder)</answer>
+    <comment></comment>
+    <uuid>53b3c1d3-0d47-4d41-ace9-19e22830725a</uuid>
+  </card>
+  <card>
+    <question>sugerir</question>
+    <answer>подсказывать (наводить на мысль)</answer>
+    <comment></comment>
+    <uuid>61c711be-5a3f-4d89-ac20-d4d9a4862f99</uuid>
+  </card>
+  <card>
+    <question>condenar</question>
+    <answer>юр. приговаривать; осуждать</answer>
+    <comment></comment>
+    <uuid>b00c96f0-4d72-44d1-bc4b-9614aa873c49</uuid>
+  </card>
+  <card>
+    <question>judío</question>
+    <answer>еврейский</answer>
+    <comment></comment>
+    <uuid>5bc3fdd5-74eb-43d5-b6a5-6d2374fbcfc7</uuid>
+  </card>
+  <card>
+    <question>la solidaridad</question>
+    <answer>солидарность</answer>
+    <comment></comment>
+    <uuid>a3a34a42-0282-475b-a59a-47a8a0198629</uuid>
+  </card>
+  <card>
+    <question>vasco</question>
+    <answer>баскский</answer>
+    <comment></comment>
+    <uuid>7ba35b89-55a2-4f04-a264-428cb76d87c9</uuid>
+  </card>
+  <card>
+    <question>abajo</question>
+    <answer>внизу</answer>
+    <comment></comment>
+    <uuid>b6be058b-86cd-4651-99d9-f6ea6a1dd032</uuid>
+  </card>
+  <card>
+    <question>Venezuela</question>
+    <answer>Венесуэла</answer>
+    <comment></comment>
+    <uuid>feadd55a-90ce-414d-8b22-a7b072ad69e3</uuid>
+  </card>
+  <card>
+    <question>vincular</question>
+    <answer>связывать(ся); соединять(ся)</answer>
+    <comment></comment>
+    <uuid>a36276c2-4a40-4df3-b174-59b75fbd992b</uuid>
+  </card>
+  <card>
+    <question>el golpe</question>
+    <answer>удар</answer>
+    <comment></comment>
+    <uuid>c3b5aeaa-54b5-4a8c-9cf7-a80aa209862b</uuid>
+  </card>
+  <card>
+    <question>ético</question>
+    <answer>этический</answer>
+    <comment></comment>
+    <uuid>6d5fa2df-044d-4798-95b3-cb1697abb8ef</uuid>
+  </card>
+  <card>
+    <question>el vehículo</question>
+    <answer>транспортное средство; автомобиль</answer>
+    <comment></comment>
+    <uuid>3218e525-6669-42e4-9d1a-b3133cec97f7</uuid>
+  </card>
+  <card>
+    <question>primario</question>
+    <answer>основной (= fundamental, básico)</answer>
+    <comment></comment>
+    <uuid>b81403c9-8f59-45fc-ad1c-73535ac0b0d5</uuid>
+  </card>
+  <card>
+    <question>salar</question>
+    <answer>солить</answer>
+    <comment></comment>
+    <uuid>1f94824c-09eb-4d22-9fe6-bac09c724cc5</uuid>
+  </card>
+  <card>
+    <question>la personalidad</question>
+    <answer>личность (индивидуум) (= individuo)</answer>
+    <comment></comment>
+    <uuid>ae842ef6-61af-4464-8ff4-75e653f8c854</uuid>
+  </card>
+  <card>
+    <question>productivo</question>
+    <answer>продуктивной</answer>
+    <comment></comment>
+    <uuid>529ed17b-1743-47ad-a0cf-b8b892bfe4ef</uuid>
+  </card>
+  <card>
+    <question>rodear</question>
+    <answer>окружать (=  cercar)</answer>
+    <comment></comment>
+    <uuid>2ce0ae0a-f94c-4535-b6d8-f03cf1fb13f1</uuid>
+  </card>
+  <card>
+    <question>la ausencia</question>
+    <answer>отсутствие</answer>
+    <comment></comment>
+    <uuid>b27bba8e-3c96-4ecc-8ed5-0a1818880ec2</uuid>
+  </card>
+  <card>
+    <question>ampliar</question>
+    <answer>расширять (ассортимент и т.п.); увеличивать (фото)</answer>
+    <comment></comment>
+    <uuid>743a7403-a9ee-4d56-8539-c54c0a38aaf8</uuid>
+  </card>
+  <card>
+    <question>satisfacer</question>
+    <answer>удовлетворить</answer>
+    <comment></comment>
+    <uuid>d4b260c9-75e7-45f6-9b23-ba831de6c91a</uuid>
+  </card>
+  <card>
+    <question>consultar</question>
+    <answer>консультироваться; советоваться</answer>
+    <comment></comment>
+    <uuid>3e9338d3-4dd9-4301-9952-8e992df9cacb</uuid>
+  </card>
+  <card>
+    <question>el pecado</question>
+    <answer>грех</answer>
+    <comment></comment>
+    <uuid>ebe3953d-053a-45d5-810b-d1a908468958</uuid>
+  </card>
+  <card>
+    <question>raro</question>
+    <answer>редкий (редко встречающийся)</answer>
+    <comment></comment>
+    <uuid>34a3b15d-84f6-401b-9fa7-443fcefff1d5</uuid>
+  </card>
+  <card>
+    <question>la promoción</question>
+    <answer>продвижение (товаров, услуг)</answer>
+    <comment></comment>
+    <uuid>90ad8732-4b22-46a9-8e8b-2e72b8e42d51</uuid>
+  </card>
+  <card>
+    <question>la igualdad</question>
+    <answer>равенство</answer>
+    <comment></comment>
+    <uuid>c06ff2b0-02a4-4de7-9e13-b9980375fac6</uuid>
+  </card>
+  <card>
+    <question>formal</question>
+    <answer>формальный</answer>
+    <comment></comment>
+    <uuid>57358a3b-5130-43fb-bcb9-7792e8cbb9ce</uuid>
+  </card>
+  <card>
+    <question>griego</question>
+    <answer>греческий</answer>
+    <comment></comment>
+    <uuid>ea444ab0-2035-45e3-b174-a2dfd3d00a95</uuid>
+  </card>
+  <card>
+    <question>cotidiano</question>
+    <answer>ежедневный; повседневный (=  diario)</answer>
+    <comment></comment>
+    <uuid>c081643e-898e-474f-89ed-51bb83a796f1</uuid>
+  </card>
+  <card>
+    <question>el establecimiento</question>
+    <answer>учреждение (здание); организация</answer>
+    <comment></comment>
+    <uuid>8c77be15-f0eb-473d-86ac-f34257010392</uuid>
+  </card>
+  <card>
+    <question>el intercambio</question>
+    <answer>(взаимный) обмен</answer>
+    <comment></comment>
+    <uuid>98ca4dc7-8ef2-4c3b-986c-407b584ef0b9</uuid>
+  </card>
+  <card>
+    <question>comparar</question>
+    <answer>сравнивать</answer>
+    <comment></comment>
+    <uuid>3ce33216-eab3-4288-abdd-0b8fde33bf13</uuid>
+  </card>
+</cards>
+</stack>

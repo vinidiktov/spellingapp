@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>698735b3-0f36-4125-97ab-432f321ba5e7</uuid>
+  <title>Мебель</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el sillón</question>
+    <answer>кресло</answer>
+    <comment></comment>
+    <uuid>30ce2b1f-25b6-4031-8f59-d6e6e7dfbf53</uuid>
+  </card>
+  <card>
+    <question>la bañera</question>
+    <answer>ванна</answer>
+    <comment></comment>
+    <uuid>6c0b46b7-1c74-42c4-bb58-f573925e3a9d</uuid>
+  </card>
+  <card>
+    <question>la cama</question>
+    <answer>кровать</answer>
+    <comment></comment>
+    <uuid>e2f321b2-2d94-4716-a72d-f3862df1ccb6</uuid>
+  </card>
+  <card>
+    <question>la alfombra</question>
+    <answer>ковёр</answer>
+    <comment></comment>
+    <uuid>beb0a31e-11a5-4b23-b88a-b1cb30ca37ac</uuid>
+  </card>
+  <card>
+    <question>la silla</question>
+    <answer>стул</answer>
+    <comment></comment>
+    <uuid>3f92b1e3-52a4-4fce-a222-e9bcfd9072c4</uuid>
+  </card>
+  <card>
+    <question>la cómoda</question>
+    <answer>комод</answer>
+    <comment></comment>
+    <uuid>1113fb80-3715-4430-8bb8-0b2fb651b587</uuid>
+  </card>
+  <card>
+    <question>el reloj</question>
+    <answer>часы (настенные, настольные)</answer>
+    <comment></comment>
+    <uuid>365a41b2-ce61-4174-8fbf-80983bdc1369</uuid>
+  </card>
+  <card>
+    <question>el escritorio</question>
+    <answer>письменный стол</answer>
+    <comment></comment>
+    <uuid>8153b212-bda3-4b93-85e9-893eaa6d0dbc</uuid>
+  </card>
+  <card>
+    <question>la puerta</question>
+    <answer>дверь</answer>
+    <comment></comment>
+    <uuid>9c665e8a-a0ed-4618-9e83-de77e15b2766</uuid>
+  </card>
+  <card>
+    <question>la lámpara</question>
+    <answer>лампа</answer>
+    <comment></comment>
+    <uuid>dd331382-5ba9-41a3-8669-1a5d0a2885b6</uuid>
+  </card>
+  <card>
+    <question>estar</question>
+    <answer>лежать</answer>
+    <comment></comment>
+    <uuid>4c2f5cc6-2517-47f2-8d9b-fe6b31076030</uuid>
+  </card>
+  <card>
+    <question>la luz</question>
+    <answer>свет</answer>
+    <comment></comment>
+    <uuid>fc43434e-6acf-4290-9d7d-578ccb03130e</uuid>
+  </card>
+  <card>
+    <question>el espejo</question>
+    <answer>зеркало</answer>
+    <comment></comment>
+    <uuid>aa057eff-2d35-4c37-9824-e33a998446b8</uuid>
+  </card>
+  <card>
+    <question>la imagen</question>
+    <answer>картина</answer>
+    <comment></comment>
+    <uuid>ccbdbe97-9437-4858-a9bf-1e74a4f0d57d</uuid>
+  </card>
+  <card>
+    <question>la radio</question>
+    <answer>радио, радиоприёмник</answer>
+    <comment></comment>
+    <uuid>3c829915-a209-4825-b682-c406009d8cf1</uuid>
+  </card>
+  <card>
+    <question>el control remoto</question>
+    <answer>пульт дистанционного управления</answer>
+    <comment></comment>
+    <uuid>12ca68ee-668e-4f6b-a300-4e2a1d3bee3c</uuid>
+  </card>
+  <card>
+    <question>la máquina de coser</question>
+    <answer>швейная машина</answer>
+    <comment></comment>
+    <uuid>d66ded7b-b0fb-4ca6-9517-58ff4a8f0a88</uuid>
+  </card>
+  <card>
+    <question>la ducha</question>
+    <answer>душ</answer>
+    <comment></comment>
+    <uuid>fa68c534-7eb8-4c01-a532-52d40af6ff4c</uuid>
+  </card>
+  <card>
+    <question>el fregadero</question>
+    <answer>раковина</answer>
+    <comment></comment>
+    <uuid>e6652ede-9089-4a91-8d13-e99df933efcc</uuid>
+  </card>
+  <card>
+    <question>sentarse</question>
+    <answer>сидеть</answer>
+    <comment></comment>
+    <uuid>d87faa38-d451-4a9a-be89-e9e13c46dbe2</uuid>
+  </card>
+  <card>
+    <question>el sofá</question>
+    <answer>диван</answer>
+    <comment></comment>
+    <uuid>e8ee34d2-3c8b-422d-ae71-c156bbb893c2</uuid>
+  </card>
+  <card>
+    <question>los altavoces</question>
+    <answer>громкоговорители, колонки</answer>
+    <comment></comment>
+    <uuid>1ef50dd2-e6be-4dc3-bfda-63ede9e3ac11</uuid>
+  </card>
+  <card>
+    <question>el equipo de música</question>
+    <answer>стереосистема</answer>
+    <comment></comment>
+    <uuid>1b276e24-05e7-4050-a270-f6bf2bb9d4ab</uuid>
+  </card>
+  <card>
+    <question>la mesa</question>
+    <answer>стол</answer>
+    <comment></comment>
+    <uuid>532b11c3-00a4-4b0e-b8a3-de6e570d5421</uuid>
+  </card>
+  <card>
+    <question>la televisión</question>
+    <answer>телевизор</answer>
+    <comment></comment>
+    <uuid>65761f4c-e13c-4817-aca7-a306507c82aa</uuid>
+  </card>
+  <card>
+    <question>el florero</question>
+    <answer>ваза</answer>
+    <comment></comment>
+    <uuid>739969ac-4b6d-45ac-b2a3-f838432711ce</uuid>
+  </card>
+  <card>
+    <question>el vídeo</question>
+    <answer>видеомагнитофон</answer>
+    <comment></comment>
+    <uuid>590dde85-66e5-4dbf-afee-6926c5fd8971</uuid>
+  </card>
+  <card>
+    <question>el armario</question>
+    <answer>гардероб, шкаф</answer>
+    <comment></comment>
+    <uuid>20070740-4325-44a6-a154-e493323e2fe9</uuid>
+  </card>
+  <card>
+    <question>lavar</question>
+    <answer>мыть, мыться</answer>
+    <comment></comment>
+    <uuid>65b67f98-7331-43a5-9700-3af3a00104d5</uuid>
+  </card>
+  <card>
+    <question>la ventana</question>
+    <answer>окно</answer>
+    <comment></comment>
+    <uuid>372c9c81-8781-4695-82ae-1048271ead17</uuid>
+  </card>
+</cards>
+</stack>

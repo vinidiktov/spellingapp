@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ecdd5254-c21e-447f-bfa6-36bb96ca74ac</uuid>
+  <title>Поездки, путешествия</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>ABFAHRT</question>
+    <answer>отправление</answer>
+    <comment></comment>
+    <uuid>40b90596-99f2-49ee-afbd-765370aebb90</uuid>
+  </card>
+  <card>
+    <question>ANKUNFT</question>
+    <answer>прибытие</answer>
+    <comment></comment>
+    <uuid>22db5b38-24fd-4a7f-a1b9-8c1871c7cacd</uuid>
+  </card>
+  <card>
+    <question>Brauche ich einen Zuschlag?</question>
+    <answer>Мне нужно произвести доплату?</answer>
+    <comment></comment>
+    <uuid>1e137258-a5cd-48a1-a085-f649a2b30f96</uuid>
+  </card>
+  <card>
+    <question>der Anschluß</question>
+    <answer>пересадка</answer>
+    <comment></comment>
+    <uuid>2ab1c521-ef64-4e50-b1da-2329e2a975e0</uuid>
+  </card>
+  <card>
+    <question>der Bahnhof</question>
+    <answer>вокзал центральный</answer>
+    <comment></comment>
+    <uuid>f9835760-a454-4414-86f2-9b8a4cc810f1</uuid>
+  </card>
+  <card>
+    <question>der EC-Zuschlag</question>
+    <answer>доплата в поезде Евросити</answer>
+    <comment></comment>
+    <uuid>2d76e5fd-43de-43f9-a84a-0638db659c5e</uuid>
+  </card>
+  <card>
+    <question>der Eurocity-Zuschlag</question>
+    <answer>доплата в поезде Евросити</answer>
+    <comment></comment>
+    <uuid>05e70fe2-8a38-41c4-a761-b3f6456c6100</uuid>
+  </card>
+  <card>
+    <question>der Fahrkartenschalter</question>
+    <answer>билетная касса</answer>
+    <comment></comment>
+    <uuid>d0a8936c-8ee6-49bc-b207-88b19577316f</uuid>
+  </card>
+  <card>
+    <question>der Fahrplan</question>
+    <answer>расписание движения поездов</answer>
+    <comment></comment>
+    <uuid>222ee64f-bc48-450a-8dbd-a51f2e8b10ff</uuid>
+  </card>
+  <card>
+    <question>der Hauptbahnhof (Hbf)</question>
+    <answer>центральный вокзал</answer>
+    <comment></comment>
+    <uuid>8f6814eb-bc43-436a-86d9-40c0d8101b93</uuid>
+  </card>
+  <card>
+    <question>der IC-Zuschlag</question>
+    <answer>доплата в поезде Интерсити (сокращение)</answer>
+    <comment></comment>
+    <uuid>141dd915-87db-430b-83a1-4534043b419a</uuid>
+  </card>
+  <card>
+    <question>der Intercity-Zuschlag</question>
+    <answer>доплата в поезде Интерсити</answer>
+    <comment></comment>
+    <uuid>ee412d7f-37b9-4629-88f6-5988db196065</uuid>
+  </card>
+  <card>
+    <question>Der Zug hat 10 Minuten Verspätung.</question>
+    <answer>Поезд прибудет с опозданием на 10 минут.</answer>
+    <comment></comment>
+    <uuid>a14f9d2e-22f3-4deb-92af-ebb8338e7057</uuid>
+  </card>
+  <card>
+    <question>der Zuschlag</question>
+    <answer>доплата</answer>
+    <comment></comment>
+    <uuid>0bc819d8-12a3-47e1-a1d1-c82706054d69</uuid>
+  </card>
+  <card>
+    <question>die Fahrkarte</question>
+    <answer>билет</answer>
+    <comment></comment>
+    <uuid>dd8f4670-7dbb-4046-b932-493430fe41f1</uuid>
+  </card>
+  <card>
+    <question>die Verspätung</question>
+    <answer>опоздание</answer>
+    <comment></comment>
+    <uuid>8834f33e-8396-406d-bb01-0a483003c321</uuid>
+  </card>
+  <card>
+    <question>Eine Rückfahrkarte nach Dresden.</question>
+    <answer>Билет на проезд в Дрезден туда и обратно.</answer>
+    <comment></comment>
+    <uuid>5d419c29-5042-446b-9e2d-d75e878d6fe7</uuid>
+  </card>
+  <card>
+    <question>Einmal nach Berlin.</question>
+    <answer>Один билет до Берлина.</answer>
+    <comment></comment>
+    <uuid>73b76100-8995-4585-9c71-b5da3d8a09dd</uuid>
+  </card>
+  <card>
+    <question>erste Klasse</question>
+    <answer>первый класс</answer>
+    <comment></comment>
+    <uuid>bef62204-4878-4a2f-b481-3ed29fd4f055</uuid>
+  </card>
+  <card>
+    <question>Frankfurt Hauptbahnhof.</question>
+    <answer>центральный вокзал Франкфурта.</answer>
+    <comment></comment>
+    <uuid>dd904710-0a26-4f75-9640-aae7548bf7c4</uuid>
+  </card>
+  <card>
+    <question>umsteigen</question>
+    <answer>делать пересадку, пересесть</answer>
+    <comment></comment>
+    <uuid>619dd3f5-09f3-44b9-b392-6eac829f7523</uuid>
+  </card>
+  <card>
+    <question>Zwei Fahrkarten nach Berlin, bitte.</question>
+    <answer>Два билета до Берлина, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>cad51116-a1d0-48b8-ba0e-e6ebc087996a</uuid>
+  </card>
+  <card>
+    <question>zweite Klasse</question>
+    <answer>второй класс</answer>
+    <comment></comment>
+    <uuid>47cd447a-3b63-4d4f-abd0-824afe22b188</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>76fba50a-bcca-4ba6-9c98-d70a2c597e52</uuid>
+  <title>Городской транспорт :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Which bus should I take to the city center?</question>
+    <answer>На каком автобусе можно доехать до центра?</answer>
+    <comment>[hwɪʧ bʌs ʃʊd аɪ teɪk tə ðə ˈsɪtiː ˈsentər]</comment>
+    <answer_comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</answer_comment>
+    
+    <uuid>0b1f65ab-f245-45d8-8690-29b848795ad7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which streetcar should I take to the city center?</question>
+    <answer>На каком трамвае можно доехать до центра?</answer>
+    <comment>[hwɪʧ ˈstriːtˌkɑːr ʃʊd аɪ teɪk tə ðə ˈsɪtiː ˈsentər]</comment>
+    <answer_comment>which - какой, который, streetcar - трамвай, should - следует, to take - взять, брать, city - город, center - центр</answer_comment>
+    
+    <uuid>b4099e71-6d4e-4df3-8dc7-6e5cafd5ffab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest bus stop?</question>
+    <answer>Где ближайшая автобусная остановка?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst bʌs stɑːp]</comment>
+    <answer_comment>where - где, the nearest - ближайший, bus - автобус, stop - остановка</answer_comment>
+    
+    <uuid>c6bd6d66-00b9-4e1b-9f8d-fa3ffe952942</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest streetcar stop?</question>
+    <answer>Где ближайшая трамвайная остановка?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈstriːtˌkɑːr stɑːp]</comment>
+    <answer_comment>where - где, the nearest - ближайший, streetcar - трамвай, stop - остановка</answer_comment>
+    
+    <uuid>9e0b8c92-92b1-4146-94b3-775380c30425</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many stops are there to the theater?</question>
+    <answer>Сколько остановок до театра?</answer>
+    <comment>[hаʊ ˈmeniː stɑːps ɑːr ðer tə ðə ˈθɪətər]</comment>
+    <answer_comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, theater - театр</answer_comment>
+    
+    <uuid>caae8008-9a1d-47f5-9e5d-053324d962c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many stops are there to the hotel?</question>
+    <answer>Сколько остановок до гостиницы?</answer>
+    <comment>[hаʊ ˈmeniː stɑːps ɑːr ðer tə ðə hoʊˈtel]</comment>
+    <answer_comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, hotel - гостиница</answer_comment>
+    
+    <uuid>2583a957-8c43-4888-a942-d12bc4557f02</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many more stops to the theater?</question>
+    <answer>Сколько еще остановок до театра?</answer>
+    <comment>[hаʊ ˈmeniː mɔːr stɑːps tə ðə ˈθɪətər]</comment>
+    <answer_comment>how - сколько, many - много, more - еще, больше, stop - остановка, theater - театр</answer_comment>
+    
+    <uuid>bbdf5c0a-57f4-4f3a-8640-956d734c2841</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many more stops to the hotel?</question>
+    <answer>Сколько еще остановок до гостиницы?</answer>
+    <comment>[hаʊ ˈmeniː mɔːr stɑːps tə ðə hoʊˈtel]</comment>
+    <answer_comment>how - сколько, many - много, more - еще, больше, stop - остановка, hotel - гостиница</answer_comment>
+    
+    <uuid>4d35104d-1a44-47f2-ab39-ce84c9203ed6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Excuse me, does this bus go to the Zoo?</question>
+    <answer>Простите, этот автобус идет к зоопарку?</answer>
+    <comment>[ɪkˈskjuːz ˈmiː dʌz ðɪs bʌs goʊ tə ðə zuː]</comment>
+    <answer_comment>to excuse - извинять, me - мне, меня, this - этот, это, эта, bus - автобус, to go - ехать, Zoo - зоопарк</answer_comment>
+    
+    <uuid>195e4d46-772c-420d-8d55-a726fde68483</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is this stop called?</question>
+    <answer>Как называется эта остановка?</answer>
+    <comment>[hwʌt ɪz ðɪs stɑːp kɔːld]</comment>
+    <answer_comment>what - что, какой, this - этот, это, эта, stop - остановка, called - называемый</answer_comment>
+    
+    <uuid>bcee8099-165e-4159-98c6-0e50ecc274e3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is this station called?</question>
+    <answer>Как называется эта станция?</answer>
+    <comment>[hwʌt ɪz ðɪs ˈsteɪʃən kɔːld]</comment>
+    <answer_comment>what - что, какой, this - этот, это, эта, station - станция, остановка, called - называемый</answer_comment>
+    
+    <uuid>19f858b8-099e-4c0d-b68d-2c320d74d79d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest subway station?</question>
+    <answer>Где ближайшая станция метро? (Амер.)</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈsʌbˌweɪ ˈsteɪʃən]</comment>
+    <answer_comment>where - где, the nearest - ближайший, subway - метро, station - станция</answer_comment>
+    
+    <uuid>1989ed3d-270b-4721-9f37-f089bfd64b1e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How can I reach the cathedral?</question>
+    <answer>Как мне доехать до собора?</answer>
+    <comment>[hаʊ kæn аɪ riːʧ ðə kəˈθiːdrəl]</comment>
+    <answer_comment>how - как, can - мочь, to reach - добраться, cathedral - собор</answer_comment>
+    
+    <uuid>cde6111d-7d91-4d1a-a5a8-334b019f455f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which line should I take to the airport?</question>
+    <answer>На каком маршруте я доеду до аэропорта?</answer>
+    <comment>[hwɪʧ lаɪn ʃʊd аɪ teɪk tə ðiː ˈerˌpɔːrt]</comment>
+    <answer_comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</answer_comment>
+    
+    <uuid>7d3a8001-f3d7-489d-b380-398ab1f4ecc5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do I have to change?</question>
+    <answer>Мне делать пересадку?</answer>
+    <comment>[duː аɪ hæv tə ʧeɪnʤ]</comment>
+    <answer_comment>to have to - быть должным, to change - делать пересадку</answer_comment>
+    
+    <uuid>f19677f8-9642-4164-b5fb-d27f37deb4a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where do I have to change?</question>
+    <answer>Где мне делать пересадку?</answer>
+    <comment>[hwer duː аɪ hæv tə ʧeɪnʤ]</comment>
+    <answer_comment>where - где, to have to - быть должным, to change - делать пересадку</answer_comment>
+    
+    <uuid>5cd72a54-f5e7-4f5e-bb3b-d4bb6eaeb05f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy a map of the subway?</question>
+    <answer>Где я могу купить карту метро?</answer>
+    <comment>[hwer kæn аɪ bаɪ ə mæp əv ðə ˈsʌbˌweɪ]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, map - карта, subway - метро</answer_comment>
+    
+    <uuid>952c15ab-4cd7-4281-b55e-671314c7ba84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I buy a day ticket?</question>
+    <answer>Можно купить проездной билет на сутки?</answer>
+    <comment>[kæn аɪ bаɪ ə deɪ ˈtɪkɪt]</comment>
+    <answer_comment>can - мочь, to buy - купить, day -день, ticket - билет</answer_comment>
+    
+    <uuid>f6f344bf-9d0c-4668-9ba3-bc002e2379c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I buy a three day ticket?</question>
+    <answer>Можно купить проездной билет на три дня?</answer>
+    <comment>[kæn аɪ bаɪ ə θriː ˈdeɪ ˈtɪkɪt]</comment>
+    <answer_comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</answer_comment>
+    
+    <uuid>77f8bb72-4d7c-491f-9309-005deabb9cc2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I buy a weekly ticket?</question>
+    <answer>Можно купить проездной билет на неделю?</answer>
+    <comment>[kæn аɪ bаɪ ə ˈwiːkliː ˈtɪkɪt]</comment>
+    <answer_comment>can - мочь, to buy - купить, weekly -недельный, ticket - билет</answer_comment>
+    
+    <uuid>b4ca17cc-3649-44c1-a056-76beb033e000</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I buy a monthly ticket?</question>
+    <answer>Можно купить проездной билет на месяц?</answer>
+    <comment>[kæn аɪ bаɪ ə ˈmʌnθliː ˈtɪkɪt]</comment>
+    <answer_comment>can - мочь, to buy - купить, monthly -месячный, ticket - билет</answer_comment>
+    
+    <uuid>d4d05c4b-fcba-409b-a480-c9c17f3edfc9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Does this bus go to the square?</question>
+    <answer>Этот автобус идет до площади?</answer>
+    <comment>[dʌz ðɪs bʌs goʊ tə ðə skwer]</comment>
+    <answer_comment>to go - ехать, square - площадь</answer_comment>
+    
+    <uuid>05eb8db5-bd3b-4fa0-a3d9-9aedbf68d543</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where does this bus go?</question>
+    <answer>Куда идет этот автобус?</answer>
+    <comment>[hwer dʌz ðɪs bʌs goʊ]</comment>
+    <answer_comment>where - куда, где, this - этот, эта, это, bus - автобус, to go - ехать</answer_comment>
+    
+    <uuid>429a62f6-8a34-4128-b5e0-15889efc25c0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where does this streetcar go?</question>
+    <answer>Куда идет этот трамвай?</answer>
+    <comment>[hwer dʌz ðɪs ˈstriːtˌkɑːr goʊ]</comment>
+    <answer_comment>where - куда, где, this - этот, эта, это, streetcar - трамвай, to go - ехать</answer_comment>
+    
+    <uuid>6f79d8c9-4b63-4e4f-82f8-fa603cdb0295</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which streetcar goes to the center?</question>
+    <answer>Какой трамвай идет в центр?</answer>
+    <comment>[hwɪʧ ˈstriːtˌkɑːr goʊz tə ðə ˈsentər]</comment>
+    <answer_comment>which - какой, который, streetcar - трамвай, to go - ехать, center - центр</answer_comment>
+    
+    <uuid>666da8a0-1596-44ef-8ee5-1c5e395c24da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which bus goes to the university?</question>
+    <answer>Какой автобус идет к университету?</answer>
+    <comment>[hwɪʧ bʌs goʊz tə ðə ˌjuːnəˈvɜːrsɪtiː]</comment>
+    <answer_comment>which - какой, который, bus - автобус, to go - ехать, university - университет</answer_comment>
+    
+    <uuid>8f437147-f558-4474-8a9a-5da7aec04cdd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which bus do I take for the hotel?</question>
+    <answer>На каком автобусе я доеду до гостиницы?</answer>
+    <comment>[hwɪʧ bʌs duː аɪ teɪk fər ðə hoʊˈtel]</comment>
+    <answer_comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</answer_comment>
+    
+    <uuid>a8999ce9-0382-4e36-b402-8b4fa0e8b978</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When is the next bus?</question>
+    <answer>Когда следующий автобус?</answer>
+    <comment>[hwen ɪz ðə nekst bʌs]</comment>
+    <answer_comment>when - когда, next - следующий, bus - автобус</answer_comment>
+    
+    <uuid>7bc5098f-e0bb-4922-9fc9-a7a8b4dc7429</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time is my ticket valid for?</question>
+    <answer>Какое время действителен мой билет?</answer>
+    <comment>[hwʌt tаɪm ɪz mаɪ ˈtɪkɪt ˈvælɪd fər]</comment>
+    <answer_comment>what - что, какой, time - время, my - мой, моя, мое, ticket - билет, valid - действительный</answer_comment>
+    
+    <uuid>b4aacb24-cf15-4356-b9ee-2c0eed42544a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you getting off now?</question>
+    <answer>Вы сейчас выходите?</answer>
+    <comment>[ɑːr jʊ ˈgetɪŋ ɔːf nаʊ]</comment>
+    <answer_comment>to get off - выходить, now - сейчас</answer_comment>
+    
+    <uuid>4de636c9-1a10-49b1-90ac-ec5d4b620a1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you getting off at the next stop?</question>
+    <answer>Вы выходите на следующей остановке?</answer>
+    <comment>[ɑːr jʊ ˈgetɪŋ ɔːf ət ðə nekst stɑːp]</comment>
+    <answer_comment>to get off - выходить, next - следующий, stop - остановка</answer_comment>
+    
+    <uuid>f64e351a-a0f9-4bcf-a1c2-34e96e324207</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let me pass.</question>
+    <answer>Разрешите пройти.</answer>
+    <comment>[let ˈmiː pæs]</comment>
+    <answer_comment>let - позволять, me - мне, меня, to pass - пройти</answer_comment>
+    
+    <uuid>0c7639c9-1d19-4dea-acbc-9c05188bae87</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Mind the doors!</question>
+    <answer>Осторожно, двери закрываются!</answer>
+    <comment>[mаɪnd ðə dɔːrz]</comment>
+    <answer_comment>to mind - остерегаться, беречься, door - дверь</answer_comment>
+    
+    <uuid>519efef7-43d5-4443-9c80-8f39c8264d7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is this place vacant?</question>
+    <answer>Это место свободно?</answer>
+    <comment>[ɪz ðɪs pleɪs ˈveɪkənt]</comment>
+    <answer_comment>this - этот, эта, это, place - место, vacant - свободный</answer_comment>
+    
+    <uuid>6c4f58b0-dd79-4dba-a5eb-c1de707ff168</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you tell me which is the next station?</question>
+    <answer>Не подскажите, какая следующая станция?</answer>
+    <comment>[kʊd jʊ tel ˈmiː hwɪʧ ɪz ðə nekst ˈsteɪʃən]</comment>
+    <answer_comment>could - мог, могла, могли, to tell - говорить, сказать, me - мне, меня, which - который, какой, next - следующий, station - станция</answer_comment>
+    
+    <uuid>c4381ccc-077d-4d55-9d9b-549c0d0e8fbf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will you please let me know when we arrive at the theater?</question>
+    <answer>Скажите, пожалуйста, когда будет театр.</answer>
+    <comment>[wɪl jʊ pliːz let ˈmiː noʊ hwen wiː əˈrаɪv ət ðə ˈθɪətər]</comment>
+    <answer_comment>let - позволить, me - мне, меня, to know - знать, when - когда, to arrive - прибывать, theater - театр</answer_comment>
+    
+    <uuid>320f7470-fbc1-4bf2-815f-0c2f66bb485b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you tell me when to get off?</question>
+    <answer>Вы не подскажите, когда мне выходить?</answer>
+    <comment>[kæn jʊ tel ˈmiː hwen tə get ɔːf]</comment>
+    <answer_comment>can - мочь, to tell - сказать, рассказать, me - мне, меня, when - когда, to get off - выходить</answer_comment>
+    
+    <uuid>834bc1b1-4ffd-4fa7-896a-14d14a61d18f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the stop button?</question>
+    <answer>Где кнопка сигнала остановки?</answer>
+    <comment>[hwer ɪz ðə stɑːp ˈbʌtn]</comment>
+    <answer_comment>where - где, stop - остановка, button - кнопка</answer_comment>
+    
+    <uuid>f999db4f-3f2a-4ecb-a84f-82fd6c3f8fd0</uuid>
+  </card>
+</cards>
+</stack>

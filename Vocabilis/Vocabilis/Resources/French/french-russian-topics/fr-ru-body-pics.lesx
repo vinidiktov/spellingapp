@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>90b5ea9f-b609-4935-8de3-210c38bb82ea</uuid>
+  <title>Тело</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>la pomme d&apos;Adam</question>
+    <answer>кадык</answer>
+    <comment></comment>
+    <answer_picture>adams_apple.gif</answer_picture>
+    <uuid>345e3227-42dd-4679-8d01-860412fa73ca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;adulte</question>
+    <answer>взрослый</answer>
+    <comment></comment>
+    <answer_picture>adult.gif</answer_picture>
+    <uuid>b973826b-5bb1-482a-b6a3-addac9f5129f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le bras</question>
+    <answer>рука (от кисти до плеча)</answer>
+    <comment></comment>
+    <answer_picture>arm.gif</answer_picture>
+    <uuid>2afdf5a0-1ad8-470f-953b-8f1c897d1be6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;aisselles</question>
+    <answer>подмышка</answer>
+    <comment></comment>
+    <answer_picture>armpit.gif</answer_picture>
+    <uuid>0d1a24d5-234b-4231-a1ba-94c63483f143</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le dos</question>
+    <answer>спина</answer>
+    <comment></comment>
+    <answer_picture>back.gif</answer_picture>
+    <uuid>a797ba0d-6d5c-4185-8c86-f63c3641f250</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la barbe</question>
+    <answer>борода</answer>
+    <comment></comment>
+    <answer_picture>beard.gif</answer_picture>
+    <uuid>6165156c-b470-46e2-8506-7a42b5e3b759</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux noirs</question>
+    <answer>чёрные волосы</answer>
+    <comment></comment>
+    <answer_picture>black_hair.gif</answer_picture>
+    <uuid>916b5b2e-087c-4212-aef9-8310544fb29a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux blonds</question>
+    <answer>белокурые волосы</answer>
+    <comment></comment>
+    <answer_picture>blond_hair.gif</answer_picture>
+    <uuid>696210af-3ee1-4692-8488-db3690f2b1d5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux bruns</question>
+    <answer>коричневые волосы</answer>
+    <comment></comment>
+    <answer_picture>brown_hair.gif</answer_picture>
+    <uuid>fa353b65-29dc-4555-8a6a-12111c962ba4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le mollet</question>
+    <answer>икра (ноги)</answer>
+    <comment></comment>
+    <answer_picture>calf.gif</answer_picture>
+    <uuid>efea2999-93f8-4205-96f3-44157f0695cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la joue</question>
+    <answer>щека</answer>
+    <comment></comment>
+    <answer_picture>cheek.gif</answer_picture>
+    <uuid>f7997628-b3f3-4323-960f-c4fc0bd52bd4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le menton</question>
+    <answer>подбородок</answer>
+    <comment></comment>
+    <answer_picture>chin.gif</answer_picture>
+    <uuid>6030a3a1-b5d0-47e7-ab68-6c3ac20ebb3b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;oreille</question>
+    <answer>ухо</answer>
+    <comment></comment>
+    <answer_picture>ear.gif</answer_picture>
+    <uuid>fc036ebc-0e20-4028-bc40-dda2617ba83c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le coude</question>
+    <answer>локоть</answer>
+    <comment></comment>
+    <answer_picture>elbow.gif</answer_picture>
+    <uuid>1e448d8b-a884-4566-89c9-8e4148337217</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;œil</question>
+    <answer>глаз</answer>
+    <comment></comment>
+    <answer_picture>eye.gif</answer_picture>
+    <uuid>4f885870-48cb-4582-9b7a-5e1fcad8d7d5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sourcil</question>
+    <answer>бровь</answer>
+    <comment></comment>
+    <answer_picture>eyebrow.gif</answer_picture>
+    <uuid>75406118-cad5-4535-9e98-11dcdd22e4ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cil</question>
+    <answer>ресничка</answer>
+    <comment></comment>
+    <answer_picture>eyelash.gif</answer_picture>
+    <uuid>c19f5910-10ab-4454-a9b5-19e8c2eaaa50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la paupière</question>
+    <answer>веко</answer>
+    <comment></comment>
+    <answer_picture>eyelid.gif</answer_picture>
+    <uuid>3f47607b-3e80-4865-b9e9-0b7a33f3bcdc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les yeux</question>
+    <answer>глаза</answer>
+    <comment></comment>
+    <answer_picture>eyes.gif</answer_picture>
+    <uuid>1f05ca09-bf61-48bd-be56-e1da2f267808</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le visage</question>
+    <answer>лицо</answer>
+    <comment></comment>
+    <answer_picture>face.gif</answer_picture>
+    <uuid>d6b7748c-1c92-41a9-8b43-cef1d1f5bbb1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>gros</question>
+    <answer>толстый</answer>
+    <comment></comment>
+    <answer_picture>fat.gif</answer_picture>
+    <uuid>a050aa2e-e074-43c2-9689-e22a71c5ef0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le doigt</question>
+    <answer>палец руки</answer>
+    <comment></comment>
+    <answer_picture>finger.gif</answer_picture>
+    <uuid>65c4f413-eea0-4660-b12b-8c83aaa2db5d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le pied</question>
+    <answer>ступня</answer>
+    <comment></comment>
+    <answer_picture>foot.gif</answer_picture>
+    <uuid>7f0f5ae0-051b-4b45-81c1-692a2fc2c358</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le front</question>
+    <answer>лоб</answer>
+    <comment></comment>
+    <answer_picture>forehead.gif</answer_picture>
+    <uuid>a183cb3a-ce18-4f7e-8883-10229b009d8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux</question>
+    <answer>волосы</answer>
+    <comment></comment>
+    <answer_picture>hair.gif</answer_picture>
+    <uuid>ccc54c78-a6ff-4096-96a5-07f3cddde8d9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la main</question>
+    <answer>кисть руки</answer>
+    <comment></comment>
+    <answer_picture>hand.gif</answer_picture>
+    <uuid>40c63505-066d-4d2c-a03b-7d4b24d21188</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tête</question>
+    <answer>голова</answer>
+    <comment></comment>
+    <answer_picture>head.gif</answer_picture>
+    <uuid>f4e58082-7ada-44a2-a3bd-99987afb4ddb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le genou</question>
+    <answer>колено</answer>
+    <comment></comment>
+    <answer_picture>knee.gif</answer_picture>
+    <uuid>9753c4e2-677b-4e3f-98a6-4a8e39ec87e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la jambe</question>
+    <answer>нога (от бедра до ступни)</answer>
+    <comment></comment>
+    <answer_picture>leg.gif</answer_picture>
+    <uuid>ab57d3b5-2add-41b0-999c-6935c547c015</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les lèvres</question>
+    <answer>губы</answer>
+    <comment></comment>
+    <answer_picture>lips.gif</answer_picture>
+    <uuid>72d74912-7ad3-446b-8135-213a4c7934a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le grain de beauté</question>
+    <answer>родинка</answer>
+    <comment></comment>
+    <answer_picture>mole.gif</answer_picture>
+    <uuid>0b8b52be-135e-44dc-be72-90589b4f657b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la moustache</question>
+    <answer>усы</answer>
+    <comment></comment>
+    <answer_picture>moustache.gif</answer_picture>
+    <uuid>44b816fc-ffe1-421f-bcb0-ec3f3d3eac59</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la bouche</question>
+    <answer>рот</answer>
+    <comment></comment>
+    <answer_picture>mouth.gif</answer_picture>
+    <uuid>96c450d4-7548-40bf-b7ba-3a45c9446208</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cou</question>
+    <answer>шея</answer>
+    <comment></comment>
+    <answer_picture>neck.gif</answer_picture>
+    <uuid>977587af-3e5c-41ca-a71f-46c33d6597cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le nez</question>
+    <answer>нос</answer>
+    <comment></comment>
+    <answer_picture>nose.gif</answer_picture>
+    <uuid>3393fa84-b1a3-4332-a8fb-ae33e2fade9e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la narine</question>
+    <answer>ноздря</answer>
+    <comment></comment>
+    <answer_picture>nostril.gif</answer_picture>
+    <uuid>e4387aeb-3951-4e86-a0a5-5102264e5435</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux rouges</question>
+    <answer>рыжие волосы</answer>
+    <comment></comment>
+    <answer_picture>red_hair.gif</answer_picture>
+    <uuid>e27b00cb-7592-4e3b-8ada-a46b58065e0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la côte</question>
+    <answer>ребро</answer>
+    <comment></comment>
+    <answer_picture>rib.gif</answer_picture>
+    <uuid>d2ae5e6f-02aa-44bf-9942-23598756eb20</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;épaule</question>
+    <answer>плечо</answer>
+    <comment></comment>
+    <answer_picture>shoulder.gif</answer_picture>
+    <uuid>c8154cbe-b9d1-4f7c-9147-945db0ea3847</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le squelette</question>
+    <answer>скелет</answer>
+    <comment></comment>
+    <answer_picture>skeleton.gif</answer_picture>
+    <uuid>32cf8c08-a51a-4493-bb46-48e5ecf46a55</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le crâne</question>
+    <answer>череп</answer>
+    <comment></comment>
+    <answer_picture>skull.gif</answer_picture>
+    <uuid>dd2e0704-9aa8-4f38-9cbc-88a8096b6dae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la semelle</question>
+    <answer>подошва</answer>
+    <comment></comment>
+    <answer_picture>sole.gif</answer_picture>
+    <uuid>1d6c47f2-2c8d-437d-83fe-104edf675d19</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;estomac</question>
+    <answer>желудок</answer>
+    <comment></comment>
+    <answer_picture>stomach.gif</answer_picture>
+    <uuid>ee8bfa5c-a23a-4db2-b28b-50db8b6e70a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les dents</question>
+    <answer>зубы</answer>
+    <comment></comment>
+    <answer_picture>teeth.gif</answer_picture>
+    <uuid>b24a63eb-3eaa-452b-844c-2fd13bca10b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mince</question>
+    <answer>тонкий</answer>
+    <comment></comment>
+    <answer_picture>thin.gif</answer_picture>
+    <uuid>f4762b00-f17a-470b-8e33-0b5dbc7b7772</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la gorge</question>
+    <answer>горло</answer>
+    <comment></comment>
+    <answer_picture>throat.gif</answer_picture>
+    <uuid>0b2e4bbf-969a-445d-ba6c-15edc299a507</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le pouce</question>
+    <answer>большой палец (руки)</answer>
+    <comment></comment>
+    <answer_picture>thumb.gif</answer_picture>
+    <uuid>793b121c-e75b-49a6-b41c-23729e73f5eb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;orteil</question>
+    <answer>палец (ноги)</answer>
+    <comment></comment>
+    <answer_picture>toe.gif</answer_picture>
+    <uuid>961793e7-8dff-46a5-ba9d-a186593401a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la langue</question>
+    <answer>язык</answer>
+    <comment></comment>
+    <answer_picture>tongue.gif</answer_picture>
+    <uuid>a41e0827-74c3-400b-99c5-e8fedf8c6f0b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la dent</question>
+    <answer>зуб</answer>
+    <comment></comment>
+    <answer_picture>tooth.gif</answer_picture>
+    <uuid>362f7ddf-6a03-4cd4-9be5-ebb53db7c9f4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le  torse</question>
+    <answer>туловище</answer>
+    <comment></comment>
+    <answer_picture>torso.gif</answer_picture>
+    <uuid>ccd4cf96-c49b-46eb-9349-eda66356cc5b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la taille</question>
+    <answer>талия</answer>
+    <comment></comment>
+    <answer_picture>waist.gif</answer_picture>
+    <uuid>2b2c7086-3f15-4295-b5c2-693f2fe2e86e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les cheveux blancs</question>
+    <answer>седые волосы</answer>
+    <comment></comment>
+    <answer_picture>white_hair.gif</answer_picture>
+    <uuid>91a87907-2eea-41fe-af7b-7f89bf813e91</uuid>
+  </card>
+</cards>
+</stack>

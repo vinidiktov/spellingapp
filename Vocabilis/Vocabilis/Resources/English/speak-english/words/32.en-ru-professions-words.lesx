@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b9cd4c72-17e1-403f-917b-056e494c4ff6</uuid>
+  <title>Работа, Профессия :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>work</question>
+    <answer>работать</answer>
+    <comment>[wɜːrk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c4126b5c-a63e-4ebc-9467-83235b4588a0</uuid>
+    <examples>
+       <example>
+          <value>to work as</value>
+          <translation>работать в качестве</translation>
+          <comment>to work - работать, as - в качестве</comment>
+       </example>
+       <example>
+          <value>to work at a bank</value>
+          <translation>работать в банке</translation>
+          <comment>to work - работать, bank - банк</comment>
+       </example>
+       <example>
+          <value>to work at a factory</value>
+          <translation>работать на заводе</translation>
+          <comment>to work - работать, factory - завод</comment>
+       </example>
+       <example>
+          <value>to work at a hospital</value>
+          <translation>работать в больнице</translation>
+          <comment>to work - работать, hospital - больница</comment>
+       </example>
+       <example>
+          <value>to work at a research institute</value>
+          <translation>работать в научно-исследовательском институте</translation>
+          <comment>to work - работать, research - исследование, institute - институт</comment>
+       </example>
+       <example>
+          <value>to work at an office</value>
+          <translation>работать в офисе</translation>
+          <comment>to work - работать, office - офис</comment>
+       </example>
+       <example>
+          <value>to work very hard</value>
+          <translation>работать не покладая рук</translation>
+          <comment>to work - работать, very - очень, hard - упорный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>retired</question>
+    <answer>ушедший на пенсию</answer>
+    <comment>[rɪˈtаɪrd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ca7742d-6fdb-48d2-8bc4-51596741237b</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s retired.</value>
+          <translation>Он на пенсии.</translation>
+          <comment>retired - ушедший на пенсию, to retire - уходить в отставку, на пенсию</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>speciality</question>
+    <answer>специальность</answer>
+    <comment>[ˌspeʃɪˈælɪtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33eae262-1d61-4029-8c61-305b57bf5da1</uuid>
+    <examples>
+       <example>
+          <value>by speciality</value>
+          <translation>по специальности</translation>
+          <comment>speciality - специальность</comment>
+       </example>
+       <example>
+          <value>your speciality</value>
+          <translation>ваша специальность</translation>
+          <comment>your - твой, ваш, speciality - специальность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>engaged</question>
+    <answer>занятый</answer>
+    <comment>[enˈgeɪʤd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1ce79473-b9ac-457d-a48c-e5ce4ff1fb1b</uuid>
+    <examples>
+       <example>
+          <value>to be engaged in history</value>
+          <translation>заниматься историей</translation>
+          <comment>engaged - занятый, history - история</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>manager</question>
+    <answer>менеджер</answer>
+    <comment>[ˈmænɪʤər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>144b64d4-29a2-4d37-bd79-85350235422f</uuid>
+    <examples>
+       <example>
+          <value>to meet the manager</value>
+          <translation>встречаться с менеджером</translation>
+          <comment>to meet - встречаться с, manager - менеджер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>college</question>
+    <answer>колледж</answer>
+    <comment>[ˈkɑːlɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d7aeaf20-44fa-4833-8cf0-142524472417</uuid>
+    <examples>
+       <example>
+          <value>to go to college</value>
+          <translation>учиться в колледже</translation>
+          <comment>to go - идти, college - колледж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>distributor</question>
+    <answer>дистрибьютор</answer>
+    <comment>[dɪˈstrɪbjətər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7c19fcc1-b5e8-4b18-bfcd-77d135c470ff</uuid>
+    <examples>
+       <example>
+          <value>to find a distributor</value>
+          <translation>найти дистрибьютора</translation>
+          <comment>to find - найти, distributor - дистрибьютор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>engineer</question>
+    <answer>инженер</answer>
+    <comment>[ˌenʤəˈnɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b20889ae-9baa-4ef9-b4e8-a3a406442b30</uuid>
+    <examples>
+       <example>
+          <value>to find an engineer</value>
+          <translation>найти инженером</translation>
+          <comment>to find - находить, engineer - инженер</comment>
+       </example>
+       <example>
+          <value>the chief engineer</value>
+          <translation>главный инженер</translation>
+          <comment>chief - главный, engineer - инженер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>vet</question>
+    <answer>ветеринар</answer>
+    <comment>[vet]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b1c50f1-3bac-4277-9006-81cb22aed892</uuid>
+    <examples>
+       <example>
+          <value>a good vet</value>
+          <translation>хороший ветеринар</translation>
+          <comment>good - хороший, vet - ветеринар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>workaholic</question>
+    <answer>трудоголик</answer>
+    <comment>[ˌwɜːrkəˈhɑːlɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>95afe178-3de2-4cdf-b6d9-ba24cba95fed</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s a workaholic.</value>
+          <translation>Он трудоголик.</translation>
+          <comment>workaholic - трудоголик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>profession</question>
+    <answer>профессия</answer>
+    <comment>[prəˈfeʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0821d91e-1904-4ac2-b03b-e397c235e01c</uuid>
+    <examples>
+       <example>
+          <value>an interesting profession</value>
+          <translation>интересная профессия</translation>
+          <comment>interesting - интересный, profession - профессия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>father</question>
+    <answer>отец</answer>
+    <comment>[ˈfɑːðər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d60abfd9-59a0-43c6-bb6c-e870de834d14</uuid>
+    <examples>
+       <example>
+          <value>My father is a teacher.</value>
+          <translation>Мой отец учитель.</translation>
+          <comment>father - отец, teacher - учитель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>factory</question>
+    <answer>завод</answer>
+    <comment>[ˈfæktəriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6bd38d06-a40e-49a1-8a81-724c7bf20a8b</uuid>
+    <examples>
+       <example>
+          <value>to work at a factory</value>
+          <translation>работать на заводе</translation>
+          <comment>to work - работать, factory - завод</comment>
+       </example>
+       <example>
+          <value>to visit a factory</value>
+          <translation>посетить завод</translation>
+          <comment>to visit - посетить, factory - завод</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>housewife</question>
+    <answer>домохозяйка</answer>
+    <comment>[ˈhаʊsˌwаɪf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0068a37-ee4d-4021-ba5b-f24402edd106</uuid>
+    <examples>
+       <example>
+          <value>to become a housewife</value>
+          <translation>стать домохозяйкой</translation>
+          <comment>to become - становиться, housewife - домохозяйка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>research</question>
+    <answer>исследование</answer>
+    <comment>[rɪˈsɜːrʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>09ddae91-e571-4676-9655-527b651ff62a</uuid>
+    <examples>
+       <example>
+          <value>to work at a research institute</value>
+          <translation>работать в научно-исследовательском институте</translation>
+          <comment>to work - работать, research - исследование, institute - институт</comment>
+       </example>
+       <example>
+          <value>a research center</value>
+          <translation>исследовательский центр</translation>
+          <comment>research - исследование, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>teacher</question>
+    <answer>учитель</answer>
+    <comment>[ˈtiːʧər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2a47b7cc-266a-4839-8050-904001f48178</uuid>
+    <examples>
+       <example>
+          <value>My father is a teacher.</value>
+          <translation>Мой отец учитель.</translation>
+          <comment>father - отец, teacher - учитель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>between</question>
+    <answer>между</answer>
+    <comment>[bɪˈtwiːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>37d8af3d-2680-4c93-b1c7-d2804fff80d3</uuid>
+    <examples>
+       <example>
+          <value>to be between jobs</value>
+          <translation>временно не работать</translation>
+          <comment>between - между, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>employee</question>
+    <answer>служащий</answer>
+    <comment>[emˈplɔɪiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>853491fa-4955-4c73-9b07-a3c1b8cab7ca</uuid>
+    <examples>
+       <example>
+          <value>a bank employee</value>
+          <translation>банковский служащий</translation>
+          <comment>bank - банк, employee - служащий</comment>
+       </example>
+       <example>
+          <value>to fire an employee</value>
+          <translation>уволить служащего</translation>
+          <comment>to fire - увольнять, employee - служащий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>occupation</question>
+    <answer>занятие</answer>
+    <comment>[ˌɑːkjəˈpeɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7e835f99-ff40-4526-89e1-6b9af544ef1e</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s your occupation?</value>
+          <translation>Чем вы занимаетесь?</translation>
+          <comment>what - какой, occupation - занятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>math</question>
+    <answer>математика</answer>
+    <comment>[mæθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3d62adf7-0e3e-4a99-9722-688b4b76e39c</uuid>
+    <examples>
+       <example>
+          <value>to teach math</value>
+          <translation>преподавать математику</translation>
+          <comment>to teach - преподавать, math - математика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>designer</question>
+    <answer>дизайнер</answer>
+    <comment>[dɪˈzаɪnər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>011c11d7-4234-4335-bc3a-65f3ccafd0c8</uuid>
+    <examples>
+       <example>
+          <value>a good designer</value>
+          <translation>хороший дизайнер</translation>
+          <comment>good - хороший, designer - дизайнер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fire</question>
+    <answer>увольнять</answer>
+    <comment>[fаɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b5fc23e8-d40d-411a-a3c4-89ed3fe71e2a</uuid>
+    <examples>
+       <example>
+          <value>to fire the bookkeeper</value>
+          <translation>уволить бухгалтера</translation>
+          <comment>to fire - увольнять, bookkeeper - бухгалтер</comment>
+       </example>
+       <example>
+          <value>to fire an employee</value>
+          <translation>уволить служащего</translation>
+          <comment>to fire - увольнять, employee - служащий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>academy</question>
+    <answer>академия</answer>
+    <comment>[əˈkædəmiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e289cecb-2700-4fe2-90cc-62b75631dbf9</uuid>
+    <examples>
+       <example>
+          <value>to go to an academy</value>
+          <translation>учиться в академии</translation>
+          <comment>to go - идти, academy - академия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>broker</question>
+    <answer>брокер</answer>
+    <comment>[ˈbroʊkər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>04505bb9-96c7-41d1-ba16-057d78f521bd</uuid>
+    <examples>
+       <example>
+          <value>to hire a broker</value>
+          <translation>нанять брокера</translation>
+          <comment>to hire - нанимать, broker - брокер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>job</question>
+    <answer>работа</answer>
+    <comment>[ʤɑːb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3186d207-a39c-495f-b517-e5d2c0a85abd</uuid>
+    <examples>
+       <example>
+          <value>to be between jobs</value>
+          <translation>временно не работать</translation>
+          <comment>between - между, job - работа</comment>
+       </example>
+       <example>
+          <value>to look for a new job</value>
+          <translation>искать новую работу</translation>
+          <comment>to look for - искать, new - новый, job - работа</comment>
+       </example>
+       <example>
+          <value>a good job</value>
+          <translation>хорошая работа</translation>
+          <comment>good - хороший, job - работа</comment>
+       </example>
+       <example>
+          <value>your wife&apos;s job</value>
+          <translation>работа вашей жены</translation>
+          <comment>your - твой, ваш, wife - жена, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>regular</question>
+    <answer>постоянный</answer>
+    <comment>[ˈregjələr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4b2c1eb3-0a85-4e3a-8188-1282353a299b</uuid>
+    <examples>
+       <example>
+          <value>your regular business</value>
+          <translation>ваше постоянное занятие</translation>
+          <comment>your - твой, ваш, regular - постоянный, business - дело, занятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>student</question>
+    <answer>студент</answer>
+    <comment>[ˈstuːdnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9acceb66-bf2c-47c5-970a-ccdbdfaa78fe</uuid>
+    <examples>
+       <example>
+          <value>to become a student</value>
+          <translation>стать студентом</translation>
+          <comment>to become - становиться, student - студент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>freshman</question>
+    <answer>первокурсник</answer>
+    <comment>[ˈfreʃmən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>32e52df7-c6f3-4405-8df8-c58a9eea64ae</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s a freshman.</value>
+          <translation>Он учится на первом курсе.</translation>
+          <comment>freshman - первокурсник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>teach</question>
+    <answer>преподавать</answer>
+    <comment>[tiːʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>080cf5de-b399-4f1f-ba2a-dccd68b43a05</uuid>
+    <examples>
+       <example>
+          <value>to teach math</value>
+          <translation>преподавать математику</translation>
+          <comment>to teach - преподавать, math - математика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>law</question>
+    <answer>право, закон</answer>
+    <comment>[lɔː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31da5f9b-15dc-4888-9753-eb72d66f4de6</uuid>
+    <examples>
+       <example>
+          <value>to study law</value>
+          <translation>изучать право</translation>
+          <comment>to study - изучать, law - право, закон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>junior</question>
+    <answer>студент младшего курса</answer>
+    <comment>[ˈʤuːnjər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f91b1c45-974f-4347-8977-b99890c24161</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s a junior.</value>
+          <translation>Он учится на третьем курсе.</translation>
+          <comment>junior - студент младшего курса</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sophomore</question>
+    <answer>студент-второкурсник</answer>
+    <comment>[ˈsɑːfəˌmɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f4585b1a-5c1e-421d-8098-6ce469a299cc</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s a sophomore.</value>
+          <translation>Он учится на втором курсе.</translation>
+          <comment>sophomore - студент-второкурсник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>institute</question>
+    <answer>институт</answer>
+    <comment>[ˈɪnstɪˌtuːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3dded446-9d2a-4c0c-8526-971a763a71cd</uuid>
+    <examples>
+       <example>
+          <value>to work at a research institute</value>
+          <translation>работать в научно-исследовательском институте</translation>
+          <comment>to work - работать, research - исследование, institute - институт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>economics</question>
+    <answer>экономика</answer>
+    <comment>[ˌiːkəˈnɑːmɪks]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3eb46740-531b-428c-aa1c-8493fcbc1151</uuid>
+    <examples>
+       <example>
+          <value>to study economics</value>
+          <translation>изучать экономику</translation>
+          <comment>to study - изучать, economics - экономика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>philology</question>
+    <answer>филология</answer>
+    <comment>[ˈfɪlɑːləʤiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9aa015b7-b181-4a34-8355-69e0a0426b26</uuid>
+    <examples>
+       <example>
+          <value>to study philology</value>
+          <translation>изучать филологию</translation>
+          <comment>to study - изучать, philology - филология</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>become</question>
+    <answer>становиться</answer>
+    <comment>[bɪˈkʌm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dbec1219-5b6c-46e4-9dae-ceae1db42cbf</uuid>
+    <examples>
+       <example>
+          <value>to become a housewife</value>
+          <translation>стать домохозяйкой</translation>
+          <comment>to become - становиться, housewife - домохозяйка</comment>
+       </example>
+       <example>
+          <value>to become a student</value>
+          <translation>стать студентом</translation>
+          <comment>to become - становиться, student - студент</comment>
+       </example>
+       <example>
+          <value>to become an actor</value>
+          <translation>стать актером</translation>
+          <comment>to become - становиться, actor - актер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>senior</question>
+    <answer>старший</answer>
+    <comment>[ˈsiːnjər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>369b2d60-162d-488a-bb33-0e4708cd233c</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s a senior.</value>
+          <translation>Он учится на четвертом курсе.</translation>
+          <comment>senior - старший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>programmer</question>
+    <answer>программист</answer>
+    <comment>[ˈproʊgræmə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc9c5b61-3312-4a88-838f-d2392e441a18</uuid>
+    <examples>
+       <example>
+          <value>to hire a programmer</value>
+          <translation>нанять программиста</translation>
+          <comment>to hire - нанимать, programmer - программист</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>history</question>
+    <answer>история</answer>
+    <comment>[ˈhɪstəriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae9a24b3-0326-4632-b634-fbb729cfbb9b</uuid>
+    <examples>
+       <example>
+          <value>to be engaged in history</value>
+          <translation>заниматься историей</translation>
+          <comment>engaged - занятый, history - история</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

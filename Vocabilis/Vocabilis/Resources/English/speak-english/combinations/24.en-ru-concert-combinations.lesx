@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>611bb762-2b9f-4838-9c17-c659b2b4f25a</uuid>
+  <title>Концерт :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a chamber music concert</question>
+    <answer>концерт камерной музыки</answer>
+    <comment>[ə ˈʧeɪmbər ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>chamber - камерный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e12e2f53-5f1c-48c5-bfe1-fff76943d715</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to a chamber music concert.</value>
+          <translation>Я бы хотел послушать концерт камерной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, chamber - камерный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a folk music concert</question>
+    <answer>концерт народной музыки</answer>
+    <comment>[ə foʊk ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>folk - народ, народный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05edbbfa-04e2-4285-a24a-f9e0f2e4c564</uuid>
+    <examples>
+       <example>
+          <value>This is a folk music concert.</value>
+          <translation>Это концерт народной музыки.</translation>
+          <comment>this - это, этот, эта, folk - народный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a jazz music concert</question>
+    <answer>концерт джазовой музыки</answer>
+    <comment>[ə ʤæz ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>jazz - джаз, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e09f9074-8ef5-4dae-8926-6f7e5ff19ef9</uuid>
+    <examples>
+       <example>
+          <value>This is a jazz music concert.</value>
+          <translation>Это концерт джазовой музыки.</translation>
+          <comment>this - это, этот, эта, jazz - джаз, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a pop music concert</question>
+    <answer>концерт эстрадной музыки</answer>
+    <comment>[ə pɑːp ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>pop - популярный, эстрадный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f727c3b0-75b9-4da2-87fb-6913d09d4fb2</uuid>
+    <examples>
+       <example>
+          <value>This is a pop music concert.</value>
+          <translation>Это концерт эстрадной музыки.</translation>
+          <comment>this - это, этот, эта, pop - популярный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a symphonic music concert</question>
+    <answer>концерт симфонической музыки</answer>
+    <comment>[ə sɪmˈfɑːnɪk ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>symphonic - симфонический, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dcb93bc6-259e-4f03-864f-40c8231b8c90</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to a symphonic music concert.</value>
+          <translation>Я бы хотел послушать концерт симфонической музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, symphonic - симфонический, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an organ music concert</question>
+    <answer>концерт органной музыки</answer>
+    <comment>[ən ˈɔːrgən ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>organ - орган, органный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>323a0922-0feb-4f25-ae30-2d8803109231</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to an organ music concert.</value>
+          <translation>Я бы хотел послушать концерт органной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, organ - органный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>classical music</question>
+    <answer>классическая музыка</answer>
+    <comment>[ˈklæsɪkəl ˈmjuːzɪk]</comment>
+    <question_comment>classical - классический, music - музыка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ce57b454-26dd-46f6-8d20-36a9100f3b1f</uuid>
+    <examples>
+       <example>
+          <value>Do you like classical music?</value>
+          <translation>Вам нравится классическая музыка?</translation>
+          <comment>to like - любить, нравиться, classical - классический, music - музыка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to concerts</question>
+    <answer>ходить на концерты</answer>
+    <comment>[tə goʊ tə ˈkɑːnsərts]</comment>
+    <question_comment>to go - идти, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b532e268-e547-43e0-a194-67c48fd9bf00</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s go to the concert.</value>
+          <translation>Пойдемте на концерт.</translation>
+          <comment>let&apos;s - давайте, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Would you like to go to a concert?</value>
+          <translation>Не хотите ли пойти на концерт?</translation>
+          <comment>would like - хотеть, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Do you often go to concerts?</value>
+          <translation>Вы часто ходите на концерты?</translation>
+          <comment>often - часто, to go - идти, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a concert hall</question>
+    <answer>концертный зал</answer>
+    <comment>[ə ˈkɑːnsərt hɔːl]</comment>
+    <question_comment>concert - концертный, hall - зал</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efa19599-b6c0-42bf-8e10-405f4f8afd28</uuid>
+    <examples>
+       <example>
+          <value>Where is the concert hall?</value>
+          <translation>Где находится концертный зал?</translation>
+          <comment>where - где, concert - концерт, hall - зал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the master of ceremonies</question>
+    <answer>ведущий программы</answer>
+    <comment>[ðə ˈmæstər əv ˈserəˌmoʊniːz]</comment>
+    <question_comment>master - мастер, ceremony - церемония</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>86ce2bc9-6cae-4a20-9ca4-e426754402cb</uuid>
+    <examples>
+       <example>
+          <value>Who&apos;s the master of ceremonies?</value>
+          <translation>Кто ведет программу?</translation>
+          <comment>who - кто, master - хозяин, мастер, ceremony - церемония</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be a great success</question>
+    <answer>быть очень успешным (о концерте)</answer>
+    <comment>[tə biː ə greɪt səkˈses]</comment>
+    <question_comment>great - великий, success - успех</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c03b6622-11b2-4885-816f-45ef76024808</uuid>
+    <examples>
+       <example>
+          <value>The concert was a great success.</value>
+          <translation>Концерт имел большой успех.</translation>
+          <comment>concert - концерт, was - был, было, была, great - большой, success - успех</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be in bad voice</question>
+    <answer>быть не в голосе</answer>
+    <comment>[tə biː ɪn bæd vɔɪs]</comment>
+    <question_comment>bad - плохой, voice - голос</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7a9b3f00-7f75-4521-a15b-36604dac48c7</uuid>
+    <examples>
+       <example>
+          <value>She&apos;s in bad voice today.</value>
+          <translation>Она сегодня не в голосе.</translation>
+          <comment>she - она, bad - плохой, voice - голос, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be in good voice</question>
+    <answer>быть в голосе</answer>
+    <comment>[tə biː ɪn gʊd vɔɪs]</comment>
+    <question_comment>good - хороший, voice - голос</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02d9716e-6595-4a53-8c07-7c25b872e816</uuid>
+    <examples>
+       <example>
+          <value>She&apos;s in good voice today.</value>
+          <translation>Она сегодня в голосе.</translation>
+          <comment>she - она, good - хороший, voice - голос, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be on the program</question>
+    <answer>быть в программе</answer>
+    <comment>[tə biː ɑːn ðə ˈproʊgræm]</comment>
+    <question_comment>program - программа</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>716fdad6-2a25-4c5e-89c2-691e7633a45b</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a program?</value>
+          <translation>Где можно купить программку?</translation>
+          <comment>where - где, can - мочь, to buy - купить, program - программа</comment>
+       </example>
+       <example>
+          <value>Please, give me a program.</value>
+          <translation>Дайте мне, пожалуйста, программку.</translation>
+          <comment>to give - давать, me - мне, меня, program - программа</comment>
+       </example>
+       <example>
+          <value>What&apos;s on the program?</value>
+          <translation>Что в программе?</translation>
+          <comment>what - что, program - программа</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to clarify the program of our visit.</value>
+          <translation>Мы бы хотели уточнить программу нашего визита.</translation>
+          <comment>would like - хотеть, to clarify - прояснить, program - программа, our - наш, наша, наше, visit - посещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to conduct today</question>
+    <answer>дирижировать сегодня</answer>
+    <comment>[tə kənˈdʌkt təˈdeɪ]</comment>
+    <question_comment>to conduct - дирижировать, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8bc6ebd4-ff11-434c-9a55-5deca2478dcd</uuid>
+    <examples>
+       <example>
+          <value>Who conducts today?</value>
+          <translation>Кто сегодня дирижирует?</translation>
+          <comment>who - кто, to conduct - дирижировать, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get encores</question>
+    <answer>исполняться на бис</answer>
+    <comment>[tə get ˈɑːŋkɔːrz]</comment>
+    <question_comment>to get - получить, encore - вызов на &apos;бис&apos;</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1c4d1ee-1330-412f-993f-145cebf3c883</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a concert</question>
+    <answer>давать концерт</answer>
+    <comment>[tə gɪv ə ˈkɑːnsərt]</comment>
+    <question_comment>to give - давать, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c93371d-fb51-4f3e-afbc-a93273250ba7</uuid>
+    <examples>
+       <example>
+          <value>Who&apos;s giving the concert?</value>
+          <translation>Кто дает концерт?</translation>
+          <comment>who - кто, giving - дающий, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to a concert</question>
+    <answer>пойти на концерт</answer>
+    <comment>[tə goʊ tə ə ˈkɑːnsərt]</comment>
+    <question_comment>to go - идти, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc9bc56c-c1ea-4c75-9ab3-9d817705cadf</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s go to the concert.</value>
+          <translation>Пойдемте на концерт.</translation>
+          <comment>let&apos;s - давайте, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Would you like to go to a concert?</value>
+          <translation>Не хотите ли пойти на концерт?</translation>
+          <comment>would like - хотеть, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Do you often go to concerts?</value>
+          <translation>Вы часто ходите на концерты?</translation>
+          <comment>often - часто, to go - идти, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to like music</question>
+    <answer>любить музыку</answer>
+    <comment>[tə lаɪk ˈmjuːzɪk]</comment>
+    <question_comment>to like - любить, нравиться, music - музыка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84ed64b9-3b21-403a-b70b-a23b5677b0ac</uuid>
+    <examples>
+       <example>
+          <value>Do you like music?</value>
+          <translation>Вам нравится музыка?</translation>
+          <comment>to like - любить, нравиться, music - музыка</comment>
+       </example>
+       <example>
+          <value>Do you like classical music?</value>
+          <translation>Вам нравится классическая музыка?</translation>
+          <comment>to like - любить, нравиться, classical - классический, music - музыка</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to a symphonic music concert.</value>
+          <translation>Я бы хотел послушать концерт симфонической музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, symphonic - симфонический, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to a chamber music concert.</value>
+          <translation>Я бы хотел послушать концерт камерной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, chamber - камерный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to an organ music concert.</value>
+          <translation>Я бы хотел послушать концерт органной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, organ - органный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to listen to a chamber music concert</question>
+    <answer>послушать концерт камерной музыки</answer>
+    <comment>[tə ˈlɪsən tə ə ˈʧeɪmbər ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>to listen - слушать, chamber - камерный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>460df671-882b-4344-a75b-29713e7846c3</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to a chamber music concert.</value>
+          <translation>Я бы хотел послушать концерт камерной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, chamber - камерный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to listen to a symphonic music concert</question>
+    <answer>послушать концерт симфонической музыки</answer>
+    <comment>[tə ˈlɪsən tə ə sɪmˈfɑːnɪk ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>to listen - слушать, symphonic - симфонический, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>27c2a06d-7dcd-4ac9-9486-f4154d016a5a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to a symphonic music concert.</value>
+          <translation>Я бы хотел послушать концерт симфонической музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, symphonic - симфонический, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to listen to an organ music concert</question>
+    <answer>послушать концерт органной музыки</answer>
+    <comment>[tə ˈlɪsən tə ən ˈɔːrgən ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <question_comment>to listen - слушать, organ - органный, music - музыка, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>311f87ac-7095-465a-912e-7182c2a60d16</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to listen to an organ music concert.</value>
+          <translation>Я бы хотел послушать концерт органной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, organ - органный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to prefer sitting down</question>
+    <answer>предпочитать сидеть в партере</answer>
+    <comment>[tə prɪˈfɜːr ˈsɪtɪŋ dаʊn]</comment>
+    <question_comment>to prefer - предпочитать, to sit - сидеть, down - вниз, внизу</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ab20a6d-a9f4-4795-976c-6c7333075c7f</uuid>
+    <examples>
+       <example>
+          <value>Do you prefer sitting down or upstairs?</value>
+          <translation>Вы любите сидеть в партере или на балконе?</translation>
+          <comment>to prefer - предпочитать, sitting - сидение, down - вниз, внизу, or - или, upstairs - наверх, наверху</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to prefer sitting upstairs</question>
+    <answer>предпочитать сидеть на балконе</answer>
+    <comment>[tə prɪˈfɜːr ˈsɪtɪŋ ˈʌpˈsterz]</comment>
+    <question_comment>to prefer - предпочитать, to sit - сидеть, upstairs - наверху</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a965bacb-fb9c-4dc3-8f0e-cf182f6890ab</uuid>
+    <examples>
+       <example>
+          <value>Do you prefer sitting down or upstairs?</value>
+          <translation>Вы любите сидеть в партере или на балконе?</translation>
+          <comment>to prefer - предпочитать, sitting - сидение, down - вниз, внизу, or - или, upstairs - наверх, наверху</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

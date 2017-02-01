@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>739ee297-6042-4d98-b2f6-c60b1f1e1d07</uuid>
+  <title>Такси :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>fare</question>
+    <answer>плата</answer>
+    <comment>[fer]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>062de79e-1f4e-4f60-86e6-42cdd3e13e63</uuid>
+    <examples>
+       <example>
+          <value>the fare to the airport</value>
+          <translation>стоимость поездки до аэропорта</translation>
+          <comment>fare - плата, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ahead</question>
+    <answer>вперед</answer>
+    <comment>[əˈhed]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f815919-669e-4bae-ad53-d58afa934a4a</uuid>
+    <examples>
+       <example>
+          <value>to go straight ahead</value>
+          <translation>ехать прямо</translation>
+          <comment>to go - идти, ехать, straight ahead - прямо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>club</question>
+    <answer>клуб</answer>
+    <comment>[klʌb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d2d2021-c26a-41bd-88df-acc8927e2279</uuid>
+    <examples>
+       <example>
+          <value>to drive to the night club</value>
+          <translation>отвезти в ночной клуб</translation>
+          <comment>to drive - ехать, night - ночь, ночной, club - клуб</comment>
+       </example>
+       <example>
+          <value>to go to a night club</value>
+          <translation>пойти в ночной клуб</translation>
+          <comment>to go - идти, night - ночной, club - клуб</comment>
+       </example>
+       <example>
+          <value>to hire golf clubs</value>
+          <translation>взять напрокат клюшки для гольфа</translation>
+          <comment>to hire - взять напрокат, golf - гольф, club - клюшка, бита</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>couple</question>
+    <answer>пара</answer>
+    <comment>[ˈkʌpəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>160473a2-7b95-47d8-9e43-64386a756603</uuid>
+    <examples>
+       <example>
+          <value>in a couple of minutes</value>
+          <translation>через пару минут</translation>
+          <comment>couple - пара, minute - минута</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>soon</question>
+    <answer>скоро</answer>
+    <comment>[suːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5df84bd9-a4dc-4a09-9403-225a02d1401e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll be back soon.</value>
+          <translation>Я скоро вернусь.</translation>
+          <comment>back - обратно, soon - скоро</comment>
+       </example>
+       <example>
+          <value>very soon</value>
+          <translation>очень скоро</translation>
+          <comment>very - очень, soon - скоро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stadium</question>
+    <answer>стадион</answer>
+    <comment>[ˈsteɪdiːəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b5b45b4b-1efb-4fd3-ba21-ca79fdd09d63</uuid>
+    <examples>
+       <example>
+          <value>to go to the stadium</value>
+          <translation>доехать до стадиона</translation>
+          <comment>to go - идти, ехать, stadium - стадион</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>department</question>
+    <answer>отдел</answer>
+    <comment>[dɪˈpɑːrtmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8abc4844-4f81-42e7-a8eb-f16d942d3833</uuid>
+    <examples>
+       <example>
+          <value>to drive to the department store</value>
+          <translation>отвезти в универмаг</translation>
+          <comment>to drive - ехать, department store - универмаг</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>straight</question>
+    <answer>прямо</answer>
+    <comment>[streɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b5e79324-15ed-4811-bd39-e872e32ec90b</uuid>
+    <examples>
+       <example>
+          <value>to go straight ahead</value>
+          <translation>ехать прямо</translation>
+          <comment>to go - идти, ехать, straight ahead - прямо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>store</question>
+    <answer>магазин</answer>
+    <comment>[stɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ebd02c8-e0a7-40f6-91fc-4924ae362d7d</uuid>
+    <examples>
+       <example>
+          <value>to drive to the department store</value>
+          <translation>отвезти в универмаг</translation>
+          <comment>to drive - ехать, department store - универмаг</comment>
+       </example>
+       <example>
+          <value>in this store</value>
+          <translation>в этом магазине</translation>
+          <comment>this - этот, эта, store - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>department store</question>
+    <answer>универмаг</answer>
+    <comment>[dɪˈpɑːrtmənt stɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1666c868-3955-40f6-b1a6-8d9e9ed781db</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>station</question>
+    <answer>станция, вокзал</answer>
+    <comment>[ˈsteɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>73d0eed4-e52b-4c41-8b0b-62e3a699cb6f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>airport</question>
+    <answer>аэропорт</answer>
+    <comment>[ˈerˌpɔːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2dfd3fe3-ce8f-450a-ac44-abf59e300de6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hotel</question>
+    <answer>гостиница</answer>
+    <comment>[hoʊˈtel]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>26681cf2-f63a-4b7a-98d9-4b2654734569</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>meter</question>
+    <answer>счетчик</answer>
+    <comment>[ˈmiːtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4a16c09f-22e2-4ef8-9f38-9d5888531967</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>keep</question>
+    <answer>оставлять себе (напр. сдачу)</answer>
+    <comment>[kiːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>52cac172-b291-4a92-972d-66a531603d4c</uuid>
+  </card>
+</cards>
+</stack>

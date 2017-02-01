@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>851aa5dc-563a-49d2-84d2-6aff6e349f39</uuid>
+  <title>Продукты питания :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>cheese</question>
+    <answer>сыр</answer>
+    <comment>[ʧiːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fe5b21d3-1f8f-48ac-a42d-a02abf205918</uuid>
+    <examples>
+       <example>
+          <value>half a kilogram of mild cheese</value>
+          <translation>полкило неострого сыра</translation>
+          <comment>half - половина, kilogram - килограмм, mild - мягкий, неострый, cheese - сыр</comment>
+       </example>
+       <example>
+          <value>mild cheese</value>
+          <translation>неострый сыр</translation>
+          <comment>mild - мягкий, неострый, cheese - сыр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pork</question>
+    <answer>свинина</answer>
+    <comment>[pɔːrk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5f7be90-e62e-462d-a65f-c8ba8a11a279</uuid>
+    <examples>
+       <example>
+          <value>pork chops</value>
+          <translation>свиные отбивные</translation>
+          <comment>pork - свинина, chop - отбивная</comment>
+       </example>
+       <example>
+          <value>two pork chops</value>
+          <translation>две свиные отбивные</translation>
+          <comment>two - два, pork - свинина, chop - отбивная</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>less</question>
+    <answer>меньше</answer>
+    <comment>[les]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>872007b4-f722-4567-8105-936453bfbde6</uuid>
+    <examples>
+       <example>
+          <value>less piquant</value>
+          <translation>менее острый</translation>
+          <comment>less - менее, piquant - острый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sweet</question>
+    <answer>сладкий</answer>
+    <comment>[swiːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2c5a8b04-e1f0-4891-9e5c-f81c17d75e9b</uuid>
+    <examples>
+       <example>
+          <value>sweet oranges</value>
+          <translation>сладкие апельсины</translation>
+          <comment>sweet - сладкий, orange - апельсин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fish</question>
+    <answer>рыба</answer>
+    <comment>[fɪʃ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42ca4502-6e96-43b7-9e01-776b36ff5a29</uuid>
+    <examples>
+       <example>
+          <value>one fish of medium size</value>
+          <translation>одна рыба среднего размера</translation>
+          <comment>one - один, fish - рыба, medium - средний, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mince</question>
+    <answer>фарш</answer>
+    <comment>[mɪns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>683e9d82-795a-4a61-9351-f3ce000f5df6</uuid>
+    <examples>
+       <example>
+          <value>a pound of mince</value>
+          <translation>фунт фарша</translation>
+          <comment>pound - фунт, mince - фарш</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mild</question>
+    <answer>неострый, умеренный</answer>
+    <comment>[mаɪld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e168c603-15a1-4798-8267-87665e758d35</uuid>
+    <examples>
+       <example>
+          <value>half a kilogram of mild cheese</value>
+          <translation>полкило неострого сыра</translation>
+          <comment>half - половина, kilogram - килограмм, mild - мягкий, неострый, cheese - сыр</comment>
+       </example>
+       <example>
+          <value>mild cheese</value>
+          <translation>неострый сыр</translation>
+          <comment>mild - мягкий, неострый, cheese - сыр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chicken</question>
+    <answer>курица, цыпленок</answer>
+    <comment>[ˈʧɪkən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3428cd4d-5716-4501-93a2-a290d6322f87</uuid>
+    <examples>
+       <example>
+          <value>to want a chicken</value>
+          <translation>хотеть курицу</translation>
+          <comment>to want - хотеть, chicken - курица, цыпленок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lamb</question>
+    <answer>баранина</answer>
+    <comment>[læm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6fdb5dfa-e3bb-4c00-a8d4-1cfaa1275511</uuid>
+    <examples>
+       <example>
+          <value>to want lamb</value>
+          <translation>хотеть баранину</translation>
+          <comment>to want - хотеть, lamb - баранина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>grape</question>
+    <answer>гроздь винограда</answer>
+    <comment>[greɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c354fab-9536-4e58-ba1c-f2d8856dfc0b</uuid>
+    <examples>
+       <example>
+          <value>bunches of grapes</value>
+          <translation>грозди винограда</translation>
+          <comment>bunch - гроздь, grapes - виноград</comment>
+       </example>
+       <example>
+          <value>two large bunches of grapes</value>
+          <translation>две большие грозди винограда</translation>
+          <comment>two - два, large - большой, bunch - гроздь, grapes - виноград</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ham</question>
+    <answer>ветчина</answer>
+    <comment>[hæm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2ad91ed3-02cd-4d9d-b8e2-17482cdfc95a</uuid>
+    <examples>
+       <example>
+          <value>two hundred grams of ham</value>
+          <translation>двести граммов ветчины</translation>
+          <comment>two - два, hundred - сто, gram - грамм, ham - ветчина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>beef</question>
+    <answer>говядина</answer>
+    <comment>[biːf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d310451b-54a8-4760-a2cb-4686202002d6</uuid>
+    <examples>
+       <example>
+          <value>to want beef</value>
+          <translation>хотеть говядину</translation>
+          <comment>to want - хотеть, beef - говядина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>rye</question>
+    <answer>рожь</answer>
+    <comment>[rаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7b29330b-c564-409b-ad6d-43b5db58a820</uuid>
+    <examples>
+       <example>
+          <value>rye bread</value>
+          <translation>ржаной хлеб</translation>
+          <comment>rye - рожь, ржаной, bread - хлеб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hen</question>
+    <answer>курица</answer>
+    <comment>[hen]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9c38ee5c-5395-4bc4-b492-30cc99f8fc83</uuid>
+    <examples>
+       <example>
+          <value>one grilled hen</value>
+          <translation>одна курица гриль</translation>
+          <comment>one - один, grill - гриль, hen - курица</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hundred</question>
+    <answer>сто</answer>
+    <comment>[ˈhʌndrɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c3b3781a-23e1-446f-b8e5-ea663881e884</uuid>
+    <examples>
+       <example>
+          <value>two hundred grams</value>
+          <translation>двести граммов</translation>
+          <comment>two - два, hundred - сто, gram - грамм</comment>
+       </example>
+       <example>
+          <value>two hundred grams of ham</value>
+          <translation>двести граммов ветчины</translation>
+          <comment>two - два, hundred - сто, gram - грамм, ham - ветчина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pizza</question>
+    <answer>пицца</answer>
+    <comment>[ˈpiːtsə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a3d6a806-6336-4af8-8f20-7c2030c6dc56</uuid>
+    <examples>
+       <example>
+          <value>a vegetarian pizza</value>
+          <translation>вегетарианская пицца</translation>
+          <comment>vegetarian - вегетарианский, pizza - пицца</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>medium</question>
+    <answer>средний</answer>
+    <comment>[ˈmiːdiːəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7028a85-dba4-4160-b76d-5da2c802c779</uuid>
+    <examples>
+       <example>
+          <value>medium size</value>
+          <translation>средний размер</translation>
+          <comment>medium - средний, size - размер</comment>
+       </example>
+       <example>
+          <value>one fish of medium size</value>
+          <translation>одна рыба среднего размера</translation>
+          <comment>one - один, fish - рыба, medium - средний, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mushroom</question>
+    <answer>гриб</answer>
+    <comment>[ˈmʌʃruːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42bb868f-3037-46e5-9b34-9452833f42ab</uuid>
+    <examples>
+       <example>
+          <value>half a kilogram of mushroom salad</value>
+          <translation>полкило грибного салата</translation>
+          <comment>half - половина, kilogram - килограмм, mushroom - гриб, salad - салат</comment>
+       </example>
+       <example>
+          <value>mushroom salad</value>
+          <translation>грибной салат</translation>
+          <comment>mushroom - гриб, salad - салат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>grill</question>
+    <answer>гриль</answer>
+    <comment>[grɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dbdb2172-2009-43b3-9c3a-8442721bc921</uuid>
+    <examples>
+       <example>
+          <value>one grilled hen</value>
+          <translation>одна курица гриль</translation>
+          <comment>one - один, grill - гриль, hen - курица</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>most</question>
+    <answer>самый, наиболее</answer>
+    <comment>[moʊst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3cc799a-d935-4871-b7fc-0b3319287f87</uuid>
+    <examples>
+       <example>
+          <value>the most piquant</value>
+          <translation>самый острый</translation>
+          <comment>piquant - пикантный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bread</question>
+    <answer>хлеб</answer>
+    <comment>[bred]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e77ca27c-1f98-45c8-b585-7c31a14366e8</uuid>
+    <examples>
+       <example>
+          <value>rye bread</value>
+          <translation>ржаной хлеб</translation>
+          <comment>rye - рожь, ржаной, bread - хлеб</comment>
+       </example>
+       <example>
+          <value>wholemeal bread</value>
+          <translation>хлеб из муки грубого помола</translation>
+          <comment>wholemeal - мука с отрубями, bread - хлеб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>instant</question>
+    <answer>растворимый (кофе, чай и т. п.)</answer>
+    <comment>[ˈɪnstənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>963161b3-cefd-4f3e-93a6-8d8908427e8f</uuid>
+    <examples>
+       <example>
+          <value>instant coffee</value>
+          <translation>растворимый кофе</translation>
+          <comment>instant - растворимый, coffee - кофе</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>salad</question>
+    <answer>салат</answer>
+    <comment>[ˈsæləd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0376bc7f-b474-4768-9e1e-b45d209fc09f</uuid>
+    <examples>
+       <example>
+          <value>half a kilogram of mushroom salad</value>
+          <translation>полкило грибного салата</translation>
+          <comment>half - половина, kilogram - килограмм, mushroom - гриб, salad - салат</comment>
+       </example>
+       <example>
+          <value>mushroom salad</value>
+          <translation>грибной салат</translation>
+          <comment>mushroom - гриб, salad - салат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>piquant</question>
+    <answer>острый</answer>
+    <comment>[ˈpiːkənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>475aea3d-8124-4448-9311-e2685426fe97</uuid>
+    <examples>
+       <example>
+          <value>less piquant</value>
+          <translation>менее острый</translation>
+          <comment>less - менее, piquant - острый</comment>
+       </example>
+       <example>
+          <value>the most piquant</value>
+          <translation>самый острый</translation>
+          <comment>piquant - пикантный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>kilogram</question>
+    <answer>килограмм</answer>
+    <comment>[ˈkɪləˌgræm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5bf1421-19bb-461c-81b7-0c37f7dcf40e</uuid>
+    <examples>
+       <example>
+          <value>a kilogram of cleaned shrimps</value>
+          <translation>килограмм очищенных креветок</translation>
+          <comment>kilogram - килограмм, cleaned - очищенный, shrimp - креветка</comment>
+       </example>
+       <example>
+          <value>half a kilogram</value>
+          <translation>полкило</translation>
+          <comment>half - половина, kilogram - килограмм</comment>
+       </example>
+       <example>
+          <value>half a kilogram of mild cheese</value>
+          <translation>полкило неострого сыра</translation>
+          <comment>half - половина, kilogram - килограмм, mild - мягкий, неострый, cheese - сыр</comment>
+       </example>
+       <example>
+          <value>half a kilogram of mushroom salad</value>
+          <translation>полкило грибного салата</translation>
+          <comment>half - половина, kilogram - килограмм, mushroom - гриб, salad - салат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shrimp</question>
+    <answer>креветка</answer>
+    <comment>[ʃrɪmp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>25689106-19d3-411f-a5df-94f682b73a00</uuid>
+    <examples>
+       <example>
+          <value>a kilogram of cleaned shrimps</value>
+          <translation>килограмм очищенных креветок</translation>
+          <comment>kilogram - килограмм, cleaned - очищенный, shrimp - креветка</comment>
+       </example>
+       <example>
+          <value>cleaned shrimps</value>
+          <translation>очищенные креветки</translation>
+          <comment>cleaned - очищенный, shrimp - креветка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chop</question>
+    <answer>отбивная</answer>
+    <comment>[ʧɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5766dbeb-bf15-4f01-a5f8-7e7f39cc8daf</uuid>
+    <examples>
+       <example>
+          <value>pork chops</value>
+          <translation>свиные отбивные</translation>
+          <comment>pork - свинина, chop - отбивная</comment>
+       </example>
+       <example>
+          <value>two pork chops</value>
+          <translation>две свиные отбивные</translation>
+          <comment>two - два, pork - свинина, chop - отбивная</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gram</question>
+    <answer>грамм</answer>
+    <comment>[græm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>193389ea-56b0-4966-b89e-2dd32255a6dc</uuid>
+    <examples>
+       <example>
+          <value>two hundred grams</value>
+          <translation>двести граммов</translation>
+          <comment>two - два, hundred - сто, gram - грамм</comment>
+       </example>
+       <example>
+          <value>two hundred grams of ham</value>
+          <translation>двести граммов ветчины</translation>
+          <comment>two - два, hundred - сто, gram - грамм, ham - ветчина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wholemeal</question>
+    <answer>мука с отрубями</answer>
+    <comment>[ˈhoʊlmiːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc0e1782-d617-4511-b213-d5538c2e8915</uuid>
+    <examples>
+       <example>
+          <value>wholemeal bread</value>
+          <translation>хлеб из муки грубого помола</translation>
+          <comment>wholemeal - мука с отрубями, bread - хлеб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fresh</question>
+    <answer>свежий</answer>
+    <comment>[freʃ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d37e607e-80aa-4bda-abea-6399cad2c853</uuid>
+    <examples>
+       <example>
+          <value>fresh oranges</value>
+          <translation>сочные апельсины</translation>
+          <comment>fresh - свежий, orange - апельсин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>piece</question>
+    <answer>кусок</answer>
+    <comment>[piːs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>255e70bb-750d-4a60-bd46-0938c6c2a86a</uuid>
+    <examples>
+       <example>
+          <value>a very nice piece</value>
+          <translation>очень хороший кусок</translation>
+          <comment>very - очень, nice - хороший, замечательный, piece - кусок</comment>
+       </example>
+       <example>
+          <value>this piece</value>
+          <translation>этот кусок</translation>
+          <comment>this - этот, эта, piece - кусок</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

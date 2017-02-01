@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>8b769bc2-d472-442e-8efd-03e1545fd0c1</uuid>
+  <title>Деловой английский - 12</title>
+  <author>Роман Килин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>hire</question>
+    <answer>аренда, наем</answer>
+    <comment>[ˈhаɪə]</comment>
+    <uuid>423f08ef-9baa-4a06-ba8b-c903e7533ff1</uuid>
+  </card>
+  <card>
+    <question>hiring of labour</question>
+    <answer>наем рабочей силы</answer>
+    <comment>[ˈhаɪəɪŋ ɒv ˈleɪbə]</comment>
+    <uuid>0f10ecd6-4be9-420a-88a7-703929235a85</uuid>
+  </card>
+  <card>
+    <question>hiring out</question>
+    <answer>прокат товаров</answer>
+    <comment>[ˈhаɪəɪŋ аʊt]</comment>
+    <uuid>1896c9d4-44ad-4771-85a5-c61c91939ccb</uuid>
+  </card>
+  <card>
+    <question>historic cost</question>
+    <answer>первоначальная стоимость</answer>
+    <comment>[hɪsˈtɒrɪk kɒst]</comment>
+    <uuid>f74cba89-e444-4db1-af66-d64008f635e1</uuid>
+  </card>
+  <card>
+    <question>hold</question>
+    <answer>держать, проводить</answer>
+    <comment>[həʊld]</comment>
+    <uuid>96179325-c406-4a19-a5a6-50d74ad98c38</uuid>
+  </card>
+  <card>
+    <question>holder</question>
+    <answer>владелец, предъявитель</answer>
+    <comment>[ˈhəʊldə]</comment>
+    <uuid>950ff946-39cd-487d-b91b-f9be2f1a7aea</uuid>
+  </card>
+  <card>
+    <question>holder in due course</question>
+    <answer>законный держатель</answer>
+    <comment>[ˈhəʊldə ɪn djuː kɔːs]</comment>
+    <uuid>1659e890-06b3-4ae5-98f2-f3005ab9cb8c</uuid>
+  </card>
+  <card>
+    <question>holiday pay</question>
+    <answer>оплата отпуска</answer>
+    <comment>[ˈhɒlədɪ peɪ]</comment>
+    <uuid>c67083f5-369d-452b-ad21-592268ff1afc</uuid>
+  </card>
+  <card>
+    <question>hook</question>
+    <answer>крюк</answer>
+    <comment>[hʊk]</comment>
+    <uuid>f9301cd1-e7be-40a5-bfed-52ea448cbd13</uuid>
+  </card>
+  <card>
+    <question>hope</question>
+    <answer>надеяться</answer>
+    <comment>[həʊp]</comment>
+    <uuid>2baf41a5-b3c4-43d0-b7b8-daab4fa46d0d</uuid>
+  </card>
+  <card>
+    <question>hour</question>
+    <answer>час</answer>
+    <comment>[ˈаʊə]</comment>
+    <uuid>25a1470e-d387-44fe-8561-8710fb3c854c</uuid>
+  </card>
+  <card>
+    <question>hours</question>
+    <answer>часы</answer>
+    <comment>[ˈаʊə]</comment>
+    <uuid>879b1055-bfcd-4a19-b8d2-260a770cc6b6</uuid>
+  </card>
+  <card>
+    <question>how</question>
+    <answer>как</answer>
+    <comment>[hаʊ]</comment>
+    <uuid>600777d4-2d46-422a-86e9-2669cf5d4773</uuid>
+  </card>
+  <card>
+    <question>however</question>
+    <answer>однако</answer>
+    <comment>[hаʊˈevə]</comment>
+    <uuid>cda65655-3834-4ac7-8f75-85a6709fa29d</uuid>
+  </card>
+  <card>
+    <question>hunch</question>
+    <answer>предчувствие</answer>
+    <comment>[hʌnʧ]</comment>
+    <uuid>5ea0f20c-db51-4a65-b96f-fbc3f9f25356</uuid>
+  </card>
+  <card>
+    <question>hundred</question>
+    <answer>сто</answer>
+    <comment>[ˈhʌndrəd]</comment>
+    <uuid>af051c75-be5e-470c-8bd9-b8e93e5f3ee3</uuid>
+  </card>
+  <card>
+    <question>hurricane</question>
+    <answer>ураган</answer>
+    <comment>[ˈhʌrɪkən]</comment>
+    <uuid>0e346acd-b66a-4cf2-a2e2-4b7898666243</uuid>
+  </card>
+  <card>
+    <question>hyperinflation</question>
+    <answer>гиперинфляция</answer>
+    <comment>[(---)]</comment>
+    <uuid>2d072567-37d9-4987-858c-096f9c8a507c</uuid>
+  </card>
+  <card>
+    <question>idea</question>
+    <answer>представление, идея</answer>
+    <comment>[аɪˈdɪə]</comment>
+    <uuid>1eab1e1a-2376-4220-a2d5-e8f371684c4f</uuid>
+  </card>
+  <card>
+    <question>if</question>
+    <answer>если</answer>
+    <comment>[ɪf]</comment>
+    <uuid>4c0562c3-9805-4af1-afa6-eee838b807b3</uuid>
+  </card>
+  <card>
+    <question>immediate</question>
+    <answer>немедленный</answer>
+    <comment>[ɪˈmiːdjət]</comment>
+    <uuid>f1d3cf24-b344-47da-bd38-3d6009d24b0d</uuid>
+  </card>
+  <card>
+    <question>import</question>
+    <answer>ввоз, импорт, импортировать</answer>
+    <comment>[ˈɪmpɔːt]</comment>
+    <uuid>49801458-240c-447e-abdb-7dc90663a69b</uuid>
+  </card>
+  <card>
+    <question>import license</question>
+    <answer>лицензия на импорт</answer>
+    <comment>[ˈɪmpɔːt ˈlаɪsəns]</comment>
+    <uuid>0cd40176-3ed5-492c-b626-755387ba2b50</uuid>
+  </card>
+  <card>
+    <question>import quota</question>
+    <answer>квота импортная</answer>
+    <comment>[ˈɪmpɔːt ˈkwəʊtə]</comment>
+    <uuid>8881c651-7810-42fd-9b0b-d4ea2bcf41eb</uuid>
+  </card>
+  <card>
+    <question>important</question>
+    <answer>важный</answer>
+    <comment>[ɪmˈpɔːtənt]</comment>
+    <uuid>6a4d998f-31d2-4be5-99e4-7eb16e96239b</uuid>
+  </card>
+  <card>
+    <question>importation</question>
+    <answer>импортирование, ввоз, импорт</answer>
+    <comment>[ˌɪmpɔːˈteɪʃən]</comment>
+    <uuid>46911dfb-1011-44d5-beba-86a8b4ebc49f</uuid>
+  </card>
+  <card>
+    <question>imported equipment</question>
+    <answer>оборудование импортное</answer>
+    <comment>[ˈɪmpɔːtd ɪˈkwɪpmənt]</comment>
+    <uuid>8bf694a8-4aa0-485f-9bfd-7ee91950b7b5</uuid>
+  </card>
+  <card>
+    <question>imported goods</question>
+    <answer>импортированные товары</answer>
+    <comment>[ˈɪmpɔːtd gʊdz]</comment>
+    <uuid>11fe75b3-3a13-4bbd-9890-bd9441746b2a</uuid>
+  </card>
+  <card>
+    <question>imported products</question>
+    <answer>продукция импортная</answer>
+    <comment>[ˈɪmpɔːtd ˈprɒdʌkt]</comment>
+    <uuid>80f71db5-e155-40be-b2db-1bdd6bd0f2b7</uuid>
+  </card>
+  <card>
+    <question>importer</question>
+    <answer>импортер</answer>
+    <comment>[ɪmˈpɔːtə]</comment>
+    <uuid>1f668f3a-5f26-46f2-8ea0-a6e1f7f51e0a</uuid>
+  </card>
+  <card>
+    <question>importers</question>
+    <answer>импортеры</answer>
+    <comment>[ɪmˈpɔːtə]</comment>
+    <uuid>5a633c44-972e-46c5-b344-0e0018460b8e</uuid>
+  </card>
+  <card>
+    <question>impose a fine</question>
+    <answer>налагать штраф</answer>
+    <comment>[ɪmˈpəʊz ə fаɪn]</comment>
+    <uuid>07ec3d4b-bfab-44b5-af5f-f4220203bfb6</uuid>
+  </card>
+  <card>
+    <question>imposition of a duty</question>
+    <answer>обложение пошлиной</answer>
+    <comment>[ˌɪmpəˈzɪʃən ɒv ə ˈdjuːtɪ]</comment>
+    <uuid>d915ac00-ec86-4a63-b66c-e090e8c9c52d</uuid>
+  </card>
+  <card>
+    <question>imposition of a tax</question>
+    <answer>обложение налогом</answer>
+    <comment>[ˌɪmpəˈzɪʃən ɒv ə tæks]</comment>
+    <uuid>18855523-abef-47b6-b888-799aa935d046</uuid>
+  </card>
+  <card>
+    <question>imposition of customs duties</question>
+    <answer>обложение таможенное</answer>
+    <comment>[ˌɪmpəˈzɪʃən ɒv ˈkʌstəm ˈdjuːtɪ]</comment>
+    <uuid>dc965e04-48d9-4b50-991d-e2e931d14ca2</uuid>
+  </card>
+  <card>
+    <question>impossibility</question>
+    <answer>невозможность</answer>
+    <comment>[ɪmˌpɒsəˈbɪlɪtɪ]</comment>
+    <uuid>9554dbcb-d826-4890-871b-3432cc3c9e88</uuid>
+  </card>
+  <card>
+    <question>impress</question>
+    <answer>производить впечатление</answer>
+    <comment>[ˈɪmpres]</comment>
+    <uuid>fa3541c4-4d15-4e5b-b4ea-307d42a48daa</uuid>
+  </card>
+  <card>
+    <question>impressed</question>
+    <answer>произвел впечатление</answer>
+    <comment>[ˈɪmpresd]</comment>
+    <uuid>62ef0992-6677-41a8-bf5d-1940d43b9d90</uuid>
+  </card>
+  <card>
+    <question>improper</question>
+    <answer>несоответствующий</answer>
+    <comment>[ɪmˈprɒpə]</comment>
+    <uuid>83af54b7-9881-40d4-98f4-d3c9af5aa4ef</uuid>
+  </card>
+  <card>
+    <question>improperly</question>
+    <answer>неправильно</answer>
+    <comment>[ɪmˈprɒpəli]</comment>
+    <uuid>ba7b6f69-92d7-4618-909f-db51b24a6050</uuid>
+  </card>
+  <card>
+    <question>improve</question>
+    <answer>улучшать</answer>
+    <comment>[ɪmˈpruːv]</comment>
+    <uuid>d00d8ad5-b9a9-4833-9ac3-9f74510cabfa</uuid>
+  </card>
+  <card>
+    <question>in the earnest</question>
+    <answer>всерьез</answer>
+    <comment>[ɪn ðiː ˈɜːnɪst]</comment>
+    <uuid>53104f30-5f07-4934-a4e2-966f67b5a30c</uuid>
+  </card>
+  <card>
+    <question>include</question>
+    <answer>включать</answer>
+    <comment>[ɪnˈkluːd]</comment>
+    <uuid>03c35707-5cc6-4738-bc2a-1d0678b7b8e2</uuid>
+  </card>
+  <card>
+    <question>included</question>
+    <answer>включенный</answer>
+    <comment>[ɪnˈkluːdd]</comment>
+    <uuid>99d568e5-4ec8-4268-95a4-979cf2a0c472</uuid>
+  </card>
+  <card>
+    <question>includes</question>
+    <answer>включает</answer>
+    <comment>[ɪnˈkluːd]</comment>
+    <uuid>6d4f78f3-24cf-497f-8282-9f3fc58f161c</uuid>
+  </card>
+  <card>
+    <question>including</question>
+    <answer>включая, в том числе</answer>
+    <comment>[ɪnˈkluːdɪŋ]</comment>
+    <uuid>c6193186-8bb7-480b-b0dd-ea62f0e1b7bd</uuid>
+  </card>
+  <card>
+    <question>income</question>
+    <answer>доход, заработок</answer>
+    <comment>[ˈɪnkʌm]</comment>
+    <uuid>f4b3efa5-6e55-4c4e-9cb5-26a73efa7844</uuid>
+  </card>
+  <card>
+    <question>increase</question>
+    <answer>увеличение, увеличить</answer>
+    <comment>[ˈɪnkriːs]</comment>
+    <uuid>6e31dde5-c095-408b-acbf-d0f1724566ad</uuid>
+  </card>
+  <card>
+    <question>increased</question>
+    <answer>увеличил, увеличенный</answer>
+    <comment>[ˈɪnkriːsd]</comment>
+    <uuid>35d65883-5cd0-4805-ab07-a147f08e692e</uuid>
+  </card>
+  <card>
+    <question>indelible</question>
+    <answer>несмываемый</answer>
+    <comment>[ɪnˈdelɪbl]</comment>
+    <uuid>dcd56eda-5b60-4c6f-bb5a-a2304c927303</uuid>
+  </card>
+  <card>
+    <question>indicate</question>
+    <answer>указывать</answer>
+    <comment>[ˈɪndɪkeɪt]</comment>
+    <uuid>e1ee2325-579e-4596-bf0e-2310bc7b6219</uuid>
+  </card>
+  <card>
+    <question>indicated</question>
+    <answer>указанный</answer>
+    <comment>[ˈɪndɪkeɪtɪd]</comment>
+    <uuid>5165fcd0-55ef-48a3-9033-c779066d1adc</uuid>
+  </card>
+  <card>
+    <question>indication</question>
+    <answer>указание</answer>
+    <comment>[ˌɪndɪˈkeɪʃən]</comment>
+    <uuid>b5ce73d6-edbe-4145-9b16-a31e76dd04d6</uuid>
+  </card>
+  <card>
+    <question>industrial</question>
+    <answer>промышленный, индустриальный</answer>
+    <comment>[ɪnˈdʌstrɪəl]</comment>
+    <uuid>ea6ab465-e26a-4530-8da2-2c3b61dcd4a0</uuid>
+  </card>
+  <card>
+    <question>industry</question>
+    <answer>промышленность</answer>
+    <comment>[ˈɪndəstrɪ]</comment>
+    <uuid>98943554-6068-47b4-9748-ef618099af62</uuid>
+  </card>
+  <card>
+    <question>inferior</question>
+    <answer>хуже, худший, плохой</answer>
+    <comment>[ɪnˈfɪərɪə]</comment>
+    <uuid>b0e91af8-a634-47ef-a8c8-a1d51d871c44</uuid>
+  </card>
+  <card>
+    <question>inform</question>
+    <answer>извещать</answer>
+    <comment>[ɪnˈfɔːm]</comment>
+    <uuid>d4d16dcd-1ed5-456a-890a-1d80a0ec8549</uuid>
+  </card>
+  <card>
+    <question>information</question>
+    <answer>информация</answer>
+    <comment>[ˌɪnfəˈmeɪʃən]</comment>
+    <uuid>dd3793e3-529a-4b7b-b555-a0ddeeb8a046</uuid>
+  </card>
+  <card>
+    <question>informed</question>
+    <answer>сообщил</answer>
+    <comment>[ɪnˈfɔːmd]</comment>
+    <uuid>ba6ab7bf-e817-4964-8591-d98878c21626</uuid>
+  </card>
+  <card>
+    <question>infringement</question>
+    <answer>нарушение</answer>
+    <comment>[ɪnˈfrɪnʤmənt]</comment>
+    <uuid>3e9d7e45-f0d4-4620-b95d-323b325e4854</uuid>
+  </card>
+  <card>
+    <question>initial</question>
+    <answer>первоначальный</answer>
+    <comment>[ɪˈnɪʃəl]</comment>
+    <uuid>8a7af7f5-8c62-4fd5-b9a3-48426b9cc5af</uuid>
+  </card>
+  <card>
+    <question>inquiry</question>
+    <answer>запрос</answer>
+    <comment>[ɪnˈkwаɪərɪ]</comment>
+    <uuid>c6e67c63-8c1d-49c1-8307-2adfc5c9eae0</uuid>
+  </card>
+  <card>
+    <question>insist</question>
+    <answer>настаивать</answer>
+    <comment>[ɪnˈsɪst]</comment>
+    <uuid>654c49b5-7b05-4507-b8a5-4e828ce17c5d</uuid>
+  </card>
+  <card>
+    <question>inspection</question>
+    <answer>осмотр, инспекция, ревизия</answer>
+    <comment>[ɪnˈspekʃən]</comment>
+    <uuid>c3d3f18d-8adb-479f-aea7-f9f6106a2095</uuid>
+  </card>
+  <card>
+    <question>inspector</question>
+    <answer>инспектор, приемщик</answer>
+    <comment>[ɪnˈspektə]</comment>
+    <uuid>cbf6fb4d-67d8-4a57-b621-47921f784755</uuid>
+  </card>
+  <card>
+    <question>install</question>
+    <answer>устанавливать</answer>
+    <comment>[ɪnˈstɔːl]</comment>
+    <uuid>1f87f449-f749-4afe-ac1f-e9d03f76db69</uuid>
+  </card>
+  <card>
+    <question>installation</question>
+    <answer>установка</answer>
+    <comment>[ˌɪnstəˈleɪʃən]</comment>
+    <uuid>7720d685-8d0d-4862-9bf3-7bbd4329f675</uuid>
+  </card>
+  <card>
+    <question>installed</question>
+    <answer>установил, установленный</answer>
+    <comment>[ɪnˈstɔːld]</comment>
+    <uuid>0ce2884d-4437-47c6-b09c-c29014eba652</uuid>
+  </card>
+  <card>
+    <question>instalment</question>
+    <answer>очередной взнос</answer>
+    <comment>[ɪnˈstɔːlmənt]</comment>
+    <uuid>1c365581-7437-438f-a832-60b852d6d079</uuid>
+  </card>
+  <card>
+    <question>instalments</question>
+    <answer>периодические взносы</answer>
+    <comment>[ɪnˈstɔːlmənt]</comment>
+    <uuid>565bafff-538c-4636-844b-ade24611b126</uuid>
+  </card>
+  <card>
+    <question>institute</question>
+    <answer>начинать</answer>
+    <comment>[ˈɪnstɪtjuːt]</comment>
+    <uuid>54285978-daad-4f7d-a61a-00d056ef0c2c</uuid>
+  </card>
+  <card>
+    <question>instituted</question>
+    <answer>начал</answer>
+    <comment>[ˈɪnstɪtjuːtd]</comment>
+    <uuid>7cf436fd-e139-417b-b5da-f9b2e38960ff</uuid>
+  </card>
+  <card>
+    <question>instruction</question>
+    <answer>инструкция</answer>
+    <comment>[ɪnˈstrʌkʃən]</comment>
+    <uuid>f055e640-8281-479e-ba96-04396bdbd7cb</uuid>
+  </card>
+  <card>
+    <question>instructions</question>
+    <answer>инструкции</answer>
+    <comment>[ɪnˈstrʌkʃən]</comment>
+    <uuid>7e9ea629-6c65-4f4f-81e6-82bd5cb00e2f</uuid>
+  </card>
+  <card>
+    <question>insufficient</question>
+    <answer>недостаточный</answer>
+    <comment>[ˌɪnsəˈfɪʃənt]</comment>
+    <uuid>1676c200-341f-4a84-8bf5-cc020f5f8444</uuid>
+  </card>
+  <card>
+    <question>insurance</question>
+    <answer>страховка, страхование</answer>
+    <comment>[ɪnˈʃʊərəns]</comment>
+    <uuid>ce0ac21c-4b61-4eb3-b1fb-6a2f5cdf5ee4</uuid>
+  </card>
+  <card>
+    <question>insure</question>
+    <answer>(за)страховать</answer>
+    <comment>[ɪnˈʃʊə]</comment>
+    <uuid>72c64246-c308-405d-9d15-9babb6c229e3</uuid>
+  </card>
+  <card>
+    <question>insured</question>
+    <answer>застраховал, застрахованный</answer>
+    <comment>[ɪnˈʃʊəd]</comment>
+    <uuid>5629a1bb-fe41-485c-9325-6f47a002420f</uuid>
+  </card>
+  <card>
+    <question>integral</question>
+    <answer>неотъемлемый</answer>
+    <comment>[ˈɪntɪgrəl]</comment>
+    <uuid>1b9c7c6e-208f-408c-a159-7e7b9ca86b33</uuid>
+  </card>
+  <card>
+    <question>intend</question>
+    <answer>намереваться</answer>
+    <comment>[ɪnˈtend]</comment>
+    <uuid>3eef3f55-3b15-4615-a5fc-3eb64560aaad</uuid>
+  </card>
+  <card>
+    <question>interest</question>
+    <answer>интересовать, интерес, (ссудный) процент</answer>
+    <comment>[ˈɪntrɪst]</comment>
+    <uuid>df71be14-8c56-4454-849e-a6c6f1317fc8</uuid>
+  </card>
+  <card>
+    <question>interested</question>
+    <answer>заинтересованный</answer>
+    <comment>[ˈɪntrɪstɪd]</comment>
+    <uuid>7edc9ab2-7e09-48dd-84a0-04ff74ef0c19</uuid>
+  </card>
+  <card>
+    <question>interesting</question>
+    <answer>интересный</answer>
+    <comment>[ˈɪntrɪstɪŋ]</comment>
+    <uuid>b2e3c0cd-2469-4862-904b-929e8fcc47cc</uuid>
+  </card>
+  <card>
+    <question>interests</question>
+    <answer>интересует</answer>
+    <comment>[ˈɪntrɪst]</comment>
+    <uuid>9b6e3c04-d373-466e-bfe0-92b46fc592d9</uuid>
+  </card>
+  <card>
+    <question>intermediate-term</question>
+    <answer>среднесрочный</answer>
+    <comment>[(---)]</comment>
+    <uuid>753b687a-b878-45a6-9f0f-71be8d2d10e9</uuid>
+  </card>
+  <card>
+    <question>international</question>
+    <answer>международный</answer>
+    <comment>[ˌɪntəˈnæʃənl]</comment>
+    <uuid>1db7e40c-dec1-449f-8f55-bd2e63b74ef4</uuid>
+  </card>
+  <card>
+    <question>interpreter</question>
+    <answer>переводчик</answer>
+    <comment>[ɪnˈtɜːprɪtə]</comment>
+    <uuid>0c9f9788-d157-4a17-8bf0-815afdbbb761</uuid>
+  </card>
+  <card>
+    <question>interrupt</question>
+    <answer>прерывать</answer>
+    <comment>[ˌɪntəˈrʌpt]</comment>
+    <uuid>d0d10593-29ae-41be-b108-f4b81c17cba6</uuid>
+  </card>
+  <card>
+    <question>interval</question>
+    <answer>интервал, промежуток</answer>
+    <comment>[ˈɪntəvəl]</comment>
+    <uuid>038bfc95-cfe5-4739-948b-c42271560725</uuid>
+  </card>
+  <card>
+    <question>intervals</question>
+    <answer>промежутки времени</answer>
+    <comment>[ˈɪntəvəl]</comment>
+    <uuid>55b79e52-cad1-49d0-aedf-1e2fdd6f12e7</uuid>
+  </card>
+  <card>
+    <question>introduce</question>
+    <answer>вносить, представлять</answer>
+    <comment>[ˌɪntrəˈdjuːs]</comment>
+    <uuid>ba3285e1-212d-4f63-a0de-69605ffce658</uuid>
+  </card>
+  <card>
+    <question>introduced</question>
+    <answer>представил</answer>
+    <comment>[ˌɪntrəˈdjuːsd]</comment>
+    <uuid>1e39a16e-d1f0-4da8-a82b-5505d57ae350</uuid>
+  </card>
+  <card>
+    <question>invention</question>
+    <answer>изобретение</answer>
+    <comment>[ɪnˈvenʃən]</comment>
+    <uuid>8dd957b0-ef89-4ba8-98d6-578b88c30aac</uuid>
+  </card>
+  <card>
+    <question>inventions</question>
+    <answer>изобретения</answer>
+    <comment>[ɪnˈvenʃən]</comment>
+    <uuid>b4504c51-9c80-47f5-877b-3f96fb93f709</uuid>
+  </card>
+  <card>
+    <question>invite</question>
+    <answer>назначать</answer>
+    <comment>[ɪnˈvаɪt]</comment>
+    <uuid>f716fe6e-2c79-4b6f-9796-f7754272c6f8</uuid>
+  </card>
+  <card>
+    <question>invited</question>
+    <answer>назначенный, назначил</answer>
+    <comment>[ɪnˈvаɪtd]</comment>
+    <uuid>702d1158-743e-418c-8346-f85499e89bb8</uuid>
+  </card>
+  <card>
+    <question>invoice</question>
+    <answer>счет-фактура, счет</answer>
+    <comment>[ˈɪnvɒɪs]</comment>
+    <uuid>d47e5a87-6858-4510-a4cb-29cc29ad7da9</uuid>
+  </card>
+  <card>
+    <question>iron</question>
+    <answer>металлургический</answer>
+    <comment>[ˈаɪən]</comment>
+    <uuid>376579ad-a7ab-4b24-924b-c5ea5ea46f56</uuid>
+  </card>
+  <card>
+    <question>issue</question>
+    <answer>вопрос, выдача, эмиссия</answer>
+    <comment>[ˈɪʃuː]</comment>
+    <uuid>d7fea07b-6b9b-467e-b552-8e04bee292b7</uuid>
+  </card>
+  <card>
+    <question>issued</question>
+    <answer>выпустил</answer>
+    <comment>[ˈɪʃuːd]</comment>
+    <uuid>dfaef307-1bea-4fc2-a387-4144d62c16d5</uuid>
+  </card>
+</cards>
+</stack>

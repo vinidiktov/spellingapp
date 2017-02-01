@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>94890c07-7f8d-4189-9099-580c3988f324</uuid>
+  <title>Профессии</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>l&apos;artiste</question>
+    <answer>художник</answer>
+    <comment></comment>
+    <answer_picture>artist.gif</answer_picture>
+    <uuid>2984bb08-c29b-4538-a962-9f88f06d4844</uuid>
+  </card>
+  <card>
+    <question>le barman</question>
+    <answer>бармен</answer>
+    <comment></comment>
+    <answer_picture>bartender.gif</answer_picture>
+    <uuid>a0c2bc07-c89a-4505-ac3d-d5ae0853965e</uuid>
+  </card>
+  <card>
+    <question>le mendiant</question>
+    <answer>попрошайка, нищий</answer>
+    <comment></comment>
+    <answer_picture>beggar.gif</answer_picture>
+    <uuid>4d218375-ad2f-4863-91cb-b8c0b145c01a</uuid>
+  </card>
+  <card>
+    <question>le chef cuisinier</question>
+    <answer>шеф-повар</answer>
+    <comment></comment>
+    <answer_picture>chef.gif</answer_picture>
+    <uuid>a4daf7e1-a866-4882-af2d-168634de8be7</uuid>
+  </card>
+  <card>
+    <question>le nettoyant</question>
+    <answer>уборщик</answer>
+    <comment></comment>
+    <answer_picture>cleaner.gif</answer_picture>
+    <uuid>de86e3ec-57ff-4c91-897b-075e0614cb0c</uuid>
+  </card>
+  <card>
+    <question>le docteur</question>
+    <answer>доктор, врач</answer>
+    <comment></comment>
+    <answer_picture>doctor.gif</answer_picture>
+    <uuid>ce5027a1-5b76-42f2-b4c1-4bf28a7f55c4</uuid>
+  </card>
+  <card>
+    <question>le fermier</question>
+    <answer>фермер</answer>
+    <comment></comment>
+    <answer_picture>farmer.gif</answer_picture>
+    <uuid>46480b9e-62cc-4994-b48b-3046aa1c8c61</uuid>
+  </card>
+  <card>
+    <question>le pompier</question>
+    <answer>пожарный</answer>
+    <comment></comment>
+    <answer_picture>firefighter.gif</answer_picture>
+    <uuid>56f20f9c-93ab-4c28-b4fa-a11a1ef98f54</uuid>
+  </card>
+  <card>
+    <question>l&apos;ouvrier</question>
+    <answer>чернорабочий</answer>
+    <comment></comment>
+    <answer_picture>labourer.gif</answer_picture>
+    <uuid>72bd9415-69a6-4552-bbad-f3ca37b870a4</uuid>
+  </card>
+  <card>
+    <question>l&apos;infirmière</question>
+    <answer>медсестра</answer>
+    <comment></comment>
+    <answer_picture>nurse.gif</answer_picture>
+    <uuid>598b41dc-ebdc-4fea-9b83-acca7c8fca0b</uuid>
+  </card>
+  <card>
+    <question>l&apos;employé de bureau</question>
+    <answer>служащий</answer>
+    <comment></comment>
+    <answer_picture>office_worker.gif</answer_picture>
+    <uuid>a3dbf665-b1cd-4e6f-90f8-c4be67cad7f1</uuid>
+  </card>
+  <card>
+    <question>le pharmacien</question>
+    <answer>аптекарь</answer>
+    <comment></comment>
+    <answer_picture>pharmacist.gif</answer_picture>
+    <uuid>4a09bc41-7d77-40b0-b589-8d8db72b5afa</uuid>
+  </card>
+  <card>
+    <question>le photographe</question>
+    <answer>фотограф</answer>
+    <comment></comment>
+    <answer_picture>photographer.gif</answer_picture>
+    <uuid>329244a9-9a53-4d41-a751-2f4279ea1740</uuid>
+  </card>
+  <card>
+    <question>le pilote</question>
+    <answer>лётчик</answer>
+    <comment></comment>
+    <answer_picture>pilot.gif</answer_picture>
+    <uuid>e007eb9f-fb89-45b0-adb5-1308732445ad</uuid>
+  </card>
+  <card>
+    <question>le plombier</question>
+    <answer>водопроводчик</answer>
+    <comment></comment>
+    <answer_picture>plumber.gif</answer_picture>
+    <uuid>95048551-7bcc-4cb6-bcfd-1568f64ee6bc</uuid>
+  </card>
+  <card>
+    <question>la police</question>
+    <answer>полиция</answer>
+    <comment></comment>
+    <answer_picture>police_officer.gif</answer_picture>
+    <uuid>7023b1a5-fdac-4834-9f78-e8fa7f2d3aea</uuid>
+  </card>
+  <card>
+    <question>le policier</question>
+    <answer>офицер полиции</answer>
+    <comment></comment>
+    <answer_picture>police.gif</answer_picture>
+    <uuid>1719f34f-c503-40f9-a272-07a9dee6a294</uuid>
+  </card>
+  <card>
+    <question>l&apos;homme politique</question>
+    <answer>политик</answer>
+    <comment></comment>
+    <answer_picture>politician.gif</answer_picture>
+    <uuid>437ab587-c6ef-4e87-87b9-ab6dd229fb98</uuid>
+  </card>
+  <card>
+    <question>le programmeur</question>
+    <answer>программист</answer>
+    <comment></comment>
+    <answer_picture>programmer.gif</answer_picture>
+    <uuid>591ce43c-6eae-4985-a6e3-b1b25a1439f4</uuid>
+  </card>
+  <card>
+    <question>le commerçant</question>
+    <answer>владелец магазина</answer>
+    <comment></comment>
+    <answer_picture>shopkeeper.gif</answer_picture>
+    <uuid>607f4265-8532-4026-9754-6f3c65d3bbf5</uuid>
+  </card>
+  <card>
+    <question>le soldat</question>
+    <answer>солдат</answer>
+    <comment></comment>
+    <answer_picture>soldier.gif</answer_picture>
+    <uuid>c427e01e-ebd4-4491-bfd4-dbf28060fcf0</uuid>
+  </card>
+  <card>
+    <question>le tailleur</question>
+    <answer>портной</answer>
+    <comment></comment>
+    <answer_picture>tailor.gif</answer_picture>
+    <uuid>e7cef43a-95f5-4730-9985-1eed9e9f96c2</uuid>
+  </card>
+  <card>
+    <question>le serveur</question>
+    <answer>официант</answer>
+    <comment></comment>
+    <answer_picture>waiter.gif</answer_picture>
+    <uuid>c2ed9099-8b88-4ceb-b41b-0c8f3b8c8ad1</uuid>
+  </card>
+  <card>
+    <question>le soudeur</question>
+    <answer>сварщик</answer>
+    <comment></comment>
+    <answer_picture>welder.gif</answer_picture>
+    <uuid>2bb07e2c-cb04-4762-adc8-7b5354b6b850</uuid>
+  </card>
+</cards>
+</stack>

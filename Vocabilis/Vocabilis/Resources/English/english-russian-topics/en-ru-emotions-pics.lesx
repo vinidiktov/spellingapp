@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5f2a89c6-91f4-4cd5-9253-e0313471df4f</uuid>
+  <title>Эмоции</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>cry</question>
+    <answer>плакать</answer>
+    <comment>[krаɪ]</comment>
+    <answer_picture>cry.gif</answer_picture>
+    <uuid>f2883020-4b21-4912-9619-a27d295c1ea6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>like</question>
+    <answer>нравиться</answer>
+    <comment>[lаɪk]</comment>
+    <answer_picture>like.gif</answer_picture>
+    <uuid>96fa7da6-c2c9-4593-bcf0-45065c5b90ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>laugh</question>
+    <answer>смеяться</answer>
+    <comment>[lɑːf]</comment>
+    <answer_picture>laugh.gif</answer_picture>
+    <uuid>44ad35d2-f2ab-405e-80cb-aa42ea591011</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>love</question>
+    <answer>любить</answer>
+    <comment>[lʌv]</comment>
+    <answer_picture>love.gif</answer_picture>
+    <uuid>cf9a658e-54cd-47f6-beac-246ed47781c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pain</question>
+    <answer>боль</answer>
+    <comment>[peɪn]</comment>
+    <answer_picture>pain.gif</answer_picture>
+    <uuid>3e9abafa-625c-438b-a54c-6652de23b485</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>angry</question>
+    <answer>сердитый</answer>
+    <comment>[ˈæŋgrɪ]</comment>
+    <answer_picture>angry.gif</answer_picture>
+    <uuid>71861e87-01d8-4256-b011-474a32de9492</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>happy</question>
+    <answer>счастливый</answer>
+    <comment>[ˈhæpɪ]</comment>
+    <answer_picture>happy.gif</answer_picture>
+    <uuid>09197e17-10d4-4703-8597-a2f409551e02</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>good</question>
+    <answer>хороший</answer>
+    <comment>[gʊd]</comment>
+    <answer_picture>good.gif</answer_picture>
+    <uuid>14163e40-f89d-42e6-bb1b-44a51ce6ecf9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bad</question>
+    <answer>плохой</answer>
+    <comment>[bæd]</comment>
+    <answer_picture>bad.gif</answer_picture>
+    <uuid>e9ad012d-faad-42ac-83b7-1a443d7dfd23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hate</question>
+    <answer>ненавидеть</answer>
+    <comment>[heɪt]</comment>
+    <answer_picture>hate.gif</answer_picture>
+    <uuid>69ab2c0d-f7e1-4b7a-8111-e5a884d388dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sad</question>
+    <answer>грустный</answer>
+    <comment>[sæd]</comment>
+    <answer_picture>sad.gif</answer_picture>
+    <uuid>7d838a14-956f-425b-ab22-855534f1c027</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>serious</question>
+    <answer>серьёзный</answer>
+    <comment>[ˈsɪərɪəs]</comment>
+    <answer_picture>serious.gif</answer_picture>
+    <uuid>ac39f806-e6cb-498f-8c76-318195605ee3</uuid>
+  </card>
+</cards>
+</stack>

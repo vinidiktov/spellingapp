@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>fa0c67bb-e182-474f-9a37-92adbe9340db</uuid>
+  <title>Покупки :: Общая часть :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>19</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde hay unos grandes almacenes?</question>
+    <answer>Где (есть) универмаг?</answer>
+    <comment></comment>
+    <uuid>ac64daee-dfa1-4423-b820-2191662c3b1e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay una tienda de alimentación?</question>
+    <answer>Где (есть) продуктовый магазин?</answer>
+    <comment></comment>
+    <uuid>0f0c7254-f467-4b2e-8a98-f1a201c2a511</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay una confitería?</question>
+    <answer>Где (есть) кондитерская?</answer>
+    <comment></comment>
+    <uuid>de591fac-6a05-46fb-82b5-1267c7595cb3</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay una librería?</question>
+    <answer>Где (есть) книжный магазин?</answer>
+    <comment></comment>
+    <uuid>a93d1f40-9dc5-47e0-9b9e-af03104d1b5e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de ropa para caballeros?</question>
+    <answer>Где (у вас) отдел мужской одежды?</answer>
+    <comment></comment>
+    <uuid>51a6cb97-6ab8-497f-8996-036101ac7f98</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de ropa para señoras?</question>
+    <answer>Где (у вас) отдел женской одежды?</answer>
+    <comment></comment>
+    <uuid>5f324d85-a8c9-41ea-8b74-beb9e8bd8a9b</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de juguetería?</question>
+    <answer>Где (у вас) отдел игрушек?</answer>
+    <comment></comment>
+    <uuid>d85a7198-79b3-4f69-a024-efc2de1071fa</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de deportes?</question>
+    <answer>Где (у вас) отдел спорттоваров?</answer>
+    <comment></comment>
+    <uuid>6790e5d2-0b02-41a5-aa27-25ec152f486b</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede comprar ...?</question>
+    <answer>Где можно купить ...?</answer>
+    <comment></comment>
+    <uuid>b9968f70-8428-432b-b284-669670985d58</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar ...</question>
+    <answer>Я хочу купить ... (=Я бы хотел(а) ...)</answer>
+    <comment></comment>
+    <uuid>0a14618c-5d57-42b1-85f6-e645d84c6bcd</uuid>
+  </card>
+  <card>
+    <question>Necesito ...</question>
+    <answer>Мне нужен (нужна) ...</answer>
+    <comment></comment>
+    <uuid>1301ee69-0a44-4d3d-b421-4b79c085833d</uuid>
+  </card>
+  <card>
+    <question>Quisiera hacer compras en unos grandes almacenes.</question>
+    <answer>Я хочу сделать покупки в универмаге. (=Я бы хотел(а) ...)</answer>
+    <comment></comment>
+    <uuid>bf7b48ec-5cc5-460e-86ee-a494739b2087</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la escalera mecánica?</question>
+    <answer>Где эскалатор?</answer>
+    <comment></comment>
+    <uuid>772fa7bf-307d-4a4d-8ee1-81d29dba01b7</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el ascensor?</question>
+    <answer>Где лифт?</answer>
+    <comment></comment>
+    <uuid>107a5aa9-a1bc-42d3-91b5-8d2e504559f6</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes ...?</question>
+    <answer>У вас (мн.ч.) есть ...?</answer>
+    <comment></comment>
+    <uuid>e583fbcc-c6fe-4150-9598-bba24450f62b</uuid>
+  </card>
+  <card>
+    <question>Enséñeme ...</question>
+    <answer>Покажите мне ...</answer>
+    <comment></comment>
+    <uuid>306372a3-cc15-433c-8dd1-43f5d3417da0</uuid>
+  </card>
+  <card>
+    <question>Deme ...</question>
+    <answer>Дайте мне ...</answer>
+    <comment></comment>
+    <uuid>bc6e4175-1ed8-46de-8d35-bf5291672bc2</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale esto?</question>
+    <answer>Сколько это стоит?</answer>
+    <comment></comment>
+    <uuid>f12bad1f-f403-4ed2-b5c7-2be4377e5889</uuid>
+  </card>
+  <card>
+    <question>¿Debo pagarle a usted o en caja?</question>
+    <answer>Платить вам или в кассу? (=Я должен платить вам или в кассу?)</answer>
+    <comment></comment>
+    <uuid>fa9d4470-4cce-4a84-a571-5ecd4a5ad1f1</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la caja?</question>
+    <answer>Где касса?</answer>
+    <comment></comment>
+    <uuid>ae1bd25f-dd74-471b-8967-626f7b0fd62b</uuid>
+  </card>
+  <card>
+    <question>Envuélvame esto, por favor.</question>
+    <answer>Упакуйте это, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>01d452e2-0989-470c-94b5-14c30e7067be</uuid>
+  </card>
+  <card>
+    <question>Envuélvamelo todo junto, por favor.</question>
+    <answer>Заверните всё вместе, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>43e2ba03-0657-4003-b919-100599599e3d</uuid>
+  </card>
+  <card>
+    <question>Gracias.</question>
+    <answer>Спасибо.</answer>
+    <comment></comment>
+    <uuid>ec400141-4f33-4ef3-a9a1-9b2b8f786105</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la salida?</question>
+    <answer>Где выход?</answer>
+    <comment></comment>
+    <uuid>012a7140-76f5-4146-b52e-8c7e1f1f2447</uuid>
+  </card>
+  <card>
+    <question>¿Quiere comprar algo?</question>
+    <answer>Вы хотите что-нибудь купить?</answer>
+    <comment></comment>
+    <uuid>f0e56bca-53fd-4425-875e-e58075e46c39</uuid>
+  </card>
+  <card>
+    <question>¿Quiere comprar souvenirs?</question>
+    <answer>Вы хотите купить сувениры?</answer>
+    <comment></comment>
+    <uuid>a3c83b2c-88a0-40ed-969a-0edf5ed2fac0</uuid>
+  </card>
+  <card>
+    <question>La tienda más cercana está ...</question>
+    <answer>Ближайший магазин (находится) ...</answer>
+    <comment></comment>
+    <uuid>65564cd7-02e1-46fe-9411-17739c67e55a</uuid>
+  </card>
+  <card>
+    <question>La tienda está abierta de las ... a las ...</question>
+    <answer>Магазин открыт с ... до ...</answer>
+    <comment></comment>
+    <uuid>87d4679e-03b5-4821-a50c-b1e62f39fae3</uuid>
+  </card>
+  <card>
+    <question>Cerca está el comercio &quot;Regalos&quot;.</question>
+    <answer>Недалеко есть магазин (comercio) &quot;Подарки&quot;</answer>
+    <comment></comment>
+    <uuid>4a5152bf-3ae1-49dd-92df-957465882ff3</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se venden souvenirs?</question>
+    <answer>Где продаются сувениры?</answer>
+    <comment></comment>
+    <uuid>9898efde-4dbc-4ef0-9ae2-daecde338cc7</uuid>
+  </card>
+  <card>
+    <question>¿Qué me aconsejaría comprar?</question>
+    <answer>Что бы вы посоветовали мне купить?</answer>
+    <comment></comment>
+    <uuid>04450451-5330-4f60-9bad-84b256cd3995</uuid>
+  </card>
+  <card>
+    <question>En el quiosco de souvenirs puede comprar ...</question>
+    <answer>В киоске сувениров вы можете купить ...</answer>
+    <comment></comment>
+    <uuid>3f8d36df-24a1-4c59-99f6-994b626132a9</uuid>
+  </card>
+  <card>
+    <question>Aquí puede comprar regalos a sus amigos.</question>
+    <answer>Здесь вы можете купить подарки вашим друзьям.</answer>
+    <comment></comment>
+    <uuid>777c22c5-c08d-4e0b-9747-37ff1f1ab4c5</uuid>
+  </card>
+  <card>
+    <question>Aquí puede comprar objetos de ámbar.</question>
+    <answer>Здесь вы можете купить изделия (предметы) из янтаря.</answer>
+    <comment></comment>
+    <uuid>bf3f8665-5588-4a55-bd57-226a702f9517</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>705d8e89-3d9b-4418-ab10-b67113f668e4</uuid>
+  <title>У зубного врача :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Could you recommend a good dentist?</question>
+    <answer>Могли бы вы порекомендовать мне хорошего зубного врача?</answer>
+    <comment>[kʊd jʊ ˌrekəˈmend ə gʊd ˈdentɪst]</comment>
+    <answer_comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dentist - стоматолог, me - мне, меня</answer_comment>
+    
+    <uuid>f0bccf2e-ac86-47a2-8897-bedcf7ae1cfe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you recommend a good dental clinic?</question>
+    <answer>Могли бы вы порекомендовать хорошую стоматологию?</answer>
+    <comment>[kʊd jʊ ˌrekəˈmend ə gʊd ˈdentl ˈklɪnɪk]</comment>
+    <answer_comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</answer_comment>
+    
+    <uuid>3c2f1a29-de77-4ca7-9953-aa04ae2849d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are the surgery hours?</question>
+    <answer>Когда приемные часы?</answer>
+    <comment>[hwʌt ɑːr ðə ˈsɜːrʤəriː аʊrz]</comment>
+    <answer_comment>what - какой, что, surgery - кабинет или приемная врача, hour - час</answer_comment>
+    
+    <uuid>f0986b92-6beb-45bf-89df-56c069e629cc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I have an appointment?</question>
+    <answer>Я хотел бы записаться на прием.</answer>
+    <comment>[kæn аɪ hæv ən əˈpɔɪntmənt]</comment>
+    <answer_comment>can - мочь, to have - иметь, appointment - назначенная встреча</answer_comment>
+    
+    <uuid>ca25a1ef-63f0-480a-9170-81946487f58f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long will I have to wait?</question>
+    <answer>Сколько мне придется ждать?</answer>
+    <comment>[hаʊ lɔːŋ wɪl аɪ hæv tə weɪt]</comment>
+    <answer_comment>how - как, long - долго, to have to - быть должным, to wait - ждать</answer_comment>
+    
+    <uuid>22ff8cf2-1ae8-4478-95d7-7b97d0df838c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think it&apos;s my turn.</question>
+    <answer>Теперь моя очередь.</answer>
+    <comment>[аɪ θɪŋk its mаɪ tɜːrn]</comment>
+    <answer_comment>to think - думать, my - мой, моя, мое, turn - очередь</answer_comment>
+    
+    <uuid>6fb978c4-5d40-4a91-a2ba-d95fd8349428</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache.</question>
+    <answer>У меня болит зуб.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль</answer_comment>
+    
+    <uuid>3a2dafa6-29af-4aa1-8a94-165031581534</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a gingivitis.</question>
+    <answer>У меня воспалилась десна.</answer>
+    <comment>[аɪ hæv ə ˌʤɪnʤəˈvаɪtɪs]</comment>
+    <answer_comment>to have - иметь, gingivitis - воспаление десен, гингивит</answer_comment>
+    
+    <uuid>524234a0-1ffa-45e8-ab59-9e57c9bb03d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a dental abscess.</question>
+    <answer>У меня флюс.</answer>
+    <comment>[аɪ hæv ə ˈdentl ˈæbses]</comment>
+    <answer_comment>to have - иметь, dental - зубной, abscess - абсцесс, нарыв</answer_comment>
+    
+    <uuid>d1abde2a-fd5a-41e2-8e19-6e03f4085568</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The filling fell out.</question>
+    <answer>У меня выпала пломба.</answer>
+    <comment>[ðə ˈfɪlɪŋ fel аʊt]</comment>
+    <answer_comment>filling - пломба, to fall out - выпадать</answer_comment>
+    
+    <uuid>d693739a-d868-419c-8df0-71d3a1e2ce6c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve lost a filling.</question>
+    <answer>Выпала пломба.</answer>
+    <comment>[аɪv lɔːst ə ˈfɪlɪŋ]</comment>
+    <answer_comment>to loose - терять, filling - пломба</answer_comment>
+    
+    <uuid>08b88614-044e-4815-a9e0-1d98e4b5a366</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a cavity in a tooth.</question>
+    <answer>У меня дупло в зубе.</answer>
+    <comment>[аɪ hæv ə ˈkævɪtiː ɪn ə tuːθ]</comment>
+    <answer_comment>to have - иметь, cavity - дупло, полость, tooth - зуб</answer_comment>
+    
+    <uuid>f234b002-f52e-4f08-ad53-65f5087abb2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a broken tooth.</question>
+    <answer>У меня сломался зуб.</answer>
+    <comment>[аɪ hæv ə ˈbroʊkən tuːθ]</comment>
+    <answer_comment>to break - ломать, tooth - зуб</answer_comment>
+    
+    <uuid>a4821b54-2e20-40ef-819a-b95baa3fa132</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a broken crown.</question>
+    <answer>У меня сломалась коронка.</answer>
+    <comment>[аɪ hæv ə ˈbroʊkən krаʊn]</comment>
+    <answer_comment>to break - ломать, crown - коронка (зубная)</answer_comment>
+    
+    <uuid>6985a9c0-5d04-445c-8925-8292591827f6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have an abscess on a gum.</question>
+    <answer>У меня нарыв на десне.</answer>
+    <comment>[аɪ hæv ən ˈæbses ɑːn ə gʌm]</comment>
+    <answer_comment>to have - иметь, abscess - абсцесс, нарыв, gum - десна</answer_comment>
+    
+    <uuid>0f03e008-305e-406c-9dc2-f3a63f526af5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have bleeding gums.</question>
+    <answer>У меня кровоточат десна.</answer>
+    <comment>[аɪ hæv ˈbliːdɪŋ gʌmz]</comment>
+    <answer_comment>to have - иметь, bleeding - кровоточащий, gum - десна</answer_comment>
+    
+    <uuid>d3f781d6-0d04-4271-97df-d79265df9169</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My gums are very sore.</question>
+    <answer>У меня воспалились десны.</answer>
+    <comment>[mаɪ gʌmz ɑːr ˈveriː sɔːr]</comment>
+    <answer_comment>gum - десна, very - очень, sore - воспаленный</answer_comment>
+    
+    <uuid>77b95db9-7677-4589-9f8a-0886cd79db34</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve broken my denture.</question>
+    <answer>У меня сломался протез.</answer>
+    <comment>[аɪv ˈbroʊkən mаɪ ˈdenʧər]</comment>
+    <answer_comment>to break - ломать, denture - протез</answer_comment>
+    
+    <uuid>3e9ae71b-5923-412d-a33a-b47116c9afd4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you repair my denture?</question>
+    <answer>Можно починить протез?</answer>
+    <comment>[kæn jʊ rɪˈper mаɪ ˈdenʧər]</comment>
+    <answer_comment>can - мочь, you - ты, вы, to repair - ремонтировать, my - мой, моя, мое, denture - протез</answer_comment>
+    
+    <uuid>d40da833-0f63-4664-9541-3d76f8beff7b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will my denture be ready?</question>
+    <answer>Когда будет готов протез?</answer>
+    <comment>[hwen wɪl mаɪ ˈdenʧər biː ˈrediː]</comment>
+    <answer_comment>when - когда, my - мой, моя, мое, denture - протез, to be - быть, ready - готовый</answer_comment>
+    
+    <uuid>34b6195f-28c9-42ef-9e2e-f51bbfcd9664</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Does this tooth hurt you when I touch it like that?</question>
+    <answer>Этот зуб беспокоит вас, когда я притрагиваюсь к нему?</answer>
+    <comment>[dʌz ðɪs tuːθ hɜːrt jʊ hwen аɪ tʌʧ ɪt lаɪk ðæt]</comment>
+    <answer_comment>this - этот, эта, это, tooth - зуб, to hurt - болеть, you - вас, вам, тебе, тебя, when - когда, to touch - прикасаться, it - это, like - как, наподобии, that - это</answer_comment>
+    
+    <uuid>25dc6e90-5844-4dd9-a57c-a029eca96211</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache on the right side.</question>
+    <answer>У меня болит зуб справа.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk ɑːn ðə rаɪt sаɪd]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, right - правый, side - сторона</answer_comment>
+    
+    <uuid>c6ba0125-beb2-4e17-8a2f-9841368945ef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache on the left side.</question>
+    <answer>У меня болит зуб слева.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk ɑːn ðə left sаɪd]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, left - левый, side - сторона</answer_comment>
+    
+    <uuid>9133ac29-c8e3-477a-b4c0-47c46d77b9cb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache at the bottom.</question>
+    <answer>У меня болит нижний зуб.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk ət ðə ˈbɑːtəm]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, bottom - низ, нижний</answer_comment>
+    
+    <uuid>7fda6bdd-fa2a-4c52-83e1-3710d1fa2626</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache at the top.</question>
+    <answer>У меня болит верхний зуб.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk ət ðə tɑːp]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, top - верх, верхний</answer_comment>
+    
+    <uuid>a9f8ab3a-d20f-4f8b-98b7-1a8d47207685</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache at the front.</question>
+    <answer>У меня болит передний зуб.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk ət ðə frʌnt]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, front - передний</answer_comment>
+    
+    <uuid>f4fb592a-655e-4f36-b092-b4931b3c4719</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache here.</question>
+    <answer>У меня болит вот этот зуб.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk hɪr]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль, here - здесь</answer_comment>
+    
+    <uuid>6a01c68f-5b09-43df-a2e4-ad6b97b2687a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This tooth aches.</question>
+    <answer>Этот зуб болит.</answer>
+    <comment>[ðɪs tuːθ eɪks]</comment>
+    <answer_comment>this - этот, эта, это, tooth - зуб, to ache - болеть</answer_comment>
+    
+    <uuid>f56fc2ed-507a-401f-9096-203cae477709</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please give me an anesthetic.</question>
+    <answer>Сделайте, пожалуйста, обезболивание.</answer>
+    <comment>[pliːz gɪv ˈmiː ən ˌænɪsˈθetɪk]</comment>
+    <answer_comment>to give - давать, me - мне, меня, anesthetic - обезболевающее</answer_comment>
+    
+    <uuid>b758b658-354f-4eb4-b45e-6440dd8e4f64</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you fix it temporarily?</question>
+    <answer>Нельзя ли его временно залечить?</answer>
+    <comment>[kæn jʊ fɪks ɪt ˈtempəˌreriːli]</comment>
+    <answer_comment>can - мочь, you - ты, вы, to fix - отремонтировать, починить, it - это, temporarily - временно</answer_comment>
+    
+    <uuid>c6b04433-b7ef-4ac3-9f42-90c33964e0da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t want it pulled out.</question>
+    <answer>Я не хотел бы его вырывать.</answer>
+    <comment>[аɪ doʊnt wɑːnt ɪt pʊld аʊt]</comment>
+    <answer_comment>to want - хотеть, it - это, pulled out - вырванный, вытащенный</answer_comment>
+    
+    <uuid>b6f2f599-693e-4458-b2c2-cf06a8ff9d96</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When must I come again?</question>
+    <answer>Когда мне снова прийти?</answer>
+    <comment>[hwen mʌst аɪ kʌm əˈgen]</comment>
+    <answer_comment>when - когда, must - быть должным, to come - прийти, again - снова</answer_comment>
+    
+    <uuid>c9acbd99-1692-4387-9fdb-54c6fe408d96</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When must I come next time?</question>
+    <answer>Когда мне прийти в следующий раз?</answer>
+    <comment>[hwen mʌst аɪ kʌm nekst tаɪm]</comment>
+    <answer_comment>when - когда, must - быть должным, to come - прийти, next - следующий, time - раз</answer_comment>
+    
+    <uuid>dfe7fa82-e16d-4224-89d6-ee0327db36fa</uuid>
+  </card>
+</cards>
+</stack>

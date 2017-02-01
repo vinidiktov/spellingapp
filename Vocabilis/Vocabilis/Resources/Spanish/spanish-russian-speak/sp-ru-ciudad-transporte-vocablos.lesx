@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>163d392a-5a5d-413e-a10a-aefe4f7a6db3</uuid>
+  <title>В городе :: Транспорт :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>parada</question>
+    <answer>остановка</answer>
+    <comment>f</comment>
+    <uuid>f5986532-9ce9-4ed8-8c41-ddee20e5b4af</uuid>
+  </card>
+  <card>
+    <question>autobús</question>
+    <answer>автобус</answer>
+    <comment>m</comment>
+    <uuid>1ff38055-ec28-4458-8481-5b57efae542a</uuid>
+  </card>
+  <card>
+    <question>número</question>
+    <answer>номер</answer>
+    <comment>m</comment>
+    <uuid>2c45e15b-58f6-4b1a-a6e4-7ee6b3e4c8de</uuid>
+  </card>
+  <card>
+    <question>estación</question>
+    <answer>станция</answer>
+    <comment>f</comment>
+    <uuid>d89a2992-847a-4039-bbdd-f849fd553fed</uuid>
+  </card>
+  <card>
+    <question>metro</question>
+    <answer>метро</answer>
+    <comment>m</comment>
+    <uuid>9ec39b27-1349-4142-a6a1-85d4d2c143bd</uuid>
+  </card>
+  <card>
+    <question>más próximo</question>
+    <answer>ближайший</answer>
+    <comment></comment>
+    <uuid>aac840f4-1df9-442b-a8ba-639c4596e0ac</uuid>
+  </card>
+  <card>
+    <question>más próxima</question>
+    <answer>ближайшая</answer>
+    <comment></comment>
+    <uuid>0294ac0d-44a8-4a2f-ab45-3f83e1e71bdc</uuid>
+  </card>
+  <card>
+    <question>comprar</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>3a30ed91-8b49-4ebb-a5e6-ed9e6740896f</uuid>
+  </card>
+  <card>
+    <question>billete</question>
+    <answer>билет</answer>
+    <comment>m</comment>
+    <uuid>3165ab56-5119-43f5-8164-1efe571ae672</uuid>
+  </card>
+  <card>
+    <question>valer</question>
+    <answer>стоить</answer>
+    <comment></comment>
+    <uuid>dd8178cb-0863-4019-800f-cba524ff9e92</uuid>
+  </card>
+  <card>
+    <question>vale</question>
+    <answer>стОит</answer>
+    <comment></comment>
+    <uuid>6b470a7b-170f-4a73-9d16-140e1c083e70</uuid>
+  </card>
+  <card>
+    <question>valen</question>
+    <answer>стОят</answer>
+    <comment></comment>
+    <uuid>29eee4c6-0c4d-40c0-8dd9-e92431a778d2</uuid>
+  </card>
+  <card>
+    <question>poder</question>
+    <answer>мочь</answer>
+    <comment></comment>
+    <uuid>49d702ad-1656-42ae-8b94-a02238efd2fb</uuid>
+  </card>
+  <card>
+    <question>puedo</question>
+    <answer>могу</answer>
+    <comment></comment>
+    <uuid>3fb1a145-4f63-4ad7-9b8e-fa6adfd3944e</uuid>
+  </card>
+  <card>
+    <question>puede</question>
+    <answer>(Вы) можете; (он, она) может</answer>
+    <comment></comment>
+    <uuid>0244937a-56a1-424f-9c11-b7abf615c595</uuid>
+  </card>
+  <card>
+    <question>museo</question>
+    <answer>музей</answer>
+    <comment>m</comment>
+    <uuid>5fa3ec6c-027b-4e1b-99ac-650c6e8334e6</uuid>
+  </card>
+  <card>
+    <question>teatro</question>
+    <answer>театр</answer>
+    <comment>m</comment>
+    <uuid>5be043e3-b121-434d-a2cf-4b7cc9931f62</uuid>
+  </card>
+  <card>
+    <question>calle</question>
+    <answer>улица</answer>
+    <comment>f</comment>
+    <uuid>a3b75a72-fea5-4271-94f0-a1ab60d67de0</uuid>
+  </card>
+  <card>
+    <question>pasar</question>
+    <answer>проходить</answer>
+    <comment></comment>
+    <uuid>909641f7-17b1-4125-9f65-1631a72a2cba</uuid>
+  </card>
+  <card>
+    <question>plaza</question>
+    <answer>площадь</answer>
+    <comment>f</comment>
+    <uuid>a6e999ce-6575-4a5a-ae71-721954690fc8</uuid>
+  </card>
+  <card>
+    <question>ir</question>
+    <answer>идти, ехать</answer>
+    <comment></comment>
+    <uuid>21a492a9-e336-493d-b7dd-8d24b49b6600</uuid>
+  </card>
+  <card>
+    <question>voy</question>
+    <answer>иду, еду</answer>
+    <comment></comment>
+    <uuid>b51795bf-5ad0-4533-a429-43f7f5681132</uuid>
+  </card>
+  <card>
+    <question>ciudad</question>
+    <answer>город</answer>
+    <comment>f</comment>
+    <uuid>8e57cab2-bf4f-4017-8795-6d5022b06f18</uuid>
+  </card>
+  <card>
+    <question>centro</question>
+    <answer>центр</answer>
+    <comment>m</comment>
+    <uuid>41275191-966e-41c1-bc11-f26fc899c0a4</uuid>
+  </card>
+  <card>
+    <question>hotel</question>
+    <answer>гостиница</answer>
+    <comment>m</comment>
+    <uuid>17b16a3c-1dd9-4be9-8530-9f942081e99a</uuid>
+  </card>
+  <card>
+    <question>con qué frecuencia</question>
+    <answer>как часто?</answer>
+    <comment></comment>
+    <uuid>ee42436f-8a96-4dcd-aaad-b999959c6ba4</uuid>
+  </card>
+  <card>
+    <question>cada</question>
+    <answer>каждый</answer>
+    <comment></comment>
+    <uuid>a1484355-b769-4d12-96dc-4a35ee9ae32d</uuid>
+  </card>
+  <card>
+    <question>diez</question>
+    <answer>десять</answer>
+    <comment></comment>
+    <uuid>d4c44e11-2475-4a8a-937d-ed73c38cebbe</uuid>
+  </card>
+  <card>
+    <question>quince</question>
+    <answer>пятнадцать</answer>
+    <comment></comment>
+    <uuid>255767ba-dbad-4a3c-b642-a9154231cca8</uuid>
+  </card>
+  <card>
+    <question>cinco</question>
+    <answer>пять</answer>
+    <comment></comment>
+    <uuid>0dba66e4-7381-47b1-9381-bb7b3591de7f</uuid>
+  </card>
+  <card>
+    <question>minuto</question>
+    <answer>минута</answer>
+    <comment>m</comment>
+    <uuid>5191652a-4540-42fc-a83f-6bc6432d0b73</uuid>
+  </card>
+  <card>
+    <question>hacia</question>
+    <answer>до</answer>
+    <comment></comment>
+    <uuid>8137534c-9cc9-4eaa-b150-1a39c1c2d8d8</uuid>
+  </card>
+  <card>
+    <question>siguiente</question>
+    <answer>следующий</answer>
+    <comment></comment>
+    <uuid>e4f08663-c4dc-4b70-be1f-d83a09076af0</uuid>
+  </card>
+  <card>
+    <question>cuál</question>
+    <answer>какой?</answer>
+    <comment></comment>
+    <uuid>6515742d-7785-4330-82c7-982fd56e435b</uuid>
+  </card>
+  <card>
+    <question>deber</question>
+    <answer>быть должным</answer>
+    <comment></comment>
+    <uuid>8bcfd113-8094-4df1-9431-607351008438</uuid>
+  </card>
+  <card>
+    <question>debo</question>
+    <answer>(я) должен</answer>
+    <comment></comment>
+    <uuid>ad175d8c-4be3-4483-a853-afb296a54a85</uuid>
+  </card>
+  <card>
+    <question>debes</question>
+    <answer>(ты) должен</answer>
+    <comment></comment>
+    <uuid>922bc44c-e021-4c3e-bac3-6c896896eb1b</uuid>
+  </card>
+  <card>
+    <question>debe</question>
+    <answer>(Вы) должны; (он) должен, (она) должна</answer>
+    <comment></comment>
+    <uuid>c8065c3b-3616-4d4e-bfc0-beb6af4429ba</uuid>
+  </card>
+  <card>
+    <question>debemos</question>
+    <answer>(мы) должны</answer>
+    <comment></comment>
+    <uuid>5bbfc94d-66fe-4151-b3e6-56587a1d5372</uuid>
+  </card>
+  <card>
+    <question>hacer trasbordo</question>
+    <answer>делать пересадку</answer>
+    <comment></comment>
+    <uuid>39ff92be-2ac8-436c-9f24-fe5a0aa66c6b</uuid>
+  </card>
+  <card>
+    <question>bajarme</question>
+    <answer>выйти (я)</answer>
+    <comment></comment>
+    <uuid>bc5cd559-0064-4381-a325-3255a7745d87</uuid>
+  </card>
+  <card>
+    <question>bajarmos</question>
+    <answer>выйти (мы)</answer>
+    <comment></comment>
+    <uuid>0052f78c-4ea5-4b3f-8d9d-20439c7dbaec</uuid>
+  </card>
+  <card>
+    <question>avisar</question>
+    <answer>предупреждать</answer>
+    <comment></comment>
+    <uuid>254fe527-b785-4c6e-b3c2-fa6b488ac144</uuid>
+  </card>
+  <card>
+    <question>avíseme</question>
+    <answer>предупредите меня</answer>
+    <comment></comment>
+    <uuid>e1501dec-150e-4743-bb08-82371698a718</uuid>
+  </card>
+  <card>
+    <question>bajarse</question>
+    <answer>выйти (Вы)</answer>
+    <comment></comment>
+    <uuid>e189b170-c0a1-4ec9-a51c-aa171fad4490</uuid>
+  </card>
+  <card>
+    <question>perder</question>
+    <answer>терять</answer>
+    <comment></comment>
+    <uuid>c564380f-e050-4580-bb60-828c194ff5c2</uuid>
+  </card>
+  <card>
+    <question>he perdido</question>
+    <answer>(я) потерял</answer>
+    <comment></comment>
+    <uuid>f0f1a23d-17f2-4ab4-ac0f-e8fb32d8035d</uuid>
+  </card>
+  <card>
+    <question>has perdido</question>
+    <answer>(ты) потерял</answer>
+    <comment></comment>
+    <uuid>7a1e12a5-4999-4510-90ca-330573ba7007</uuid>
+  </card>
+  <card>
+    <question>ha perdido</question>
+    <answer>(Вы) потеряли; (он) потерял, (она) потеряла</answer>
+    <comment></comment>
+    <uuid>73d6de6f-8b0a-43eb-bd7c-01fb22d8c2b3</uuid>
+  </card>
+  <card>
+    <question>hemos perdido</question>
+    <answer>(мы) потеряли</answer>
+    <comment></comment>
+    <uuid>9df35b6d-95ee-46c8-83bc-b54702f4832c</uuid>
+  </card>
+  <card>
+    <question>pagar</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <uuid>7eaa4be6-657a-4dc5-a29b-bca723b28dd0</uuid>
+  </card>
+  <card>
+    <question>boca</question>
+    <answer>вход (в метро)</answer>
+    <comment>f</comment>
+    <uuid>21ced9e8-b798-482f-b53d-24f7072a4f35</uuid>
+  </card>
+  <card>
+    <question>perdone</question>
+    <answer>извините</answer>
+    <comment></comment>
+    <uuid>e27dd5fb-97f3-4f0f-b0aa-f83d35fb6e9c</uuid>
+  </card>
+  <card>
+    <question>permítame</question>
+    <answer>позвольте мне</answer>
+    <comment></comment>
+    <uuid>da7544bc-9bea-4449-ba25-165176718126</uuid>
+  </card>
+  <card>
+    <question>se baja</question>
+    <answer>(Вы) выходите</answer>
+    <comment></comment>
+    <uuid>3b6f49fb-c3dc-4e77-aac6-4a0dfd8c5b27</uuid>
+  </card>
+  <card>
+    <question>me bajo</question>
+    <answer>(я) выхожу</answer>
+    <comment></comment>
+    <uuid>a53e5785-6e8d-48b1-a6b4-b7f20f6246a2</uuid>
+  </card>
+  <card>
+    <question>te bajas</question>
+    <answer>(ты) выходишь</answer>
+    <comment></comment>
+    <uuid>918bc3a9-561d-4de2-aeb1-335806ba041b</uuid>
+  </card>
+  <card>
+    <question>nos bajamos</question>
+    <answer>(мы) выходим</answer>
+    <comment></comment>
+    <uuid>f8db3151-d91e-42d2-9ba0-6fd6bcfe9b25</uuid>
+  </card>
+  <card>
+    <question>plano</question>
+    <answer>план</answer>
+    <comment>m</comment>
+    <uuid>b950bd8b-a2c2-4525-8d51-820731c2dc25</uuid>
+  </card>
+  <card>
+    <question>llegar</question>
+    <answer>доехать</answer>
+    <comment></comment>
+    <uuid>7798407d-0663-4b04-aa12-d79ebfe9c8ca</uuid>
+  </card>
+  <card>
+    <question>línea</question>
+    <answer>линия</answer>
+    <comment>f</comment>
+    <uuid>896bb4f8-3200-40bf-932c-c09950403393</uuid>
+  </card>
+  <card>
+    <question>taxi</question>
+    <answer>такси</answer>
+    <comment>m</comment>
+    <uuid>6dc86185-34cc-4660-be74-5e5a1ff1d32f</uuid>
+  </card>
+  <card>
+    <question>libre</question>
+    <answer>свободный</answer>
+    <comment></comment>
+    <uuid>93a87ce7-bb59-4a1f-bcc7-5ffc43670b08</uuid>
+  </card>
+  <card>
+    <question>llevar</question>
+    <answer>отвозить</answer>
+    <comment></comment>
+    <uuid>199d9bf7-7253-4c1c-bebe-6965ca27e098</uuid>
+  </card>
+  <card>
+    <question>lléveme</question>
+    <answer>отвезите меня</answer>
+    <comment></comment>
+    <uuid>3f50f4dd-4633-4709-a208-8987e8f37c07</uuid>
+  </card>
+  <card>
+    <question>aeropuerto</question>
+    <answer>аэропорт</answer>
+    <comment>m</comment>
+    <uuid>e2432aaa-3543-47c9-9963-27f541d0b2da</uuid>
+  </card>
+  <card>
+    <question>dirección</question>
+    <answer>адрес</answer>
+    <comment>f</comment>
+    <uuid>a83e379c-9287-48c9-8630-28c4619882af</uuid>
+  </card>
+  <card>
+    <question>tener prisa</question>
+    <answer>торопиться</answer>
+    <comment></comment>
+    <uuid>be846eac-d9c9-4a4a-b4a6-93037f04ef4a</uuid>
+  </card>
+  <card>
+    <question>tengo prisa</question>
+    <answer>(я) тороплюсь</answer>
+    <comment></comment>
+    <uuid>3c6726ea-6162-4ef3-ac88-06ef83affdfc</uuid>
+  </card>
+  <card>
+    <question>tienes prisa</question>
+    <answer>(ты) торопишься</answer>
+    <comment></comment>
+    <uuid>d5c216f6-61a1-4b55-b875-8d42501b69b1</uuid>
+  </card>
+  <card>
+    <question>tiene prisa</question>
+    <answer>(Вы) торопитесь; (он, она) торопится</answer>
+    <comment></comment>
+    <uuid>5d28cf87-ad97-4119-806c-29285785cd30</uuid>
+  </card>
+  <card>
+    <question>tenemos prisa</question>
+    <answer>(мы) торопимся</answer>
+    <comment></comment>
+    <uuid>228deaf1-8872-4922-9f8c-0efe95e16b9a</uuid>
+  </card>
+  <card>
+    <question>esperar</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <uuid>72a634ad-5893-4a87-afbc-27b79bdc84b3</uuid>
+  </card>
+  <card>
+    <question>espéreme</question>
+    <answer>подождите меня</answer>
+    <comment></comment>
+    <uuid>c3440ea2-b6c3-4a67-ae86-fd10c734d65d</uuid>
+  </card>
+  <card>
+    <question>detenerse</question>
+    <answer>останавливаться</answer>
+    <comment></comment>
+    <uuid>7e83286a-c240-4ade-959d-eff8f95f0fec</uuid>
+  </card>
+  <card>
+    <question>deténgase</question>
+    <answer>остановитесь</answer>
+    <comment></comment>
+    <uuid>3ae71058-269b-48ad-b14c-a538fa85bc1c</uuid>
+  </card>
+  <card>
+    <question>coche</question>
+    <answer>машина</answer>
+    <comment>m</comment>
+    <uuid>c3d3d5fd-e16b-41b0-ba44-be09ba8978b1</uuid>
+  </card>
+  <card>
+    <question>paseo</question>
+    <answer>аллея</answer>
+    <comment>m</comment>
+    <uuid>8bad3ea3-af94-4e2d-b6c5-d387b636c8a6</uuid>
+  </card>
+  <card>
+    <question>cerca</question>
+    <answer>близко</answer>
+    <comment></comment>
+    <uuid>574ac79e-8278-49af-b344-3fd501c2e8bb</uuid>
+  </card>
+  <card>
+    <question>lejos</question>
+    <answer>далеко</answer>
+    <comment></comment>
+    <uuid>8b65461b-a988-462c-b9d5-a296a2c255aa</uuid>
+  </card>
+  <card>
+    <question>bulevar</question>
+    <answer>бульвар</answer>
+    <comment>m</comment>
+    <uuid>9c399fb2-a6a1-4ae0-9666-26ee3d27b5c9</uuid>
+  </card>
+  <card>
+    <question>conductor</question>
+    <answer>водитель</answer>
+    <comment></comment>
+    <uuid>3037b77d-9b17-4ee4-b5ab-f202910b29f4</uuid>
+  </card>
+  <card>
+    <question>estación de ferrocarril</question>
+    <answer>железнодорожный вокзал</answer>
+    <comment></comment>
+    <uuid>fb0b083e-f52c-44c8-a940-bbcb70f7bc47</uuid>
+  </card>
+  <card>
+    <question>exposición</question>
+    <answer>выставка</answer>
+    <comment>f</comment>
+    <uuid>c8684da6-8fb7-46a1-a1f6-af3571500eb9</uuid>
+  </card>
+  <card>
+    <question>salida</question>
+    <answer>выход</answer>
+    <comment>f</comment>
+    <uuid>b8fbd7d0-f671-4ba1-9d0b-d3d2102db8f9</uuid>
+  </card>
+  <card>
+    <question>principal</question>
+    <answer>главный</answer>
+    <comment></comment>
+    <uuid>86078454-65ef-4a52-ba84-b04cf75a7d3e</uuid>
+  </card>
+  <card>
+    <question>palacio</question>
+    <answer>дворец</answer>
+    <comment>m</comment>
+    <uuid>9c213f71-e539-4695-bda2-06c913a03bf9</uuid>
+  </card>
+  <card>
+    <question>casa</question>
+    <answer>дом</answer>
+    <comment>f</comment>
+    <uuid>fe2824a3-89e5-4a9a-9c4f-5dd8414641ac</uuid>
+  </card>
+  <card>
+    <question>camino</question>
+    <answer>дорога</answer>
+    <comment>m</comment>
+    <uuid>8ac9294e-3141-47bc-b533-33ebd4dda54b</uuid>
+  </card>
+  <card>
+    <question>reservar</question>
+    <answer>заказывать</answer>
+    <comment></comment>
+    <uuid>507176fc-6955-4746-b6da-0776831edfa5</uuid>
+  </card>
+  <card>
+    <question>castillo</question>
+    <answer>зАмок</answer>
+    <comment>m</comment>
+    <uuid>b43e9a74-214d-403b-9182-b27d402eaca3</uuid>
+  </card>
+  <card>
+    <question>vedado</question>
+    <answer>заповедник</answer>
+    <comment>m</comment>
+    <uuid>a111a1b5-682a-4c6c-a1a9-ba345b5777fc</uuid>
+  </card>
+  <card>
+    <question>a la vuelta de la esquina</question>
+    <answer>за углом</answer>
+    <comment></comment>
+    <uuid>9e2ff607-79d9-48ba-9222-494d11b398b9</uuid>
+  </card>
+  <card>
+    <question>edificio</question>
+    <answer>здание</answer>
+    <comment>m</comment>
+    <uuid>91e53264-f2cd-4c81-b80f-a64e97db9ee8</uuid>
+  </card>
+  <card>
+    <question>ir a pie</question>
+    <answer>идти пешком</answer>
+    <comment></comment>
+    <uuid>1f250aca-b532-4746-931d-2ddbc5586595</uuid>
+  </card>
+  <card>
+    <question>cemeterio</question>
+    <answer>кладбище</answer>
+    <comment>m</comment>
+    <uuid>b99960ab-d9d7-4e52-97be-08003d179064</uuid>
+  </card>
+  <card>
+    <question>última parada</question>
+    <answer>конечная остановка</answer>
+    <comment>f</comment>
+    <uuid>9ae41381-4b56-4c54-a18c-c97429016f56</uuid>
+  </card>
+  <card>
+    <question>inspector</question>
+    <answer>контроллёр</answer>
+    <comment>m</comment>
+    <uuid>4a853a2b-2ac9-4bc9-a1e7-26e8ccd70639</uuid>
+  </card>
+  <card>
+    <question>itinerario</question>
+    <answer>маршрут</answer>
+    <comment>m</comment>
+    <uuid>0768f1c6-ad2f-43f4-8615-b8f17887b148</uuid>
+  </card>
+  <card>
+    <question>monasterio</question>
+    <answer>монастырь</answer>
+    <comment>m</comment>
+    <uuid>d1d061fe-2825-45a6-b333-34e27437d2a1</uuid>
+  </card>
+  <card>
+    <question>puente</question>
+    <answer>мост</answer>
+    <comment>m</comment>
+    <uuid>70d21a46-93cf-4a51-9e65-02a96a6647bd</uuid>
+  </card>
+  <card>
+    <question>ayuntamiento</question>
+    <answer>муниципалитет</answer>
+    <comment>m</comment>
+    <uuid>fb11e69b-e95e-419a-bc2b-76105ac63525</uuid>
+  </card>
+  <card>
+    <question>malecón</question>
+    <answer>набережная</answer>
+    <comment>m</comment>
+    <uuid>33d6e7e9-99a9-4ded-8b0b-049412cd5517</uuid>
+  </card>
+  <card>
+    <question>a la izquierda</question>
+    <answer>налево, слева</answer>
+    <comment></comment>
+    <uuid>066dc7a0-6a34-4004-b046-52b66d4bd63a</uuid>
+  </card>
+  <card>
+    <question>a la derecha</question>
+    <answer>направо, справа</answer>
+    <comment></comment>
+    <uuid>ad2c335f-a279-4500-8651-cb9422a6c022</uuid>
+  </card>
+  <card>
+    <question>en frente</question>
+    <answer>напротив</answer>
+    <comment></comment>
+    <uuid>036ccb70-e0b5-411d-be30-343dbff3384b</uuid>
+  </card>
+  <card>
+    <question>en la esquina</question>
+    <answer>на углу</answer>
+    <comment></comment>
+    <uuid>e96e3f43-f884-4423-8e52-c9ffb81682e9</uuid>
+  </card>
+  <card>
+    <question>cruce</question>
+    <answer>перекрёсток</answer>
+    <comment>m</comment>
+    <uuid>0de05a07-1903-4216-99b2-fa22fc396f0d</uuid>
+  </card>
+  <card>
+    <question>paso de peatones</question>
+    <answer>пешеходный переход</answer>
+    <comment>m</comment>
+    <uuid>ffc9b364-f0c6-428c-97c9-3c275129cc42</uuid>
+  </card>
+  <card>
+    <question>curva</question>
+    <answer>поворот (дороги)</answer>
+    <comment>f</comment>
+    <uuid>a64ae091-c41d-48e1-8936-fb7579ba56c2</uuid>
+  </card>
+  <card>
+    <question>paso subterraneo</question>
+    <answer>подземный переход</answer>
+    <comment>m</comment>
+    <uuid>fc872a53-42d2-4757-8c8e-b6ddc2cd1e6b</uuid>
+  </card>
+  <card>
+    <question>policía</question>
+    <answer>полицейский</answer>
+    <comment>m</comment>
+    <uuid>3da4745f-8570-4a1b-ac2d-aa8014a69f4e</uuid>
+  </card>
+  <card>
+    <question>comisaría</question>
+    <answer>полицейский участок</answer>
+    <comment>f</comment>
+    <uuid>4e32bf0b-7bb2-4fdf-801c-8fd1f41f3bb1</uuid>
+  </card>
+  <card>
+    <question>puerto</question>
+    <answer>порт</answer>
+    <comment>m</comment>
+    <uuid>598a5892-adb4-4275-933b-4e3b302ee15a</uuid>
+  </card>
+  <card>
+    <question>avenida</question>
+    <answer>проспект</answer>
+    <comment>f</comment>
+    <uuid>efd8928f-1081-4606-bf84-e52aa85bb8fd</uuid>
+  </card>
+  <card>
+    <question>derecho</question>
+    <answer>прямо</answer>
+    <comment></comment>
+    <uuid>7c6e0d21-9104-460f-9890-af8b9be397fa</uuid>
+  </card>
+  <card>
+    <question>ruta</question>
+    <answer>путь</answer>
+    <comment></comment>
+    <uuid>8b2f29bf-ea79-4784-961b-d8e0b771ee0d</uuid>
+  </card>
+  <card>
+    <question>mercado</question>
+    <answer>рынок</answer>
+    <comment>m</comment>
+    <uuid>6e604b7a-3d2e-4d07-99d9-c4aa4b4ad4e7</uuid>
+  </card>
+  <card>
+    <question>semáforo</question>
+    <answer>светофор</answer>
+    <comment>m</comment>
+    <uuid>d59d0a2e-9388-4a70-8895-9d0e9164c4ba</uuid>
+  </card>
+  <card>
+    <question>oficina de información</question>
+    <answer>справочное бюро</answer>
+    <comment>f</comment>
+    <uuid>e8ed0fb5-1869-43b1-84c0-a08857182c72</uuid>
+  </card>
+  <card>
+    <question>aparcamiento</question>
+    <answer>стоянка автомобилей</answer>
+    <comment></comment>
+    <uuid>2b1aa633-5525-45f1-aad6-502f2b8b2b2e</uuid>
+  </card>
+  <card>
+    <question>obra</question>
+    <answer>стройка</answer>
+    <comment>f</comment>
+    <uuid>88024312-1ca7-4d79-9cb3-d95fe65e2b22</uuid>
+  </card>
+  <card>
+    <question>tranvía</question>
+    <answer>трамвай</answer>
+    <comment>f</comment>
+    <uuid>0bdeaab1-45e3-4aaf-a213-cc274ac861c0</uuid>
+  </card>
+  <card>
+    <question>trolebús</question>
+    <answer>троллейбус</answer>
+    <comment>m</comment>
+    <uuid>4de49b9b-3058-4b07-aea3-18eebe6f73ac</uuid>
+  </card>
+  <card>
+    <question>acera</question>
+    <answer>тротуар</answer>
+    <comment>f</comment>
+    <uuid>5ec79e18-a106-4d69-974e-f0cad1978571</uuid>
+  </card>
+  <card>
+    <question>iglesia</question>
+    <answer>церковь</answer>
+    <comment>f</comment>
+    <uuid>3fd00a0c-4857-451f-8be0-87210cb8a057</uuid>
+  </card>
+  <card>
+    <question>hora punta</question>
+    <answer>час пик</answer>
+    <comment>f</comment>
+    <uuid>24a4465d-2c9b-4eca-bd8a-7d43ae3677db</uuid>
+  </card>
+  <card>
+    <question>carretera</question>
+    <answer>шоссе</answer>
+    <comment>f</comment>
+    <uuid>1463170d-2c0b-4860-b5d1-e173d0cc7cb7</uuid>
+  </card>
+  <card>
+    <question>multa</question>
+    <answer>штраф</answer>
+    <comment>f</comment>
+    <uuid>aad2e570-c501-40f6-a559-d141acd3a6e7</uuid>
+  </card>
+</cards>
+</stack>

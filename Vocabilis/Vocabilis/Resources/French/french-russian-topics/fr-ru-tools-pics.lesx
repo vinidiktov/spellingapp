@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e9c989bd-6eed-4e0e-9c00-6bd6297a032b</uuid>
+  <title>Инструменты</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>l&apos;art</question>
+    <answer>искусство</answer>
+    <comment></comment>
+    <answer_picture>art.gif</answer_picture>
+    <uuid>eee48d58-3237-468e-b0e9-3df3987bb5d3</uuid>
+  </card>
+  <card>
+    <question>la hache</question>
+    <answer>топор</answer>
+    <comment></comment>
+    <answer_picture>axe.gif</answer_picture>
+    <uuid>1802c924-df84-4172-a152-39105487cea9</uuid>
+  </card>
+  <card>
+    <question>le bar</question>
+    <answer>бар</answer>
+    <comment></comment>
+    <answer_picture>bar.gif</answer_picture>
+    <uuid>74b3067e-2ae0-4b45-a7ed-d6b39bc090ec</uuid>
+  </card>
+  <card>
+    <question>le chantier de construction</question>
+    <answer>стройка, стройплощадка</answer>
+    <comment></comment>
+    <answer_picture>construction_site.gif</answer_picture>
+    <uuid>c3967d9f-936a-40b2-9a54-58f60a05655b</uuid>
+  </card>
+  <card>
+    <question>la perceuse</question>
+    <answer>дрель</answer>
+    <comment></comment>
+    <answer_picture>drill.gif</answer_picture>
+    <uuid>ab01b179-bcfb-45d9-9966-ce3e740a1eeb</uuid>
+  </card>
+  <card>
+    <question>l&apos;extincteur</question>
+    <answer>огнетушитель</answer>
+    <comment></comment>
+    <answer_picture>extinguisher.gif</answer_picture>
+    <uuid>2e3fe70c-0ccc-44c4-a9f0-bbef9e33bda1</uuid>
+  </card>
+  <card>
+    <question>la lampe de poche</question>
+    <answer>фонарик</answer>
+    <comment></comment>
+    <answer_picture>flashlight.gif</answer_picture>
+    <uuid>ae38a218-a62c-4181-b999-06584162fbbc</uuid>
+  </card>
+  <card>
+    <question>le marteau</question>
+    <answer>молоток</answer>
+    <comment></comment>
+    <answer_picture>hammer.gif</answer_picture>
+    <uuid>d8429d49-4095-43a7-b3ae-d4079ddc7d05</uuid>
+  </card>
+  <card>
+    <question>la charnière</question>
+    <answer>петля (дверная)</answer>
+    <comment></comment>
+    <answer_picture>hinge.gif</answer_picture>
+    <uuid>c9364f20-67e4-431d-aa17-3600aa53c517</uuid>
+  </card>
+  <card>
+    <question>la lance à incendie</question>
+    <answer>шланг</answer>
+    <comment></comment>
+    <answer_picture>hose.gif</answer_picture>
+    <uuid>3ad441b7-cf96-4112-97e9-fbd683d5b179</uuid>
+  </card>
+  <card>
+    <question>le couteau</question>
+    <answer>нож</answer>
+    <comment></comment>
+    <answer_picture>knife.gif</answer_picture>
+    <uuid>830cc840-3e7d-46d9-8c55-08343663fa34</uuid>
+  </card>
+  <card>
+    <question>l&apos;échelle</question>
+    <answer>лестница</answer>
+    <comment></comment>
+    <answer_picture>ladder.gif</answer_picture>
+    <uuid>9c72e1c2-6f89-4f45-9d17-98d697dcc5d3</uuid>
+  </card>
+  <card>
+    <question>le briquet</question>
+    <answer>зажигалка</answer>
+    <comment></comment>
+    <answer_picture>lighter.gif</answer_picture>
+    <uuid>5099a5ce-3a66-48d4-b13c-eec04e47537f</uuid>
+  </card>
+  <card>
+    <question>le mètre à ruban</question>
+    <answer>мерная лента</answer>
+    <comment></comment>
+    <answer_picture>measuring_tape.gif</answer_picture>
+    <uuid>d4c44af2-1600-47b3-aeb8-8fae0670f9e5</uuid>
+  </card>
+  <card>
+    <question>la médecine</question>
+    <answer>медицина</answer>
+    <comment></comment>
+    <answer_picture>medicine.gif</answer_picture>
+    <uuid>140848bd-9ad9-45e6-ab84-ef593e27d77c</uuid>
+  </card>
+  <card>
+    <question>les tenailles</question>
+    <answer>клещи, щипцы</answer>
+    <comment></comment>
+    <answer_picture>pincers.gif</answer_picture>
+    <uuid>09537e85-bc57-426c-b895-9c9d8900c3fd</uuid>
+  </card>
+  <card>
+    <question>la pince plate</question>
+    <answer>плоскогубцы</answer>
+    <comment></comment>
+    <answer_picture>pliers.gif</answer_picture>
+    <uuid>23d49d9e-eb6f-4940-aed0-13132f9e2bd6</uuid>
+  </card>
+  <card>
+    <question>la corde</question>
+    <answer>верёвка</answer>
+    <comment></comment>
+    <answer_picture>rope.gif</answer_picture>
+    <uuid>0deac3cf-db8f-447f-9116-263f78d3ee67</uuid>
+  </card>
+  <card>
+    <question>la scie</question>
+    <answer>пила (инструмент)</answer>
+    <comment></comment>
+    <answer_picture>saw.gif</answer_picture>
+    <uuid>004bb72d-ea62-4752-9fa0-6702a89f2062</uuid>
+  </card>
+  <card>
+    <question>la balance</question>
+    <answer>весы</answer>
+    <comment></comment>
+    <answer_picture>scale.gif</answer_picture>
+    <uuid>3dadeb5c-1b09-4397-86c9-00054e5f3ce7</uuid>
+  </card>
+  <card>
+    <question>le tournevis [-is]</question>
+    <answer>отвёртка</answer>
+    <comment></comment>
+    <answer_picture>screwdriver.gif</answer_picture>
+    <uuid>98727b96-82ed-49d0-a27f-f90ebccda790</uuid>
+  </card>
+  <card>
+    <question>sculpter</question>
+    <answer>ваять, лепить, высекать</answer>
+    <comment></comment>
+    <answer_picture>sculpt.gif</answer_picture>
+    <uuid>843c29ec-3562-4235-a69f-c144bf35c73f</uuid>
+  </card>
+  <card>
+    <question>l&apos;équerre</question>
+    <answer>угольник</answer>
+    <comment></comment>
+    <answer_picture>set_square.gif</answer_picture>
+    <uuid>ce85b008-18b2-4476-a42e-29b6c264c1f9</uuid>
+  </card>
+  <card>
+    <question>le décamètre à ruban</question>
+    <answer>рулетка, мерная лента</answer>
+    <comment></comment>
+    <answer_picture>tape_measure.gif</answer_picture>
+    <uuid>a0560eec-620a-447c-8de5-090523eedd9a</uuid>
+  </card>
+  <card>
+    <question>la boîte à outils</question>
+    <answer>инструментальный ящик</answer>
+    <comment></comment>
+    <answer_picture>toolbox.gif</answer_picture>
+    <uuid>c41148ae-bb1e-47de-9f8e-1b413eebbb7a</uuid>
+  </card>
+  <card>
+    <question>la brouette</question>
+    <answer>тачка</answer>
+    <comment></comment>
+    <answer_picture>wheelbarrow.gif</answer_picture>
+    <uuid>9e5d3e1c-bfbd-42d5-b8e0-b3d88d1b9e57</uuid>
+  </card>
+  <card>
+    <question>la clef de serrage</question>
+    <answer>гаечный ключ</answer>
+    <comment></comment>
+    <answer_picture>wrench.gif</answer_picture>
+    <uuid>801335e8-6d64-45b0-b3c1-6cccd3606ed6</uuid>
+  </card>
+</cards>
+</stack>

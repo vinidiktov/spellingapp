@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ac020b65-680f-4227-8be8-e7ba6954e4a6</uuid>
+  <title>Климат, Погода :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>summer</question>
+    <answer>лето</answer>
+    <comment>[ˈsʌmər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb15ee24-aa88-4cca-8ceb-f219ded4a7ef</uuid>
+    <examples>
+       <example>
+          <value>in summer</value>
+          <translation>летом</translation>
+          <comment>summer - лето</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bright</question>
+    <answer>яркий</answer>
+    <comment>[brаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>38170608-4133-41d6-98df-e59e44af8395</uuid>
+    <examples>
+       <example>
+          <value>to shine brightly</value>
+          <translation>ярко светить</translation>
+          <comment>to shine - светить, brightly - ярко, bright - яркий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>force</question>
+    <answer>сила</answer>
+    <comment>[fɔːrs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5197e8d1-a17a-4b41-accc-cf4dcbf0d178</uuid>
+    <examples>
+       <example>
+          <value>the wind force</value>
+          <translation>сила ветра</translation>
+          <comment>wind - ветер, force - сила</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>forbidden</question>
+    <answer>запрещенный</answer>
+    <comment>[fərˈbɪdn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c9a9ef24-61fd-4313-8f75-2c47be111582</uuid>
+    <examples>
+       <example>
+          <value>Swimming is forbidden.</value>
+          <translation>Плаванье запрещено.</translation>
+          <comment>swimming - плавание, to swim - плавать, forbidden - запрещенный, to forbid - запрещать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>frostbitten</question>
+    <answer>обмороженный</answer>
+    <comment>[frɔːst ˈbɪtn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>afcd8b68-0437-4474-a7c3-5fee22230ac0</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t be frostbitten!</value>
+          <translation>Не обморозься!</translation>
+          <comment>frostbitten - обмороженный, frostbite - отмороженное место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mediterranean</question>
+    <answer>средиземноморский</answer>
+    <comment>[ˌmedɪtəˈreɪniən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1337cd51-cd43-4cdb-80eb-ed7e75ebad0c</uuid>
+    <examples>
+       <example>
+          <value>a mediterranean climate</value>
+          <translation>средиземноморский климат</translation>
+          <comment>mediterranean - средиземноморский, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>autumn</question>
+    <answer>осень</answer>
+    <comment>[ˈɔːtəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>557fa6c8-b86e-4268-89e3-2484f82e44f6</uuid>
+    <examples>
+       <example>
+          <value>in autumn</value>
+          <translation>осенью</translation>
+          <comment>autumn - осень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>windy</question>
+    <answer>ветреный</answer>
+    <comment>[ˈwɪndiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42694fc0-50ab-4dbb-bb4d-bedf61188491</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s windy.</value>
+          <translation>Ветрено.</translation>
+          <comment>windy - ветреный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>frosty</question>
+    <answer>морозный</answer>
+    <comment>[ˈfrɔːstiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9cf266b-e475-4e98-bb9a-b2dd262a78bb</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s frosty.</value>
+          <translation>Морозно.</translation>
+          <comment>frosty - морозный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sea</question>
+    <answer>морской</answer>
+    <comment>[siː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d9252137-3cb3-457e-8bd2-32d9bd3b374b</uuid>
+    <examples>
+       <example>
+          <value>a sea climate</value>
+          <translation>морской климат</translation>
+          <comment>sea - морской, climate - климат</comment>
+       </example>
+       <example>
+          <value>The sea is stormy.</value>
+          <translation>Море штормит.</translation>
+          <comment>sea - море, stormy - штормовой, storm - шторм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sharp</question>
+    <answer>резкий</answer>
+    <comment>[ʃɑːrp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6e9127b7-8f41-479a-a668-12faef3e64b4</uuid>
+    <examples>
+       <example>
+          <value>a sharp continental climate</value>
+          <translation>резко континентальный климат</translation>
+          <comment>sharp - резкий, continental - континентальный, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>subtropical</question>
+    <answer>субтропический</answer>
+    <comment>[səbˈtrɑːpɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4f72808d-67ee-4fb0-9ba1-b82924e20988</uuid>
+    <examples>
+       <example>
+          <value>a subtropical climate</value>
+          <translation>субтропический климат</translation>
+          <comment>subtropical - субтропический, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thick</question>
+    <answer>густой</answer>
+    <comment>[θɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>648855c4-b8c3-40a9-a217-491539c11268</uuid>
+    <examples>
+       <example>
+          <value>to fall thick</value>
+          <translation>выпасть в большом объеме</translation>
+          <comment>to fall - падать, thick - густой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>moon</question>
+    <answer>луна</answer>
+    <comment>[muːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20389192-a87b-4db4-9d14-f73d7d8fbad9</uuid>
+    <examples>
+       <example>
+          <value>full moon</value>
+          <translation>полнолуние</translation>
+          <comment>full - полный, moon - луна</comment>
+       </example>
+       <example>
+          <value>new moon</value>
+          <translation>новолуние</translation>
+          <comment>new - новый, moon - луна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stuffy</question>
+    <answer>душный</answer>
+    <comment>[ˈstʌfiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49b89244-5870-476a-a6e0-f569513de7a5</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s stuffy.</value>
+          <translation>Душно.</translation>
+          <comment>stuffy - душный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>continental</question>
+    <answer>континентальный</answer>
+    <comment>[ˌkɑːnˈtnentl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>229fb696-b479-426d-86ae-1d143f65a181</uuid>
+    <examples>
+       <example>
+          <value>a continental climate</value>
+          <translation>континентальный климат</translation>
+          <comment>continental - континентальный, climate - климат</comment>
+       </example>
+       <example>
+          <value>a sharp continental climate</value>
+          <translation>резко континентальный климат</translation>
+          <comment>sharp - резкий, continental - континентальный, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>rainy</question>
+    <answer>дождливый</answer>
+    <comment>[ˈreɪniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c7fb3663-495d-49b4-883e-125aba9febd7</uuid>
+    <examples>
+       <example>
+          <value>a rainy day</value>
+          <translation>дождливый день</translation>
+          <comment>rainy - дождливый, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>winter</question>
+    <answer>зима</answer>
+    <comment>[ˈwɪntər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c4a6fb1-ac9f-4cc0-b4dd-80c941ac08b2</uuid>
+    <examples>
+       <example>
+          <value>a severe winter</value>
+          <translation>холодная зима</translation>
+          <comment>severe - суровый, winter - зима</comment>
+       </example>
+       <example>
+          <value>in winter</value>
+          <translation>зимой</translation>
+          <comment>winter - зима</comment>
+       </example>
+       <example>
+          <value>a soft winter</value>
+          <translation>мягкая зима</translation>
+          <comment>soft - мягкий, winter - зима</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stormy</question>
+    <answer>штормовой</answer>
+    <comment>[ˈstɔːrmiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>152afb23-903a-4b26-a260-29ab8b7c57de</uuid>
+    <examples>
+       <example>
+          <value>The sea is stormy.</value>
+          <translation>Море штормит.</translation>
+          <comment>sea - море, stormy - штормовой, storm - шторм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sun</question>
+    <answer>солнце</answer>
+    <comment>[sʌn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ca613a7-606d-436a-9eb4-d1324fda96e6</uuid>
+    <examples>
+       <example>
+          <value>to stay in the sun</value>
+          <translation>оставаться на солнце</translation>
+          <comment>to stay - оставаться, sun - солнце</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sky</question>
+    <answer>небо</answer>
+    <comment>[skаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e091321-1a5d-4843-92e8-2cb937466fd0</uuid>
+    <examples>
+       <example>
+          <value>a clear sky</value>
+          <translation>ясное небо</translation>
+          <comment>clear - ясный, sky - небо</comment>
+       </example>
+       <example>
+          <value>a cloudy sky</value>
+          <translation>пасмурное небо</translation>
+          <comment>cloudy - пасмурный, sky - небо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>forecast</question>
+    <answer>прогноз</answer>
+    <comment>[ˈfɔːrˌkæst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b8cd8cbc-a5fe-4d84-90fc-b2d893312921</uuid>
+    <examples>
+       <example>
+          <value>the weather forecast</value>
+          <translation>прогноз погоды</translation>
+          <comment>weather - погода, forecast - прогноз</comment>
+       </example>
+       <example>
+          <value>the weather forecast for today</value>
+          <translation>прогноз погоды на сегодня</translation>
+          <comment>weather - погода, forecast - прогноз, today - сегодня</comment>
+       </example>
+       <example>
+          <value>the weather forecast for tomorrow</value>
+          <translation>прогноз погоды на завтра</translation>
+          <comment>weather - погода, forecast - прогноз, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tropical</question>
+    <answer>тропический</answer>
+    <comment>[ˈtrɑːpɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>163a8092-1a0c-4395-8743-4a7341d02796</uuid>
+    <examples>
+       <example>
+          <value>a tropical climate</value>
+          <translation>тропический климат</translation>
+          <comment>tropical - тропический, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>storm</question>
+    <answer>шторм</answer>
+    <comment>[stɔːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>688a8b97-8155-482c-a2ae-fe5e6efedc39</uuid>
+    <examples>
+       <example>
+          <value>A storm has broken out.</value>
+          <translation>Разыгрался шторм.</translation>
+          <comment>storm - шторм, to break out - разыграться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lovely</question>
+    <answer>прекрасный</answer>
+    <comment>[ˈlʌvliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa76eb51-6b2f-4fbe-afd6-55117e05e4cc</uuid>
+    <examples>
+       <example>
+          <value>a lovely day</value>
+          <translation>прекрасный день</translation>
+          <comment>lovely - прекрасный, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>degree</question>
+    <answer>градус</answer>
+    <comment>[dɪˈgriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>798fbdb7-1035-40a8-9243-075592c49bb7</uuid>
+    <examples>
+       <example>
+          <value>ten degrees</value>
+          <translation>десять градусов</translation>
+          <comment>ten - десять, degree - градус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>heat</question>
+    <answer>жара</answer>
+    <comment>[hiːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d59fd223-69ed-491c-8602-342dc780521c</uuid>
+    <examples>
+       <example>
+          <value>to stand heat badly</value>
+          <translation>хорошо переносить жару</translation>
+          <comment>to stand - переносить, выдерживать, heat - жар, badly - плохо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fall</question>
+    <answer>падать</answer>
+    <comment>[fɔːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>75b991e6-fd76-4715-867d-e373ed0e874c</uuid>
+    <examples>
+       <example>
+          <value>to fall thick</value>
+          <translation>выпасть в большом объеме</translation>
+          <comment>to fall - падать, thick - густой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>foggy</question>
+    <answer>туманный</answer>
+    <comment>[ˈfɑːgiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>58aadbb7-942a-4267-b754-0747ceb1ee72</uuid>
+    <examples>
+       <example>
+          <value>a foggy day</value>
+          <translation>туманный день</translation>
+          <comment>foggy - туманный, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>temperature</question>
+    <answer>температура</answer>
+    <comment>[ˈtempərəʧər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e0392d34-a977-4e32-9111-63c6a48cdf49</uuid>
+    <examples>
+       <example>
+          <value>the average temperature</value>
+          <translation>средняя температура</translation>
+          <comment>average - средний, temperature - температура</comment>
+       </example>
+       <example>
+          <value>water temperature</value>
+          <translation>температура воды</translation>
+          <comment>water - вода, temperature - температура</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shine</question>
+    <answer>светить</answer>
+    <comment>[ʃаɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f5b5434-b8f4-4eef-bccc-30bbb1b5d246</uuid>
+    <examples>
+       <example>
+          <value>to shine brightly</value>
+          <translation>ярко светить</translation>
+          <comment>to shine - светить, brightly - ярко, bright - яркий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>climate</question>
+    <answer>климат</answer>
+    <comment>[ˈklаɪmɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>35c55c6c-f781-40ed-a9ba-a9f8f0631984</uuid>
+    <examples>
+       <example>
+          <value>a continental climate</value>
+          <translation>континентальный климат</translation>
+          <comment>continental - континентальный, climate - климат</comment>
+       </example>
+       <example>
+          <value>a mediterranean climate</value>
+          <translation>средиземноморский климат</translation>
+          <comment>mediterranean - средиземноморский, climate - климат</comment>
+       </example>
+       <example>
+          <value>a sea climate</value>
+          <translation>морской климат</translation>
+          <comment>sea - морской, climate - климат</comment>
+       </example>
+       <example>
+          <value>a sharp continental climate</value>
+          <translation>резко континентальный климат</translation>
+          <comment>sharp - резкий, continental - континентальный, climate - климат</comment>
+       </example>
+       <example>
+          <value>a subtropical climate</value>
+          <translation>субтропический климат</translation>
+          <comment>subtropical - субтропический, climate - климат</comment>
+       </example>
+       <example>
+          <value>a tropical climate</value>
+          <translation>тропический климат</translation>
+          <comment>tropical - тропический, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>average</question>
+    <answer>средний</answer>
+    <comment>[ˈævərɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dab4b9a0-30c1-4c7f-97b8-cc482fa2eaa0</uuid>
+    <examples>
+       <example>
+          <value>the average temperature</value>
+          <translation>средняя температура</translation>
+          <comment>average - средний, temperature - температура</comment>
+       </example>
+       <example>
+          <value>the average profit</value>
+          <translation>средняя прибыль</translation>
+          <comment>average - средний, profit - прибыль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cool</question>
+    <answer>прохладный</answer>
+    <comment>[kuːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31cc0bef-b342-4660-ad91-792c11ad28f5</uuid>
+    <examples>
+       <example>
+          <value>a cool day</value>
+          <translation>прохладный день</translation>
+          <comment>cool - прохладный, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cloudy</question>
+    <answer>пасмурный</answer>
+    <comment>[ˈklаʊdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3a000be-66b7-4daa-a244-10c2903a3c17</uuid>
+    <examples>
+       <example>
+          <value>a cloudy sky</value>
+          <translation>пасмурное небо</translation>
+          <comment>cloudy - пасмурный, sky - небо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>humidity</question>
+    <answer>влажность</answer>
+    <comment>[hjuːˈmɪdɪtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c183c236-b139-4b7a-a575-9686b57a4587</uuid>
+    <examples>
+       <example>
+          <value>high humidity</value>
+          <translation>высокая влажность</translation>
+          <comment>high - высокий, humidity - влажность</comment>
+       </example>
+       <example>
+          <value>low humidity</value>
+          <translation>низкая влажность</translation>
+          <comment>low - низкий, humidity - влажность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>severe</question>
+    <answer>суровый</answer>
+    <comment>[sɪˈvɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f319c774-954f-4ebd-be14-39cb89c2cfaa</uuid>
+    <examples>
+       <example>
+          <value>a severe winter</value>
+          <translation>холодная зима</translation>
+          <comment>severe - суровый, winter - зима</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>soft</question>
+    <answer>мягкий</answer>
+    <comment>[sɔːft]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c4ce7a21-117a-4787-a7a3-aeef264fd2c2</uuid>
+    <examples>
+       <example>
+          <value>a soft winter</value>
+          <translation>мягкая зима</translation>
+          <comment>soft - мягкий, winter - зима</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wind</question>
+    <answer>ветер</answer>
+    <comment>[wɪnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8a4ab98-ba4b-41d1-b38e-1e01bf61cff9</uuid>
+    <examples>
+       <example>
+          <value>strong wind</value>
+          <translation>сильный ветер</translation>
+          <comment>strong - сильный, wind - ветер</comment>
+       </example>
+       <example>
+          <value>the wind force</value>
+          <translation>сила ветра</translation>
+          <comment>wind - ветер, force - сила</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

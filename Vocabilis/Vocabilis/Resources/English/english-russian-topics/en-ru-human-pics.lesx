@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>48eb5d5d-6b67-4530-bbae-fe45bae26fe9</uuid>
+  <title>Человек</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>beggar</question>
+    <answer>попрошайка, нищий</answer>
+    <comment>[ˈbegə]</comment>
+    <answer_picture>beggar.gif</answer_picture>
+    <uuid>5bb4229e-64d0-44d6-ad3b-eb561e31a18d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>brother</question>
+    <answer>брат</answer>
+    <comment>[ˈbrʌðə]</comment>
+    <answer_picture>brother.gif</answer_picture>
+    <uuid>65997379-2f07-44d9-8e14-994d69765c43</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>chef</question>
+    <answer>шеф-повар</answer>
+    <comment>[ʃef]</comment>
+    <answer_picture>chef.gif</answer_picture>
+    <uuid>4a85aec8-c4bc-41b9-ab60-352af8500022</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>boy</question>
+    <answer>мальчик</answer>
+    <comment>[bɔɪ]</comment>
+    <answer_picture>boy.gif</answer_picture>
+    <uuid>dcdbb01b-ad3b-4631-9647-230e2cc9ba42</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cleaner</question>
+    <answer>уборщик</answer>
+    <comment>[ˈkliːnə]</comment>
+    <answer_picture>cleaner.gif</answer_picture>
+    <uuid>9202fe3d-d8eb-4b60-b118-6a3c46ca2673</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cry</question>
+    <answer>плакать</answer>
+    <comment>[krаɪ]</comment>
+    <answer_picture>cry.gif</answer_picture>
+    <uuid>fbce2095-39e5-44f4-90d7-9d36b8baa11a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>angry</question>
+    <answer>злой, сердитый</answer>
+    <comment>[ˈæŋgrɪ]</comment>
+    <answer_picture>angry.gif</answer_picture>
+    <uuid>91370eef-acb2-4104-b3f0-5408bd82c204</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bartender</question>
+    <answer>бармен</answer>
+    <comment>[ˈbɑːˌtendə]</comment>
+    <answer_picture>bartender.gif</answer_picture>
+    <uuid>28d5fbae-888f-44a2-80b7-b2a9e0d73e11</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>alone</question>
+    <answer>единственный, один, одинокий</answer>
+    <comment>[əˈləʊn]</comment>
+    <answer_picture>alone.gif</answer_picture>
+    <uuid>6aa1b2e1-abf4-4719-91e2-815644961667</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>boyfriend</question>
+    <answer>друг (девушки), её молодой человек</answer>
+    <comment>[ˈbɔɪfrend]</comment>
+    <answer_picture>boyfriend.gif</answer_picture>
+    <uuid>bfc20ad5-5d41-47f7-9fa0-dad8650b12a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>daughter</question>
+    <answer>дочь</answer>
+    <comment>[ˈdɔːtə]</comment>
+    <answer_picture>daughter.gif</answer_picture>
+    <uuid>9395c80e-f3a6-40a6-b7ae-0364d25ba418</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dead</question>
+    <answer>мёртвый</answer>
+    <comment>[ded]</comment>
+    <answer_picture>dead.gif</answer_picture>
+    <uuid>fde430bb-f066-4b1b-9738-e5be3ecba815</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>doctor</question>
+    <answer>доктор, врач</answer>
+    <comment>[ˈdɒktə]</comment>
+    <answer_picture>doctor.gif</answer_picture>
+    <uuid>92d22376-9a49-4f74-a193-4f5a302006c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>farmer</question>
+    <answer>фермер</answer>
+    <comment>[ˈfɑːmə]</comment>
+    <answer_picture>farmer.gif</answer_picture>
+    <uuid>b8ab65e9-7ab5-4d3e-acf1-2122632d2263</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fat</question>
+    <answer>толстый</answer>
+    <comment>[fæt]</comment>
+    <answer_picture>fat.gif</answer_picture>
+    <uuid>db37dfa5-57ce-4d45-8d9b-235ce530da47</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>father</question>
+    <answer>отец</answer>
+    <comment>[ˈfɑːðə]</comment>
+    <answer_picture>father.gif</answer_picture>
+    <uuid>e399e77e-cbc1-4ee1-8546-801e85fac9d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>firefighter</question>
+    <answer>пожарный</answer>
+    <comment>[ˈfаɪəˌfаɪtə]</comment>
+    <answer_picture>firefighter.gif</answer_picture>
+    <uuid>a7592308-2022-4538-81b4-e8bdb6bf1dcf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>friend</question>
+    <answer>друг</answer>
+    <comment>[frend]</comment>
+    <answer_picture>friend.gif</answer_picture>
+    <uuid>f39acb3e-3152-4da6-95d7-c52a4bea36c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>girl</question>
+    <answer>девочка</answer>
+    <comment>[gɜːl]</comment>
+    <answer_picture>girl.gif</answer_picture>
+    <uuid>11d633a3-237b-44b3-bb57-8b5768075e22</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>happy</question>
+    <answer>счастливый</answer>
+    <comment>[ˈhæpɪ]</comment>
+    <answer_picture>happy.gif</answer_picture>
+    <uuid>642e6013-4c4a-466c-b111-623bfc838b5a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hate</question>
+    <answer>ненавидеть</answer>
+    <comment>[heɪt]</comment>
+    <answer_picture>hate.gif</answer_picture>
+    <uuid>bd9e1e64-d339-4722-ba65-75cbb100d420</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>healthy</question>
+    <answer>здоровый</answer>
+    <comment>[ˈhelθɪ]</comment>
+    <answer_picture>healthy.gif</answer_picture>
+    <uuid>d308e0f1-2625-4f0c-8bcd-f0c91cdf20be</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>idea</question>
+    <answer>идея, мысль</answer>
+    <comment>[аɪˈdɪə]</comment>
+    <answer_picture>idea.gif</answer_picture>
+    <uuid>e4167db6-4360-4e3f-b358-e2ef134330d2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>king</question>
+    <answer>король</answer>
+    <comment>[kɪŋ]</comment>
+    <answer_picture>king.gif</answer_picture>
+    <uuid>09ac4c11-14af-448a-b40b-862a98094ffd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>labourer</question>
+    <answer>чернорабочий</answer>
+    <comment>[ˈleɪbərə]</comment>
+    <answer_picture>labourer.gif</answer_picture>
+    <uuid>7a01ab66-e8a9-46f2-a009-b555ed1bae19</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>laugh</question>
+    <answer>смеяться</answer>
+    <comment>[lɑːf]</comment>
+    <answer_picture>laugh.gif</answer_picture>
+    <uuid>1df52937-d8d1-44c7-82f4-4a4de2de294a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>like</question>
+    <answer>нравиться</answer>
+    <comment>[lаɪk]</comment>
+    <answer_picture>like.gif</answer_picture>
+    <uuid>4675ace3-2ad5-4764-9832-a3192983d88f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>love</question>
+    <answer>любить</answer>
+    <comment>[lʌv]</comment>
+    <answer_picture>love.gif</answer_picture>
+    <uuid>4f15f893-e00e-4f85-9574-18c922e95229</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mother</question>
+    <answer>мать</answer>
+    <comment>[ˈmʌðə]</comment>
+    <answer_picture>mother.gif</answer_picture>
+    <uuid>ba6782cc-a21d-4367-94f2-59b8ba7cfb95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>nurse</question>
+    <answer>медсестра</answer>
+    <comment>[nɜːs]</comment>
+    <answer_picture>nurse.gif</answer_picture>
+    <uuid>b3e0b046-f483-4351-a01d-f32ca9739e9f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>office worker</question>
+    <answer>служащий (S. employee)</answer>
+    <comment>[ˈɒfɪs ˈwɜːkə]</comment>
+    <answer_picture>office_worker.gif</answer_picture>
+    <uuid>545af10d-17f7-462e-a64c-1374dc8c65af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>old</question>
+    <answer>старый</answer>
+    <comment>[əʊld]</comment>
+    <answer_picture>old.gif</answer_picture>
+    <uuid>f27207a1-1183-4c77-9842-b27062ecf885</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>old man</question>
+    <answer>старик</answer>
+    <comment>[əʊld mæn]</comment>
+    <answer_picture>old_man.gif</answer_picture>
+    <uuid>a8b6a56a-5287-46ce-9e9e-d056f551f631</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>old woman</question>
+    <answer>старуха</answer>
+    <comment>[əʊld ˈwʊmən]</comment>
+    <answer_picture>old_woman.gif</answer_picture>
+    <uuid>37800483-2893-4ea6-a76a-3f04a3a5531a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>photographer</question>
+    <answer>фотограф</answer>
+    <comment>[fəˈtɒgrəfə]</comment>
+    <answer_picture>photographer.gif</answer_picture>
+    <uuid>8c2e10b9-d027-4785-a577-b3eb51c1bb28</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pilot</question>
+    <answer>лётчик</answer>
+    <comment>[ˈpаɪlət]</comment>
+    <answer_picture>pilot.gif</answer_picture>
+    <uuid>7596cefc-cdfc-472b-ae57-250ccd749360</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>plumber</question>
+    <answer>водопроводчик</answer>
+    <comment>[ˈplʌmə]</comment>
+    <answer_picture>plumber.gif</answer_picture>
+    <uuid>8e9bd7a1-2a76-4211-8cea-2e9a35496275</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>police officer</question>
+    <answer>офицер полиции</answer>
+    <comment>[pəˈliːs ˈɒfɪsə]</comment>
+    <answer_picture>police_officer.gif</answer_picture>
+    <uuid>f954aa25-8fc1-4353-9879-c7e1771a35bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>politician</question>
+    <answer>политик</answer>
+    <comment>[ˌpɒlɪˈtɪʃən]</comment>
+    <answer_picture>politician.gif</answer_picture>
+    <uuid>89fde0c8-6903-4fbe-bd5f-074e477d2352</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>prisoner</question>
+    <answer>заключённый, арестант</answer>
+    <comment>[ˈprɪznə]</comment>
+    <answer_picture>prisoner.gif</answer_picture>
+    <uuid>d6694a88-b5a2-437f-bdf8-e5cf137014d0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>programmer</question>
+    <answer>программист</answer>
+    <comment>[ˈprəʊgræmə]</comment>
+    <answer_picture>programmer.gif</answer_picture>
+    <uuid>d3d79677-fe55-4773-8cff-57ad7e9c9fd6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sad</question>
+    <answer>грустный</answer>
+    <comment>[sæd]</comment>
+    <answer_picture>sad.gif</answer_picture>
+    <uuid>5d632d4a-8a7a-4515-8ee1-d60233783935</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sailor</question>
+    <answer>моряк</answer>
+    <comment>[ˈseɪlə]</comment>
+    <answer_picture>sailor.gif</answer_picture>
+    <uuid>5360ce3b-ca59-4bfa-8770-e6a78673308f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>serious</question>
+    <answer>серьёзный</answer>
+    <comment>[ˈsɪərɪəs]</comment>
+    <answer_picture>serious.gif</answer_picture>
+    <uuid>ce58267b-0e2a-44b2-a8bb-55063e01966d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shopkeeper</question>
+    <answer>владелец магазина</answer>
+    <comment>[ˈʃɒpˌkiːpə]</comment>
+    <answer_picture>shopkeeper.gif</answer_picture>
+    <uuid>3ed93344-ca9b-4585-bac7-27629d80b8b2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>short</question>
+    <answer>короткий, низкорослый</answer>
+    <comment>[ʃɔːt]</comment>
+    <answer_picture>short.gif</answer_picture>
+    <uuid>e19fc10a-f8e1-414e-b73d-d6242428e7a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sick</question>
+    <answer>больной</answer>
+    <comment>[sɪk]</comment>
+    <answer_picture>sick.gif</answer_picture>
+    <uuid>32669a92-e086-48b6-b4f6-e061641d135d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>signature</question>
+    <answer>подпись</answer>
+    <comment>[ˈsɪgnɪʧə]</comment>
+    <answer_picture>signature.gif</answer_picture>
+    <uuid>16fcda22-76ec-486d-a256-c8cb69be437a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sister</question>
+    <answer>сестра</answer>
+    <comment>[ˈsɪstə]</comment>
+    <answer_picture>sister.gif</answer_picture>
+    <uuid>1950f893-6e7a-4937-8e23-7582d6616763</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sit down</question>
+    <answer>садиться</answer>
+    <comment>[sɪt dаʊn]</comment>
+    <answer_picture>sit_down.gif</answer_picture>
+    <uuid>dca1ceb3-ee99-44d9-bec0-23d2402fc9f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>skull</question>
+    <answer>череп</answer>
+    <comment>[skʌl]</comment>
+    <answer_picture>skull.gif</answer_picture>
+    <uuid>23988866-6a09-4d3d-996a-4615ad4cf9bf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>slave</question>
+    <answer>раб</answer>
+    <comment>[sleɪv]</comment>
+    <answer_picture>slave.gif</answer_picture>
+    <uuid>0ae5cefe-86de-4ce3-b17f-cac64f0c2d21</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>smoke</question>
+    <answer>курить</answer>
+    <comment>[sməʊk]</comment>
+    <answer_picture>smoke.gif</answer_picture>
+    <uuid>b0376eb5-09a2-44ae-85e5-e3c6f2d5b44f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>soldier</question>
+    <answer>солдат</answer>
+    <comment>[ˈsəʊlʤə]</comment>
+    <answer_picture>soldier.gif</answer_picture>
+    <uuid>eed1818c-cf15-4fe3-9fff-abaad2f2ed28</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>son</question>
+    <answer>сын</answer>
+    <comment>[sʌn]</comment>
+    <answer_picture>son.gif</answer_picture>
+    <uuid>52fcde8d-6942-4600-8e2c-e0edb741c122</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>stand</question>
+    <answer>стоять, вставать</answer>
+    <comment>[stænd]</comment>
+    <answer_picture>stand.gif</answer_picture>
+    <uuid>1c335416-d9bd-46ba-8c37-bf830c4b0764</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tailor</question>
+    <answer>портной</answer>
+    <comment>[ˈteɪlə]</comment>
+    <answer_picture>tailor.gif</answer_picture>
+    <uuid>a684e2a2-337f-41b7-8d64-d2775716fdb0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tall</question>
+    <answer>высокий (S. high)</answer>
+    <comment>[tɔːl]</comment>
+    <answer_picture>tall.gif</answer_picture>
+    <uuid>9117888b-eaaf-46f6-a8c4-927b231914b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>thin</question>
+    <answer>тонкий</answer>
+    <comment>[θɪn]</comment>
+    <answer_picture>thin.gif</answer_picture>
+    <uuid>85f7e271-72a9-4b09-be26-816135c6a629</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tired</question>
+    <answer>уставший</answer>
+    <comment>[ˈtаɪəd]</comment>
+    <answer_picture>tired.gif</answer_picture>
+    <uuid>52adde2f-6a95-42c7-9d8f-7a49426f82e4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>waiter</question>
+    <answer>официант</answer>
+    <comment>[ˈweɪtə]</comment>
+    <answer_picture>waiter.gif</answer_picture>
+    <uuid>b7ce14d0-e937-4542-a2e7-0db6e8216896</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>walk</question>
+    <answer>гулять</answer>
+    <comment>[wɔːk]</comment>
+    <answer_picture>walk.gif</answer_picture>
+    <uuid>d1bf4531-cba9-47e7-b2e1-3f895ad15fdf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>welder</question>
+    <answer>сварщик</answer>
+    <comment>[ˈweldə]</comment>
+    <answer_picture>welder.gif</answer_picture>
+    <uuid>f3ccba47-e045-4b00-bd19-bf9a9afb0735</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yawn</question>
+    <answer>зевать</answer>
+    <comment>[jɔːn]</comment>
+    <answer_picture>yawn.gif</answer_picture>
+    <uuid>e5cf0ca3-d065-4d4a-b555-8dbaf1c5beba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>young</question>
+    <answer>молодой</answer>
+    <comment>[jʌŋ]</comment>
+    <answer_picture>young.gif</answer_picture>
+    <uuid>3d296162-5170-4181-9502-bb5688a278a6</uuid>
+  </card>
+</cards>
+</stack>

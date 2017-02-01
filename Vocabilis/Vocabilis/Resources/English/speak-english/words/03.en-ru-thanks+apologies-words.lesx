@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d06d4b28-323a-4c14-938b-cf8791f2d575</uuid>
+  <title>Благодарность, Извинение :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>this</question>
+    <answer>этот, это</answer>
+    <comment>[ðɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ecc2e9b4-8905-4576-9caf-69c3b087a9df</uuid>
+    <examples>
+       <example>
+          <value>This is my sister.</value>
+          <translation>Это моя сестра.</translation>
+          <comment>this - это, my - мой, sister - сестра</comment>
+       </example>
+       <example>
+          <value>this afternoon</value>
+          <translation>сегодня после обеда</translation>
+          <comment>this - этот, эта, afternoon - послеобеденное время</comment>
+       </example>
+       <example>
+          <value>this way</value>
+          <translation>этот путь</translation>
+          <comment>this - этот, эта, way - путь, дорога</comment>
+       </example>
+       <example>
+          <value>to spend this evening</value>
+          <translation>провести этот вечер</translation>
+          <comment>to spend - проводить (время), this - этот, эта, evening - вечер</comment>
+       </example>
+       <example>
+          <value>to look up this word</value>
+          <translation>посмотреть это слово (в словаре)</translation>
+          <comment>to look up - посмотреть (в словаре), this - этот, эта, word - слово</comment>
+       </example>
+       <example>
+          <value>to translate this</value>
+          <translation>перевести это</translation>
+          <comment>to translate - переводить, this - это</comment>
+       </example>
+       <example>
+          <value>for this year</value>
+          <translation>на этот год</translation>
+          <comment>this - этот, тот, year - год</comment>
+       </example>
+       <example>
+          <value>this country</value>
+          <translation>эта страна</translation>
+          <comment>this - этот, эта, country - страна</comment>
+       </example>
+       <example>
+          <value>to break this into smaller notes</value>
+          <translation>разменять более мелкими купюрами</translation>
+          <comment>to break - сломать, разушить, разбить, this - этот, smaller - более мелкий, small - маленький, note - банкнота</comment>
+       </example>
+       <example>
+          <value>to deposit this in my account</value>
+          <translation>внести это на мой счет</translation>
+          <comment>to deposit - внести (на счет), this - этот, это, my - мой, моя, account - счет</comment>
+       </example>
+       <example>
+          <value>this evening</value>
+          <translation>сегодня вечером</translation>
+          <comment>this - этот, эта, это, evening - вечер</comment>
+       </example>
+       <example>
+          <value>to take this bag</value>
+          <translation>отнести (взять) эту сумку</translation>
+          <comment>to take - брать, this - этот, эта, bag - сумка</comment>
+       </example>
+       <example>
+          <value>to take this suitcase</value>
+          <translation>отнести (взять) этот чемодан</translation>
+          <comment>to take - брать, this - этот, эта, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to wash this shirt</value>
+          <translation>выстирать эту рубашку</translation>
+          <comment>to wash - стирать, shirt - рубашка</comment>
+       </example>
+       <example>
+          <value>to press this shirt</value>
+          <translation>погладить эту рубашку</translation>
+          <comment>to press - гладить, shirt - рубашка</comment>
+       </example>
+       <example>
+          <value>to take this orange juice</value>
+          <translation>взять этот апельсиновый сок</translation>
+          <comment>to take - брать, orange - апельсин, juice - сок</comment>
+       </example>
+       <example>
+          <value>the gate for this flight</value>
+          <translation>выход для посадки на этот рейс</translation>
+          <comment>gate - ворота, выход, flight - рейс</comment>
+       </example>
+       <example>
+          <value>at this station</value>
+          <translation>на этой станции</translation>
+          <comment>this - этот, эта, station - станция</comment>
+       </example>
+       <example>
+          <value>a stamp for this letter</value>
+          <translation>марка на это письмо</translation>
+          <comment>stamp - марка, this - этот, эта, letter - письмо</comment>
+       </example>
+       <example>
+          <value>a stamp for this postcard</value>
+          <translation>марка на эту открытку</translation>
+          <comment>stamp - марка, this - этот, эта, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>this letter</value>
+          <translation>это письмо</translation>
+          <comment>this - этот, эта, letter - письмо</comment>
+       </example>
+       <example>
+          <value>this postcard</value>
+          <translation>эта открытка</translation>
+          <comment>this - этот, эта, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>to mail this</value>
+          <translation>отправить это (по почте)</translation>
+          <comment>to mail - отправить (по почте), this - этот, эта</comment>
+       </example>
+       <example>
+          <value>to pay this bill</value>
+          <translation>оплатить этот счет</translation>
+          <comment>to pay - платить, this - этот, эта, bill - счет</comment>
+       </example>
+       <example>
+          <value>no reply at this number</value>
+          <translation>нет ответа по этому номеру</translation>
+          <comment>no - никакой, reply - ответ, this - этот, эта, number - номер</comment>
+       </example>
+       <example>
+          <value>What is this stop called?</value>
+          <translation>Как называется эта остановка?</translation>
+          <comment>what - зд. как, to call - называть, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to take to this address</value>
+          <translation>отвезти по этому адресу</translation>
+          <comment>to take (to) - отвезти (в), address - адрес</comment>
+       </example>
+       <example>
+          <value>the performer of this part</value>
+          <translation>исполнитель этой роли</translation>
+          <comment>performer - исполнитель, this - этот, эта, part - роль</comment>
+       </example>
+       <example>
+          <value>this actor&apos;s name</value>
+          <translation>имя этого актера</translation>
+          <comment>this - этот, эта, actor - актер, name - имя</comment>
+       </example>
+       <example>
+          <value>this singer&apos;s name</value>
+          <translation>имя этого певца</translation>
+          <comment>this - этот, эта, singer - певец, name - имя</comment>
+       </example>
+       <example>
+          <value>this year</value>
+          <translation>в этом году</translation>
+          <comment>this - этот, эта, year - год</comment>
+       </example>
+       <example>
+          <value>tickets for this film</value>
+          <translation>билеты на этот фильм</translation>
+          <comment>ticket - билет, this - этот, эта, film - фильм</comment>
+       </example>
+       <example>
+          <value>to think of this film</value>
+          <translation>думать об этом фильме</translation>
+          <comment>to think - думать, this - этот, film - фильм</comment>
+       </example>
+       <example>
+          <value>two tickets for this show</value>
+          <translation>два билета на этот сеанс</translation>
+          <comment>two - два, ticket - билет, this - этот, эта, show - показ, сеанс</comment>
+       </example>
+       <example>
+          <value>a tester of this perfume</value>
+          <translation>тестер этих духов</translation>
+          <comment>tester - тестер, this - этот, эта, perfume - духи</comment>
+       </example>
+       <example>
+          <value>in this store</value>
+          <translation>в этом магазине</translation>
+          <comment>this - этот, эта, store - магазин</comment>
+       </example>
+       <example>
+          <value>This is not my size.</value>
+          <translation>Это не мой размер.</translation>
+          <comment>This - это, my - мой, моя, size - размер</comment>
+       </example>
+       <example>
+          <value>perfumes of this firm</value>
+          <translation>духи этой фирмы</translation>
+          <comment>perfume - духи, firm - фирма</comment>
+       </example>
+       <example>
+          <value>to show this camera</value>
+          <translation>показать этот фотоаппарат</translation>
+          <comment>to show - показать, this - этот, эта, camera - фотоаппарат</comment>
+       </example>
+       <example>
+          <value>to use this credit card for the payment</value>
+          <translation>использовать эту кредитную карту для оплаты</translation>
+          <comment>to use - использовать, this - этот, эта, credit - кредитный, card - карта, payment - платеж</comment>
+       </example>
+       <example>
+          <value>this piece</value>
+          <translation>этот кусок</translation>
+          <comment>this - этот, эта, piece - кусок</comment>
+       </example>
+       <example>
+          <value>to fill this prescription</value>
+          <translation>сделать лекарство по этому рецепту</translation>
+          <comment>to fill - исполнять, this - этот, эта, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>to take this medicine</value>
+          <translation>принимать это лекарство</translation>
+          <comment>to take - принимать, брать, this - этот, эта, medicine - лекарство</comment>
+       </example>
+       <example>
+          <value>this enterprise</value>
+          <translation>это предприятие</translation>
+          <comment>this - этот, эта, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>terribly</question>
+    <answer>ужасно</answer>
+    <comment>[ˈterəbli]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2404bc37-0edd-45d8-9db3-ae99ce12ccd7</uuid>
+    <examples>
+       <example>
+          <value>terribly sorry</value>
+          <translation>очень жаль</translation>
+          <comment>terribly - ужасно, sorry - огорченный, полный сожаления</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>warm</question>
+    <answer>теплый</answer>
+    <comment>[wɔːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>252722cf-fdfb-4152-8316-345473c15a57</uuid>
+    <examples>
+       <example>
+          <value>warm welcome</value>
+          <translation>теплый прием</translation>
+          <comment>warm - теплый, welcome - приветствие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thank</question>
+    <answer>благодарить</answer>
+    <comment>[θæŋk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c016858-caca-423a-9ef3-6d76be826b56</uuid>
+    <examples>
+       <example>
+          <value>Thanks for your help.</value>
+          <translation>Спасибо за (твою) помощь.</translation>
+          <comment>to thank - благодарить, your - твой, ваш, help - помощь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pardon</question>
+    <answer>прощение</answer>
+    <comment>[ˈpɑːrdn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2beec9f1-e210-4ba6-966e-154c5583a71f</uuid>
+    <examples>
+       <example>
+          <value>to beg your pardon</value>
+          <translation>просить у тебя прощения</translation>
+          <comment>to beg - просить, your - твой, ваш, pardon - прощение, извинение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>beg</question>
+    <answer>просить</answer>
+    <comment>[beg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>22df182d-7297-4a82-99d0-4f5c7354576c</uuid>
+    <examples>
+       <example>
+          <value>to beg your pardon</value>
+          <translation>просить у тебя прощения</translation>
+          <comment>to beg - просить, your - твой, ваш, pardon - прощение, извинение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>oblige</question>
+    <answer>обязывать</answer>
+    <comment>[əˈblаɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4379c06a-ab1b-4c09-b829-769983edda69</uuid>
+    <examples>
+       <example>
+          <value>much obliged</value>
+          <translation>очень обязан</translation>
+          <comment>much - много, obliged - обязанный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>angry</question>
+    <answer>сердитый</answer>
+    <comment>[ˈæŋgriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c9c0c71-7ab9-4294-9b53-17b174b9f324</uuid>
+    <examples>
+       <example>
+          <value>to be angry at you</value>
+          <translation>сердиться на тебя</translation>
+          <comment>angry - сердитый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>welcome</question>
+    <answer>приветствие</answer>
+    <comment>[ˈwelkəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>61736a6d-1a07-4645-8679-05e28f7c07c0</uuid>
+    <examples>
+       <example>
+          <value>warm welcome</value>
+          <translation>теплый прием</translation>
+          <comment>warm - теплый, welcome - приветствие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>disturb</question>
+    <answer>мешать</answer>
+    <comment>[dɪˈstɜːrb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1083ca74-e8e5-409f-992b-9afecefbe59a</uuid>
+    <examples>
+       <example>
+          <value>to apologize for disturbing</value>
+          <translation>извиняться за беспокойство</translation>
+          <comment>to apologize - извиняться, to disturb - мешать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>keep</question>
+    <answer>держать, сохранять</answer>
+    <comment>[kiːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>47801d60-c684-4c56-a988-8cd96cbd6cf3</uuid>
+    <examples>
+       <example>
+          <value>to keep you waiting</value>
+          <translation>заставлять тебя ждать</translation>
+          <comment>to keep - держать, to wait - ждать</comment>
+       </example>
+       <example>
+          <value>to keep somebody company</value>
+          <translation>составить кому-л. компанию</translation>
+          <comment>to keep - поддержать, хранить, somebody - кто-либо, company - компания</comment>
+       </example>
+       <example>
+          <value>to keep the change</value>
+          <translation>оставить сдачу себе</translation>
+          <comment>to keep - сохранять, change - сдача</comment>
+       </example>
+       <example>
+          <value>to keep going</value>
+          <translation>продолжать ехать</translation>
+          <comment>to keep - сохранять, going - движущийся, движение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>offend</question>
+    <answer>обижать</answer>
+    <comment>[əˈfend]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4543cd06-8bb3-4e8a-8b7c-37924e8bec01</uuid>
+    <examples>
+       <example>
+          <value>to offend you</value>
+          <translation>обидеть тебя</translation>
+          <comment>to offend - обижать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>waiting</question>
+    <answer>ожидающий</answer>
+    <comment>[ˈweɪtɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>992281c5-a2ee-49b0-b342-642b2209c50c</uuid>
+    <examples>
+       <example>
+          <value>to keep you waiting</value>
+          <translation>заставлять тебя ждать</translation>
+          <comment>to keep - держать, to wait - ждать</comment>
+       </example>
+       <example>
+          <value>the waiting room</value>
+          <translation>зал ожидания</translation>
+          <comment>to wait - ждать, ожидать, waiting - ожидание, room - комната, помещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>much</question>
+    <answer>много</answer>
+    <comment>[mʌʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0af9402e-5993-448d-b12b-d33729901a5c</uuid>
+    <examples>
+       <example>
+          <value>so much</value>
+          <translation>так много</translation>
+          <comment>so - так, much - много</comment>
+       </example>
+       <example>
+          <value>much obliged</value>
+          <translation>очень обязан</translation>
+          <comment>much - много, obliged - обязанный</comment>
+       </example>
+       <example>
+          <value>very much</value>
+          <translation>очень</translation>
+          <comment>very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>much sense</value>
+          <translation>большой смысл</translation>
+          <comment>much - много, sense - смысл</comment>
+       </example>
+       <example>
+          <value>to see much sense in it</value>
+          <translation>видеть в этом смысл</translation>
+          <comment>to see - видеть, much - много, sense - смысл</comment>
+       </example>
+       <example>
+          <value>how much</value>
+          <translation>сколько (с неисчисляемыми сущ-ми)</translation>
+          <comment>how - как, much - много</comment>
+       </example>
+       <example>
+          <value>too much</value>
+          <translation>слишком много</translation>
+          <comment>too - слишком, much - много</comment>
+       </example>
+       <example>
+          <value>to like the play very much</value>
+          <translation>очень понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>it takes much time</value>
+          <translation>это занимает много времени</translation>
+          <comment>to take - занимать, брать, much - много, time - время</comment>
+       </example>
+       <example>
+          <value>much time</value>
+          <translation>много времени</translation>
+          <comment>much - много, time - время</comment>
+       </example>
+       <example>
+          <value>much better</value>
+          <translation>гораздо лучше</translation>
+          <comment>much - гораздо, много, better - лучше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>grateful</question>
+    <answer>благодарный</answer>
+    <comment>[ˈgreɪtfəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f80650f-a1df-4e8d-bdcd-1ffc122e6255</uuid>
+    <examples>
+       <example>
+          <value>very grateful</value>
+          <translation>очень благодарен</translation>
+          <comment>very - очень, grateful - благодарный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>apologize</question>
+    <answer>извиняться</answer>
+    <comment>[əˈpɑːləˌʤаɪz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7262ce10-39f4-42cd-8fdf-b12660e30a67</uuid>
+    <examples>
+       <example>
+          <value>to apologize for disturbing</value>
+          <translation>извиняться за беспокойство</translation>
+          <comment>to apologize - извиняться, to disturb - мешать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>awful</question>
+    <answer>ужасный</answer>
+    <comment>[ˈɔːfəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34981961-c4cf-4e73-925e-8875930d98b6</uuid>
+    <examples>
+       <example>
+          <value>awfully sorry</value>
+          <translation>очень жаль</translation>
+          <comment>awfully - ужасно, sorry - огорченный, полный сожаления</comment>
+       </example>
+       <example>
+          <value>awful weather</value>
+          <translation>ужасная погода</translation>
+          <comment>awful - ужасный, weather - погода</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sorry</question>
+    <answer>полный сожаления</answer>
+    <comment>[ˈsɑːriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dfaad8fc-bdc3-4ab5-b0f8-53a0000d14e7</uuid>
+    <examples>
+       <example>
+          <value>awfully sorry</value>
+          <translation>очень жаль</translation>
+          <comment>awfully - ужасно, sorry - огорченный, полный сожаления</comment>
+       </example>
+       <example>
+          <value>terribly sorry</value>
+          <translation>очень жаль</translation>
+          <comment>terribly - ужасно, sorry - огорченный, полный сожаления</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>kind</question>
+    <answer>любезный</answer>
+    <comment>[kаɪnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>32e7b311-0e10-4729-af5e-7c6b50c1146a</uuid>
+    <examples>
+       <example>
+          <value>very kind</value>
+          <translation>очень любезно</translation>
+          <comment>very - очень, kind - любезный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>worry</question>
+    <answer>беспокоиться</answer>
+    <comment>[ˈwɜːriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff9b8895-08b0-43d0-917e-1494c9b71204</uuid>
+    <examples>
+       <example>
+          <value>to worry about that</value>
+          <translation>волноваться об этом</translation>
+          <comment>to worry - беспокоиться, about - о (чем-л.), that - то</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

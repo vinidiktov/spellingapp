@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>49a9e1fd-5b34-4559-afaa-82bb9f518b5f</uuid>
+  <title>Машина :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>wheel</question>
+    <answer>колесо</answer>
+    <comment>[hwiːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>92f5331c-9ece-450a-9693-dea536c62e31</uuid>
+    <examples>
+       <example>
+          <value>a steering wheel</value>
+          <translation>руль</translation>
+          <comment>steering - управляющий, управление, to steer - правиль рулем, управлять, wheel - колесо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>own</question>
+    <answer>иметь, владеть</answer>
+    <comment>[oʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8bc04ae8-eaa2-4395-9e11-70050a307714</uuid>
+    <examples>
+       <example>
+          <value>to own a car</value>
+          <translation>иметь машину</translation>
+          <comment>to own - владеть, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Boston</question>
+    <answer>Бостон</answer>
+    <comment>[ˈbɔːstən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aa294415-a1f7-4ad3-9f2f-45d0e3cd606d</uuid>
+    <examples>
+       <example>
+          <value>to get to Boston</value>
+          <translation>доехать до Бостона</translation>
+          <comment>to get (to) - добираться (до), Boston - Бостон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>address</question>
+    <answer>адрес</answer>
+    <comment>[əˈdres]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6efdb695-64ab-4a32-8994-d477d4cd7e69</uuid>
+    <examples>
+       <example>
+          <value>my address</value>
+          <translation>мой адрес</translation>
+          <comment>my - мой, моя, address - адрес</comment>
+       </example>
+       <example>
+          <value>to write the address</value>
+          <translation>написать адрес</translation>
+          <comment>to write - писать, address - адрес</comment>
+       </example>
+       <example>
+          <value>to take to this address</value>
+          <translation>отвезти по этому адресу</translation>
+          <comment>to take (to) - отвезти (в), address - адрес</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dead</question>
+    <answer>мертвый</answer>
+    <comment>[ded]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ef211acb-13e8-4767-9bef-e8c10632d4e9</uuid>
+    <examples>
+       <example>
+          <value>a dead end</value>
+          <translation>тупик</translation>
+          <comment>dead - мертвый, end - конец</comment>
+       </example>
+       <example>
+          <value>a dead accumulator</value>
+          <translation>севший аккумулятор</translation>
+          <comment>dead - мертвый, accumulator - аккумулятор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tow</question>
+    <answer>буксир</answer>
+    <comment>[toʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff18590a-1439-4500-a173-336ac31b3792</uuid>
+    <examples>
+       <example>
+          <value>to need a tow truck</value>
+          <translation>нуждаться в эвакуаторе</translation>
+          <comment>need - нуждаться, tow - буксир, truck - грузовик</comment>
+       </example>
+       <example>
+          <value>to take on a tow</value>
+          <translation>взять на буксир</translation>
+          <comment>to take - брать, взять, tow - буксир</comment>
+       </example>
+       <example>
+          <value>a tow truck</value>
+          <translation>эвакуатор</translation>
+          <comment>tow - буксир, truck - грузовик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cost</question>
+    <answer>стоимость</answer>
+    <comment>[kɔːst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>398a6e20-8a33-4a3a-b283-63e7a53ab091</uuid>
+    <examples>
+       <example>
+          <value>the cost of repairs</value>
+          <translation>стоимость ремонта</translation>
+          <comment>cost - стоимость, repairs - ремонт</comment>
+       </example>
+       <example>
+          <value>to estimate the cost</value>
+          <translation>оценить стоимость</translation>
+          <comment>to estimate - оценивать, cost - стоимость</comment>
+       </example>
+       <example>
+          <value>the production costs</value>
+          <translation>себестоимость продукции</translation>
+          <comment>production - производство, costs - издержки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>parking</question>
+    <answer>парковка</answer>
+    <comment>[ˈpærkɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6772f9f6-af7b-46a2-9be1-a8fbafecf4b4</uuid>
+    <examples>
+       <example>
+          <value>free-of-charge parking</value>
+          <translation>бесплатная парковка</translation>
+          <comment>free-of-charge - бесплатный, free - свободный, charge - цена, parking - парковка</comment>
+       </example>
+       <example>
+          <value>paid parking</value>
+          <translation>платная парковка</translation>
+          <comment>paid - платный, parking - парковка</comment>
+       </example>
+       <example>
+          <value>a parking meter</value>
+          <translation>автомат для оплаты парковки</translation>
+          <comment>parking - парковка, to park - ставить (машину), meter - счетчик</comment>
+       </example>
+       <example>
+          <value>the nearest parking</value>
+          <translation>ближайшая парковка</translation>
+          <comment>the nearest - ближайший, near - рядом с, parking - парковка, to park - ставить (машину)</comment>
+       </example>
+       <example>
+          <value>underground parking</value>
+          <translation>подземная парковка</translation>
+          <comment>underground - подземный, parking - парковка, to park - ставить (машину)</comment>
+       </example>
+       <example>
+          <value>a fine for wrong parking</value>
+          <translation>штраф за неправильную парковку</translation>
+          <comment>fine -штраф, wrong - неправильный, parking - парковка, to park - ставить (машину)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ready</question>
+    <answer>готовый</answer>
+    <comment>[ˈrediː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>295dc2e6-e5f3-4053-b7e0-2b73d9304000</uuid>
+    <examples>
+       <example>
+          <value>Is everything ready?</value>
+          <translation>Все готово?</translation>
+          <comment>everything - всё, ready - готовый</comment>
+       </example>
+       <example>
+          <value>to be ready tomorrow</value>
+          <translation>быть готовым завтра</translation>
+          <comment>ready - готовый, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>It&apos;s ready.</value>
+          <translation>Оно готово.</translation>
+          <comment>ready - готовый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>insurance</question>
+    <answer>страховка</answer>
+    <comment>[ɪnˈʃʊrəns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ecbf73a-74d3-4c46-832c-ac7785870715</uuid>
+    <examples>
+       <example>
+          <value>an insurance company</value>
+          <translation>страховая компания</translation>
+          <comment>insurance - страховка, company - компания</comment>
+       </example>
+       <example>
+          <value>an insurance policy</value>
+          <translation>страховка</translation>
+          <comment>insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>to include insurance</value>
+          <translation>включать стоимость страховки</translation>
+          <comment>to include - включать, insurance - страховка</comment>
+       </example>
+       <example>
+          <value>to buy an insurance policy</value>
+          <translation>оформить страховку</translation>
+          <comment>to buy - купить, insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>to have medical insurance</value>
+          <translation>иметь медстраховку</translation>
+          <comment>to have - иметь, medical - медицинский, insurance - страховка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>witness</question>
+    <answer>свидетель</answer>
+    <comment>[ˈwɪtnɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cff51e66-6187-4f7b-ad59-4049319a22c6</uuid>
+    <examples>
+       <example>
+          <value>to find a witness</value>
+          <translation>найти свидетеля</translation>
+          <comment>to find - находить, witness - свидетель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fill</question>
+    <answer>наполнять</answer>
+    <comment>[fɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>696fca32-35ed-49ee-8e26-c93a735581d6</uuid>
+    <examples>
+       <example>
+          <value>to fill it up</value>
+          <translation>наполнить полный бак</translation>
+          <comment>to fill up - наполнять (до краев), it - это</comment>
+       </example>
+       <example>
+          <value>to fill the radiator</value>
+          <translation>долить воду</translation>
+          <comment>to fill - наполнять, radiator - радиатор</comment>
+       </example>
+       <example>
+          <value>to fill this prescription</value>
+          <translation>сделать лекарство по этому рецепту</translation>
+          <comment>to fill - исполнять, this - этот, эта, prescription - рецепт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>absorber</question>
+    <answer>поглотитель</answer>
+    <comment>[æbˈsɔːrbər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>755d1a77-b0b5-4146-996d-d2c563d4926b</uuid>
+    <examples>
+       <example>
+          <value>a shock absorber</value>
+          <translation>амортизатор</translation>
+          <comment>shock - удар, толчок, absorber - поглотитель</comment>
+       </example>
+       <example>
+          <value>to repair the shock absorber</value>
+          <translation>отремонтировать амортизатор</translation>
+          <comment>to repair - ремонтировать, shock absorber - амортизатор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>end</question>
+    <answer>конец</answer>
+    <comment>[end]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5cfae0a5-16d2-40c3-9082-4db5f2bedda5</uuid>
+    <examples>
+       <example>
+          <value>a dead end</value>
+          <translation>тупик</translation>
+          <comment>dead - мертвый, end - конец</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>steer</question>
+    <answer>управлять</answer>
+    <comment>[stɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>866adb8b-b5d8-4e6b-a52c-07bad6e6bafa</uuid>
+    <examples>
+       <example>
+          <value>a steering wheel</value>
+          <translation>руль</translation>
+          <comment>steering - управляющий, управление, to steer - правиль рулем, управлять, wheel - колесо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>driving</question>
+    <answer>вождение автомобиля</answer>
+    <comment>[ˈdrаɪvɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>294ce2a3-b3b0-4e9d-959a-83bf6a904e34</uuid>
+    <examples>
+       <example>
+          <value>an international driving licence</value>
+          <translation>международные водительские права</translation>
+          <comment>international - международный, driving - вождение автомобиля, licence - лицензия, разрешение</comment>
+       </example>
+       <example>
+          <value>a driving licence</value>
+          <translation>водительские права</translation>
+          <comment>driving - вождение автомобиля, to drive - водить машину, licence - лицензия, разрешение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>accumulator</question>
+    <answer>аккумулятор</answer>
+    <comment>[əˈkjuːmjəˌleɪtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ecbe7c8e-f01c-4a69-a954-08009424ab2c</uuid>
+    <examples>
+       <example>
+          <value>a dead accumulator</value>
+          <translation>севший аккумулятор</translation>
+          <comment>dead - мертвый, accumulator - аккумулятор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>charge</question>
+    <answer>взимать плату</answer>
+    <comment>[ʧɑːrʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6af74678-74aa-4466-a7d3-8116c7221cff</uuid>
+    <examples>
+       <example>
+          <value>free-of-charge parking</value>
+          <translation>бесплатная парковка</translation>
+          <comment>free-of-charge - бесплатный, free - свободный, charge - цена, parking - парковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>carburettor</question>
+    <answer>карбюратор</answer>
+    <comment>[ˈkɑːrbjəˌretər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>222c5b5f-3678-4d3c-af8b-f8dd35b360ea</uuid>
+    <examples>
+       <example>
+          <value>to repair the carburettor</value>
+          <translation>отремонтировать карбюратор</translation>
+          <comment>to repair - ремонтировать, carburettor - карбюратор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pump</question>
+    <answer>качать, насос</answer>
+    <comment>[pʌmp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0af54613-92ae-420b-b4c4-12b23eeb5f98</uuid>
+    <examples>
+       <example>
+          <value>a gas pump</value>
+          <translation>бензоколонка</translation>
+          <comment>gas - бензин, pump - насос</comment>
+       </example>
+       <example>
+          <value>the nearest gas pump</value>
+          <translation>ближайшая бензоколонка</translation>
+          <comment>the nearest - ближайший, near - рядом с, gas - бензин, pump - насос</comment>
+       </example>
+       <example>
+          <value>to pump up the tires</value>
+          <translation>накачать шины</translation>
+          <comment>to pump up - накачать, tire - шина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>low</question>
+    <answer>низкий</answer>
+    <comment>[loʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>562bcde1-707d-4d7c-ba48-bc5f662ba8c3</uuid>
+    <examples>
+       <example>
+          <value>low breaks</value>
+          <translation>слабые тормоза</translation>
+          <comment>low - низкий, break - тормоз</comment>
+       </example>
+       <example>
+          <value>low shoes</value>
+          <translation>полуботинки</translation>
+          <comment>low - низкий, shoes - туфли, полуботинки</comment>
+       </example>
+       <example>
+          <value>low humidity</value>
+          <translation>низкая влажность</translation>
+          <comment>low - низкий, humidity - влажность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>receipt</question>
+    <answer>квитанция</answer>
+    <comment>[rɪˈsiːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7c07190-7783-4116-9d97-d6a91fa3821d</uuid>
+    <examples>
+       <example>
+          <value>to write out the receipt</value>
+          <translation>выписать квитанцию</translation>
+          <comment>to write out - выписывать, receipt - квитанция</comment>
+       </example>
+       <example>
+          <value>to write a receipt</value>
+          <translation>выписать квитанцию</translation>
+          <comment>to write - писать, receipt - квитанция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>policy</question>
+    <answer>полис</answer>
+    <comment>[ˈpɑːlɪsiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b45d5292-c96e-4e3b-87a0-48335528994e</uuid>
+    <examples>
+       <example>
+          <value>an insurance policy</value>
+          <translation>страховка</translation>
+          <comment>insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>to buy an insurance policy</value>
+          <translation>оформить страховку</translation>
+          <comment>to buy - купить, insurance - страховка, policy - полис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>include</question>
+    <answer>включать</answer>
+    <comment>[ɪnˈkluːd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02f60a95-7bfc-4765-9d73-70810a5effe6</uuid>
+    <examples>
+       <example>
+          <value>to include insurance</value>
+          <translation>включать стоимость страховки</translation>
+          <comment>to include - включать, insurance - страховка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ignition</question>
+    <answer>зажигание</answer>
+    <comment>[ɪgˈnɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6f866b3-5b9f-4230-a1af-30f47c287c3a</uuid>
+    <examples>
+       <example>
+          <value>to repair the ignition</value>
+          <translation>отремонтировать зажигание</translation>
+          <comment>to repair - ремонтировать, ignition - зажигание</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>body</question>
+    <answer>корпус</answer>
+    <comment>[ˈbɑːdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fccd47ce-e116-4dec-9ec3-ce6d9eb5dd78</uuid>
+    <examples>
+       <example>
+          <value>a dent on the body</value>
+          <translation>вмятина на кузове</translation>
+          <comment>dent - вмятина, body - корпус, кузов</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>map</question>
+    <answer>карта</answer>
+    <comment>[mæp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d98477a4-39ff-4b74-9d14-e75ad9027b36</uuid>
+    <examples>
+       <example>
+          <value>a map of the car roads</value>
+          <translation>карта автодорог</translation>
+          <comment>map - карта, car - машина, road - дорога</comment>
+       </example>
+       <example>
+          <value>to buy a map</value>
+          <translation>купить карту</translation>
+          <comment>to buy - купить, map - карта</comment>
+       </example>
+       <example>
+          <value>a map of the subway</value>
+          <translation>карта метро</translation>
+          <comment>map - карта, subway - метро (амер.)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>manage</question>
+    <answer>суметь</answer>
+    <comment>[ˈmænɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51d832f4-e218-405c-b729-6d3fb154eba2</uuid>
+    <examples>
+       <example>
+          <value>to manage to find</value>
+          <translation>суметь найти</translation>
+          <comment>to manage - суметь, ухитриться, to find - найти</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>door</question>
+    <answer>дверь</answer>
+    <comment>[dɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2fa4fc9d-27b1-4cf0-9a27-97750bec1fe0</uuid>
+    <examples>
+       <example>
+          <value>a dent on the door</value>
+          <translation>вмятина на двери</translation>
+          <comment>dent - вмятина, door - дверь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>radiator</question>
+    <answer>радиатор</answer>
+    <comment>[ˈreɪdiːˌeɪtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dfe9bdf0-3d12-41aa-ae34-2bc9de515a1f</uuid>
+    <examples>
+       <example>
+          <value>to fill the radiator</value>
+          <translation>долить воду</translation>
+          <comment>to fill - наполнять, radiator - радиатор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>paid</question>
+    <answer>платный</answer>
+    <comment>[peɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>051cd860-b9fe-4c31-b9f9-a100344fa395</uuid>
+    <examples>
+       <example>
+          <value>paid parking</value>
+          <translation>платная парковка</translation>
+          <comment>paid - платный, parking - парковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>broken</question>
+    <answer>сломанный</answer>
+    <comment>[ˈbroʊkən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2d39e066-e6f9-4a8c-9d8c-b11458137e1d</uuid>
+    <examples>
+       <example>
+          <value>a broken window</value>
+          <translation>разбитое окно</translation>
+          <comment>broken - сломанный, to break - ломать, window - окно</comment>
+       </example>
+       <example>
+          <value>a broken car</value>
+          <translation>сломавшаяся машина</translation>
+          <comment>broken - сломанный, car - машина</comment>
+       </example>
+       <example>
+          <value>My car has broken down.</value>
+          <translation>Моя машина сломалась.</translation>
+          <comment>car - машина, to break down - сломаться</comment>
+       </example>
+       <example>
+          <value>to have a broken crown</value>
+          <translation>иметь сломанную коронку</translation>
+          <comment>to have - иметь, broken - сломанный, crown - коронка</comment>
+       </example>
+       <example>
+          <value>to have a broken tooth</value>
+          <translation>иметь сломанный зуб</translation>
+          <comment>to have - иметь, broken - сломанный, tooth - зуб</comment>
+       </example>
+       <example>
+          <value>A storm has broken out.</value>
+          <translation>Разыгрался шторм.</translation>
+          <comment>storm - шторм, to break out - разыграться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>part</question>
+    <answer>часть, деталь</answer>
+    <comment>[pɑːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>834551f5-13af-431b-96c3-920de03c74f4</uuid>
+    <examples>
+       <example>
+          <value>spare parts</value>
+          <translation>запчасти</translation>
+          <comment>spare - запасной, part - часть, деталь</comment>
+       </example>
+       <example>
+          <value>to have spare parts</value>
+          <translation>иметь запчасти</translation>
+          <comment>to have - иметь, spare - запасной, part - часть, деталь</comment>
+       </example>
+       <example>
+          <value>the performer of this part</value>
+          <translation>исполнитель этой роли</translation>
+          <comment>performer - исполнитель, this - этот, эта, part - роль</comment>
+       </example>
+       <example>
+          <value>to play the main part</value>
+          <translation>играть главную роль</translation>
+          <comment>to play - играть, main - главный, part - роль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>spare</question>
+    <answer>свободный</answer>
+    <comment>[sper]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>94da17c2-964d-4088-921e-6d006a864a35</uuid>
+    <examples>
+       <example>
+          <value>spare parts</value>
+          <translation>запчасти</translation>
+          <comment>spare - запасной, part - часть, деталь</comment>
+       </example>
+       <example>
+          <value>to have spare parts</value>
+          <translation>иметь запчасти</translation>
+          <comment>to have - иметь, spare - запасной, part - часть, деталь</comment>
+       </example>
+       <example>
+          <value>spare time</value>
+          <translation>свободное время</translation>
+          <comment>spare - свободный, time - время</comment>
+       </example>
+       <example>
+          <value>to have spare time</value>
+          <translation>иметь свободное время</translation>
+          <comment>to have - иметь, spare - свободный, time - время</comment>
+       </example>
+       <example>
+          <value>to spend spare time</value>
+          <translation>проводить свободное время</translation>
+          <comment>to spend - проводить (время), spare - свободный, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>meter</question>
+    <answer>счетчик</answer>
+    <comment>[ˈmiːtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee9a7527-4e59-4546-93b8-a9a4cc5dc666</uuid>
+    <examples>
+       <example>
+          <value>a parking meter</value>
+          <translation>автомат для оплаты парковки</translation>
+          <comment>parking - парковка, to park - ставить (машину), meter - счетчик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>licence</question>
+    <answer>лицензия</answer>
+    <comment>[ˈlаɪsəns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3c920159-e519-4623-b7d7-a22ec4614f25</uuid>
+    <examples>
+       <example>
+          <value>an international driving licence</value>
+          <translation>международные водительские права</translation>
+          <comment>international - международный, driving - вождение автомобиля, licence - лицензия, разрешение</comment>
+       </example>
+       <example>
+          <value>a driving licence</value>
+          <translation>водительские права</translation>
+          <comment>driving - вождение автомобиля, to drive - водить машину, licence - лицензия, разрешение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>trunk</question>
+    <answer>багажник</answer>
+    <comment>[trʌŋk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3d2f002d-e01b-43c0-a46d-3311e181bf5d</uuid>
+    <examples>
+       <example>
+          <value>a dent on the trunk</value>
+          <translation>вмятина на багажнике</translation>
+          <comment>dent - вмятина, trunk - багажник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>estimate</question>
+    <answer>оценивать</answer>
+    <comment>![ˈestəˌmeɪt]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3878852e-2f3f-47a5-acfb-aec553c83fe7</uuid>
+    <examples>
+       <example>
+          <value>to estimate the cost</value>
+          <translation>оценить стоимость</translation>
+          <comment>to estimate - оценивать, cost - стоимость</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tire</question>
+    <answer>шина</answer>
+    <comment>[tаɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fe90a6a0-5272-42b6-843d-5268d5a91cdb</uuid>
+    <examples>
+       <example>
+          <value>to pump up the tires</value>
+          <translation>накачать шины</translation>
+          <comment>to pump up - накачать, tire - шина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>strike</question>
+    <answer>ударить</answer>
+    <comment>[strаɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>24fa41f2-4d6c-47e1-a448-7144c628ee4e</uuid>
+    <examples>
+       <example>
+          <value>to strike a car</value>
+          <translation>ударить машину</translation>
+          <comment>to strike - бить, ударять, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>underground</question>
+    <answer>подземный</answer>
+    <comment>[ˌʌndərˈgræʊnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>11120297-9220-4af2-bd08-7303f908a702</uuid>
+    <examples>
+       <example>
+          <value>underground parking</value>
+          <translation>подземная парковка</translation>
+          <comment>underground - подземный, parking - парковка, to park - ставить (машину)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>camping</question>
+    <answer>кемпинг</answer>
+    <comment>[ˈkæmpɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>98c77a15-43ca-45fc-8121-af351e6e3fa9</uuid>
+    <examples>
+       <example>
+          <value>a camping trailer</value>
+          <translation>жилой прицеп</translation>
+          <comment>camping - кемпинг, trailer - прицеп</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fault</question>
+    <answer>поломка</answer>
+    <comment>[fɔːlt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>57a1bfb1-56b8-45db-9d4b-9b3d820c2fff</uuid>
+    <examples>
+       <example>
+          <value>to find the fault</value>
+          <translation>найти поломку</translation>
+          <comment>to find - находить, fault - неполадка, поломка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ride</question>
+    <answer>поездка</answer>
+    <comment>[rаɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0275a88d-8877-4432-ad1e-6f3f7a5e775c</uuid>
+    <examples>
+       <example>
+          <value>to give a ride home</value>
+          <translation>отвезти домой</translation>
+          <comment>to give - давать, ride - поездка, home - дом</comment>
+       </example>
+       <example>
+          <value>to have a ride through the city center</value>
+          <translation>проехаться по центру города</translation>
+          <comment>to have - иметь, ride - поездка, through - через, сквозь, по, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>to take a ride around the city</value>
+          <translation>покататься по городу</translation>
+          <comment>to take - взять, ride - поездка, around - вокруг, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shock</question>
+    <answer>удар, толчок</answer>
+    <comment>[ʃɑːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>da90a602-0f4a-45cc-a159-c44bf059d561</uuid>
+    <examples>
+       <example>
+          <value>a shock absorber</value>
+          <translation>амортизатор</translation>
+          <comment>shock - удар, толчок, absorber - поглотитель</comment>
+       </example>
+       <example>
+          <value>to repair the shock absorber</value>
+          <translation>отремонтировать амортизатор</translation>
+          <comment>to repair - ремонтировать, shock absorber - амортизатор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>drive</question>
+    <answer>вести (машину)</answer>
+    <comment>[drаɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20ee1241-a82a-4c33-9bd4-6d1bc4e0ff7e</uuid>
+    <examples>
+       <example>
+          <value>to drive a car</value>
+          <translation>вести машину</translation>
+          <comment>to drive - вести (транспорт), car - машина</comment>
+       </example>
+       <example>
+          <value>to drive faster</value>
+          <translation>ехать быстрее</translation>
+          <comment>to drive - ехать, faster - быстрее, fast - быстрый</comment>
+       </example>
+       <example>
+          <value>to drive more slowly</value>
+          <translation>ехать не так быстро</translation>
+          <comment>to drive - ехать, more - больше, slowly - медленно, slow - медленный</comment>
+       </example>
+       <example>
+          <value>to drive to the department store</value>
+          <translation>отвезти в универмаг</translation>
+          <comment>to drive - ехать, department store - универмаг</comment>
+       </example>
+       <example>
+          <value>to drive to the night club</value>
+          <translation>отвезти в ночной клуб</translation>
+          <comment>to drive - ехать, night - ночь, ночной, club - клуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dent</question>
+    <answer>вмятина</answer>
+    <comment>[dent]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>939097f8-316b-4c48-81b3-1e924d1b9d89</uuid>
+    <examples>
+       <example>
+          <value>a dent on the body</value>
+          <translation>вмятина на кузове</translation>
+          <comment>dent - вмятина, body - корпус, кузов</comment>
+       </example>
+       <example>
+          <value>a dent on the door</value>
+          <translation>вмятина на двери</translation>
+          <comment>dent - вмятина, door - дверь</comment>
+       </example>
+       <example>
+          <value>a dent on the trunk</value>
+          <translation>вмятина на багажнике</translation>
+          <comment>dent - вмятина, trunk - багажник</comment>
+       </example>
+       <example>
+          <value>a dent on the wing</value>
+          <translation>вмятина на крыле</translation>
+          <comment>dent - вмятина, wing - крыло</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>garage</question>
+    <answer>гараж</answer>
+    <comment>[gəˈrɑːʒ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>54dc81f4-d9fa-464e-975e-5d5ca301986a</uuid>
+    <examples>
+       <example>
+          <value>to need a garage</value>
+          <translation>нуждаться в гараже</translation>
+          <comment>need - нуждаться, garage - гараж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>contact</question>
+    <answer>контакт</answer>
+    <comment>[ˈkɑːntækt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>254901c8-d9e6-4161-b31c-d51319a6604c</uuid>
+    <examples>
+       <example>
+          <value>the contacts of the company</value>
+          <translation>контакты компании</translation>
+          <comment>contact - контакт, company - компания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>truck</question>
+    <answer>грузовик</answer>
+    <comment>[trʌk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>30f412ef-28de-4f88-a5a7-ee49616fdfcf</uuid>
+    <examples>
+       <example>
+          <value>to need a tow truck</value>
+          <translation>нуждаться в эвакуаторе</translation>
+          <comment>need - нуждаться, tow - буксир, truck - грузовик</comment>
+       </example>
+       <example>
+          <value>a tow truck</value>
+          <translation>эвакуатор</translation>
+          <comment>tow - буксир, truck - грузовик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>trailer</question>
+    <answer>прицеп</answer>
+    <comment>[ˈtreɪlər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1f481e62-e711-48f6-8655-04ad7edd08a6</uuid>
+    <examples>
+       <example>
+          <value>a camping trailer</value>
+          <translation>жилой прицеп</translation>
+          <comment>camping - кемпинг, trailer - прицеп</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mechanic</question>
+    <answer>механик</answer>
+    <comment>[məˈkænɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>033e5e07-bda3-4f42-8e35-e7f0b8d0d346</uuid>
+    <examples>
+       <example>
+          <value>to send me a mechanic</value>
+          <translation>прислать мне механика</translation>
+          <comment>to send - послать, mechanic - механик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clutch</question>
+    <answer>сцепление</answer>
+    <comment>[klʌʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ddfedd0-4186-4b54-9c54-4b65b0476cc3</uuid>
+    <examples>
+       <example>
+          <value>to repair the clutch</value>
+          <translation>отремонтировать сцепление</translation>
+          <comment>to repair - ремонтировать, clutch - сцепление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wing</question>
+    <answer>крыло</answer>
+    <comment>[wɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b761dbd2-14b0-447b-b4a5-0e46190e98a9</uuid>
+    <examples>
+       <example>
+          <value>a dent on the wing</value>
+          <translation>вмятина на крыле</translation>
+          <comment>dent - вмятина, wing - крыло</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>road</question>
+    <answer>дорога</answer>
+    <comment>[roʊd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a54b4da9-bab9-4975-b76e-ce18bb47e8d2</uuid>
+    <examples>
+       <example>
+          <value>a map of the car roads</value>
+          <translation>карта автодорог</translation>
+          <comment>map - карта, car - машина, road - дорога</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

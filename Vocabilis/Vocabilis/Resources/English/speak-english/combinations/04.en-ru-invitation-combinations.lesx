@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ccd9ff1c-ce9e-4bb7-b247-ff2abd941563</uuid>
+  <title>Приглашение в гости :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a cup of coffee</question>
+    <answer>чашка кофе</answer>
+    <comment>[ə kʌp əv kɔːfiː]</comment>
+    <question_comment>cup - чашка, coffee - кофе</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62e1f535-28fa-4e7c-bd27-fc4e17e89763</uuid>
+    <examples>
+       <example>
+          <value>How about going for a cup of coffee this afternoon?</value>
+          <translation>Как насчет чашечки кофе в обед?</translation>
+          <comment>how - как, about - насчет, to go - идти, cup - чашка, coffee - кофе, this - этот, эта, afternoon - день</comment>
+       </example>
+       <example>
+          <value>May I offer you a cup of coffee?</value>
+          <translation>Можно предложить вам чашку кофе?</translation>
+          <comment>may - мочь, to offer - предложить, you - вам, тебе, cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>Do you serve coffee in cups or in a coffee pot?</value>
+          <translation>У вас кофе в чашках или кофейнике?</translation>
+          <comment>to serve - подавать, coffee - кофе, cup - чашка, coffee pot - кофейник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a game of chess</question>
+    <answer>партия в шахматы</answer>
+    <comment>[ə geɪm əv ʧes]</comment>
+    <question_comment>game - партия, игра, chess - шахматы</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>153be27b-db37-4e59-9607-237fef36ac42</uuid>
+    <examples>
+       <example>
+          <value>Would you like a game of chess?</value>
+          <translation>Не хотите ли вы сыграть партию в шахматы?</translation>
+          <comment>to like - хотеть, любить, game - игра, chess - шахматы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>after dinner</question>
+    <answer>после ужина</answer>
+    <comment>[ˈæftər ˈdɪnər]</comment>
+    <question_comment>after - после, dinner - обед, ужин</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>36833592-8f32-460f-a398-3094c15c8551</uuid>
+    <examples>
+       <example>
+          <value>Are you free after dinner?</value>
+          <translation>Вы свободны после ужина?</translation>
+          <comment>free - свободный, after - после, dinner - ужин, обед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>any day</question>
+    <answer>в любой день</answer>
+    <comment>[ˈeniː deɪ]</comment>
+    <question_comment>any - любой, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>63f42204-3544-4f34-936c-8b1fd0f50b92</uuid>
+    <examples>
+       <example>
+          <value>Call any day you like.</value>
+          <translation>Звоните, когда угодно.</translation>
+          <comment>to call - звонить, any - любой, day - день, you - ты, вы, to like - любить, хотеть</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>any time</question>
+    <answer>в любое время</answer>
+    <comment>[ˈeniː tаɪm]</comment>
+    <question_comment>any - любой, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>795e5124-39bb-4c62-803e-bf95f00ae2ff</uuid>
+    <examples>
+       <example>
+          <value>Please drop in any time you like.</value>
+          <translation>Пожалуйста, заходите, когда угодно.</translation>
+          <comment>to drop in - зайти, any - любой, time - время, you - ты, вы, to like - хотеть, любить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to ask somebody for a dance</question>
+    <answer>пригласить кого-л. на танец</answer>
+    <comment>[tə æsk ˈsʌmˌbɑːdiː fər ə dæns]</comment>
+    <question_comment>to ask - просить, somebody - кто-либо, dance - танец</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>01408b18-e64f-4312-bb83-668eae0f778b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>at four</question>
+    <answer>в четыре (часа)</answer>
+    <comment>[ət fɔːr]</comment>
+    <question_comment>four - четыре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc3bfc76-5b65-4ead-9ae7-acae0486128c</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll come by at four.</value>
+          <translation>Я зайду в четыре часа.</translation>
+          <comment>to come by - зайти, four - четыре</comment>
+       </example>
+       <example>
+          <value>We need a table for four.</value>
+          <translation>Нам нужен столик на четверых.</translation>
+          <comment>need - нуждаться, table - стол, four - четверо</comment>
+       </example>
+       <example>
+          <value>at four o&apos;clock</value>
+          <translation>в четыре часа</translation>
+          <comment>four - четыре, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>from half past three to four o&apos;clock</value>
+          <translation>от половины четвертого до четырех</translation>
+          <comment>from - от, half - половина, past - после, three - три, to - к, до, four - четыре, o&apos;clock - часы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at three</question>
+    <answer>в три (часа)</answer>
+    <comment>[ət θriː]</comment>
+    <question_comment>three - три</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0fa29b4f-4296-4bed-be1a-bb102b64547c</uuid>
+    <examples>
+       <example>
+          <value>Can you come at three?</value>
+          <translation>Вы можете прийти в три часа?</translation>
+          <comment>can - мочь, to come - прийти, three - три</comment>
+       </example>
+       <example>
+          <value>I have stayed here for three days.</value>
+          <translation>Я пробыл здесь три дня.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>There is a table for three reserved for me.</value>
+          <translation>Для меня зарезервирован столик на троих.</translation>
+          <comment>there is - есть, имеется, table - стол, three - три, reserved - зарезервированный, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>You can get the tickets at ticket office number three.</value>
+          <translation>Вы можете купить билеты в кассе 3.</translation>
+          <comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>The train leaves at seven p.m. from platform number three.</value>
+          <translation>Поезд отправляется в 7 вечера с платформы №3.</translation>
+          <comment>train - поезд, to leave - отправляться, seven - семь, p.m. - после полудня, from - от, из, platform - платформа, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>I want to rent a car for three days.</value>
+          <translation>Я хочу арендовать машину на три дня.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>I need a garage for three days.</value>
+          <translation>Мне нужен гараж на три дня.</translation>
+          <comment>need - нуждаться, garage - гараж, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>Please give me three envelopes.</value>
+          <translation>Пожалуйста, дайте мне три конверта.</translation>
+          <comment>to give - дать, me - мне, меня, three - три, envelope - конверт</comment>
+       </example>
+       <example>
+          <value>It&apos;s about six dollars for a three minute call.</value>
+          <translation>Это будет стоить около 6 долларов за трехминутный звонок.</translation>
+          <comment>about - примерно, около, six - шесть, dollar - доллар, three - три, minute - минута, call - звонок</comment>
+       </example>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Take it three times a day after meals.</value>
+          <translation>Принимайте три раза в день после еды.</translation>
+          <comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</comment>
+       </example>
+       <example>
+          <value>It&apos;s a three act play.</value>
+          <translation>Это пьеса на три акта.</translation>
+          <comment>it - это, three - три, act - акт, действие, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>Please give me three tickets.</value>
+          <translation>Дайте, пожалуйста, три билета.</translation>
+          <comment>to give - давать, me - мне, меня, three - три, ticket - билет</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take three oranges.</value>
+          <translation>Я возьму три апельсина.</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>Three oranges and a bunch of grapes.</value>
+          <translation>Три апельсина и гроздь винограда.</translation>
+          <comment>three - три, orange - апельсин, bunch - гроздь, grapes - виноград</comment>
+       </example>
+       <example>
+          <value>a quarter to three</value>
+          <translation>без четверти три</translation>
+          <comment>quarter - четверть, to - до, к, three - три</comment>
+       </example>
+       <example>
+          <value>from half past three to four o&apos;clock</value>
+          <translation>от половины четвертого до четырех</translation>
+          <comment>from - от, half - половина, past - после, three - три, to - к, до, four - четыре, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>in three hours</value>
+          <translation>через три часа</translation>
+          <comment>three - три, hour - час</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come again</question>
+    <answer>приходить еще</answer>
+    <comment>[tə kʌm əˈgen]</comment>
+    <question_comment>to come - приходить, again - снова, еще</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9641a86d-22ad-402e-91ae-ed3c5067a63f</uuid>
+    <examples>
+       <example>
+          <value>Come again.</value>
+          <translation>Приходите еще.</translation>
+          <comment>to come - прийти, again - снова</comment>
+       </example>
+       <example>
+          <value>When must I come again?</value>
+          <translation>Когда мне снова прийти?</translation>
+          <comment>when - когда, must - быть должным, to come - прийти, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here&apos;s my card.</question>
+    <answer>Вот моя визитка.</answer>
+    <comment>[hiːrz mаɪ kɑːrd]</comment>
+    <question_comment>here - вот, my - мой, моя, card - карточка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>697aeb49-7fbd-4116-8a70-d1b60c8c28e6</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - здесь, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>Here is my plastic card.</value>
+          <translation>Вот моя пластиковая карточка.</translation>
+          <comment>here - здесь, my - мой, моя, plastic - пластиковый, card - карта</comment>
+       </example>
+       <example>
+          <value>Here is my card.</value>
+          <translation>Вот моя визитная карточка.</translation>
+          <comment>here - здесь, my - мой, моя, мои, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on Saturday</question>
+    <answer>в субботу</answer>
+    <comment>[ɑːn ˈsætərdiː]</comment>
+    <question_comment>Saturday - суббота</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ab08cde-211e-4e5a-8f9a-084363f781a6</uuid>
+    <examples>
+       <example>
+          <value>Are you free on Saturday?</value>
+          <translation>Вы свободны в субботу?</translation>
+          <comment>free - свободный, Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>Do you have tickets for Saturday?</value>
+          <translation>У вас есть билеты на субботу?</translation>
+          <comment>you - ты, вы, to have - иметь, ticket - билет, Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on Sunday</question>
+    <answer>в воскресенье</answer>
+    <comment>[ɑːn ˈsʌndiː]</comment>
+    <question_comment>Sunday - воскресенье</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>80178090-13d4-42fd-afec-658e7ba4e326</uuid>
+    <examples>
+       <example>
+          <value>Come and see me on Sunday.</value>
+          <translation>Приходите ко мне в воскресенье.</translation>
+          <comment>to come - приходить, to see - видеть, me - мне, меня, Sunday - воскресенье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>one evening</question>
+    <answer>одним вечером, когда-нибудь вечером</answer>
+    <comment>[wʌn ˈiːvnɪŋ]</comment>
+    <question_comment>one - один, evening - вечер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>261c239b-c55a-45c5-998f-28c787021601</uuid>
+    <examples>
+       <example>
+          <value>Would you like to come over one evening?</value>
+          <translation>Вы не хотели бы зайти к нам как-нибудь вечером?</translation>
+          <comment>to like - хотеть, любить, to come over - зайти, one - один, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take your seat</question>
+    <answer>занять ваше место</answer>
+    <comment>[tə teɪk jər siːt]</comment>
+    <question_comment>to take - брать, занимать, your - твой, ваш, seat - место, сиденье</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d53a61e-1b30-4ae9-aced-e011d6000814</uuid>
+    <examples>
+       <example>
+          <value>Take your seat, please.</value>
+          <translation>Садитесь, пожалуйста.</translation>
+          <comment>to take - брать, your - твой, ваш, seat - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>that time</question>
+    <answer>то/это время</answer>
+    <comment>[ðæt tаɪm]</comment>
+    <question_comment>that - тот, этот, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c72bd40-47c6-4673-8ea4-9972b2f5c72f</uuid>
+    <examples>
+       <example>
+          <value>Will that time suit you?</value>
+          <translation>Это время вам подходит?</translation>
+          <comment>that - то, это, time - время, to suit - подходить, you - тебе, вам</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this afternoon</question>
+    <answer>сегодня после обеда</answer>
+    <comment>[ðɪs æftərˈnuːn]</comment>
+    <question_comment>this - этот, эта, afternoon - послеобеденное время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2d5984a6-a096-4873-8cde-b92c923ffd7c</uuid>
+    <examples>
+       <example>
+          <value>How about going for a cup of coffee this afternoon?</value>
+          <translation>Как насчет чашечки кофе в обед?</translation>
+          <comment>how - как, about - насчет, to go - идти, cup - чашка, coffee - кофе, this - этот, эта, afternoon - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this way</question>
+    <answer>этот путь</answer>
+    <comment>[ðɪs weɪ]</comment>
+    <question_comment>this - этот, эта, way - путь, дорога</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>61763c19-42d5-46fa-a807-aa2b4785f87a</uuid>
+    <examples>
+       <example>
+          <value>This way, please.</value>
+          <translation>Сюда, пожалуйста.</translation>
+          <comment>this - этот, эта, way - путь, дорога</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be busy tomorrow</question>
+    <answer>быть занятым завтра</answer>
+    <comment>[tə biː ˈbɪziː təˈmɔːroʊ]</comment>
+    <question_comment>busy - занятый, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4852f6cf-e68f-4e60-9d5e-e2f09b74914b</uuid>
+    <examples>
+       <example>
+          <value>Are you busy tomorrow?</value>
+          <translation>Вы заняты завтра?</translation>
+          <comment>busy - занятый, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be free tomorrow</question>
+    <answer>быть свободным завтра</answer>
+    <comment>[tə biː friː təˈmɔːroʊ]</comment>
+    <question_comment>free - свободный, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a48c110c-1c0a-4d50-bdd4-6b16ec93a92e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come and see somebody</question>
+    <answer>навестить кого-л.</answer>
+    <comment>[tə kʌm ænd siː ˈsʌmˌbɑːdiː]</comment>
+    <question_comment>to come - приходить, to see - видеть, somebody - кто-либо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3b8dfe17-3d24-4669-8714-324a5874db83</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll come by tomorrow.</question>
+    <answer>Я забегу (к тебе) завтра.</answer>
+    <comment>[аɪl kʌm bаɪ təˈmɔːroʊ]</comment>
+    <question_comment>to come by - забежать, заскочить (к кому-либо), tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8c0e0c3b-69a7-411a-9c39-779e2da02317</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come for a walk</question>
+    <answer>пойти прогуляться (с кем-либо)</answer>
+    <comment>[tə kʌm fər ə wɔːk]</comment>
+    <question_comment>to come - приходить, walk - прогулка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a4c0abc1-1cb4-4eca-bee6-9f753fa6940d</uuid>
+    <examples>
+       <example>
+          <value>Would you like to come for a walk?</value>
+          <translation>Не хотите ли прогуляться?</translation>
+          <comment>to like - хотеть, to come - приходить, walk - прогулка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Come in, John.</question>
+    <answer>Заходи, Джон.</answer>
+    <comment>[kʌm ɪn ʤɑːn]</comment>
+    <question_comment>to come in - заходить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8324f1eb-daec-418b-b62b-bcbde599edd0</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come to say goodbye.</value>
+          <translation>Я пришел попрощаться.</translation>
+          <comment>to come - прийти, to say - сказать, goodbye - до свидания</comment>
+       </example>
+       <example>
+          <value>Come back soon.</value>
+          <translation>Возвращайтесь быстрее.</translation>
+          <comment>to come - приходить, back - обратно, soon - скоро</comment>
+       </example>
+       <example>
+          <value>Come in, please.</value>
+          <translation>Пожалуйста, входите.</translation>
+          <comment>to come in - входить, please - пожалуйста</comment>
+       </example>
+       <example>
+          <value>Please come and see us.</value>
+          <translation>Приходите к нам.</translation>
+          <comment>to come - приходить, to see - видеть, us - нам, нас</comment>
+       </example>
+       <example>
+          <value>Come and see me on Sunday.</value>
+          <translation>Приходите ко мне в воскресенье.</translation>
+          <comment>to come - приходить, to see - видеть, me - мне, меня, Sunday - воскресенье</comment>
+       </example>
+       <example>
+          <value>Come again.</value>
+          <translation>Приходите еще.</translation>
+          <comment>to come - прийти, again - снова</comment>
+       </example>
+       <example>
+          <value>Can you come at three?</value>
+          <translation>Вы можете прийти в три часа?</translation>
+          <comment>can - мочь, to come - прийти, three - три</comment>
+       </example>
+       <example>
+          <value>I&apos;ll come by at four.</value>
+          <translation>Я зайду в четыре часа.</translation>
+          <comment>to come by - зайти, four - четыре</comment>
+       </example>
+       <example>
+          <value>Would you like to come over one evening?</value>
+          <translation>Вы не хотели бы зайти к нам как-нибудь вечером?</translation>
+          <comment>to like - хотеть, любить, to come over - зайти, one - один, evening - вечер</comment>
+       </example>
+       <example>
+          <value>Would you like to come for a walk?</value>
+          <translation>Не хотите ли прогуляться?</translation>
+          <comment>to like - хотеть, to come - приходить, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>Would you care to come to my place and have a drink?</value>
+          <translation>Не хотите зайти ко мне и выпить?</translation>
+          <comment>to care - питать интерес, to come - приходить, place - место, to have - иметь, drink - питье</comment>
+       </example>
+       <example>
+          <value>Come in!</value>
+          <translation>Войдите!</translation>
+          <comment>to come in - входить</comment>
+       </example>
+       <example>
+          <value>When will the doctor come?</value>
+          <translation>Когда придет врач?</translation>
+          <comment>when - когда, doctor - доктор, врач, to come - приходить</comment>
+       </example>
+       <example>
+          <value>When must I come again?</value>
+          <translation>Когда мне снова прийти?</translation>
+          <comment>when - когда, must - быть должным, to come - прийти, again - снова</comment>
+       </example>
+       <example>
+          <value>When must I come next time?</value>
+          <translation>Когда мне прийти в следующий раз?</translation>
+          <comment>when - когда, must - быть должным, to come - прийти, next - следующий, time - раз</comment>
+       </example>
+       <example>
+          <value>Can you come to the movies with me?</value>
+          <translation>Вы можете пойти со мной в кино?</translation>
+          <comment>can - мочь, you - ты, вы, to come - приходить, movie - кино, with - с (кем-л.), me - мне, меня</comment>
+       </example>
+       <example>
+          <value>I&apos;ve come from Russia.</value>
+          <translation>Я приехал из России.</translation>
+          <comment>to come - приехать, from - из, от, Russia - Россия</comment>
+       </example>
+       <example>
+          <value>When does spring come here?</value>
+          <translation>Когда здесь наступает весна?</translation>
+          <comment>when - когда, spring - весна, to come - приходить, here - здесь</comment>
+       </example>
+       <example>
+          <value>I&apos;ve come on the invitation of Mr. Brown.</value>
+          <translation>Я приехал по приглашению мистера Брауна.</translation>
+          <comment>to come - приехать, прийти, invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>We&apos;ve come on the invitation of Mr. Brown.</value>
+          <translation>Мы приехали по приглашению мистера Брауна.</translation>
+          <comment>to come - приехать, прийти, invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>I&apos;ve come to discuss the question of our partnership.</value>
+          <translation>Я приехал обсудить вопрос нашего партнерства.</translation>
+          <comment>to come - приехать, прийти, to discuss - обсудить, question - вопрос, our - наш, наша, наши, partnership - парнерство</comment>
+       </example>
+       <example>
+          <value>Where do raw materials come from?</value>
+          <translation>Откуда поставляется сырье?</translation>
+          <comment>where - где, raw - сырой, material - материал, to come - приходить, from - от, из</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come over on Friday evening</question>
+    <answer>зайти (к кому-либо домой) в пятницу вечером</answer>
+    <comment>[tə kʌm ˈoʊvər ɑːn ˈfrаɪdiː ˈiːvnɪŋ]</comment>
+    <question_comment>to come over - приходить в гости к кому-либо домой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>909badf8-97f9-4b75-bfa0-0cbe3ee9311b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to drop in one evening</question>
+    <answer>зайти, заглянуть (к кому-либо) как-нибудь вечером</answer>
+    <comment>[tə drɑːp ɪn wʌn ˈiːvnɪŋ]</comment>
+    <question_comment>to drop - бросать, падать, to drop in - заглянуть, забежать, зайти</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02466f05-ce11-433b-9595-41fed9c8105b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the concert</question>
+    <answer>идти на концерт</answer>
+    <comment>[tə goʊ tə ðə ˈkɑːnsərt]</comment>
+    <question_comment>to go - идти, concert - концерт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee605824-4b1e-429e-bad4-0362ef5efcaf</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s go to the concert.</value>
+          <translation>Пойдемте на концерт.</translation>
+          <comment>let&apos;s - давайте, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Would you like to go to a concert?</value>
+          <translation>Не хотите ли пойти на концерт?</translation>
+          <comment>would like - хотеть, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Do you often go to concerts?</value>
+          <translation>Вы часто ходите на концерты?</translation>
+          <comment>often - часто, to go - идти, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the theater</question>
+    <answer>идти в театр</answer>
+    <comment>[tə goʊ tə ðə ˈθɪətər]</comment>
+    <question_comment>to go - идти, theater - театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>976a4def-036b-46bb-b1b6-7b431c2cc267</uuid>
+    <examples>
+       <example>
+          <value>Would you like to go to the theater?</value>
+          <translation>Позвольте пригласить вас в театр.</translation>
+          <comment>to like - хотеть, любить, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I would like to go to the theater.</value>
+          <translation>Я бы хотел сходить в театр.</translation>
+          <comment>would like - хотеть, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Drama Theater.</value>
+          <translation>Я бы хотел пойти в драматический театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Young Spectator Theater.</value>
+          <translation>Я бы хотел пойти в театр юного зрителя.</translation>
+          <comment>would like - хотеть, to go - идти, young - молодой, spectator - зритель, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Puppet Theater.</value>
+          <translation>Я бы хотел пойти в кукольный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a drink</question>
+    <answer>выпить</answer>
+    <comment>[tə hæv ə drɪŋk]</comment>
+    <question_comment>to have - иметь, to drink - пить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1bdb7e17-08fb-4397-81a3-11b7d484e7c9</uuid>
+    <examples>
+       <example>
+          <value>Would you care to come to my place and have a drink?</value>
+          <translation>Не хотите зайти ко мне и выпить?</translation>
+          <comment>to care - питать интерес, to come - приходить, place - место, to have - иметь, drink - питье</comment>
+       </example>
+       <example>
+          <value>Please give me something to drink.</value>
+          <translation>Пожалуйста, дайте что-нибудь попить.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, to drink - пить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have some coffee</question>
+    <answer>выпить кофе</answer>
+    <comment>[tə hæv sʌm ˈkɔːfiː]</comment>
+    <question_comment>to have - иметь, some - некоторое количество, coffee - кофе</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>25703d18-e72c-4c4b-970d-ebae844db0ed</uuid>
+    <examples>
+       <example>
+          <value>Would you like to have some coffee?</value>
+          <translation>Не хотите выпить кофе?</translation>
+          <comment>to like - хотеть, to have - иметь, some - некоторое количество, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>Won&apos;t you have some more coffee?</value>
+          <translation>Не хотите ли еще кофе?</translation>
+          <comment>to have - иметь, some - некоторое количество, more - больше, coffee - кофе</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to invite somebody to a museum</question>
+    <answer>пригласить кого-л. в музей</answer>
+    <comment>[tə ɪnˈvаɪt ˈsʌmˌbɑːdiː tə ə mjuːˈziːəm]</comment>
+    <question_comment>to invite - приглашать, somebody - кто-либо, museum - музей</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f2b35667-06f0-4922-b4c5-52121804817d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to invite somebody to a restaurant</question>
+    <answer>пригласить кого-л. в ресторан</answer>
+    <comment>[tə ɪnˈvаɪt ˈsʌmˌbɑːdiː tə ə ˈrestəˌrɑːnt]</comment>
+    <question_comment>to invite - приглашать, somebody - кто-либо, restaurant - ресторан</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f42756ac-98a8-4c60-b8f1-b3fc46f37751</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to invite somebody to lunch</question>
+    <answer>пригласить кого-л. на обед</answer>
+    <comment>[tə ɪnˈvаɪt ˈsʌmˌbɑːdiː tə lʌnʧ]</comment>
+    <question_comment>to invite - приглашать, somebody - кто-либо, lunch - обед</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca4ae026-e549-483c-a84c-03419eac2380</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to invite somebody to your place</question>
+    <answer>пригласить кого-л. к себе (=тебе) домой</answer>
+    <comment>[tə ɪnˈvаɪt ˈsʌmˌbɑːdiː tə jər pleɪs]</comment>
+    <question_comment>to invite - приглашать, somebody - кто-либо, place - место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bdd5cd76-6682-4bed-b982-018e1f5f8c8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to invite somebody to the movies</question>
+    <answer>пригласить кого-л. в кино</answer>
+    <comment>[tə ɪnˈvаɪt ˈsʌmˌbɑːdiː tə ðə ˈmuːviːz]</comment>
+    <question_comment>to invite - приглашать, somebody - кто-либо, movie - кинофильм</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d11956c-0688-4b7e-b8ce-be7d90f56d5c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to keep somebody company</question>
+    <answer>составить кому-л. компанию</answer>
+    <comment>[tə kiːp ˈsʌmˌbɑːdiː ˈkʌmpəniː]</comment>
+    <question_comment>to keep - поддержать, хранить, somebody - кто-либо, company - компания</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b5f63c40-b40b-40fb-92e5-16ad1ab37cb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to offer somebody a cup of coffee</question>
+    <answer>предложить кому-л. чашку кофе</answer>
+    <comment>[tə ˈɔːfər ˈsʌmˌbɑːdiː ə kʌp əv ˈkɔːfiː]</comment>
+    <question_comment>to offer - предлагать, somebody - кто-либо, cup - чашка, coffee - кофе</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>150d1f10-cafb-431f-8489-8dd555512e6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to offer somebody a glass of wine</question>
+    <answer>предложить кому-л. бокал вина</answer>
+    <comment>[tə ˈɔːfər ˈsʌmˌbɑːdiː ə glæs əv wаɪn]</comment>
+    <question_comment>to offer - предлагать, somebody - кто-либо, glass - бокал, wine - вино</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb47b7ce-ec84-45df-8ac5-7784bced96c7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to offer somebody an ice cream</question>
+    <answer>предложить кому-л. мороженое</answer>
+    <comment>[tə ˈɔːfər ˈsʌmˌbɑːdiː ʌn аɪs kriːm]</comment>
+    <question_comment>to offer - предлагать, somebody - кто-либо, ice cream - мороженое</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf22ccd4-1737-4f3f-aba0-2d0696a1dd8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sit down</question>
+    <answer>садиться</answer>
+    <comment>[tə sɪt dаʊn]</comment>
+    <question_comment>to sit - сидеть, down - вниз</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6ede15b0-3f92-4e8d-b4b1-f491f7c2a5dd</uuid>
+    <examples>
+       <example>
+          <value>Please sit down.</value>
+          <translation>Садитесь, пожалуйста.</translation>
+          <comment>please - пожалуйста, sit down - садиться</comment>
+       </example>
+       <example>
+          <value>I prefer to sit some distance from the screen.</value>
+          <translation>Я люблю сидеть не очень близко от экрана.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+       <example>
+          <value>I prefer to sit in row ten.</value>
+          <translation>Я предпочитаю сидеть в десятом ряду.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, row - ряд, ten - десять</comment>
+       </example>
+       <example>
+          <value>I prefer to sit in the front rows.</value>
+          <translation>Я предпочитаю передние ряды.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, front - передний, row - ряд</comment>
+       </example>
+       <example>
+          <value>I prefer to sit in the back rows.</value>
+          <translation>Я предпочитаю задние ряды.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, back - задний, row - ряд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to spend this evening</question>
+    <answer>провести этот вечер</answer>
+    <comment>[tə spend ðɪs ˈiːvnɪŋ]</comment>
+    <question_comment>to spend - проводить (время), this - этот, эта, evening - вечер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae2f877b-7999-4fc2-8d47-a3b922e076fd</uuid>
+    <examples>
+       <example>
+          <value>Can&apos;t you spend this evening with us?</value>
+          <translation>Не можете ли вы сегодня провести вечер с нами?</translation>
+          <comment>to spend - тратить, провести, this - этот, эта, evening - вечер, with - с (кем-л.), us - нам, нас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>would care</question>
+    <answer>хотеть, желать</answer>
+    <comment>[wʊd ker]</comment>
+    <question_comment>to care - питать интерес, любовь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b9385b5-fc56-48b5-bfe6-9c5b397c621d</uuid>
+    <examples>
+       <example>
+          <value>Would you care to come to my place and have a drink?</value>
+          <translation>Не хотите зайти ко мне и выпить?</translation>
+          <comment>to care - питать интерес, to come - приходить, place - место, to have - иметь, drink - питье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>would like</question>
+    <answer>хотеть</answer>
+    <comment>[wʊd lаɪk]</comment>
+    <question_comment>to like - любить, нравиться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2bb60df7-d6b4-4f3d-9851-f585b71675d1</uuid>
+    <examples>
+       <example>
+          <value>Please drop in any time you like.</value>
+          <translation>Пожалуйста, заходите, когда угодно.</translation>
+          <comment>to drop in - зайти, any - любой, time - время, you - ты, вы, to like - хотеть, любить</comment>
+       </example>
+       <example>
+          <value>Would you like to come over one evening?</value>
+          <translation>Вы не хотели бы зайти к нам как-нибудь вечером?</translation>
+          <comment>to like - хотеть, любить, to come over - зайти, one - один, evening - вечер</comment>
+       </example>
+       <example>
+          <value>Would you like to go to the theater?</value>
+          <translation>Позвольте пригласить вас в театр.</translation>
+          <comment>to like - хотеть, любить, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>Would you like a game of chess?</value>
+          <translation>Не хотите ли вы сыграть партию в шахматы?</translation>
+          <comment>to like - хотеть, любить, game - игра, chess - шахматы</comment>
+       </example>
+       <example>
+          <value>Would you like a game of pool?</value>
+          <translation>Не хотите ли вы сыграть партию в бильярд?</translation>
+          <comment>to like - хотеть, любить, game - игра, pool - бильярд</comment>
+       </example>
+       <example>
+          <value>Call any day you like.</value>
+          <translation>Звоните, когда угодно.</translation>
+          <comment>to call - звонить, any - любой, day - день, you - ты, вы, to like - любить, хотеть</comment>
+       </example>
+       <example>
+          <value>Would you like to have some coffee?</value>
+          <translation>Не хотите выпить кофе?</translation>
+          <comment>to like - хотеть, to have - иметь, some - некоторое количество, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>Would you like to come for a walk?</value>
+          <translation>Не хотите ли прогуляться?</translation>
+          <comment>to like - хотеть, to come - приходить, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to change some dollars.</value>
+          <translation>Я хотел бы обменять доллары.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to change some pounds.</value>
+          <translation>Я хотел бы обменять фунты.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, pounds - фунты</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to change some roubles.</value>
+          <translation>Я хотел бы обменять рубли.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, rouble - рубль</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to open an account.</value>
+          <translation>Я бы хотел открыть счет.</translation>
+          <comment>would like - хотеть, to open - открыть, account - счет</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to start a savings account.</value>
+          <translation>Я хотел бы открыть депозитный счет.</translation>
+          <comment>would like - хотеть, to start - начать, savings - сбережения, account - счет</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to withdraw one thousand dollars.</value>
+          <translation>Я бы хотел снять одну тысячу долларов.</translation>
+          <comment>would like - хотеть, to withdraw - снять (деньги), one - один, thousand - тысяча, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a single room.</value>
+          <translation>Я хотел бы получить одноместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a double room.</value>
+          <translation>Я хотел бы получить двухместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, double - двойной, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a bath.</value>
+          <translation>Я хотел бы номер с ванной.</translation>
+          <comment>would like - хотеть, room - комната, bath - ванна</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a shower.</value>
+          <translation>Я хотел бы номер с душем.</translation>
+          <comment>would like - хотеть, room - комната, shower - душ</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a balcony.</value>
+          <translation>Я хотел бы номер с балконом.</translation>
+          <comment>would like - хотеть, room - комната, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a view of the river.</value>
+          <translation>Я хотел бы номер с видом на реку.</translation>
+          <comment>would like - хотеть, room - комната, view - вид, river - река</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the front.</value>
+          <translation>Я бы хотел номер с окнами на улицу.</translation>
+          <comment>would like - хотеть, room - комната, front - передняя сторона</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the back.</value>
+          <translation>Я бы хотел номер с окнами во двор.</translation>
+          <comment>would like - хотеть, room - комната, back - задняя сторона</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on the top floors.</value>
+          <translation>Я хотел бы номер на верних этажах.</translation>
+          <comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on one of the bottom floors.</value>
+          <translation>Я хотел бы номер на нижних этажах.</translation>
+          <comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I don&apos;t like the room.</value>
+          <translation>Мне не нравится номер.</translation>
+          <comment>to like - любить, нравиться, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to have my linen washed.</value>
+          <translation>Я хочу отдать в стирку постельное белье.</translation>
+          <comment>would like - хотеть, to have - иметь, linen - белье, washed - постиранный</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to have my pants pressed.</value>
+          <translation>Мне нужно погладить брюки.</translation>
+          <comment>would like - хотеть, to have - иметь, pants - брюки, pressed - поглаженный</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to have my suit cleaned.</value>
+          <translation>Я хочу отдать в чистку костюм.</translation>
+          <comment>would like - хотеть, to have - иметь, suit - костюм, cleaned - почищенный</comment>
+       </example>
+       <example>
+          <value>I feel like eating something.</value>
+          <translation>Я бы что-нибудь съел.</translation>
+          <comment>to feel like - хотеть, eating - еда, something - что-нибудь</comment>
+       </example>
+       <example>
+          <value>I would like a table in a corner.</value>
+          <translation>Я бы хотел столик в углу.</translation>
+          <comment>would like - хотеть, table - стол, corner - угол</comment>
+       </example>
+       <example>
+          <value>I would like a table at a window.</value>
+          <translation>Я бы хотел столик у окна.</translation>
+          <comment>would like - хотеть, table - стол, window - окно</comment>
+       </example>
+       <example>
+          <value>I would like a table outdoors.</value>
+          <translation>Я бы хотел столик на улице.</translation>
+          <comment>would like - хотеть, table - стол, outdoors - на улице</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a glass of wine, please.</value>
+          <translation>Мне, пожалуйста, бокал вина.</translation>
+          <comment>would like - хотеть, glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a bottle of mineral water, please.</value>
+          <translation>Мне, пожалуйста, бутылку минеральной воды.</translation>
+          <comment>would like - хотеть, bottle - бутылка, mineral - минеральный, water - вода</comment>
+       </example>
+       <example>
+          <value>Would you like tea or coffee?</value>
+          <translation>Вы будете пить чай или кофе?</translation>
+          <comment>would like - хотеть, tea - чай, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>Would you like sugar in your tea?</value>
+          <translation>Вам чай с сахаром?</translation>
+          <comment>would like - хотеть, sugar - сахар, your - твой, ваш, tea - чай</comment>
+       </example>
+       <example>
+          <value>Would you like milk in your tea?</value>
+          <translation>Вам чай с молоком?</translation>
+          <comment>would like - хотеть, milk - молоко, your - твой, ваш, tea - чай</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a lower berth.</value>
+          <translation>Я бы хотел нижнюю полку.</translation>
+          <comment>would like - хотеть, lower - нижний, berth - полка</comment>
+       </example>
+       <example>
+          <value>I&apos;d like an upper berth.</value>
+          <translation>Я бы хотел верхнюю полку.</translation>
+          <comment>would like - хотеть, upper - верхний, berth - полка</comment>
+       </example>
+       <example>
+          <value>For how many days would you like a car?</value>
+          <translation>На сколько дней вы бы хотели взять машину?</translation>
+          <comment>how - как, many - много, day - день, would like - хотеть, car - машина</comment>
+       </example>
+       <example>
+          <value>What kind of car would you like?</value>
+          <translation>Какую машину вы хотели бы?</translation>
+          <comment>what - какой, kind - вид, car - машина, would like - хотеть</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to have my car washed.</value>
+          <translation>Я хотел бы, чтобы машину помыли.</translation>
+          <comment>would like - хотеть, to have - иметь, my - мой, моя, мое, car - машина, washed - помытый</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to send this package.</value>
+          <translation>Я хотел бы послать эту посылку.</translation>
+          <comment>would like - хотеть, to send - послать, this - этот, эта, это, package - посылка</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make a long-distance call.</value>
+          <translation>Я бы хотел сделать междугородний звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an international call.</value>
+          <translation>Я бы хотел сделать международный звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, international - международный, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to speak to Mr. Brown.</value>
+          <translation>Я бы хотел поговорить с мистером Брауном.</translation>
+          <comment>would like - хотеть, to speak - говорить, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>Does this tooth hurt you when I touch it like that?</value>
+          <translation>Этот зуб беспокоит вас, когда я притрагиваюсь к нему?</translation>
+          <comment>this - этот, эта, это, tooth - зуб, to hurt - болеть, you - вас, вам, тебе, тебя, when - когда, to touch - прикасаться, it - это, like - как, наподобии, that - это</comment>
+       </example>
+       <example>
+          <value>I would like to go to the theater.</value>
+          <translation>Я бы хотел сходить в театр.</translation>
+          <comment>would like - хотеть, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Opera House.</value>
+          <translation>Я бы хотел пойти в оперный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Opera House - оперный театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Drama Theater.</value>
+          <translation>Я бы хотел пойти в драматический театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Operetta House.</value>
+          <translation>Я бы хотел пойти в театр оперетты.</translation>
+          <comment>would like - хотеть, to go - идти, the Operetta House - театр оперетты</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Young Spectator Theater.</value>
+          <translation>Я бы хотел пойти в театр юного зрителя.</translation>
+          <comment>would like - хотеть, to go - идти, young - молодой, spectator - зритель, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Puppet Theater.</value>
+          <translation>Я бы хотел пойти в кукольный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+       <example>
+          <value>I&apos;d like two seats in the orchestra.</value>
+          <translation>Мне нужны два билета в партере.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, orchestra - партер (в театре)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like two seats in the box.</value>
+          <translation>Мне нужны два билета в ложе.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, box - ложа (в театре)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like two seats in the dress circle.</value>
+          <translation>Мне нужны два билета в бельэтаже.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, dress circle - бельэтаж (в театре)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like two seats in the amphitheater.</value>
+          <translation>Мне нужны два билета в амфитеатре.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, amphitheater - амфитеатр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like two seats in the gallery.</value>
+          <translation>Мне нужны два билета на галерке.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, gallery - галерка</comment>
+       </example>
+       <example>
+          <value>Did you like the play?</value>
+          <translation>Вам понравился спектакль?</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play.</value>
+          <translation>Мне понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play very much.</value>
+          <translation>Спектакль мне очень понравился.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play.</value>
+          <translation>Мне не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play at all.</value>
+          <translation>Мне вообще не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, at all - вовсе, совсем</comment>
+       </example>
+       <example>
+          <value>I especially like the performer of this part.</value>
+          <translation>Особенно мне понравился исполнитель этой роли.</translation>
+          <comment>especially - особенно, to like - любить, нравиться, performer - исполнитель, this - этот, эта, это, part - роль</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a new feature film.</value>
+          <translation>Я бы хотел посмотреть новый художественный фильм.</translation>
+          <comment>would like - хотеть, to see - смотреть, new - новый, feature film - художественный фильм</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a love story.</value>
+          <translation>Я бы хотел посмотреть любовную историю.</translation>
+          <comment>would like - хотеть, to see - смотреть, love - любовь, story - история</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a new historical.</value>
+          <translation>Я бы хотел посмотреть новый исторический фильм.</translation>
+          <comment>would like - хотеть, to see - смотреть, new - новый, historical - исторический</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a comedy.</value>
+          <translation>Я бы хотел посмотреть комедию.</translation>
+          <comment>would like - хотеть, to see - смотреть, comedy - комедия</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a cartoon.</value>
+          <translation>Я бы хотел посмотреть мультфильм.</translation>
+          <comment>would like - хотеть, to see - смотреть, cartoon - мультфильм</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a detective.</value>
+          <translation>Я бы хотел посмотреть детектив.</translation>
+          <comment>would like - хотеть, to see - смотреть, detective - детектив</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a science fiction movie.</value>
+          <translation>Я бы хотел посмотреть научно-фантастический фильм.</translation>
+          <comment>would like - хотеть, to see - смотреть, science - наука, научный, fiction - фантастика, movie - кино</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a horror movie.</value>
+          <translation>Я бы хотел посмотреть ужастик.</translation>
+          <comment>would like - хотеть, to see - смотреть, horror - ужас, movie - кино</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to see a thriller.</value>
+          <translation>Я бы хотел посмотреть триллер.</translation>
+          <comment>would like - хотеть, to see - смотреть, thriller - триллер</comment>
+       </example>
+       <example>
+          <value>What kind of films do you like?</value>
+          <translation>Какие фильмы вам нравятся?</translation>
+          <comment>what - что, какой, kind - род, вид, film - фильм, you - ты, вы, to like - любить, нравиться</comment>
+       </example>
+       <example>
+          <value>How did you like the movie?</value>
+          <translation>Как тебе понравился фильм?</translation>
+          <comment>how - как, you - ты, вы, to like - любить, нравиться, movie - кино</comment>
+       </example>
+       <example>
+          <value>Would you like to go to a concert?</value>
+          <translation>Не хотите ли пойти на концерт?</translation>
+          <comment>would like - хотеть, to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Do you like music?</value>
+          <translation>Вам нравится музыка?</translation>
+          <comment>to like - любить, нравиться, music - музыка</comment>
+       </example>
+       <example>
+          <value>Do you like classical music?</value>
+          <translation>Вам нравится классическая музыка?</translation>
+          <comment>to like - любить, нравиться, classical - классический, music - музыка</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to a symphonic music concert.</value>
+          <translation>Я бы хотел послушать концерт симфонической музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, symphonic - симфонический, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to a chamber music concert.</value>
+          <translation>Я бы хотел послушать концерт камерной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, chamber - камерный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to listen to an organ music concert.</value>
+          <translation>Я бы хотел послушать концерт органной музыки.</translation>
+          <comment>would like - хотеть, to listen - слушать, organ - органный, music - музыка, музыкальный, concert - концерт</comment>
+       </example>
+       <example>
+          <value>Did you like the concert?</value>
+          <translation>Вам понравился концерт?</translation>
+          <comment>to like - любить, нравиться, concert - концерт</comment>
+       </example>
+       <example>
+          <value>I liked the concert.</value>
+          <translation>Мне понравился концерт.</translation>
+          <comment>to like - любить, нравиться, concert - концерт</comment>
+       </example>
+       <example>
+          <value>No, I don&apos;t like it.</value>
+          <translation>Нет, мне это не нравится.</translation>
+          <comment>to like - любить, нравиться, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to pay in cash.</value>
+          <translation>Мне бы хотелось заплатить наличными.</translation>
+          <comment>would like - хотеть, to pay - платить, cash - наличные деньги</comment>
+       </example>
+       <example>
+          <value>I&apos;d like the same but of a different color.</value>
+          <translation>Мне хотелось бы то же, но другого цвета.</translation>
+          <comment>would like - хотеть, the same - то же самое, but - но, different - другой, различный, color - цвет</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some shoes.</value>
+          <translation>Мне хотелось бы прмерить туфли.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some boots.</value>
+          <translation>Мне хотелось бы прмерить сапоги.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some low shoes.</value>
+          <translation>Мне хотелось бы прмерить полуботинки.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, low shoes - полуботинки</comment>
+       </example>
+       <example>
+          <value>I like perfumes of this firm.</value>
+          <translation>Я люблю духи этой фирмы.</translation>
+          <comment>to like - любить, perfume - духи, this - этот, эта, это, firm - фирма</comment>
+       </example>
+       <example>
+          <value>Did you find something you like?</value>
+          <translation>Вы нашли то, что вам подходит?</translation>
+          <comment>to find - найти, something - что-нибудь, to like - нравиться, любить</comment>
+       </example>
+       <example>
+          <value>What kind of gloves would you like?</value>
+          <translation>Какие перчатки вы бы хотели?</translation>
+          <comment>what - что, какой, kind - вид, gloves - перчатки, would like - хотеть</comment>
+       </example>
+       <example>
+          <value>I&apos;d like this prescription filled.</value>
+          <translation>Мне нужно лекарство по этому рецепту.</translation>
+          <comment>would like - хотеть, this - этот, эта, это, prescription - рецепт, filled - исполненный</comment>
+       </example>
+       <example>
+          <value>I&apos;d like something for insect bites.</value>
+          <translation>Я бы хотел что-нибудь от укусов насекомых.</translation>
+          <comment>would like - хотеть, something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+       <example>
+          <value>I&apos;d like something for nausea.</value>
+          <translation>Я бы хотел что-нибудь от тошноты.</translation>
+          <comment>would like - хотеть, something - что-нибудь, nausea - тошнота, морская болезнь</comment>
+       </example>
+       <example>
+          <value>I&apos;d like something for sunburn.</value>
+          <translation>Я бы хотел что-нибудь от солнечного ожога.</translation>
+          <comment>would like - хотеть, something - что-нибудь, sunburn - солнечный ожог</comment>
+       </example>
+       <example>
+          <value>I&apos;d like something for travel sickness.</value>
+          <translation>Я бы хотел что-нибудь от морской болезни.</translation>
+          <comment>would like - хотеть, something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+       <example>
+          <value>I&apos;d like something for upset stomach.</value>
+          <translation>Я бы хотел что-нибудь от расстройства желудка.</translation>
+          <comment>would like - хотеть, something - что-нибудь, upset - расстроенный, stomach - желудок</comment>
+       </example>
+       <example>
+          <value>Would you like to go on a hike?</value>
+          <translation>Вы не хотели бы пойти в поход?</translation>
+          <comment>would like - хотеть, to go - идти, hike - поход</comment>
+       </example>
+       <example>
+          <value>I like to travel.</value>
+          <translation>Я люблю путешествовать.</translation>
+          <comment>to like - любить, нравиться, to travel - путешествовать</comment>
+       </example>
+       <example>
+          <value>I like to ski.</value>
+          <translation>Я люблю кататься на лыжах.</translation>
+          <comment>to like - любить, нравиться, to ski - кататься на лыжах</comment>
+       </example>
+       <example>
+          <value>I like to skate.</value>
+          <translation>Я люблю кататься на коньках.</translation>
+          <comment>to like - любить, нравиться, to skate - кататься на коньках</comment>
+       </example>
+       <example>
+          <value>I like to swim.</value>
+          <translation>Я люблю плавать.</translation>
+          <comment>to like - любить, нравиться, to swim - плавать</comment>
+       </example>
+       <example>
+          <value>Do you like dancing?</value>
+          <translation>Вам нравится танцевать?</translation>
+          <comment>to like - нравиться, любить, dancing - танец, танцы</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to a night club tonight.</value>
+          <translation>Мне бы хотелось сходить в ночной клуб сегодня.</translation>
+          <comment>would like - хотеть, to go - идти, night - ночной, club - клуб, tonight - сегодня вечером</comment>
+       </example>
+       <example>
+          <value>Would you like to dance?</value>
+          <translation>Хотите потанцевать?</translation>
+          <comment>would like - хотеть, to dance - танцевать</comment>
+       </example>
+       <example>
+          <value>No, thanks, I don&apos;t feel like dancing.</value>
+          <translation>Нет, спасибо, я не хочу танцевать.</translation>
+          <comment>thanks - спасибо, to feel like - хотеть, dancing - танец, танцы</comment>
+       </example>
+       <example>
+          <value>Would you like to have a glass of beer in the nearest bar?</value>
+          <translation>Не хотите ли попить пива в ближайшем баре?</translation>
+          <comment>would like - хотеть, to have - иметь, glass - бокал, кружка, beer - пиво, the nearest - ближайший, bar - бар</comment>
+       </example>
+       <example>
+          <value>I like to go for walks along the river.</value>
+          <translation>Я люблю гулять вдоль реки.</translation>
+          <comment>to like - любить, нравиться, to go - идти, ходить, walk - прогулка, along - вдоль, river - река</comment>
+       </example>
+       <example>
+          <value>When I have spare time I like to visit the hippodrome.</value>
+          <translation>Когда есть время, я люблю посещать ипподром.</translation>
+          <comment>when - когда, to have - иметь, spare - свободный, time - время, to like - любить, нравиться, to visit - посещать, hippodrome - ипподром</comment>
+       </example>
+       <example>
+          <value>What is the climate in your country like?</value>
+          <translation>Какой у вас климат?</translation>
+          <comment>what - что, какой, climate - климат, your - твой, ваш, country - страна, like - как, наподобии</comment>
+       </example>
+       <example>
+          <value>What would you like to be?</value>
+          <translation>Кем бы вы хотели быть?</translation>
+          <comment>what - что, какой, would like - хотеть, to be - быть</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to be an actor.</value>
+          <translation>Я бы хотел быть актером.</translation>
+          <comment>would like - хотеть, to be - быть, actor - актер</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to be a bank employee.</value>
+          <translation>Я бы хотел быть банковским служащим.</translation>
+          <comment>would like - хотеть, to be - быть, bank - банк, employee - служащий</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to be a vet.</value>
+          <translation>Я бы хотел быть ветеринаром.</translation>
+          <comment>would like - хотеть, to be - быть, vet - ветеринар</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to clarify the program of our visit.</value>
+          <translation>Мы бы хотели уточнить программу нашего визита.</translation>
+          <comment>would like - хотеть, to clarify - прояснить, program - программа, our - наш, наша, наше, visit - посещение</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to visit a manufacturing enterprise.</value>
+          <translation>Мы бы хотели посетить производственное предприятие.</translation>
+          <comment>would like - хотеть, to visit - посетить, manufacturing - производственный, enterprise - предприятие</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to visit a research center.</value>
+          <translation>Мы бы хотели посетить исследовательский центр.</translation>
+          <comment>would like - хотеть, to visit - посетить, research - исследование, center - центр</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to visit a factory.</value>
+          <translation>Мы бы хотели посетить завод.</translation>
+          <comment>would like - хотеть, to visit - посетить, factory - завод, фабрика</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to talk to the commercial director.</value>
+          <translation>Мы бы хотели побеседовать с коммерческим директором.</translation>
+          <comment>would like - хотеть, to talk - говорить, commercial - коммерческий, director - директор</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to talk to the technical director.</value>
+          <translation>Мы бы хотели побеседовать с техническим директором.</translation>
+          <comment>would like - хотеть, technical - технический, director - директор</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to talk to the director general.</value>
+          <translation>Мы бы хотели побеседовать с генеральным директором.</translation>
+          <comment>would like - хотеть, director - директор, general - главный, генеральный</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to talk to the chief engineer.</value>
+          <translation>Мы бы хотели побеседовать с главным инженером.</translation>
+          <comment>would like - хотеть, chief - главный, engineer - инженер</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an appointment with Mr. Black.</value>
+          <translation>Я бы хотел встретиться с мистером Блэком.</translation>
+          <comment>would like - хотеть, to make - сделать, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to see your finished products.</value>
+          <translation>Мы бы хотели посмотреть вашу продукцию.</translation>
+          <comment>would like - хотеть, to see - видеть, your - твой, ваш, finished - готовый, законченный, product - продукт</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to see perspective samples.</value>
+          <translation>Мы бы хотели посмотреть перспективные образцы.</translation>
+          <comment>would like - хотеть, to see - видеть, perspective - перспективный, sample - образец</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to see the production process.</value>
+          <translation>Мы бы хотели ознакомиться с процессом производства.</translation>
+          <comment>would like - хотеть, to see - видеть, production - производство, process - процесс</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to see the purification works.</value>
+          <translation>Мы бы хотели ознакомиться с очистительными сооружениями.</translation>
+          <comment>would like - хотеть, to see - видеть, purification - очищение, works - сооружения</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to discuss possible forms of cooperation.</value>
+          <translation>Мы бы хотели обсудить возможные формы сотрудничества.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, possible - возможный, form - форма, cooperation - кооперация</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to discuss terms of delivery.</value>
+          <translation>Мы бы хотели обсудить условия поставки.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, delivery - поставка</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to discuss terms of payment.</value>
+          <translation>Мы бы хотели обсудить условия платежа.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, payment - платеж</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to discuss the contract dates.</value>
+          <translation>Мы бы хотели обсудить сроки исполнения контракта.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, contract - контракт, date - дата</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to buy a consignment of your products.</value>
+          <translation>Мы бы хотели закупить партию вашей продукции.</translation>
+          <comment>would like - хотеть, to buy - купить, consignment - партия (товара), product - продукт</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to buy equipment on barter basis.</value>
+          <translation>Мы бы хотели закупить оборудование по бартеру.</translation>
+          <comment>would like - хотеть, to buy - купить, equipment - оборудование, barter - бартер, basis - основа</comment>
+       </example>
+       <example>
+          <value>We&apos;d like to buy a license.</value>
+          <translation>Мы бы хотели купить лицензию.</translation>
+          <comment>would like - хотеть, to buy - купить, license - лицензия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to accept your invitation</question>
+    <answer>принять ваше приглашение</answer>
+    <comment>[tə əkˈsept jər ˌɪnvɪˈteɪʃən]</comment>
+    <question_comment>to accept - принимать, invitation - приглашение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f93663b-26db-46ec-8f25-ecc8bbfddc2f</uuid>
+    <examples>
+       <example>
+          <value>I regret to be unable to accept your invitation.</value>
+          <translation>К сожалению, я не могу принять ваше приглашение.</translation>
+          <comment>to regret - сожалеть, to be - быть, unable - неспособный, to accept - принимать, your - твой, ваш, invitation - приглашение</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

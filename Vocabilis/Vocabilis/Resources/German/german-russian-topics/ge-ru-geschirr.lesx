@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7b4082be-473e-4e9c-a55e-eb34fa29a46e</uuid>
+  <title>Посуда</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>abtrocknen</question>
+    <answer>вытирать</answer>
+    <comment></comment>
+    <uuid>543f9558-0df8-497a-ac87-19215fe1f2f2</uuid>
+  </card>
+  <card>
+    <question>abwaschen</question>
+    <answer>вымыть</answer>
+    <comment></comment>
+    <uuid>3249ce98-bf7b-4372-a2d2-7deb13dfb048</uuid>
+  </card>
+  <card>
+    <question>das Glas</question>
+    <answer>стакан, бокал</answer>
+    <comment></comment>
+    <uuid>fe9b5215-b878-4218-8a68-fad06a4d7bd6</uuid>
+  </card>
+  <card>
+    <question>das Messer</question>
+    <answer>нож</answer>
+    <comment></comment>
+    <uuid>2c5cbf35-92fd-4255-85a2-2eec35408bcb</uuid>
+  </card>
+  <card>
+    <question>das Spülmittel</question>
+    <answer>средство для мытья посуды</answer>
+    <comment></comment>
+    <uuid>de58beb5-83b5-4bc0-9094-83e088f6abdb</uuid>
+  </card>
+  <card>
+    <question>das Weinglas</question>
+    <answer>бокал для вина</answer>
+    <comment></comment>
+    <uuid>71e7d9af-de2f-411e-b179-3894081320b7</uuid>
+  </card>
+  <card>
+    <question>der Eierbecher</question>
+    <answer>подставка для яиц</answer>
+    <comment></comment>
+    <uuid>bb0fd3ea-43a1-4213-81d4-7f5391b799e1</uuid>
+  </card>
+  <card>
+    <question>der flache Teller</question>
+    <answer>мелкая тарелка</answer>
+    <comment></comment>
+    <uuid>d77b5f15-4eb9-43da-b495-4d0c2b01b879</uuid>
+  </card>
+  <card>
+    <question>der Korken</question>
+    <answer>пробка</answer>
+    <comment></comment>
+    <uuid>965ad8cd-6e90-46fe-8c87-9408a48719c8</uuid>
+  </card>
+  <card>
+    <question>der Korkenzieher</question>
+    <answer>штопор</answer>
+    <comment></comment>
+    <uuid>c00239d1-e3a3-4cc9-9254-536371f301f1</uuid>
+  </card>
+  <card>
+    <question>der Löffel</question>
+    <answer>ложка</answer>
+    <comment></comment>
+    <uuid>67452157-b491-4060-be75-5dc8897bc683</uuid>
+  </card>
+  <card>
+    <question>der Teelöffel</question>
+    <answer>чайная ложка</answer>
+    <comment></comment>
+    <uuid>8d6b4178-c95a-43d6-ba0d-b7a25569eff2</uuid>
+  </card>
+  <card>
+    <question>der tiefe Teller</question>
+    <answer>глубокая тарелка</answer>
+    <comment></comment>
+    <uuid>87d5f8b8-2a74-4525-876d-5a7f23eb06a7</uuid>
+  </card>
+  <card>
+    <question>die Flasche</question>
+    <answer>бутылка</answer>
+    <comment></comment>
+    <uuid>f841457e-168a-4c2f-8794-eaf928116b02</uuid>
+  </card>
+  <card>
+    <question>die Gabel</question>
+    <answer>вилка</answer>
+    <comment></comment>
+    <uuid>c0aa365a-065f-4fc5-9342-38940e632045</uuid>
+  </card>
+  <card>
+    <question>die Kaffeekanne</question>
+    <answer>графин для кофе</answer>
+    <comment></comment>
+    <uuid>09ab7327-3237-4700-9846-f40beac92e11</uuid>
+  </card>
+  <card>
+    <question>die Platte</question>
+    <answer>блюдо, поднос</answer>
+    <comment></comment>
+    <uuid>0e5a169d-1a5c-450b-9b96-9d94f3153d66</uuid>
+  </card>
+  <card>
+    <question>die Schöpfkelle</question>
+    <answer>разливательная ложка, ковш</answer>
+    <comment></comment>
+    <uuid>8c60e6ba-c14a-46ca-a69a-00a37d1c0f4b</uuid>
+  </card>
+  <card>
+    <question>die Schüssel</question>
+    <answer>миска, блюдо</answer>
+    <comment></comment>
+    <uuid>f983611e-2e8e-44d0-8d29-7b48bc7f0e59</uuid>
+  </card>
+  <card>
+    <question>die Tasse</question>
+    <answer>чашка</answer>
+    <comment></comment>
+    <uuid>a2b1ec82-d5f0-4249-bd6f-4b7d826989a2</uuid>
+  </card>
+  <card>
+    <question>die Untertasse</question>
+    <answer>блюдце</answer>
+    <comment></comment>
+    <uuid>b96c09cf-4349-4487-9836-2b48086a0393</uuid>
+  </card>
+  <card>
+    <question>Ich muß noch das Geschirr abwaschen.</question>
+    <answer>Мне нужно ещё вымыть посуду.</answer>
+    <comment></comment>
+    <uuid>47490918-0930-4da1-9b9a-c022ae85ccda</uuid>
+  </card>
+  <card>
+    <question>spülen</question>
+    <answer>полоскать, споласкивать</answer>
+    <comment></comment>
+    <uuid>59f33c4f-aac4-46e1-9539-46138d83609e</uuid>
+  </card>
+  <card>
+    <question>waschen</question>
+    <answer>мыть</answer>
+    <comment></comment>
+    <uuid>09c128a6-1b5b-4455-95b0-10303ed2afee</uuid>
+  </card>
+</cards>
+</stack>

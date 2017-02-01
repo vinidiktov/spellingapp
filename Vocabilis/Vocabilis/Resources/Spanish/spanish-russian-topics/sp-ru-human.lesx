@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1969805b-b105-4dad-9c2e-fc89e5ec0250</uuid>
+  <title>Человек</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>solo</question>
+    <answer>единственный, один, одинокий</answer>
+    <comment></comment>
+    <uuid>45e4c4d7-d559-4fbe-bcc4-7e72eec9051b</uuid>
+  </card>
+  <card>
+    <question>enojado</question>
+    <answer>злой, сердитый</answer>
+    <comment></comment>
+    <uuid>601cd97a-5471-42d1-9126-9f4c27899e41</uuid>
+  </card>
+  <card>
+    <question>el camarero</question>
+    <answer>бармен</answer>
+    <comment></comment>
+    <uuid>dd9c78a2-7129-46ee-95e1-5d5f75eae67e</uuid>
+  </card>
+  <card>
+    <question>el mendigo</question>
+    <answer>попрошайка, нищий</answer>
+    <comment></comment>
+    <uuid>d31b50a1-caf6-43e5-91e2-bddfed9e49fc</uuid>
+  </card>
+  <card>
+    <question>el niño</question>
+    <answer>мальчик</answer>
+    <comment></comment>
+    <uuid>ee8f6641-5d81-40d0-b0d1-e026d11244fa</uuid>
+  </card>
+  <card>
+    <question>el novio</question>
+    <answer>друг (девушки), её молодой человек</answer>
+    <comment></comment>
+    <uuid>f822b062-fb1f-48aa-a7c7-c28f77bb27ec</uuid>
+  </card>
+  <card>
+    <question>el hermano</question>
+    <answer>брат</answer>
+    <comment></comment>
+    <uuid>ed2fc15f-73c1-43c5-bbfe-5300063004c6</uuid>
+  </card>
+  <card>
+    <question>el chef</question>
+    <answer>шеф-повар</answer>
+    <comment></comment>
+    <uuid>b4b86c16-461e-4be5-8dd7-ab7e2a08e5ef</uuid>
+  </card>
+  <card>
+    <question>el limpiador</question>
+    <answer>уборщик</answer>
+    <comment></comment>
+    <uuid>49d62c1c-9a17-493e-84b2-c28ccb408207</uuid>
+  </card>
+  <card>
+    <question>llorar</question>
+    <answer>плакать</answer>
+    <comment></comment>
+    <uuid>8172c107-594e-4a28-8b45-879327f49443</uuid>
+  </card>
+  <card>
+    <question>la hija</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <uuid>40a0aa5f-2a10-4a31-8aec-ec6e1422577e</uuid>
+  </card>
+  <card>
+    <question>muerto</question>
+    <answer>мёртвый</answer>
+    <comment></comment>
+    <uuid>2fcb264c-19f9-4795-94bc-966e9c4d9743</uuid>
+  </card>
+  <card>
+    <question>el médico</question>
+    <answer>доктор, врач</answer>
+    <comment></comment>
+    <uuid>5a0d867c-53d2-4148-aa54-cef3d91f3891</uuid>
+  </card>
+  <card>
+    <question>el agricultor</question>
+    <answer>фермер</answer>
+    <comment></comment>
+    <uuid>718463ce-1d9b-4d5c-8c0d-a84fd2885e3f</uuid>
+  </card>
+  <card>
+    <question>gordo</question>
+    <answer>толстый</answer>
+    <comment></comment>
+    <uuid>e7bf2ae2-cbb5-479e-9fa1-4ffbe7860d58</uuid>
+  </card>
+  <card>
+    <question>el padre</question>
+    <answer>отец</answer>
+    <comment></comment>
+    <uuid>ba63b494-8a2b-4e9d-9c33-18fa388f7241</uuid>
+  </card>
+  <card>
+    <question>el bombero</question>
+    <answer>пожарный</answer>
+    <comment></comment>
+    <uuid>f2f19979-103d-4189-9713-18b52bbaa995</uuid>
+  </card>
+  <card>
+    <question>el amigo</question>
+    <answer>друг</answer>
+    <comment></comment>
+    <uuid>e6c05ab3-77a4-4801-8733-c80b0b03e1e4</uuid>
+  </card>
+  <card>
+    <question>la niña</question>
+    <answer>девочка</answer>
+    <comment></comment>
+    <uuid>4634d93e-0378-4bb4-bc3c-18a6ac68ee46</uuid>
+  </card>
+  <card>
+    <question>feliz</question>
+    <answer>счастливый</answer>
+    <comment></comment>
+    <uuid>2c91508f-a8e2-45f5-be2d-dcec4c5f94ad</uuid>
+  </card>
+  <card>
+    <question>odiar</question>
+    <answer>ненавидеть</answer>
+    <comment></comment>
+    <uuid>a1a122a4-9859-49bb-86fa-bec42ec420f9</uuid>
+  </card>
+  <card>
+    <question>saludable</question>
+    <answer>здоровый</answer>
+    <comment></comment>
+    <uuid>8934b942-5b8e-45e7-869d-3a867aa4ec8b</uuid>
+  </card>
+  <card>
+    <question>la idea</question>
+    <answer>идея, мысль</answer>
+    <comment></comment>
+    <uuid>9e2576cd-67d8-4174-b4ed-d7e362cc0a81</uuid>
+  </card>
+  <card>
+    <question>el rey</question>
+    <answer>король</answer>
+    <comment></comment>
+    <uuid>3ea57f95-c494-42cc-b8d2-48509f858baf</uuid>
+  </card>
+  <card>
+    <question>el trabajador</question>
+    <answer>чернорабочий</answer>
+    <comment></comment>
+    <uuid>a1398d33-447c-4396-b6b4-d5a7ed798c24</uuid>
+  </card>
+  <card>
+    <question>reír</question>
+    <answer>смеяться</answer>
+    <comment></comment>
+    <uuid>229d2abf-10a5-4884-a796-044f6add9e28</uuid>
+  </card>
+  <card>
+    <question>gustar</question>
+    <answer>нравиться</answer>
+    <comment></comment>
+    <uuid>1185024e-4111-43cd-9452-d7f5be6df240</uuid>
+  </card>
+  <card>
+    <question>amar</question>
+    <answer>любить</answer>
+    <comment></comment>
+    <uuid>d500b482-29b9-4b3f-a7a6-beadfaef9962</uuid>
+  </card>
+  <card>
+    <question>la madre</question>
+    <answer>мать</answer>
+    <comment></comment>
+    <uuid>5bb6eae4-6d47-41b4-aa18-78139c566c28</uuid>
+  </card>
+  <card>
+    <question>la enfermera</question>
+    <answer>медсестра</answer>
+    <comment></comment>
+    <uuid>7086e03d-db86-474e-b797-84cd57802ae6</uuid>
+  </card>
+  <card>
+    <question>el empleado de oficina</question>
+    <answer>служащий (S. employee)</answer>
+    <comment></comment>
+    <uuid>162f8469-412e-4385-9b38-0b00e9035ee7</uuid>
+  </card>
+  <card>
+    <question>viejo</question>
+    <answer>старый</answer>
+    <comment></comment>
+    <uuid>38f51d41-3506-499d-a054-18f228d5cdc2</uuid>
+  </card>
+  <card>
+    <question>el viejo</question>
+    <answer>старик</answer>
+    <comment></comment>
+    <uuid>0a2731ed-9cb4-438e-8cca-d0e6e98699a6</uuid>
+  </card>
+  <card>
+    <question>la vieja</question>
+    <answer>старуха</answer>
+    <comment></comment>
+    <uuid>a52b91fb-2ade-40d4-be56-5790a7081d0f</uuid>
+  </card>
+  <card>
+    <question>el fotógrafo</question>
+    <answer>фотограф</answer>
+    <comment></comment>
+    <uuid>eeeb2e8a-73a8-4fa6-bd40-306065aa7b21</uuid>
+  </card>
+  <card>
+    <question>el piloto</question>
+    <answer>лётчик</answer>
+    <comment></comment>
+    <uuid>01d88d28-5c1c-4c53-8361-97565dee31bb</uuid>
+  </card>
+  <card>
+    <question>el fontanero</question>
+    <answer>водопроводчик</answer>
+    <comment></comment>
+    <uuid>00abf677-d83a-424f-8887-a221e2916497</uuid>
+  </card>
+  <card>
+    <question>el oficial de policía</question>
+    <answer>офицер полиции</answer>
+    <comment></comment>
+    <uuid>63f353d0-42e1-4294-a068-b3c45e972e77</uuid>
+  </card>
+  <card>
+    <question>el político</question>
+    <answer>политик</answer>
+    <comment></comment>
+    <uuid>30ae6450-7117-4c81-b496-c1e39db34de5</uuid>
+  </card>
+  <card>
+    <question>el preso</question>
+    <answer>заключённый, арестант</answer>
+    <comment></comment>
+    <uuid>5b35bebe-15af-40ce-9f85-f6b891bbf834</uuid>
+  </card>
+  <card>
+    <question>el programador</question>
+    <answer>программист</answer>
+    <comment></comment>
+    <uuid>c88851ad-8278-48c1-95bb-e0bde2a57f34</uuid>
+  </card>
+  <card>
+    <question>triste</question>
+    <answer>грустный</answer>
+    <comment></comment>
+    <uuid>17ba6eeb-189b-4f8d-a0ca-ed9aca443cc9</uuid>
+  </card>
+  <card>
+    <question>el marinero</question>
+    <answer>моряк</answer>
+    <comment></comment>
+    <uuid>45598e3b-883b-4f5b-b4e6-bfe493d5ecfe</uuid>
+  </card>
+  <card>
+    <question>grave</question>
+    <answer>серьёзный</answer>
+    <comment></comment>
+    <uuid>e7f71d24-e426-4543-9be7-536d0db56264</uuid>
+  </card>
+  <card>
+    <question>el tendero</question>
+    <answer>владелец магазина</answer>
+    <comment></comment>
+    <uuid>e61ae04b-d726-40e3-ab4d-9a752f302afe</uuid>
+  </card>
+  <card>
+    <question>corto</question>
+    <answer>короткий, низкорослый</answer>
+    <comment></comment>
+    <uuid>5e1eb3ac-dca7-424b-bd8f-0c9bdec706db</uuid>
+  </card>
+  <card>
+    <question>enfermo</question>
+    <answer>больной</answer>
+    <comment></comment>
+    <uuid>ea361739-150d-4742-8e8b-a53496ce0049</uuid>
+  </card>
+  <card>
+    <question>la firma</question>
+    <answer>подпись</answer>
+    <comment></comment>
+    <uuid>7fe023b4-eaa4-49d6-920e-38d3fa62fafb</uuid>
+  </card>
+  <card>
+    <question>la hermana</question>
+    <answer>сестра</answer>
+    <comment></comment>
+    <uuid>d398af19-87d8-4fb4-b078-d96fc27de58c</uuid>
+  </card>
+  <card>
+    <question>sentarse</question>
+    <answer>садиться</answer>
+    <comment></comment>
+    <uuid>baf47f07-de26-43b1-8576-d62dc962c3a7</uuid>
+  </card>
+  <card>
+    <question>el cráneo</question>
+    <answer>череп</answer>
+    <comment></comment>
+    <uuid>1e9f6c7b-f29a-4586-b7ce-b23ef794e3db</uuid>
+  </card>
+  <card>
+    <question>el esclavo</question>
+    <answer>раб</answer>
+    <comment></comment>
+    <uuid>71f03c2c-8498-4703-b3ed-6277df82f46c</uuid>
+  </card>
+  <card>
+    <question>fumar</question>
+    <answer>курить</answer>
+    <comment></comment>
+    <uuid>31995b8d-51d1-4670-a3a4-ff5142d6eb21</uuid>
+  </card>
+  <card>
+    <question>el soldado</question>
+    <answer>солдат</answer>
+    <comment></comment>
+    <uuid>ba306557-54e3-4eac-b2c4-92dddd981a1a</uuid>
+  </card>
+  <card>
+    <question>el hijo</question>
+    <answer>сын</answer>
+    <comment></comment>
+    <uuid>27d916f2-e9da-410b-8220-6a3980cd3a8f</uuid>
+  </card>
+  <card>
+    <question>estar de pie</question>
+    <answer>стоять, вставать</answer>
+    <comment></comment>
+    <uuid>4eaf9b65-6430-4cfe-9835-96390f45a4e0</uuid>
+  </card>
+  <card>
+    <question>el sastre</question>
+    <answer>портной</answer>
+    <comment></comment>
+    <uuid>42f0de5a-485d-4def-b32e-27e18f31909d</uuid>
+  </card>
+  <card>
+    <question>alto</question>
+    <answer>высокий (S. high)</answer>
+    <comment></comment>
+    <uuid>6aaac4b8-673e-4a5a-8fe1-c41d13e3def0</uuid>
+  </card>
+  <card>
+    <question>delgado</question>
+    <answer>тонкий</answer>
+    <comment></comment>
+    <uuid>2b2cce0b-8971-4c4e-afab-644dde61e53e</uuid>
+  </card>
+  <card>
+    <question>cansado</question>
+    <answer>уставший</answer>
+    <comment></comment>
+    <uuid>57a8aa83-5d2d-4ee5-829a-9924fd258de2</uuid>
+  </card>
+  <card>
+    <question>el camarero</question>
+    <answer>официант</answer>
+    <comment></comment>
+    <uuid>71b7b54f-fd3f-4e4d-8ddc-ada82a14b110</uuid>
+  </card>
+  <card>
+    <question>caminar</question>
+    <answer>гулять</answer>
+    <comment></comment>
+    <uuid>8857a3c2-0e4f-4333-ab96-7c87ee0c286e</uuid>
+  </card>
+  <card>
+    <question>la soldadora</question>
+    <answer>сварщик</answer>
+    <comment></comment>
+    <uuid>9887661c-f9b3-43b1-bab0-353c3febd4d0</uuid>
+  </card>
+  <card>
+    <question>bostezar</question>
+    <answer>зевать</answer>
+    <comment></comment>
+    <uuid>389779bb-667d-4dc3-9e42-099b86800c0b</uuid>
+  </card>
+  <card>
+    <question>joven</question>
+    <answer>молодой</answer>
+    <comment></comment>
+    <uuid>47caeb1c-cf45-492a-8cbb-f64087643c15</uuid>
+  </card>
+</cards>
+</stack>

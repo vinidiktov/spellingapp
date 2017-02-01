@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>39c2b21c-20a0-4edc-8dd1-1109789215b5</uuid>
+  <title>Инструменты</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>extinguisher</question>
+    <answer>огнетушитель</answer>
+    <comment>[ɪksˈtɪŋgwɪʃə]</comment>
+    <answer_picture>extinguisher.gif</answer_picture>
+    <uuid>ec915a0a-e6ad-4fe4-8dab-dc7f412fd450</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>construction site</question>
+    <answer>стройка, стройплощадка</answer>
+    <comment>[kənˈstrʌkʃən sаɪt]</comment>
+    <answer_picture>construction_site.gif</answer_picture>
+    <uuid>cfea98ba-3239-47ba-93b3-557cf448bd96</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hinge</question>
+    <answer>петля (дверная)</answer>
+    <comment>[hɪnʤ]</comment>
+    <answer_picture>hinge.gif</answer_picture>
+    <uuid>3341b2d7-a540-43fa-a646-3634e6c7aa38</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hammer</question>
+    <answer>молоток</answer>
+    <comment>[ˈhæmə]</comment>
+    <answer_picture>hammer.gif</answer_picture>
+    <uuid>2dddc229-9205-4265-af51-ba55a59815c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>flashlight</question>
+    <answer>фонарик</answer>
+    <comment>[ˈflæʃlаɪt]</comment>
+    <answer_picture>flashlight.gif</answer_picture>
+    <uuid>cbaa1182-b211-4b47-bab1-608656a2b155</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>axe</question>
+    <answer>топор</answer>
+    <comment>[æks]</comment>
+    <answer_picture>axe.gif</answer_picture>
+    <uuid>abafa73a-afb8-4637-81de-feece77f4f52</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hose</question>
+    <answer>шланг</answer>
+    <comment>[həʊz]</comment>
+    <answer_picture>hose.gif</answer_picture>
+    <uuid>4d7cd73b-cfb3-4562-81d6-ad4edb1cea7b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bar</question>
+    <answer>бар</answer>
+    <comment>[bɑː]</comment>
+    <answer_picture>bar.gif</answer_picture>
+    <uuid>4b3034c1-b853-4c79-83d0-cff53b7122f3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>art</question>
+    <answer>искусство</answer>
+    <comment>[ɑːt]</comment>
+    <answer_picture>art.gif</answer_picture>
+    <uuid>6787be61-581e-4689-b2da-fa143e384152</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>drill</question>
+    <answer>дрель</answer>
+    <comment>[drɪl]</comment>
+    <answer_picture>drill.gif</answer_picture>
+    <uuid>b7ed1a20-95c6-419d-9997-ab82bb292920</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>knife</question>
+    <answer>нож</answer>
+    <comment>[nаɪf]</comment>
+    <answer_picture>knife.gif</answer_picture>
+    <uuid>fd8ff743-22e9-4d5c-913e-f674a8b8e892</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ladder</question>
+    <answer>лестница</answer>
+    <comment>[ˈlædə]</comment>
+    <answer_picture>ladder.gif</answer_picture>
+    <uuid>94d74a38-a959-4b7b-a9b6-2c618ad38f23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lighter</question>
+    <answer>зажигалка</answer>
+    <comment>[ˈlаɪtə]</comment>
+    <answer_picture>lighter.gif</answer_picture>
+    <uuid>5cde7549-0a7d-426a-bf5c-95e38ccdb11d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>measuring tape</question>
+    <answer>мерная лента</answer>
+    <comment>[ˈmeʒəɪŋ teɪp]</comment>
+    <answer_picture>measuring_tape.gif</answer_picture>
+    <uuid>4f617e81-ff6f-4590-ae9e-cc0c939d24fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>medicine</question>
+    <answer>медицина</answer>
+    <comment>[ˈmedsɪn]</comment>
+    <answer_picture>medicine.gif</answer_picture>
+    <uuid>368cd50a-e5dd-4af7-a9b8-686d5f7399c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pincers</question>
+    <answer>клещи, щипцы</answer>
+    <comment>[ˈpɪnsəz]</comment>
+    <answer_picture>pincers.gif</answer_picture>
+    <uuid>54da8b76-5b75-406f-8a29-f3153c60a965</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pliers</question>
+    <answer>плоскогубцы</answer>
+    <comment>[ˈplаɪəz]</comment>
+    <answer_picture>pliers.gif</answer_picture>
+    <uuid>542e157c-c98a-4866-8b47-b27c18bdb4cb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rope</question>
+    <answer>верёвка</answer>
+    <comment>[rəʊp]</comment>
+    <answer_picture>rope.gif</answer_picture>
+    <uuid>efd036f0-fda7-42ac-9393-feddcbe7f5da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>saw</question>
+    <answer>пила (инструмент)</answer>
+    <comment>[sɔː]</comment>
+    <answer_picture>saw.gif</answer_picture>
+    <uuid>aa07564c-5c22-4443-a874-1d7b398b8952</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>scale</question>
+    <answer>весы</answer>
+    <comment>[skeɪl]</comment>
+    <answer_picture>scale.gif</answer_picture>
+    <uuid>8413ced9-61f5-42b2-a6a6-67abe3ee9700</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>screwdriver</question>
+    <answer>отвёртка</answer>
+    <comment>[ˈskruːˌdrаɪvə]</comment>
+    <answer_picture>screwdriver.gif</answer_picture>
+    <uuid>3d8ad88b-f24a-4cb4-bca9-e51a239aaf67</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sculpt</question>
+    <answer>ваять, лепить, высекать</answer>
+    <comment>[skʌlpt]</comment>
+    <answer_picture>sculpt.gif</answer_picture>
+    <uuid>e1579579-d5d1-4c38-98fa-3c6cbd310a81</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>set square</question>
+    <answer>угольник</answer>
+    <comment>[set skweə]</comment>
+    <answer_picture>set_square.gif</answer_picture>
+    <uuid>6c0e6dab-5a5a-477f-a9e3-80d588c3398f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tape measure</question>
+    <answer>рулетка, мерная лента</answer>
+    <comment>[teɪp ˈmeʒə]</comment>
+    <answer_picture>tape_measure.gif</answer_picture>
+    <uuid>a0eb37bd-7909-4b56-847a-1c2002f5f58f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>toolbox</question>
+    <answer>инструментальный ящик</answer>
+    <comment>[tuːl bɒks]</comment>
+    <answer_picture>toolbox.gif</answer_picture>
+    <uuid>7faa93b7-dd18-45f2-8849-910fe5e56657</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wheelbarrow</question>
+    <answer>тачка</answer>
+    <comment>[ˈwiːlˌbærəʊ]</comment>
+    <answer_picture>wheelbarrow.gif</answer_picture>
+    <uuid>57f733fd-5e1c-4b0f-8527-493648dd93ef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wrench</question>
+    <answer>гаечный ключ</answer>
+    <comment>[renʧ]</comment>
+    <answer_picture>wrench.gif</answer_picture>
+    <uuid>7337736e-1cb1-4e3d-8347-5bd4dec706f1</uuid>
+  </card>
+</cards>
+</stack>

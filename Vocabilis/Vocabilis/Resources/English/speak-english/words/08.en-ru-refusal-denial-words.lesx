@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>bbc21fea-345e-47cd-8467-5d42e7d5870e</uuid>
+  <title>Отказ, Отрицание :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>object</question>
+    <answer>возражать</answer>
+    <comment>![əb&apos;ʒekt]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5215e2ab-a773-4ec8-836f-3c3228aab7bd</uuid>
+    <examples>
+       <example>
+          <value>to object strongly</value>
+          <translation>быть категорически против</translation>
+          <comment>to object - возражать, протестовать, strongly - сильно</comment>
+       </example>
+       <example>
+          <value>to object to that</value>
+          <translation>возражать против этого</translation>
+          <comment>to object - возражать, протестовать, that - то, это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>big</question>
+    <answer>большой</answer>
+    <comment>[bɪg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9941bcd3-a547-45e0-ba09-fcdbefe7f9d6</uuid>
+    <examples>
+       <example>
+          <value>a big mistake</value>
+          <translation>большая ошибка</translation>
+          <comment>big - большой, mistake - ошибка</comment>
+       </example>
+       <example>
+          <value>a big glass</value>
+          <translation>большой стакан</translation>
+          <comment>big - большой, glass - стакан</comment>
+       </example>
+       <example>
+          <value>to be a bit big</value>
+          <translation>быть великоватыми</translation>
+          <comment>a bit - немного, big - большой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>exactly</question>
+    <answer>точно</answer>
+    <comment>[ɪgˈzæktliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc22c4d7-e0f1-4804-930b-7ddcab7fc7da</uuid>
+    <examples>
+       <example>
+          <value>to know exactly</value>
+          <translation>знать точно</translation>
+          <comment>to know - знать, exactly - точно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wrong</question>
+    <answer>неправильный</answer>
+    <comment>[rɔːŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d7395fbc-9f94-40cc-93cf-e79c4a445218</uuid>
+    <examples>
+       <example>
+          <value>to be wrong about something</value>
+          <translation>ошибаться в чем-либо</translation>
+          <comment>wrong - неправильный, ошибочный, something - что-либо</comment>
+       </example>
+       <example>
+          <value>Something is wrong with my car.</value>
+          <translation>В машине что-то забарахлило.</translation>
+          <comment>something - что-то, wrong - неисправный, car - машина</comment>
+       </example>
+       <example>
+          <value>a fine for wrong parking</value>
+          <translation>штраф за неправильную парковку</translation>
+          <comment>fine -штраф, wrong - неправильный, parking - парковка, to park - ставить (машину)</comment>
+       </example>
+       <example>
+          <value>to get the wrong number</value>
+          <translation>ошибиться номером</translation>
+          <comment>to get - получить, wrong - неправильный, number - номер</comment>
+       </example>
+       <example>
+          <value>wrong number</value>
+          <translation>неправильный номер</translation>
+          <comment>wrong - неправильный, number - номер</comment>
+       </example>
+       <example>
+          <value>What&apos;s wrong?</value>
+          <translation>Что случилось?</translation>
+          <comment>what - что, wrong - неправильный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>unable</question>
+    <answer>неспособный</answer>
+    <comment>[ənˈeɪbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02aa658a-4b37-4006-a3e9-9813f8612410</uuid>
+    <examples>
+       <example>
+          <value>to be unable to accept</value>
+          <translation>не мочь принять</translation>
+          <comment>unable - неспособный, accept - принять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sense</question>
+    <answer>смысл</answer>
+    <comment>[sens]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>50614c81-e4f3-4a11-a6b6-47a1c550c0cb</uuid>
+    <examples>
+       <example>
+          <value>much sense</value>
+          <translation>большой смысл</translation>
+          <comment>much - много, sense - смысл</comment>
+       </example>
+       <example>
+          <value>to see much sense in it</value>
+          <translation>видеть в этом смысл</translation>
+          <comment>to see - видеть, much - много, sense - смысл</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>seem</question>
+    <answer>казаться</answer>
+    <comment>[siːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>731ca80b-1f4b-46d0-b0d0-1724731b044b</uuid>
+    <examples>
+       <example>
+          <value>it seems</value>
+          <translation>кажется</translation>
+          <comment>to seem - казаться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>think</question>
+    <answer>думать</answer>
+    <comment>[θɪŋk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>86598cd2-7b83-4361-b02f-909151724b33</uuid>
+    <examples>
+       <example>
+          <value>to think so</value>
+          <translation>думать так</translation>
+          <comment>to think - думать, so - так</comment>
+       </example>
+       <example>
+          <value>to think of this film</value>
+          <translation>думать об этом фильме</translation>
+          <comment>to think - думать, this - этот, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>refuse</question>
+    <answer>отказывать(ся)</answer>
+    <comment>[rɪˈfjuːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>370ab2c4-7237-4e7e-8a74-e856b0e87361</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t refuse.</value>
+          <translation>Не отказывайся.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>How to refuse an invitation?</value>
+          <translation>Как отзаваться от приглашения?</translation>
+          <comment>how - как, invitation - предложение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>deny</question>
+    <answer>отрицать</answer>
+    <comment>[dɪˈnаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>923277d5-b5d9-4546-b715-11c12fbe2ac6</uuid>
+    <examples>
+       <example>
+          <value>He doesn&apos;t deny it.</value>
+          <translation>Он этого не отрицает.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>accept</question>
+    <answer>принимать (приглашение)</answer>
+    <comment>[əkˈsept]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee7ac8ec-a146-4398-8e41-bc3ad5f491a8</uuid>
+    <examples>
+       <example>
+          <value>to accept an invitation</value>
+          <translation>принимать приглашение</translation>
+          <comment>invitation - приглашение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>exact</question>
+    <answer>точны</answer>
+    <comment>[ɪgˈzækt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4bd5ba99-e15d-44da-8b36-d4667e2b44c3</uuid>
+    <examples>
+       <example>
+          <value>the exact distance</value>
+          <translation>точное расстояние</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the exact weight</value>
+          <translation>точный вес</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>able</question>
+    <answer>способный</answer>
+    <comment>[ˈeɪbl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ab376a56-9253-4da2-9074-64306f75f35f</uuid>
+    <examples>
+       <example>
+          <value>to be able to accept</value>
+          <translation>быть способным (мочь) принять</translation>
+          <comment>to accept - принимать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>right</question>
+    <answer>правильный</answer>
+    <comment>[rаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91f1905a-5a73-49c7-ace5-5fe57a2e9d21</uuid>
+    <examples>
+       <example>
+          <value>the right way</value>
+          <translation>правильный путь, способ</translation>
+          <comment>way - путь, способ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ask</question>
+    <answer>просить, спрашивать</answer>
+    <comment>[ɑːsk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1572fa0c-fdaa-46df-8aee-5186f7efd3a6</uuid>
+    <examples>
+       <example>
+          <value>to ask for help</value>
+          <translation>просить о помощи</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

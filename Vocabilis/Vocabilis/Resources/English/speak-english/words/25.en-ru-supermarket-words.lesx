@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ca160e54-12cf-4728-9d36-cec37898fde2</uuid>
+  <title>Универмаг :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>art</question>
+    <answer>искусство</answer>
+    <comment>[ɑːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ab93fb60-d5b0-4492-836f-a31e99246c07</uuid>
+    <examples>
+       <example>
+          <value>books on art</value>
+          <translation>книги по искусству</translation>
+          <comment>book - книга, art - искусство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lighter</question>
+    <answer>зажигалка</answer>
+    <comment>[ˈlаɪtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bca89cb3-2994-47c3-9d87-336756b2d214</uuid>
+    <examples>
+       <example>
+          <value>to give a lighter</value>
+          <translation>дать зажигалку</translation>
+          <comment>to give - давать, lighter - зажигалка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>color</question>
+    <answer>цвет</answer>
+    <comment>[ˈkʌlər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8401cfed-7352-4aae-95f7-53e781815393</uuid>
+    <examples>
+       <example>
+          <value>some other color</value>
+          <translation>другой цвет</translation>
+          <comment>some - некоторый, other - другой, color - цвет</comment>
+       </example>
+       <example>
+          <value>the same but of a different color</value>
+          <translation>то же самое, но другого цвета</translation>
+          <comment>the same - то же самое, but - но, different - другой, color - цвет</comment>
+       </example>
+       <example>
+          <value>to be a good color</value>
+          <translation>быть подходящим цветом</translation>
+          <comment>good - хороший, color - цвет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>spring</question>
+    <answer>весна</answer>
+    <comment>[sprɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b221a9c1-951c-43c5-a159-a5b0e6e05960</uuid>
+    <examples>
+       <example>
+          <value>The Spring sales are on.</value>
+          <translation>Идут весенние распродажи.</translation>
+          <comment>spring - весна, sale - распродажа, to be on - идти, проводиться</comment>
+       </example>
+       <example>
+          <value>in spring</value>
+          <translation>весной</translation>
+          <comment>spring - весна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>deodorant</question>
+    <answer>дезодорант</answer>
+    <comment>[diːˈoʊdərənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d7008f4-fad3-46fa-9a99-6ccc38e03762</uuid>
+    <examples>
+       <example>
+          <value>to pick up a deodorant</value>
+          <translation>подобрать дезодорант</translation>
+          <comment>to pick up - подобрать, выбрать, deodorant - дезодорант</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>elderly</question>
+    <answer>пожилой</answer>
+    <comment>[ˈeldərliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5878a07c-99cf-42e5-b6f2-474bb656351a</uuid>
+    <examples>
+       <example>
+          <value>flowers for an elderly lady</value>
+          <translation>цветы для пожилой женщины</translation>
+          <comment>flower - цветок, elderly - пожилой, lady - дама, женщина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nail</question>
+    <answer>ноготь</answer>
+    <comment>[neɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>573e3610-276c-4c96-a91a-4f2c55e1e8e4</uuid>
+    <examples>
+       <example>
+          <value>a nail file</value>
+          <translation>пилочка для ногтей</translation>
+          <comment>nail - ноготь, file - пилочка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>file</question>
+    <answer>пилочка</answer>
+    <comment>[fаɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8587329d-dc37-47b0-a5ad-fa73524d6b3b</uuid>
+    <examples>
+       <example>
+          <value>a nail file</value>
+          <translation>пилочка для ногтей</translation>
+          <comment>nail - ноготь, file - пилочка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wrap</question>
+    <answer>завернуть</answer>
+    <comment>[ræp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>81579645-1935-49f9-aee7-8a6f05e3de00</uuid>
+    <examples>
+       <example>
+          <value>to wrap it up</value>
+          <translation>упаковать (завернуть) это</translation>
+          <comment>to wrap up - завернуть, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>scissors</question>
+    <answer>ножницы</answer>
+    <comment>[ˈsɪzərz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1f623eb-0971-434a-a432-f280d814aac9</uuid>
+    <examples>
+       <example>
+          <value>a pair of manicure scissors</value>
+          <translation>маникюрные ножницы</translation>
+          <comment>pair - пара, manicure - маникюр, scissors - ножницы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>girl</question>
+    <answer>девушка</answer>
+    <comment>[gɜːrl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7fe395a3-e1c4-49b6-9c40-a7d6232150a6</uuid>
+    <examples>
+       <example>
+          <value>to choose a gift for a girl</value>
+          <translation>выбрать подарок для девушки</translation>
+          <comment>to choose - выбрать, gift - подарок, girl - девушка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>size</question>
+    <answer>размер</answer>
+    <comment>[sаɪz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b8260de7-9ce3-4b83-af5b-441b0eb10507</uuid>
+    <examples>
+       <example>
+          <value>a size smaller</value>
+          <translation>на размер меньше</translation>
+          <comment>size - размер, smaller - меньше</comment>
+       </example>
+       <example>
+          <value>in my size</value>
+          <translation>моего размера</translation>
+          <comment>my - мой, моя, size - размер</comment>
+       </example>
+       <example>
+          <value>This is not my size.</value>
+          <translation>Это не мой размер.</translation>
+          <comment>This - это, my - мой, моя, size - размер</comment>
+       </example>
+       <example>
+          <value>to offer a larger size</value>
+          <translation>предложить размер побольше</translation>
+          <comment>to offer - предлагать, larger - более крупный, large - большой, size - размер</comment>
+       </example>
+       <example>
+          <value>medium size</value>
+          <translation>средний размер</translation>
+          <comment>medium - средний, size - размер</comment>
+       </example>
+       <example>
+          <value>one fish of medium size</value>
+          <translation>одна рыба среднего размера</translation>
+          <comment>one - один, fish - рыба, medium - средний, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>blue</question>
+    <answer>голубой</answer>
+    <comment>[bluː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5023e4e-bd1e-4941-a351-1cdb6037ca4f</uuid>
+    <examples>
+       <example>
+          <value>to look at that blue blouse</value>
+          <translation>взглянуть на ту голубую блузку</translation>
+          <comment>to look - смотреть, that - тот, та, blue - голубой, blouse - блузка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pipe</question>
+    <answer>трубка</answer>
+    <comment>[pаɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cbe48251-aa96-4149-a049-e50040333760</uuid>
+    <examples>
+       <example>
+          <value>to buy pipe tobacco</value>
+          <translation>купить трубочный табак</translation>
+          <comment>to buy - купить, pipe - курительная трубка, tobacco - табак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>different</question>
+    <answer>различный</answer>
+    <comment>[ˈdɪfərənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a95c416c-0c51-4120-b2e2-194ebbee180a</uuid>
+    <examples>
+       <example>
+          <value>the same but of a different color</value>
+          <translation>то же самое, но другого цвета</translation>
+          <comment>the same - то же самое, but - но, different - другой, color - цвет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>flower</question>
+    <answer>цветок</answer>
+    <comment>[ˈflаʊər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c47c1bc2-4251-4e5c-8dd1-191eb0f024e0</uuid>
+    <examples>
+       <example>
+          <value>a bunch of flowers</value>
+          <translation>букет цветов</translation>
+          <comment>bunch - букет, flower - цветок</comment>
+       </example>
+       <example>
+          <value>flowers for an elderly lady</value>
+          <translation>цветы для пожилой женщины</translation>
+          <comment>flower - цветок, elderly - пожилой, lady - дама, женщина</comment>
+       </example>
+       <example>
+          <value>flowers for an official congratulation</value>
+          <translation>цветы для официального поздравления</translation>
+          <comment>flower - цветок, official - официальный, congratulation - поздравление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fit</question>
+    <answer>подходить, быть впору</answer>
+    <comment>[fɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a7d02e8b-da1c-4b42-82b3-95cbd92e70dd</uuid>
+    <examples>
+       <example>
+          <value>to fit well</value>
+          <translation>быть как раз (по размеру)</translation>
+          <comment>to fit - подходить, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>weekend</question>
+    <answer>выходные</answer>
+    <comment>[ˈwiːkˌend]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>540b5dee-18eb-41ff-923f-1bdf4701b753</uuid>
+    <examples>
+       <example>
+          <value>on weekends</value>
+          <translation>в выходные дни</translation>
+          <comment>weekends - выходные дни, week - неделя</comment>
+       </example>
+       <example>
+          <value>to have a good weekend</value>
+          <translation>хорошо провести выходные</translation>
+          <comment>to have - иметь, good - хороший, weekend - выходные</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>menthol</question>
+    <answer>ментол</answer>
+    <comment>[ˈmenθoʊl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3896a042-136d-46f6-a244-c621ea63e45a</uuid>
+    <examples>
+       <example>
+          <value>to buy cigarettes with menthol</value>
+          <translation>купить сигареты с ментолом</translation>
+          <comment>to buy - купить, cigarette - сигарета, menthol - ментол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>than</question>
+    <answer>чем</answer>
+    <comment>[ðæn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5f32268-7025-4425-9307-3f80e1193590</uuid>
+    <examples>
+       <example>
+          <value>to spend more than twenty dollars</value>
+          <translation>потратить больше 20 долларов</translation>
+          <comment>to spend - тратить, more - больше, than - чем, twenty - двадцать, dollar - доллар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tight</question>
+    <answer>узкий</answer>
+    <comment>[tаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82221f2d-b448-4dfe-a075-bc07100e3c4c</uuid>
+    <examples>
+       <example>
+          <value>to be a bit tight</value>
+          <translation>немного жать</translation>
+          <comment>a bit - немного, tight - узкий</comment>
+       </example>
+       <example>
+          <value>too tight</value>
+          <translation>слишком узкий</translation>
+          <comment>too - слишком, tight - узкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fitting</question>
+    <answer>примерка</answer>
+    <comment>[ˈfɪtɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>031e5062-992b-4a6d-8601-dc6333a4bc7d</uuid>
+    <examples>
+       <example>
+          <value>a fitting room</value>
+          <translation>примерочная</translation>
+          <comment>fitting - примерка, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>other</question>
+    <answer>другой</answer>
+    <comment>[ˈʌðər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>219cc1ce-886b-4a44-b13f-78ddf7118039</uuid>
+    <examples>
+       <example>
+          <value>some other color</value>
+          <translation>другой цвет</translation>
+          <comment>some - некоторый, other - другой, color - цвет</comment>
+       </example>
+       <example>
+          <value>to have other models</value>
+          <translation>иметь другие модели</translation>
+          <comment>to have - иметь, other - другой, model - модель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>choose</question>
+    <answer>выбирать</answer>
+    <comment>[ʧuːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8372d05-0155-41fa-9ec5-7b453ab83be6</uuid>
+    <examples>
+       <example>
+          <value>to choose a gift for a girl</value>
+          <translation>выбрать подарок для девушки</translation>
+          <comment>to choose - выбрать, gift - подарок, girl - девушка</comment>
+       </example>
+       <example>
+          <value>to choose a gift for a man</value>
+          <translation>выбрать подарок для мужчины</translation>
+          <comment>to choose - выбрать, gift - подарок, man - мужчина</comment>
+       </example>
+       <example>
+          <value>to choose a gift for a woman</value>
+          <translation>выбрать подарок для женщины</translation>
+          <comment>to choose - выбрать, gift - подарок, woman - женщина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a lot</question>
+    <answer>много</answer>
+    <comment>[ə lɑːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f0b22d5-fcea-4f2b-bd24-4b8a88235659</uuid>
+    <examples>
+       <example>
+          <value>to buy a lot of things</value>
+          <translation>купить много вещей</translation>
+          <comment>to buy - купить, a lot - много, thing - вещь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tie</question>
+    <answer>галстук</answer>
+    <comment>[tаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7d903a3-d9a8-4596-a106-badfe2ba67e1</uuid>
+    <examples>
+       <example>
+          <value>to buy a tie</value>
+          <translation>купить галстук</translation>
+          <comment>to buy - купить, tie - галстук</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>white</question>
+    <answer>белый</answer>
+    <comment>[hwаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7c0854b9-482d-4d98-ac6d-1a28f092eb31</uuid>
+    <examples>
+       <example>
+          <value>white T-shirts</value>
+          <translation>белые футболки</translation>
+          <comment>white - белый, T-shirt - футболка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>carton</question>
+    <answer>коробка</answer>
+    <comment>[ˈkɑːrtn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8921f1d1-79d9-4aa1-8106-d8aa0947a82c</uuid>
+    <examples>
+       <example>
+          <value>a carton of cigarettes</value>
+          <translation>блок сигарет</translation>
+          <comment>carton - картонная коробка, cigarette - сигарета</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>interested</question>
+    <answer>заинтересованный</answer>
+    <comment>[ˈɪntərɪstɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>65be6227-9784-4c0f-9fc8-84821ade7218</uuid>
+    <examples>
+       <example>
+          <value>to be interested in</value>
+          <translation>интересоваться чем-л.</translation>
+          <comment>interested - заинтересованный</comment>
+       </example>
+       <example>
+          <value>to be interested in fishing</value>
+          <translation>увлекаться рыбалкой</translation>
+          <comment>interested - интересующийся, fishing - рыбалка</comment>
+       </example>
+       <example>
+          <value>to be interested in technology</value>
+          <translation>интересоваться технологией</translation>
+          <comment>interested - заинтересованный, technology - технология</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stock</question>
+    <answer>склад</answer>
+    <comment>[stɑːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d6a0b803-4d2d-4eba-ba3e-d8afb41dd0c7</uuid>
+    <examples>
+       <example>
+          <value>to be out of stock</value>
+          <translation>не быть в наличии</translation>
+          <comment>out of - из, вне, stock - склад</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>firm</question>
+    <answer>фирма</answer>
+    <comment>[fɜːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b33d2069-b06d-4004-9c56-c89f0e0eb93e</uuid>
+    <examples>
+       <example>
+          <value>perfumes of this firm</value>
+          <translation>духи этой фирмы</translation>
+          <comment>perfume - духи, firm - фирма</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gaudy</question>
+    <answer>яркий</answer>
+    <comment>[ˈgɔːdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9a6e6d9d-6a8d-4a86-b3b4-7bc95eac89dd</uuid>
+    <examples>
+       <example>
+          <value>too gaudy</value>
+          <translation>слишком яркий</translation>
+          <comment>too - слишком, gaudy - яркий, кричащий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>woman</question>
+    <answer>женщина</answer>
+    <comment>[ˈwʊmən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7a751920-9c07-40f7-afb9-caedca9c9c8f</uuid>
+    <examples>
+       <example>
+          <value>to choose a gift for a woman</value>
+          <translation>выбрать подарок для женщины</translation>
+          <comment>to choose - выбрать, gift - подарок, woman - женщина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shopping</question>
+    <answer>покупки</answer>
+    <comment>[ˈʃɑːpɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4e78c6a0-15cf-464b-900b-9d5ce675f772</uuid>
+    <examples>
+       <example>
+          <value>to go shopping</value>
+          <translation>пойти за покупками</translation>
+          <comment>to go - идти, shopping - покупки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tester</question>
+    <answer>тестер</answer>
+    <comment>[ˈtestər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5538885f-77af-4a71-8a4d-36fd320020bc</uuid>
+    <examples>
+       <example>
+          <value>a tester of this perfume</value>
+          <translation>тестер этих духов</translation>
+          <comment>tester - тестер, this - этот, эта, perfume - духи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>camera</question>
+    <answer>фотоаппарат</answer>
+    <comment>[ˈkæmərə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62fa9a81-366f-46ab-a246-9f21e587445f</uuid>
+    <examples>
+       <example>
+          <value>to show this camera</value>
+          <translation>показать этот фотоаппарат</translation>
+          <comment>to show - показать, this - этот, эта, camera - фотоаппарат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>brand</question>
+    <answer>бренд, торговая марка</answer>
+    <comment>[brænd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a5dc82c7-646f-4bb5-9fda-9441815b15e9</uuid>
+    <examples>
+       <example>
+          <value>a very good brand</value>
+          <translation>очень хорошая марка</translation>
+          <comment>very - очень, good - хороший, brand - марка (торговая)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cigar</question>
+    <answer>сигара</answer>
+    <comment>[sɪˈgɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d738c55-8db5-4190-adb0-c327be16f81c</uuid>
+    <examples>
+       <example>
+          <value>to buy cigars</value>
+          <translation>купить сигары</translation>
+          <comment>to buy - купить, cigar - сигара</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>else</question>
+    <answer>еще</answer>
+    <comment>[els]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efe69590-3a10-4223-8db7-797f914e83e0</uuid>
+    <examples>
+       <example>
+          <value>to show something else</value>
+          <translation>показать что-нибудь другое</translation>
+          <comment>to show - показать, something - что-нибудь, else - еще</comment>
+       </example>
+       <example>
+          <value>what else</value>
+          <translation>что еще</translation>
+          <comment>what - что, else - еще</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dark</question>
+    <answer>темный</answer>
+    <comment>[dɑːrk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e2636d7-8451-4026-bd46-3d8730c5273b</uuid>
+    <examples>
+       <example>
+          <value>too dark</value>
+          <translation>слишком темный</translation>
+          <comment>too - слишком, dark - темный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cigarette</question>
+    <answer>сигарета</answer>
+    <comment>[ˌsɪgəˈret]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>523464b7-706e-42b8-bd5d-258326f90fef</uuid>
+    <examples>
+       <example>
+          <value>a carton of cigarettes</value>
+          <translation>блок сигарет</translation>
+          <comment>carton - картонная коробка, cigarette - сигарета</comment>
+       </example>
+       <example>
+          <value>a pack of cigarettes</value>
+          <translation>пачка сигарет</translation>
+          <comment>pack - пачка, cigarette - сигарета</comment>
+       </example>
+       <example>
+          <value>to buy cigarettes with menthol</value>
+          <translation>купить сигареты с ментолом</translation>
+          <comment>to buy - купить, cigarette - сигарета, menthol - ментол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>packing</question>
+    <answer>упаковка</answer>
+    <comment>[ˈpækɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>afe58676-054f-460a-a85b-013c827d6e80</uuid>
+    <examples>
+       <example>
+          <value>to make a gift packing</value>
+          <translation>сделать подарочную упаковку</translation>
+          <comment>to make - делать, gift - подарок, packing - упаковка, to pack - упаковывать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>short</question>
+    <answer>короткий</answer>
+    <comment>[ʃɔːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b4a6638b-6941-4a59-8abd-96ced532bbac</uuid>
+    <examples>
+       <example>
+          <value>too short</value>
+          <translation>слишком короткий</translation>
+          <comment>too - слишком, short - короткий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>boots</question>
+    <answer>сапоги</answer>
+    <comment>[buːts]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>db3185fa-d298-47d0-a1f2-b785e5dbe0d5</uuid>
+    <examples>
+       <example>
+          <value>to try on some boots</value>
+          <translation>прмерить сапоги</translation>
+          <comment>to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>manicure</question>
+    <answer>маникюр</answer>
+    <comment>[ˈmænəkjʊr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d8a4c369-6bbf-41dc-8b5a-beb84be92820</uuid>
+    <examples>
+       <example>
+          <value>a pair of manicure scissors</value>
+          <translation>маникюрные ножницы</translation>
+          <comment>pair - пара, manicure - маникюр, scissors - ножницы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wide</question>
+    <answer>широкий</answer>
+    <comment>[wаɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>305c916f-737e-48de-81fe-ee1774607bd9</uuid>
+    <examples>
+       <example>
+          <value>too wide</value>
+          <translation>слишком широкий</translation>
+          <comment>too - слишком, wide - широкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>blouse</question>
+    <answer>блуза</answer>
+    <comment>[blаʊs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fea1095e-71df-4f88-b202-3feab191bc1d</uuid>
+    <examples>
+       <example>
+          <value>to look at that blue blouse</value>
+          <translation>взглянуть на ту голубую блузку</translation>
+          <comment>to look - смотреть, that - тот, та, blue - голубой, blouse - блузка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dye</question>
+    <answer>краска</answer>
+    <comment>[dаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3922e6c7-db2e-43a7-8646-8b6406458019</uuid>
+    <examples>
+       <example>
+          <value>a hair dye</value>
+          <translation>краска для волос</translation>
+          <comment>hair - волос, dye - краска</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a bit</question>
+    <answer>немного</answer>
+    <comment>[ə bɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7f5eff83-38a4-45ca-8957-20ec27101c70</uuid>
+    <examples>
+       <example>
+          <value>to be a bit big</value>
+          <translation>быть великоватыми</translation>
+          <comment>a bit - немного, big - большой</comment>
+       </example>
+       <example>
+          <value>to be a bit tight</value>
+          <translation>немного жать</translation>
+          <comment>a bit - немного, tight - узкий</comment>
+       </example>
+       <example>
+          <value>to be a bit fast</value>
+          <translation>немного спешить</translation>
+          <comment>a bit - немного, fast - быстрый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lady</question>
+    <answer>женщина, леди</answer>
+    <comment>[ˈleɪdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>da60a04a-2659-48f5-a202-06e16adcd6b2</uuid>
+    <examples>
+       <example>
+          <value>flowers for an elderly lady</value>
+          <translation>цветы для пожилой женщины</translation>
+          <comment>flower - цветок, elderly - пожилой, lady - дама, женщина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tobacco</question>
+    <answer>табак</answer>
+    <comment>[təˈbækoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fd139246-1526-4ff9-a07c-cd4ec262fbe3</uuid>
+    <examples>
+       <example>
+          <value>to buy pipe tobacco</value>
+          <translation>купить трубочный табак</translation>
+          <comment>to buy - купить, pipe - курительная трубка, tobacco - табак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stockings</question>
+    <answer>колготки</answer>
+    <comment>[ˈstɑːkɪŋz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c9dc310-4a89-4bc6-9eed-7ce2083f43af</uuid>
+    <examples>
+       <example>
+          <value>to go for stockings</value>
+          <translation>пойти за колготками</translation>
+          <comment>to go - идти, stockings - колготки</comment>
+       </example>
+       <example>
+          <value>to sell stockings</value>
+          <translation>продавать колготки</translation>
+          <comment>to sell - продавать, stockings - колготки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>man</question>
+    <answer>мужчина</answer>
+    <comment>[mæn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6ad8c998-a469-415f-b9ec-4e353629b9fb</uuid>
+    <examples>
+       <example>
+          <value>to choose a gift for a man</value>
+          <translation>выбрать подарок для мужчины</translation>
+          <comment>to choose - выбрать, gift - подарок, man - мужчина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hair</question>
+    <answer>волосы</answer>
+    <comment>[her]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ddc71df0-cef4-4c13-9ff1-5f5d49b46365</uuid>
+    <examples>
+       <example>
+          <value>a hair dye</value>
+          <translation>краска для волос</translation>
+          <comment>hair - волос, dye - краска</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sell</question>
+    <answer>продавать</answer>
+    <comment>[sel]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb3caeb0-6c73-4185-a1b3-ecc593130f3e</uuid>
+    <examples>
+       <example>
+          <value>to sell stockings</value>
+          <translation>продавать колготки</translation>
+          <comment>to sell - продавать, stockings - колготки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gift</question>
+    <answer>подарок</answer>
+    <comment>[gɪft]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e00d744f-242e-4ec4-b81f-e7ddc6f51476</uuid>
+    <examples>
+       <example>
+          <value>to buy gifts</value>
+          <translation>купить подарки</translation>
+          <comment>to buy - купить, gift - подарок</comment>
+       </example>
+       <example>
+          <value>to choose a gift for a girl</value>
+          <translation>выбрать подарок для девушки</translation>
+          <comment>to choose - выбрать, gift - подарок, girl - девушка</comment>
+       </example>
+       <example>
+          <value>to choose a gift for a man</value>
+          <translation>выбрать подарок для мужчины</translation>
+          <comment>to choose - выбрать, gift - подарок, man - мужчина</comment>
+       </example>
+       <example>
+          <value>to choose a gift for a woman</value>
+          <translation>выбрать подарок для женщины</translation>
+          <comment>to choose - выбрать, gift - подарок, woman - женщина</comment>
+       </example>
+       <example>
+          <value>to make a gift packing</value>
+          <translation>сделать подарочную упаковку</translation>
+          <comment>to make - делать, gift - подарок, packing - упаковка, to pack - упаковывать</comment>
+       </example>
+       <example>
+          <value>to want something for a gift</value>
+          <translation>хотеть что-нибудь в качестве подарка</translation>
+          <comment>to want - хотеть, something - что-нибудь, gift - подарок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>discount</question>
+    <answer>скидка</answer>
+    <comment>[ˈdɪsˌkаʊnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2645673c-1b78-4c66-9cc7-b79dd440f6b6</uuid>
+    <examples>
+       <example>
+          <value>to give a discount</value>
+          <translation>давать скидку</translation>
+          <comment>to give - давать, discount - скидка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>try</question>
+    <answer>пробовать</answer>
+    <comment>[trаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2c4aa210-70ee-4277-be0e-c2bcde34efed</uuid>
+    <examples>
+       <example>
+          <value>to try it on</value>
+          <translation>примерить это</translation>
+          <comment>to try on - примерить, it - это</comment>
+       </example>
+       <example>
+          <value>to try on some boots</value>
+          <translation>прмерить сапоги</translation>
+          <comment>to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+       <example>
+          <value>to try on some shoes</value>
+          <translation>примерить туфли</translation>
+          <comment>to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>official</question>
+    <answer>официальный</answer>
+    <comment>[əˈfɪʃəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a4604a9f-0ce3-4f22-a0b5-77f7cf25b5f4</uuid>
+    <examples>
+       <example>
+          <value>flowers for an official congratulation</value>
+          <translation>цветы для официального поздравления</translation>
+          <comment>flower - цветок, official - официальный, congratulation - поздравление</comment>
+       </example>
+       <example>
+          <value>an official from the consulate</value>
+          <translation>сотрудник консульства</translation>
+          <comment>official - официальное лицо, consulate - консульство</comment>
+       </example>
+       <example>
+          <value>an official from the embassy</value>
+          <translation>сотрудник посольства</translation>
+          <comment>official - официальное лицо, embassy - посольство</comment>
+       </example>
+       <example>
+          <value>to call an official from the consulate</value>
+          <translation>пригласить (вызвать) сотрудника консульства</translation>
+          <comment>to call - звать, official - официальное лицо, consulate - консульство</comment>
+       </example>
+       <example>
+          <value>to call an official from the embassy</value>
+          <translation>пригласить (вызвать) сотрудника посольства</translation>
+          <comment>to call - звать, official - официальное лицо, embassy - посольство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sale</question>
+    <answer>продажа</answer>
+    <comment>[seɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c135662-e492-4579-9e70-325e6a8731b2</uuid>
+    <examples>
+       <example>
+          <value>The Spring sales are on.</value>
+          <translation>Идут весенние распродажи.</translation>
+          <comment>spring - весна, sale - распродажа, to be on - идти, проводиться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perfume</question>
+    <answer>духи</answer>
+    <comment>[ˈpɜːrfjuːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>85d481e8-1ffa-4cbc-8a46-8840b3095e40</uuid>
+    <examples>
+       <example>
+          <value>a tester of this perfume</value>
+          <translation>тестер этих духов</translation>
+          <comment>tester - тестер, this - этот, эта, perfume - духи</comment>
+       </example>
+       <example>
+          <value>perfumes of this firm</value>
+          <translation>духи этой фирмы</translation>
+          <comment>perfume - духи, firm - фирма</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>jacket</question>
+    <answer>куртка</answer>
+    <comment>[ˈʤækɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>327c842c-35ed-4707-9609-c74479f2540a</uuid>
+    <examples>
+       <example>
+          <value>to buy a jacket</value>
+          <translation>купить куртку</translation>
+          <comment>to buy - купить, jacket - куртка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>purchase</question>
+    <answer>покупка</answer>
+    <comment>[ˈpɜːrʧəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>22cae8d6-9933-4a98-bc41-3bea56a402a8</uuid>
+    <examples>
+       <example>
+          <value>to make some purchases</value>
+          <translation>сделать кое-какие покупки</translation>
+          <comment>to make - делать, some - некоторый, purchase - покупка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>weekday</question>
+    <answer>будний день</answer>
+    <comment>[ˈwiːkˌdeɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e96fdc9b-ea1e-4086-8863-79698f23caa9</uuid>
+    <examples>
+       <example>
+          <value>on weekdays</value>
+          <translation>в будни</translation>
+          <comment>weekdays - будние дни, week - неделя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bunch</question>
+    <answer>букет</answer>
+    <comment>[bʌnʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5fb64588-0234-4ee6-a9ac-6e0a36a92687</uuid>
+    <examples>
+       <example>
+          <value>a bunch of flowers</value>
+          <translation>букет цветов</translation>
+          <comment>bunch - букет, flower - цветок</comment>
+       </example>
+       <example>
+          <value>bunches of grapes</value>
+          <translation>грозди винограда</translation>
+          <comment>bunch - гроздь, grapes - виноград</comment>
+       </example>
+       <example>
+          <value>two large bunches of grapes</value>
+          <translation>две большие грозди винограда</translation>
+          <comment>two - два, large - большой, bunch - гроздь, grapes - виноград</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>model</question>
+    <answer>модель</answer>
+    <comment>[ˈmɑːdl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f21db9d7-c305-401d-88c4-6fb4f1298b35</uuid>
+    <examples>
+       <example>
+          <value>to have other models</value>
+          <translation>иметь другие модели</translation>
+          <comment>to have - иметь, other - другой, model - модель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>musical</question>
+    <answer>музыкальный</answer>
+    <comment>[ˈmjuːzɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>862695ac-e981-4c78-a358-4dc81c436243</uuid>
+    <examples>
+       <example>
+          <value>a musical center</value>
+          <translation>музыкальный центр</translation>
+          <comment>musical - музыкальный, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pack</question>
+    <answer>пачка</answer>
+    <comment>[pæk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fdada5d1-1556-44ea-86ed-b894ad366df6</uuid>
+    <examples>
+       <example>
+          <value>a pack of cigarettes</value>
+          <translation>пачка сигарет</translation>
+          <comment>pack - пачка, cigarette - сигарета</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

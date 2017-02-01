@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a364cc78-0d4f-4ede-8c9d-36cdb82081a5</uuid>
+  <title>Драгоценности, украшения</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>la pulsera</question>
+    <answer>браслет</answer>
+    <comment></comment>
+    <uuid>b2d684fc-b868-46ce-b2ab-a75d0f374971</uuid>
+  </card>
+  <card>
+    <question>los pendientes</question>
+    <answer>серёжки</answer>
+    <comment></comment>
+    <uuid>5356ad2e-73ab-4f74-98fb-3c3069e5fcba</uuid>
+  </card>
+  <card>
+    <question>el llavero</question>
+    <answer>колько для ключей</answer>
+    <comment></comment>
+    <uuid>d55d2187-db86-498e-9c8c-ccf9718f2063</uuid>
+  </card>
+  <card>
+    <question>el collar</question>
+    <answer>ожерелье</answer>
+    <comment></comment>
+    <uuid>24af19f7-e367-4305-b0d2-ae3063f19be9</uuid>
+  </card>
+  <card>
+    <question>el anillo</question>
+    <answer>кольцо</answer>
+    <comment></comment>
+    <uuid>c1fcd430-612f-4f69-a006-a1c12b804bbd</uuid>
+  </card>
+  <card>
+    <question>el reloj</question>
+    <answer>часы</answer>
+    <comment></comment>
+    <uuid>35e91142-aa30-4fd0-b0ca-f2b1b2e9d612</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a4be665e-7189-42ce-bf09-778465f30103</uuid>
+  <title>Ткани</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>aus 100 Prozent Baumwolle</question>
+    <answer>из 100% хлопка</answer>
+    <comment></comment>
+    <uuid>cde3563d-ff64-4d4e-a614-a71b2bd5171a</uuid>
+  </card>
+  <card>
+    <question>beige</question>
+    <answer>бежевый</answer>
+    <comment></comment>
+    <uuid>83f50a5d-8815-4901-92cb-c2c70e28fbe1</uuid>
+  </card>
+  <card>
+    <question>blau</question>
+    <answer>синий</answer>
+    <comment></comment>
+    <uuid>cd85c753-4495-415c-a729-e58424c28e3b</uuid>
+  </card>
+  <card>
+    <question>braun</question>
+    <answer>коричневый</answer>
+    <comment></comment>
+    <uuid>aa20c4d7-ec98-44ab-a8e2-b6051d7064ac</uuid>
+  </card>
+  <card>
+    <question>bunt</question>
+    <answer>пёстрый</answer>
+    <comment></comment>
+    <uuid>659e7f3f-24f7-4db8-a889-c61c56210c6d</uuid>
+  </card>
+  <card>
+    <question>das Frottee</question>
+    <answer>махровая ткань</answer>
+    <comment></comment>
+    <uuid>10d00a48-4444-4512-b673-ed69722f18ab</uuid>
+  </card>
+  <card>
+    <question>das Leder</question>
+    <answer>кожа</answer>
+    <comment></comment>
+    <uuid>2a09551c-ebca-4b00-a11e-07553c321eac</uuid>
+  </card>
+  <card>
+    <question>das Leinen</question>
+    <answer>лён</answer>
+    <comment></comment>
+    <uuid>4b972b09-45e2-4c19-b1cf-af90d9adb2a1</uuid>
+  </card>
+  <card>
+    <question>das Nylon</question>
+    <answer>нейлон</answer>
+    <comment></comment>
+    <uuid>d02d5c6c-7d8a-42f5-9273-1c07c3291268</uuid>
+  </card>
+  <card>
+    <question>der Filz</question>
+    <answer>войлок</answer>
+    <comment></comment>
+    <uuid>3cca7a8d-63a5-48c6-a68b-13f23d0c5018</uuid>
+  </card>
+  <card>
+    <question>der Jersey</question>
+    <answer>джерси</answer>
+    <comment></comment>
+    <uuid>115b600a-e2d2-4958-a509-852e54de36c8</uuid>
+  </card>
+  <card>
+    <question>der Pelz</question>
+    <answer>мех</answer>
+    <comment></comment>
+    <uuid>1d1a1777-8ba4-4be2-aa22-2f4780f8a7d5</uuid>
+  </card>
+  <card>
+    <question>der Polyester</question>
+    <answer>полиэфир</answer>
+    <comment></comment>
+    <uuid>479992db-45e2-49c4-b409-19982ab6be48</uuid>
+  </card>
+  <card>
+    <question>die Baumwolle</question>
+    <answer>хлопок</answer>
+    <comment></comment>
+    <uuid>d3a00dd4-3180-4b6c-83b8-2cae1d3f4f06</uuid>
+  </card>
+  <card>
+    <question>die blauen Jeans</question>
+    <answer>синие джинсы</answer>
+    <comment></comment>
+    <uuid>2065594d-7a90-47f0-8624-52f592ea7b86</uuid>
+  </card>
+  <card>
+    <question>die Seide</question>
+    <answer>шёлк</answer>
+    <comment></comment>
+    <uuid>2841c822-d9b1-439d-9c7b-a77425d5c86a</uuid>
+  </card>
+  <card>
+    <question>die Viskose</question>
+    <answer>вискоза</answer>
+    <comment></comment>
+    <uuid>49f6a16a-7387-4258-9007-3ec356ce7868</uuid>
+  </card>
+  <card>
+    <question>die Wolle</question>
+    <answer>шерсть</answer>
+    <comment></comment>
+    <uuid>7ca63081-6ecb-4b38-b6b8-21da215d8e84</uuid>
+  </card>
+  <card>
+    <question>Diese Bluse ist aus Baumwolle und Poliester.</question>
+    <answer>Эта блузка из хлопка и полиэфира.</answer>
+    <comment></comment>
+    <uuid>593eac55-ef16-4b10-837f-adcaa7f0efdd</uuid>
+  </card>
+  <card>
+    <question>Dieser Pullover ist aus reiner Schurwolle.</question>
+    <answer>Этот свитер из чистой овечьей шерсти.</answer>
+    <comment></comment>
+    <uuid>23a80eab-223b-4c08-a58f-baafec2a5aad</uuid>
+  </card>
+  <card>
+    <question>dunkelgrau</question>
+    <answer>тёмно-серый</answer>
+    <comment></comment>
+    <uuid>4945c647-de04-48cb-b5fb-ae1f137e80f7</uuid>
+  </card>
+  <card>
+    <question>ein roter Badeanzug</question>
+    <answer>красный купальник</answer>
+    <comment></comment>
+    <uuid>3e01b99c-985c-4708-a9b0-1031bcfab63e</uuid>
+  </card>
+  <card>
+    <question>eine weiße Bluse</question>
+    <answer>белая блузка</answer>
+    <comment></comment>
+    <uuid>0d793b9c-bbd5-43cf-ab3c-24e9c2c77643</uuid>
+  </card>
+  <card>
+    <question>einfarbig</question>
+    <answer>одноцветный</answer>
+    <comment></comment>
+    <uuid>14519c9b-7e8b-40d8-b8ac-24ccb088d05d</uuid>
+  </card>
+  <card>
+    <question>gelb</question>
+    <answer>желтый</answer>
+    <comment></comment>
+    <uuid>b2fb6f38-f3d1-4935-bdd1-4fec73259491</uuid>
+  </card>
+  <card>
+    <question>gemustert</question>
+    <answer>с узором</answer>
+    <comment></comment>
+    <uuid>98a09388-135b-44ce-971c-077e83df4783</uuid>
+  </card>
+  <card>
+    <question>grau</question>
+    <answer>серый</answer>
+    <comment></comment>
+    <uuid>c879451f-9d26-4d2c-a0db-08a4796aa8ed</uuid>
+  </card>
+  <card>
+    <question>grün</question>
+    <answer>зеленый</answer>
+    <comment></comment>
+    <uuid>b23fdddf-c7c5-4304-9bf7-8479e3ff1c1c</uuid>
+  </card>
+  <card>
+    <question>hellgrau</question>
+    <answer>светло-серый</answer>
+    <comment></comment>
+    <uuid>6813f284-12c1-4781-82a3-553b44c88321</uuid>
+  </card>
+  <card>
+    <question>lila</question>
+    <answer>лиловый</answer>
+    <comment></comment>
+    <uuid>5817cc1c-a86c-4c39-9b6c-e1a5c4f0edbf</uuid>
+  </card>
+  <card>
+    <question>orange</question>
+    <answer>оранжевый</answer>
+    <comment></comment>
+    <uuid>b269c6e5-f0cf-4734-b6b1-11c665549881</uuid>
+  </card>
+  <card>
+    <question>rosa</question>
+    <answer>розовый</answer>
+    <comment></comment>
+    <uuid>d2fbbf05-f43c-41ad-8377-fb57cc5ca2dc</uuid>
+  </card>
+  <card>
+    <question>rot</question>
+    <answer>красный</answer>
+    <comment></comment>
+    <uuid>cfd99014-a098-43ee-adf3-973f7bba0995</uuid>
+  </card>
+  <card>
+    <question>Rot gefällt mir.</question>
+    <answer>Красный нравится мне.</answer>
+    <comment></comment>
+    <uuid>9242ca5b-33fb-443f-9e6d-49fe6e3fcee5</uuid>
+  </card>
+  <card>
+    <question>schwarz</question>
+    <answer>чёрный</answer>
+    <comment></comment>
+    <uuid>3e544155-d4dc-46e8-ad72-15bef5c19d55</uuid>
+  </card>
+  <card>
+    <question>weiß</question>
+    <answer>белый</answer>
+    <comment></comment>
+    <uuid>3224f73e-c94d-453d-aaf1-362d71f36e22</uuid>
+  </card>
+  <card>
+    <question>Welche Farbe?</question>
+    <answer>Какой цвет?</answer>
+    <comment></comment>
+    <uuid>960acd2b-7430-40b5-bd4f-90881a47e85d</uuid>
+  </card>
+</cards>
+</stack>

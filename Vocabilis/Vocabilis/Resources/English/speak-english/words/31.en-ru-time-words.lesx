@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4d443079-a044-4602-bf39-33287c732f97</uuid>
+  <title>Время :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>past</question>
+    <answer>после</answer>
+    <comment>[pæst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>77ee7a2f-e3e8-45f0-9227-62b98c4f20fe</uuid>
+    <examples>
+       <example>
+          <value>past eight</value>
+          <translation>после восьми</translation>
+          <comment>past - после, eight - восемь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nine</question>
+    <answer>девять</answer>
+    <comment>[nаɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b829f0ea-8d4e-4ea9-82e4-5881ddf637dd</uuid>
+    <examples>
+       <example>
+          <value>to nine</value>
+          <translation>до девяти (часов)</translation>
+          <comment>nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>accurate</question>
+    <answer>точный</answer>
+    <comment>[ˈækjərɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>149db738-f5d9-4eb3-8e75-76b18892e985</uuid>
+    <examples>
+       <example>
+          <value>an accurate watch</value>
+          <translation>точные часы</translation>
+          <comment>accurate - точный, watch - часы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>eight</question>
+    <answer>восемь</answer>
+    <comment>[eɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>588d5d16-d1c7-4d7a-8409-097d2a2d8118</uuid>
+    <examples>
+       <example>
+          <value>after eight</value>
+          <translation>после восьми</translation>
+          <comment>after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>eight o&apos;clock</value>
+          <translation>восемь часов</translation>
+          <comment>eight - восемь, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>past eight</value>
+          <translation>после восьми</translation>
+          <comment>past - после, eight - восемь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tell</question>
+    <answer>рассказывать</answer>
+    <comment>[tel]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a7ef3740-83e8-4edb-aec6-a24c15fe7d78</uuid>
+    <examples>
+       <example>
+          <value>to tell the time</value>
+          <translation>сказать время</translation>
+          <comment>to tell - сказать, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thirty</question>
+    <answer>тридцать</answer>
+    <comment>[ˈθɜːrtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f331e2c0-c4e3-41dd-aa8e-f76653b414ac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>forty</question>
+    <answer>сорок</answer>
+    <comment>[ˈfɔːrtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5516b6b5-e03f-42d5-babd-bc75032e79c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifty</question>
+    <answer>пятьдесят</answer>
+    <comment>[ˈfɪftiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>149daa6d-ee3c-46fc-8cb5-f882fcb335fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sixty</question>
+    <answer>щестьдесят</answer>
+    <comment>[ˈsɪkstiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0dc5a923-311e-48b4-a38b-9900e2884cf9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>twenty</question>
+    <answer>двадцать</answer>
+    <comment>[ˈtwentiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a0966fbd-b907-4f12-b3ce-2447eafcce99</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>eleven</question>
+    <answer>одиннадцать</answer>
+    <comment>[ɪˈlevən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>45e1e50e-278e-4f97-994a-caf2c49b90b4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>twelve</question>
+    <answer>двенадцать</answer>
+    <comment>[twelv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff7eee44-e678-4934-9fe0-c2049320585c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>thirteen</question>
+    <answer>тринадцать</answer>
+    <comment>[θɜːr ˈtiːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12f08162-5925-48b7-97fc-e9b88b9b2b11</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifteen</question>
+    <answer>пятнадцать</answer>
+    <comment>[ˈfɪfˈtiːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1be1942c-c818-409c-8193-9bc68e4f886c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>zero</question>
+    <answer>ноль</answer>
+    <comment>[ˈzɪroʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a399beb4-d622-4e3d-a2f5-98a98fea3b8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sharp</question>
+    <answer>ровно (в двенадцть и т.п.)</answer>
+    <comment>[ʃɑːrp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>482b8cd3-6219-4543-8e2e-840718f6bfc3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>quarter</question>
+    <answer>четверть</answer>
+    <comment>[ˈkwɔːrtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5bc54bad-97c3-4012-aa75-b326877a1739</uuid>
+  </card>
+</cards>
+</stack>

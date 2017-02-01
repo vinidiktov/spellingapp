@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f3ad375f-7d97-46f0-b3ff-687b6f684b50</uuid>
+  <title>Время :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>16</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>What time is it?</question>
+    <answer>Который час?</answer>
+    <comment>[hwʌt tаɪm ɪz ɪt]</comment>
+    <answer_comment>what - что, какой, time - время</answer_comment>
+    
+    <uuid>beee26f0-5f72-498d-bc3c-ca2d9e0d5cb3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Excuse me. Can you tell me the time?</question>
+    <answer>Будьте добры! Который час?</answer>
+    <comment>[ɪkˈskjuːz ˈmiː kæn jʊ tel ˈmiː ðə tаɪm]</comment>
+    <answer_comment>to excuse - извинять, me - мне, меня, can - мочь, you - ты, вы, to tell - сказать, time - время</answer_comment>
+    
+    <uuid>04a46645-3032-44b7-bf2d-ee157e754bc7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s five minutes after one.</question>
+    <answer>Сейчас пять минут второго.</answer>
+    <comment>[ɪts fаɪv ˈmɪnɪts ˈæftər wʌn]</comment>
+    <answer_comment>five - пять, minute - минута, after - после, one - один</answer_comment>
+    
+    <uuid>bf5681b6-cc45-44c4-846b-45ebe3c7ef88</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>eight o&apos;clock sharp</question>
+    <answer>ровно восемь</answer>
+    <comment>[eɪt əˈklɑːk ʃɑːrp]</comment>
+    <answer_comment>eight - восемь, o&apos;clock - часы, sharp - ровно</answer_comment>
+    
+    <uuid>4e240d5d-7949-46fe-815c-585cfdabd952</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>five minutes after eight</question>
+    <answer>пять минут девятого</answer>
+    <comment>[fаɪv ˈmɪnɪts ˈæftər eɪt]</comment>
+    <answer_comment>five - пять, minute - минута, after - после, eight - восемь</answer_comment>
+    
+    <uuid>cdcb03f2-794e-48b1-927c-d3b0fe4616bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a quarter past eight</question>
+    <answer>четверть девятого</answer>
+    <comment>[ə ˈkwɔːrtər pæst eɪt]</comment>
+    <answer_comment>quarter - четверть, past - после, eight - восемь</answer_comment>
+    
+    <uuid>f80b4c83-ab66-47b1-a12f-50032d267f35</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>eight fifteen</question>
+    <answer>пятнадцать минут девятого</answer>
+    <comment>[eɪt ˈfɪfˈtiːn]</comment>
+    <answer_comment>eight - восемь, fifteen - пятнадцать</answer_comment>
+    
+    <uuid>3fd0884f-8694-4e6c-a542-d6d597f5c234</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>twenty five minutes after eight</question>
+    <answer>двадцать пять минут девятого</answer>
+    <comment>[ˈtwentiː fаɪv ˈmɪnɪts ˈæftər eɪt]</comment>
+    <answer_comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</answer_comment>
+    
+    <uuid>dfd478ea-4e88-4b9f-8e78-f96fedfe5b05</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>half past eight</question>
+    <answer>половина девятого</answer>
+    <comment>[hæf pæst eɪt]</comment>
+    <answer_comment>half - половина, past - после, eight- восемь</answer_comment>
+    
+    <uuid>c5f73437-1ed3-4239-87b1-fece62b36986</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>twenty five minutes to nine</question>
+    <answer>без двадцати пяти девять</answer>
+    <comment>[ˈtwentiː fаɪv ˈmɪnɪts tə nаɪn]</comment>
+    <answer_comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</answer_comment>
+    
+    <uuid>60cce061-e4bd-48d8-9f92-99f145b52813</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>eight thirty five</question>
+    <answer>тридцать пять девятого</answer>
+    <comment>[eɪt ˈθɜːrtiː fаɪv]</comment>
+    <answer_comment>eight- восемь, thirty - тридцать, five - пять</answer_comment>
+    
+    <uuid>2709f347-ecde-45f3-8244-c0fa5d5c94d7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a quarter to nine</question>
+    <answer>без четверти девять</answer>
+    <comment>[ə ˈkwɔːrtər tə nаɪn]</comment>
+    <answer_comment>quarter - четверть, to - до, к, nine - девять</answer_comment>
+    
+    <uuid>6812b3e3-7020-41bd-ba1e-718efdfcf38a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifteen minutes to nine</question>
+    <answer>без пятнадцати девять</answer>
+    <comment>[ˈfɪfˈtiːn ˈmɪnɪts tə nаɪn]</comment>
+    <answer_comment>fifteen - пятнадцать, minute - минута, to - до, к, nine - девять</answer_comment>
+    
+    <uuid>d308e2d2-b3b6-43ad-b6a4-cfc9c0cce5e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>five minutes to nine</question>
+    <answer>без пяти девять</answer>
+    <comment>[fаɪv ˈmɪnɪts tə nаɪn]</comment>
+    <answer_comment>five - пять, minute - минута, to - до, к, nine - девять</answer_comment>
+    
+    <uuid>008e943d-d169-4f05-b675-c67a191870b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is your watch accurate?</question>
+    <answer>У вас точные часы?</answer>
+    <comment>[ɪz jər wɑːʧ ˈækjərɪt]</comment>
+    <answer_comment>your - твой, ваш, watch - часы, accurate - точный</answer_comment>
+    
+    <uuid>66f0bf73-bff0-4619-a459-563abfb6adbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My watch is accurate.</question>
+    <answer>Мои часы идут верно.</answer>
+    <comment>[mаɪ wɑːʧ ɪz ˈækjərɪt]</comment>
+    <answer_comment>my - мой, моя, мое, мои, watch - часы, accurate - точный</answer_comment>
+    
+    <uuid>3369e471-c244-4d63-b6f0-44391c2283c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My watch is slow.</question>
+    <answer>Мои часы отстают.</answer>
+    <comment>[mаɪ wɑːʧ ɪz sloʊ]</comment>
+    <answer_comment>my - мой, моя, мое, мои, watch - часы, slow - медленный</answer_comment>
+    
+    <uuid>1e5d2184-b7dc-47c8-bfeb-11bd8db8e82e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My watch is a bit fast.</question>
+    <answer>Мои часы спешат.</answer>
+    <comment>[mаɪ wɑːʧ ɪz ə bɪt fæst]</comment>
+    <answer_comment>my - мой, моя, мое, мои, watch - часы, a bit - немного, fast - быстрый</answer_comment>
+    
+    <uuid>b8674e4d-9da1-4116-b33d-46965cf2a29c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t know what time it is.</question>
+    <answer>Я не знаю, который час.</answer>
+    <comment>[аɪ doʊnt noʊ hwʌt tаɪm ɪt ɪz]</comment>
+    <answer_comment>to know - знать, what - что, какой, time - время</answer_comment>
+    
+    <uuid>72336db1-5e40-4a41-b837-476b63377f86</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m half an hour late.</question>
+    <answer>Я опаздываю на полчаса.</answer>
+    <comment>[аɪm hæf ən аʊr leɪt]</comment>
+    <answer_comment>half - половина, hour - час, late - поздний</answer_comment>
+    
+    <uuid>ffdfdd1d-c3bc-4cb3-ab99-64ab9d5907c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have very little time.</question>
+    <answer>У меня очень мало времени.</answer>
+    <comment>[аɪ hæv ˈveriː ˈlɪtl tаɪm]</comment>
+    <answer_comment>to have - иметь, very - очень, little - мало, time - время</answer_comment>
+    
+    <uuid>24a2d0e5-6943-4d00-a583-20becf3bbff0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When?</question>
+    <answer>Когда?</answer>
+    <comment>[hwen]</comment>
+    <answer_comment>when - когда</answer_comment>
+    
+    <uuid>8d742942-8cfe-4b40-a271-97ea540cd9a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time?</question>
+    <answer>В какое время?</answer>
+    <comment>[hwʌt tаɪm]</comment>
+    <answer_comment>what - какой, что, time - время</answer_comment>
+    
+    <uuid>5158e320-ca0b-47d7-bf5e-26a8f82744fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>at one o&apos;clock</question>
+    <answer>в час</answer>
+    <comment>[ət wʌn əˈklɑːk]</comment>
+    <answer_comment>one - один, o&apos;clock - часы</answer_comment>
+    
+    <uuid>b9ea627f-cacd-47f7-8f4b-3c682fb64ad5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>at four o&apos;clock</question>
+    <answer>в четыре часа</answer>
+    <comment>[ət fɔːr əˈklɑːk]</comment>
+    <answer_comment>four - четыре, o&apos;clock - часы</answer_comment>
+    
+    <uuid>a24eed82-5f96-4361-ba1f-8b4adffd0874</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a quarter to three</question>
+    <answer>без четверти три</answer>
+    <comment>[ə ˈkwɔːrtər tə θriː]</comment>
+    <answer_comment>quarter - четверть, to - до, к, three - три</answer_comment>
+    
+    <uuid>159b8427-350d-4376-96c0-50f32de78975</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>from half past three to four o&apos;clock</question>
+    <answer>от половины четвертого до четырех</answer>
+    <comment>[frəm hæf pæst θriː tə fɔːr əˈklɑːk]</comment>
+    <answer_comment>from - от, half - половина, past - после, three - три, to - к, до, four - четыре, o&apos;clock - часы</answer_comment>
+    
+    <uuid>4f68369a-7d70-4e3a-b81a-d4a3ffc71018</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>about five</question>
+    <answer>около пяти</answer>
+    <comment>[əˈbаʊt fаɪv]</comment>
+    <answer_comment>about - примерно, five - пять</answer_comment>
+    
+    <uuid>72445a97-77ef-4aca-af8e-cb7a51431ba8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in an hour</question>
+    <answer>через час</answer>
+    <comment>[ɪn ən аʊr]</comment>
+    <answer_comment>hour - час</answer_comment>
+    
+    <uuid>290137c1-b3c0-4c8a-905c-4b4031607f4a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in three hours</question>
+    <answer>через три часа</answer>
+    <comment>[ɪn θriː аʊrz]</comment>
+    <answer_comment>three - три, hour - час</answer_comment>
+    
+    <uuid>295c06f9-8049-4b22-82ef-31a0bfdf09fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>an hour ago</question>
+    <answer>час спустя</answer>
+    <comment>[ən аʊr əˈgoʊ]</comment>
+    <answer_comment>hour - час, ago - назад</answer_comment>
+    
+    <uuid>a2862d39-725c-4c68-9dc1-308aca7436f7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>after two o&apos;clock</question>
+    <answer>после двух часов</answer>
+    <comment>[ˈæftər tuː əˈklɑːk]</comment>
+    <answer_comment>after - после, two - два, o&apos;clock - часы</answer_comment>
+    
+    <uuid>c4dc848e-0da0-45aa-9ccd-f5a81045bb8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the morning</question>
+    <answer>утром</answer>
+    <comment>[ɪn ðə ˈmɔːrnɪŋ]</comment>
+    <answer_comment>morning - утро</answer_comment>
+    
+    <uuid>fc780015-5c95-4308-b665-47242c988610</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the evening</question>
+    <answer>вечером</answer>
+    <comment>[ɪn ðiː ˈiːvnɪŋ]</comment>
+    <answer_comment>evening - вечер</answer_comment>
+    
+    <uuid>ed56181a-5f47-46d8-9e89-f301068590e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tonight</question>
+    <answer>вечером</answer>
+    <comment>[təˈnаɪt]</comment>
+    <answer_comment>tonight - вечером</answer_comment>
+    
+    <uuid>ac380a80-9853-49e9-b1bb-da22d206b2ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>at night</question>
+    <answer>ночью</answer>
+    <comment>[ət nаɪt]</comment>
+    <answer_comment>night - ночь</answer_comment>
+    
+    <uuid>ea3cdf29-9ea1-4a90-98e2-79f52baf996e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>at midnight</question>
+    <answer>в полночь</answer>
+    <comment>[ət ˈmɪdˌnаɪt]</comment>
+    <answer_comment>midnight - полночь</answer_comment>
+    
+    <uuid>db79127a-f839-4f01-9773-e96e71c6f3f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>today</question>
+    <answer>сегодня</answer>
+    <comment>[təˈdeɪ]</comment>
+    <answer_comment>today - сегодня</answer_comment>
+    
+    <uuid>7893b664-9c43-4d05-ac4e-9f22bc1957ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tomorrow</question>
+    <answer>завтра</answer>
+    <comment>[təˈmɔːroʊ]</comment>
+    <answer_comment>tomorrow - завтра</answer_comment>
+    
+    <uuid>acf4946b-0fe7-45a5-bd33-66f14967a374</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the day after tomorrow</question>
+    <answer>послезавтра</answer>
+    <comment>[ðə deɪ ˈæftər təˈmɔːroʊ]</comment>
+    <answer_comment>day - день, after - после, tomorrow - завтра</answer_comment>
+    
+    <uuid>ce89bc39-2ee1-40e2-a242-629c7935ed14</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yesterday</question>
+    <answer>вчера</answer>
+    <comment>[ˈjestərdiː]</comment>
+    <answer_comment>yesterday - вчера</answer_comment>
+    
+    <uuid>9f3d85d4-3783-478f-bc2c-dd47ed43c17f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the day before yesterday</question>
+    <answer>позавчера</answer>
+    <comment>[ðə deɪ bɪˈfɔːr ˈjestərdiː]</comment>
+    <answer_comment>day - день, before - перед, до, yesterday - вчера</answer_comment>
+    
+    <uuid>e8c92758-bede-4f88-a12b-af08b5a8b084</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the day before</question>
+    <answer>накануне</answer>
+    <comment>[ðə deɪ bɪˈfɔːr]</comment>
+    <answer_comment>day - день, before - перед, до</answer_comment>
+    
+    <uuid>ced4b894-1ccc-41d1-8669-4f11f88e8e66</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>late in the evening</question>
+    <answer>поздно вечером</answer>
+    <comment>[leɪt ɪn ðiː ˈiːvnɪŋ]</comment>
+    <answer_comment>late - поздний, evening - вечер</answer_comment>
+    
+    <uuid>14f973ad-8f10-4416-9dff-6d36b50dc930</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>early in the morning</question>
+    <answer>рано утром</answer>
+    <comment>[ˈɜːrliː ɪn ðə ˈmɔːrnɪŋ]</comment>
+    <answer_comment>early - ранний, рано, morning - утро</answer_comment>
+    
+    <uuid>b0b44b28-e563-48e9-9000-1255617af463</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>not very soon</question>
+    <answer>не скоро</answer>
+    <comment>[nɑːt ˈveriː suːn]</comment>
+    <answer_comment>very - очень, soon - скоро</answer_comment>
+    
+    <uuid>d0994b3c-06fe-42b1-ab0f-239a883354fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>this year</question>
+    <answer>в этом году</answer>
+    <comment>[ðɪs jɪr]</comment>
+    <answer_comment>this - этот, эта, это, year - год</answer_comment>
+    
+    <uuid>a94180f1-bea8-4624-b3b4-1ec92aad893c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>last year</question>
+    <answer>в прошлом году</answer>
+    <comment>[læst jɪr]</comment>
+    <answer_comment>last - прошлый, year - год</answer_comment>
+    
+    <uuid>97124db1-9647-404b-a073-6774fe221356</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the year before last</question>
+    <answer>в позапрошлом году</answer>
+    <comment>[ðə jɪr bɪˈfɔːr læst]</comment>
+    <answer_comment>year - год, before - до, перед, last - прошлый</answer_comment>
+    
+    <uuid>0b219d64-24fe-43ac-8f13-b621dad281dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>next year</question>
+    <answer>в следующем году</answer>
+    <comment>[nekst jɪr]</comment>
+    <answer_comment>next - следующий, year - год</answer_comment>
+    
+    <uuid>f7ca4ebc-5735-47c4-a5bf-ea9361714737</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in ten days</question>
+    <answer>через 10 дней</answer>
+    <comment>[ɪn ten ˈdeɪz]</comment>
+    <answer_comment>ten - десять, day - день</answer_comment>
+    
+    <uuid>0e84537c-bde8-4f67-8c47-00e623695a4e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>this week</question>
+    <answer>на этой неделе</answer>
+    <comment>[ðɪs wiːk]</comment>
+    <answer_comment>this - этот, эта, это, week - неделя</answer_comment>
+    
+    <uuid>fb1e0bad-3542-4e86-b49a-de9e0ce80a2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>next week</question>
+    <answer>на следующей неделе</answer>
+    <comment>[nekst wiːk]</comment>
+    <answer_comment>next - следующий, week - неделя</answer_comment>
+    
+    <uuid>e4d757b4-4697-4815-b2f7-3b2bcc5c1db2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>last week</question>
+    <answer>на прошлой неделе</answer>
+    <comment>[læst wiːk]</comment>
+    <answer_comment>last - прошлый, week - неделя</answer_comment>
+    
+    <uuid>d9e78741-2b8b-4bff-938e-f76b2c07c6bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the week before last</question>
+    <answer>на позапрошлой неделе</answer>
+    <comment>[ðə wiːk bɪˈfɔːr læst]</comment>
+    <answer_comment>week - неделя, before - до, перед, last - прошлый</answer_comment>
+    
+    <uuid>bed121a7-412d-40f7-8023-269bf917396a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m sorry, I&apos;m late.</question>
+    <answer>Простите за опоздание.</answer>
+    <comment>[аɪm ˈsɑːriː аɪm leɪt]</comment>
+    <answer_comment>sorry - прости(те), late - опоздавший</answer_comment>
+    
+    <uuid>104dca89-eade-4181-a58f-d9c7ec023eaf</uuid>
+  </card>
+</cards>
+</stack>

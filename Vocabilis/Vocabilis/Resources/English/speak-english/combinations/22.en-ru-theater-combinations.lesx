@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a17fb634-2202-454e-9c29-5bb3511a25eb</uuid>
+  <title>Театр :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a rather poor production</question>
+    <answer>довольно слабый спектакль</answer>
+    <comment>[ə ˈræðər pʊr prəˈdʌkʃən]</comment>
+    <question_comment>rather - довольно, poor - слабый, production - постановка (пьесы, кинокартины)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d6a0ae7a-4c80-4695-b199-41c004998dfd</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s a rather poor production.</value>
+          <translation>Спектакль не очень удачный.</translation>
+          <comment>it - это, rather - весьма, poor - слабый, production - производство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a three act play</question>
+    <answer>пьеса на три акта</answer>
+    <comment>[ə θriː ækt pleɪ]</comment>
+    <question_comment>three - три, act - акт, play - пьеса</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f997d710-a3c4-45e9-95b5-a111f5d06696</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s a three act play.</value>
+          <translation>Это пьеса на три акта.</translation>
+          <comment>it - это, three - три, act - акт, действие, play - пьеса, спектакль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>good seats</question>
+    <answer>хорошие места</answer>
+    <comment>[gʊd siːts]</comment>
+    <question_comment>good - хороший, seat - место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>32595f18-ddd2-4016-901d-0f529f55d077</uuid>
+    <examples>
+       <example>
+          <value>Are these good seats?</value>
+          <translation>Это хорошие места?</translation>
+          <comment>these - эти, good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>This isn&apos;t a very good seat.</value>
+          <translation>Это не очень хорошее место.</translation>
+          <comment>this - это, эта, этот, very - очень, good - хороший, seat - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the play</question>
+    <answer>в этом спектакле</answer>
+    <comment>[ɪn ðə pleɪ]</comment>
+    <question_comment>play - спектакль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d844f825-137a-461a-861c-d208d06a36cc</uuid>
+    <examples>
+       <example>
+          <value>What play is given today?</value>
+          <translation>Какой сегодня спектакль?</translation>
+          <comment>what - что, какой, play - пьеса, спектакль, given - даваемый, данный, today - сегодня</comment>
+       </example>
+       <example>
+          <value>What&apos;s playing tonight?</value>
+          <translation>Что сегодня в театре?</translation>
+          <comment>what - что, playing - играющий, tonight - сегодня вечером</comment>
+       </example>
+       <example>
+          <value>How many acts are there in the play?</value>
+          <translation>Сколько актов в этом спектакле?</translation>
+          <comment>how - как, many - много, act - акт, there are - есть, имеются, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>It&apos;s a three act play.</value>
+          <translation>Это пьеса на три акта.</translation>
+          <comment>it - это, three - три, act - акт, действие, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>Who&apos;s playing the main part?</value>
+          <translation>Кто исполняет главную роль?</translation>
+          <comment>who - кто, playing - играющий, main - главный, part - роль</comment>
+       </example>
+       <example>
+          <value>Who&apos;s playing today?</value>
+          <translation>Кто сегодня играет?</translation>
+          <comment>who - кто, playing - играющий, today - сегодня</comment>
+       </example>
+       <example>
+          <value>Did you like the play?</value>
+          <translation>Вам понравился спектакль?</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play.</value>
+          <translation>Мне понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play very much.</value>
+          <translation>Спектакль мне очень понравился.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I enjoyed the play very much.</value>
+          <translation>Мне очень понравился спектакль.</translation>
+          <comment>to enjoy - наслаждаться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play.</value>
+          <translation>Мне не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play at all.</value>
+          <translation>Мне вообще не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, at all - вовсе, совсем</comment>
+       </example>
+       <example>
+          <value>I spend my evenings playing chess.</value>
+          <translation>Я провожу вечера за игрой в шахматы.</translation>
+          <comment>to spend - тратить, проводить, your - твой, ваш, evening - вечер, playing - играя, играющий, chess - шахматы</comment>
+       </example>
+       <example>
+          <value>I love to play the guitar.</value>
+          <translation>Я люблю играть на гитаре.</translation>
+          <comment>to love - любить, to play - играть, guitar - гитара</comment>
+       </example>
+       <example>
+          <value>I love to play tennis.</value>
+          <translation>Я люблю играть в теннис.</translation>
+          <comment>to love - любить, to play - играть, tennis - теннис</comment>
+       </example>
+       <example>
+          <value>I love to play golf.</value>
+          <translation>Я люблю играть в гольф.</translation>
+          <comment>to love - любить, to play - играть, golf - гольф</comment>
+       </example>
+       <example>
+          <value>I love to play billiards.</value>
+          <translation>Я люблю играть на бильярде.</translation>
+          <comment>to love - любить, to play - играть, billiards - бильярд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>magnificent staging</question>
+    <answer>великолепная постановка</answer>
+    <comment>[mægˈnɪfɪsənt ˈsteɪʤɪŋ]</comment>
+    <question_comment>magnificent - великолепный, staging - постановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0773d149-1fbc-47c0-8fa3-89c35a8ff4d9</uuid>
+    <examples>
+       <example>
+          <value>A magnificent staging!</value>
+          <translation>Великолепная постановка!</translation>
+          <comment>magnificent - великолепный, staging - постановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>one ticket</question>
+    <answer>один билет</answer>
+    <comment>[wʌn ˈtɪkɪt]</comment>
+    <question_comment>one - один, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1456a36f-f64a-43f8-bef2-20f7b1fb72ac</uuid>
+    <examples>
+       <example>
+          <value>I want to reserve one ticket to Moscow.</value>
+          <translation>Я хочу забронировать один билет до Москвы.</translation>
+          <comment>to want - хотеть, to reserve - резервировать, one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I want one business class ticket.</value>
+          <translation>Мне нужен один билет в бизнес классе.</translation>
+          <comment>to want - хотеть, one - один, business - бизнес, class - класс, ticket - билет</comment>
+       </example>
+       <example>
+          <value>I want one first class ticket.</value>
+          <translation>Мне нужен один билет в первом классе.</translation>
+          <comment>to want - хотеть, one - один, firs - первый, class - класс, ticket - билет</comment>
+       </example>
+       <example>
+          <value>I want one economy class ticket.</value>
+          <translation>Мне нужен один билет в эконом классе.</translation>
+          <comment>to want - хотеть, one - один, economy - экономичный, class - класс, ticket - билет</comment>
+       </example>
+       <example>
+          <value>How much is a one-way ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы в один конец?</translation>
+          <comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>One ticket to Moscow.</value>
+          <translation>Один билет до Москвы.</translation>
+          <comment>one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I want a one-way ticket.</value>
+          <translation>Мне нужен билет в один конец.</translation>
+          <comment>to want - хотеть, ticket - билет, one - один, way - путь</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит один билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>seats in the balcony</question>
+    <answer>места на балконе</answer>
+    <comment>[siːts ɪn ðə ˈbælkəniː]</comment>
+    <question_comment>seat - место, balcony - балкон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2727e657-1c4a-4fe1-992b-d5c78c9a6896</uuid>
+    <examples>
+       <example>
+          <value>How much are seats in the balcony?</value>
+          <translation>Сколько стоят билеты на балкон?</translation>
+          <comment>how - как, much - много, seat - место, balcony - балкон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the evening performance</question>
+    <answer>вечерний спектакль</answer>
+    <comment>[ðiː ˈiːvnɪŋ pərˈfɔːrməns]</comment>
+    <question_comment>evening - вечерний, performance - спектакль, представление</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf25b3e2-aa5d-441c-b8ae-ebaed574e802</uuid>
+    <examples>
+       <example>
+          <value>When does the evening performance start?</value>
+          <translation>Когда начинается вечерний спектакль?</translation>
+          <comment>when - когда, evening - вечер, вечерний, performance - представление, to start - начинать(ся)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the performer of this part</question>
+    <answer>исполнитель этой роли</answer>
+    <comment>[ðə pərˈfɔːrmə əv ðɪs pɑːrt]</comment>
+    <question_comment>performer - исполнитель, this - этот, эта, part - роль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6e83d554-d67a-4f95-8682-8f99fee4b5c4</uuid>
+    <examples>
+       <example>
+          <value>I especially like the performer of this part.</value>
+          <translation>Особенно мне понравился исполнитель этой роли.</translation>
+          <comment>especially - особенно, to like - любить, нравиться, performer - исполнитель, this - этот, эта, это, part - роль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the smoking room</question>
+    <answer>курительная комната</answer>
+    <comment>[ðə ˈsmoʊkɪŋ ruːm]</comment>
+    <question_comment>smoking - курящий, room - комната</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ed2827d4-5983-4833-94fa-5b4833fdcdaf</uuid>
+    <examples>
+       <example>
+          <value>Where is the smoking room here?</value>
+          <translation>Где здесь курительная комната?</translation>
+          <comment>where - где, smoking - курящий, курительный, room - комната, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this actor&apos;s name</question>
+    <answer>имя этого актера</answer>
+    <comment>[ðɪs ˈæktərz neɪm]</comment>
+    <question_comment>this - этот, эта, actor - актер, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33d884d9-2f19-47c5-9650-9811059d9977</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s this actor name?</value>
+          <translation>Как зовут этого артиста?</translation>
+          <comment>what - что, какой, this - этот, эта, это, actor - актер, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this singer&apos;s name</question>
+    <answer>имя этого певца</answer>
+    <comment>[ðɪs ˈsɪŋərz neɪm]</comment>
+    <question_comment>this - этот, эта, singer - певец, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ddd78d9f-7ce7-4a95-acf8-40c63552cbef</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s this singer&apos;s name?</value>
+          <translation>Как зовут этого певца?</translation>
+          <comment>what - что, какой, this - этот, эта, это, singer - певец, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>three tickets</question>
+    <answer>три билета</answer>
+    <comment>[θriː ˈtɪkɪts]</comment>
+    <question_comment>three - три, ticket - билеты</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ec9fe48-31e6-4c25-8920-2c4b8b436c46</uuid>
+    <examples>
+       <example>
+          <value>You can get the tickets at ticket office number three.</value>
+          <translation>Вы можете купить билеты в кассе 3.</translation>
+          <comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Please give me three tickets.</value>
+          <translation>Дайте, пожалуйста, три билета.</translation>
+          <comment>to give - давать, me - мне, меня, three - три, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be extremely good</question>
+    <answer>быть чрезвычайно хорошим</answer>
+    <comment>[tə biː ɪkˈstriːmliː gʊd]</comment>
+    <question_comment>extremely - крайне, очень, good - хороший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ea70240f-d37e-450f-9de5-322258cb8901</uuid>
+    <examples>
+       <example>
+          <value>It was extremely good.</value>
+          <translation>Он был очень хорошим.</translation>
+          <comment>it - это, was - был, была, было, extremely - крайне, очень, good - хороший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The show is over.</question>
+    <answer>Спектакль закончился.</answer>
+    <comment>[ðə ʃoʊ ɪz ˈoʊvər]</comment>
+    <question_comment>show - спектакль, представление, to be over - закончиться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>719037aa-3460-4e2b-ac50-6735fc52f0ba</uuid>
+    <examples>
+       <example>
+          <value>What time is the show over?</value>
+          <translation>Когда заканчивается спектакль?</translation>
+          <comment>what - что, какой, time - время, show - представление, шоу, over - закончившийся</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The house is sold out.</question>
+    <answer>Все билеты проданы.</answer>
+    <comment>[ðə ˌhæʊs ɪz soʊld аʊt]</comment>
+    <question_comment>house - дом, театр, sold out - распроданный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c72397a6-c140-44dc-806e-ad1a989f64d8</uuid>
+    <examples>
+       <example>
+          <value>The house is sold out.</value>
+          <translation>Все билеты проданы.</translation>
+          <comment>house - дом, sold out - распроданный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a program</question>
+    <answer>купить программку</answer>
+    <comment>[tə bаɪ ə ˈproʊgræm]</comment>
+    <question_comment>to buy - покупать, program - программка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>04be1654-9a8d-497c-a2f1-42c14ed1cd13</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a program?</value>
+          <translation>Где можно купить программку?</translation>
+          <comment>where - где, can - мочь, to buy - купить, program - программа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to dance today</question>
+    <answer>танцевать сегодня</answer>
+    <comment>[tə dæns təˈdeɪ]</comment>
+    <question_comment>to dance - танцевать, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4be3d536-8246-4a51-b5ce-eab26a52d48e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get a pair of opera glasses</question>
+    <answer>взять бинокль</answer>
+    <comment>[tə get ə per əv ˈɑːpərə ˈglæsɪz]</comment>
+    <question_comment>to get - взять, достать, a pair - пара, opera - опера, glass - стекло</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>26999ee5-4964-4285-83cd-c6f1058b8e15</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s get a pair of opera glasses.</value>
+          <translation>Давайте возьмем бинокль.</translation>
+          <comment>let&apos;s - давай(те), to get - достать, получить, pair - пара, opera - опера, glasses - очки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get to the balcony</question>
+    <answer>пройти на балкон</answer>
+    <comment>[tə get tə ðə ˈbælkəniː]</comment>
+    <question_comment>to get (to) - добраться (до), balcony - балкон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6ac0aaab-f739-4dbc-bf79-d20f946d65c6</uuid>
+    <examples>
+       <example>
+          <value>How can I get to the balcony?</value>
+          <translation>Как пройти на балкон?</translation>
+          <comment>how - как, can - мочь, to get (to) - добраться (до), balcony - балкон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get to the boxes</question>
+    <answer>пройти в ложу</answer>
+    <comment>[tə get tə ðə ˈbɑːksɪz]</comment>
+    <question_comment>to get (to) - добраться (до), box - ложа в театре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b24e0254-85c0-404c-b0eb-8e82b2b4d804</uuid>
+    <examples>
+       <example>
+          <value>How can I get to the boxes?</value>
+          <translation>Как пройти в ложу?</translation>
+          <comment>how - как, can - мочь, to get (to) - добраться (до), boxes - ложа (в театре)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a program</question>
+    <answer>дать программку</answer>
+    <comment>[tə gɪv ə ˈproʊgræm]</comment>
+    <question_comment>to give - дать, program - программка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97a32790-34b1-4d68-bf0f-77633216f6a4</uuid>
+    <examples>
+       <example>
+          <value>Please, give me a program.</value>
+          <translation>Дайте мне, пожалуйста, программку.</translation>
+          <comment>to give - давать, me - мне, меня, program - программа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Drama Theater</question>
+    <answer>пойти в драматический театр</answer>
+    <comment>[tə goʊ tə ðə ˈdrɑːmə ˈθɪətər]</comment>
+    <question_comment>to go - идти, the Drama Theater - драматический театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>787e5bd3-6d65-4553-bbbf-6b2b25e685a5</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to go to the Drama Theater.</value>
+          <translation>Я бы хотел пойти в драматический театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Opera House</question>
+    <answer>пойти в оперный театр</answer>
+    <comment>[tə goʊ tə ðə ˈɑːpərə ˌhæʊs]</comment>
+    <question_comment>to go - идти, the Opera House - оперный театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91a57a8e-cc2b-415c-babf-4b5da7666863</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to go to the Opera House.</value>
+          <translation>Я бы хотел пойти в оперный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Opera House - оперный театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Operetta House</question>
+    <answer>пойти в театр оперетты</answer>
+    <comment>[tə goʊ tə ðə ˌɑːpəˈretə ˌhæʊs]</comment>
+    <question_comment>to go - идти, the Operetta House - театр оперетты</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3cce2be9-a2a2-4c03-a3c4-d87d22359e0d</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to go to the Operetta House.</value>
+          <translation>Я бы хотел пойти в театр оперетты.</translation>
+          <comment>would like - хотеть, to go - идти, the Operetta House - театр оперетты</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Puppet Theater</question>
+    <answer>пойти в кукольный театр</answer>
+    <comment>[tə goʊ tə ðə ˈpʌpɪt ˈθɪətər]</comment>
+    <question_comment>to go - идти, the Puppet Theater - кукольный театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae47bb24-a6a9-4a41-bc05-6bd886cb407e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to go to the Puppet Theater.</value>
+          <translation>Я бы хотел пойти в кукольный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the theater</question>
+    <answer>идти в театр</answer>
+    <comment>[tə goʊ tə ðə ˈθɪətər]</comment>
+    <question_comment>to go - идти, theater - театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9ab582ed-95b8-41fc-a2ba-59ab3c367569</uuid>
+    <examples>
+       <example>
+          <value>Would you like to go to the theater?</value>
+          <translation>Позвольте пригласить вас в театр.</translation>
+          <comment>to like - хотеть, любить, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I would like to go to the theater.</value>
+          <translation>Я бы хотел сходить в театр.</translation>
+          <comment>would like - хотеть, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Drama Theater.</value>
+          <translation>Я бы хотел пойти в драматический театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Young Spectator Theater.</value>
+          <translation>Я бы хотел пойти в театр юного зрителя.</translation>
+          <comment>would like - хотеть, to go - идти, young - молодой, spectator - зритель, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Puppet Theater.</value>
+          <translation>Я бы хотел пойти в кукольный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Young Spectator Theater</question>
+    <answer>пойти в театр юного зрителя</answer>
+    <comment>[tə goʊ tə ðə jʌŋ ˈspekteɪtər ˈθɪətər]</comment>
+    <question_comment>to go - идти, the Young Spectator Theater - театр юного зрителя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>56dcb932-f58d-4f73-b582-abc0bda386cb</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to go to the Young Spectator Theater.</value>
+          <translation>Я бы хотел пойти в театр юного зрителя.</translation>
+          <comment>would like - хотеть, to go - идти, young - молодой, spectator - зритель, theater - театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have an excellent cast</question>
+    <answer>иметь замечательный актерский состав</answer>
+    <comment>[tə hæv ən ˈeksələnt kæst]</comment>
+    <question_comment>to have - иметь, excellent - отличный, cast - актерский состав</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f97364ca-3ba1-4468-a838-6d1282e6603f</uuid>
+    <examples>
+       <example>
+          <value>They have an excellent cast tonight.</value>
+          <translation>Сегодня играют замечательные актеры.</translation>
+          <comment>they - они, to have - иметь, excellent - отличный, cast - подбор актеров, tonight - сегодня вечером</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have seats for tomorrow</question>
+    <answer>иметь билеты на завтра</answer>
+    <comment>[tə hæv siːts fər təˈmɔːroʊ]</comment>
+    <question_comment>to have - иметь, seat - место, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ab1f5e15-37ea-4963-90a3-1a3b10c341f2</uuid>
+    <examples>
+       <example>
+          <value>Do you have any seats for tomorrow?</value>
+          <translation>Есть ли билеты на завтра?</translation>
+          <comment>to have - иметь, any - какой-либо, seat - место, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have tickets for Saturday</question>
+    <answer>иметь билеты на субботу</answer>
+    <comment>[tə hæv ˈtɪkɪts fər ˈsætərdiː]</comment>
+    <question_comment>to have - иметь, ticket - билет, Saturday - суббота</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3cff524a-10c3-4234-a89e-2b0e858d2c52</uuid>
+    <examples>
+       <example>
+          <value>Do you have tickets for Saturday?</value>
+          <translation>У вас есть билеты на субботу?</translation>
+          <comment>you - ты, вы, to have - иметь, ticket - билет, Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have tickets for today</question>
+    <answer>иметь билеты на сегодня</answer>
+    <comment>[tə hæv ˈtɪkɪts fər təˈdeɪ]</comment>
+    <question_comment>to have - иметь, ticket - билет, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f196cdf9-cd21-4e33-ac75-373a1c7d9794</uuid>
+    <examples>
+       <example>
+          <value>Do you have tickets for today?</value>
+          <translation>У вас есть билеты на сегодня?</translation>
+          <comment>you - ты, вы, to have - иметь, ticket - билет, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have tickets for tomorrow</question>
+    <answer>иметь билеты на завтра</answer>
+    <comment>[tə hæv ˈtɪkɪts fər təˈmɔːroʊ]</comment>
+    <question_comment>to have - иметь, ticket - билет, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49bed053-c7e4-4538-8a0f-118a1ff5574d</uuid>
+    <examples>
+       <example>
+          <value>Do you have tickets for tomorrow?</value>
+          <translation>У вас есть билеты на завтра?</translation>
+          <comment>you - ты, вы, to have - иметь, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>Where can I buy tickets for tomorrow?</value>
+          <translation>Где купить билеты на завтра?</translation>
+          <comment>where - где, can - мочь, to buy - купить, ticket - билет, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to hear well</question>
+    <answer>слышать хорошо</answer>
+    <comment>[tə hɪr wel]</comment>
+    <question_comment>to hear - слышать, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e2c37a2c-1b92-493e-990d-5e76db43e5e4</uuid>
+    <examples>
+       <example>
+          <value>Can you hear well?</value>
+          <translation>Вам хорошо слышно?</translation>
+          <comment>can - мочь, you - ты, вы, to hear - слышать, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to hire opera glasses</question>
+    <answer>взять напрокат бинокль</answer>
+    <comment>[tə hаɪr ˈɑːpərə ˈglæsɪz]</comment>
+    <question_comment>to hire - взять напрокат, opera glasses - бинокль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4b019a02-b45b-4059-95bc-e398a53b0e44</uuid>
+    <examples>
+       <example>
+          <value>Where can I hire opera glasses?</value>
+          <translation>Где я могу взять напрокат бинокль?</translation>
+          <comment>where - где, can - мочь, to hire - взять напрокат, opera - опера, glasses - очки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to like the play</question>
+    <answer>понравиться (о спектакле)</answer>
+    <comment>[tə lаɪk ðə pleɪ]</comment>
+    <question_comment>to like - любить, нравиться, play - пьеса, спектакль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a85f461b-e496-40bf-849e-5fda36130fc8</uuid>
+    <examples>
+       <example>
+          <value>Did you like the play?</value>
+          <translation>Вам понравился спектакль?</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play.</value>
+          <translation>Мне понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I liked the play very much.</value>
+          <translation>Спектакль мне очень понравился.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play.</value>
+          <translation>Мне не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play at all.</value>
+          <translation>Мне вообще не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, at all - вовсе, совсем</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to like the play very much</question>
+    <answer>очень понравиться (о спектакле)</answer>
+    <comment>[tə lаɪk ðə pleɪ ˈveriː mʌʧ]</comment>
+    <question_comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5748d48-1f27-48b1-9e13-94c46cc20037</uuid>
+    <examples>
+       <example>
+          <value>I liked the play very much.</value>
+          <translation>Спектакль мне очень понравился.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to play the main part</question>
+    <answer>играть главную роль</answer>
+    <comment>[tə pleɪ ðə meɪn pɑːrt]</comment>
+    <question_comment>to play - играть, main - главный, part - роль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9c577a4a-6554-49c5-9cbe-61a083fb2cac</uuid>
+    <examples>
+       <example>
+          <value>Who&apos;s playing the main part?</value>
+          <translation>Кто исполняет главную роль?</translation>
+          <comment>who - кто, playing - играющий, main - главный, part - роль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to play today</question>
+    <answer>играть сегодня</answer>
+    <comment>[tə pleɪ təˈdeɪ]</comment>
+    <question_comment>to play - играть, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>430d10cf-6705-4919-bbaf-155cbdb0893e</uuid>
+    <examples>
+       <example>
+          <value>What play is given today?</value>
+          <translation>Какой сегодня спектакль?</translation>
+          <comment>what - что, какой, play - пьеса, спектакль, given - даваемый, данный, today - сегодня</comment>
+       </example>
+       <example>
+          <value>Who&apos;s playing today?</value>
+          <translation>Кто сегодня играет?</translation>
+          <comment>who - кто, playing - играющий, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to reserve two tickets</question>
+    <answer>заказать два билета</answer>
+    <comment>[tə rɪˈzɜːrv tuː ˈtɪkɪts]</comment>
+    <question_comment>to reserve - заказать, two - два, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4da48669-7a13-4741-8f32-7960dc91bc31</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to see well</question>
+    <answer>видеть хорошо</answer>
+    <comment>[tə siː wel]</comment>
+    <question_comment>to see - видеть, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2467246e-db86-4722-984c-51b67fab6699</uuid>
+    <examples>
+       <example>
+          <value>Can you see well?</value>
+          <translation>Вам хорошо видно?</translation>
+          <comment>can - мочь, you - ты, вы, to see - видеть, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to show our places</question>
+    <answer>показать наши места</answer>
+    <comment>[tə ʃoʊ аʊr ˈpleɪsɪz]</comment>
+    <question_comment>to show - показать, our - наш, наши, place - место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cce1e3c7-5d7b-4a16-8961-15fe3cc68f91</uuid>
+    <examples>
+       <example>
+          <value>Please show us our places.</value>
+          <translation>Подскажите, пожалуйста, наши места.</translation>
+          <comment>to show - показать, us - нам, нас, our - наш, наша, наше, наши, place - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sing today</question>
+    <answer>петь сегодня</answer>
+    <comment>[tə sɪŋ təˈdeɪ]</comment>
+    <question_comment>to sing - петь, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3eb04550-b005-4565-b4b4-33f93b5b9f7a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>two seats in the amphitheater</question>
+    <answer>два билета в амфитеатре</answer>
+    <comment>[tuː siːts ɪn ðiː ˈæmfɪˌθɪətər]</comment>
+    <question_comment>two - два, seat - место, amphitheater - амфитеатр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9422568b-8af9-4d3e-aa9d-0ee57f2175d9</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like two seats in the amphitheater.</value>
+          <translation>Мне нужны два билета в амфитеатре.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, amphitheater - амфитеатр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two seats in the box</question>
+    <answer>два билета в ложе</answer>
+    <comment>[tuː siːts ɪn ðə bɑːks]</comment>
+    <question_comment>two - два, seat - место, box - ложа в театре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2087d03c-01e1-4e0e-b091-e18a57b87278</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like two seats in the box.</value>
+          <translation>Мне нужны два билета в ложе.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, box - ложа (в театре)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two seats in the dress circle</question>
+    <answer>два билета в бельэтаже</answer>
+    <comment>[tuː siːts ɪn ðə dres ˈsɜːrkəl]</comment>
+    <question_comment>two - два, seat - место, dress circle - бельэтаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa24ff23-7c91-497d-9ed7-e409b981bbe7</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like two seats in the dress circle.</value>
+          <translation>Мне нужны два билета в бельэтаже.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, dress circle - бельэтаж (в театре)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two seats in the gallery</question>
+    <answer>два билета на галерке</answer>
+    <comment>[tuː siːts ɪn ðə ˈgæləriː]</comment>
+    <question_comment>two - два, seat - место, gallery - галерка в театре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e84c187-7432-4f69-a391-55d7ad37e5f6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like two seats in the gallery.</value>
+          <translation>Мне нужны два билета на галерке.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, gallery - галерка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two seats in the orchestra</question>
+    <answer>два билета в партере</answer>
+    <comment>[tuː siːts ɪn ðə ˈɔːrkɪstrə]</comment>
+    <question_comment>two - два, seat - место, orchestra - партер в театре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ffae9a8-114d-4202-a581-a03a04d563d5</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like two seats in the orchestra.</value>
+          <translation>Мне нужны два билета в партере.</translation>
+          <comment>would like - хотеть, two - два, seat - билет, orchestra - партер (в театре)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two tickets for Saturday evening</question>
+    <answer>два билета на вечерний сеанс в субботу</answer>
+    <comment>[tuː ˈtɪkɪts fər ˈsætərdiː ˈiːvnɪŋ]</comment>
+    <question_comment>two - два, ticket - билет, Saturday - суббота, evening - вечер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d08c7472-def1-429c-9727-529164bff4d6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two tickets for tonight&apos;s performance</question>
+    <answer>два билета на сегодняшний вечерний спектакль</answer>
+    <comment>[tuː ˈtɪkɪts fər təˈnаɪts pərˈfɔːrməns]</comment>
+    <question_comment>two - два, ticket - билет, tonight - сегодня вечером, performance - спектакль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fefd0c00-9ae3-4950-9a38-24f9c0597e09</uuid>
+    <examples>
+       <example>
+          <value>Give me two tickets for tonight&apos;s performance.</value>
+          <translation>Дайте два билета на сегодняшний вечерний спектакль.</translation>
+          <comment>to give - давать, me - мне, меня, two - два, ticket - билет, tonight - сегодня вечером, performance - представление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two tickets in the stalls</question>
+    <answer>два билета в партер</answer>
+    <comment>[tuː ˈtɪkɪts ɪn ðə stɔːlz]</comment>
+    <question_comment>two - два, ticket - билет, the stalls - партер в театре</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1704c20f-d419-4796-8033-90f2d886e2b0</uuid>
+    <examples>
+       <example>
+          <value>Give me two tickets in the stalls, please.</value>
+          <translation>Дайте, пожалуйста, два билета в партер.</translation>
+          <comment>to give - давать, me - мне, меня, ticket - билет, stalls - партер (в театре)</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

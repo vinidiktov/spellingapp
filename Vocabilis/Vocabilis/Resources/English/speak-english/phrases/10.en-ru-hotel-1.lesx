@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>acc0ab24-297c-42e4-8684-be214e2a9171</uuid>
+  <title>В гостинице. Прибытие и отъезд :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>3</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>I need hotel accommodation in the center.</question>
+    <answer>Мне нужен номер в гостинице в центре.</answer>
+    <comment>[аɪ niːd hoʊˈtel əˌkɑːməˈdeɪʃən ɪn ðə ˈsentər]</comment>
+    <answer_comment>need - нуждаться, hotel - гостиница, accommodation - жилье, center - центр</answer_comment>
+    
+    <uuid>ef46f002-307b-4753-bf19-ae9c29395b16</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need hotel accommodation near the railroad station.</question>
+    <answer>Мне нужен номер в гостинице возле вокзала.</answer>
+    <comment>[аɪ niːd hoʊˈtel əˌkɑːməˈdeɪʃən nɪr ðə ˈreɪlˌroʊd ˈsteɪʃən]</comment>
+    <answer_comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</answer_comment>
+    
+    <uuid>5abde93d-6aae-4568-b523-3003e1473514</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest hotel?</question>
+    <answer>Где ближайшая гостиница?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst hoʊˈtel]</comment>
+    <answer_comment>where - где, the nearest - ближайший, hotel - гостиница</answer_comment>
+    
+    <uuid>2e38181c-61f5-483b-95e8-787e80ae5c5b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have reserved a room beforehand.</question>
+    <answer>Я забронировал заранее номер.</answer>
+    <comment>[аɪ hæv rɪˈzɜːrvd ə ruːm bɪˈfɔːrˌhænd]</comment>
+    <answer_comment>to reserve - забронировать, room - комната, номер, beforehand - заранее</answer_comment>
+    
+    <uuid>0d3d1970-3bda-44d6-993d-3b639344fb65</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a reservation.</question>
+    <answer>У меня заказан номер.</answer>
+    <comment>[аɪ hæv ə ˌrezərˈveɪʃən]</comment>
+    <answer_comment>to have - иметь, reservation - бронь, заказ</answer_comment>
+    
+    <uuid>7aa31b69-adf2-4764-adca-3f27c7fe06ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;ve reserved two rooms.</question>
+    <answer>У нас заказаны два номера.</answer>
+    <comment>[wiːv rɪˈzɜːrvd tuː ruːmz]</comment>
+    <answer_comment>to reserve - зарезервировать, two - два, room - комната</answer_comment>
+    
+    <uuid>c41db65f-5cea-4d0d-8f76-8e80553d7068</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My name is ...</question>
+    <answer>Моя фамилия ...</answer>
+    <comment>[mаɪ neɪm ɪz]</comment>
+    <answer_comment>name - имя</answer_comment>
+    
+    <uuid>7fafc7cc-8c27-4ae2-acb2-f0ca664eb42e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have any vacancies?</question>
+    <answer>У вас есть свободные номера?</answer>
+    <comment>[duː jʊ hæv ˈeniː ˈveɪkənsiːz]</comment>
+    <answer_comment>to have - иметь, any - любой, vacancy - вакансия</answer_comment>
+    
+    <uuid>0867dcd7-46c5-4c16-8a82-402ef6f7a0a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a single room.</question>
+    <answer>Мне нужна комната на одного.</answer>
+    <comment>[аɪ niːd ə ˈsɪŋgəl ruːm]</comment>
+    <answer_comment>need - нуждаться, single - отдельный, room - комната, номер (в гостинице)</answer_comment>
+    
+    <uuid>f298121d-6ad4-4538-a34d-6612516b2dd9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a double room.</question>
+    <answer>Мне нужна комната на двоих.</answer>
+    <comment>[аɪ niːd ə ˈdʌbəl ruːm]</comment>
+    <answer_comment>need - нуждаться, double - двойной, room - комната, номер (в гостинице)</answer_comment>
+    
+    <uuid>69b00fcf-058e-4da1-bb5e-1b17ce06772f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a not too expensive room.</question>
+    <answer>Мне нужен не слишком дорогой номер.</answer>
+    <comment>[аɪ niːd ə nɑːt tuː ɪkˈspensɪv ruːm]</comment>
+    <answer_comment>need - нуждаться, too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</answer_comment>
+    
+    <uuid>3906530a-c987-44c5-9556-b2d4e358b1e2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to receive a single room.</question>
+    <answer>Я хотел бы получить одноместный номер.</answer>
+    <comment>[аɪd lаɪk tə rɪˈsiːv ə ˈsɪŋgəl ruːm]</comment>
+    <answer_comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</answer_comment>
+    
+    <uuid>5ab3a8c5-b81d-4bbb-8064-51fa5e9da1a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to receive a double room.</question>
+    <answer>Я хотел бы получить двухместный номер.</answer>
+    <comment>[аɪd lаɪk tə rɪˈsiːv ə ˈdʌbəl ruːm]</comment>
+    <answer_comment>would like - хотеть, to receive - получить, double - двойной, room - комната</answer_comment>
+    
+    <uuid>63b0e962-d340-4ec1-aed4-27714d993123</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room with a bath.</question>
+    <answer>Я хотел бы номер с ванной.</answer>
+    <comment>[аɪd lаɪk ə ruːm wɪð ə bæθ]</comment>
+    <answer_comment>would like - хотеть, room - комната, bath - ванна</answer_comment>
+    
+    <uuid>f9a21413-0551-4032-b6d3-79e8f8af6ffe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room with a shower.</question>
+    <answer>Я хотел бы номер с душем.</answer>
+    <comment>[аɪd lаɪk ə ruːm wɪð ə ˈʃаʊər]</comment>
+    <answer_comment>would like - хотеть, room - комната, shower - душ</answer_comment>
+    
+    <uuid>fa12e50b-5569-4093-b8d5-40afd46a766b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room with a balcony.</question>
+    <answer>Я хотел бы номер с балконом.</answer>
+    <comment>[аɪd lаɪk ə ruːm wɪð ə ˈbælkəniː]</comment>
+    <answer_comment>would like - хотеть, room - комната, balcony - балкон</answer_comment>
+    
+    <uuid>c5a30a8c-443e-4d0f-842c-172296f01c52</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room with a view of the river.</question>
+    <answer>Я хотел бы номер с видом на реку.</answer>
+    <comment>[аɪd lаɪk ə ruːm wɪð ə vjuː əv ðə ˈrɪvər]</comment>
+    <answer_comment>would like - хотеть, room - комната, view - вид, river - река</answer_comment>
+    
+    <uuid>266ba6aa-7905-4c7e-9d11-899830a8a569</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room at the front.</question>
+    <answer>Я бы хотел номер с окнами на улицу.</answer>
+    <comment>[аɪd lаɪk ə ruːm ət ðə frʌnt]</comment>
+    <answer_comment>would like - хотеть, room - комната, front - передняя сторона</answer_comment>
+    
+    <uuid>58f3f7f3-b21c-49aa-9b80-7bf3d76c43a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room at the back.</question>
+    <answer>Я бы хотел номер с окнами во двор.</answer>
+    <comment>[аɪd lаɪk ə ruːm ət ðə bæk]</comment>
+    <answer_comment>would like - хотеть, room - комната, back - задняя сторона</answer_comment>
+    
+    <uuid>532ecdd7-a662-440d-8635-409b7584dc47</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have a room with a better view?</question>
+    <answer>Есть ли у вас номер с лучшим видом?</answer>
+    <comment>[duː jʊ hæv ə ruːm wɪð ə ˈbetər vjuː]</comment>
+    <answer_comment>to have - иметь, room - комната, better - лучший, view - вид</answer_comment>
+    
+    <uuid>9d2ffc3b-8278-482c-bca0-e15a036bc763</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room on the top floors.</question>
+    <answer>Я хотел бы номер на верних этажах.</answer>
+    <comment>[аɪd lаɪk ə ruːm ɑːn ðə tɑːp flɔːrz]</comment>
+    <answer_comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</answer_comment>
+    
+    <uuid>61eda79b-772f-4248-8598-25bb2d087813</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a room on one of the bottom floors.</question>
+    <answer>Я хотел бы номер на нижних этажах.</answer>
+    <comment>[аɪd lаɪk ə ruːm ɑːn wʌn əv ðə ˈbɑːtəm flɔːrz]</comment>
+    <answer_comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</answer_comment>
+    
+    <uuid>fb885764-b901-41ac-898c-b18f522e7622</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It must be quiet.</question>
+    <answer>Номер нужен тихий.</answer>
+    <comment>[ɪt mʌst biː ˈkwаɪɪt]</comment>
+    <answer_comment>must - должен, to be - быть, quiet - спокойный, тихий</answer_comment>
+    
+    <uuid>a34b758e-31c7-49b9-b768-8c72c989fe6f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long will you be staying?</question>
+    <answer>Как долго вы здесь пробудете?</answer>
+    <comment>[hаʊ lɔːŋ wɪl jʊ biː ˈsteɪɪŋ]</comment>
+    <answer_comment>how - как, long - долго, to be staying - остановиться, находиться</answer_comment>
+    
+    <uuid>1fe7cd3d-9b7e-4f36-b122-6a43c5abaf50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll stay here for a day.</question>
+    <answer>Я пробуду здесь один день.</answer>
+    <comment>[аɪl steɪ hɪr fər ə deɪ]</comment>
+    <answer_comment>to stay - остановиться, пребывать, here - здесь, for - в течение, day - день</answer_comment>
+    
+    <uuid>647bec8f-c83f-4c90-a185-853210817eaa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll stay here for some days.</question>
+    <answer>Я пробуду здесь несколько дней.</answer>
+    <comment>[аɪl steɪ hɪr fər sʌm ˈdeɪz]</comment>
+    <answer_comment>to stay - остановиться, пребывать, here - здесь, for - в течение, some - некоторый, day - день</answer_comment>
+    
+    <uuid>a5b37a3e-a5f3-491f-9ab8-37bc5c1c7b97</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll stay here for a week.</question>
+    <answer>Я пробуду здесь неделю.</answer>
+    <comment>[аɪl steɪ hɪr fər ə wiːk]</comment>
+    <answer_comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</answer_comment>
+    
+    <uuid>1c760517-4a96-4b1f-b6ab-71da176a3fff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;ll be staying overnight only.</question>
+    <answer>Мы пробудем только сутки.</answer>
+    <comment>[wiːl biː ˈsteɪɪŋ ˈoʊvərˈnаɪt ˈoʊnliː]</comment>
+    <answer_comment>to stay - остановиться, пребывать, overnight - ночной, only - только</answer_comment>
+    
+    <uuid>81675242-c75e-4cf2-9ca1-83ed37f33ade</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t know yet.</question>
+    <answer>Я еще не знаю.</answer>
+    <comment>[аɪ doʊnt noʊ jet]</comment>
+    <answer_comment>to know - знать, yet - еще</answer_comment>
+    
+    <uuid>9a340945-a346-4fde-9d94-00acb0e616e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s my room number?</question>
+    <answer>Какой мой номер?</answer>
+    <comment>[hwʌts mаɪ ruːm ˈnʌmbər]</comment>
+    <answer_comment>what - какой, что, my - мой, моя, room - комната, number - номер</answer_comment>
+    
+    <uuid>eba54898-4ee8-4a57-9bbc-f176518cf704</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The key, please.</question>
+    <answer>Ключ, пожалуйста.</answer>
+    <comment>[ðə kiː pliːz]</comment>
+    <answer_comment>key - ключ</answer_comment>
+    
+    <uuid>04590382-d14f-488d-af61-01dc53117463</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there an air conditioner in the room?</question>
+    <answer>Есть ли в номере кондиционер?</answer>
+    <comment>[ɪz ðer ən er kənˈdɪʃənə ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, conditioner - кондиционер, room - комната</answer_comment>
+    
+    <uuid>1d1f1a6c-6e65-43e8-bf49-b4360fb69151</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a bath in the room?</question>
+    <answer>Есть ли в номере ванна?</answer>
+    <comment>[ɪz ðer ə bæθ ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, bath - ванна, room - комната</answer_comment>
+    
+    <uuid>14a41fea-40e3-48f4-bcc2-d80a162a381d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a toilet in the room?</question>
+    <answer>Есть ли в номере туалет?</answer>
+    <comment>[ɪz ðer ə ˈtɔɪlɪt ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, room - комната</answer_comment>
+    
+    <uuid>f6acb24f-4113-4334-9898-976726f6adfd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a telephone in the room?</question>
+    <answer>Есть ли в номере телефон?</answer>
+    <comment>[ɪz ðer ə ˈteləˌfoʊn ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, telephone - телефон, room - комната</answer_comment>
+    
+    <uuid>ecedfc5b-bdaf-41fd-8742-9b3651ba3ce0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a TV set in the room?</question>
+    <answer>Есть ли в номере телевизор?</answer>
+    <comment>[ɪz ðer ə ˈtiːˈviː set ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, TV set - телевизор, room - комната</answer_comment>
+    
+    <uuid>43bef1ef-37a3-4a5d-9ac2-cb1702bd9d27</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a refrigerator in the room?</question>
+    <answer>Есть ли в номере холодильник?</answer>
+    <comment>[ɪz ðer ə rɪˈfrɪʤəˌreɪtər ɪn ðə ruːm]</comment>
+    <answer_comment>there is - есть, имеется, refrigerator - холодильник, room - комната</answer_comment>
+    
+    <uuid>529ab4a5-0fac-401b-93ef-6b306b107a70</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the room?</question>
+    <answer>Сколько стоит номер?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə ruːm]</comment>
+    <answer_comment>how - как, much - много, room - комната</answer_comment>
+    
+    <uuid>f2cc262e-21a1-4e82-9f92-8ea12cc41d1d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the rent of an appartment?</question>
+    <answer>Сколько стоит аренда квартиры?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə rent əv ən əˈpɑːrtmənt]</comment>
+    <answer_comment>how - как, much - много, rent - аренда, appartment - апартаменты, квартира</answer_comment>
+    
+    <uuid>ebd558b0-6bfb-462c-8c4a-4a1861744486</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the rent of a house?</question>
+    <answer>Сколько стоит аренда дома?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə rent əv ə ˌhaʊs]</comment>
+    <answer_comment>how - как, much - много, rent - аренда, house - дом</answer_comment>
+    
+    <uuid>585345f1-427c-4602-a5f1-148e2224c8a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the rent for a night?</question>
+    <answer>Сколько стоят сутки?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə rent fər ə nаɪt]</comment>
+    <answer_comment>how - как, much - много, rent - аренда, night - ночь</answer_comment>
+    
+    <uuid>f5e5f7d4-6b7c-4105-add1-1ce4c9ccd94f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the rent with breakfast?</question>
+    <answer>Сколько стоит аренда с завтраком?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə rent wɪð ˈbrekfəst]</comment>
+    <answer_comment>how - как, much - много, rent - аренда, breakfast - завтрак</answer_comment>
+    
+    <uuid>5105e271-7407-4077-a6c4-b90b9471d515</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I park my car?</question>
+    <answer>Гдк я могу поставить свою машину?</answer>
+    <comment>[hwer kæn аɪ pɑːrk mаɪ kɑːr]</comment>
+    <answer_comment>where - где, can - мочь, to park - ставить, парковать, my - мой, моя, мои, car - машина</answer_comment>
+    
+    <uuid>4cbe296e-8fe5-4f40-9106-01ffeeade326</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I exchange currency?</question>
+    <answer>Где я могу обменять валюту?</answer>
+    <comment>[hwer kæn аɪ ɪksˈʧeɪnʤ ˈkɜːrənsiː]</comment>
+    <answer_comment>where - где, can - мочь, to exchange - обменять, currency - валюта</answer_comment>
+    
+    <uuid>2d52ce4a-b180-466c-869e-37fa2052545f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I rent a car?</question>
+    <answer>Где я могу арендовать автомобиль?</answer>
+    <comment>[hwer kæn аɪ rent ə kɑːr]</comment>
+    <answer_comment>where - где, can - мочь, to rent - арендовать, car - машина</answer_comment>
+    
+    <uuid>faa8cbee-6b40-44fe-97c4-43d0031d29a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a luggage office in the hotel?</question>
+    <answer>Есть ли в гостинице камера хранения?</answer>
+    <comment>[ɪz ðer ə ˈlʌgɪʤ ˈɔːfɪs ɪn ðə hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, luggage - багаж, office - офис, hotel - гостиница</answer_comment>
+    
+    <uuid>475c4784-bd31-43ec-bc61-8dd446157fbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a fitness hall in the hotel?</question>
+    <answer>Есть ли в гостинице фитнес-зал?</answer>
+    <comment>[ɪz ðer ə ˈfɪtnəs hɔːl ɪn ðə hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, fitness - фитнес, hall - зал, hotel - гостиница</answer_comment>
+    
+    <uuid>95ddcd43-0b5c-4023-ac60-70dce510d956</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a swimming pool in the hotel?</question>
+    <answer>Есть ли в гостинице бассейн?</answer>
+    <comment>[ɪz ðer ə ˈswɪmɪŋ puːl ɪn ðə hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, hotel - гостиница</answer_comment>
+    
+    <uuid>9e371668-306b-484d-9e3c-e9977fe36f05</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a sauna in the hotel?</question>
+    <answer>Есть ли в гостинице сауна?</answer>
+    <comment>[ɪz ðer ə ˈsаʊnɑː ɪn ðə hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, sauna - сауна, hotel - гостиница</answer_comment>
+    
+    <uuid>5e9c52da-3b1a-4055-91bf-7d8f23a57e8f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I look at the room?</question>
+    <answer>Могу я посмотреть номер?</answer>
+    <comment>[kæn аɪ lʊk ət ðə ruːm]</comment>
+    <answer_comment>can - мочь, to look - посмотреть, room - комната, номер (в гостинице)</answer_comment>
+    
+    <uuid>44138201-a8a5-4253-9bdd-243716b60161</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t like the room.</question>
+    <answer>Мне не нравится номер.</answer>
+    <comment>[аɪ doʊnt lаɪk ðə ruːm]</comment>
+    <answer_comment>to like - любить, нравиться, room - комната, номер (в гостинице)</answer_comment>
+    
+    <uuid>8a81fb7b-7a0e-423e-8e33-0d5c83ac209e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, it doesn&apos;t suit me.</question>
+    <answer>Этот номер мне не подходит.</answer>
+    <comment>[ˈsɑːriː ɪt ˈdʌzənt suːt ˈmiː]</comment>
+    <answer_comment>sorry - сожалеющий, to suit - подходить, me - мне, меня</answer_comment>
+    
+    <uuid>2fe08cc6-db0c-4cb1-a134-dcbbd56c47dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have anything better?</question>
+    <answer>У вас есть что-нибудь получше?</answer>
+    <comment>[duː jʊ hæv ˈenɪˌθɪŋ ˈbetər]</comment>
+    <answer_comment>to have - иметь, anything - что-нибудь, better - лучше</answer_comment>
+    
+    <uuid>63d61760-e22a-48b0-8eab-8a306379b0b0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have anything larger?</question>
+    <answer>У вас есть что-нибудь побольше?</answer>
+    <comment>[duː jʊ hæv ˈenɪˌθɪŋ ˈlɑːrʤə]</comment>
+    <answer_comment>to have - иметь, anything - что-нибудь, larger - больше</answer_comment>
+    
+    <uuid>64271379-2bd7-4115-a0c9-9d6c5b7f183e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have anything cheaper?</question>
+    <answer>У вас есть что-нибудь подешевле?</answer>
+    <comment>[duː jʊ hæv ˈenɪˌθɪŋ ˈʧiːpə]</comment>
+    <answer_comment>to have - иметь, anything - что-нибудь, cheaper - дешевле</answer_comment>
+    
+    <uuid>b79be740-6936-47cd-af06-ca5991503c3a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This room suits me perfectly well.</question>
+    <answer>Этот номер мне подходит.</answer>
+    <comment>[ðɪs ruːm suːts ˈmiː ˈpɜːrfɪktliː wel]</comment>
+    <answer_comment>this -этот, эта, это, room - комната, to suit - подходить, me - мне, меня, perfectly - совершенно, well - хорошо</answer_comment>
+    
+    <uuid>95784d98-0904-4d59-a03d-43ce118e4ac6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s fine. I&apos;ll take it.</question>
+    <answer>Хорошо. Я беру его (номер).</answer>
+    <comment>[ðæts fаɪn аɪl teɪk ɪt]</comment>
+    <answer_comment>that - это, fine - замечательный, to take - брать, it - это</answer_comment>
+    
+    <uuid>91cfeef0-8abd-4103-91af-c0c5edeebe04</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time is breakfast served?</question>
+    <answer>В какое время завтрак?</answer>
+    <comment>[hwʌt tаɪm ɪz ˈbrekfəst sɜːrvd]</comment>
+    <answer_comment>what - что, какой, time - время, breakfast - завтрак, served - подаваемый</answer_comment>
+    
+    <uuid>772699a3-dea1-42b8-a1b0-3ba0dac3676c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Fill out this registration form, please.</question>
+    <answer>Заполните, пожалуйста, анкету.</answer>
+    <comment>[fɪl аʊt ðɪs ˌreʤɪˈstreɪʃən fɔːrm pliːz]</comment>
+    <answer_comment>to fill out - заполнить, this - этот, эта, это, registration - регистрация, form - бланк, форма</answer_comment>
+    
+    <uuid>3978816a-f61e-4230-8527-52e019b1791f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m leaving this evening.</question>
+    <answer>Я уезжаю сегодня вечером.</answer>
+    <comment>[аɪm ˈliːvɪŋ ðɪs ˈiːvnɪŋ]</comment>
+    <answer_comment>to leave - оставлять, уезжать, this - этот, эта, это, evening - вечер</answer_comment>
+    
+    <uuid>b7451ffe-8ca9-406a-8de4-c734990afcbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m leaving tomorrow morning.</question>
+    <answer>Я уезжаю завтра утром.</answer>
+    <comment>[аɪm ˈliːvɪŋ təˈmɔːroʊ ˈmɔːrnɪŋ]</comment>
+    <answer_comment>to leave - оставлять, уезжать, tomorrow - завтра, morning - утро</answer_comment>
+    
+    <uuid>7bd18776-bcf1-4c8e-8c68-8d19a63ff220</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Prepare the bill, please.</question>
+    <answer>Приготовьте, пожалуйста, счет.</answer>
+    <comment>[prɪˈper ðə bɪl pliːz]</comment>
+    <answer_comment>to prepare - подготовить, bill - счет</answer_comment>
+    
+    <uuid>658075a8-7661-4aab-9d66-a59026dcf5e2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have stayed here for three days.</question>
+    <answer>Я пробыл здесь три дня.</answer>
+    <comment>[аɪ hæv ˈsteɪd hɪr fər θriː ˈdeɪz]</comment>
+    <answer_comment>to stay - оставаться, пребывать, here - здесь, for - в течение, three - три, day - день</answer_comment>
+    
+    <uuid>5b8852af-e0d8-4e20-b4aa-59edd02b9ac6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have stayed here for a week.</question>
+    <answer>Я пробыл здесь неделю.</answer>
+    <comment>[аɪ hæv ˈsteɪd hɪr fər ə wiːk]</comment>
+    <answer_comment>to stay - оставаться, пребывать, here - здесь, for - в течение, week - неделя</answer_comment>
+    
+    <uuid>3601bcc9-00a3-4b3b-9b87-ecb146402367</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I pay with traveller&apos;s checks?</question>
+    <answer>Могу я заплатить дорожными чеками?</answer>
+    <comment>[kæn аɪ peɪ wɪð ˈtrævələrz ʧeks]</comment>
+    <answer_comment>can - мочь, to pay - платить, traveller - путешественник, check - чек</answer_comment>
+    
+    <uuid>cd32f472-4392-4a21-9f64-776203a1f330</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I pay by credit card?</question>
+    <answer>Могу я заплатить кредитной карточкой?</answer>
+    <comment>[kæn аɪ peɪ bаɪ ˈkredɪt kɑːrd]</comment>
+    <answer_comment>can - мочь, to pay - платить, credit - кредитный, card - карта</answer_comment>
+    
+    <uuid>0bc20107-87d9-410f-9ab5-850c5ad2734c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I pay in cash.</question>
+    <answer>Я заплачу наличными.</answer>
+    <comment>[аɪ peɪ ɪn kæʃ]</comment>
+    <answer_comment>to pay - платить, cash - наличные деньги</answer_comment>
+    
+    <uuid>5c8a776f-bea4-44f6-8f4d-91209f0a8072</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Our stay here was very pleasant.</question>
+    <answer>Здесь было очень приятно.</answer>
+    <comment>[аʊr steɪ hɪr wʌz ˈveriː ˈplezənt]</comment>
+    <answer_comment>our - наш, наша, наше, stay - пребывание, here - здесь, was - был, была, было, very - очень, pleasant - полезный</answer_comment>
+    
+    <uuid>7aec9be9-a201-4d2e-85c2-75de6fb0c3bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thanks for everything.</question>
+    <answer>Спасибо за все.</answer>
+    <comment>[θæŋks fər ˈevriːˌθɪŋ]</comment>
+    <answer_comment>thanks - спасибо, everything - все</answer_comment>
+    
+    <uuid>9b9fd2a4-aab2-4296-a593-b4c841b30b4c</uuid>
+  </card>
+</cards>
+</stack>

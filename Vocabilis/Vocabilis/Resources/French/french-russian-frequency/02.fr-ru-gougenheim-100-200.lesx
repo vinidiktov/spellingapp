@@ -1,0 +1,2313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dacd05c1-f8e7-48c9-9170-86811e9666ff</uuid>
+  <title>Самые нужные слова. Часть 2</title>
+  <author>Alexei Vinidiktov</author>
+  <date>
+     <year>2008</year>
+     <month>3</month>
+     <day>7</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>l&apos;an</question>
+    <answer>год (S. année)</answer>
+    <comment>м.р.</comment>
+    <uuid>e0a265cb-5968-4bfb-9390-b610152ca26d</uuid>
+    <examples>
+       <example>
+          <value>l&apos;an passé</value>
+          <translation>прошлый год</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>dans un an</value>
+          <translation>через год</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>il y a un an</value>
+          <translation>год назад</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>l&apos;n prochain</value>
+          <translation>следующий год</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>son</question>
+    <answer>его, её (м.р.)</answer>
+    <comment></comment>
+    <uuid>f3e696aa-a698-411d-b66b-7897c9245b07</uuid>
+    <examples>
+       <example>
+          <value>son père</value>
+          <translation>его/её отец</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>son oncle</value>
+          <translation>его/её дядя</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>son frère</value>
+          <translation>его/её брат</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>où</question>
+    <answer>где</answer>
+    <comment></comment>
+    <uuid>1c30e57b-2dbb-4a13-b851-ed501bfe0f79</uuid>
+    <examples>
+       <example>
+          <value>Où est-il?</value>
+          <translation>Где он?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Où va-t-il?</value>
+          <translation>Куда он идёт?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Où est sa mère?</value>
+          <translation>Где его/её мать?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sa</question>
+    <answer>его, её (ж.р.)</answer>
+    <comment></comment>
+    <uuid>45acb5aa-3374-4bb9-8835-5c9a381e1c2a</uuid>
+    <examples>
+       <example>
+          <value>sa mère</value>
+          <translation>его/её мать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sa tante</value>
+          <translation>его/её тётя</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sa sœur</value>
+          <translation>его/её сестра</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>cent</question>
+    <answer>сто</answer>
+    <comment></comment>
+    <uuid>d4690679-d66e-4767-b585-d86718e0b2a0</uuid>
+    <examples>
+       <example>
+          <value>cent pour cent</value>
+          <translation>сто процентов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>cent livres</value>
+          <translation>сто книг</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>cent mots</value>
+          <translation>сто слов</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>comprendre</question>
+    <answer>понимать</answer>
+    <comment></comment>
+    <uuid>96b15cf3-2ed4-4803-a74c-9e6dded12a6d</uuid>
+    <examples>
+       <example>
+          <value>comprendre mon ami</value>
+          <translation>понимать моего друга</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>comprendre bien</value>
+          <translation>хорошо понимать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>comprendre tout</value>
+          <translation>всё понимать</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>maintenant</question>
+    <answer>сейчас</answer>
+    <comment></comment>
+    <uuid>888a6f5f-0f8c-4435-b18c-7d7ff8f845c9</uuid>
+  </card>
+  <card>
+    <question>bon</question>
+    <answer>хороший</answer>
+    <comment></comment>
+    <uuid>ce4d562f-7456-49cd-b3aa-bdd26c786141</uuid>
+    <examples>
+       <example>
+          <value>un bon ami</value>
+          <translation>хороший друг</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un bon jour</value>
+          <translation>хороший день</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un bon gâteau</value>
+          <translation>хороший торт</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une bonne surprise</value>
+          <translation>приятный сюрприз</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une bonne idée</value>
+          <translation>хорошая идея</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>quand même</question>
+    <answer>всё-таки (S. tout de même)</answer>
+    <comment></comment>
+    <uuid>e416298c-648b-41ab-a22d-bca3b986f013</uuid>
+    <examples>
+       <example>
+          <value>Je le ferai quand même.</value>
+          <translation>Я всё-таки это сделаю.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>J&apos;y irai quand même.</value>
+          <translation>Я всё-таки туда пойду.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>chez</question>
+    <answer>у (меня дома и т.п.)</answer>
+    <comment></comment>
+    <uuid>e5bba568-45e0-47a1-b435-b232913a7948</uuid>
+    <examples>
+       <example>
+          <value>chez moi</value>
+          <translation>у меня (дома)</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>chez Robert</value>
+          <translation>у Роберта (дома)</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>chez ma sœur</value>
+          <translation>у моей сестры (дома)</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le moment</question>
+    <answer>момент, минута, мгновение</answer>
+    <comment></comment>
+    <uuid>978896a9-6e72-40a5-9f33-a1fff4651da8</uuid>
+    <examples>
+       <example>
+          <value>attendre un moment</value>
+          <translation>подождать минутку</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>à ce moment</value>
+          <translation>в этот момент, сейчас</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>dans un moment</value>
+          <translation>через минуту</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>vingt</question>
+    <answer>двадцать</answer>
+    <comment></comment>
+    <uuid>c235e2ce-2dd6-4ccd-9580-a69d45d90d96</uuid>
+    <examples>
+       <example>
+          <value>vingt étudiants</value>
+          <translation>двадцать студентов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>vingt pour cent</value>
+          <translation>двадцать процентов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>vingt minutes</value>
+          <translation>двадцать минут</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>qu&apos;est-ce que</question>
+    <answer>что (см. que, quoi)</answer>
+    <comment></comment>
+    <uuid>5e13d01e-8ea3-4cd5-a9bc-b67bacd4976e</uuid>
+    <examples>
+       <example>
+          <value>Qu&apos;est-ce qu&apos;il fait?</value>
+          <translation>Что он делает?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Qu&apos;est-ce qu&apos;il dit?</value>
+          <translation>Что он говорит?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Qu&apos;est-ce qu&apos;il veut?</value>
+          <translation>Чего он хочет?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>comment</question>
+    <answer>как</answer>
+    <comment></comment>
+    <uuid>04c22f55-5b04-43a5-b3f7-dd35d34e963b</uuid>
+    <examples>
+       <example>
+          <value>Comment va-t-elle?</value>
+          <translation>Как у неё дела?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Je sais comment ...</value>
+          <translation>Я знаю, как ...</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Comment va son frère?</value>
+          <translation>Как дела у её брата?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>jamais</question>
+    <answer>никогда</answer>
+    <comment></comment>
+    <uuid>289c7d17-555d-48b2-b45a-0e27bb44053e</uuid>
+    <examples>
+       <example>
+          <value>Je ne l&apos;oublierai jamais.</value>
+          <translation>Я его никогда не забуду.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Je ne reviendrai jamais.</value>
+          <translation>Я никогда не вернусь.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Je ne le pardonnerai jamais.</value>
+          <translation>Я никогда его не прощу.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>moins</question>
+    <answer>менее</answer>
+    <comment></comment>
+    <uuid>a3257bb6-9f33-4885-8454-347afd07f323</uuid>
+    <examples>
+       <example>
+          <value>moins intérésant</value>
+          <translation>менее интересный</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>moins cher</value>
+          <translation>менее дорогой</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>moins riche</value>
+          <translation>менее богатый</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>quatre</question>
+    <answer>четыре</answer>
+    <comment></comment>
+    <uuid>9876f131-a7b0-45b6-8725-135693dfeb0e</uuid>
+    <examples>
+       <example>
+          <value>quatre fois</value>
+          <translation>четыре раза</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quatre minutes</value>
+          <translation>четыре минуты</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quatre amis</value>
+          <translation>четверо друзей</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>monsieur</question>
+    <answer>господин</answer>
+    <comment></comment>
+    <uuid>3ff9b13f-7c3f-4bea-ab6d-d3c67d17a31e</uuid>
+    <examples>
+       <example>
+          <value>monsieur Dupon</value>
+          <translation>господин Дюпон</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>monsieur le directeur</value>
+          <translation>господин директор</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>connaître</question>
+    <answer>знать (S. savoir)</answer>
+    <comment></comment>
+    <uuid>b7a06ca7-b238-4bae-a581-d595162924b2</uuid>
+    <examples>
+       <example>
+          <value>connaître sa mère</value>
+          <translation>знать свою мать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>connaître une langue</value>
+          <translation>знать язык</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>connaître bien</value>
+          <translation>хорошо знать (S. savoir)</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>ces</question>
+    <answer>эти</answer>
+    <comment></comment>
+    <uuid>6c6f8b68-95c5-432d-97d5-1bd1ef528ae7</uuid>
+    <examples>
+       <example>
+          <value>ces choses</value>
+          <translation>эти вещи</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ces enfants</value>
+          <translation>эти дети</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ces fleurs</value>
+          <translation>эти цветы</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>vraiment</question>
+    <answer>действительно, на самом деле</answer>
+    <comment></comment>
+    <uuid>345ccb01-914b-4129-a946-780a4c065ec0</uuid>
+    <examples>
+       <example>
+          <value>C&apos;est vraiment intéressant.</value>
+          <translation>Это очень (действительно) интересно.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>vraiment bizarre</value>
+          <translation>очень (действительно) странный</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>vraiment mauvais</value>
+          <translation>очень (действительно) плохой</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>vraiment bon</value>
+          <translation>очень (действительно) хороший</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>dix</question>
+    <answer>десять</answer>
+    <comment></comment>
+    <uuid>c1919b21-6558-4e5b-8135-ea3312b1dda3</uuid>
+    <examples>
+       <example>
+          <value>dix dollars</value>
+          <translation>десять долларов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>dix doigts</value>
+          <translation>десять пальцев</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>dix fois</value>
+          <translation>десять раз</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le franc</question>
+    <answer>франк</answer>
+    <comment></comment>
+    <uuid>ccdf2a51-fe75-4acf-8da8-648ee4f3fcd1</uuid>
+    <examples>
+       <example>
+          <value>dix francs</value>
+          <translation>десять франков</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>combien de francs</value>
+          <translation>сколько франков</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>payer un franc</value>
+          <translation>заплатить один франк</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>cinq</question>
+    <answer>пять</answer>
+    <comment></comment>
+    <uuid>0bdeab6e-6538-4810-b795-f599a690e847</uuid>
+    <examples>
+       <example>
+          <value>cinq doigts</value>
+          <translation>пять пальцев</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>cinq jours</value>
+          <translation>пять дней</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>cinq fois</value>
+          <translation>пять раз</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>votre</question>
+    <answer>ваш</answer>
+    <comment></comment>
+    <uuid>b07af189-fb02-4c96-a556-02d39898b088</uuid>
+    <examples>
+       <example>
+          <value>votre ami</value>
+          <translation>ваш друг</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>votre voisin</value>
+          <translation>ваш сосед</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>votre enfant</value>
+          <translation>ваш ребёнок</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>l&apos;enfant</question>
+    <answer>ребёнок</answer>
+    <comment>м.р. и ж.р.</comment>
+    <uuid>9bd83b5c-9693-4823-b90a-473ebbcc5b09</uuid>
+    <examples>
+       <example>
+          <value>deux enfants</value>
+          <translation>двое детей</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>avoir un enfant</value>
+          <translation>иметь ребёнка</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un petit enfant</value>
+          <translation>маленький ребёнок</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>partir</question>
+    <answer>отправляться, уходить, уезжать</answer>
+    <comment></comment>
+    <uuid>4da913fd-e494-4978-abc0-a274d602584d</uuid>
+    <examples>
+       <example>
+          <value>partir pour Paris</value>
+          <translation>отправляться в Париж</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>partir avec mon voisin</value>
+          <translation>уходить с соседом</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>partir tôt</value>
+          <translation>уезжать рано</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>voilà</question>
+    <answer>вот</answer>
+    <comment></comment>
+    <uuid>6d148fce-e71f-41d0-a26a-07c5695028c2</uuid>
+    <examples>
+       <example>
+          <value>Voilà mon ami.</value>
+          <translation>Вот мой друг.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Voilà son voisin.</value>
+          <translation>Вот его сосед.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Le voilà.</value>
+          <translation>А вот и он.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>assez</question>
+    <answer>достаточно</answer>
+    <comment></comment>
+    <uuid>89ebe70a-7dba-4c5b-a579-5770d8c7b001</uuid>
+    <examples>
+       <example>
+          <value>assez intéressant</value>
+          <translation>достаточно интересный</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>assez bon</value>
+          <translation>достаточно хороший</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>assez d&apos;argent</value>
+          <translation>достаточно денег</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>assez d&apos;amis</value>
+          <translation>достаточно друзей</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>madame</question>
+    <answer>мадам</answer>
+    <comment></comment>
+    <uuid>32fdf6b4-23d5-4051-9d14-34ee81a87337</uuid>
+  </card>
+  <card>
+    <question>demander</question>
+    <answer>просить, спрашивать</answer>
+    <comment></comment>
+    <uuid>1d5121da-ea9b-42b4-9ae7-09554aa80f89</uuid>
+    <examples>
+       <example>
+          <value>demander l&apos;heur</value>
+          <translation>спрашивать время</translation>
+          <comment>heur - час</comment>
+       </example>
+       <example>
+          <value>Il demande si elle est venue.</value>
+          <translation>Он спрашивает, пришла ли она.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Elle demande pourquoi Marie pleure.</value>
+          <translation>Она спрашивает, почему Мари плачет.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>trop</question>
+    <answer>слишком, слишком много</answer>
+    <comment></comment>
+    <uuid>907e683e-f29f-4667-9637-8cb9043522e4</uuid>
+    <examples>
+       <example>
+          <value>trop de bruit</value>
+          <translation>слишком много шума</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>trop de gens</value>
+          <translation>слишком много людей</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>boire trop</value>
+          <translation>слишком много пить</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>trop tard</value>
+          <translation>слишком поздно</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>d&apos;ailleurs</question>
+    <answer>впрочем</answer>
+    <comment></comment>
+    <uuid>d6bff044-92d6-42a0-b377-fd21f54f954f</uuid>
+  </card>
+  <card>
+    <question>tenir</question>
+    <answer>держать</answer>
+    <comment></comment>
+    <uuid>0aed948d-991c-4a15-8216-eb41c0e2e583</uuid>
+    <examples>
+       <example>
+          <value>tenir un enfant par la main</value>
+          <translation>держать ребёнка за руку</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>tenir un livre à la main</value>
+          <translation>держать в руке книгу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>tenir le bébé dans ses bras</value>
+          <translation>держать ребёнка на руках</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>la maison</question>
+    <answer>дом</answer>
+    <comment></comment>
+    <uuid>682acb9d-2dd6-4bee-9151-51da465172fb</uuid>
+    <examples>
+       <example>
+          <value>une grande maison</value>
+          <translation>большой дом</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une petite maison</value>
+          <translation>маленький дом, домик</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>acheter une maison</value>
+          <translation>купить дом</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>la femme</question>
+    <answer>женщина</answer>
+    <comment></comment>
+    <uuid>6f1fb7e8-d678-4da1-b0e0-da7128f0fe3e</uuid>
+    <examples>
+       <example>
+          <value>une femme et un homme</value>
+          <translation>женщина и мужчина</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une vieille femme</value>
+          <translation>старая женщина, старуха</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une jeune femme</value>
+          <translation>молодая женщина</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>peut-être</question>
+    <answer>может быть, возможно</answer>
+    <comment></comment>
+    <uuid>f4b30338-33a1-4f6d-af71-d60909b168d5</uuid>
+    <examples>
+       <example>
+          <value>Il est peut-être malade.</value>
+          <translation>Он, возможно, болен.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Tu as peut-être raison.</value>
+          <translation>Возможно, ты прав.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>- Tu viendras? - Peut-être.</value>
+          <translation>- Ты придешь? - Возможно.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>aimer</question>
+    <answer>любить</answer>
+    <comment></comment>
+    <uuid>77ede1a0-ac96-4c76-9223-c5ef53602b15</uuid>
+    <examples>
+       <example>
+          <value>aimer ses enfants</value>
+          <translation>любить своих детей</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>aimer sa femme</value>
+          <translation>любить свою жену</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>aimer son mari</value>
+          <translation>любить своего мужа</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>les gens</question>
+    <answer>люди</answer>
+    <comment>м.р., ж.р. мн. ч.</comment>
+    <uuid>bcc5844a-6643-4491-9cd7-6a7d7461c8a6</uuid>
+    <examples>
+       <example>
+          <value>beaucoup de gens</value>
+          <translation>много людей, много народу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>aimer les gens</value>
+          <translation>любить людей</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>de vielles gens</value>
+          <translation>старые люди, старики</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le mois</question>
+    <answer>месяц</answer>
+    <comment></comment>
+    <uuid>4aa3a805-40c9-409c-b71e-2f120125265a</uuid>
+    <examples>
+       <example>
+          <value>passer un mois</value>
+          <translation>провести месяц</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>deux fois par mois</value>
+          <translation>два раза в месяц</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>le mois prochain</value>
+          <translation>в следующем месяце</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>le mois dernier</value>
+          <translation>в прошлом месяце</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>penser</question>
+    <answer>думать</answer>
+    <comment></comment>
+    <uuid>3daa78a0-3536-45ac-84a3-208bc6c0a454</uuid>
+    <examples>
+       <example>
+          <value>Je pense que tu as raison.</value>
+          <translation>Я думаю, что ты прав.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il pense qu&apos;elle est venue.</value>
+          <translation>Он думает, что она пришла.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Elle pense à son mari.</value>
+          <translation>Она думает о своём муже.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>mille</question>
+    <answer>тысяча</answer>
+    <comment></comment>
+    <uuid>34c56e5c-2cf3-402c-a954-7b18ebcc9fb2</uuid>
+    <examples>
+       <example>
+          <value>deux mille</value>
+          <translation>две тысячи</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>trois mille</value>
+          <translation>три тысячи</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>mille ans</value>
+          <translation>тысяча лет</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>mille mètres</value>
+          <translation>тысяча метров</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>là-bas</question>
+    <answer>вон там</answer>
+    <comment></comment>
+    <uuid>9b984885-f597-4e7c-82f1-c84d09a965ba</uuid>
+    <examples>
+       <example>
+          <value>Que fais-tu là-bas?</value>
+          <translation>Что ты там делаешь?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>de là-bas</value>
+          <translation>оттуда</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il habite là-bas.</value>
+          <translation>Он живёт вон там.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>quelque chose</question>
+    <answer>что-нибудь</answer>
+    <comment></comment>
+    <uuid>b6f7b289-14b0-4b28-b45c-baa8fc878ec0</uuid>
+    <examples>
+       <example>
+          <value>quelque chose à manger</value>
+          <translation>что-нибудь поесть</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quelque chose d&apos;intéressant</value>
+          <translation>что-нибудь интересное</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>donner quelque chose</value>
+          <translation>дать что-нибудь</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le soir</question>
+    <answer>вечер</answer>
+    <comment></comment>
+    <uuid>7cbaa745-efdd-4938-8a11-a8fec7e1e51d</uuid>
+    <examples>
+       <example>
+          <value>ce soir</value>
+          <translation>сегодня вечером</translation>
+          <comment>ce - этот</comment>
+       </example>
+       <example>
+          <value>hier soir</value>
+          <translation>вчера вечером</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>demain soir</value>
+          <translation>завтра вечером</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>rester</question>
+    <answer>оставаться</answer>
+    <comment></comment>
+    <uuid>7816cacb-0abf-4ef0-9aa3-f5cb497c7060</uuid>
+    <examples>
+       <example>
+          <value>rester chez soi</value>
+          <translation>оставаться дома</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>rester ici</value>
+          <translation>оставаться здесь</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>rester au lit</value>
+          <translation>оставаться в постели</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sans</question>
+    <answer>без</answer>
+    <comment></comment>
+    <uuid>05129616-4237-45e1-b3a5-d184b322d960</uuid>
+    <examples>
+       <example>
+          <value>sans argent</value>
+          <translation>без денег</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sans aide</value>
+          <translation>без помощи</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sans enfants</value>
+          <translation>без детей</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>l&apos;année</question>
+    <answer>год (S. an)</answer>
+    <comment>ж.р.</comment>
+    <uuid>ed490c7e-fce2-4d34-93e5-72920bc889b2</uuid>
+    <examples>
+       <example>
+          <value>l&apos;année scholaire</value>
+          <translation>школьный год</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>l&apos;année passée</value>
+          <translation>прошлый год (S. an)</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>l&apos;année prochaine</value>
+          <translation>будущий год (S. an)</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>donc</question>
+    <answer>следовательно, значит</answer>
+    <comment></comment>
+    <uuid>4ed794eb-aa89-4dff-9f3d-88911d15b59a</uuid>
+    <examples>
+       <example>
+          <value>Je pense, donc je suis.</value>
+          <translation>Я думаю, и следовательно я существую.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il n&apos;est pas donc venu.</value>
+          <translation>Значит он не пришёл.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il est donc malade.</value>
+          <translation>Значит он болеет.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>l&apos;exemple</question>
+    <answer>пример</answer>
+    <comment>м.р.</comment>
+    <uuid>518f73e3-476f-4881-9bbd-2be342204aa0</uuid>
+    <examples>
+       <example>
+          <value>donner un exemple</value>
+          <translation>привести пример</translation>
+          <comment>donner - дать</comment>
+       </example>
+       <example>
+          <value>un bon exemple</value>
+          <translation>хороший пример</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un mauvais exemple</value>
+          <translation>плохой пример</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>par exemple</value>
+          <translation>например</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>déjà</question>
+    <answer>уже</answer>
+    <comment></comment>
+    <uuid>39ad023b-d221-4976-94a9-802a6a46521d</uuid>
+    <examples>
+       <example>
+          <value>Il est déjà venu.</value>
+          <translation>Он уже пришёл.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il a déjà deux enfants.</value>
+          <translation>У него уже двое детей.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il est déjà tard.</value>
+          <translation>Уже поздно.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>manger</question>
+    <answer>кушать, есть</answer>
+    <comment></comment>
+    <uuid>ab8d7fab-e98d-4dd4-acdc-0efa9cd05c7b</uuid>
+    <examples>
+       <example>
+          <value>manger de la viande</value>
+          <translation>есть, кушать мясо</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>manger des fuits</value>
+          <translation>есть, кушать фрукты</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>manger une pomme</value>
+          <translation>съесть яблоко</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>premier</question>
+    <answer>первый</answer>
+    <comment></comment>
+    <uuid>d9ea9631-9899-46d0-9e70-3005cef040cf</uuid>
+    <examples>
+       <example>
+          <value>la première fois</value>
+          <translation>первый раз</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>le premier enfant</value>
+          <translation>первый ребёнок</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>la première maison</value>
+          <translation>первый дом</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le côté</question>
+    <answer>сторона</answer>
+    <comment></comment>
+    <uuid>056729d5-be01-4450-998f-9d9e1960e218</uuid>
+    <examples>
+       <example>
+          <value>le côté droit</value>
+          <translation>правая сторона</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>le côté gauche</value>
+          <translation>левая сторона</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>se coucher sur le côté</value>
+          <translation>лечь на бок</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>quel</question>
+    <answer>какой, который</answer>
+    <comment></comment>
+    <uuid>6cab90c1-e41d-46bd-9458-cbfa81a4d75f</uuid>
+    <examples>
+       <example>
+          <value>Quel age as-tu?</value>
+          <translation>Сколько тебе лет?</translation>
+          <comment>quel - какой, age - возраст</comment>
+       </example>
+       <example>
+          <value>quelle rue</value>
+          <translation>какая улица</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quel livre</value>
+          <translation>какая книга</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>ses</question>
+    <answer>его, её (перед сущ. во мн.ч.)</answer>
+    <comment></comment>
+    <uuid>11f73cb3-5e63-425c-bb1e-1118dfa21552</uuid>
+    <examples>
+       <example>
+          <value>ses enfants</value>
+          <translation>его/её дети</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ses amis</value>
+          <translation>его/её друзья</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ses frères</value>
+          <translation>его/её братья</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>aux</question>
+    <answer>à + les</answer>
+    <comment></comment>
+    <uuid>e370d8ae-998f-476d-a00b-b8c5d25e8cb1</uuid>
+  </card>
+  <card>
+    <question>beau</question>
+    <answer>красивый</answer>
+    <comment></comment>
+    <uuid>509e6b78-d137-4e49-9c19-b78eab8422fc</uuid>
+    <examples>
+       <example>
+          <value>un beau jour</value>
+          <translation>прекрасный день</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une belle fille</value>
+          <translation>красивая девушка, девочка</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un beau garçon</value>
+          <translation>красивый мальчик</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une belle robe</value>
+          <translation>красивое платье</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>mieux</question>
+    <answer>лучше (от bien)</answer>
+    <comment></comment>
+    <uuid>b0b64848-dc63-409b-a157-ed55be4c86ce</uuid>
+    <examples>
+       <example>
+          <value>Il parle mieux maintenant.</value>
+          <translation>Он сейчас говорит лучше.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Elle danse mieux que jamais.</value>
+          <translation>Она танцует лучше, чем никогда.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Il va mieux.</value>
+          <translation>Он чувствует себя лучше.</translation>
+          <comment>va - goes</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le matin</question>
+    <answer>утро</answer>
+    <comment></comment>
+    <uuid>84e1d99c-0570-4ef5-b7ac-2f818fb7a515</uuid>
+    <examples>
+       <example>
+          <value>hier matin</value>
+          <translation>вчера утром</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ce matin</value>
+          <translation>сегодня утром</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>demain matin</value>
+          <translation>завтра утром</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>chaque matin</value>
+          <translation>каждое утро</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>ici</question>
+    <answer>здесь</answer>
+    <comment></comment>
+    <uuid>9eefe452-bb49-4aae-9f92-dd90fb76fb48</uuid>
+    <examples>
+       <example>
+          <value>J&apos;habite ici.</value>
+          <translation>Я живу здесь.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>mettre ici</value>
+          <translation>положить сюда</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Viens ici.</value>
+          <translation>Иди сюда.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>appeler</question>
+    <answer>звать, вызывать</answer>
+    <comment></comment>
+    <uuid>1062f949-af66-4672-9639-2986cd43c409</uuid>
+    <examples>
+       <example>
+          <value>appeler le docteur</value>
+          <translation>вызывать врача</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>appeler la police</value>
+          <translation>вызывать полицию</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>appeler mon père</value>
+          <translation>звать моего отца</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>surtout</question>
+    <answer>особенно</answer>
+    <comment></comment>
+    <uuid>083f93a7-d7c0-4d24-84a5-f9323796a394</uuid>
+    <examples>
+       <example>
+          <value>surtout utile</value>
+          <translation>особенно полезный</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>surtout facile</value>
+          <translation>особенно лёгкий, несложный</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>surtout difficile</value>
+          <translation>особенно трудный</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>mes</question>
+    <answer>мои</answer>
+    <comment></comment>
+    <uuid>fdf47ec1-3353-4c6f-a115-a27cc27a402d</uuid>
+    <examples>
+       <example>
+          <value>mes parents</value>
+          <translation>мои родители</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>mes enfants</value>
+          <translation>мои дети</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>mes voitures</value>
+          <translation>мои машины</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sortir</question>
+    <answer>выходить</answer>
+    <comment></comment>
+    <uuid>7a6fe780-012d-4320-b65d-a2403b82255c</uuid>
+    <examples>
+       <example>
+          <value>sortir de la pièce</value>
+          <translation>выйти из комнаты</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sortir du parc</value>
+          <translation>выходить из парка</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>sortir du cinéma</value>
+          <translation>выходить из кинотеатра</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>huit</question>
+    <answer>восемь</answer>
+    <comment></comment>
+    <uuid>4868c7ec-3d34-4ca4-8eb1-400e0591b2d0</uuid>
+    <examples>
+       <example>
+          <value>huit heurs</value>
+          <translation>восемь часов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>huit jours</value>
+          <translation>восемь дней</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>huit mois</value>
+          <translation>восемь месяцев</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>huit semaines</value>
+          <translation>восемь недель</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>leur</question>
+    <answer>их (перед сущ. в ед. ч.)</answer>
+    <comment></comment>
+    <uuid>4bd3f993-0f96-47f8-a338-3fc4959f2ccb</uuid>
+    <examples>
+       <example>
+          <value>leur maison</value>
+          <translation>их дом</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>leur mère</value>
+          <translation>их мать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>leur enfant</value>
+          <translation>их ребёнок</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>n&apos;est-ce pas?</question>
+    <answer>не так ли?</answer>
+    <comment></comment>
+    <uuid>bdee73ee-6661-48b5-b47a-8692b2a091d0</uuid>
+  </card>
+  <card>
+    <question>six</question>
+    <answer>шесть</answer>
+    <comment></comment>
+    <uuid>15b6bf1d-b879-4c6e-9396-02e8c6601621</uuid>
+    <examples>
+       <example>
+          <value>six semaines</value>
+          <translation>шесть недель</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>six heurs</value>
+          <translation>шесть часов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>six mois</value>
+          <translation>шесть месяцев</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>six jours</value>
+          <translation>шесть дней</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>évidemment</question>
+    <answer>очевидно, конечно</answer>
+    <comment></comment>
+    <uuid>02a35aaa-ddd5-4504-ac77-200211643493</uuid>
+    <examples>
+       <example>
+          <value>C&apos;est évidemment difficile.</value>
+          <translation>Это, конечно, трудно.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>travailler</question>
+    <answer>работать</answer>
+    <comment></comment>
+    <uuid>4f0875b4-d715-4b1b-8c46-9c86420305be</uuid>
+    <examples>
+       <example>
+          <value>travailler dans une usine</value>
+          <translation>работать на заводе</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>travailler toute la matinée</value>
+          <translation>работать всё утро</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>travailler à un nouveau projet</value>
+          <translation>работать над новым проектом</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>vrai</question>
+    <answer>подлинный, настоящий</answer>
+    <comment></comment>
+    <uuid>40ccf43c-b69a-481f-94e8-cf345da08f20</uuid>
+    <examples>
+       <example>
+          <value>Ce n&apos;est pas vrai.</value>
+          <translation>Это неправда.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une vraie histoire</value>
+          <translation>подлинная история</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>C&apos;est vrai.</value>
+          <translation>Это так, верно.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>peu</question>
+    <answer>мало</answer>
+    <comment></comment>
+    <uuid>c67e33a8-a110-44c2-8ecd-f2b1c16d2afd</uuid>
+    <examples>
+       <example>
+          <value>peu d&apos;argent</value>
+          <translation>мало денег</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>peu de voitures</value>
+          <translation>мало машин</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>peu d&apos;amis</value>
+          <translation>мало друзей</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>est-ce que</question>
+    <answer>(маркер вопроса)</answer>
+    <comment></comment>
+    <uuid>ea18b49c-1713-4e6e-8d9b-affd3cf4aa3b</uuid>
+    <examples>
+       <example>
+          <value>Est-ce que tu aimes les films?</value>
+          <translation>Тебе нравятся фильмы?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Tu aimes les films.</value>
+          <translation>Тебе нравятся фильмы.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Est-ce que tu connais Marie?</value>
+          <translation>Ты знаешь Мари?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Tu connais Marie.</value>
+          <translation>Ты знаешь Мари.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>jusque</question>
+    <answer>до (до Парижа, до 5 часов и т.п.)</answer>
+    <comment></comment>
+    <uuid>19d60cd5-5901-4e29-9601-82130f6cc03f</uuid>
+    <examples>
+       <example>
+          <value>aller jusqu&apos;à Paris</value>
+          <translation>ехать до Парижа</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>travailler jusqu&apos;à six heurs</value>
+          <translation>работать до шести часов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>jusqu&apos;à présent</value>
+          <translation>до настоящего момента</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>vieux</question>
+    <answer>старый</answer>
+    <comment></comment>
+    <uuid>ba219643-c0fb-42c0-a9ef-e36ab426e3f0</uuid>
+    <examples>
+       <example>
+          <value>un vieux livre</value>
+          <translation>старая книга</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une vieille femme</value>
+          <translation>старая женщина, старуха</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un vieil homme</value>
+          <translation>старый мужчина, старик</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>avant</question>
+    <answer>перед, до (о времени)</answer>
+    <comment></comment>
+    <uuid>579c5368-2d66-4b12-8180-a6f95421c76b</uuid>
+    <examples>
+       <example>
+          <value>avant le déjeuner</value>
+          <translation>перед обедом</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>avant le petit déjeuner</value>
+          <translation>перед завтраком</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>avant la guerre</value>
+          <translation>перед войной, до войны</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le travail</question>
+    <answer>работа</answer>
+    <comment></comment>
+    <uuid>072efbde-9ac8-4c6c-bc4e-f63ad7b55802</uuid>
+    <examples>
+       <example>
+          <value>aller au travail</value>
+          <translation>ходить на работу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>chercher du travail</value>
+          <translation>искать работу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>se mettre au travail</value>
+          <translation>приняться за работу</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>l&apos;histoire</question>
+    <answer>история</answer>
+    <comment>ж.р.</comment>
+    <uuid>e4eefc28-964b-496e-abf7-a9b8573dc745</uuid>
+    <examples>
+       <example>
+          <value>une histoire intéressante</value>
+          <translation>интересная история</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une histoire d&apos;amour</value>
+          <translation>история любви</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>reconter des histoires</value>
+          <translation>рассказывать небылицы</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>seul</question>
+    <answer>один, единственный</answer>
+    <comment></comment>
+    <uuid>6b0ec4a3-f5c5-4d98-86bd-b9b170375d8e</uuid>
+    <examples>
+       <example>
+          <value>tout seul</value>
+          <translation>совсем один</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>venir seul</value>
+          <translation>прийти одному</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>mal</question>
+    <answer>плохо</answer>
+    <comment></comment>
+    <uuid>f0f275ce-f79d-493f-9d58-aed1e70b3d3f</uuid>
+    <examples>
+       <example>
+          <value>écrire mal</value>
+          <translation>плохо писать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>parler mal</value>
+          <translation>плохо говорить</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Comment ça va? - Pas mal.</value>
+          <translation>Как дела? - Не плохо.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>seulement</question>
+    <answer>только</answer>
+    <comment></comment>
+    <uuid>571d39e8-ef76-40de-83f6-c11ac4d2021a</uuid>
+    <examples>
+       <example>
+          <value>seulement deux fois</value>
+          <translation>только два раза</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>seulement une pomme</value>
+          <translation>только одно яблоко</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>seulement une semaine</value>
+          <translation>только одна неделя</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>la voiture</question>
+    <answer>машина</answer>
+    <comment></comment>
+    <uuid>11677807-5136-435a-8e96-064c2fd778ae</uuid>
+    <examples>
+       <example>
+          <value>vendre ma voiture</value>
+          <translation>продать мою машину</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>acheter une voiture</value>
+          <translation>купить машину</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une nouvelle voiture</value>
+          <translation>новая машина</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>pendant</question>
+    <answer>в течение</answer>
+    <comment></comment>
+    <uuid>21bb87d2-8fb1-4315-a744-0a57a1994870</uuid>
+    <examples>
+       <example>
+          <value>pendant deux heurs</value>
+          <translation>в течение двух часов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>pendant la nuit</value>
+          <translation>в течение ночи</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>pendant un mois</value>
+          <translation>в течение месяца</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>acheter</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>8d7a8c48-baa8-4aa9-a9f5-480ef489865f</uuid>
+    <examples>
+       <example>
+          <value>acheter un vélo</value>
+          <translation>купить велосипед</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>acheter dans un magazin</value>
+          <translation>купить в магазине</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>acheter un livre</value>
+          <translation>купить книгу</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>le français</question>
+    <answer>французский язык</answer>
+    <comment></comment>
+    <uuid>ee1bf95f-5cbf-4ccf-ac0e-b4833e2d0ef6</uuid>
+    <examples>
+       <example>
+          <value>étudier le français</value>
+          <translation>изучать французский (язык)</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>parler français</value>
+          <translation>говорить по-французски</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>connaître le français</value>
+          <translation>знать французский (язык)</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>l&apos;école</question>
+    <answer>школа</answer>
+    <comment>ж.р.</comment>
+    <uuid>d35294b9-c986-4882-ab6f-8552fa31d019</uuid>
+    <examples>
+       <example>
+          <value>aller à l&apos;école</value>
+          <translation>ходить в школу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>travailler dans une école</value>
+          <translation>работать в школе</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>finir l&apos;ecole</value>
+          <translation>закончить школу</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>près</question>
+    <answer>~ de - рядом с</answer>
+    <comment></comment>
+    <uuid>f877da56-5cde-4a96-b192-06ab02ba5acb</uuid>
+    <examples>
+       <example>
+          <value>près de Paris</value>
+          <translation>рядом с Парижем</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>près de ma maison</value>
+          <translation>рядом с моим домом</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>près de l&apos;école</value>
+          <translation>рядом со школой</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>laisser</question>
+    <answer>позволять</answer>
+    <comment></comment>
+    <uuid>f27e6bfd-4a16-4a53-80e7-f66a32125d5b</uuid>
+    <examples>
+       <example>
+          <value>laisser Jean partir</value>
+          <translation>позволить Жану уехать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>laisser Marie aller à la soirée</value>
+          <translation>позволить Мари идти на вечеринку</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>laisser entrer</value>
+          <translation>позволить войти, впустить</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>quelques</question>
+    <answer>несколько (S. plusieurs)</answer>
+    <comment></comment>
+    <uuid>2ca32a09-2c15-4ca5-abfb-f524c4842969</uuid>
+    <examples>
+       <example>
+          <value>quelques amis</value>
+          <translation>несколько друзей</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quelques étudiants</value>
+          <translation>несколько студентов</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>quelques livres</value>
+          <translation>несколько книг</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>écouter</question>
+    <answer>слушать</answer>
+    <comment></comment>
+    <uuid>88d81dc0-951c-4768-a689-67984ac0dc4b</uuid>
+    <examples>
+       <example>
+          <value>écouter mon ami</value>
+          <translation>слушать моего друга</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>écouter de la musique</value>
+          <translation>слушать музыку</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>écouter la radio</value>
+          <translation>слушать радио</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>entendre</question>
+    <answer>слышать</answer>
+    <comment></comment>
+    <uuid>176fefab-2078-4fdd-885f-46c68b133110</uuid>
+    <examples>
+       <example>
+          <value>entendre mal</value>
+          <translation>плохо слышать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>entendre bien</value>
+          <translation>хорошо слышать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>entendre une conversation</value>
+          <translation>слышать разговор</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>gros</question>
+    <answer>толстый</answer>
+    <comment></comment>
+    <uuid>6f3d74b8-bad7-41d3-a1a6-038da37b16ef</uuid>
+    <examples>
+       <example>
+          <value>Il est très gros.</value>
+          <translation>Он очень толстый.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>un gros homme</value>
+          <translation>толстый мужчина</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>une grosse femme</value>
+          <translation>толстая женщина</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>rentrer</question>
+    <answer>возвращаться (S. revenir, retourner)</answer>
+    <comment></comment>
+    <uuid>0942cc23-6f51-4e9d-bac3-3f2e2bc99b87</uuid>
+    <examples>
+       <example>
+          <value>rentrer tard</value>
+          <translation>возвращаться (домой) поздно</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>rentrer tôt</value>
+          <translation>возвращаться (домой) рано</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>rentrer avant six heurs</value>
+          <translation>возвращаться (домой) до шести часов</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>depuis</question>
+    <answer>с (утра и т.п.)</answer>
+    <comment></comment>
+    <uuid>b92354e4-87e8-4df7-a886-a4764b469ad3</uuid>
+    <examples>
+       <example>
+          <value>depuis le matin</value>
+          <translation>с утра</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>depuis le début jusqu&apos;à la fin</value>
+          <translation>от начала до конца</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>depuis quand?</value>
+          <translation>с каких пор?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>commencer</question>
+    <answer>начинать(ся)</answer>
+    <comment></comment>
+    <uuid>a74ac76a-a4a6-4468-a946-da1c52a11069</uuid>
+    <examples>
+       <example>
+          <value>commencer le travail</value>
+          <translation>начинать работу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>commencer à trois heurs</value>
+          <translation>начинать(ся) в три часа</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>commencer tard</value>
+          <translation>начинать(ся) поздно</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>commencer tôt</value>
+          <translation>начинать(ся) рано</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>commencer à étudier</value>
+          <translation>начинать изучать</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>marcher</question>
+    <answer>идти (S. aller)</answer>
+    <comment></comment>
+    <uuid>4e227eec-6365-498b-9703-efae08c3d165</uuid>
+    <examples>
+       <example>
+          <value>marcher vite</value>
+          <translation>идти быстро</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>marcher lentement</value>
+          <translation>идти медленно</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>pourquoi</question>
+    <answer>почему</answer>
+    <comment></comment>
+    <uuid>7c6d6679-6fbf-4f1d-af66-e23f33fd60ed</uuid>
+    <examples>
+       <example>
+          <value>Pourquoi est-ce que tu pleures?</value>
+          <translation>Почему ты плачешь?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>pourquoi pas?</value>
+          <translation>почему бы и нет?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Pourquoi est-ce que tu me dis ça?</value>
+          <translation>Зачем ты мне это говоришь?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>regarder</question>
+    <answer>смотреть</answer>
+    <comment></comment>
+    <uuid>e2b0f69d-591c-4479-bbb7-e1e650200c62</uuid>
+    <examples>
+       <example>
+          <value>regarder par la fenêtre</value>
+          <translation>смотреть в окно</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Regarde-moi!</value>
+          <translation>Посмотри на меня!</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>regarder la télé</value>
+          <translation>смотреть телевизор</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>la fille</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <uuid>bd6aa2a1-e0dd-4528-baae-8a6517307043</uuid>
+    <examples>
+       <example>
+          <value>ma fille aînée</value>
+          <translation>моя старшая дочь</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>ma fille cadette</value>
+          <translation>моя младшая дочь</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

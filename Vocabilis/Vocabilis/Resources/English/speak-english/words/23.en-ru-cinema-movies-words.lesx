@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>13b7bd0a-1bd5-4045-9a83-9e5ec08bb273</uuid>
+  <title>В кино :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>detective</question>
+    <answer>детектив</answer>
+    <comment>[dɪˈtektɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3413b17d-760f-40a3-842b-4720063772d5</uuid>
+    <examples>
+       <example>
+          <value>to see a detective</value>
+          <translation>посмотреть детектив</translation>
+          <comment>to see - видеть, detective - детектив</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>subtitle</question>
+    <answer>субтитр</answer>
+    <comment>[ˈsʌbˌtаɪtəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>43da292b-924c-4d53-a577-9d0467072f9e</uuid>
+    <examples>
+       <example>
+          <value>a film with Russian subtitles</value>
+          <translation>фильм с русскими субтитрами</translation>
+          <comment>film - фильм, Russian - русский, subtitles - субтитры</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fascinating</question>
+    <answer>захватывающий</answer>
+    <comment>[ˈfæsəˌneɪtɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>098ca1ff-b835-4ef9-a047-76f477f7eb5f</uuid>
+    <examples>
+       <example>
+          <value>a fascinating intrigue</value>
+          <translation>захватывающая интрига</translation>
+          <comment>fascinating - захватывающий, intrigue - интрига</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>win</question>
+    <answer>выиграть</answer>
+    <comment>[wɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6dfc6f50-bb96-47d6-a206-7c6881763f19</uuid>
+    <examples>
+       <example>
+          <value>to win the first prize</value>
+          <translation>завоевать первую премию</translation>
+          <comment>to win - выиграть, first - первый, prize - премия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>middle</question>
+    <answer>средний</answer>
+    <comment>[ˈmɪdəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1301b82f-907e-4f87-8fac-638bd07b2929</uuid>
+    <examples>
+       <example>
+          <value>places in the middle</value>
+          <translation>средние места</translation>
+          <comment>place - место, middle - середина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>love</question>
+    <answer>любовь</answer>
+    <comment>[lʌv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>95fcd047-2421-4a32-9d8c-f5674b4aab6c</uuid>
+    <examples>
+       <example>
+          <value>a love story</value>
+          <translation>любовная история</translation>
+          <comment>love - любовь, story - история</comment>
+       </example>
+       <example>
+          <value>to see a love story</value>
+          <translation>посмотреть любовную историю</translation>
+          <comment>to see - видеть, love - любовь, story - история</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>film</question>
+    <answer>фильм</answer>
+    <comment>[fɪlm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cddb1848-6c9e-40e9-8f23-356068173667</uuid>
+    <examples>
+       <example>
+          <value>a foreign film</value>
+          <translation>иностранный фильм</translation>
+          <comment>foreign - иностранный, film - фильм</comment>
+       </example>
+       <example>
+          <value>a film with Russian subtitles</value>
+          <translation>фильм с русскими субтитрами</translation>
+          <comment>film - фильм, Russian - русский, subtitles - субтитры</comment>
+       </example>
+       <example>
+          <value>a good film</value>
+          <translation>хороший фильм</translation>
+          <comment>good - хороший, film - фильм</comment>
+       </example>
+       <example>
+          <value>a new feature film</value>
+          <translation>новый художественный фильм</translation>
+          <comment>new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>a weak film</value>
+          <translation>слабый фильм</translation>
+          <comment>weak - слабый, film - фильм</comment>
+       </example>
+       <example>
+          <value>at the Film Festival</value>
+          <translation>на кинофестивале</translation>
+          <comment>film - фильм, festival - фестиваль</comment>
+       </example>
+       <example>
+          <value>the best film</value>
+          <translation>лучший фильм</translation>
+          <comment>the best - лучший, film - фильм</comment>
+       </example>
+       <example>
+          <value>tickets for this film</value>
+          <translation>билеты на этот фильм</translation>
+          <comment>ticket - билет, this - этот, эта, film - фильм</comment>
+       </example>
+       <example>
+          <value>a wonderful film</value>
+          <translation>прекрасный фильм</translation>
+          <comment>wonderful - чудесный, прекрасный</comment>
+       </example>
+       <example>
+          <value>a dubbed film</value>
+          <translation>дублированный фильм</translation>
+          <comment>to dub - дублировать</comment>
+       </example>
+       <example>
+          <value>to see a new feature film</value>
+          <translation>посмотреть новый художественный фильм</translation>
+          <comment>to see - видеть, new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>to see a new historical film</value>
+          <translation>посмотреть новый исторический фильм</translation>
+          <comment>to see - видеть, new - новый, historical - исторический, film - фильм</comment>
+       </example>
+       <example>
+          <value>to think of this film</value>
+          <translation>думать об этом фильме</translation>
+          <comment>to think - думать, this - этот, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>row</question>
+    <answer>ряд</answer>
+    <comment>[roʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f30b629e-83c9-47d4-a590-715ccac8cdd5</uuid>
+    <examples>
+       <example>
+          <value>to sit in row ten</value>
+          <translation>сидеть в десятом ряду</translation>
+          <comment>to sit - сидеть, row - ряд, ten - десять</comment>
+       </example>
+       <example>
+          <value>to sit in the back rows</value>
+          <translation>сидеть на задних рядах</translation>
+          <comment>to sit - сидеть, back - задний, row - ряд</comment>
+       </example>
+       <example>
+          <value>to sit in the front rows</value>
+          <translation>сидеть в передних рядах</translation>
+          <comment>to sit - сидеть, front - передний, row - ряд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perfect</question>
+    <answer>отличный</answer>
+    <comment>[ˈpɜːrfekt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d73b0cca-be6f-4bbd-bd27-c3ef6c68b807</uuid>
+    <examples>
+       <example>
+          <value>a perfect performance of actors</value>
+          <translation>прекрасная игра актеров</translation>
+          <comment>perfect - отличный, performance - исполнение, actor - актер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>script</question>
+    <answer>сценарий</answer>
+    <comment>[skrɪpt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c1550cb2-19a8-4b1b-a7b2-f6b1ac9e2f62</uuid>
+    <examples>
+       <example>
+          <value>to write the script</value>
+          <translation>написать сценарий</translation>
+          <comment>to write - писать, script - сценарий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>festival</question>
+    <answer>фестиваль</answer>
+    <comment>[ˈfestəvəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>525cb0c3-5d8a-4a44-8674-1c99f2e5e69e</uuid>
+    <examples>
+       <example>
+          <value>at the Film Festival</value>
+          <translation>на кинофестивале</translation>
+          <comment>film - фильм, festival - фестиваль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dub</question>
+    <answer>дублировать</answer>
+    <comment>[dʌb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c76d3fe9-e798-4086-9438-218aa6525e71</uuid>
+    <examples>
+       <example>
+          <value>a dubbed film</value>
+          <translation>дублированный фильм</translation>
+          <comment>to dub - дублировать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>feature</question>
+    <answer>художественный (фильм)</answer>
+    <comment>[ˈfiːʧər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb1d7761-c2fa-409c-9408-80e0cd9a92f9</uuid>
+    <examples>
+       <example>
+          <value>a new feature film</value>
+          <translation>новый художественный фильм</translation>
+          <comment>new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>the next feature</value>
+          <translation>следующий сеанс</translation>
+          <comment>next - следующий, feature - полнометражный фильм</comment>
+       </example>
+       <example>
+          <value>to see a new feature film</value>
+          <translation>посмотреть новый художественный фильм</translation>
+          <comment>to see - видеть, new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>daytime</question>
+    <answer>дневное время</answer>
+    <comment>[ˈdeɪtаɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31025b8e-46bc-4afd-b9a8-4a5a37a79f6a</uuid>
+    <examples>
+       <example>
+          <value>the daytime show</value>
+          <translation>дневной сеанс</translation>
+          <comment>daytime - дневной, show - показ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fiction</question>
+    <answer>фантастика</answer>
+    <comment>[ˈfɪkʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ea3581cf-f202-45be-844b-96eee1d27901</uuid>
+    <examples>
+       <example>
+          <value>a science fiction movie</value>
+          <translation>научно-фантастический фильм</translation>
+          <comment>science - наука, fiction - фантастика, movie - фильм</comment>
+       </example>
+       <example>
+          <value>to see a science fiction movie</value>
+          <translation>посмотреть научно-фантастический фильм</translation>
+          <comment>to see - видеть, science - наука, fiction - выдумка, movie - фильм, кино</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wonderful</question>
+    <answer>чудесный, прекрасный</answer>
+    <comment>[ˈwʌndərfəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a6bf02a6-94bf-4ce0-865d-35681137319e</uuid>
+    <examples>
+       <example>
+          <value>a wonderful film</value>
+          <translation>прекрасный фильм</translation>
+          <comment>wonderful - чудесный, прекрасный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>comedy</question>
+    <answer>комедия</answer>
+    <comment>[ˈkɑːmɪdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>168956ee-65fb-415e-b767-7b2576ae9eca</uuid>
+    <examples>
+       <example>
+          <value>to see a comedy</value>
+          <translation>посмотреть комедию</translation>
+          <comment>to see - видеть, comedy - комедия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>screen</question>
+    <answer>экран</answer>
+    <comment>[skriːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d7a6405e-611e-4ac5-8764-f4bacd5ac095</uuid>
+    <examples>
+       <example>
+          <value>to sit some distance from the screen</value>
+          <translation>сидеть не очень близко от экрана</translation>
+          <comment>to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>star</question>
+    <answer>звезда</answer>
+    <comment>[stɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4572eb0-b344-4bbb-84ed-514128b24a70</uuid>
+    <examples>
+       <example>
+          <value>favorite movie star</value>
+          <translation>любимый актер (актриса)</translation>
+          <comment>favorite - любимый, movie - кино, фильм, star - звезда</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>far</question>
+    <answer>далекий</answer>
+    <comment>[fɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e94ecdae-dc60-4214-b716-57582bc9794f</uuid>
+    <examples>
+       <example>
+          <value>not very far</value>
+          <translation>не очень далеко</translation>
+          <comment>very - очень, far - далекий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>horror</question>
+    <answer>ужас</answer>
+    <comment>[ˈhɔːrər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>158e5668-e14c-4d7a-85b3-d2421bbdca43</uuid>
+    <examples>
+       <example>
+          <value>a horror movie</value>
+          <translation>фильм ужасов</translation>
+          <comment>horror - ужас, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>to see a horror movie</value>
+          <translation>посмотреть ужастик</translation>
+          <comment>to see - видеть, horror - ужас, movie - фильм, кино</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>continuous</question>
+    <answer>непрерывный</answer>
+    <comment>[kənˈtɪnjuːəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a4d7c05d-aaa0-4d9d-b542-4bd21cb2db06</uuid>
+    <examples>
+       <example>
+          <value>a continuous show</value>
+          <translation>непрерывный показ (фильмов)</translation>
+          <comment>cinema - кинотеатр, continuous - непрерывный, show - показ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>weak</question>
+    <answer>слабый</answer>
+    <comment>[wiːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0b0c06c-0ec4-4491-9686-4ee5af69ff5c</uuid>
+    <examples>
+       <example>
+          <value>a weak film</value>
+          <translation>слабый фильм</translation>
+          <comment>weak - слабый, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cartoon</question>
+    <answer>мультфильм</answer>
+    <comment>[kɑːrˈtuːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>098d4e0a-b8a7-479e-8c38-097a579f029c</uuid>
+    <examples>
+       <example>
+          <value>to see a cartoon</value>
+          <translation>посмотреть мультфильм</translation>
+          <comment>to see - видеть, cartoon - мультфильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thriller</question>
+    <answer>триллер</answer>
+    <comment>[ˈθrɪlər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6059c01e-afa2-4ab7-949a-701e0686ae48</uuid>
+    <examples>
+       <example>
+          <value>to see a thriller</value>
+          <translation>посмотреть триллер</translation>
+          <comment>to see - видеть, thriller - триллер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in advance</question>
+    <answer>заранее</answer>
+    <comment>[ɪn ædˈvæns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b574d574-7cb4-40c9-a333-600862ed72d1</uuid>
+    <examples>
+       <example>
+          <value>to order a ticket in advance</value>
+          <translation>заказать билет заранее</translation>
+          <comment>to order - заказать, ticket - билет, in advance - заранее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>prize</question>
+    <answer>премия</answer>
+    <comment>[prаɪz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>571508f8-45e7-4ae5-9c40-b59506220e5d</uuid>
+    <examples>
+       <example>
+          <value>the first prize</value>
+          <translation>первая премия</translation>
+          <comment>first - первый, prize - премия</comment>
+       </example>
+       <example>
+          <value>to win the first prize</value>
+          <translation>завоевать первую премию</translation>
+          <comment>to win - выиграть, first - первый, prize - премия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>science</question>
+    <answer>научный</answer>
+    <comment>[ˈsаɪəns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ef00b36b-90d9-43b3-8f51-ae8359f88812</uuid>
+    <examples>
+       <example>
+          <value>a science fiction movie</value>
+          <translation>научно-фантастический фильм</translation>
+          <comment>science - наука, fiction - фантастика, movie - фильм</comment>
+       </example>
+       <example>
+          <value>to see a science fiction movie</value>
+          <translation>посмотреть научно-фантастический фильм</translation>
+          <comment>to see - видеть, science - наука, fiction - выдумка, movie - фильм, кино</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>favorite</question>
+    <answer>любимый</answer>
+    <comment>[ˈfeɪvərɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5a4bed7e-7d75-4c8b-87a5-2a46b45518bb</uuid>
+    <examples>
+       <example>
+          <value>favorite movie star</value>
+          <translation>любимый актер (актриса)</translation>
+          <comment>favorite - любимый, movie - кино, фильм, star - звезда</comment>
+       </example>
+       <example>
+          <value>favorite pastime</value>
+          <translation>любимое развлечение</translation>
+          <comment>favorite - любимый, pastime - развлечение, забава</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>foreign</question>
+    <answer>иностранный</answer>
+    <comment>[ˈfɔːrɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aac6580f-2a29-4e15-a1ac-553b4a6a325d</uuid>
+    <examples>
+       <example>
+          <value>a foreign film</value>
+          <translation>иностранный фильм</translation>
+          <comment>foreign - иностранный, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>historical</question>
+    <answer>исторический</answer>
+    <comment>[hɪˈstɔːrɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c517991-1dee-4556-bf21-752ecef82c83</uuid>
+    <examples>
+       <example>
+          <value>a new historical</value>
+          <translation>новый исторический фильм</translation>
+          <comment>new - новый, historical - исторический</comment>
+       </example>
+       <example>
+          <value>to see a new historical film</value>
+          <translation>посмотреть новый исторический фильм</translation>
+          <comment>to see - видеть, new - новый, historical - исторический, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>intrigue</question>
+    <answer>интрига</answer>
+    <comment>[ɪnˈtriːg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d3d7f87a-cbad-4cf9-8a57-3ba8fc640693</uuid>
+    <examples>
+       <example>
+          <value>a fascinating intrigue</value>
+          <translation>захватывающая интрига</translation>
+          <comment>fascinating - захватывающий, intrigue - интрига</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

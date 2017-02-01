@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>50d0db07-53ad-472e-a093-64eff5a35ab6</uuid>
+  <title>Приветствие</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>au revoir</question>
+    <answer>до свидания</answer>
+    <comment></comment>
+    <answer_picture>goodbye.gif</answer_picture>
+    <uuid>61126c6f-19f1-48fe-8d90-387905ed421b</uuid>
+  </card>
+  <card>
+    <question>bonjour</question>
+    <answer>здравствуй(те)</answer>
+    <comment></comment>
+    <answer_picture>hello.gif</answer_picture>
+    <uuid>1c990e2b-a1f0-4694-88ee-58d3059fb47c</uuid>
+  </card>
+  <card>
+    <question>embrasser</question>
+    <answer>обнимать(ся)</answer>
+    <comment></comment>
+    <answer_picture>hug.gif</answer_picture>
+    <uuid>e74ef246-b25a-426a-98a9-7f02aa0bf62a</uuid>
+  </card>
+  <card>
+    <question>baiser</question>
+    <answer>целовать(ся)</answer>
+    <comment></comment>
+    <answer_picture>kiss.gif</answer_picture>
+    <uuid>9f75d539-1d4a-451b-8722-82e813c39dba</uuid>
+  </card>
+  <card>
+    <question>serrer la main</question>
+    <answer>здороваться за руку</answer>
+    <comment></comment>
+    <answer_picture>shake_hands.gif</answer_picture>
+    <uuid>36e784b9-f66e-44f8-8b88-d0d179b84fa3</uuid>
+  </card>
+  <card>
+    <question>agiter</question>
+    <answer>махать</answer>
+    <comment></comment>
+    <answer_picture>wave.gif</answer_picture>
+    <uuid>b04e19a7-c3c6-4661-ab68-1d53a431611b</uuid>
+  </card>
+</cards>
+</stack>

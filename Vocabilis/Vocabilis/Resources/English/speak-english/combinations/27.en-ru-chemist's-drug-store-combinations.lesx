@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>185b302f-f51a-4bfb-8514-15474ebb87c9</uuid>
+  <title>В аптеке :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a good analgesic</question>
+    <answer>хорошее болеутоляющее</answer>
+    <comment>[ə gʊd ˌænlˈʤiːsɪk]</comment>
+    <question_comment>good - хороший, analgesic - болеутоляющее</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff1c07b2-65ce-4ed1-94ab-7372781d426d</uuid>
+    <examples>
+       <example>
+          <value>This is a good analgesic.</value>
+          <translation>Это хорошее болеутоляющее.</translation>
+          <comment>this - это, этот, эта, good - хороший, analgesic - болеутоляющее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a remedy for weight loss</question>
+    <answer>средство для похудения</answer>
+    <comment>[ə ˈremɪdiː fər weɪt lɔːs]</comment>
+    <question_comment>remedy - средство, weight - вес, loss - потеря</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f9ecb584-6a4c-499f-babb-72206c792863</uuid>
+    <examples>
+       <example>
+          <value>Give me a remedy for weight loss, please.</value>
+          <translation>Дайте мне, пожалуйста, средство для похудения.</translation>
+          <comment>to give - дать, me - мне, меня, remedy - средство, лекарство, weight - вес, loss - потеря</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>after meals</question>
+    <answer>после еды</answer>
+    <comment>[ˈæftər miːlz]</comment>
+    <question_comment>after - после, meal - еда, прием пищи</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e421da5f-48de-4981-872f-e526aedc8ba2</uuid>
+    <examples>
+       <example>
+          <value>Take it three times a day after meals.</value>
+          <translation>Принимайте три раза в день после еды.</translation>
+          <comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine after meals?</value>
+          <translation>Мне принимать это лекарство после еды?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, after - после, meal - еда, прием пищи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>before meals</question>
+    <answer>перед едой</answer>
+    <comment>[bɪˈfɔːr miːlz]</comment>
+    <question_comment>before - до, перед, meal - еда, прием пищи</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>665f542a-6bf0-4c66-98bf-1d6ac8fd7e03</uuid>
+    <examples>
+       <example>
+          <value>Should I take this medicine before meals?</value>
+          <translation>Мне принимать это лекарство перед едой?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cough drops</question>
+    <answer>таблетки от кашля</answer>
+    <comment>[kɔːf drɑːps]</comment>
+    <question_comment>cough - кашель, drop - драже, леденец</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>48d7048e-0a18-48f4-8e70-af4b471145a6</uuid>
+    <examples>
+       <example>
+          <value>Do you have cough drops?</value>
+          <translation>У вас есть таблетки от кашля?</translation>
+          <comment>to have - иметь, cough - кашель, drop - драже, леденец</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for external use only</question>
+    <answer>лекарство только для наружного применения</answer>
+    <comment>[fər ɪkˈstɜːrnl juːs ˈoʊnliː]</comment>
+    <question_comment>external - внешний, use - применение, only - только</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a3ebfbf1-64c6-4382-b061-6db1e1f5a39f</uuid>
+    <examples>
+       <example>
+          <value>This medicine is for external use only.</value>
+          <translation>Это лекарство только для наружного применения.</translation>
+          <comment>this - это, этот, эта, medicine - лекарство, external - внешний, use - использование, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>insect bites</question>
+    <answer>укусы насекомых</answer>
+    <comment>[ˈɪnsekt bаɪts]</comment>
+    <question_comment>insect - насекомое, bite - укус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dcb77a26-231b-491f-9a79-5471b8e06f60</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for insect bites.</value>
+          <translation>Я бы хотел что-нибудь от укусов насекомых.</translation>
+          <comment>would like - хотеть, something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>it takes much time</question>
+    <answer>это занимает много времени</answer>
+    <comment>[ɪt teɪks mʌʧ tаɪm]</comment>
+    <question_comment>to take - занимать, брать, much - много, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>95533993-7530-49fe-8ce3-b92527d646cd</uuid>
+    <examples>
+       <example>
+          <value>Does it take much time to make it?</value>
+          <translation>Изготовление займет много времени?</translation>
+          <comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>much time</question>
+    <answer>много времени</answer>
+    <comment>[mʌʧ tаɪm]</comment>
+    <question_comment>much - много, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fbdafc28-97f9-4f41-a30d-a86d1a559bd5</uuid>
+    <examples>
+       <example>
+          <value>Does it take much time to make it?</value>
+          <translation>Изготовление займет много времени?</translation>
+          <comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sleeping pills</question>
+    <answer>снотворное</answer>
+    <comment>[ˈsliːpɪŋ pɪlz]</comment>
+    <question_comment>sleeping - спящий, pill - таблетка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>48c45e31-8a94-4931-a97c-995e82cdd401</uuid>
+    <examples>
+       <example>
+          <value>Do you have sleeping pills?</value>
+          <translation>У вас есть снотворное?</translation>
+          <comment>to have - иметь, sleeping - спящий, pills - таблетки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something for insect bites</question>
+    <answer>что-нибудь от укусов насекомых</answer>
+    <comment>[ˈsʌmθɪŋ fər ˈɪnsekt bаɪts]</comment>
+    <question_comment>something - что-нибудь, insect - насекомое, bite - укус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>63653b26-82e8-4927-9d6c-f60e159b4a68</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for insect bites.</value>
+          <translation>Я бы хотел что-нибудь от укусов насекомых.</translation>
+          <comment>would like - хотеть, something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something for nausea</question>
+    <answer>что-нибудь от тошноты</answer>
+    <comment>[ˈsʌmθɪŋ fər ˈnɔːziːə]</comment>
+    <question_comment>something - что-нибудь, nausea - тошнота</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d8ee887-ea26-4999-b223-97c0334d652f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for nausea.</value>
+          <translation>Я бы хотел что-нибудь от тошноты.</translation>
+          <comment>would like - хотеть, something - что-нибудь, nausea - тошнота, морская болезнь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something for sunburn</question>
+    <answer>что-нибудь от солнечного ожога</answer>
+    <comment>[ˈsʌmθɪŋ fər ˈsʌnˌbɜːrn]</comment>
+    <question_comment>something - что-нибудь, sunburn - солнечный ожог</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91b6e951-fbcc-49eb-8b6d-8f7fd5e7cb6e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for sunburn.</value>
+          <translation>Я бы хотел что-нибудь от солнечного ожога.</translation>
+          <comment>would like - хотеть, something - что-нибудь, sunburn - солнечный ожог</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something for travel sickness</question>
+    <answer>что-нибудь от морской болезни</answer>
+    <comment>[ˈsʌmθɪŋ fər ˈtrævəl ˈsɪknes]</comment>
+    <question_comment>something - что-нибудь, travel - путешествие, sickness - болезнь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cbab376d-4b5e-45a8-867a-c52d9066cbab</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for travel sickness.</value>
+          <translation>Я бы хотел что-нибудь от морской болезни.</translation>
+          <comment>would like - хотеть, something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something for upset stomach</question>
+    <answer>что-нибудь от расстройства желудка</answer>
+    <comment>[ˈsʌmθɪŋ fər əpˈset ˈstʌmək]</comment>
+    <question_comment>something - что-нибудь, upset - растроенный, stomach - желудок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa4a7e81-fa16-439d-a1ca-be16858b19c7</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for upset stomach.</value>
+          <translation>Я бы хотел что-нибудь от расстройства желудка.</translation>
+          <comment>would like - хотеть, something - что-нибудь, upset - расстроенный, stomach - желудок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the all-night drugstore</question>
+    <answer>круглосуточная аптека</answer>
+    <comment>[ðiː ˈɔːlˈnаɪt ˈdrʌgˌstɔːr]</comment>
+    <question_comment>all - весь, night - ночь, ночной, drugstore - аптека</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ec06eea-eb3f-4689-a986-3312dd2a5a2f</uuid>
+    <examples>
+       <example>
+          <value>Where&apos;s the all-night drugstore?</value>
+          <translation>Где круглосуточная аптека?</translation>
+          <comment>where - где, all-night - ночной, drugstore - аптека</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the chemist&apos;s shop</question>
+    <answer>аптека</answer>
+    <comment>[ðə ˈkemɪsts ʃɑːp]</comment>
+    <question_comment>chemist - аптекарь, shop - магазин</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>37c1473f-abda-451b-b471-168300f9a5fb</uuid>
+    <examples>
+       <example>
+          <value>Where is the chemist&apos;s shop open here?</value>
+          <translation>Скажите, пожалуйста, где здесь дежурная аптека?</translation>
+          <comment>where - где, chemist&apos;s shop - аптека, open - открытый, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest drugstore</question>
+    <answer>ближайшая аптека</answer>
+    <comment>[ðə ˈnɪrɪst ˈdrʌgˌstɔːr]</comment>
+    <question_comment>the nearest - ближайший, drugstore - аптека</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e127e973-f69c-43bd-b70b-a0e46da4f296</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest drugstore here?</value>
+          <translation>Где здесь ближайшая аптека?</translation>
+          <comment>where - где, the nearest - ближайший, drugstore - аптека, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The drugstore is open.</question>
+    <answer>Аптека открыта.</answer>
+    <comment>[ðə ˈdrʌgˌstɔːr ɪz ˈoʊpən]</comment>
+    <question_comment>drugstore - аптека, open - открытым</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>276a9b47-6ba2-49fd-8635-fce8f92b3357</uuid>
+    <examples>
+       <example>
+          <value>What time does the drugstore open?</value>
+          <translation>В какое время открывается аптека?</translation>
+          <comment>what - какой, time - время, drugstore - аптека, to open - открываться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s ready.</question>
+    <answer>Оно готово.</answer>
+    <comment>[its ˈrediː]</comment>
+    <question_comment>ready - готовый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5acb7a2c-6474-40d4-a8b5-b25cd1b92c24</uuid>
+    <examples>
+       <example>
+          <value>Is everything ready?</value>
+          <translation>Все готово?</translation>
+          <comment>everything - все, ready - готовый</comment>
+       </example>
+       <example>
+          <value>When will my denture be ready?</value>
+          <translation>Когда будет готов протез?</translation>
+          <comment>when - когда, my - мой, моя, мое, denture - протез, to be - быть, ready - готовый</comment>
+       </example>
+       <example>
+          <value>When will it be ready?</value>
+          <translation>Когда оно будет готово?</translation>
+          <comment>when - когда, it - это, to be - быть, ready - готовый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fill this prescription</question>
+    <answer>сделать лекарство по этому рецепту</answer>
+    <comment>[tə fɪl ðɪs prɪˈskrɪpʃən]</comment>
+    <question_comment>to fill - исполнять, this - этот, эта, prescription - рецепт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53866486-4260-4005-8e0d-1d78b461def5</uuid>
+    <examples>
+       <example>
+          <value>Can you fill this prescription?</value>
+          <translation>Вы можете сделать лекарство по этому рецепту?</translation>
+          <comment>can - мочь, to fill - исполнить, this - этот, эта, это, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>I&apos;d like this prescription filled.</value>
+          <translation>Мне нужно лекарство по этому рецепту.</translation>
+          <comment>would like - хотеть, this - этот, эта, это, prescription - рецепт, filled - исполненный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get it</question>
+    <answer>получить это</answer>
+    <comment>[tə get ɪt]</comment>
+    <question_comment>to get - получать, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12dc985f-951c-4326-8319-d664f1bd7260</uuid>
+    <examples>
+       <example>
+          <value>How are you getting on?</value>
+          <translation>Как поживаешь? Как поживаете?</translation>
+          <comment>how - как, to get on - поживать</comment>
+       </example>
+       <example>
+          <value>It’s getting late.</value>
+          <translation>Становится поздно.</translation>
+          <comment>to get - становиться, late - поздний</comment>
+       </example>
+       <example>
+          <value>I&apos;ve got to get moving.</value>
+          <translation>Мне пора выдвигаться.</translation>
+          <comment>to have got to - быть должным, moving - двигающийся</comment>
+       </example>
+       <example>
+          <value>Sorry, I didn&apos;t quite get that.</value>
+          <translation>Извините, я не совсем понял.</translation>
+          <comment>sorry - сожалеющий, quite - абсолютно, совсем, to get - уловить, понять, that - то, это</comment>
+       </example>
+       <example>
+          <value>Where can I get the tickets?</value>
+          <translation>Где можно купить билеты?</translation>
+          <comment>where - где, can - мочь, to get - достать, приобрести, ticket - билет</comment>
+       </example>
+       <example>
+          <value>You can get the tickets at ticket office number three.</value>
+          <translation>Вы можете купить билеты в кассе 3.</translation>
+          <comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>How long does it take to get to Moscow?</value>
+          <translation>Сколько времени требуется, чтобы доехать до Москвы?</translation>
+          <comment>how - как, long - долго, to take - брать, to get - добираться, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>When do we get to Moscow?</value>
+          <translation>Когда мы прибываем в Москву?</translation>
+          <comment>when - когда, to get (to) - добраться (до), Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>Would you let me know before we get to Moscow.</value>
+          <translation>Скажите мне, пожалуйста, когда мы будем подъезжать к Москве.</translation>
+          <comment>let - позволять, to know - знать, before - перед (чем-л.), we - мы, to get (to) - добраться (до), Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>Sorry, how can I get to Boston?</value>
+          <translation>Простите, как мне доехать до Бостона?</translation>
+          <comment>sorry - прости(те), how - как, can - мочь, to get (to) - добраться (до), Boston - Бостон</comment>
+       </example>
+       <example>
+          <value>Help me to get to the city.</value>
+          <translation>Сделайте что-нибудь, чтобы я смог доехать до города.</translation>
+          <comment>to help - помочь, me - мне, меня, to get (to) - добраться (до), city - город</comment>
+       </example>
+       <example>
+          <value>I&apos;ll get back to you soon.</value>
+          <translation>Я вскоре перезвоню вам.</translation>
+          <comment>to get - добираться, получать, back - обратно, soon - скоро</comment>
+       </example>
+       <example>
+          <value>I can&apos;t get through.</value>
+          <translation>Я не могу дозвониться.</translation>
+          <comment>can - мочь, to get - пробраться, through - через, сквозь</comment>
+       </example>
+       <example>
+          <value>Are you getting off now?</value>
+          <translation>Вы сейчас выходите?</translation>
+          <comment>to get off - выходить, now - сейчас</comment>
+       </example>
+       <example>
+          <value>Are you getting off at the next stop?</value>
+          <translation>Вы выходите на следующей остановке?</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>Can you tell me when to get off?</value>
+          <translation>Вы не подскажите, когда мне выходить?</translation>
+          <comment>can - мочь, to tell - сказать, рассказать, me - мне, меня, when - когда, to get off - выходить</comment>
+       </example>
+       <example>
+          <value>Please get me a taxi.</value>
+          <translation>Я хочу вызвать такси.</translation>
+          <comment>to get - доставать, taxi - такси, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>Can you drive faster? I&apos;m getting late.</value>
+          <translation>Не могли бы вы ехать быстрее? Я опаздываю.</translation>
+          <comment>can - мочь, to drive - ехать, faster - быстрее, to get - становиться, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>How can I get to the boxes?</value>
+          <translation>Как пройти в ложу?</translation>
+          <comment>how - как, can - мочь, to get (to) - добраться (до), boxes - ложа (в театре)</comment>
+       </example>
+       <example>
+          <value>How can I get to the balcony?</value>
+          <translation>Как пройти на балкон?</translation>
+          <comment>how - как, can - мочь, to get (to) - добраться (до), balcony - балкон</comment>
+       </example>
+       <example>
+          <value>Let&apos;s get a pair of opera glasses.</value>
+          <translation>Давайте возьмем бинокль.</translation>
+          <comment>let&apos;s - давай(те), to get - достать, получить, pair - пара, opera - опера, glasses - очки</comment>
+       </example>
+       <example>
+          <value>Can I get it without a prescription?</value>
+          <translation>Можно получить это без рецепта?</translation>
+          <comment>can - мочь, to get - получить, it - это, without - без, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>It&apos;s getting cold.</value>
+          <translation>Холодает.</translation>
+          <comment>to get - становиться, cold - холодный</comment>
+       </example>
+       <example>
+          <value>It&apos;s getting clearer.</value>
+          <translation>Проясняется.</translation>
+          <comment>to get - становиться, clearer - яснее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a remedy for weight loss</question>
+    <answer>давать средство для похудения</answer>
+    <comment>[tə gɪv ə ˈremɪdiː fər weɪt lɔːs]</comment>
+    <question_comment>to give - давать, remedy - средство, weight - вес, loss - потеря</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2302302e-06e0-45aa-ae64-7681ab3cfffa</uuid>
+    <examples>
+       <example>
+          <value>Give me a remedy for weight loss, please.</value>
+          <translation>Дайте мне, пожалуйста, средство для похудения.</translation>
+          <comment>to give - дать, me - мне, меня, remedy - средство, лекарство, weight - вес, loss - потеря</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a sedative</question>
+    <answer>давать болеутоляющее</answer>
+    <comment>[tə gɪv ə ˈsedətɪv]</comment>
+    <question_comment>to give - давать, sedative - болеутоляющее</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efd3cd86-53e0-4912-b2bc-868f085bb7e7</uuid>
+    <examples>
+       <example>
+          <value>Give me a sedative, please.</value>
+          <translation>Дайте мне, пожалуйста, болеутоляющее.</translation>
+          <comment>to give - дать, me - мне, меня, sedative - болеутоляющее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give multiminerals</question>
+    <answer>давать мультиминералы</answer>
+    <comment>[tə gɪv ˌmʌltɪ ˈmɪnərəlz]</comment>
+    <question_comment>to give - давать, multiminerals - мультиминералы</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aff0638f-bcfa-4e43-b466-ed06fcff3a7c</uuid>
+    <examples>
+       <example>
+          <value>Give me multiminerals, please.</value>
+          <translation>Дайте мне, пожалуйста, мультиминералы.</translation>
+          <comment>to give - дать, me - мне, меня, multiminerals - мультиминералы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give multivitamins</question>
+    <answer>давать поливитамины</answer>
+    <comment>[tə gɪv ˌmʌltɪ ˈvаɪtəmɪnz]</comment>
+    <question_comment>to give - давать, multivitamins - поливитамины</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>749c0374-267c-48ae-8e24-b7b65f77dc42</uuid>
+    <examples>
+       <example>
+          <value>Give me multivitamins, please.</value>
+          <translation>Дайте мне, пожалуйста, поливитамины.</translation>
+          <comment>to give - дать, me - мне, меня, multivitamins - поливитамины</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give something for a cold</question>
+    <answer>давать что-нибудь от насморка</answer>
+    <comment>[tə gɪv ˈsʌmθɪŋ fər ə koʊld]</comment>
+    <question_comment>to give - давать, something - что-нибудь, cold - простуда</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3a659a23-0bb0-4ee8-ad66-2b2cb05c2e7a</uuid>
+    <examples>
+       <example>
+          <value>Give me something for a cold, please.</value>
+          <translation>Дайте мне, пожалуйста, что-нибудь от насморка.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, cold - простуда</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give something for a cough</question>
+    <answer>давать что-нибудь от кашля</answer>
+    <comment>[tə gɪv ˈsʌmθɪŋ fər ə kɔːf]</comment>
+    <question_comment>to give - давать, something - что-нибудь, cough - кашель</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca66e2e4-bdeb-4f08-bac5-72b8dde6cf92</uuid>
+    <examples>
+       <example>
+          <value>Give me something for a cough, please.</value>
+          <translation>Дайте мне, пожалуйста, что-нибудь от кашля.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, cough - кашель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give something for a headache</question>
+    <answer>давать что-нибудь от головной боли</answer>
+    <comment>[tə gɪv ˈsʌmθɪŋ fər ə ˈhedˌeɪk]</comment>
+    <question_comment>to give - давать, something - что-нибудь, headache - головная боль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f40f4686-6696-40a6-99ae-18f92e20b713</uuid>
+    <examples>
+       <example>
+          <value>Give me something for a headache, please.</value>
+          <translation>Дайте мне, пожалуйста, что-нибудь от головной боли.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, headache - головная боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give something for stomach aches</question>
+    <answer>давать что-нибудь от болей в желудке</answer>
+    <comment>[tə gɪv ˈsʌmθɪŋ fər ˈstʌmək eɪks]</comment>
+    <question_comment>to give - давать, something - что-нибудь, stomach - желудок, ache - боль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9f7ecdde-f2e1-4b44-b379-76f7ac889f83</uuid>
+    <examples>
+       <example>
+          <value>Give me something for stomach aches, please.</value>
+          <translation>Дайте мне, пожалуйста, что-нибудь от болей в желудке.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, stomach - желудок, ache - боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have cough drops</question>
+    <answer>иметь таблетки от кашля</answer>
+    <comment>[tə hæv kɔːf drɑːps]</comment>
+    <question_comment>to have - иметь, cough - кашель, drop - леденцы, драже</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>99f9cb95-bb7c-4816-a0ed-e171840cc6a5</uuid>
+    <examples>
+       <example>
+          <value>Do you have cough drops?</value>
+          <translation>У вас есть таблетки от кашля?</translation>
+          <comment>to have - иметь, cough - кашель, drop - драже, леденец</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have laxative</question>
+    <answer>иметь слабительное</answer>
+    <comment>[tə hæv ˈlæksətɪv]</comment>
+    <question_comment>to have - иметь, laxative - слабительное</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ccadb83-a996-4951-8ae4-4127841f32f2</uuid>
+    <examples>
+       <example>
+          <value>Do you have laxative?</value>
+          <translation>У вас есть слабительное?</translation>
+          <comment>to have - иметь, laxative - слабительное</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have sleeping pills</question>
+    <answer>иметь снотворное</answer>
+    <comment>[tə hæv ˈsliːpɪŋ pɪlz]</comment>
+    <question_comment>to have - иметь, sleeping - спящий, pill - таблетка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b2f7e257-325a-4e55-b28f-958b2bf4b579</uuid>
+    <examples>
+       <example>
+          <value>Do you have sleeping pills?</value>
+          <translation>У вас есть снотворное?</translation>
+          <comment>to have - иметь, sleeping - спящий, pills - таблетки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have tranquillizers</question>
+    <answer>иметь успокоительное</answer>
+    <comment>[tə hæv ˈtræŋkwɪˌlаɪzərz]</comment>
+    <question_comment>to have - иметь, tranquillizer - успокоительное</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c1596c00-a994-44dc-9f20-c97b974cbf61</uuid>
+    <examples>
+       <example>
+          <value>Do you have tranquillizers?</value>
+          <translation>У вас есть успокоительное?</translation>
+          <comment>to have - иметь, tranquillizer - успокоительное</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make it</question>
+    <answer>сделать это</answer>
+    <comment>[tə meɪk ɪt]</comment>
+    <question_comment>to make - сделать, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>13c997cb-203e-4f45-a8ae-0c1643befec2</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+       <example>
+          <value>I&apos;ll make use of your invitation.</value>
+          <translation>Я воспользуюсь вашим приглашением.</translation>
+          <comment>to make - делать, use - польза, your - твой, ваш, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>I&apos;ll make use of your suggestion.</value>
+          <translation>Я воспользуюсь вашим предложением.</translation>
+          <comment>to make - делать, use - польза, your - твой, ваш, suggestion - предложение</comment>
+       </example>
+       <example>
+          <value>What make of car is this?</value>
+          <translation>Какой марки эта машина?</translation>
+          <comment>what - что, какой, make - марка, вид, car - машина, this - это, этот, эта</comment>
+       </example>
+       <example>
+          <value>I want to make a phone call.</value>
+          <translation>Мне нужно позвонить.</translation>
+          <comment>to want - хотеть, to make - сделать, phone - телефон, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make a long-distance call.</value>
+          <translation>Я бы хотел сделать междугородний звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an international call.</value>
+          <translation>Я бы хотел сделать международный звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, international - международный, call - звонок</comment>
+       </example>
+       <example>
+          <value>Where can I make a call from?</value>
+          <translation>Откуда можно позвонить?</translation>
+          <comment>where - где, can - мочь, to make - сделать, call - звонок, from - от, из</comment>
+       </example>
+       <example>
+          <value>I want to make an appointment with a doctor.</value>
+          <translation>Мне нужно записаться к врачу.</translation>
+          <comment>to want - хотеть, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>I want to make some purchases.</value>
+          <translation>Мне нужно сделать кое-какие покупки.</translation>
+          <comment>to want - хотеть, to make - делать, some - некоторый, purchase - покупка</comment>
+       </example>
+       <example>
+          <value>Please make a gift packing.</value>
+          <translation>Пожалуйста, сделайте подарочную упаковку.</translation>
+          <comment>to make - сделать, gift - подарок, подарочный, packing - упаковка</comment>
+       </example>
+       <example>
+          <value>Does it take much time to make it?</value>
+          <translation>Изготовление займет много времени?</translation>
+          <comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an appointment with Mr. Black.</value>
+          <translation>Я бы хотел встретиться с мистером Блэком.</translation>
+          <comment>would like - хотеть, to make - сделать, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take this medicine</question>
+    <answer>принимать это лекарство</answer>
+    <comment>[tə teɪk ðɪs ˈmedɪsən]</comment>
+    <question_comment>to take - принимать, брать, this - этот, эта, medicine - лекарство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>101c124b-88e3-4475-8fbb-0c64e7df0c8d</uuid>
+    <examples>
+       <example>
+          <value>How should I take this medicine?</value>
+          <translation>Как мне принимать это лекарство?</translation>
+          <comment>how - как, should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine before meals?</value>
+          <translation>Мне принимать это лекарство перед едой?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine after meals?</value>
+          <translation>Мне принимать это лекарство после еды?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, after - после, meal - еда, прием пищи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>travel sickness</question>
+    <answer>морская болезнь</answer>
+    <comment>[ˈtrævəl ˈsɪknes]</comment>
+    <question_comment>travel - путешествие, sickness - болезнь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5617dc8a-925f-45c9-b0de-398cb9dc5bd1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for travel sickness.</value>
+          <translation>Я бы хотел что-нибудь от морской болезни.</translation>
+          <comment>would like - хотеть, something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>upset stomach</question>
+    <answer>расстройства желудка</answer>
+    <comment>[ʌpˈset ˈstʌmək]</comment>
+    <question_comment>upset - расстроенный, stomach - желудок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2fd47cef-1ce7-4176-b0a2-0c5a83021291</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like something for upset stomach.</value>
+          <translation>Я бы хотел что-нибудь от расстройства желудка.</translation>
+          <comment>would like - хотеть, something - что-нибудь, upset - расстроенный, stomach - желудок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>without a prescription</question>
+    <answer>без рецепта</answer>
+    <comment>[wɪðˈаʊt ə prɪˈskrɪpʃən]</comment>
+    <question_comment>without - без, prescription - рецепт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f53d8fc1-d7ca-4642-b080-b5f78a7a8ee0</uuid>
+    <examples>
+       <example>
+          <value>Can I get it without a prescription?</value>
+          <translation>Можно получить это без рецепта?</translation>
+          <comment>can - мочь, to get - получить, it - это, without - без, prescription - рецепт</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1d038c0f-030a-4170-b371-44430c149b3e</uuid>
+  <title>Телевидение, радио</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Programm</question>
+    <answer>программа</answer>
+    <comment></comment>
+    <uuid>63d13c47-5093-4134-a771-e967aa1ece37</uuid>
+  </card>
+  <card>
+    <question>das Radio</question>
+    <answer>радио</answer>
+    <comment></comment>
+    <uuid>041385eb-d474-4687-83f7-48be58b3b512</uuid>
+  </card>
+  <card>
+    <question>den Fernseher einschalten</question>
+    <answer>включить телевизор</answer>
+    <comment></comment>
+    <uuid>9471b577-44e0-44c1-bc05-852cf1f43841</uuid>
+  </card>
+  <card>
+    <question>der CD-Player</question>
+    <answer>проигрыватель компакт-дисков</answer>
+    <comment></comment>
+    <uuid>00346219-a53d-4d4b-897e-a4cb1b607849</uuid>
+  </card>
+  <card>
+    <question>der Fernseher</question>
+    <answer>телевизор</answer>
+    <comment></comment>
+    <uuid>ea35eec5-5829-47b6-814e-e7f250ed3c60</uuid>
+  </card>
+  <card>
+    <question>der Film</question>
+    <answer>фильм</answer>
+    <comment></comment>
+    <uuid>b115bd38-535a-4ec2-ad41-1b96e20ec23f</uuid>
+  </card>
+  <card>
+    <question>Der Film ist langweilig.</question>
+    <answer>Этот фильм скучный.</answer>
+    <comment></comment>
+    <uuid>028a893d-3176-43c9-a88e-c82919b7497f</uuid>
+  </card>
+  <card>
+    <question>der Kabelkanal</question>
+    <answer>кабельное телевидение</answer>
+    <comment></comment>
+    <uuid>524e5a47-9b7d-497d-a54f-2d8b08002407</uuid>
+  </card>
+  <card>
+    <question>der Krimi</question>
+    <answer>детектив</answer>
+    <comment></comment>
+    <uuid>e847fc2b-0bca-47b0-8140-fa9aba94e78c</uuid>
+  </card>
+  <card>
+    <question>der Sender</question>
+    <answer>радиостанция, телеканал</answer>
+    <comment></comment>
+    <uuid>bedbceec-f867-4a45-8bb3-c39ffccd8e2a</uuid>
+  </card>
+  <card>
+    <question>der Spielfilm</question>
+    <answer>художественный фильм</answer>
+    <comment></comment>
+    <uuid>19c5422c-b356-47f5-acc6-7abd0ba9a685</uuid>
+  </card>
+  <card>
+    <question>der Sport</question>
+    <answer>спортивная передача</answer>
+    <comment></comment>
+    <uuid>2d6b75d5-db0e-4688-aff8-7ddd29fc4f26</uuid>
+  </card>
+  <card>
+    <question>die CD</question>
+    <answer>компакт-диск</answer>
+    <comment></comment>
+    <uuid>2f0f1146-b864-480f-97ec-f7ce4f1fb213</uuid>
+  </card>
+  <card>
+    <question>die Fernbedingung</question>
+    <answer>пульт управления</answer>
+    <comment></comment>
+    <uuid>1cd788f1-3c59-480d-92ee-c726d920acf4</uuid>
+  </card>
+  <card>
+    <question>die Nachrichten</question>
+    <answer>новости</answer>
+    <comment></comment>
+    <uuid>e7ec7667-a001-4f0d-aad8-8493e599b5d3</uuid>
+  </card>
+  <card>
+    <question>die Programmübersicht</question>
+    <answer>программа передач</answer>
+    <comment></comment>
+    <uuid>a2e98efb-1ca0-42ab-bc05-eb448fbf4d3f</uuid>
+  </card>
+  <card>
+    <question>die Satellitenschüssel</question>
+    <answer>спутниковая антенна</answer>
+    <comment></comment>
+    <uuid>e219aea4-3111-4cac-ab68-2086b7b89672</uuid>
+  </card>
+  <card>
+    <question>die Sendung</question>
+    <answer>передача</answer>
+    <comment></comment>
+    <uuid>5becb38c-1d56-4505-8d47-799449c7a4d4</uuid>
+  </card>
+  <card>
+    <question>die Show</question>
+    <answer>зрелище, шоу</answer>
+    <comment></comment>
+    <uuid>d796836c-7703-4499-bbcb-c26d1c26523e</uuid>
+  </card>
+  <card>
+    <question>die Tagesschau</question>
+    <answer>обзор событий дня</answer>
+    <comment></comment>
+    <uuid>31a44621-04aa-4018-8c54-9e756c0e79f0</uuid>
+  </card>
+  <card>
+    <question>die Werbung</question>
+    <answer>реклама</answer>
+    <comment></comment>
+    <uuid>48f386ff-72e2-40ee-b345-6c4b220d3ce5</uuid>
+  </card>
+  <card>
+    <question>Hier ist die Programmzeitschrift.</question>
+    <answer>Вот журнал с программой.</answer>
+    <comment></comment>
+    <uuid>ef7a1c68-616e-4280-b953-627fd43ce2f1</uuid>
+  </card>
+  <card>
+    <question>Musik im Radio hören</question>
+    <answer>слушать музыку по радио</answer>
+    <comment></comment>
+    <uuid>1b6fed0e-a4cc-44e1-9480-7f9578241dbe</uuid>
+  </card>
+  <card>
+    <question>Ultrakurzwelle</question>
+    <answer>ультракороткие волны</answer>
+    <comment></comment>
+    <uuid>6704a77a-a90e-4475-a0a7-2fd7a5d86a72</uuid>
+  </card>
+  <card>
+    <question>Um 20 Uhr gibt es die Tagesschau.</question>
+    <answer>В восемь часов обзор событий дня.</answer>
+    <comment></comment>
+    <uuid>f2e17733-2a67-4204-8839-57a07806243a</uuid>
+  </card>
+  <card>
+    <question>Was gibt es heute im Fernsehen?</question>
+    <answer>Что сегодня по телевизору?</answer>
+    <comment></comment>
+    <uuid>6c3342df-c379-4659-bb7f-df164ffded52</uuid>
+  </card>
+  <card>
+    <question>Wo ist die Fernbedingung?</question>
+    <answer>Где пульт управления?</answer>
+    <comment></comment>
+    <uuid>f3297587-a219-4937-b612-4b74b3d1f2ea</uuid>
+  </card>
+  <card>
+    <question>Wollen wir nicht umschalten?</question>
+    <answer>Может быть переключить?</answer>
+    <comment></comment>
+    <uuid>1c4d34b1-9a6a-41ed-a060-531d72a00d05</uuid>
+  </card>
+</cards>
+</stack>

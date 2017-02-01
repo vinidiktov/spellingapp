@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>8c5b729e-7d9e-4443-b5cc-cb4e1d178e18</uuid>
+  <title>Гостиница :: Оформление номера :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿En qué hotel nos alojaremos?</question>
+    <answer>В какой гостинице мы остановимся?</answer>
+    <comment></comment>
+    <uuid>3c59b0a6-9d33-4454-9f4d-83b0f7197731</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel te alojarás?</question>
+    <answer>В какой гостинице ты остановишься?</answer>
+    <comment></comment>
+    <uuid>8382966f-f772-4ac4-a56b-0bc19561f0ce</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel se alojará usted?</question>
+    <answer>В какой гостинице Вы остановитесь? (ед.ч.)</answer>
+    <comment></comment>
+    <uuid>6fcb35d8-7a7c-411d-9fb5-4af2da928e69</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel se alojarán ustedes?</question>
+    <answer>В какой гостинице Вы остановитесь? (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>2f7d29d5-7429-4004-9fa2-f9834c329214</uuid>
+  </card>
+  <card>
+    <question>Nos alojaremos en el hotel ...</question>
+    <answer>Мы остановимся в гостинице ...</answer>
+    <comment></comment>
+    <uuid>02f96e4c-401c-4195-aca0-7cd1af527a98</uuid>
+  </card>
+  <card>
+    <question>Me alojaré en el hotel ...</question>
+    <answer>Я остановлюсь в гостинице ...</answer>
+    <comment></comment>
+    <uuid>ded22587-d4f6-48a2-bf8c-9010ed756e53</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel se aloja la delegación rusa?</question>
+    <answer>В какой гостинице остановилась российская делегация?</answer>
+    <comment></comment>
+    <uuid>2794f999-fea8-45ab-a81b-d701f152dd59</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel se aloja tu hermano?</question>
+    <answer>В какой гостинице остановился твой брат?</answer>
+    <comment></comment>
+    <uuid>0a6db333-6efe-4852-aabb-2c5acd9600c5</uuid>
+  </card>
+  <card>
+    <question>¿En qué hotel se aloja tu hermana?</question>
+    <answer>В какой гостинице остановилась твоя сестра?</answer>
+    <comment></comment>
+    <uuid>65b50220-185a-4fe9-812a-0aaede8fcec5</uuid>
+  </card>
+  <card>
+    <question>La delegación rusa se aloja en el hotel ...</question>
+    <answer>Российская делегация остановилась в гостинице ...</answer>
+    <comment></comment>
+    <uuid>21a62b38-fe25-4713-b6ef-d68045ec0c42</uuid>
+  </card>
+  <card>
+    <question>Mi hermano se aloja en el hotel ...</question>
+    <answer>Мой брат остановился в гостинице ...</answer>
+    <comment></comment>
+    <uuid>30dbcc08-5096-42f0-9300-fed8122f2d40</uuid>
+  </card>
+  <card>
+    <question>Mi hermana se aloja en el hotel ...</question>
+    <answer>Моя сестра остановилась в гостинице ...</answer>
+    <comment></comment>
+    <uuid>53d28f96-c608-4c59-adb4-f8247638a6c4</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra este hotel?</question>
+    <answer>Где находится эта гостиница?</answer>
+    <comment></comment>
+    <uuid>f94d1c12-5801-4f45-ad8f-ca025b3badf8</uuid>
+  </card>
+  <card>
+    <question>Este hotel se encuentra en el centro de la ciudad.</question>
+    <answer>Эта гостиница находится в центре города.</answer>
+    <comment></comment>
+    <uuid>f93ea21b-0eed-47a0-994d-0f1b7a577c04</uuid>
+  </card>
+  <card>
+    <question>Necesito un hotel que esté cerca del centro.</question>
+    <answer>Мне нужна гостиница недалеко от центра.</answer>
+    <comment></comment>
+    <uuid>886e1cb2-c4b2-4e1d-a26d-49c69b2dddfd</uuid>
+  </card>
+  <card>
+    <question>Necesitamos un hotel que esté cerca del centro.</question>
+    <answer>Нам нужна гостиница недалеко от центра.</answer>
+    <comment></comment>
+    <uuid>714b2026-bfe8-4b83-8b06-59778ba03fba</uuid>
+  </card>
+  <card>
+    <question>Necesito un hotel que esté cerca de la feria internacional.</question>
+    <answer>Мне нужна гостиница недалеко от международной ярмарки.</answer>
+    <comment></comment>
+    <uuid>ca8710f3-b694-4fa6-9597-3c9e457c1da4</uuid>
+  </card>
+  <card>
+    <question>Necesitamos un hotel que esté cerca de la feria internacional.</question>
+    <answer>Нам нужна гостиница недалеко от международной ярмарки.</answer>
+    <comment></comment>
+    <uuid>d4a4ab18-b4de-4987-bfc9-16e5025c4331</uuid>
+  </card>
+  <card>
+    <question>Necesitamos un hotel que esté cerca de la exposición internacional.</question>
+    <answer>Нам нужна гостиница недалеко от международной выставки.</answer>
+    <comment></comment>
+    <uuid>eea6a312-ef31-46b3-b95c-1de7b47378b1</uuid>
+  </card>
+  <card>
+    <question>Necesito un hotel que esté cerca de la exposición internacional.</question>
+    <answer>Мне нужна гостиница недалеко от международной выставки.</answer>
+    <comment></comment>
+    <uuid>abc07fa6-44e2-4178-968e-02e026d26c33</uuid>
+  </card>
+  <card>
+    <question>Necesito un hotel que esté cerca del ministerio.</question>
+    <answer>Мне нужна гостиница недалеко от министерства.</answer>
+    <comment></comment>
+    <uuid>464b3dc2-fa32-4d88-826b-645620eebb60</uuid>
+  </card>
+  <card>
+    <question>Necesitamos un hotel que esté cerca del ministerio.</question>
+    <answer>Нам нужна гостиница недалеко от министерства.</answer>
+    <comment></comment>
+    <uuid>74305478-99a2-4364-ba28-87b1b5ffc771</uuid>
+  </card>
+  <card>
+    <question>Resérveme, por favor, una habitación en este hotel.</question>
+    <answer>Забронируйте (мне), пожалуйста, номер в этой гостинице.</answer>
+    <comment></comment>
+    <uuid>cda8018d-a138-43b4-aa54-7f2664dda3d0</uuid>
+  </card>
+  <card>
+    <question>Resérveme, por favor, una habitación en el hotel ...</question>
+    <answer>Забронируйте (мне), пожалуйста, номер в гостинице ...</answer>
+    <comment></comment>
+    <uuid>4dd523f4-c325-4383-83fe-572544e6144c</uuid>
+  </card>
+  <card>
+    <question>Resérveme, por favor, dos habitaciónes en este hotel.</question>
+    <answer>Забронируйте (мне), пожалуйста, 2 номера в этой гостинице.</answer>
+    <comment></comment>
+    <uuid>7953f2a2-cde8-4986-8eed-82165af2b776</uuid>
+  </card>
+  <card>
+    <question>Resérveme, por favor, dos habitaciónes en el hotel ...</question>
+    <answer>Забронируйте (мне), пожалуйста, 2 номера в гостинице ...</answer>
+    <comment></comment>
+    <uuid>dd269acd-bbf5-41d6-a33d-3f141a097dcb</uuid>
+  </card>
+  <card>
+    <question>Mi apellido es ...</question>
+    <answer>Моя фамилия ...</answer>
+    <comment></comment>
+    <uuid>28aac119-d7fe-426b-abb1-193c114040c8</uuid>
+  </card>
+  <card>
+    <question>Necesito una habitación para uno.</question>
+    <answer>Мне нужен номер на одного.</answer>
+    <comment></comment>
+    <uuid>43987b7a-d921-4eaf-b271-d5789e0b4717</uuid>
+  </card>
+  <card>
+    <question>Necesito una habitación para dos.</question>
+    <answer>Мне нужен номер на двоих.</answer>
+    <comment></comment>
+    <uuid>fa957772-9e8c-438f-8fe9-b631e2093982</uuid>
+  </card>
+  <card>
+    <question>Tengo una habitación reservada.</question>
+    <answer>Для меня забронирован номер.</answer>
+    <comment></comment>
+    <uuid>0f269273-6d66-4651-bf7c-b41064bd8011</uuid>
+  </card>
+  <card>
+    <question>Reservé una habitación por teléfono.</question>
+    <answer>Я забронировал(а) номер по телефону.</answer>
+    <comment></comment>
+    <uuid>f21cfa88-ee44-4af4-b028-167a073428a9</uuid>
+  </card>
+  <card>
+    <question>Reservé una habitación enviando un telegrama.</question>
+    <answer>Я забронировал(а) номер телеграммой.</answer>
+    <comment></comment>
+    <uuid>1777c1b5-8794-49ac-8825-7043dc3f03ea</uuid>
+  </card>
+  <card>
+    <question>Aquí tiene la confirmación.</question>
+    <answer>Вот подтверждение.</answer>
+    <comment></comment>
+    <uuid>42c9f07b-1ec3-4d4c-83de-8e2536ef97ce</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes habitaciones libres?</question>
+    <answer>У вас есть свободные номера?</answer>
+    <comment></comment>
+    <uuid>71d13192-ae03-4ec2-bc06-bbe38c94800a</uuid>
+  </card>
+  <card>
+    <question>¿Qué tipo de habitación necesita usted?</question>
+    <answer>Какой номер Вам нужен? (=Какой тип номера ...?)</answer>
+    <comment></comment>
+    <uuid>8a2c5305-125a-4991-8e94-51fb06819e48</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes habitaciones individuales?</question>
+    <answer>Есть ли у вас (мн.ч.) одноместные номера?</answer>
+    <comment></comment>
+    <uuid>ab528e91-03e8-496d-a50d-b3d4e2257fe4</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes habitaciones dobles?</question>
+    <answer>Есть ли у вас (мн.ч.) двухместные номера?</answer>
+    <comment></comment>
+    <uuid>b3866645-5b60-43d9-8a13-7583c3ec12c1</uuid>
+  </card>
+  <card>
+    <question>Deme su pasaporte, por favor.</question>
+    <answer>Ваш паспорт, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>d11c9397-4750-46c4-a67e-b1c1c3efa51f</uuid>
+  </card>
+  <card>
+    <question>Aquí tiene mi pasaporte.</question>
+    <answer>Вот мой паспорт.</answer>
+    <comment></comment>
+    <uuid>4ba418cc-4f86-41d4-8cec-dfa00cfcdc92</uuid>
+  </card>
+  <card>
+    <question>Por favor, ayúdeme a rellenar la ficha.</question>
+    <answer>Помогите мне, пожалуйста, заполнить бланк.</answer>
+    <comment></comment>
+    <uuid>bbd4779c-54a6-47ec-895a-02af875e87e1</uuid>
+  </card>
+  <card>
+    <question>Rellene, por favor, la hoja de registro.</question>
+    <answer>Заполните, пожалуйста, регистрационный лист.</answer>
+    <comment></comment>
+    <uuid>b8ca71b4-00c6-4622-8f7c-dbbc9e1bb6d5</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo me devuelven ustedes el pasaporte?</question>
+    <answer>Когда я смогу получить свой паспорт обратно? (=Когда вы (мн.ч.) мне вернёте паспорт?)</answer>
+    <comment></comment>
+    <uuid>79e542cf-fa22-49e3-894e-ddae9c092b86</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación aire acondicionado?</question>
+    <answer>Есть ли в номере кондиционер?</answer>
+    <comment></comment>
+    <uuid>c8e625f2-df3e-47a5-8f8e-7ac1a0206bcb</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación televisor?</question>
+    <answer>Есть ли в номере телевизор?</answer>
+    <comment></comment>
+    <uuid>2ad0c7dd-ae20-485d-bc78-4d600fcb9095</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación teléfono?</question>
+    <answer>Есть ли в номере телефон?</answer>
+    <comment></comment>
+    <uuid>29b8f17b-119e-4127-8737-b1843bf2212b</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación frigorífico?</question>
+    <answer>Есть ли в номере холодильник?</answer>
+    <comment></comment>
+    <uuid>a570da1d-e740-4c20-9ae6-bb19783d7b1a</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación agua caliente?</question>
+    <answer>Есть ли в номере горячая вода?</answer>
+    <comment></comment>
+    <uuid>b1ed32f1-5699-46f7-9f89-065db8cdd57c</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación cuarto de baño?</question>
+    <answer>Есть ли в номере ванная?</answer>
+    <comment></comment>
+    <uuid>6d7140a8-7a34-4c6d-8fac-8e20ae289157</uuid>
+  </card>
+  <card>
+    <question>¿Hay en la habitación ducha?</question>
+    <answer>Есть ли в номере душ?</answer>
+    <comment></comment>
+    <uuid>b305cd6d-6127-4d20-bd2c-ec4a5107f0dc</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale la habitación por día?</question>
+    <answer>Сколько стоит номер в сутки?</answer>
+    <comment></comment>
+    <uuid>69eedd47-fe5b-4354-8ba1-7ab4926d4078</uuid>
+  </card>
+  <card>
+    <question>¿Está incluido el desayuno en el precio de la habitación?</question>
+    <answer>Входит ли в стоимость номера завтрак?</answer>
+    <comment></comment>
+    <uuid>54abbc97-e49f-4094-b53d-b7be2644dfd8</uuid>
+  </card>
+  <card>
+    <question>¿En qué piso está mi habitación?</question>
+    <answer>Как каком этаже мой номер?</answer>
+    <comment></comment>
+    <uuid>33a90cd6-f909-4441-9746-0b883f635089</uuid>
+  </card>
+  <card>
+    <question>Su habitación está en el tercer piso.</question>
+    <answer>Ваш номер на третьем этаже.</answer>
+    <comment></comment>
+    <uuid>25a26722-edc8-4c20-bd10-a06c50f171e0</uuid>
+  </card>
+  <card>
+    <question>Su habitación está en el segundo piso.</question>
+    <answer>Ваш номер на втором этаже.</answer>
+    <comment></comment>
+    <uuid>4c97f1a1-4165-4683-b191-384aa898eaf3</uuid>
+  </card>
+  <card>
+    <question>Su habitación está en el cuarto piso.</question>
+    <answer>Ваш номер на четвёртом этаже.</answer>
+    <comment></comment>
+    <uuid>208306b8-557d-43bb-9f4b-0e586479238f</uuid>
+  </card>
+  <card>
+    <question>Quiero una habitación en el ... piso.</question>
+    <answer>Я хочу номер на ... этаже.</answer>
+    <comment></comment>
+    <uuid>977e7d4e-2c08-4e43-93b5-3b858f4754ce</uuid>
+  </card>
+  <card>
+    <question>Puedo ver la habitación?</question>
+    <answer>Могу я посмотреть номер?</answer>
+    <comment></comment>
+    <uuid>d771312d-ba4e-410c-a93d-e4820ed10506</uuid>
+  </card>
+  <card>
+    <question>Esta habitación no me gusta.</question>
+    <answer>Это номер мне не подходит (=не нравится).</answer>
+    <comment></comment>
+    <uuid>edbe57d3-c3c9-4c10-9ac3-db06518e347c</uuid>
+  </card>
+  <card>
+    <question>Esta habitación me gusta.</question>
+    <answer>Это номер мне подходит (=нравится).</answer>
+    <comment></comment>
+    <uuid>1b2f6430-5341-4457-a290-a8339ef9b22a</uuid>
+  </card>
+  <card>
+    <question>¿Hay alguna habitación más barata?</question>
+    <answer>Есть ли (какой-нибудь) номер подешевле?</answer>
+    <comment></comment>
+    <uuid>344c6a16-1f0b-43d0-bf3b-3e21c47d6d9b</uuid>
+  </card>
+  <card>
+    <question>¿Hay alguna habitación más tranquila?</question>
+    <answer>Есть ли (какой-нибудь) номер потише?</answer>
+    <comment></comment>
+    <uuid>f3c9ccd0-b63b-4fd8-8072-cf3892b8e47c</uuid>
+  </card>
+  <card>
+    <question>¿Hay alguna habitación mejor?</question>
+    <answer>Есть ли (какой-нибудь) номер получше?</answer>
+    <comment></comment>
+    <uuid>f171f843-cefe-4fad-81c9-f0ad2b0b8888</uuid>
+  </card>
+  <card>
+    <question>Podemos darle otra habitación.</question>
+    <answer>Мы можем вам предложить другой номер.</answer>
+    <comment></comment>
+    <uuid>cf3afaee-8abb-4024-9c84-5bcbf479b456</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta esta habitación?</question>
+    <answer>Вас устраивает этот номер? (=Вам нравится этот номер?)</answer>
+    <comment></comment>
+    <uuid>b0ee3c5a-d4a0-4524-8cfe-3e4ed27bb276</uuid>
+  </card>
+  <card>
+    <question>¿Te gusta esta habitación?</question>
+    <answer>Тебя устраивает этот номер? (=Тебе нравится этот номер?)</answer>
+    <comment></comment>
+    <uuid>05ddf627-b0d8-4ce6-9791-395754540986</uuid>
+  </card>
+  <card>
+    <question>¿Debo pagar por adelantado?</question>
+    <answer>Оплата вперёд?</answer>
+    <comment></comment>
+    <uuid>6f17fe84-1432-4c32-9e68-eb4683a31950</uuid>
+  </card>
+  <card>
+    <question>¿Debo pagar al abandonar el hotel?</question>
+    <answer>Оплата при отъезде (из гостиницы)?</answer>
+    <comment></comment>
+    <uuid>51b495fb-f4af-4421-95a5-f93a9bef0224</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto tiempo piensa estar en el hotel?</question>
+    <answer>Сколько времени Вы у нас пробудете? (=Сколько времени Вы думаете пробыть в гостинице?)</answer>
+    <comment></comment>
+    <uuid>f159219b-baec-435f-b003-1f9d58b35e75</uuid>
+  </card>
+  <card>
+    <question>Pienso estar tres días.</question>
+    <answer>Я думаю остановиться на три дня.</answer>
+    <comment></comment>
+    <uuid>60c43786-62ee-49ea-864f-a18cb5d485d6</uuid>
+  </card>
+  <card>
+    <question>Pienso estar cuatro días.</question>
+    <answer>Я думаю остановиться на четыре дня.</answer>
+    <comment></comment>
+    <uuid>d3f0cc11-0508-4904-8fd5-0ca63c26c6e8</uuid>
+  </card>
+  <card>
+    <question>Pienso estar una semana.</question>
+    <answer>Я думаю остановиться на неделю.</answer>
+    <comment></comment>
+    <uuid>7e491b99-22c9-4b8f-b559-6addc121c11e</uuid>
+  </card>
+  <card>
+    <question>Pienso estar un mes.</question>
+    <answer>Я думаю остановиться на месяц.</answer>
+    <comment></comment>
+    <uuid>a68ea730-9c16-44af-9f4a-13b94be633b6</uuid>
+  </card>
+  <card>
+    <question>Pensamos estar tres días.</question>
+    <answer>Мы думаем остановиться на три дня.</answer>
+    <comment></comment>
+    <uuid>7451d82f-3fc8-49fe-a8bb-7dbde8b8fed1</uuid>
+  </card>
+  <card>
+    <question>Pensamos estar cuatro días.</question>
+    <answer>Мы думаем остановиться на четыре дня.</answer>
+    <comment></comment>
+    <uuid>67c9fb1b-699e-4f30-90c5-12acd79c5b6f</uuid>
+  </card>
+  <card>
+    <question>Pensamos estar una semana.</question>
+    <answer>Мы думаем остановиться на неделю.</answer>
+    <comment></comment>
+    <uuid>3b3fc17c-526a-4bdd-8846-0120fed1d6bd</uuid>
+  </card>
+  <card>
+    <question>Pensamos estar un mes.</question>
+    <answer>Мы думаем остановиться на месяц.</answer>
+    <comment></comment>
+    <uuid>7323f951-186a-4da0-9d84-6c5ad5f16378</uuid>
+  </card>
+  <card>
+    <question>Necesito una habitación por un día.</question>
+    <answer>Мне нужен номер на сутки.</answer>
+    <comment></comment>
+    <uuid>0fb77285-27dc-4b8c-af7b-c23ab100be64</uuid>
+  </card>
+  <card>
+    <question>Necesito una habitación por una semana.</question>
+    <answer>Мне нужен номер на неделю.</answer>
+    <comment></comment>
+    <uuid>e12d9ef4-9e8f-492b-b566-4e7027f3122e</uuid>
+  </card>
+  <card>
+    <question>Necesito una habitación por un mes.</question>
+    <answer>Мне нужен номер на месяц.</answer>
+    <comment></comment>
+    <uuid>a8b4491c-29bf-46f2-8fb4-6a0af5085d1c</uuid>
+  </card>
+  <card>
+    <question>Tomaré la habitación por un día.</question>
+    <answer>Я беру (=возьму) номер на сутки.</answer>
+    <comment></comment>
+    <uuid>e62eb481-2a42-468f-bcfe-bda41d79e21a</uuid>
+  </card>
+  <card>
+    <question>Tomaré la habitación por una semana.</question>
+    <answer>Я беру (=возьму) номер на неделю.</answer>
+    <comment></comment>
+    <uuid>e1a34176-2c13-4455-97b5-fe43f38375e8</uuid>
+  </card>
+  <card>
+    <question>Tomaré la habitación por un mes.</question>
+    <answer>Я беру (=возьму) номер на месяц.</answer>
+    <comment></comment>
+    <uuid>8a5c2a93-96a3-4170-bcb7-652017bf2d10</uuid>
+  </card>
+  <card>
+    <question>Llévenme, por favor, mis cosas a la habitación.</question>
+    <answer>Отнесите (мн.ч.) (мне), пожалуйста, мои вещи в номер.</answer>
+    <comment></comment>
+    <uuid>ca12485b-0fb2-476b-a325-fbef39de9864</uuid>
+  </card>
+  <card>
+    <question>Llévenme, por favor, mis cosas al vestíbulo.</question>
+    <answer>Отнесите (мн.ч.) (мне) , пожалуйста, мои вещи в вестибюль.</answer>
+    <comment></comment>
+    <uuid>1845e250-4a1f-4c1e-8598-4a738dcd5d3e</uuid>
+  </card>
+  <card>
+    <question>Llévenme, por favor, mis cosas a la consigna.</question>
+    <answer>Отнесите (мн.ч.) (мне) , пожалуйста, мои вещи в камеру хранения.</answer>
+    <comment></comment>
+    <uuid>c4c9d043-7482-40a3-9124-e75d2656d0da</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, la llave de la habitación.</question>
+    <answer>Дайте мне, пожалуйста, ключ от номера.</answer>
+    <comment></comment>
+    <uuid>7ff4340a-b062-42d6-ada2-9d159e078677</uuid>
+  </card>
+  <card>
+    <question>Al marcharse deje la llave a la encargada del piso.</question>
+    <answer>Когда будете уходить, оставьте ключи у дежурной по этажу.</answer>
+    <comment></comment>
+    <uuid>d22e1d14-2aae-4c16-a2da-799d82aed64f</uuid>
+  </card>
+  <card>
+    <question>Tengan sus llaves.</question>
+    <answer>Вот Ваши ключи. (=Держите (мн.ч.) ваши ключи.)</answer>
+    <comment></comment>
+    <uuid>9a32f5ba-df79-4c2a-a356-8a374fb86a88</uuid>
+  </card>
+  <card>
+    <question>¿Donde está el ascensor?</question>
+    <answer>Где находится лифт? (находиться = estar)</answer>
+    <comment></comment>
+    <uuid>8a8c744f-ccfe-4f61-bc13-c4fe781798e7</uuid>
+  </card>
+  <card>
+    <question>El ascensor está ...</question>
+    <answer>Лифт находится ... (находиться = estar)</answer>
+    <comment></comment>
+    <uuid>bedc7436-83cc-45f2-a2e8-05276181bf91</uuid>
+  </card>
+</cards>
+</stack>

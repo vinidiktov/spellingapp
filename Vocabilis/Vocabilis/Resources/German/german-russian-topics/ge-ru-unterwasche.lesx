@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>06005ca3-a9a2-4741-9ead-cfa2aeedde20</uuid>
+  <title>Нижнее белье</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Leder</question>
+    <answer>кожа</answer>
+    <comment></comment>
+    <uuid>6a5ffc8e-108d-43ae-b043-81357fcecc3a</uuid>
+  </card>
+  <card>
+    <question>das Nachthemd</question>
+    <answer>ночная рубашка</answer>
+    <comment></comment>
+    <uuid>787bcde8-f920-45d5-af83-a897f42a871a</uuid>
+  </card>
+  <card>
+    <question>das Unterhemd</question>
+    <answer>майка</answer>
+    <comment></comment>
+    <uuid>3c7daba6-8f79-40f5-a85e-cb811ef17c77</uuid>
+  </card>
+  <card>
+    <question>der Absatz</question>
+    <answer>каблук</answer>
+    <comment></comment>
+    <uuid>4df4944f-41cc-4fcb-abba-686fa78a661d</uuid>
+  </card>
+  <card>
+    <question>der BH</question>
+    <answer>бюстгальтер</answer>
+    <comment></comment>
+    <uuid>2992bd0a-0ee5-4141-a86b-5f996d207a27</uuid>
+  </card>
+  <card>
+    <question>der Bikini</question>
+    <answer>бикини</answer>
+    <comment></comment>
+    <uuid>4d0f82fd-6f94-4340-8496-596010a47ec1</uuid>
+  </card>
+  <card>
+    <question>der Büstenhalter</question>
+    <answer>бюстгальтер</answer>
+    <comment></comment>
+    <uuid>450916ae-43c5-4edd-bfd8-e83f577d5b48</uuid>
+  </card>
+  <card>
+    <question>der Schlafanzug</question>
+    <answer>пижама</answer>
+    <comment></comment>
+    <uuid>962afe2d-d485-44f4-99a3-0266b8603038</uuid>
+  </card>
+  <card>
+    <question>der Schlüpfer</question>
+    <answer>трико</answer>
+    <comment></comment>
+    <uuid>3b4fe177-16ee-4600-9bdf-518ddcf70caa</uuid>
+  </card>
+  <card>
+    <question>der Schnürsenkel</question>
+    <answer>шнурок для ботинок</answer>
+    <comment></comment>
+    <uuid>c0762964-badf-4b67-9552-452e45913b29</uuid>
+  </card>
+  <card>
+    <question>der Schuh</question>
+    <answer>ботинок, туфля</answer>
+    <comment></comment>
+    <uuid>0a2e65d6-6e49-4176-ba6b-04da3b011c39</uuid>
+  </card>
+  <card>
+    <question>der Slip</question>
+    <answer>трусы</answer>
+    <comment></comment>
+    <uuid>47c74a7c-b90b-4471-8364-2a6e69701799</uuid>
+  </card>
+  <card>
+    <question>der Strumpf</question>
+    <answer>чулок</answer>
+    <comment></comment>
+    <uuid>dd4a9298-e466-44d4-bde8-7c6d6467b747</uuid>
+  </card>
+  <card>
+    <question>der warme Schlafanzug</question>
+    <answer>тёплая пижама</answer>
+    <comment></comment>
+    <uuid>1d5c598c-fed1-4de4-bc47-6c79262db936</uuid>
+  </card>
+  <card>
+    <question>die Badehose</question>
+    <answer>плавки</answer>
+    <comment></comment>
+    <uuid>83a85f41-7157-45d8-9303-c225e9d9b3e4</uuid>
+  </card>
+  <card>
+    <question>die Sandalen</question>
+    <answer>сандалии</answer>
+    <comment></comment>
+    <uuid>a8a879a2-cb94-4227-9498-cb58d41544e7</uuid>
+  </card>
+  <card>
+    <question>die Socke</question>
+    <answer>носок</answer>
+    <comment></comment>
+    <uuid>840d60af-13ae-461f-ac60-1b48088c42b6</uuid>
+  </card>
+  <card>
+    <question>die Sohle</question>
+    <answer>подошва, подмётка</answer>
+    <comment></comment>
+    <uuid>245ce961-514a-4784-93ec-682f0b6c7409</uuid>
+  </card>
+  <card>
+    <question>die Stiefel</question>
+    <answer>сапоги</answer>
+    <comment></comment>
+    <uuid>b4e15843-5a9e-40ce-8dc8-4e89c4e0abd2</uuid>
+  </card>
+  <card>
+    <question>die Strumpfhose</question>
+    <answer>колготки</answer>
+    <comment></comment>
+    <uuid>ea91d5a7-6428-4495-89cb-6bdc1e3a2b60</uuid>
+  </card>
+  <card>
+    <question>die Turnschuhe</question>
+    <answer>кеды, кроссовки</answer>
+    <comment></comment>
+    <uuid>04e3a348-2b9b-4ac1-a854-68abbea2bbd1</uuid>
+  </card>
+  <card>
+    <question>die Unterhose</question>
+    <answer>кальсоны, трусы</answer>
+    <comment></comment>
+    <uuid>ca821eee-1362-4a05-8f31-0b0ee0a23641</uuid>
+  </card>
+  <card>
+    <question>ein Paar Schuhe</question>
+    <answer>пара ботинок</answer>
+    <comment></comment>
+    <uuid>5647c541-f01e-4bf1-a7bf-16af22c01fc0</uuid>
+  </card>
+  <card>
+    <question>Ich brauche ein Paar.</question>
+    <answer>Мне нужна пара чулок.</answer>
+    <comment></comment>
+    <uuid>2b66612a-913e-4a04-8fd1-71df6f59e8ca</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Paar Turnschuhe.</question>
+    <answer>Я хотел бы купить одну пару кроссовок.</answer>
+    <comment></comment>
+    <uuid>5fc327c1-fcbc-4952-b4c8-4743a5f28e64</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Paar weiße Stöckchen.</question>
+    <answer>Я хотел бы купить пару белых носок.</answer>
+    <comment></comment>
+    <uuid>4a178142-a9f0-41fe-bd17-3bd540626ae8</uuid>
+  </card>
+  <card>
+    <question>Ich möchte einen warmen Schlafanzug.</question>
+    <answer>Я хотел бы тёплую пижаму.</answer>
+    <comment></comment>
+    <uuid>c8dbf556-ede7-4999-9678-9785bf6e5087</uuid>
+  </card>
+  <card>
+    <question>Welche Farbe?</question>
+    <answer>Какого цвета?</answer>
+    <comment></comment>
+    <uuid>97d96a53-68c2-44b2-89d2-d7797cbf0d38</uuid>
+  </card>
+  <card>
+    <question>Welche Größe?</question>
+    <answer>Какой размер?</answer>
+    <comment></comment>
+    <uuid>81debe77-4037-4d5f-b440-8e0b56d60907</uuid>
+  </card>
+</cards>
+</stack>

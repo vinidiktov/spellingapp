@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			xmlns:local="clr-namespace:Vocabilis;assembly=Vocabilis"
+			xmlns:attachedProperties="clr-namespace:Vocabilis;assembly=Vocabilis"
+			x:Class="Vocabilis.SchedulerPage">
+
+	<ContentPage.Resources>
+  		<ResourceDictionary>
+            <local:HtmlSourceConverter x:Key="cnvHtmlSource" />
+  		</ResourceDictionary>
+ 	</ContentPage.Resources>
+
+ 	<ContentPage.ToolbarItems>  
+<!--    <ToolbarItem Name="Статистика" Order="Primary" Priority="2" 
+    			Command="{Binding ShowStatsCommand}" />
+    <ToolbarItem Name="Слова" Order="Primary" Priority="1" 
+    			Command="{Binding ShowWordlistCommand}" />-->
+    <ToolbarItem Name="Озвучить" Icon="ic_action_volume_on.png" Priority="0" 
+    			Command="{Binding SpeakCommand}"  />
+<!--    <ToolbarItem Name="Настройки" Priority="0" 
+    			Command="{Binding ShowSettingsCommand}" Order="Secondary" />-->
+  </ContentPage.ToolbarItems>
+
+	<ContentPage.Content>
+	<StackLayout VerticalOptions="FillAndExpand">
+		<StackLayout Padding="0, 0, 0, 150"
+	                	VerticalOptions="CenterAndExpand" 
+	        			HorizontalOptions="CenterAndExpand"
+	        			x:Name="LearnedStack" 
+	        			IsVisible="{Binding IsLearnedStackVisible}" 
+	        			Orientation="Vertical"
+	        			>
+			<Label Font="Large" Text="Поздравляем! Вы повторили все карточки!" />
+<!--			<Button Font="Large" Text="Начать сначала" 
+					Command="{Binding ResetStatsCommand}" 
+					/>-->
+		</StackLayout>
+		<StackLayout x:Name="LearningStack" VerticalOptions="FillAndExpand"
+               Orientation="Vertical"
+               HorizontalOptions="FillAndExpand"
+               IsVisible="{Binding IsLearningStackVisible}"
+
+               >
+<!--            <ProgressBar Progress="{Binding CurrentStageProgress}" />-->
+        	
+        	<StackLayout VerticalOptions="FillAndExpand">
+					<local:AdMobView x:Name="AdView" WidthRequest="320" HeightRequest="50" MinimumHeightRequest="50" />
+
+	        		<WebView x:Name="HTML" VerticalOptions="FillAndExpand"
+	        				HeightRequest="1000" Source="{Binding CardViewText, Converter={StaticResource cnvHtmlSource}}"
+	        		>
+	        			
+	        		</WebView>
+        	</StackLayout>
+        	<StackLayout Padding="10,0,10,0" Orientation="Horizontal" VerticalOptions="End">
+        	<Grid IsVisible="true" HorizontalOptions="FillAndExpand"
+		          			VerticalOptions="End"
+		          			Padding="10"
+		          			>
+	  			<Grid.RowDefinitions>
+			        <RowDefinition Height="Auto" />
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+			        <ColumnDefinition Width="50*" />
+			        <ColumnDefinition Width="50*" />
+			    </Grid.ColumnDefinitions>
+
+			    <Label Grid.Row="0" Grid.Column="0" 
+			    	Text="{Binding NumberOfOverdueCards, StringFormat='Повторить: {0}'}"/>
+			    <Label Grid.Row="0" Grid.Column="1"
+			    	HorizontalTextAlignment="End"
+			    	Text="{Binding TotalNumberOfCards, StringFormat='Всего: {0}'}"/>
+					  	  
+
+		    </Grid>
+	        	
+
+	        </StackLayout>
+<!--        	<StackLayout x:Name="SpellingStack" IsVisible="false">
+		        <StackLayout Padding="0,0,10,0" Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+		        	<Frame Padding="5" x:Name="answerFrame" HasShadow="false"
+		        			HorizontalOptions="FillAndExpand" 
+		        			BackgroundColor="{Binding AnswerFrameBackgroundColor}">
+					<Entry  x:Name="answerEntry" 
+		              attachedProperties:EntryCompletedBehavior.Completed="{Binding CheckAnswerCommand}"
+							Placeholder="Введите здесь ваш ответ"
+							Text="{Binding AnswerEntryText, Mode=TwoWay}"
+					/>
+					</Frame>
+					<Button Text="Проверить" Command="{Binding CheckAnswerCommand}"/>
+				</StackLayout>
+
+				<StackLayout x:Name="hintStack" Orientation="Vertical" 
+	        		HorizontalOptions="Center" IsVisible="{Binding IsHintStackVisible}"
+	        	>
+		        	<StackLayout  Orientation="Horizontal">
+			        	<Button Text="{Binding HintLetterOne.Letter}"
+			        			IsEnabled="{Binding HintLetterOne.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="0"
+			        			Font="Large" />
+			        	<Button Text="{Binding HintLetterTwo.Letter}" 
+					        	IsEnabled="{Binding HintLetterTwo.IsEnabled}"
+					        	Command="{Binding HintLetterCommand}"
+			        			CommandParameter="1"
+					        	Font="Large" />
+			        	<Button Text="{Binding HintLetterThree.Letter}" 
+					        	IsEnabled="{Binding HintLetterThree.IsEnabled}"
+					        	Command="{Binding HintLetterCommand}"
+			        			CommandParameter="2"
+					        	Font="Large" />
+			        	<Button Text="{Binding HintLetterFour.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterFour.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="3" />
+			        	<Button Text="{Binding HintLetterFive.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterFive.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="4" />
+			        	<Button Text="{Binding HintLetterSix.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterSix.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="5" />
+			        	
+		        	</StackLayout>
+
+		        	<StackLayout Orientation="Horizontal">
+		        		<Button Text="{Binding HintLetterSeven.Letter}" 
+		        				Font="Large"
+		        				IsEnabled="{Binding HintLetterSeven.IsEnabled}"
+		        				Command="{Binding HintLetterCommand}"
+			        			CommandParameter="6" />
+			        	<Button Text="{Binding HintLetterEight.Letter}"
+		        				Font="Large"
+		        				IsEnabled="{Binding HintLetterEight.IsEnabled}"
+		        				Command="{Binding HintLetterCommand}"
+			        			CommandParameter="7" />
+			        	<Button Text="{Binding HintLetterNine.Letter}" 
+								Font="Large"
+								IsEnabled="{Binding HintLetterNine.IsEnabled}"
+								Command="{Binding HintLetterCommand}"
+			        			CommandParameter="8" />
+			        	<Button Text="{Binding HintLetterTen.Letter}"
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterTen.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="9" />
+			        	<Button Text="{Binding HintLetterEleven.Letter}"
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterEleven.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="10" />
+		        	</StackLayout>
+					<StackLayout  Orientation="Horizontal">
+						
+			        	<Button Text="{Binding HintLetterTwelve.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterTwelve.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="11" />
+			        	<Button Text="{Binding HintLetterThirteen.Letter}"
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterThirteen.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="12" />
+			        	<Button Text="{Binding HintLetterFourteen.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterFourteen.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="13" />
+			        	<Button Text="{Binding HintLetterFifteen.Letter}" 
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterFifteen.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="14" />
+			        	<Button Text="{Binding HintLetterSixteen.Letter}"
+			        			Font="Large"
+			        			IsEnabled="{Binding HintLetterSixteen.IsEnabled}"
+			        			Command="{Binding HintLetterCommand}"
+			        			CommandParameter="15" />
+		        	</StackLayout>
+	        	</StackLayout>
+			</StackLayout>-->
+
+
+	        	<StackLayout VerticalOptions="EndAndExpand">
+		        	
+		        	<Grid IsVisible="true" HorizontalOptions="FillAndExpand"
+		          			VerticalOptions="End"
+		          			Padding="30,0,30,30"
+		          			>
+		          			<Grid.RowDefinitions>
+						        <RowDefinition Height="60" />
+		      				</Grid.RowDefinitions>
+							<Grid.ColumnDefinitions>
+						        <ColumnDefinition Width="50*" />
+						        <ColumnDefinition Width="50*" />
+						    </Grid.ColumnDefinitions>
+
+					  	  <Button x:Name="btnFailedIt" Text="Не помню"
+					  	  		BorderWidth="1"
+								Grid.Row="0" Grid.Column="0" 
+								IsVisible="{Binding IsBtnFailedItVisible}"
+								Font="Bold,Large"
+								Command="{Binding FailedItCommand}"
+								/>
+		 
+					      <Button x:Name="btnGotIt" Text="Помню"
+					      		BorderWidth="1"
+								Grid.Row="0" Grid.Column="1"
+								IsVisible="{Binding IsBtnGotItVisible}"
+								Font="Bold,Large"
+								Command="{Binding GotItCommand}"
+								/>
+					 
+					      <Button x:Name="btnShowFullCard" Text="Показать ответ"
+					      		BorderWidth="1"
+					            Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+					            IsVisible="{Binding IsBtnShowFullCardVisible}"
+					            Font="Bold,Large"
+					            Command="{Binding ShowFullCardCommand}"
+					            />
+
+		          	</Grid>
+					
+				</StackLayout>
+			
+
+
+			<Grid Padding="10" IsVisible="false"
+			 HorizontalOptions="Center" VerticalOptions="End">
+			    <Grid.RowDefinitions>
+			      <RowDefinition Height="Auto" />
+			      <RowDefinition Height="Auto" />
+			      <RowDefinition Height="Auto" />
+			    </Grid.RowDefinitions>
+
+			    <Grid.ColumnDefinitions>
+			      <ColumnDefinition Width="Auto" />
+			      <ColumnDefinition Width="Auto" />
+			    </Grid.ColumnDefinitions>
+
+			    <Label Grid.Row="0" Grid.Column="0" Text="Показывать транскрипцию" VerticalOptions="Center"/>
+        		<Switch x:Name="toggleTranscription" Grid.Row="0" Grid.Column="1" 
+        				IsToggled="{Binding DoShowTranscription}" />
+
+        		<Label Grid.Row="1" Grid.Column="0" Text="Показывать подсказки на 1-м и 2-м уровнях" VerticalOptions="Center"/>
+        		<Switch x:Name="toggleHints" Grid.Row="1" Grid.Column="1"
+        			IsToggled="{Binding DoShowHints}" />
+
+        		<Label Grid.Row="2" Grid.Column="0" Text="Британское/Американское проговаривание" VerticalOptions="Center"/>
+        		<Switch x:Name="toggleBritishAmerican" Grid.Row="2" Grid.Column="1" 
+        			IsToggled="{Binding DoSpeakAmerican}" />
+
+	    	</Grid>
+
+        </StackLayout>
+
+     </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

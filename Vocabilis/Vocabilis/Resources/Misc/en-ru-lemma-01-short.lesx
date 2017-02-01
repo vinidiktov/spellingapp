@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f801ad70-1ede-11e4-8c21-0800200c9a66</uuid>
+  <title>A1. Lesson 1</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>a</question>
+    <answer>неопределенный артикль</answer>
+    <comment>[ə ːː ə]</comment>
+    <uuid>a5760560-f806-4461-928b-02fec84637f5</uuid>
+  </card>
+  <card>
+    <question>to</question>
+    <answer>в (Москву и т.п.), к (окну и т.п.), на (концерт и т.п.)</answer>
+    <comment>[tuː ːː tuː]</comment>
+    <uuid>f2f8c71b-7af7-4a24-bf74-4f95e088cbbe</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to Moscow.</value>
+          <translation>Я еду в Москву.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He goes to school.</value>
+          <translation>Он ходит в школу.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>This road leads to the station.</value>
+          <translation>Эта дорога ведёт к вокзалу.</translation>
+          <comment>to lead - вести</comment>
+       </example>
+       <example>
+          <value>The apple fell to the ground.</value>
+          <translation>Яблоко упало на землю.</translation>
+          <comment>to fall - падать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>it</question>
+    <answer>это, он, она (для предметов и животных)</answer>
+    <comment>[ɪt ːː ɪt]</comment>
+    <uuid>dad6fd02-a223-4f49-b7a2-252d32e878e2</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s in the kitchen.</value>
+          <translation>Он(а) (предмет) на кухне.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Give it to me.</value>
+          <translation>Дай его/её (предмет) мне.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Where is it?</value>
+          <translation>Где он/она (предмет)?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It doesn&apos;t work.</value>
+          <translation>Он/она/оно (устройство) не работает.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>have</question>
+    <answer>иметь</answer>
+    <comment>[hæv ːː hæv]</comment>
+    <uuid>cd6696da-3033-4692-81b2-4b91272e9a39</uuid>
+    <examples>
+       <example>
+          <value>I have a sister.</value>
+          <translation>У меня есть сестра.</translation>
+          <comment>I have = я имею</comment>
+       </example>
+       <example>
+          <value>I have a computer.</value>
+          <translation>У меня есть компьютер.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Do you have a brother?</value>
+          <translation>У тебя есть брат?</translation>
+          <comment>do you have? = ты имеешь?</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>in</question>
+    <answer>в (Москве, комнате и т.п.)</answer>
+    <comment>[ɪn ːː ɪn]</comment>
+    <uuid>181c4d52-7bdb-4967-b396-6a48f2c8c00f</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s in his room.</value>
+          <translation>Он у себя в комнате.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s in France.</value>
+          <translation>Он во Франции.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>and</question>
+    <answer>и</answer>
+    <comment>[ænd ːː ænd]</comment>
+    <uuid>8c9269ae-5f6d-4968-882b-770bc6d250a2</uuid>
+    <examples>
+       <example>
+          <value>my brother and I</value>
+          <translation>мой брат и я</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s big and strong.</value>
+          <translation>Он большой и сильный.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She&apos;s young and pretty.</value>
+          <translation>Она молодая и симпатичная.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>be</question>
+    <answer>быть</answer>
+    <comment>[biː ːː biː]</comment>
+    <uuid>74be7fe4-fcb7-487d-a9e5-28b9a5fed847</uuid>
+    <examples>
+       <example>
+          <value>To be or not to be?</value>
+          <translation>Быть или не быть?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He wants to be a doctor.</value>
+          <translation>Он хочет быть врачом.</translation>
+          <comment>to want - хотеть</comment>
+       </example>
+       <example>
+          <value>It isn&apos;t easy to be a child.</value>
+          <translation>Нелегко быть ребёнком.</translation>
+          <comment>easy - лёгкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>to</question>
+    <answer>указатель неопределенной формы глагола</answer>
+    <comment>[tuː ːː tuː]</comment>
+    <uuid>2e060610-6b3c-4786-a24f-6d78b948124c</uuid>
+    <examples>
+       <example>
+          <value>to run</value>
+          <translation>бежать</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to speak</value>
+          <translation>говорить</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to learn</value>
+          <translation>учить</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to sleep</value>
+          <translation>спать</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>the</question>
+    <answer>определенный артикль</answer>
+    <comment>[ðə; ðiː ːː ðə; ðiː]</comment>
+    <uuid>b053556d-596e-4022-8298-36de30ee7b38</uuid>
+  </card>
+  <card>
+    <question>of</question>
+    <answer>предлог родительного падежа (кого?, чего?)</answer>
+    <comment>[ɒv ːː ʌv]</comment>
+    <uuid>182fb8a1-034b-4eb2-99b9-42f4d5654f62</uuid>
+    <examples>
+       <example>
+          <value>the leg of a chair</value>
+          <translation>ножка стула</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>freedom of conscience</value>
+          <translation>свобода совести</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the capital of Russia</value>
+          <translation>столица России</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a piece of bread</value>
+          <translation>кусок хлеба</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the end of the journey</value>
+          <translation>конец путешествия</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>at the bottom of the page</value>
+          <translation>внизу страницы</translation>
+          <comment>bottom - нижняя часть</comment>
+       </example>
+       <example>
+          <value>in the middle of the room</value>
+          <translation>посередине комнаты</translation>
+          <comment>middle - середина</comment>
+       </example>
+       <example>
+          <value>a glass of milk</value>
+          <translation>стакан молока</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

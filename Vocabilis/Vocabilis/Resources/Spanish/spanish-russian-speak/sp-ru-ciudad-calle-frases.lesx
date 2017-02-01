@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>8497c0b3-38f6-447b-a389-efe081bc2d21</uuid>
+  <title>В городе :: На улице :: Фразы</title>
+  <author>Морено Маньюэко</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Quisiera ver la ciudad.</question>
+    <answer>Я бы хотел(а) осмотреть город.</answer>
+    <comment></comment>
+    <uuid>199678eb-fffa-44f7-92ff-1a5f805b61b4</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ver la ciudad.</question>
+    <answer>Мы бы хотели осмотреть город.</answer>
+    <comment></comment>
+    <uuid>b32a1b22-9b83-4210-821a-59512ae11156</uuid>
+  </card>
+  <card>
+    <question>Esta es la primera vez que vengo a Madrid.</question>
+    <answer>Я впервые в Мадриде. (=Это первый раз, когда я приезжаю в Мадрид.)</answer>
+    <comment></comment>
+    <uuid>5e50b5e0-e458-4453-8d2b-ad40409bb58a</uuid>
+  </card>
+  <card>
+    <question>Esta es la primera vez que venimos a Madrid.</question>
+    <answer>Мы впервые в Мадриде. (=Это первый раз, когда мы приезжаем в Мадрид.)</answer>
+    <comment></comment>
+    <uuid>ffd61a6e-78df-412f-acd6-aec8853f52f6</uuid>
+  </card>
+  <card>
+    <question>Esta es la primera vez que vengo a Buenos Aires.</question>
+    <answer>Я впервые в Буэнос Айрес. (=Это первый раз, когда я приезжаю в Буэнос Айрес.)</answer>
+    <comment></comment>
+    <uuid>5f4aa703-091a-4b30-a46d-b5c811bfc6f9</uuid>
+  </card>
+  <card>
+    <question>Esta es la primera vez que venimos a Buenos Aires.</question>
+    <answer>Мы впервые в Буэнос Айрес. (=Это первый раз, когда мы приезжаем в Буэнос Айрес.)</answer>
+    <comment></comment>
+    <uuid>318ce522-8665-4ed9-af17-f7146135da7d</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede comprar una guía de la ciudad?</question>
+    <answer>Где можно купить путеводитель по городу?</answer>
+    <comment></comment>
+    <uuid>c0791edb-63a1-4433-8306-2b72593e57bc</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale?</question>
+    <answer>Сколько он стоит?</answer>
+    <comment></comment>
+    <uuid>a5fe2d1c-1c6c-4b0f-a83d-8722e2fab19a</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede uno inscribir para hacer una excursión por la ciudad?</question>
+    <answer>Где можно записаться на экскурсию по городу? (=Где можно записаться, чтобы сделать экскурсию ...?)</answer>
+    <comment></comment>
+    <uuid>756ab388-4e4e-4d4b-b057-25a994aa11ab</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora sale el autobús?</question>
+    <answer>В котором часу отходит автобус?</answer>
+    <comment></comment>
+    <uuid>91c5aa3f-312d-41e6-a16a-69cd303cbe19</uuid>
+  </card>
+  <card>
+    <question>¿Por dónde es mejor empezar la visita de la ciudad?</question>
+    <answer>С чего лучше начать осмотр (посещение) города?</answer>
+    <comment></comment>
+    <uuid>695b3637-b7c9-412b-b7e7-82b5487e4f32</uuid>
+  </card>
+  <card>
+    <question>¿Qué me aconseja ver en primer lugar?</question>
+    <answer>Что бы вы мне посоветовали посмотреть в первую очередь? (=Что вы мне советуете ... ?)</answer>
+    <comment></comment>
+    <uuid>af51a481-c54e-40d4-9751-ac911829f1dd</uuid>
+  </card>
+  <card>
+    <question>¿Qué nos aconseja ver en primer lugar?</question>
+    <answer>Что бы вы нам посоветовали посмотреть в первую очередь? (=Что вы нам советуете ... ?)</answer>
+    <comment></comment>
+    <uuid>c59e6380-2b7b-4684-8a82-0ad622058432</uuid>
+  </card>
+  <card>
+    <question>Quisiera conocer la parte vieja de la ciudad.</question>
+    <answer>Я хотел(а) бы ознакомиться со старым городом. (=... со старой частью города.)</answer>
+    <comment></comment>
+    <uuid>1d4b0852-2da5-4d24-823a-feea14b7514d</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos conocer la parte vieja de la ciudad.</question>
+    <answer>Мы хотели бы ознакомиться со старым городом. (=... со старой частью города.)</answer>
+    <comment></comment>
+    <uuid>89f9eae5-3786-4cce-9b21-d5632d25ad27</uuid>
+  </card>
+  <card>
+    <question>Quisiera conocer las nuevas barriadas.</question>
+    <answer>Я хотел(а) бы ознакомиться с новыми районами.</answer>
+    <comment></comment>
+    <uuid>0de49fa5-ed89-4c7a-9c8a-b15b0ed50b25</uuid>
+  </card>
+  <card>
+    <question>Quisiera conocer los monumentos históricos.</question>
+    <answer>Я хотел(а) бы ознакомиться с историческими памятниками.</answer>
+    <comment></comment>
+    <uuid>5122ee9f-72d7-426a-ae17-56360ec0e9c1</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos conocer las nuevas barriadas.</question>
+    <answer>Мы хотели бы ознакомиться с новыми районами.</answer>
+    <comment></comment>
+    <uuid>b585f294-1464-4eb1-ac39-ece7499fa3bb</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos conocer los monumentos históricos.</question>
+    <answer>Мы хотели бы ознакомиться с историческими памятниками.</answer>
+    <comment></comment>
+    <uuid>ae84678d-93b1-4a2d-aca5-5db20dd20633</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto tiempo dura la excursión?</question>
+    <answer>Сколько времени продлится экскурсия?</answer>
+    <comment></comment>
+    <uuid>186618e6-7da3-4ae3-b627-c90d6ae8872d</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra el museo del Prado.</question>
+    <answer>Где находится музей Прадо?</answer>
+    <comment></comment>
+    <uuid>0d1482f3-67ac-4641-9530-dd81e9f7ad0e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra la biblioteca nacional?</question>
+    <answer>Где находится Национальная библиотека?</answer>
+    <comment></comment>
+    <uuid>682f6931-ac99-4db3-8126-cf28b6915248</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra la embajada de Rusia?</question>
+    <answer>Где находится российское посольство?</answer>
+    <comment></comment>
+    <uuid>11208f20-9d80-4821-bf2e-1ef5cf72df7b</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra el jardín botánico?</question>
+    <answer>Где находится ботанический сад?</answer>
+    <comment></comment>
+    <uuid>b809a828-b884-4fa3-948e-485fcc27d210</uuid>
+  </card>
+  <card>
+    <question>Iremos a pie o en autobús?</question>
+    <answer>Мы пойдем пешком или поедем на автобусе?</answer>
+    <comment></comment>
+    <uuid>ddbbd486-f972-4ab7-92b8-51b3ecd3e41a</uuid>
+  </card>
+  <card>
+    <question>Quisiera visitar el zoológico.</question>
+    <answer>Я хотел(а) бы посетить зоопарк.</answer>
+    <comment></comment>
+    <uuid>8c93dda1-d194-45af-84b1-e4e649294348</uuid>
+  </card>
+  <card>
+    <question>Quisiera visitar el parque de atracciones.</question>
+    <answer>Я хотел(а) бы посетить парк аттракционов.</answer>
+    <comment></comment>
+    <uuid>07f3de9c-7857-41b3-a032-4bf15b39ea30</uuid>
+  </card>
+  <card>
+    <question>Quisiera visitar el centro de la ciudad.</question>
+    <answer>Я хотел(а) бы посетить центр города.</answer>
+    <comment></comment>
+    <uuid>0240ba2a-9fd2-4c34-8a83-558683801870</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos visitar el zoológico.</question>
+    <answer>Мы хотели бы посетить зоопарк.</answer>
+    <comment></comment>
+    <uuid>93871ce5-c234-4241-8ea6-25cfc7f856da</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos visitar el parque de atracciones.</question>
+    <answer>Мы хотели бы посетить парк аттракционов.</answer>
+    <comment></comment>
+    <uuid>da827d53-1e95-460c-b300-2411a44a113c</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos visitar el centro de la ciudad.</question>
+    <answer>Мы хотели бы посетить центр города.</answer>
+    <comment></comment>
+    <uuid>63829173-676e-43c7-b803-e875cf8bc9b1</uuid>
+  </card>
+  <card>
+    <question>¿Qué itinerario me aconseja?</question>
+    <answer>Какой маршрут вы мне рекомендуете (=советуете)?</answer>
+    <comment></comment>
+    <uuid>3dce9f91-90f7-4766-8946-79841a372410</uuid>
+  </card>
+  <card>
+    <question>¿Qué itinerario nos aconseja?</question>
+    <answer>Какой маршрут вы нам рекомендуете (=советуете)?</answer>
+    <comment></comment>
+    <uuid>110662db-53d4-4dbc-a52e-5085d94d5a2d</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se puede llegar al teatro?</question>
+    <answer>Как (можно) проехать (пройти) в театр?</answer>
+    <comment></comment>
+    <uuid>aa2ea1ab-524d-448c-9d81-f3b1970752c9</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se puede llegar al museo?</question>
+    <answer>Как (можно) проехать (пройти) в музей?</answer>
+    <comment></comment>
+    <uuid>abf50bb7-c0b3-4971-addb-212877d381f8</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se puede llegar a la calle ...?</question>
+    <answer>Как (можно) проехать (пройти) на улицу ...?</answer>
+    <comment></comment>
+    <uuid>6f303ed3-fe74-4b49-afa3-f72c61322758</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se puede llegar al Palacio Real?</question>
+    <answer>Как (можно) проехать (пройти) к Королевскому дворцу?</answer>
+    <comment></comment>
+    <uuid>522ef26c-e474-4d21-8dc7-65e6a143dd12</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se puede llegar a la plaza ...?</question>
+    <answer>Как (можно) проехать (пройти) на площадь ...?</answer>
+    <comment></comment>
+    <uuid>c377835a-32a4-47ff-a558-fd3ca97aa42c</uuid>
+  </card>
+  <card>
+    <question>¿Voy bien por aquí a la calle ...?</question>
+    <answer>Я правильно иду к улице...?</answer>
+    <comment></comment>
+    <uuid>af2aff2d-a305-4c73-a486-73d5834833a6</uuid>
+  </card>
+  <card>
+    <question>¿Voy bien por aquí a la catedral?</question>
+    <answer>Я правильно иду к собору?</answer>
+    <comment></comment>
+    <uuid>72063d07-7b54-4615-b3d3-4583a867e1db</uuid>
+  </card>
+  <card>
+    <question>¿Voy bien por aquí al museo?</question>
+    <answer>Я правильно иду к музею?</answer>
+    <comment></comment>
+    <uuid>6dbcf955-9473-4a4e-9ec8-9a367ddeb4a8</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el paso de peatones?</question>
+    <answer>Где пешеходный переход?</answer>
+    <comment></comment>
+    <uuid>984e79eb-b37c-479a-98e2-e83691ad3d2e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el paso subterráneo?</question>
+    <answer>Где подземный переход?</answer>
+    <comment></comment>
+    <uuid>6d473e56-aa62-43a4-ac15-1dc8b7909495</uuid>
+  </card>
+  <card>
+    <question>¿En qué dirección debo ir?</question>
+    <answer>В каком направлении мне надо идти?</answer>
+    <comment></comment>
+    <uuid>e3bea779-ee64-4276-9600-09b55b8697a0</uuid>
+  </card>
+  <card>
+    <question>¿En qué dirección debemos ir?</question>
+    <answer>В каком направлении нам надо идти?</answer>
+    <comment></comment>
+    <uuid>6bd491f7-d339-4bbe-8d63-113f5d38bf9c</uuid>
+  </card>
+  <card>
+    <question>¿Hacia allí?</question>
+    <answer>В эту сторону?</answer>
+    <comment></comment>
+    <uuid>c3a43014-6523-45f9-8924-02b6671d43f4</uuid>
+  </card>
+  <card>
+    <question>¿Dónde estamos ahora?</question>
+    <answer>Где мы находимся сейчас?</answer>
+    <comment></comment>
+    <uuid>8b8b6bb4-e0e0-41f4-b1f7-a2875ab58662</uuid>
+  </card>
+  <card>
+    <question>No sé donde me encuentro.</question>
+    <answer>Я не знаю, где я нахожусь.</answer>
+    <comment></comment>
+    <uuid>8cc03194-105a-46ed-8abc-53c8c754bf5f</uuid>
+  </card>
+  <card>
+    <question>Me he perdido.</question>
+    <answer>Я заблудился.</answer>
+    <comment></comment>
+    <uuid>8424f1aa-7592-4ea2-b37a-ae9be4898d6d</uuid>
+  </card>
+  <card>
+    <question>Soy extranjero.</question>
+    <answer>Я иностранец.</answer>
+    <comment></comment>
+    <uuid>f8f85ed4-74db-4c65-93f7-32a220e66414</uuid>
+  </card>
+  <card>
+    <question>Soy extranjera.</question>
+    <answer>Я иностранка.</answer>
+    <comment></comment>
+    <uuid>a78b48a6-0cc0-4d87-9967-42959d41acde</uuid>
+  </card>
+  <card>
+    <question>Busco el número ...</question>
+    <answer>Я ищу дом номер ...</answer>
+    <comment></comment>
+    <uuid>3aa9d9b8-bd80-40b8-a1ef-68245a13d948</uuid>
+  </card>
+  <card>
+    <question>Busco la plaza ...</question>
+    <answer>Я ищу площадь ...</answer>
+    <comment></comment>
+    <uuid>bd63836c-a3c2-46ff-84b4-261ff599175c</uuid>
+  </card>
+  <card>
+    <question>Busco la calle ...</question>
+    <answer>Я ищу улицу ...</answer>
+    <comment></comment>
+    <uuid>75e33a29-7699-43bf-9465-cb62d31d5e21</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, indíqueme en el plano dónde se encuentra el museo?</question>
+    <answer>Покажите, пожалуйста, на плане, где находится музей.</answer>
+    <comment></comment>
+    <uuid>594d9397-8123-46c5-a635-d5ccfe4c16b9</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, indíqueme en el plano dónde se encuentra la calle ...?</question>
+    <answer>Покажите, пожалуйста, на плане, где находится улица ....</answer>
+    <comment></comment>
+    <uuid>0b4db512-6c0d-404e-a3a2-0bd180210095</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, indíqueme en el plano dónde se encuentra la plaza ...?</question>
+    <answer>Покажите, пожалуйста, на плане, где находится площадь ....</answer>
+    <comment></comment>
+    <uuid>5539766f-2ea0-4996-a78b-301a9af5bdb0</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, indíqueme en el plano dónde nos encontramos?</question>
+    <answer>Покажите, пожалуйста, на плане, где мы находимся.</answer>
+    <comment></comment>
+    <uuid>b7a23fd4-87d9-4418-bdc8-d5d820aebca5</uuid>
+  </card>
+  <card>
+    <question>¿Eso está lejos de aquí?</question>
+    <answer>Это далеко отсюда?</answer>
+    <comment></comment>
+    <uuid>fbed0d56-c9da-4b3a-86ba-20fd75948ad1</uuid>
+  </card>
+  <card>
+    <question>¿Eso está cerca de aquí?</question>
+    <answer>Это близко отсюда?</answer>
+    <comment></comment>
+    <uuid>52441a30-88c6-428e-bf5d-3018e8a6e70a</uuid>
+  </card>
+  <card>
+    <question>¿En qué puedo ir hasta allí?</question>
+    <answer>На чём я могу туда доехать?</answer>
+    <comment></comment>
+    <uuid>b2115634-9f0b-4ddd-a150-c7a34bede2df</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, dígame cómo se llama esta calle?</question>
+    <answer>Скажите, пожалуйста, как называется эта улица?</answer>
+    <comment></comment>
+    <uuid>39c00a6c-dcac-4fad-a298-fab9d412f818</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, dígame cómo se llama esta plaza?</question>
+    <answer>Скажите, пожалуйста, как называется эта площадь?</answer>
+    <comment></comment>
+    <uuid>c7d84851-8d43-413c-86a6-423df70c8993</uuid>
+  </card>
+  <card>
+    <question>Por favor, escríbame la direccion.</question>
+    <answer>Напишите мне, пожалуйста, адрес.</answer>
+    <comment></comment>
+    <uuid>4221b7d9-ad46-432a-872d-beb65f19aeed</uuid>
+  </card>
+  <card>
+    <question>¿Cómo puedo ir a esta dirección?</question>
+    <answer>Как мне добраться по этому адресу?</answer>
+    <comment></comment>
+    <uuid>2f0ed5a9-28b4-41fe-a01e-c00c276d9ae9</uuid>
+  </card>
+  <card>
+    <question>¿Cómo podemos ir a esta dirección?</question>
+    <answer>Как нам добраться по этому адресу?</answer>
+    <comment></comment>
+    <uuid>97c1b2ae-9b64-4f6f-8d45-511775bb7052</uuid>
+  </card>
+  <card>
+    <question>¿Queda lejos a pie?</question>
+    <answer>Это далеко пешком?</answer>
+    <comment></comment>
+    <uuid>1b7f272a-bf16-402e-bc91-bb6cb8b403dd</uuid>
+  </card>
+  <card>
+    <question>¿Se encuentra en esta calle el museo ...?</question>
+    <answer>На этой улице находится музей ...?</answer>
+    <comment></comment>
+    <uuid>e9b14906-4e48-4fd2-a511-4a89aa8e970e</uuid>
+  </card>
+  <card>
+    <question>¿Se encuentra en esta calle la embajada ...?</question>
+    <answer>На этой улице находится посольство ...?</answer>
+    <comment></comment>
+    <uuid>63d439d6-73c2-41d1-be5f-2c5066914161</uuid>
+  </card>
+  <card>
+    <question>¿Se encuentra en esta calle el teatro ...?</question>
+    <answer>На этой улице находится театр ...?</answer>
+    <comment></comment>
+    <uuid>60b619e9-9878-45b2-87d1-a4fe32371d1c</uuid>
+  </card>
+  <card>
+    <question>¿A dónde lleva esta calle?</question>
+    <answer>Куда ведёт эта улица?</answer>
+    <comment></comment>
+    <uuid>1ed777a4-da61-489c-bb1f-956d1916889b</uuid>
+  </card>
+  <card>
+    <question>¿Qué edificio es este?</question>
+    <answer>Что это за здание?</answer>
+    <comment></comment>
+    <uuid>5299d0b1-c339-41ea-9a7c-db63c969c234</uuid>
+  </card>
+  <card>
+    <question>¿En qué siglo se construyó esta casa?</question>
+    <answer>В каком веке был построен этот дом?</answer>
+    <comment></comment>
+    <uuid>83025a07-4a3e-4c94-8199-d50454f54845</uuid>
+  </card>
+  <card>
+    <question>¿En qué siglo se construyó esta catedral?</question>
+    <answer>В каком веке был построен этот собор?</answer>
+    <comment></comment>
+    <uuid>cc716988-5c88-4e15-a0d3-00ceb27e1063</uuid>
+  </card>
+  <card>
+    <question>¿Qién fue el arquitecto?</question>
+    <answer>Кто (был) архитектор?</answer>
+    <comment></comment>
+    <uuid>2d20ba98-606d-4063-b48c-a80993640ac1</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3eb15dbd-ebbf-480d-972f-4795549c6d2a</uuid>
+  <title>В театре :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>performer</question>
+    <answer>исполнитель</answer>
+    <comment>[pərˈfɔːrmə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b74e363a-dfd1-4ac5-8290-e1a9183bcb63</uuid>
+    <examples>
+       <example>
+          <value>the performer of this part</value>
+          <translation>исполнитель этой роли</translation>
+          <comment>performer - исполнитель, this - этот, эта, part - роль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>magnificent</question>
+    <answer>великолепный</answer>
+    <comment>[mægˈnɪfɪsənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aac976b9-a93e-4105-b84d-1f563ee5c725</uuid>
+    <examples>
+       <example>
+          <value>magnificent staging</value>
+          <translation>великолепная постановка</translation>
+          <comment>magnificent - великолепный, staging - постановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>amphitheater</question>
+    <answer>амфитеатр</answer>
+    <comment>[ˈæmfɪˌθiːətər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6a25a76e-2179-43c1-b49c-0b69fa413b64</uuid>
+    <examples>
+       <example>
+          <value>two seats in the amphitheater</value>
+          <translation>два билета в амфитеатре</translation>
+          <comment>two - два, seat - место, amphitheater - амфитеатр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tonight</question>
+    <answer>сегодня вечером</answer>
+    <comment>[təˈnаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c585a6d-daee-44a8-ad18-e961214d8e53</uuid>
+    <examples>
+       <example>
+          <value>two tickets for tonight&apos;s performance</value>
+          <translation>два билета на сегодняшний вечерний спектакль</translation>
+          <comment>two - два, ticket - билет, tonight - сегодня вечером, performance - спектакль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>production</question>
+    <answer>производство</answer>
+    <comment>[prəˈdʌkʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e599a865-a5ce-4849-bac7-97f5d8b01e93</uuid>
+    <examples>
+       <example>
+          <value>a rather poor production</value>
+          <translation>довольно слабый спектакль</translation>
+          <comment>rather - довольно, poor - слабый, production - постановка (пьесы, кинокартины)</comment>
+       </example>
+       <example>
+          <value>joint production</value>
+          <translation>совместное производство</translation>
+          <comment>joint - совместный, production - производство</comment>
+       </example>
+       <example>
+          <value>the production costs</value>
+          <translation>себестоимость продукции</translation>
+          <comment>production - производство, costs - издержки</comment>
+       </example>
+       <example>
+          <value>the production process</value>
+          <translation>процесс производства</translation>
+          <comment>production - производство, process - процесс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>puppet</question>
+    <answer>кукольный (о театре)</answer>
+    <comment>[ˈpʌpɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b87fa885-80f4-460e-8a59-573000e85995</uuid>
+    <examples>
+       <example>
+          <value>to go to the Puppet Theater</value>
+          <translation>пойти в кукольный театр</translation>
+          <comment>to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dress</question>
+    <answer>платье</answer>
+    <comment>[dres]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4a895ce-0637-406a-8198-41ceaef5f96b</uuid>
+    <examples>
+       <example>
+          <value>two seats in the dress circle</value>
+          <translation>два билета в бельэтаже</translation>
+          <comment>two - два, seat - место, dress circle - бельэтаж</comment>
+       </example>
+       <example>
+          <value>an evening dress</value>
+          <translation>вечернее платье</translation>
+          <comment>evening - вечер, вечерний, dress - платье</comment>
+       </example>
+       <example>
+          <value>Is evening dress required?</value>
+          <translation>Надо ли приходить в вечернем платье?</translation>
+          <comment>required - необходимый, to require - требовать, evening - вечерний, dress - платье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>staging</question>
+    <answer>постановка</answer>
+    <comment>[ˈsteɪʤɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c4142236-b82e-4a4a-b097-aa90625770e0</uuid>
+    <examples>
+       <example>
+          <value>magnificent staging</value>
+          <translation>великолепная постановка</translation>
+          <comment>magnificent - великолепный, staging - постановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>rather</question>
+    <answer>довольно, весьма</answer>
+    <comment>[ˈræðər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3828f7ad-2930-4e66-bd5d-42d409ac891f</uuid>
+    <examples>
+       <example>
+          <value>a rather poor production</value>
+          <translation>довольно слабый спектакль</translation>
+          <comment>rather - довольно, poor - слабый, production - постановка (пьесы, кинокартины)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>orchestra</question>
+    <answer>партер (в театре)</answer>
+    <comment>[ˈɔːrkɪstrə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>739a7497-93b7-491d-abe4-12de224b080c</uuid>
+    <examples>
+       <example>
+          <value>two seats in the orchestra</value>
+          <translation>два билета в партере</translation>
+          <comment>two - два, seat - место, orchestra - партер в театре</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>young</question>
+    <answer>молодой</answer>
+    <comment>[jʌŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49a63d5e-467c-49d2-a791-465bf7df5f1a</uuid>
+    <examples>
+       <example>
+          <value>to go to the Young Spectator Theater</value>
+          <translation>пойти в театр юного зрителя</translation>
+          <comment>to go - идти, the Young Spectator Theater - театр юного зрителя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>actor</question>
+    <answer>актер</answer>
+    <comment>[ˈæktər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fba18e30-d2e9-423b-a38b-f52b1c151dc3</uuid>
+    <examples>
+       <example>
+          <value>this actor&apos;s name</value>
+          <translation>имя этого актера</translation>
+          <comment>this - этот, эта, actor - актер, name - имя</comment>
+       </example>
+       <example>
+          <value>a perfect performance of actors</value>
+          <translation>прекрасная игра актеров</translation>
+          <comment>perfect - отличный, performance - исполнение, actor - актер</comment>
+       </example>
+       <example>
+          <value>to become an actor</value>
+          <translation>стать актером</translation>
+          <comment>to become - становиться, actor - актер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>program</question>
+    <answer>программа</answer>
+    <comment>[ˈproʊgræm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a8746bab-cd7f-4ed5-be3f-0fd9e703f38d</uuid>
+    <examples>
+       <example>
+          <value>to buy a program</value>
+          <translation>купить программку</translation>
+          <comment>to buy - покупать, program - программка</comment>
+       </example>
+       <example>
+          <value>to give a program</value>
+          <translation>дать программку</translation>
+          <comment>to give - дать, program - программка</comment>
+       </example>
+       <example>
+          <value>to be on the program</value>
+          <translation>быть в программе</translation>
+          <comment>program - программа</comment>
+       </example>
+       <example>
+          <value>the program of the visit</value>
+          <translation>программа визита</translation>
+          <comment>program - программа, visit - визит</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>performance</question>
+    <answer>спектакль, представление</answer>
+    <comment>[pərˈfɔːrməns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>50681608-4732-4201-b689-c39dd31a4b37</uuid>
+    <examples>
+       <example>
+          <value>the evening performance</value>
+          <translation>вечерний спектакль</translation>
+          <comment>evening - вечерний, performance - спектакль, представление</comment>
+       </example>
+       <example>
+          <value>two tickets for tonight&apos;s performance</value>
+          <translation>два билета на сегодняшний вечерний спектакль</translation>
+          <comment>two - два, ticket - билет, tonight - сегодня вечером, performance - спектакль</comment>
+       </example>
+       <example>
+          <value>a perfect performance of actors</value>
+          <translation>прекрасная игра актеров</translation>
+          <comment>perfect - отличный, performance - исполнение, actor - актер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>circle</question>
+    <answer>круг</answer>
+    <comment>[ˈsɜːrkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ea7d8b6-2172-444f-869d-5bc48609c836</uuid>
+    <examples>
+       <example>
+          <value>two seats in the dress circle</value>
+          <translation>два билета в бельэтаже</translation>
+          <comment>two - два, seat - место, dress circle - бельэтаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>play</question>
+    <answer>играть, игра</answer>
+    <comment>[pleɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa8e6348-52b3-43bf-9d1b-acc5738e3ad2</uuid>
+    <examples>
+       <example>
+          <value>a three act play</value>
+          <translation>пьеса на три акта</translation>
+          <comment>three - три, act - акт, play - пьеса</comment>
+       </example>
+       <example>
+          <value>in the play</value>
+          <translation>в этом спектакле</translation>
+          <comment>play - спектакль</comment>
+       </example>
+       <example>
+          <value>to like the play</value>
+          <translation>понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>to like the play very much</value>
+          <translation>очень понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>to play the main part</value>
+          <translation>играть главную роль</translation>
+          <comment>to play - играть, main - главный, part - роль</comment>
+       </example>
+       <example>
+          <value>to play today</value>
+          <translation>играть сегодня</translation>
+          <comment>to play - играть, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to play billiards</value>
+          <translation>играть на бильярде</translation>
+          <comment>to play - играть, billiards - бильярд</comment>
+       </example>
+       <example>
+          <value>to play chess</value>
+          <translation>играть в шахматы</translation>
+          <comment>to play - играть, chess - шахматы</comment>
+       </example>
+       <example>
+          <value>to play golf</value>
+          <translation>играть в гольф</translation>
+          <comment>to play - играть, golf - гольф</comment>
+       </example>
+       <example>
+          <value>to play tennis</value>
+          <translation>играть в теннис</translation>
+          <comment>to play - играть, tennis - теннис</comment>
+       </example>
+       <example>
+          <value>to play the guitar</value>
+          <translation>играть на гитаре</translation>
+          <comment>to play - играть, guitar - гитара</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sold</question>
+    <answer>проданный</answer>
+    <comment>[soʊld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ade94e26-88f1-47dc-ab74-6a82212da741</uuid>
+    <examples>
+       <example>
+          <value>The house is sold out.</value>
+          <translation>Все билеты проданы.</translation>
+          <comment>house - дом, театр, sold out - распроданный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>singer</question>
+    <answer>певец</answer>
+    <comment>[ˈsɪŋər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dc4a4a43-cbbc-472a-b2f7-4b2f6805ef46</uuid>
+    <examples>
+       <example>
+          <value>this singer&apos;s name</value>
+          <translation>имя этого певца</translation>
+          <comment>this - этот, эта, singer - певец, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>excellent</question>
+    <answer>отличный</answer>
+    <comment>[ˈeksələnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e44ff9a-2641-4383-b543-eaba635661a4</uuid>
+    <examples>
+       <example>
+          <value>to have an excellent cast</value>
+          <translation>иметь замечательный актерский состав</translation>
+          <comment>to have - иметь, excellent - отличный, cast - актерский состав</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pair</question>
+    <answer>пара</answer>
+    <comment>[per]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>637aa2b4-637d-48d2-94c9-7371f5906713</uuid>
+    <examples>
+       <example>
+          <value>to get a pair of opera glasses</value>
+          <translation>взять бинокль</translation>
+          <comment>to get - взять, достать, a pair - пара, opera - опера, glass - стекло</comment>
+       </example>
+       <example>
+          <value>a pair of manicure scissors</value>
+          <translation>маникюрные ножницы</translation>
+          <comment>pair - пара, manicure - маникюр, scissors - ножницы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sing</question>
+    <answer>петь</answer>
+    <comment>[sɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31b231e6-2c0c-4ea5-b0fb-a00656c397d5</uuid>
+    <examples>
+       <example>
+          <value>to sing today</value>
+          <translation>петь сегодня</translation>
+          <comment>to sing - петь, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>extremely</question>
+    <answer>крайне, чрезвычайно</answer>
+    <comment>[ɪkˈstriːmliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>83a2f312-938e-4577-a656-e0d9c51abd34</uuid>
+    <examples>
+       <example>
+          <value>to be extremely good</value>
+          <translation>быть чрезвычайно хорошим</translation>
+          <comment>extremely - крайне, очень, good - хороший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gallery</question>
+    <answer>галерка</answer>
+    <comment>[ˈgæləriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ad59f1bd-49b7-48cb-a560-c6098599aaa9</uuid>
+    <examples>
+       <example>
+          <value>two seats in the gallery</value>
+          <translation>два билета на галерке</translation>
+          <comment>two - два, seat - место, gallery - галерка в театре</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>box</question>
+    <answer>ложа (в театре)</answer>
+    <comment>[bɑːks]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>74bbea98-7ef4-4876-b00b-8d35ce1d7ed1</uuid>
+    <examples>
+       <example>
+          <value>to get to the boxes</value>
+          <translation>пройти в ложу</translation>
+          <comment>to get (to) - добраться (до), box - ложа в театре</comment>
+       </example>
+       <example>
+          <value>two seats in the box</value>
+          <translation>два билета в ложе</translation>
+          <comment>two - два, seat - место, box - ложа в театре</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>operetta</question>
+    <answer>оперетта</answer>
+    <comment>[ˌɑːpəˈretə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aad8fafd-3836-4616-82a3-fc0832e9005a</uuid>
+    <examples>
+       <example>
+          <value>to go to the Operetta House</value>
+          <translation>пойти в театр оперетты</translation>
+          <comment>to go - идти, the Operetta House - театр оперетты</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>opera</question>
+    <answer>опера</answer>
+    <comment>[ˈɑːpərə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b1f8096-15cf-4f84-83cd-8a524465672f</uuid>
+    <examples>
+       <example>
+          <value>to get a pair of opera glasses</value>
+          <translation>взять бинокль</translation>
+          <comment>to get - взять, достать, a pair - пара, opera - опера, glass - стекло</comment>
+       </example>
+       <example>
+          <value>to go to the Opera House</value>
+          <translation>пойти в оперный театр</translation>
+          <comment>to go - идти, the Opera House - оперный театр</comment>
+       </example>
+       <example>
+          <value>to hire opera glasses</value>
+          <translation>взять напрокат бинокль</translation>
+          <comment>to hire - взять напрокат, opera glasses - бинокль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>drama</question>
+    <answer>драма</answer>
+    <comment>[ˈdrɑːmə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91e92f96-5629-4cec-b1f8-49a368287aa4</uuid>
+    <examples>
+       <example>
+          <value>to go to the Drama Theater</value>
+          <translation>пойти в драматический театр</translation>
+          <comment>to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cast</question>
+    <answer>актерский состав</answer>
+    <comment>[kæst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>915ea208-dd64-4e5c-b6e9-61617ddc8f0b</uuid>
+    <examples>
+       <example>
+          <value>to have an excellent cast</value>
+          <translation>иметь замечательный актерский состав</translation>
+          <comment>to have - иметь, excellent - отличный, cast - актерский состав</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stall</question>
+    <answer>партер (в театре)</answer>
+    <comment>[stɔːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>351161ca-e58c-4486-ace2-8cfa58660911</uuid>
+    <examples>
+       <example>
+          <value>two tickets in the stalls</value>
+          <translation>два билета в партер</translation>
+          <comment>two - два, ticket - билет, the stalls - партер в театре</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>spectator</question>
+    <answer>зритель</answer>
+    <comment>[ˈspekteɪtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b06effec-b308-4d91-b0c4-1519a47193ec</uuid>
+    <examples>
+       <example>
+          <value>to go to the Young Spectator Theater</value>
+          <translation>пойти в театр юного зрителя</translation>
+          <comment>to go - идти, the Young Spectator Theater - театр юного зрителя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>act</question>
+    <answer>акт, действие</answer>
+    <comment>[ækt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c20c6ebb-872e-40d4-8d07-46967327d001</uuid>
+    <examples>
+       <example>
+          <value>a three act play</value>
+          <translation>пьеса на три акта</translation>
+          <comment>three - три, act - акт, play - пьеса</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hire</question>
+    <answer>брать напрокат</answer>
+    <comment>[hаɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2ecd9932-6617-433d-a5da-491af5a95129</uuid>
+    <examples>
+       <example>
+          <value>to hire opera glasses</value>
+          <translation>взять напрокат бинокль</translation>
+          <comment>to hire - взять напрокат, opera glasses - бинокль</comment>
+       </example>
+       <example>
+          <value>to hire a bicycle</value>
+          <translation>взять напрокат велосипед</translation>
+          <comment>to hire - взять напрокат, bicycle - велосипед</comment>
+       </example>
+       <example>
+          <value>to hire golf clubs</value>
+          <translation>взять напрокат клюшки для гольфа</translation>
+          <comment>to hire - взять напрокат, golf - гольф, club - клюшка, бита</comment>
+       </example>
+       <example>
+          <value>to hire a broker</value>
+          <translation>нанять брокера</translation>
+          <comment>to hire - нанимать, broker - брокер</comment>
+       </example>
+       <example>
+          <value>to hire a programmer</value>
+          <translation>нанять программиста</translation>
+          <comment>to hire - нанимать, programmer - программист</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

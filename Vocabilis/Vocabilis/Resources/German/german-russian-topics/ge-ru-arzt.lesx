@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>22c56a33-3cbe-42ab-b366-37427df77c67</uuid>
+  <title>У врача</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Atmen Sie tief.</question>
+    <answer>Дышите глубоко.</answer>
+    <comment></comment>
+    <uuid>f81455cf-98ea-468f-920a-a7b27b7f42fc</uuid>
+  </card>
+  <card>
+    <question>Bitte nehmen Sie im Wartezimmer Platz.</question>
+    <answer>Пожалуйста, подождите в приемной.</answer>
+    <comment></comment>
+    <uuid>fee41508-6814-4aae-b351-d71e748e22af</uuid>
+  </card>
+  <card>
+    <question>Bitte warten Sie hier.</question>
+    <answer>Пожалуйста, подождите здесь.</answer>
+    <comment></comment>
+    <uuid>df11d922-8932-4e94-a70d-e1d0c7146c66</uuid>
+  </card>
+  <card>
+    <question>Bleiben Sie einige Tage im Bett.</question>
+    <answer>Полежите несколько дней в постели.</answer>
+    <comment></comment>
+    <uuid>9cc96e7a-7c0e-43d4-93aa-de740f799f43</uuid>
+  </card>
+  <card>
+    <question>Brauchen Sie ein Attest?</question>
+    <answer>Вам нужно медицинское заключение?</answer>
+    <comment></comment>
+    <uuid>68d0ddad-97aa-4233-971c-e28ad575d05e</uuid>
+  </card>
+  <card>
+    <question>das Labor</question>
+    <answer>лаборатория</answer>
+    <comment></comment>
+    <uuid>a0b68d5a-8e74-4478-abaf-2f8c703ff1bf</uuid>
+  </card>
+  <card>
+    <question>das Sprechzimmer</question>
+    <answer>врачебный кабинет</answer>
+    <comment></comment>
+    <uuid>fafb9205-ec82-4c41-8fa4-adb07b15d6e5</uuid>
+  </card>
+  <card>
+    <question>das Wartezimmer</question>
+    <answer>приёмная</answer>
+    <comment></comment>
+    <uuid>7a090eb5-0d5d-4bfd-ac72-c246e8fc1932</uuid>
+  </card>
+  <card>
+    <question>der Arzt</question>
+    <answer>врач</answer>
+    <comment></comment>
+    <uuid>a7d81dc8-e026-4213-8108-87730ddd88f9</uuid>
+  </card>
+  <card>
+    <question>der Augenarzt</question>
+    <answer>глазной врач</answer>
+    <comment></comment>
+    <uuid>c589602d-764b-425c-a5b8-fca435fb6c73</uuid>
+  </card>
+  <card>
+    <question>der Facharzt</question>
+    <answer>врач-специалист</answer>
+    <comment></comment>
+    <uuid>62ed8523-4e75-4b2c-8d0b-44a12e080f87</uuid>
+  </card>
+  <card>
+    <question>der Frauenarzt</question>
+    <answer>гинеколог</answer>
+    <comment></comment>
+    <uuid>5acb5a3a-5513-416c-88c4-74e04515a37c</uuid>
+  </card>
+  <card>
+    <question>der Hals-Nasen-Ohrenarzt</question>
+    <answer>отоларинголог</answer>
+    <comment></comment>
+    <uuid>385c1541-0ec6-4343-ad3b-fb767a4aae6a</uuid>
+  </card>
+  <card>
+    <question>der Hautarzt</question>
+    <answer>дерматолог</answer>
+    <comment></comment>
+    <uuid>51e18cbe-42cd-4c8c-9d34-0501cf2b6500</uuid>
+  </card>
+  <card>
+    <question>der Internist</question>
+    <answer>терапевт</answer>
+    <comment></comment>
+    <uuid>01213c9c-6b49-4924-9623-3ac955e63a9b</uuid>
+  </card>
+  <card>
+    <question>der Kinderarzt</question>
+    <answer>детский врач</answer>
+    <comment></comment>
+    <uuid>14b6ab56-4dbb-4831-969c-a03be94fb116</uuid>
+  </card>
+  <card>
+    <question>der Krankenschein</question>
+    <answer>больничный листок, бюллетень</answer>
+    <comment></comment>
+    <uuid>1e1a83f3-efbb-46ff-ab92-ad755b67f541</uuid>
+  </card>
+  <card>
+    <question>Der Nächste, bitte!</question>
+    <answer>Следующий, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>59a3d2d5-3008-49e3-9d71-5e6fbc1d27b8</uuid>
+  </card>
+  <card>
+    <question>der Patient</question>
+    <answer>пациент</answer>
+    <comment></comment>
+    <uuid>618c5c67-0810-4250-a084-48b42b54948d</uuid>
+  </card>
+  <card>
+    <question>der Termin</question>
+    <answer>час приёма</answer>
+    <comment></comment>
+    <uuid>dc7981d9-d939-41ca-bbc2-6a7dcb83e02c</uuid>
+  </card>
+  <card>
+    <question>Der Zahn braucht eine neue Füllung.</question>
+    <answer>Нужно поставить новую пломбу.</answer>
+    <comment></comment>
+    <uuid>d85df60b-084a-436a-bbc4-7cc7193c9f12</uuid>
+  </card>
+  <card>
+    <question>der Zahnarzt</question>
+    <answer>зубной врач</answer>
+    <comment></comment>
+    <uuid>c883f6b8-e020-4f45-8283-040d07aff16b</uuid>
+  </card>
+  <card>
+    <question>die Brille</question>
+    <answer>очки</answer>
+    <comment></comment>
+    <uuid>e7938f19-b9e4-4da5-9724-f5843f3a16a6</uuid>
+  </card>
+  <card>
+    <question>die Füllung</question>
+    <answer>пломба</answer>
+    <comment></comment>
+    <uuid>7c7b8e9b-0d1f-49e5-b951-99b64150957c</uuid>
+  </card>
+  <card>
+    <question>die Krankenkasse</question>
+    <answer>больничная касса</answer>
+    <comment></comment>
+    <uuid>1acd7048-7d83-4687-a934-4c6893a70e42</uuid>
+  </card>
+  <card>
+    <question>die Schmerzen</question>
+    <answer>боли</answer>
+    <comment></comment>
+    <uuid>45a196f0-23a4-49d7-94dd-ce3a4ef36911</uuid>
+  </card>
+  <card>
+    <question>die Sprechstunde</question>
+    <answer>приёмное время</answer>
+    <comment></comment>
+    <uuid>2d05a2e5-2767-48c5-983b-7d12855db31a</uuid>
+  </card>
+  <card>
+    <question>die Spritze</question>
+    <answer>укол</answer>
+    <comment></comment>
+    <uuid>6afc7c2f-c797-40ca-8f66-cc11484ae28f</uuid>
+  </card>
+  <card>
+    <question>die Untersuchung</question>
+    <answer>осмотр</answer>
+    <comment></comment>
+    <uuid>428726d9-5b20-40b1-9a65-6f16b7eafb2e</uuid>
+  </card>
+  <card>
+    <question>die Versichertenkarte</question>
+    <answer>страховая карточка</answer>
+    <comment></comment>
+    <uuid>b6aed2e6-b856-4dd1-88a2-b6c6c40ed619</uuid>
+  </card>
+  <card>
+    <question>die Zahnprothese</question>
+    <answer>зубной протез</answer>
+    <comment></comment>
+    <uuid>816c5066-b39d-4a39-bdce-fbd343be7606</uuid>
+  </card>
+  <card>
+    <question>Dieser Zahn tut weh.</question>
+    <answer>Этот зуб болит.</answer>
+    <comment></comment>
+    <uuid>c07a98b5-2b68-4fb2-89d7-d3a9a82da302</uuid>
+  </card>
+  <card>
+    <question>Guten Tag, Herr Doktor.</question>
+    <answer>Здравствуйте, г-н доктор.</answer>
+    <comment></comment>
+    <uuid>bb7b6fd2-1876-4373-9e42-308acbd6c6a1</uuid>
+  </card>
+  <card>
+    <question>Hier ist Ihr Rezept.</question>
+    <answer>Вот вам рецепт.</answer>
+    <comment></comment>
+    <uuid>a5b7ee0c-a869-463c-ade4-6c41d3dacb73</uuid>
+  </card>
+  <card>
+    <question>Hier tut es weh?</question>
+    <answer>Здесь болит?</answer>
+    <comment></comment>
+    <uuid>a1661018-bfa7-4c70-86bb-990be7794614</uuid>
+  </card>
+  <card>
+    <question>Ich bin allergisch gegen</question>
+    <answer>У меня аллергия на ...</answer>
+    <comment></comment>
+    <uuid>2ea929cc-3449-40d1-be76-5718ba7e2434</uuid>
+  </card>
+  <card>
+    <question>Ich bin Diabetiker.</question>
+    <answer>Я диабетик.</answer>
+    <comment></comment>
+    <uuid>aa64258d-f64f-4a2a-a345-f48ab20aa3d8</uuid>
+  </card>
+  <card>
+    <question>Ich bin privat versichert.</question>
+    <answer>Я состою в частной страховой компании.</answer>
+    <comment></comment>
+    <uuid>e93e2bd8-a618-4182-be4a-498a28825b0e</uuid>
+  </card>
+  <card>
+    <question>Ich bin schwanger.</question>
+    <answer>Я беременна.</answer>
+    <comment></comment>
+    <uuid>56993eaa-7304-4327-a4d1-9016f49e0ea7</uuid>
+  </card>
+  <card>
+    <question>Ich bin versichert.</question>
+    <answer>Я застрахован.</answer>
+    <comment></comment>
+    <uuid>186038d5-0ccb-4c27-9be9-a59859cd4f63</uuid>
+  </card>
+  <card>
+    <question>Ich brauche eine neue Brille.</question>
+    <answer>Мне нужны новые очки.</answer>
+    <comment></comment>
+    <uuid>82bb0b7c-7cef-4505-9f4a-11c0ebe9ac48</uuid>
+  </card>
+  <card>
+    <question>Ich gebe Ihnen eine Spritze.</question>
+    <answer>Я сделаю вам укол.</answer>
+    <comment></comment>
+    <uuid>d3e7c7bd-8e7d-40d9-80c5-ed1793cb52ed</uuid>
+  </card>
+  <card>
+    <question>Ich habe Fieber.</question>
+    <answer>У меня температура.</answer>
+    <comment></comment>
+    <uuid>cc3f8dc0-651a-40da-864d-077879e8bf69</uuid>
+  </card>
+  <card>
+    <question>Ich habe mich verletzt.</question>
+    <answer>Я поранился.</answer>
+    <comment></comment>
+    <uuid>de9311dc-9368-4bfb-bc35-5f7a6bad9430</uuid>
+  </card>
+  <card>
+    <question>Ich habe Schmerzen.</question>
+    <answer>У меня боли.</answer>
+    <comment></comment>
+    <uuid>2aa5fca8-830f-4c2d-93d2-467dfe21734a</uuid>
+  </card>
+  <card>
+    <question>Ich habe Zahnschmerzen.</question>
+    <answer>У меня болят зубы.</answer>
+    <comment></comment>
+    <uuid>746d94d7-2fde-469d-82a2-7c1bbb4d1ca2</uuid>
+  </card>
+  <card>
+    <question>Ich muß den Zahn ziehen.</question>
+    <answer>Нужно вырвать зуб.</answer>
+    <comment></comment>
+    <uuid>ae7dca4c-59bf-42da-83a0-6efa0a9d8571</uuid>
+  </card>
+  <card>
+    <question>Ich möchte einen Termin vereinbaren.</question>
+    <answer>Я хотел бы записаться на приём к врачу.</answer>
+    <comment></comment>
+    <uuid>5a0eb3c4-41cf-4284-80cc-866d2e6c75e2</uuid>
+  </card>
+  <card>
+    <question>Ich werde Sie überweisen.</question>
+    <answer>Я вам дам направление.</answer>
+    <comment></comment>
+    <uuid>0d9a8ca8-197f-41a5-b5f3-8196aaf67cd5</uuid>
+  </card>
+  <card>
+    <question>Ihre Versichertenkarte, bitte.</question>
+    <answer>Вашу страховую карточку, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>05c7adba-9a53-4c85-b15b-b2d227a82b80</uuid>
+  </card>
+  <card>
+    <question>Ist es etwas Ernstes?</question>
+    <answer>Что-то серьезное?</answer>
+    <comment></comment>
+    <uuid>57dbbbe5-51b0-452b-9124-5240c23d7389</uuid>
+  </card>
+  <card>
+    <question>Kennen Sie hier einen guten Augenarzt?</question>
+    <answer>Вы знаете здесь хорошего глазного врача?</answer>
+    <comment></comment>
+    <uuid>d51d9bda-104a-44f4-a3ca-97c2f7563e3e</uuid>
+  </card>
+  <card>
+    <question>Kommen Sie am nächsten Dienstag um 11 Uhr.</question>
+    <answer>Приходите в следующий вторник в 11 часов.</answer>
+    <comment></comment>
+    <uuid>1ce116bb-1927-4f4f-af28-32e785529d20</uuid>
+  </card>
+  <card>
+    <question>Legen Sie sich hier hin.</question>
+    <answer>Ложитесь здесь.</answer>
+    <comment></comment>
+    <uuid>dcc03c41-adf2-439f-804e-b03a3a328657</uuid>
+  </card>
+  <card>
+    <question>Machen Sie den Arm frei.</question>
+    <answer>Засучите рукав.</answer>
+    <comment></comment>
+    <uuid>7cab1cb0-4597-4c50-8ca0-333c3a70aa76</uuid>
+  </card>
+  <card>
+    <question>Machen Sie den Oberkörper frei.</question>
+    <answer>Разденьтесь до пояса.</answer>
+    <comment></comment>
+    <uuid>ccf06ce4-88e1-45db-865c-e5660ff85997</uuid>
+  </card>
+  <card>
+    <question>Sie müssen ins Krankenhaus.</question>
+    <answer>Вам нужно лечь в больницу.</answer>
+    <comment></comment>
+    <uuid>b307bb66-284a-47ca-b0ce-56377a670417</uuid>
+  </card>
+  <card>
+    <question>Tut es hier weh?</question>
+    <answer>Здесь больно?</answer>
+    <comment></comment>
+    <uuid>539658fa-b775-427c-8b4d-500e16a22f5a</uuid>
+  </card>
+  <card>
+    <question>Was haben Sie?</question>
+    <answer>На что Вы жалуетесь?</answer>
+    <comment></comment>
+    <uuid>71840403-d15b-4b12-9e94-a2c1353d358d</uuid>
+  </card>
+  <card>
+    <question>Was tut Ihnen weh?</question>
+    <answer>Что у вас болит?</answer>
+    <comment></comment>
+    <uuid>4bb6f89b-3021-4878-af92-43ca958c4339</uuid>
+  </card>
+  <card>
+    <question>Wo ist seine Praxis?</question>
+    <answer>Где он принимает? (врач)</answer>
+    <comment></comment>
+    <uuid>b6304caa-f197-415e-a81c-b2d442c3344c</uuid>
+  </card>
+  <card>
+    <question>Öffnen Sie den Mund.</question>
+    <answer>Откройте рот.</answer>
+    <comment></comment>
+    <uuid>16d3407f-76cc-4dc5-a260-5d9966bbbcd9</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>331bd425-47d9-4c80-912e-ec6cb04697e8</uuid>
+  <title>Безработица</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>arbeitslos</question>
+    <answer>безработный (= erwerbslos)</answer>
+    <comment></comment>
+    <uuid>2bc89f2b-6fe4-4e34-8f8c-65cc05eefe4f</uuid>
+  </card>
+  <card>
+    <question>erwerbslos</question>
+    <answer>безработный (= arbeitslos)</answer>
+    <comment></comment>
+    <uuid>b6a6ae2e-6f98-4dd4-990b-98fe729cf0f3</uuid>
+  </card>
+  <card>
+    <question>das Sozialamt</question>
+    <answer>отдел социального обеспечения</answer>
+    <comment></comment>
+    <uuid>37385652-9c4b-496a-bcd8-cd7240c6152d</uuid>
+  </card>
+  <card>
+    <question>der Arbeitslose</question>
+    <answer>безработный мужчина</answer>
+    <comment></comment>
+    <uuid>8c2d09b9-14c7-4540-ae3b-1c4f134fc2df</uuid>
+  </card>
+  <card>
+    <question>die Arbeitslose</question>
+    <answer>безработная женщина</answer>
+    <comment></comment>
+    <uuid>2b19aaf3-20e1-48ce-94d2-d407dedf8886</uuid>
+  </card>
+  <card>
+    <question>die Arbeitslosenhilfe</question>
+    <answer>выплаты по безработице (лицам, потерявшим право на пособие по безработице по истечению определенного срока)</answer>
+    <comment></comment>
+    <uuid>f0d254a5-4508-4d5e-a475-ee2e58f00d74</uuid>
+  </card>
+  <card>
+    <question>die Arbeitslosenunterstützung</question>
+    <answer>пособие по безработице</answer>
+    <comment></comment>
+    <uuid>a47ad9be-020e-41d3-b66a-622cb54ff614</uuid>
+  </card>
+  <card>
+    <question>das Arbeitslosengeld</question>
+    <answer>пособие по безработице в рамках страхования по безработице (выплачивается лицам, находящимся в процессе поиска рабочего места)</answer>
+    <comment></comment>
+    <uuid>369cc920-484d-4c65-b031-676f93d226b8</uuid>
+  </card>
+  <card>
+    <question>die Arbeitslosigkeit</question>
+    <answer>безработица</answer>
+    <comment></comment>
+    <uuid>e8ebb43d-2c77-4a3a-9c4f-13da34c2ec31</uuid>
+  </card>
+  <card>
+    <question>die Sozialhilfe</question>
+    <answer>социальная помощь</answer>
+    <comment></comment>
+    <uuid>9d2f5231-3889-4be3-a147-d824c5392025</uuid>
+  </card>
+  <card>
+    <question>die Kurzarbeit</question>
+    <answer>частичная безработица</answer>
+    <comment></comment>
+    <uuid>4acd4aed-ab09-4b93-90ea-1ca11273d7c9</uuid>
+  </card>
+  <card>
+    <question>Ich bin arbeitslos geworden.</question>
+    <answer>Я потерял работу.</answer>
+    <comment></comment>
+    <uuid>3072e935-f409-42d5-9eb9-2d42449cb82e</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Arbeitslosenunterstützung beantragen.</question>
+    <answer>Я хотел бы подать заявление на пособие по безработице.</answer>
+    <comment></comment>
+    <uuid>4222772d-6d67-4588-ba65-960b115a2224</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Sozialhilfe beantragen.</question>
+    <answer>Я хотел бы подать заявление на социальную помощь.</answer>
+    <comment></comment>
+    <uuid>6ae6483d-8e01-4137-9fdd-c4ff29e62b52</uuid>
+  </card>
+  <card>
+    <question>sich beim Arbeitsamt arbeitslos melden</question>
+    <answer>встать на учет в бюро по трудоустройству</answer>
+    <comment></comment>
+    <uuid>5cc3c652-823a-4091-bc7f-b977e864a227</uuid>
+  </card>
+</cards>
+</stack>

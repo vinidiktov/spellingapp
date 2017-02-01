@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>182e5b37-5bbe-48b3-852a-d5c5dc53e79b</uuid>
+  <title>Биография</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Alles Gute zum Geburtstag!</question>
+    <answer>Всего наилучшего в день рождения!</answer>
+    <comment></comment>
+    <uuid>14d40ea4-3175-4585-97c2-268250b953f0</uuid>
+  </card>
+  <card>
+    <question>das Baby</question>
+    <answer>младенец</answer>
+    <comment></comment>
+    <uuid>5beae83c-a584-44f6-9ff6-04687cb272c8</uuid>
+  </card>
+  <card>
+    <question>das Geburtstagsgeschenk</question>
+    <answer>подарок ко дню рождения</answer>
+    <comment></comment>
+    <uuid>0ca0c4e4-3885-43c5-b7b1-7128ae124381</uuid>
+  </card>
+  <card>
+    <question>das Kind</question>
+    <answer>ребёнок</answer>
+    <comment></comment>
+    <uuid>2ff14b99-62d2-42cf-a39e-28da2221024f</uuid>
+  </card>
+  <card>
+    <question>das Mädchen</question>
+    <answer>девочка</answer>
+    <comment></comment>
+    <uuid>0b01465f-8ae5-417f-b279-c7ee6e935659</uuid>
+  </card>
+  <card>
+    <question>der Erwachsene</question>
+    <answer>взрослый (сущ.)</answer>
+    <comment></comment>
+    <uuid>c926a7a5-93f6-4598-8f3a-70edc1f24483</uuid>
+  </card>
+  <card>
+    <question>der Friedhof</question>
+    <answer>кладбище</answer>
+    <comment></comment>
+    <uuid>c0de84b9-9ce8-47b6-91b8-ec8d040b0624</uuid>
+  </card>
+  <card>
+    <question>der Geburtstag</question>
+    <answer>день рождения</answer>
+    <comment></comment>
+    <uuid>12892ea3-6f29-451a-b493-bd37deb94846</uuid>
+  </card>
+  <card>
+    <question>der Jugendliche</question>
+    <answer>подросток</answer>
+    <comment></comment>
+    <uuid>61eb94bb-9a69-496c-8ed6-dabcff4d3ce2</uuid>
+  </card>
+  <card>
+    <question>der Junge</question>
+    <answer>мальчик</answer>
+    <comment></comment>
+    <uuid>c77d789f-5245-432b-bc46-a314976280e1</uuid>
+  </card>
+  <card>
+    <question>der Tod</question>
+    <answer>смерть</answer>
+    <comment></comment>
+    <uuid>de1759f6-3aa9-40b7-a072-cb6f127954aa</uuid>
+  </card>
+  <card>
+    <question>die Beerdigung</question>
+    <answer>погребение</answer>
+    <comment></comment>
+    <uuid>c3db19bd-9385-4ac2-9deb-71e3adfeaec4</uuid>
+  </card>
+  <card>
+    <question>die Geburt</question>
+    <answer>рождение</answer>
+    <comment></comment>
+    <uuid>bbd9c089-1a85-47b6-a493-8e0d0985f7f3</uuid>
+  </card>
+  <card>
+    <question>die Hochzeit</question>
+    <answer>свадьба</answer>
+    <comment></comment>
+    <uuid>a65f74c3-63cd-4864-8813-a414378aa077</uuid>
+  </card>
+  <card>
+    <question>die Scheidung</question>
+    <answer>развод</answer>
+    <comment></comment>
+    <uuid>dbfe1e66-8c3f-4e42-9dfe-449ea94bfec4</uuid>
+  </card>
+  <card>
+    <question>die Trauerfeier</question>
+    <answer>панихида</answer>
+    <comment></comment>
+    <uuid>0714f092-bd15-421c-a5a0-0f4d6697cda9</uuid>
+  </card>
+  <card>
+    <question>Herzliches Beileid!</question>
+    <answer>Примите мои искренние соболезнования.</answer>
+    <comment></comment>
+    <uuid>37b6ee59-c8d3-414e-a455-f0ca9f9e14b8</uuid>
+  </card>
+  <card>
+    <question>der Jüngling</question>
+    <answer>юноша</answer>
+    <comment></comment>
+    <uuid>7d2062f5-c9f4-4fbb-92cb-70fd008bcbe6</uuid>
+  </card>
+  <card>
+    <question>die Frau</question>
+    <answer>женщина</answer>
+    <comment></comment>
+    <uuid>010fd7f9-d266-4db3-b4be-f0f60b397e35</uuid>
+  </card>
+  <card>
+    <question>der Mann</question>
+    <answer>мужчина</answer>
+    <comment></comment>
+    <uuid>a8d8289a-d8b0-4490-b780-0af214f29f59</uuid>
+  </card>
+</cards>
+</stack>

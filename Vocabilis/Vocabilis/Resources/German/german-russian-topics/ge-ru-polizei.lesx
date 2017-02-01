@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>9ad7b861-c40b-4f24-9cda-bb311100e183</uuid>
+  <title>Полиция</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Bitte, steigen Sie aus!</question>
+    <answer>Пожалуйста, выйдите из машины!</answer>
+    <comment></comment>
+    <uuid>20ef27a1-a30a-45e3-8bd6-90ccf6cd4534</uuid>
+  </card>
+  <card>
+    <question>das Polizeirevier</question>
+    <answer>полицейский участок</answer>
+    <comment></comment>
+    <uuid>c1d10d14-b467-4587-a731-0661dc553f8c</uuid>
+  </card>
+  <card>
+    <question>das Radar</question>
+    <answer>радар</answer>
+    <comment></comment>
+    <uuid>d412a38e-2ff8-45d5-9882-ed691154da9f</uuid>
+  </card>
+  <card>
+    <question>das Rauschgift</question>
+    <answer>наркотик</answer>
+    <comment></comment>
+    <uuid>06cbd396-06b1-4a5b-ae68-d8efe63767ff</uuid>
+  </card>
+  <card>
+    <question>der Diebstahl</question>
+    <answer>кража/воровство</answer>
+    <comment></comment>
+    <uuid>78c456b8-ede8-4411-8755-1e5bc31defdb</uuid>
+  </card>
+  <card>
+    <question>der Notruf</question>
+    <answer>экстренный вызов</answer>
+    <comment></comment>
+    <uuid>6be304a0-6b00-4908-944d-d38fb842adfe</uuid>
+  </card>
+  <card>
+    <question>der Polizist</question>
+    <answer>полицейский</answer>
+    <comment></comment>
+    <uuid>3b75b660-8dc8-44cf-8c33-4252280ee2be</uuid>
+  </card>
+  <card>
+    <question>der Rechtsanwalt</question>
+    <answer>адвокат</answer>
+    <comment></comment>
+    <uuid>9442ae20-b147-4923-a39c-577fc53228d1</uuid>
+  </card>
+  <card>
+    <question>der Überfall</question>
+    <answer>нападение</answer>
+    <comment></comment>
+    <uuid>c09ed70b-6094-4956-811b-ece6ae5a4ed9</uuid>
+  </card>
+  <card>
+    <question>die Drogen</question>
+    <answer>наркотики</answer>
+    <comment></comment>
+    <uuid>4d142735-894c-4e71-95ef-688cf54a635d</uuid>
+  </card>
+  <card>
+    <question>Die Fahrzeugpapiere, bitte!</question>
+    <answer>Пожалуйста, документы на машину!</answer>
+    <comment></comment>
+    <uuid>1d10890e-5e3a-481a-8619-df596b6100fb</uuid>
+  </card>
+  <card>
+    <question>die Kriminalpolizei</question>
+    <answer>криминальная полиция</answer>
+    <comment></comment>
+    <uuid>6c0ada01-ee70-49a0-a92e-cb018fbd2531</uuid>
+  </card>
+  <card>
+    <question>die Kripo</question>
+    <answer>криминальная полиция (сокращенно)</answer>
+    <comment></comment>
+    <uuid>550ae509-da4d-4cb4-995d-56b5ecb7e139</uuid>
+  </card>
+  <card>
+    <question>die Polizei</question>
+    <answer>полиция</answer>
+    <comment></comment>
+    <uuid>6e094fc1-c12a-4cdf-9aa8-64646de23f19</uuid>
+  </card>
+  <card>
+    <question>die Verkehrskontrolle</question>
+    <answer>дорожный контроль</answer>
+    <comment></comment>
+    <uuid>f82b1f34-5206-430d-899a-bf62ebe42fee</uuid>
+  </card>
+  <card>
+    <question>die Waffen</question>
+    <answer>оружие</answer>
+    <comment></comment>
+    <uuid>2c031fec-ea5b-4772-83ab-67d9f54e120f</uuid>
+  </card>
+  <card>
+    <question>Die Waffen sind beschlagnahmt!</question>
+    <answer>Оружие конфисковано!</answer>
+    <comment></comment>
+    <uuid>4015db7f-2ae4-4d35-8b45-4237699dfc05</uuid>
+  </card>
+  <card>
+    <question>festnehmen</question>
+    <answer>арестовывать</answer>
+    <comment></comment>
+    <uuid>25222225-8f55-4ab4-aeea-7273a07063d1</uuid>
+  </card>
+  <card>
+    <question>Hilfe! Ein Überfall!</question>
+    <answer>На помощь! Нападение!</answer>
+    <comment></comment>
+    <uuid>6e885a27-289b-4747-a3dd-f38e11650f26</uuid>
+  </card>
+  <card>
+    <question>Ich brauche einen Dolmetscher!</question>
+    <answer>Мне нужен переводчик!</answer>
+    <comment></comment>
+    <uuid>0d5a285e-68c4-4fbb-9d85-d28e53332f7f</uuid>
+  </card>
+  <card>
+    <question>Ich möchte einen Diebstahl anzeigen.</question>
+    <answer>Я хотел бы заявить о краже.</answer>
+    <comment></comment>
+    <uuid>da597825-0f60-4eb4-b3da-09fb4192da70</uuid>
+  </card>
+  <card>
+    <question>Ich möchte mit meinem Anwalt sprechen!</question>
+    <answer>Я хотел бы переговорить с моим адвокатом!</answer>
+    <comment></comment>
+    <uuid>b1e4cc39-5363-4f37-bdd2-faebf07e4e58</uuid>
+  </card>
+  <card>
+    <question>Ich möchte mit meinem Konsul sprechen!</question>
+    <answer>Я хотел бы переговорить с моим консулом.</answer>
+    <comment></comment>
+    <uuid>dab4b5e6-7248-4bcc-9688-57ead514d84f</uuid>
+  </card>
+  <card>
+    <question>Ich suche das Polizeirevier.</question>
+    <answer>Я ищу полицейский участок.</answer>
+    <comment></comment>
+    <uuid>81a30b3d-c464-44fe-beb7-7ae5957a7b80</uuid>
+  </card>
+  <card>
+    <question>Ihren Ausweis, bitte!</question>
+    <answer>Ваше удостоверение, пожалуйста!</answer>
+    <comment></comment>
+    <uuid>23d76cda-fbc3-468a-af65-7a2454a82db6</uuid>
+  </card>
+  <card>
+    <question>Ihren F?hrerschein, bitte!</question>
+    <answer>Ваше водительское удостоверение.</answer>
+    <comment></comment>
+    <uuid>3f73e90a-37fa-48eb-99d0-8be8b021d793</uuid>
+  </card>
+  <card>
+    <question>Mir ist die Brieftasche gestohlen worden.</question>
+    <answer>У меня украли бумажник.</answer>
+    <comment></comment>
+    <uuid>dcd244d4-4ea3-4ad0-baa4-50c6aab2ff90</uuid>
+  </card>
+  <card>
+    <question>Sie haben die Vorfahrt nicht beachtet.</question>
+    <answer>Вы не соблюдали очередность проезда.</answer>
+    <comment></comment>
+    <uuid>d4b15e8d-6161-4c35-8e3a-32fb77815713</uuid>
+  </card>
+  <card>
+    <question>Sie sind bei Rot über die Kreuzung gefaren.</question>
+    <answer>Вы ехали через перекресток на красный свет.</answer>
+    <comment></comment>
+    <uuid>fb5cd943-859e-4dce-bb3d-f4dc919c3155</uuid>
+  </card>
+  <card>
+    <question>Sie sind festgenommen!</question>
+    <answer>Вы арестованы!</answer>
+    <comment></comment>
+    <uuid>3b55245e-eab7-4a1a-b4dc-323047b17e04</uuid>
+  </card>
+  <card>
+    <question>Sie sind zu schnell gefahren.</question>
+    <answer>Вы слишком быстро ехали.</answer>
+    <comment></comment>
+    <uuid>06cae5ca-9808-4532-a61c-2f5cbbcada1e</uuid>
+  </card>
+</cards>
+</stack>

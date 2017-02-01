@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5f8df11b-f76c-492d-84b2-6758b589ac1a</uuid>
+  <title>Обращение в полицию :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>15</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Where is the police station?</question>
+    <answer>Где полицейский участок?</answer>
+    <comment>[hwer ɪz ðə pəˈliːs ˈsteɪʃən]</comment>
+    <answer_comment>where - где, police - полицейский, station - станция</answer_comment>
+    
+    <uuid>aac4d06f-2e52-41a9-b5e2-8060c9b3817e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you help me?</question>
+    <answer>Вы можете мне помочь?</answer>
+    <comment>[kæn jʊ help ˈmiː]</comment>
+    <answer_comment>can - мочь, to help - помогать, me - мне, меня</answer_comment>
+    
+    <uuid>45979d83-2311-4556-b8c4-4f0085af3076</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hello. Please help me.</question>
+    <answer>Здравствуйте. Пожалуйста, помогите мне.</answer>
+    <comment>[heˈloʊ pliːz help ˈmiː]</comment>
+    <answer_comment>hello - привет, to help - помогать, me - мне, меня</answer_comment>
+    
+    <uuid>4b20affe-8210-4757-87fb-a28af7a14dfb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have been robbed.</question>
+    <answer>Меня ограбили.</answer>
+    <comment>[аɪ hæv bɪn rɑːbd]</comment>
+    <answer_comment>robbed - ограбленный</answer_comment>
+    
+    <uuid>8fba2d4e-8129-4e92-ae42-0492b03d1fa7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My passport has been stolen.</question>
+    <answer>Мой паспорт украден.</answer>
+    <comment>[mаɪ ˈpæspɔːrt hæz bɪn ˈstoʊlən]</comment>
+    <answer_comment>my - мой, моя, мое, passport - паспорт, stolen - украденный</answer_comment>
+    
+    <uuid>2e0b316a-cb23-42e2-9227-a7275a6dc463</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My documents have been stolen.</question>
+    <answer>Украдены мои документы.</answer>
+    <comment>[mаɪ ˈdɑːkjʊmənts hæv bɪn ˈstoʊlən]</comment>
+    <answer_comment>my - мой, моя, мое, documents - документы, stolen - украденный</answer_comment>
+    
+    <uuid>88347242-fc26-447b-acf6-1795c865a882</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My air ticket has been stolen.</question>
+    <answer>Украден мой билет на самолет.</answer>
+    <comment>[mаɪ er ˈtɪkɪt hæz bɪn ˈstoʊlən]</comment>
+    <answer_comment>my - мой, моя, мое, air - воздух, ticket - билет, stolen - украденный</answer_comment>
+    
+    <uuid>bc92f6d0-931c-45f1-b204-4c136d7f89bb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>All my money has been stolen.</question>
+    <answer>Украдены все мои деньги.</answer>
+    <comment>[ɔːl mаɪ ˈmʌniː hæz bɪn ˈstoʊlən]</comment>
+    <answer_comment>all - все, my - мой, моя, мое, money - деньги, stolen - украденный</answer_comment>
+    
+    <uuid>524c0ac0-3d9e-4ff5-9d6e-52728442accc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My car has been stolen.</question>
+    <answer>Мой автомобиль угнан.</answer>
+    <comment>[mаɪ kɑːr hæz bɪn ˈstoʊlən]</comment>
+    <answer_comment>my - мой, моя, мое, car - машина, stolen - украденный</answer_comment>
+    
+    <uuid>e8bc6982-6e1b-4902-9639-8f89f1399154</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve left my bag in a taxi.</question>
+    <answer>Я оставил сумку в такси.</answer>
+    <comment>[аɪv left mаɪ bæg ɪn ə ˈtæksiː]</comment>
+    <answer_comment>to leave - оставлять, покидать, my - мой, моя, мое, bag - сумка, taxi - такси</answer_comment>
+    
+    <uuid>0c6a87a1-908b-4d03-b2c1-e6a816d9c572</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve left my suitcase in a bus.</question>
+    <answer>Я оставил чемодан в автобусе.</answer>
+    <comment>[аɪv left mаɪ ˈsuːtˌkeɪs ɪn ə bʌs]</comment>
+    <answer_comment>to leave - оставлять, покидать, my - мой, моя, мое, suitcase - чемодан, bus - автобус</answer_comment>
+    
+    <uuid>de8bea93-7e0c-4c66-8e43-93449e7c3e4a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve lost my purse somewhere.</question>
+    <answer>Я где-то потерял мой кошелек (женский).</answer>
+    <comment>[аɪv lɔːst mаɪ pɜːrs ˈsʌmhwer]</comment>
+    <answer_comment>to loose - терять, my - мой, моя, мое, purse - кошелек, somewhere - где-то</answer_comment>
+    
+    <uuid>00de4bd1-cab0-41d1-a7e8-deaecfa4aa12</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve lost my wallet somewhere.</question>
+    <answer>Я где-то потерял свой бумажник.</answer>
+    <comment>[аɪv lɔːst mаɪ ˈwɑːlɪt ˈsʌmhwer]</comment>
+    <answer_comment>to loose - терять, my - мой, моя, мое, wallet - бумажник, somewhere - где-то</answer_comment>
+    
+    <uuid>fec4158a-277d-47c5-b3b4-13911a007073</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There was money in my purse.</question>
+    <answer>В кошельке (женском) были деньги.</answer>
+    <comment>[ðer wʌz ˈmʌniː ɪn mаɪ pɜːrs]</comment>
+    <answer_comment>there was - имелось, было, money - деньги, purse - кошелек</answer_comment>
+    
+    <uuid>4c37265f-6ceb-4326-bd13-8a9ff7f3efb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There was my ticket in the wallet.</question>
+    <answer>В бумажнике был мой билет.</answer>
+    <comment>[ðer wʌz mаɪ ˈtɪkɪt ɪn ðə ˈwɑːlɪt]</comment>
+    <answer_comment>there was - имелось, было, ticket - билет, wallet - бумажник</answer_comment>
+    
+    <uuid>5c161669-1c37-4f9c-a7ae-7206b23aa5dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There were receipts in the wallet.</question>
+    <answer>В бумажнике были квитанции.</answer>
+    <comment>[ðer hwɜːr rɪˈsiːts ɪn ðə ˈwɑːlɪt]</comment>
+    <answer_comment>there was - имелось, было, receipts - квитанции, wallet - бумажник</answer_comment>
+    
+    <uuid>a7ecdac7-9db0-4eba-8f82-108eb61d9a54</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Some people attacked me.</question>
+    <answer>На меня напали какие-то люди.</answer>
+    <comment>[sʌm ˈpiːpəl əˈtækt ˈmiː]</comment>
+    <answer_comment>some - некоторый, people - люди, to attack - напасть, me - мне, меня</answer_comment>
+    
+    <uuid>7262d736-1381-4da3-b2bc-08d12312fb06</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>They snatched out my bag.</question>
+    <answer>Они выхватили мою сумку.</answer>
+    <comment>[ðeɪ snætʃt аʊt mаɪ bæg]</comment>
+    <answer_comment>they - они, to snatch out - выхватить, my - мой, моя, мое, bag - сумка</answer_comment>
+    
+    <uuid>d308c018-d8e9-489e-8acb-20e9bc8e2e35</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve been left behind by my train.</question>
+    <answer>Я отстал от поезда.</answer>
+    <comment>[аɪv bɪn left bɪˈhаɪnd bаɪ mаɪ treɪn]</comment>
+    <answer_comment>to leave behind by - отстать, train - поезд</answer_comment>
+    
+    <uuid>938c0bad-8c4f-4b99-8db3-5ac86eef198f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve been left behind by my bus.</question>
+    <answer>Я отстал от автобуса.</answer>
+    <comment>[аɪv bɪn left bɪˈhаɪnd bаɪ mаɪ bʌs]</comment>
+    <answer_comment>to leave behind by - отстать, bus - автобус</answer_comment>
+    
+    <uuid>ff362694-fd77-4ef1-8552-35485255d4a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve been left behind by my ship.</question>
+    <answer>Я отстал от теплохода.</answer>
+    <comment>[аɪv bɪn left bɪˈhаɪnd bаɪ mаɪ ʃɪp]</comment>
+    <answer_comment>to leave behind by - отстать, ship - корабль</answer_comment>
+    
+    <uuid>31621a4c-dbae-46e0-bb71-70cadc9d124e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We missed the train.</question>
+    <answer>Мы опоздали на поезд.</answer>
+    <comment>[wiː mɪst ðə treɪn]</comment>
+    <answer_comment>to miss - пропустить, train - поезд</answer_comment>
+    
+    <uuid>056b6856-d280-4466-b582-b51472c748f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We missed the plane.</question>
+    <answer>Мы опоздали на самолет.</answer>
+    <comment>[wiː mɪst ðə pleɪn]</comment>
+    <answer_comment>to miss - пропустить, plane - самолет</answer_comment>
+    
+    <uuid>6671a6c1-40c9-41e5-9476-d8bec4b5a165</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What shall I do?</question>
+    <answer>Что мне делать?</answer>
+    <comment>[hwʌt ʃæl аɪ duː]</comment>
+    <answer_comment>what - что, to do - делать</answer_comment>
+    
+    <uuid>3c360814-9dfe-4e67-9b70-c638ed7c3b0c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My things, money and documents remained there.</question>
+    <answer>Там остались мои вещи, деньги и документы.</answer>
+    <comment>[mаɪ θɪŋz ˈmʌniː ənd ˈdɑːkjʊmənts rɪˈmeɪnd ðer]</comment>
+    <answer_comment>thing - вещь, money - деньги, documents - документы, to remain - оставаться, there - там</answer_comment>
+    
+    <uuid>caf43a81-0a01-47c6-8b73-1b958a64e7f4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I didn&apos;t notice anything suspicious.</question>
+    <answer>Я не заметил ничего подозрительного.</answer>
+    <comment>[аɪ ˈdidənt ˈnoʊtɪs ˈenɪˌθɪŋ səˈspɪʃəs]</comment>
+    <answer_comment>to notice - заметить, anything - что-нибудь, suspicious - подозрительный</answer_comment>
+    
+    <uuid>6765f9e0-e629-4814-b91b-1c16b00f93b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I am on business here.</question>
+    <answer>Я здесь по делу.</answer>
+    <comment>[аɪ æm ɑːn ˈbɪznɪs hɪr]</comment>
+    <answer_comment>business - бизнес, here - здесь</answer_comment>
+    
+    <uuid>a5f528e9-bec0-4bc9-a6ee-95b5a2afd15b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I am a tourist.</question>
+    <answer>Я турист.</answer>
+    <comment>[аɪ æm ə ˈtʊrɪst]</comment>
+    <answer_comment>tourist - турист</answer_comment>
+    
+    <uuid>2be1f5f0-6ec5-49e8-ba19-d173c029e177</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I was detained illegally.</question>
+    <answer>Я был незаконно задержан.</answer>
+    <comment>[аɪ wʌz dɪˈteɪnd ɪˈliːgəli]</comment>
+    <answer_comment>was - был, была, было, detained - задержанный, illegally - незаконно</answer_comment>
+    
+    <uuid>55f8a540-937b-4fff-a129-5b016888f1e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I haven&apos;t made anything reprehensible.</question>
+    <answer>Я не совершал ничего предосудительного.</answer>
+    <comment>[аɪ ˈhаvənt meɪd ˈenɪˌθɪŋ ˌreprɪˈhensəbəl]</comment>
+    <answer_comment>to make - делать, anything - что-либо, reprehensible - предосудительный</answer_comment>
+    
+    <uuid>587767e6-fcf0-4447-abea-c6258736d821</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a misunderstanding.</question>
+    <answer>Произошло недоразумение.</answer>
+    <comment>[ðɪs ɪz ə ˌmɪsəndərˈstændɪŋ]</comment>
+    <answer_comment>this - это, этот, эта, misunderstanding - недоразумение</answer_comment>
+    
+    <uuid>fbc098cf-9f76-442a-9f97-527e0bea696d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have been mistaken for someone.</question>
+    <answer>Меня с кем-то спутали.</answer>
+    <comment>[аɪ hæv bɪn mɪˈsteɪkən fər ˈsʌmwʌn]</comment>
+    <answer_comment>mistaken - ошибочный, ошибающийся, someone - кто-либо</answer_comment>
+    
+    <uuid>7108223d-788f-45fc-9aad-8b345e6ec09d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will you call an interpreter?</question>
+    <answer>Можно пригласить переводчика?</answer>
+    <comment>[wɪl jʊ kɔːl ən ɪnˈtɜːrprɪtə]</comment>
+    <answer_comment>to call - звать, interpreter - переводчик</answer_comment>
+    
+    <uuid>47dcf825-3177-41d5-8143-a5376e43d672</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll explain everything to you.</question>
+    <answer>Я все вам объясню.</answer>
+    <comment>[аɪl ɪkˈspleɪn ˈevriːˌθɪŋ tə jʊ]</comment>
+    <answer_comment>to explain - объяснить, everything - все, you - тебе, вам</answer_comment>
+    
+    <uuid>86940fae-ddfa-4c6c-a330-2aa67f451489</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve come from Russia.</question>
+    <answer>Я приехал из России.</answer>
+    <comment>[аɪv kʌm frəm ˈrʌʃə]</comment>
+    <answer_comment>to come - приехать, from - из, от, Russia - Россия</answer_comment>
+    
+    <uuid>9692956b-2b4e-4279-8e1f-f2173699b020</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please call an official from the embassy.</question>
+    <answer>Пожалуйста, пригласите сотрудника посольства.</answer>
+    <comment>[pliːz kɔːl ən əˈfɪʃəl frəm ðiː ˈembəsiː]</comment>
+    <answer_comment>to call - звать, official - официальное лицо, from - от, из, embassy - посольство</answer_comment>
+    
+    <uuid>cc9d3ada-4213-4649-95a7-628a1ad3c2cc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please call an official from the consulate.</question>
+    <answer>Пожалуйста, пригласите сотрудника консульства.</answer>
+    <comment>[pliːz kɔːl ən əˈfɪʃəl frəm ðə ˈkɑːnsəlɪt]</comment>
+    <answer_comment>to call - звать, official - официальное лицо, from - от, из, consulate - консульство</answer_comment>
+    
+    <uuid>bebcaf5c-4bfe-4580-8511-4c8a5bbd88c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m lost.</question>
+    <answer>Я заблудился.</answer>
+    <comment>[аɪm lɔːst]</comment>
+    <answer_comment>lost - потерянный</answer_comment>
+    
+    <uuid>36cbf7b9-a6b2-4632-a186-87fa827df544</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Leave me alone!</question>
+    <answer>Оставьте меня в покое!</answer>
+    <comment>[liːv ˈmiː əˈloʊn]</comment>
+    <answer_comment>to leave - оставлять, покидать, me - мне, меня, alone - один</answer_comment>
+    
+    <uuid>c0f071d8-aed0-4cd9-a4ca-29a05af52420</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Help!</question>
+    <answer>Помогите!</answer>
+    <comment>[help]</comment>
+    <answer_comment>help - помощь</answer_comment>
+    
+    <uuid>c1bd5251-1316-43d2-9df8-a624cfc7e7ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Police!</question>
+    <answer>Полиция!</answer>
+    <comment>[pəˈliːs]</comment>
+    <answer_comment>police - полиция</answer_comment>
+    
+    <uuid>b4f553d9-e476-4356-bf55-d2314d8f779b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thief!</question>
+    <answer>Вор!</answer>
+    <comment>[θiːf]</comment>
+    <answer_comment>thief - вор</answer_comment>
+    
+    <uuid>09512624-7847-4759-a0a3-6b629d93dfbc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Fire!</question>
+    <answer>Пожар!</answer>
+    <comment>[fаɪr]</comment>
+    <answer_comment>fire - огонь, пожар</answer_comment>
+    
+    <uuid>6641df6c-cb3b-44b3-bcb9-c75bb001bc98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Look out!</question>
+    <answer>Осторожно!</answer>
+    <comment>[lʊk аʊt]</comment>
+    <answer_comment>to look out - быть настороже</answer_comment>
+    
+    <uuid>23f190f0-b270-4fe4-8f71-f3f41c877510</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is an emergency.</question>
+    <answer>Это экстренный случай.</answer>
+    <comment>[ðɪs ɪz ən ɪˈmɜːrʤənsiː]</comment>
+    <answer_comment>this - это, этот, эта, emergency - экстренный случай</answer_comment>
+    
+    <uuid>e949e26e-c84c-4f29-b24b-998f9d980f13</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4e7cb45c-a4ae-49c4-919a-75dd316beb54</uuid>
+  <title>Предлоги</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>last</question>
+    <answer>последний</answer>
+    <comment>[lɑːst]</comment>
+    <answer_picture>last.gif</answer_picture>
+    <uuid>f6a131de-98aa-4fe3-958f-7946ce69b716</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in front of</question>
+    <answer>перед (A. behind)</answer>
+    <comment>[ɪn frʌnt ɒv]</comment>
+    <answer_picture>in_front_of.gif</answer_picture>
+    <uuid>6f93327a-ecb1-48e4-b1a1-2469621aa809</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>after</question>
+    <answer>после</answer>
+    <comment>[ˈɑːftə]</comment>
+    <answer_picture>after.gif</answer_picture>
+    <uuid>5e084a3d-5d10-407a-a475-f36a519eeba4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>above</question>
+    <answer>над</answer>
+    <comment>[əˈbʌv]</comment>
+    <answer_picture>above.gif</answer_picture>
+    <uuid>4154d87b-10a3-4f37-8b6d-4239565da89c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>next</question>
+    <answer>следующий</answer>
+    <comment>[nekst]</comment>
+    <answer_picture>next.gif</answer_picture>
+    <uuid>09ab8c8e-222a-453d-9bc3-2996974fec0a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>beside</question>
+    <answer>рядом с</answer>
+    <comment>[bɪˈsаɪd]</comment>
+    <answer_picture>beside.gif</answer_picture>
+    <uuid>2e09d53d-3cb2-4637-81c2-ddd0b30d59cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in</question>
+    <answer>в, внутри</answer>
+    <comment>[ɪn]</comment>
+    <answer_picture>in.gif</answer_picture>
+    <uuid>d5f4f290-a475-4ba9-8677-ac51a8c81b61</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>on</question>
+    <answer>на</answer>
+    <comment>[ɒn]</comment>
+    <answer_picture>on.gif</answer_picture>
+    <uuid>f5eef5cd-6d39-4bb3-bc8b-8f9c04ff7f07</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>before</question>
+    <answer>перед, до (A. after)</answer>
+    <comment>[bɪˈfɔː]</comment>
+    <answer_picture>before.gif</answer_picture>
+    <uuid>fd009c55-66b0-467b-9dbd-3370d956c48e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>behind</question>
+    <answer>позади</answer>
+    <comment>[bɪˈhаɪnd]</comment>
+    <answer_picture>behind.gif</answer_picture>
+    <uuid>7d07bd13-acab-459b-a641-70f7dcd21e94</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>under</question>
+    <answer>под</answer>
+    <comment>[ˈʌndə]</comment>
+    <answer_picture>under.gif</answer_picture>
+    <uuid>b90d830e-71c7-4043-808d-5fc7810e3f78</uuid>
+  </card>
+</cards>
+</stack>

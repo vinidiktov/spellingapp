@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3633d3fd-4245-4fff-9d71-ddd7a92e3383</uuid>
+  <title>Приглашение на праздник</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Alles Gute!</question>
+    <answer>Всего хорошего!</answer>
+    <comment></comment>
+    <uuid>926f3f36-f505-4654-9007-73f0f96324c6</uuid>
+  </card>
+  <card>
+    <question>auffordern</question>
+    <answer>пригласить на танец</answer>
+    <comment></comment>
+    <uuid>c07856c2-6361-4c33-a66c-2d841adabd58</uuid>
+  </card>
+  <card>
+    <question>Darf ich bitten!</question>
+    <answer>Разрешите Вас пригласить!</answer>
+    <comment></comment>
+    <uuid>b5ddfb8e-4a6c-406e-9860-ffa4e0f45c8e</uuid>
+  </card>
+  <card>
+    <question>Darf ich Ihnen diesen Blumenstrauß überreichen?</question>
+    <answer>Разрешите преподнести Вам этот букет.</answer>
+    <comment></comment>
+    <uuid>c3046dbd-fd2b-467d-979b-e06a4d402225</uuid>
+  </card>
+  <card>
+    <question>das Betriebsfest</question>
+    <answer>производственный праздник</answer>
+    <comment></comment>
+    <uuid>0f13be90-0e51-4195-97df-e25c23f7db04</uuid>
+  </card>
+  <card>
+    <question>Das Essen schmeckt sehr gut.</question>
+    <answer>Всё очень вкусно.</answer>
+    <comment></comment>
+    <uuid>595c8d71-0fd7-4ca9-bd58-34ce1f797736</uuid>
+  </card>
+  <card>
+    <question>das Fest</question>
+    <answer>торжество, праздник</answer>
+    <comment></comment>
+    <uuid>14d3102b-45da-4e92-bfae-319087524971</uuid>
+  </card>
+  <card>
+    <question>das Geschenk</question>
+    <answer>подарок</answer>
+    <comment></comment>
+    <uuid>2e147762-2c57-4be7-a994-4c165db979ff</uuid>
+  </card>
+  <card>
+    <question>das Hochzeitsfest</question>
+    <answer>свадебное торжество</answer>
+    <comment></comment>
+    <uuid>697bbe70-d33c-4b0f-8850-bf98a38940af</uuid>
+  </card>
+  <card>
+    <question>Den schönen Abend!</question>
+    <answer>Приятного вечера!</answer>
+    <comment></comment>
+    <uuid>b341da18-be4b-4f1b-bd6d-19c9fb9a7356</uuid>
+  </card>
+  <card>
+    <question>der Glückwunsch</question>
+    <answer>поздравление</answer>
+    <comment></comment>
+    <uuid>a6aa14b6-2ee4-4b54-b7fd-d43db8765720</uuid>
+  </card>
+  <card>
+    <question>der Tanz</question>
+    <answer>танец</answer>
+    <comment></comment>
+    <uuid>b12f756d-b40d-4a32-a600-e6665e9555b5</uuid>
+  </card>
+  <card>
+    <question>die Einladung</question>
+    <answer>приглашение</answer>
+    <comment></comment>
+    <uuid>8329c85a-cb6c-4e4e-bf7f-247771cde840</uuid>
+  </card>
+  <card>
+    <question>die Freundlichkeit</question>
+    <answer>приветливость</answer>
+    <comment></comment>
+    <uuid>e33fa449-4561-4e52-8905-5ae787461057</uuid>
+  </card>
+  <card>
+    <question>Eine Flasche Sekt für Sie.</question>
+    <answer>Бутылка шампанского для Вас.</answer>
+    <comment></comment>
+    <uuid>32fe884d-5c7b-4282-8233-dafb9c9a24a2</uuid>
+  </card>
+  <card>
+    <question>Es war sehr schön bei Ihnen.</question>
+    <answer>У Вас было замечательно.</answer>
+    <comment></comment>
+    <uuid>e0b21117-3224-4acb-89ad-0b576f9a19e2</uuid>
+  </card>
+  <card>
+    <question>freundlich</question>
+    <answer>приветливо, приветливый</answer>
+    <comment></comment>
+    <uuid>627931bb-bc06-4c96-b915-14b05f18ae5a</uuid>
+  </card>
+  <card>
+    <question>gratulieren</question>
+    <answer>поздравлять</answer>
+    <comment></comment>
+    <uuid>4bffebb4-0c8f-4cb7-93a0-42f019807e24</uuid>
+  </card>
+  <card>
+    <question>herzlich</question>
+    <answer>сердечно, сердечный</answer>
+    <comment></comment>
+    <uuid>72157d96-a861-4cde-a70b-63552f256e3a</uuid>
+  </card>
+  <card>
+    <question>Herzlich Willkommen!</question>
+    <answer>Добро пожаловать!</answer>
+    <comment></comment>
+    <uuid>eaa68dfe-9b80-4c3f-8972-0dda0183cf6c</uuid>
+  </card>
+  <card>
+    <question>Herzliche Glückwünsche zum Geburtstag!</question>
+    <answer>Сердечно поздравляю с днём рождения!</answer>
+    <comment></comment>
+    <uuid>911a6abf-4dbf-4629-b3c1-2b2a768b0676</uuid>
+  </card>
+  <card>
+    <question>Herzlichen Dank für die Einladung.</question>
+    <answer>Большое спасибо за приглашение.</answer>
+    <comment></comment>
+    <uuid>02a4507c-2a2f-4db0-a422-61e79aef818d</uuid>
+  </card>
+  <card>
+    <question>Herzlichen Dank.</question>
+    <answer>Большое спасибо.</answer>
+    <comment></comment>
+    <uuid>bf7c57f2-8f85-4381-8082-6089d389984c</uuid>
+  </card>
+  <card>
+    <question>Ich gratuliere Ihnen zum Geburtstag!</question>
+    <answer>Поздравляю Вас с днём рождения.</answer>
+    <comment></comment>
+    <uuid>9666fb96-1b8d-4187-912a-0e05eb5a0474</uuid>
+  </card>
+  <card>
+    <question>Ich gratuliere Ihnen.</question>
+    <answer>Поздравляю Вас.</answer>
+    <comment></comment>
+    <uuid>3e2f41e2-c2af-44fd-ae8b-6eb550b294e4</uuid>
+  </card>
+  <card>
+    <question>Ich komme gern.</question>
+    <answer>Я с удовольствием приду.</answer>
+    <comment></comment>
+    <uuid>8e49012c-96dc-4e80-a0d7-aed930b49236</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Sie und Ihre Frau zum Abendessen einladen.</question>
+    <answer>Я хотел бы пригласить Вас и Вашу жену на ужин.</answer>
+    <comment></comment>
+    <uuid>1e72d6af-008a-4e7b-be59-0bb94a4bd957</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Sie zum Kaffee einladen.</question>
+    <answer>Я хотел бы пригласить Вас на чашечку кофе.</answer>
+    <comment></comment>
+    <uuid>33ffb62e-a3c9-4244-887a-2a44c223b9c7</uuid>
+  </card>
+  <card>
+    <question>Müllers sind nette Gäste.</question>
+    <answer>Мюллеры - приятные гости.</answer>
+    <comment></comment>
+    <uuid>7e2ce597-cf5b-4381-b6d3-6f602d1ba2f4</uuid>
+  </card>
+  <card>
+    <question>nett</question>
+    <answer>приятно, приятный</answer>
+    <comment></comment>
+    <uuid>d26896b9-1e16-4ece-ad03-12d8f2edfecd</uuid>
+  </card>
+  <card>
+    <question>Sie haben eine schöne Wohnung.</question>
+    <answer>У вас прекрасная квартира.</answer>
+    <comment></comment>
+    <uuid>8b366a84-3ece-4098-bfb7-4dda64bd075f</uuid>
+  </card>
+  <card>
+    <question>tanzen</question>
+    <answer>танцевать</answer>
+    <comment></comment>
+    <uuid>25bab1b6-9a53-4359-8f07-87467cea949b</uuid>
+  </card>
+  <card>
+    <question>Viel Erfolg!</question>
+    <answer>Успехов!</answer>
+    <comment></comment>
+    <uuid>ba7937b4-267a-458c-b377-877904978c78</uuid>
+  </card>
+  <card>
+    <question>Viel Glück!</question>
+    <answer>Счастья!</answer>
+    <comment></comment>
+    <uuid>f6a4f36b-1413-4b5e-8dca-95ae0270230e</uuid>
+  </card>
+  <card>
+    <question>Vielen Dank für die Einladung.</question>
+    <answer>Большое спасибо за приглашение.</answer>
+    <comment></comment>
+    <uuid>03bd600a-4951-41b1-b0b3-cb7bdd7555a4</uuid>
+  </card>
+  <card>
+    <question>Wollen wir tanzen!</question>
+    <answer>Потанцуем!</answer>
+    <comment></comment>
+    <uuid>cab1e098-93a2-4177-bb9b-61dc40e7df38</uuid>
+  </card>
+</cards>
+</stack>

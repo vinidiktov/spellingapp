@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>90cceedb-3ae8-4a65-a091-debd09f40ccb</uuid>
+  <title>В магазине</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>bargain</question>
+    <answer>торговаться</answer>
+    <comment>[ˈbɑːgɪn]</comment>
+    <answer_picture>bargain.gif</answer_picture>
+    <uuid>5fc05e02-ef2f-430d-a32e-772aa595392b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cash register</question>
+    <answer>кассовый аппарат</answer>
+    <comment>[kæʃ ˈreʤɪstə]</comment>
+    <answer_picture>cash_register.gif</answer_picture>
+    <uuid>29d8805e-61bd-45d7-b103-d3f27bf05563</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cashier</question>
+    <answer>кассир</answer>
+    <comment>[kæˈʃɪə]</comment>
+    <answer_picture>cashier.gif</answer_picture>
+    <uuid>43f77b01-06b5-42d5-98b1-64e00f0c34e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bank notes</question>
+    <answer>банкнота, купюра</answer>
+    <comment>[bæŋk nəʊts]</comment>
+    <answer_picture>bank_notes.gif</answer_picture>
+    <uuid>c55e1b63-2172-4a44-b467-57421e7d07b8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>coins</question>
+    <answer>монеты</answer>
+    <comment>[kɔɪnz]</comment>
+    <answer_picture>coins.gif</answer_picture>
+    <uuid>1f950e8d-3d25-4824-b1c5-648b058c6e98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>credit card</question>
+    <answer>кредитная карта</answer>
+    <comment>[ˈkredɪt kɑːd]</comment>
+    <answer_picture>credit_card.gif</answer_picture>
+    <uuid>80afba71-9238-44ca-b1cb-3b8f58f2ca69</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mall</question>
+    <answer>торговый комплекс</answer>
+    <comment>[mɔːl]</comment>
+    <answer_picture>mall.gif</answer_picture>
+    <uuid>0f300a10-aac7-445a-9927-faf8de44c3a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>expensive</question>
+    <answer>дорогой</answer>
+    <comment>[ɪksˈpensɪv]</comment>
+    <answer_picture>expensive.gif</answer_picture>
+    <uuid>5381f63b-fcde-4efa-9a0c-d200f974439c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>buy</question>
+    <answer>покупать</answer>
+    <comment>[bаɪ]</comment>
+    <answer_picture>buy.gif</answer_picture>
+    <uuid>971af2fc-e816-4f31-a8a2-3059f207fff2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cheap</question>
+    <answer>дешёвый</answer>
+    <comment>[ʧiːp]</comment>
+    <answer_picture>cheap.gif</answer_picture>
+    <uuid>d7d48489-1648-4cf0-bad9-35f6e800ece2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>money</question>
+    <answer>деньги</answer>
+    <comment>[ˈmʌnɪ]</comment>
+    <answer_picture>money.gif</answer_picture>
+    <uuid>f0182778-b3c0-4457-9f98-df9cd73e54ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pay</question>
+    <answer>платить</answer>
+    <comment>[peɪ]</comment>
+    <answer_picture>pay.gif</answer_picture>
+    <uuid>d7a3d668-6d5b-41b4-b866-b8cc43b727a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>receipt</question>
+    <answer>кассовый чек</answer>
+    <comment>[rɪˈsiːt]</comment>
+    <answer_picture>receipt.gif</answer_picture>
+    <uuid>45e65293-3c25-46ed-ae87-cbe71882bbb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sale</question>
+    <answer>распродажа</answer>
+    <comment>[seɪl]</comment>
+    <answer_picture>sale.gif</answer_picture>
+    <uuid>c965c8a8-efa6-4645-ba06-27fd091c8728</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sell</question>
+    <answer>продавать</answer>
+    <comment>[sel]</comment>
+    <answer_picture>sell.gif</answer_picture>
+    <uuid>a5d5e633-3d32-47fe-957c-47aeae011ac6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>trolley</question>
+    <answer>тележка</answer>
+    <comment>[ˈtrɒlɪ]</comment>
+    <answer_picture>trolley.gif</answer_picture>
+    <uuid>f6bfc85b-5acd-4845-8fd5-addc75b8d989</uuid>
+  </card>
+</cards>
+</stack>

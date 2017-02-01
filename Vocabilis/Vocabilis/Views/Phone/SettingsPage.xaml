@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		x:Class="Vocabilis.SettingsPage"
+		Title="Настройки"
+		Icon="settings-25.png"
+		>
+	<ContentPage.Content>
+		<!--
+				<Grid IsVisible="true"
+				 		HorizontalOptions="Center" 
+				 		VerticalOptions="Center">
+				    <Grid.RowDefinitions>
+				      <RowDefinition Height="Auto" />
+				      <RowDefinition Height="Auto" />
+				      <RowDefinition Height="Auto" />
+				    </Grid.RowDefinitions>
+
+				    <Grid.ColumnDefinitions>
+				      <ColumnDefinition Width="Auto" />
+				      <ColumnDefinition Width="Auto" />
+				    </Grid.ColumnDefinitions>
+
+				    <Label Grid.Row="0" Grid.Column="0" Text="Проговаривать автоматически" VerticalOptions="Center"/>
+	        		<Switch x:Name="toggleTranscription" Grid.Row="0" Grid.Column="1" 
+	        				IsToggled="{Binding DoSpeakAutomatically}" />
+
+	        		<Label Grid.Row="1" Grid.Column="0" Text="Подсказка первой буквы" VerticalOptions="Center"/>
+	        		<Switch x:Name="toggleHints" Grid.Row="1" Grid.Column="1"
+	        			IsToggled="{Binding DoShowFirstLetterHint}" />
+	        	
+
+		    	</Grid>
+		-->
+			
+				<TableView Intent="Settings" VerticalOptions="Center">
+			        <TableView.Root>
+			            <TableSection Title="Основные">
+			                <ViewCell>
+			                    <ViewCell.View>
+			                    	<StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal" 
+			                    			Padding="15,0,15,0">
+			                    	<Label YAlign="Center" HorizontalOptions="StartAndExpand" Text="Озвучивать автоматически" />
+	        						<Switch VerticalOptions="Center" HorizontalOptions="End" IsToggled="{Binding DoSpeakAutomatically}" />
+			                    	</StackLayout>
+			                    </ViewCell.View>
+			                </ViewCell>
+							<ViewCell>
+			                    <ViewCell.View>
+			                    	<StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal"
+			                    				Padding="15,0,15,0" >
+			                    	<Label YAlign="Center" HorizontalOptions="StartAndExpand" Text="Подсказка первой буквы" />
+	        						<Switch VerticalOptions="Center" HorizontalOptions="End" IsToggled="{Binding DoShowFirstLetterHint}" />
+			                    	</StackLayout>
+			                    </ViewCell.View>
+			                </ViewCell>
+			            </TableSection>
+			        </TableView.Root>
+		    	</TableView>
+	</ContentPage.Content>
+</ContentPage>

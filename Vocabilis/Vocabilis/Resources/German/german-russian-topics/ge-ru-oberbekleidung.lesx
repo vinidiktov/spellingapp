@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f412e2c2-f6d6-41d2-a7fc-708d4f2d873e</uuid>
+  <title>Верхняя одежда</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Jackett</question>
+    <answer>пиджак, жакет</answer>
+    <comment></comment>
+    <uuid>0b2f2dcc-c9bf-43c3-adf0-dbf8b5599383</uuid>
+  </card>
+  <card>
+    <question>das Kleid</question>
+    <answer>платье</answer>
+    <comment></comment>
+    <uuid>880658a6-6967-452e-a125-9358074eb5a6</uuid>
+  </card>
+  <card>
+    <question>das Oberhemd</question>
+    <answer>мужская сорочка, рубашка</answer>
+    <comment></comment>
+    <uuid>924b26ab-c2b3-4337-a2d0-5795e1d3a83c</uuid>
+  </card>
+  <card>
+    <question>das T-Shirt</question>
+    <answer>футболка</answer>
+    <comment></comment>
+    <uuid>6e5fb6db-cd68-4ff6-82b7-159d575f212b</uuid>
+  </card>
+  <card>
+    <question>der Anorak</question>
+    <answer>спортивная куртка с капюшоном, штормовка</answer>
+    <comment></comment>
+    <uuid>d4510e10-dc6a-43c7-8d1e-c154ead3e539</uuid>
+  </card>
+  <card>
+    <question>der Gürtel</question>
+    <answer>пояс</answer>
+    <comment></comment>
+    <uuid>c3688f32-cfeb-44ba-ac22-0b9de5551f6b</uuid>
+  </card>
+  <card>
+    <question>der Handschuh</question>
+    <answer>перчатка</answer>
+    <comment></comment>
+    <uuid>b182c01a-613a-4d8f-8cd9-4e3a7bf1a67f</uuid>
+  </card>
+  <card>
+    <question>der Kragen</question>
+    <answer>ворот, воротник, воротничок</answer>
+    <comment></comment>
+    <uuid>9c64099d-ac2a-46d3-9c2d-26e13753fb18</uuid>
+  </card>
+  <card>
+    <question>der Mantel</question>
+    <answer>пальто</answer>
+    <comment></comment>
+    <uuid>dc1d7e6a-9e9b-4a1b-aae6-6f9b1dd1f77a</uuid>
+  </card>
+  <card>
+    <question>der Pullover</question>
+    <answer>пуловер, свитер</answer>
+    <comment></comment>
+    <uuid>847b55e3-f3d5-4527-8663-ab82e4afdb1d</uuid>
+  </card>
+  <card>
+    <question>der Rock</question>
+    <answer>юбка</answer>
+    <comment></comment>
+    <uuid>a9eb6dff-84e7-4517-89c7-6c3a4331fe0e</uuid>
+  </card>
+  <card>
+    <question>der Rollkragen</question>
+    <answer>вязаный воротник-стойка</answer>
+    <comment></comment>
+    <uuid>26eda368-4925-4280-b2a6-7139bb9de149</uuid>
+  </card>
+  <card>
+    <question>der Räumungsverkauf</question>
+    <answer>распродажа складских запасов</answer>
+    <comment></comment>
+    <uuid>f7279182-0c33-42d5-b3a2-59abcfc83bf2</uuid>
+  </card>
+  <card>
+    <question>der Sommerschlußverkauf</question>
+    <answer>летняя распродажа</answer>
+    <comment></comment>
+    <uuid>691521fe-f64f-4939-97d3-0a5fc1e62869</uuid>
+  </card>
+  <card>
+    <question>der Umtausch</question>
+    <answer>обмен</answer>
+    <comment></comment>
+    <uuid>a7e16021-f964-4bd2-bf2c-349c26857147</uuid>
+  </card>
+  <card>
+    <question>der Winterschlußverkauf</question>
+    <answer>зимняя распродажа</answer>
+    <comment></comment>
+    <uuid>3d77cb82-5d0b-4698-9041-b54449414a2d</uuid>
+  </card>
+  <card>
+    <question>der Ärmel</question>
+    <answer>рукав</answer>
+    <comment></comment>
+    <uuid>72fe30f5-b00e-4ad2-8f5e-73cc6a443a7f</uuid>
+  </card>
+  <card>
+    <question>die Bluse</question>
+    <answer>блузка, кофточка</answer>
+    <comment></comment>
+    <uuid>a722704a-0386-4366-8254-aeb4b7575d79</uuid>
+  </card>
+  <card>
+    <question>die Bügelfalte</question>
+    <answer>скалдка на брюках, стрелка</answer>
+    <comment></comment>
+    <uuid>83c610f0-ea20-490f-afcf-d3acc0b7eab1</uuid>
+  </card>
+  <card>
+    <question>die Hose</question>
+    <answer>брюки</answer>
+    <comment></comment>
+    <uuid>78030ed4-54a9-494f-83bc-0b2cecca36bc</uuid>
+  </card>
+  <card>
+    <question>die Jacke</question>
+    <answer>куртка, кофта</answer>
+    <comment></comment>
+    <uuid>fbdb5f30-63fa-4bf5-a725-5b6f5eb47264</uuid>
+  </card>
+  <card>
+    <question>die Krawatte, der Schlips</question>
+    <answer>галстук</answer>
+    <comment></comment>
+    <uuid>42accb79-5431-4ed6-bebd-e3cd56d457fd</uuid>
+  </card>
+  <card>
+    <question>die Mütze</question>
+    <answer>шапка, кепка, фуражка</answer>
+    <comment></comment>
+    <uuid>345fe8f8-b590-46a7-adb5-eeb84b7cc463</uuid>
+  </card>
+  <card>
+    <question>die Weste</question>
+    <answer>кофта</answer>
+    <comment></comment>
+    <uuid>90a4a1da-1764-4ee7-85ba-ed7addeba4a4</uuid>
+  </card>
+  <card>
+    <question>Diese Hose gefällt mir.</question>
+    <answer>Эти брюки мне нравятся.</answer>
+    <comment></comment>
+    <uuid>8e5fb85c-dcd7-4109-971e-4536876826eb</uuid>
+  </card>
+  <card>
+    <question>Diese Hose ist mir zu eng.</question>
+    <answer>Эти брюки слишком узкие.</answer>
+    <comment></comment>
+    <uuid>2e2ea4c4-e012-4c66-89e2-1dd1272ef17d</uuid>
+  </card>
+  <card>
+    <question>Diese Hose ist mir zu groß.</question>
+    <answer>Эти брюки для меня слишком большие.</answer>
+    <comment></comment>
+    <uuid>0e189a14-5f00-48b7-8072-12873dcfdf40</uuid>
+  </card>
+  <card>
+    <question>Diese Hose paßt gut.</question>
+    <answer>Эти брюки мне подходят.</answer>
+    <comment></comment>
+    <uuid>6b176d20-e5a3-4c38-8426-e1d0c449d13d</uuid>
+  </card>
+  <card>
+    <question>Dort ist die Anprobe.</question>
+    <answer>Там примерочная.</answer>
+    <comment></comment>
+    <uuid>4719501c-6e89-4ef8-a0dc-c3eb7446fe55</uuid>
+  </card>
+  <card>
+    <question>Hier ist der Kassenbon.</question>
+    <answer>Вот чек.</answer>
+    <comment></comment>
+    <uuid>c1c00ebf-edb7-4431-ac16-5a8e27e6418e</uuid>
+  </card>
+  <card>
+    <question>Ich möchte diese Bluse umtauschen.</question>
+    <answer>Я хотела бы обменять эту блузку.</answer>
+    <comment></comment>
+    <uuid>d4b48ce1-c6a0-4bf5-9fee-c5cd0049a35f</uuid>
+  </card>
+  <card>
+    <question>Ich möchte einen Pullover.</question>
+    <answer>Я хотел бы купить свитер.</answer>
+    <comment></comment>
+    <uuid>dfd0e715-5d16-4432-b307-96fece33d600</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Jeans-Hosen.</question>
+    <answer>Я хотел бы купить джинсы.</answer>
+    <comment></comment>
+    <uuid>75436808-99cc-4ae6-84e1-175b6574190d</uuid>
+  </card>
+  <card>
+    <question>Können Sie die Hose kürzer machen?</question>
+    <answer>Вы могли бы укоротить брюки?</answer>
+    <comment></comment>
+    <uuid>4110cfbb-7821-4ccf-95b1-bdf122944733</uuid>
+  </card>
+  <card>
+    <question>Welche Größe?</question>
+    <answer>Какой размер?</answer>
+    <comment></comment>
+    <uuid>796c14f0-520f-44d0-a86e-5379e50a3da5</uuid>
+  </card>
+  <card>
+    <question>Wo kann ich sie anprobieren?</question>
+    <answer>Где я могу их примерить?</answer>
+    <comment></comment>
+    <uuid>557e0154-5992-42ee-8a38-ee777af0a429</uuid>
+  </card>
+</cards>
+</stack>

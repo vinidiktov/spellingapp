@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>337b7901-2c4c-4e63-9c96-aa0cabb6c069</uuid>
+  <title>Приглашение :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>concert</question>
+    <answer>концерт</answer>
+    <comment>[ˈkɑːnsərt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec49424b-069b-44d1-ade7-a3ddd8e0b73c</uuid>
+    <examples>
+       <example>
+          <value>to go to the concert</value>
+          <translation>идти на концерт</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a chamber music concert</value>
+          <translation>концерт камерной музыки</translation>
+          <comment>chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a folk music concert</value>
+          <translation>концерт народной музыки</translation>
+          <comment>folk - народ, народный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a jazz music concert</value>
+          <translation>концерт джазовой музыки</translation>
+          <comment>jazz - джаз, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a pop music concert</value>
+          <translation>концерт эстрадной музыки</translation>
+          <comment>pop - популярный, эстрадный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a symphonic music concert</value>
+          <translation>концерт симфонической музыки</translation>
+          <comment>symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>an organ music concert</value>
+          <translation>концерт органной музыки</translation>
+          <comment>organ - орган, органный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to go to concerts</value>
+          <translation>ходить на концерты</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a concert hall</value>
+          <translation>концертный зал</translation>
+          <comment>concert - концертный, hall - зал</comment>
+       </example>
+       <example>
+          <value>to give a concert</value>
+          <translation>давать концерт</translation>
+          <comment>to give - давать, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to go to a concert</value>
+          <translation>пойти на концерт</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a chamber music concert</value>
+          <translation>послушать концерт камерной музыки</translation>
+          <comment>to listen - слушать, chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a symphonic music concert</value>
+          <translation>послушать концерт симфонической музыки</translation>
+          <comment>to listen - слушать, symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to an organ music concert</value>
+          <translation>послушать концерт органной музыки</translation>
+          <comment>to listen - слушать, organ - органный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dance</question>
+    <answer>танец, танцевать</answer>
+    <comment>[dæns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b8546fbf-4a5c-48b2-8ca2-43ae5680ef83</uuid>
+    <examples>
+       <example>
+          <value>to ask somebody for a dance</value>
+          <translation>пригласить кого-л. на танец</translation>
+          <comment>to ask - просить, somebody - кто-либо, dance - танец</comment>
+       </example>
+       <example>
+          <value>to dance today</value>
+          <translation>танцевать сегодня</translation>
+          <comment>to dance - танцевать, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>some</question>
+    <answer>некоторый</answer>
+    <comment>[sʌm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9e42dd20-8b9d-41f8-aa1f-e926a1733ea3</uuid>
+    <examples>
+       <example>
+          <value>to have some coffee</value>
+          <translation>выпить кофе</translation>
+          <comment>to have - иметь, some - некоторое количество, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>some large notes</value>
+          <translation>несколько крупных купюр</translation>
+          <comment>some - некоторое количество, large - большой, note - банкнота, купюра</comment>
+       </example>
+       <example>
+          <value>some notes</value>
+          <translation>несколько купюр</translation>
+          <comment>some - некоторое количество, note - банкнота, купюра</comment>
+       </example>
+       <example>
+          <value>some notes in large denominations</value>
+          <translation>несколько крупных купюр</translation>
+          <comment>some - некоторое количество, note - банкнота, купюра, large - большой, denomination - достоинство (банкноты)</comment>
+       </example>
+       <example>
+          <value>to change some dollars</value>
+          <translation>обменять доллары</translation>
+          <comment>to change - менять, обменять, some - некоторое количество, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>to change some money</value>
+          <translation>поменять деньги</translation>
+          <comment>to change - менять, обменять, some - некоторое количество, money - деньги</comment>
+       </example>
+       <example>
+          <value>to change some pounds</value>
+          <translation>обменять фунты</translation>
+          <comment>to change - менять, обменять, some - некоторое количество, pound - фунт</comment>
+       </example>
+       <example>
+          <value>to change some roubles</value>
+          <translation>обменять рубли</translation>
+          <comment>to change - менять, обменять, some - некоторое количество, rouble - рубль</comment>
+       </example>
+       <example>
+          <value>to expect some money</value>
+          <translation>ожидать поступления денег</translation>
+          <comment>to expect - ожидать, some - некоторое количество, money - деньги</comment>
+       </example>
+       <example>
+          <value>to stay for some days</value>
+          <translation>оставаться на несколько дней</translation>
+          <comment>to stay - оставаться, some - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>to have some more coffee</value>
+          <translation>выпить еще кофе</translation>
+          <comment>to have - иметь, some - некоторое количество, more - еще, больше, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to bring some tea</value>
+          <translation>принести чай</translation>
+          <comment>to bring - принести, some - некоторое количество, tea - чай</comment>
+       </example>
+       <example>
+          <value>a prescription for some pills</value>
+          <translation>рецепт на таблетки</translation>
+          <comment>prescription - рецепт, some - некоторое количество, pill - таблетка</comment>
+       </example>
+       <example>
+          <value>to sit some distance from the screen</value>
+          <translation>сидеть не очень близко от экрана</translation>
+          <comment>to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+       <example>
+          <value>some other color</value>
+          <translation>другой цвет</translation>
+          <comment>some - некоторый, other - другой, color - цвет</comment>
+       </example>
+       <example>
+          <value>to make some purchases</value>
+          <translation>сделать кое-какие покупки</translation>
+          <comment>to make - делать, some - некоторый, purchase - покупка</comment>
+       </example>
+       <example>
+          <value>to try on some boots</value>
+          <translation>прмерить сапоги</translation>
+          <comment>to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+       <example>
+          <value>to try on some shoes</value>
+          <translation>примерить туфли</translation>
+          <comment>to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+       <example>
+          <value>some people</value>
+          <translation>какие-то люди</translation>
+          <comment>some - некоторый, people - люди</comment>
+       </example>
+       <example>
+          <value>to look at some samples</value>
+          <translation>посмотреть на некоторые образцы</translation>
+          <comment>some - некоторый, sample - образец, пример</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>glass</question>
+    <answer>бокал, стакан</answer>
+    <comment>[glæs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9cea31cc-6458-47b8-879e-dad0b575ef84</uuid>
+    <examples>
+       <example>
+          <value>to offer somebody a glass of wine</value>
+          <translation>предложить кому-л. бокал вина</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>a big glass</value>
+          <translation>большой стакан</translation>
+          <comment>big - большой, glass - стакан</comment>
+       </example>
+       <example>
+          <value>a glass of beer</value>
+          <translation>бокал (стакан) пива</translation>
+          <comment>glass - стакан, beer - пиво</comment>
+       </example>
+       <example>
+          <value>a glass of wine</value>
+          <translation>бокал вина</translation>
+          <comment>glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>to bring a glass</value>
+          <translation>принести бокал</translation>
+          <comment>to bring - приносить, glass - бокал</comment>
+       </example>
+       <example>
+          <value>to get a pair of opera glasses</value>
+          <translation>взять бинокль</translation>
+          <comment>to get - взять, достать, a pair - пара, opera - опера, glass - стекло</comment>
+       </example>
+       <example>
+          <value>to hire opera glasses</value>
+          <translation>взять напрокат бинокль</translation>
+          <comment>to hire - взять напрокат, opera glasses - бинокль</comment>
+       </example>
+       <example>
+          <value>to have a glass of beer</value>
+          <translation>попить пива</translation>
+          <comment>to have - иметь, glass - бокал, beer - пиво</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>one</question>
+    <answer>один</answer>
+    <comment>[wʌn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8bcd705-fc50-4d30-9524-13cca2f6380a</uuid>
+    <examples>
+       <example>
+          <value>one evening</value>
+          <translation>одним вечером, когда-нибудь вечером</translation>
+          <comment>one - один, evening - вечер</comment>
+       </example>
+       <example>
+          <value>to drop in one evening</value>
+          <translation>зайти, заглянуть (к кому-либо) как-нибудь вечером</translation>
+          <comment>to drop - бросать, падать, to drop in - заглянуть, забежать, зайти</comment>
+       </example>
+       <example>
+          <value>to withdraw one thousand dollars</value>
+          <translation>снять одну тысячу долларов</translation>
+          <comment>to withdraw - снять (со счета), thousand - тысяча, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>to bring one more chair</value>
+          <translation>принести еще один стул</translation>
+          <comment>to bring - принести, one more - еще один, chair - стул</comment>
+       </example>
+       <example>
+          <value>to bring one more setting</value>
+          <translation>принести еще один прибор</translation>
+          <comment>to bring - принести, one more - еще один, setting - прибор (столовый)</comment>
+       </example>
+       <example>
+          <value>a one-way ticket</value>
+          <translation>билет в один конец</translation>
+          <comment>one - один, way - путь, ticket - билет</comment>
+       </example>
+       <example>
+          <value>one ticket to Moscow</value>
+          <translation>один билет до Москвы</translation>
+          <comment>one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>to reserve one ticket</value>
+          <translation>забронировать один билет</translation>
+          <comment>to reserve - забронировать, one - один, ticket - билет</comment>
+       </example>
+       <example>
+          <value>one ticket</value>
+          <translation>один билет</translation>
+          <comment>one - один, ticket - билет</comment>
+       </example>
+       <example>
+          <value>one fish of medium size</value>
+          <translation>одна рыба среднего размера</translation>
+          <comment>one - один, fish - рыба, medium - средний, size - размер</comment>
+       </example>
+       <example>
+          <value>one grilled hen</value>
+          <translation>одна курица гриль</translation>
+          <comment>one - один, grill - гриль, hen - курица</comment>
+       </example>
+       <example>
+          <value>after one</value>
+          <translation>после часа</translation>
+          <comment>after - после, one - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>four</question>
+    <answer>четыре</answer>
+    <comment>[fɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90378900-b91b-405a-b97f-8af962069a3a</uuid>
+    <examples>
+       <example>
+          <value>at four</value>
+          <translation>в четыре (часа)</translation>
+          <comment>four - четыре</comment>
+       </example>
+       <example>
+          <value>to need a table for four</value>
+          <translation>нуждаться в столике на четверых</translation>
+          <comment>to need - нуждаться, table - стол, four - четыре</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Saturday</question>
+    <answer>суббота</answer>
+    <comment>[ˈsætərdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>227c0aaf-c148-4f15-98e6-4a1c62f5b5fe</uuid>
+    <examples>
+       <example>
+          <value>on Saturday</value>
+          <translation>в субботу</translation>
+          <comment>Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>to have tickets for Saturday</value>
+          <translation>иметь билеты на субботу</translation>
+          <comment>to have - иметь, ticket - билет, Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>two tickets for Saturday evening</value>
+          <translation>два билета на вечерний сеанс в субботу</translation>
+          <comment>two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cream</question>
+    <answer>сливки</answer>
+    <comment>[kriːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9267932b-688d-45fd-9527-309188882387</uuid>
+    <examples>
+       <example>
+          <value>to offer somebody an ice cream</value>
+          <translation>предложить кому-л. мороженое</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, ice cream - мороженое</comment>
+       </example>
+       <example>
+          <value>coffee with cream</value>
+          <translation>кофе со сливками</translation>
+          <comment>coffee - кофе, cream - сливки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>busy</question>
+    <answer>занятый</answer>
+    <comment>[ˈbɪziː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1f57bdac-eae4-4deb-9e50-404533e67b9a</uuid>
+    <examples>
+       <example>
+          <value>to be busy tomorrow</value>
+          <translation>быть занятым завтра</translation>
+          <comment>busy - занятый, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>a busy line</value>
+          <translation>занятая линия</translation>
+          <comment>busy - занятый, line - линия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cup</question>
+    <answer>чашка</answer>
+    <comment>[kʌp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c7d55215-1f37-4508-8148-95fc1ade4ddd</uuid>
+    <examples>
+       <example>
+          <value>a cup of coffee</value>
+          <translation>чашка кофе</translation>
+          <comment>cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to offer somebody a cup of coffee</value>
+          <translation>предложить кому-л. чашку кофе</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>a cup of hot chocolate</value>
+          <translation>чашка горячего шоколада</translation>
+          <comment>cup - чашка, hot - горячий, chocolate - шоколад</comment>
+       </example>
+       <example>
+          <value>to prefer a cup of tea</value>
+          <translation>предпочесть чашку чая</translation>
+          <comment>to prefer - предпочитать, cup - чашка, tea - чай</comment>
+       </example>
+       <example>
+          <value>to serve coffee in cups</value>
+          <translation>подавать кофе в чашках</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, cup - чашка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>movie</question>
+    <answer>кино</answer>
+    <comment>[ˈmuːviː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cbfe766e-52ca-4c9d-acf7-fc4e06ae8c49</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to the movies</value>
+          <translation>пригласить кого-л. в кино</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, movie - кинофильм</comment>
+       </example>
+       <example>
+          <value>a horror movie</value>
+          <translation>фильм ужасов</translation>
+          <comment>horror - ужас, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>a movie theater</value>
+          <translation>кинотеатр</translation>
+          <comment>movie - кино, theater - театр</comment>
+       </example>
+       <example>
+          <value>a science fiction movie</value>
+          <translation>научно-фантастический фильм</translation>
+          <comment>science - наука, fiction - фантастика, movie - фильм</comment>
+       </example>
+       <example>
+          <value>favorite movie star</value>
+          <translation>любимый актер (актриса)</translation>
+          <comment>favorite - любимый, movie - кино, фильм, star - звезда</comment>
+       </example>
+       <example>
+          <value>the nearest movie theater</value>
+          <translation>ближайший кинотеатр</translation>
+          <comment>the nearest - ближайший, movie theater - кинотеатр</comment>
+       </example>
+       <example>
+          <value>to come to the movies</value>
+          <translation>прийти в кино</translation>
+          <comment>to come - приходить, movie - кино</comment>
+       </example>
+       <example>
+          <value>to go to the movies</value>
+          <translation>пойти в кино</translation>
+          <comment>to go - идти, movie - кино</comment>
+       </example>
+       <example>
+          <value>I liked the movie.</value>
+          <translation>Фильм мне понравился.</translation>
+          <comment>to like - любить, нравиться, movie - кино</comment>
+       </example>
+       <example>
+          <value>to make the book into a movie</value>
+          <translation>экранизировать фильм</translation>
+          <comment>to make - делать, book - книга, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>to see a horror movie</value>
+          <translation>посмотреть ужастик</translation>
+          <comment>to see - видеть, horror - ужас, movie - фильм, кино</comment>
+       </example>
+       <example>
+          <value>to see a science fiction movie</value>
+          <translation>посмотреть научно-фантастический фильм</translation>
+          <comment>to see - видеть, science - наука, fiction - выдумка, movie - фильм, кино</comment>
+       </example>
+       <example>
+          <value>to want to go to the movies</value>
+          <translation>хотеть пойти в кино</translation>
+          <comment>to want - хотеть, to go - ехать, movie - кино, фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>museum</question>
+    <answer>музей</answer>
+    <comment>[mjuːˈziːəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d5dde61-4140-4ad3-a5cc-958a1ce87a27</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to a museum</value>
+          <translation>пригласить кого-л. в музей</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, museum - музей</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>three</question>
+    <answer>три</answer>
+    <comment>[θriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd36fd09-55e0-461d-ac5e-3955e4c09bd6</uuid>
+    <examples>
+       <example>
+          <value>at three</value>
+          <translation>в три (часа)</translation>
+          <comment>three - три</comment>
+       </example>
+       <example>
+          <value>a table for three</value>
+          <translation>столик на троих</translation>
+          <comment>table - стол, three - три</comment>
+       </example>
+       <example>
+          <value>number three</value>
+          <translation>номер три</translation>
+          <comment>number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>platform number three</value>
+          <translation>платформа №3</translation>
+          <comment>platform - платформа, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>for three days</value>
+          <translation>на три дня</translation>
+          <comment>three - три, day - день</comment>
+       </example>
+       <example>
+          <value>three envelopes</value>
+          <translation>три конверта</translation>
+          <comment>three - три, envelope - конверт</comment>
+       </example>
+       <example>
+          <value>a three minute call</value>
+          <translation>трехминутный звонок</translation>
+          <comment>three - три, minute - минута, call - звонок</comment>
+       </example>
+       <example>
+          <value>to buy a three days ticket</value>
+          <translation>купить проездной билет на три дня</translation>
+          <comment>to buy - покупать, three - три, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to take it three times a day</value>
+          <translation>принимать это три раза в день</translation>
+          <comment>to take - принимать, three - три, time - раз, day - день</comment>
+       </example>
+       <example>
+          <value>a three act play</value>
+          <translation>пьеса на три акта</translation>
+          <comment>three - три, act - акт, play - пьеса</comment>
+       </example>
+       <example>
+          <value>three tickets</value>
+          <translation>три билета</translation>
+          <comment>three - три, ticket - билеты</comment>
+       </example>
+       <example>
+          <value>to take three oranges</value>
+          <translation>взять три апельсина</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>to three</value>
+          <translation>до трех (часов)</translation>
+          <comment>three - три</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ice</question>
+    <answer>лед</answer>
+    <comment>[аɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>199577ed-1bb0-4954-b5be-b26088a6ed0b</uuid>
+    <examples>
+       <example>
+          <value>to offer somebody an ice cream</value>
+          <translation>предложить кому-л. мороженое</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, ice cream - мороженое</comment>
+       </example>
+       <example>
+          <value>water with ice</value>
+          <translation>вода со льдом</translation>
+          <comment>water - вода, ice - лед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>any</question>
+    <answer>любой</answer>
+    <comment>[ˈeniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2d71f4b9-52b0-4068-9ccd-a36893fc20dc</uuid>
+    <examples>
+       <example>
+          <value>any day</value>
+          <translation>в любой день</translation>
+          <comment>any - любой, day - день</comment>
+       </example>
+       <example>
+          <value>any time</value>
+          <translation>в любое время</translation>
+          <comment>any - любой, time - время</comment>
+       </example>
+       <example>
+          <value>to have any vacancies</value>
+          <translation>иметь свободные места</translation>
+          <comment>to have - иметь, vacancy - свободное место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>walk</question>
+    <answer>прогулка</answer>
+    <comment>[wɔːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f600430-1c70-4ab2-9dcd-b6242cdfe377</uuid>
+    <examples>
+       <example>
+          <value>to come for a walk</value>
+          <translation>пойти прогуляться (с кем-либо)</translation>
+          <comment>to come - приходить, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>to go for a walk</value>
+          <translation>пойти на прогулку</translation>
+          <comment>to go - идти, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>to walk in the park</value>
+          <translation>гулять по парку</translation>
+          <comment>to walk - гулять, park - парк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sunday</question>
+    <answer>воскресенье</answer>
+    <comment>[ˈsʌndiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7ec8d774-d9e3-424e-99f7-f571761356eb</uuid>
+    <examples>
+       <example>
+          <value>on Sunday</value>
+          <translation>в воскресенье</translation>
+          <comment>Sunday - воскресенье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chess</question>
+    <answer>шахматы</answer>
+    <comment>[ʧes]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4c27da0d-be7a-4d14-93a9-2c8ebdc03326</uuid>
+    <examples>
+       <example>
+          <value>a game of chess</value>
+          <translation>партия в шахматы</translation>
+          <comment>game - партия, игра, chess - шахматы</comment>
+       </example>
+       <example>
+          <value>to play chess</value>
+          <translation>играть в шахматы</translation>
+          <comment>to play - играть, chess - шахматы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>way</question>
+    <answer>путь</answer>
+    <comment>[weɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e9c65bd9-b149-490c-81f3-72f67d8a2901</uuid>
+    <examples>
+       <example>
+          <value>this way</value>
+          <translation>этот путь</translation>
+          <comment>this - этот, эта, way - путь, дорога</comment>
+       </example>
+       <example>
+          <value>a one-way ticket</value>
+          <translation>билет в один конец</translation>
+          <comment>one - один, way - путь, ticket - билет</comment>
+       </example>
+       <example>
+          <value>a great way</value>
+          <translation>замечательный способ</translation>
+          <comment>great - замечательный, way - путь, способ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>drink</question>
+    <answer>пить</answer>
+    <comment>[drɪŋk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>003c1005-8c34-44f9-bca9-34a03b84b178</uuid>
+    <examples>
+       <example>
+          <value>to have a drink</value>
+          <translation>выпить</translation>
+          <comment>to have - иметь, to drink - пить</comment>
+       </example>
+       <example>
+          <value>to give something to drink</value>
+          <translation>дать что-нибудь попить</translation>
+          <comment>to give - дать, something - что-либо, to drink - пить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>take</question>
+    <answer>брать, взять</answer>
+    <comment>[teɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0bba416c-4681-4a95-9732-c4dcf3c1bc60</uuid>
+    <examples>
+       <example>
+          <value>to take your seat</value>
+          <translation>занять ваше место</translation>
+          <comment>to take - брать, занимать, your - твой, ваш, seat - место, сиденье</comment>
+       </example>
+       <example>
+          <value>to take down my suitcases</value>
+          <translation>снести вниз мои чемоданы</translation>
+          <comment>to take down - унести вниз, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to take my baggage</value>
+          <translation>отнести (взять) мой багаж</translation>
+          <comment>to take - брать, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to take this bag</value>
+          <translation>отнести (взять) эту сумку</translation>
+          <comment>to take - брать, this - этот, эта, bag - сумка</comment>
+       </example>
+       <example>
+          <value>to take this suitcase</value>
+          <translation>отнести (взять) этот чемодан</translation>
+          <comment>to take - брать, this - этот, эта, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to take an omelet</value>
+          <translation>взять омлет</translation>
+          <comment>to take - брать, omelet - омлет</comment>
+       </example>
+       <example>
+          <value>to take the same</value>
+          <translation>брать то же самое</translation>
+          <comment>to take - брать, the same - то же самое</comment>
+       </example>
+       <example>
+          <value>to take this orange juice</value>
+          <translation>взять этот апельсиновый сок</translation>
+          <comment>to take - брать, orange - апельсин, juice - сок</comment>
+       </example>
+       <example>
+          <value>It takes off at five p.m.</value>
+          <translation>Он взлетает в пять часов вечера.</translation>
+          <comment>to take off - взлетать, five - пять, p.m. - после полудня</comment>
+       </example>
+       <example>
+          <value>to take with me</value>
+          <translation>взять с собой</translation>
+          <comment>to take - взять, with - с (кем-л.), me - мне, меня</comment>
+       </example>
+       <example>
+          <value>to take on a tow</value>
+          <translation>взять на буксир</translation>
+          <comment>to take - брать, взять, tow - буксир</comment>
+       </example>
+       <example>
+          <value>to take a message</value>
+          <translation>принять сообщение</translation>
+          <comment>to take - взять, message - сообщение</comment>
+       </example>
+       <example>
+          <value>to take a bus</value>
+          <translation>сесть на автобус</translation>
+          <comment>to take - садиться в, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to take a line</value>
+          <translation>сесть на маршрут</translation>
+          <comment>to take - сесть в, line - маршрут</comment>
+       </example>
+       <example>
+          <value>to take a streetcar</value>
+          <translation>сесть в трамвай</translation>
+          <comment>to take - сесть в, streetcar - трамвай</comment>
+       </example>
+       <example>
+          <value>to take my luggage</value>
+          <translation>взять мой багаж</translation>
+          <comment>to take - брать, my - мой, моя, моё, luggage - багаж</comment>
+       </example>
+       <example>
+          <value>to take to the airport</value>
+          <translation>отвезти в аэропорт</translation>
+          <comment>to take (to) - отвезти (в), airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>to take to the hotel</value>
+          <translation>отвезти в гостиницу</translation>
+          <comment>to take (to) - отвезти (в), hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to take to the railroad station</value>
+          <translation>отвезти на вокзал</translation>
+          <comment>to take (to) - отвезти (в), railroad station - ж/д вокзал, rail -рельс, road - дорога</comment>
+       </example>
+       <example>
+          <value>to take to this address</value>
+          <translation>отвезти по этому адресу</translation>
+          <comment>to take (to) - отвезти (в), address - адрес</comment>
+       </example>
+       <example>
+          <value>to take it three times a day</value>
+          <translation>принимать это три раза в день</translation>
+          <comment>to take - принимать, three - три, time - раз, day - день</comment>
+       </example>
+       <example>
+          <value>to take it</value>
+          <translation>брать (купить) это</translation>
+          <comment>to take - взять, it - это</comment>
+       </example>
+       <example>
+          <value>to take three oranges</value>
+          <translation>взять три апельсина</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>it takes much time</value>
+          <translation>это занимает много времени</translation>
+          <comment>to take - занимать, брать, much - много, time - время</comment>
+       </example>
+       <example>
+          <value>to take this medicine</value>
+          <translation>принимать это лекарство</translation>
+          <comment>to take - принимать, брать, this - этот, эта, medicine - лекарство</comment>
+       </example>
+       <example>
+          <value>to take a ride around the city</value>
+          <translation>покататься по городу</translation>
+          <comment>to take - взять, ride - поездка, around - вокруг, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>coffee</question>
+    <answer>кофе</answer>
+    <comment>[ˈkɔːfiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dd443ce6-9d85-449f-b5a6-e075d79a8b7c</uuid>
+    <examples>
+       <example>
+          <value>a cup of coffee</value>
+          <translation>чашка кофе</translation>
+          <comment>cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to have some coffee</value>
+          <translation>выпить кофе</translation>
+          <comment>to have - иметь, some - некоторое количество, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to offer somebody a cup of coffee</value>
+          <translation>предложить кому-л. чашку кофе</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>coffee with cream</value>
+          <translation>кофе со сливками</translation>
+          <comment>coffee - кофе, cream - сливки</comment>
+       </example>
+       <example>
+          <value>coffee with milk</value>
+          <translation>кофе с молоком</translation>
+          <comment>coffee - кофе, milk - молоко</comment>
+       </example>
+       <example>
+          <value>to have some more coffee</value>
+          <translation>выпить еще кофе</translation>
+          <comment>to have - иметь, some - некоторое количество, more - еще, больше, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to serve coffee in a coffee pot</value>
+          <translation>подавать кофе в кофейнике</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, coffee pot - кофейник</comment>
+       </example>
+       <example>
+          <value>to serve coffee in cups</value>
+          <translation>подавать кофе в чашках</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, cup - чашка</comment>
+       </example>
+       <example>
+          <value>to serve coffee</value>
+          <translation>подавать кофе</translation>
+          <comment>to serve - подавать, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to want black coffee</value>
+          <translation>хотеть черный кофе</translation>
+          <comment>to want - хотеть, black - черный, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>instant coffee</value>
+          <translation>растворимый кофе</translation>
+          <comment>instant - растворимый, coffee - кофе</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>evening</question>
+    <answer>вечер</answer>
+    <comment>[ˈiːvnɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8eba2655-3b48-4b83-ba2e-f21743898f98</uuid>
+    <examples>
+       <example>
+          <value>one evening</value>
+          <translation>одним вечером, когда-нибудь вечером</translation>
+          <comment>one - один, evening - вечер</comment>
+       </example>
+       <example>
+          <value>to come over on Friday evening</value>
+          <translation>зайти (к кому-либо домой) в пятницу вечером</translation>
+          <comment>to come over - приходить в гости к кому-либо домой</comment>
+       </example>
+       <example>
+          <value>to drop in one evening</value>
+          <translation>зайти, заглянуть (к кому-либо) как-нибудь вечером</translation>
+          <comment>to drop - бросать, падать, to drop in - заглянуть, забежать, зайти</comment>
+       </example>
+       <example>
+          <value>to spend this evening</value>
+          <translation>провести этот вечер</translation>
+          <comment>to spend - проводить (время), this - этот, эта, evening - вечер</comment>
+       </example>
+       <example>
+          <value>this evening</value>
+          <translation>сегодня вечером</translation>
+          <comment>this - этот, эта, это, evening - вечер</comment>
+       </example>
+       <example>
+          <value>the evening performance</value>
+          <translation>вечерний спектакль</translation>
+          <comment>evening - вечерний, performance - спектакль, представление</comment>
+       </example>
+       <example>
+          <value>two tickets for Saturday evening</value>
+          <translation>два билета на вечерний сеанс в субботу</translation>
+          <comment>two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+       <example>
+          <value>the evening show</value>
+          <translation>вечерний сеанс</translation>
+          <comment>evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the evening show</value>
+          <translation>купить билеты на вечерний сеанс</translation>
+          <comment>to buy - купить, ticket - билет, evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>an evening dress</value>
+          <translation>вечернее платье</translation>
+          <comment>evening - вечер, вечерний, dress - платье</comment>
+       </example>
+       <example>
+          <value>in the evening</value>
+          <translation>вечером</translation>
+          <comment>evening - вечер</comment>
+       </example>
+       <example>
+          <value>Is evening dress required?</value>
+          <translation>Надо ли приходить в вечернем платье?</translation>
+          <comment>required - необходимый, to require - требовать, evening - вечерний, dress - платье</comment>
+       </example>
+       <example>
+          <value>to spend evenings</value>
+          <translation>проводить вечера</translation>
+          <comment>to spend - проводить (время), evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tomorrow</question>
+    <answer>завтра</answer>
+    <comment>[təˈmɔːroʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efe0b83f-a2b3-4f09-9981-4b0bf7fc7289</uuid>
+    <examples>
+       <example>
+          <value>to be busy tomorrow</value>
+          <translation>быть занятым завтра</translation>
+          <comment>busy - занятый, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to be free tomorrow</value>
+          <translation>быть свободным завтра</translation>
+          <comment>free - свободный, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>I&apos;ll come by tomorrow.</value>
+          <translation>Я забегу (к тебе) завтра.</translation>
+          <comment>to come by - забежать, заскочить (к кому-либо), tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>tomorrow morning</value>
+          <translation>завтра утром</translation>
+          <comment>tomorrow - завтра, morning - утро</comment>
+       </example>
+       <example>
+          <value>to be ready tomorrow</value>
+          <translation>быть готовым завтра</translation>
+          <comment>ready - готовый, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to have seats for tomorrow</value>
+          <translation>иметь билеты на завтра</translation>
+          <comment>to have - иметь, seat - место, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to have tickets for tomorrow</value>
+          <translation>иметь билеты на завтра</translation>
+          <comment>to have - иметь, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to buy tickets for tomorrow</value>
+          <translation>купить билеты на завтра</translation>
+          <comment>to buy - купить, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>the weather forecast for tomorrow</value>
+          <translation>прогноз погоды на завтра</translation>
+          <comment>weather - погода, forecast - прогноз, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>invite</question>
+    <answer>приглашать</answer>
+    <comment>[ɪnˈvаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3599e739-7583-4300-8bc9-1715f8a9b04c</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to a museum</value>
+          <translation>пригласить кого-л. в музей</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, museum - музей</comment>
+       </example>
+       <example>
+          <value>to invite somebody to a restaurant</value>
+          <translation>пригласить кого-л. в ресторан</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, restaurant - ресторан</comment>
+       </example>
+       <example>
+          <value>to invite somebody to lunch</value>
+          <translation>пригласить кого-л. на обед</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, lunch - обед</comment>
+       </example>
+       <example>
+          <value>to invite somebody to your place</value>
+          <translation>пригласить кого-л. к себе (=тебе) домой</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, place - место</comment>
+       </example>
+       <example>
+          <value>to invite somebody to the movies</value>
+          <translation>пригласить кого-л. в кино</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, movie - кинофильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>offer</question>
+    <answer>предлагать</answer>
+    <comment>[ˈɔːfər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c9bb681a-7548-4a06-86c7-9b411a38b5d1</uuid>
+    <examples>
+       <example>
+          <value>to offer somebody a cup of coffee</value>
+          <translation>предложить кому-л. чашку кофе</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to offer somebody a glass of wine</value>
+          <translation>предложить кому-л. бокал вина</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>to offer somebody an ice cream</value>
+          <translation>предложить кому-л. мороженое</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, ice cream - мороженое</comment>
+       </example>
+       <example>
+          <value>to offer a larger size</value>
+          <translation>предложить размер побольше</translation>
+          <comment>to offer - предлагать, larger - более крупный, large - большой, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>company</question>
+    <answer>компания</answer>
+    <comment>[ˈkʌmpəniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>03ebd4ff-6f9b-455a-aecd-2999af6491d2</uuid>
+    <examples>
+       <example>
+          <value>to keep somebody company</value>
+          <translation>составить кому-л. компанию</translation>
+          <comment>to keep - поддержать, хранить, somebody - кто-либо, company - компания</comment>
+       </example>
+       <example>
+          <value>the contacts of the company</value>
+          <translation>контакты компании</translation>
+          <comment>contact - контакт, company - компания</comment>
+       </example>
+       <example>
+          <value>an insurance company</value>
+          <translation>страховая компания</translation>
+          <comment>insurance - страховка, company - компания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>after</question>
+    <answer>после</answer>
+    <comment>[ˈæftər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53bd0584-d56f-4ce3-8625-a418b527bab0</uuid>
+    <examples>
+       <example>
+          <value>after dinner</value>
+          <translation>после ужина</translation>
+          <comment>after - после, dinner - обед, ужин</comment>
+       </example>
+       <example>
+          <value>after meals</value>
+          <translation>после еды</translation>
+          <comment>after - после, meal - еда, принятие пищи</comment>
+       </example>
+       <example>
+          <value>after eight</value>
+          <translation>после восьми</translation>
+          <comment>after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>after one</value>
+          <translation>после часа</translation>
+          <comment>after - после, one - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>here</question>
+    <answer>здесь</answer>
+    <comment>[hɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6359aef-4e4d-4744-a347-97906a053470</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - вот, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>to be written here</value>
+          <translation>быть написанным здесь</translation>
+          <comment>written - написанный, here - здесь</comment>
+       </example>
+       <example>
+          <value>here are</value>
+          <translation>вот (мн. число)</translation>
+          <comment>here - здесь</comment>
+       </example>
+       <example>
+          <value>here is</value>
+          <translation>вот (ед. число)</translation>
+          <comment>here - здесь</comment>
+       </example>
+       <example>
+          <value>to sign here</value>
+          <translation>подписать здесь</translation>
+          <comment>to sign - подписать, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня здесь.</translation>
+          <comment>to let off - высаживать (из машины), here - здесь</comment>
+       </example>
+       <example>
+          <value>to stop here</value>
+          <translation>остановить здесь</translation>
+          <comment>to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>to wait for you here</value>
+          <translation>подождать тебя здесь</translation>
+          <comment>to wait - ждать, ожидать, here - здесь</comment>
+       </example>
+       <example>
+          <value>from here</value>
+          <translation>отсюда</translation>
+          <comment>from - от, here - здесь</comment>
+       </example>
+       <example>
+          <value>to be on business here</value>
+          <translation>быть здесь по делу</translation>
+          <comment>business - дело, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>like</question>
+    <answer>любить, нравиться</answer>
+    <comment>[lаɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4b8dd15b-fafa-4e83-86fd-116302e42012</uuid>
+    <examples>
+       <example>
+          <value>would like</value>
+          <translation>хотеть</translation>
+          <comment>to like - любить, нравиться</comment>
+       </example>
+       <example>
+          <value>I like the room.</value>
+          <translation>Номер мне нравится.</translation>
+          <comment>to like - любить, нравиться, room - номер, комната (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to feel like eating something</value>
+          <translation>хотеть съесть что-нибудь</translation>
+          <comment>to feel like - хотеть, something - что-нибудь, to eat - есть, кушать</comment>
+       </example>
+       <example>
+          <value>to like the play</value>
+          <translation>понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>to like the play very much</value>
+          <translation>очень понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I liked the movie.</value>
+          <translation>Фильм мне понравился.</translation>
+          <comment>to like - любить, нравиться, movie - кино</comment>
+       </example>
+       <example>
+          <value>to like music</value>
+          <translation>любить музыку</translation>
+          <comment>to like - любить, нравиться, music - музыка</comment>
+       </example>
+       <example>
+          <value>to feel like dancing</value>
+          <translation>хотеть потанцевать</translation>
+          <comment>to feel like - хотеть, to dance - танцевать, dancing - танцы</comment>
+       </example>
+       <example>
+          <value>to like dancing</value>
+          <translation>любить танцевать</translation>
+          <comment>to like - любить, нравиться, dancing - танцы, to dance - танцевать</comment>
+       </example>
+       <example>
+          <value>to like to skate</value>
+          <translation>любить кататься на коньках</translation>
+          <comment>to like - любить, нравиться, to skate - кататься на коньках</comment>
+       </example>
+       <example>
+          <value>to like to ski</value>
+          <translation>любить кататься на лыжах</translation>
+          <comment>to like - любить, нравиться, to ski - кататься на лыжах</comment>
+       </example>
+       <example>
+          <value>to like to swim</value>
+          <translation>любить плавать</translation>
+          <comment>to like - любить, нравиться, to swim - плавать</comment>
+       </example>
+       <example>
+          <value>to like to travel</value>
+          <translation>любить путешествовать</translation>
+          <comment>to like - любить, нравиться, to travel - путешествовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lunch</question>
+    <answer>обед</answer>
+    <comment>[lʌnʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5e7bef6-8997-4642-b3c9-b8266b2ace0d</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to lunch</value>
+          <translation>пригласить кого-л. на обед</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, lunch - обед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>game</question>
+    <answer>игра</answer>
+    <comment>[geɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>32d5dc09-2a12-45e4-980c-11bda80634bc</uuid>
+    <examples>
+       <example>
+          <value>a game of chess</value>
+          <translation>партия в шахматы</translation>
+          <comment>game - партия, игра, chess - шахматы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>free</question>
+    <answer>свободный</answer>
+    <comment>[friː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6595c859-c17f-4031-b7e9-6a9aa1c620f0</uuid>
+    <examples>
+       <example>
+          <value>to be free tomorrow</value>
+          <translation>быть свободным завтра</translation>
+          <comment>free - свободный, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>the duty-free shop</value>
+          <translation>магазин duty-free</translation>
+          <comment>duty-free - беспошлинный, shop - магазин</comment>
+       </example>
+       <example>
+          <value>free-of-charge parking</value>
+          <translation>бесплатная парковка</translation>
+          <comment>free-of-charge - бесплатный, free - свободный, charge - цена, parking - парковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>seat</question>
+    <answer>место</answer>
+    <comment>[siːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2a1cdb71-05c2-435f-b8c4-3152d6130e4d</uuid>
+    <examples>
+       <example>
+          <value>to take your seat</value>
+          <translation>занять ваше место</translation>
+          <comment>to take - брать, занимать, your - твой, ваш, seat - место, сиденье</comment>
+       </example>
+       <example>
+          <value>a taken seat</value>
+          <translation>занятое место</translation>
+          <comment>taken - занятый, seat - место</comment>
+       </example>
+       <example>
+          <value>to tip up the seat</value>
+          <translation>откинуть кресло</translation>
+          <comment>to tip up - опрокидывать, seat - сиденье</comment>
+       </example>
+       <example>
+          <value>to occupy seats</value>
+          <translation>занимать сидения</translation>
+          <comment>to occupy - занимать, a seat - место, сидение</comment>
+       </example>
+       <example>
+          <value>good seats</value>
+          <translation>хорошие места</translation>
+          <comment>good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>seats in the balcony</value>
+          <translation>места на балконе</translation>
+          <comment>seat - место, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>to have seats for tomorrow</value>
+          <translation>иметь билеты на завтра</translation>
+          <comment>to have - иметь, seat - место, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>two seats in the amphitheater</value>
+          <translation>два билета в амфитеатре</translation>
+          <comment>two - два, seat - место, amphitheater - амфитеатр</comment>
+       </example>
+       <example>
+          <value>two seats in the box</value>
+          <translation>два билета в ложе</translation>
+          <comment>two - два, seat - место, box - ложа в театре</comment>
+       </example>
+       <example>
+          <value>two seats in the dress circle</value>
+          <translation>два билета в бельэтаже</translation>
+          <comment>two - два, seat - место, dress circle - бельэтаж</comment>
+       </example>
+       <example>
+          <value>two seats in the gallery</value>
+          <translation>два билета на галерке</translation>
+          <comment>two - два, seat - место, gallery - галерка в театре</comment>
+       </example>
+       <example>
+          <value>two seats in the orchestra</value>
+          <translation>два билета в партере</translation>
+          <comment>two - два, seat - место, orchestra - партер в театре</comment>
+       </example>
+       <example>
+          <value>a very good seat</value>
+          <translation>очень хорошее место</translation>
+          <comment>very - очень, good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>to change seats</value>
+          <translation>поменяться местами</translation>
+          <comment>to change - меняться, seat - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>day</question>
+    <answer>день</answer>
+    <comment>[deɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff6d7612-6759-433b-a270-7da4f77e496c</uuid>
+    <examples>
+       <example>
+          <value>any day</value>
+          <translation>в любой день</translation>
+          <comment>any - любой, day - день</comment>
+       </example>
+       <example>
+          <value>for twelve days</value>
+          <translation>на 12 дней</translation>
+          <comment>twelve - двенадцать, day - день</comment>
+       </example>
+       <example>
+          <value>for several days</value>
+          <translation>в течение нескольких дней</translation>
+          <comment>several - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>to stay for a day</value>
+          <translation>оставаться на день</translation>
+          <comment>to stay - оставаться, day -день</comment>
+       </example>
+       <example>
+          <value>to stay for some days</value>
+          <translation>оставаться на несколько дней</translation>
+          <comment>to stay - оставаться, some - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>for three days</value>
+          <translation>на три дня</translation>
+          <comment>three - три, day - день</comment>
+       </example>
+       <example>
+          <value>how many days</value>
+          <translation>сколько дней</translation>
+          <comment>how many - сколько, day - день</comment>
+       </example>
+       <example>
+          <value>rent of a car per day</value>
+          <translation>аренда машины в день</translation>
+          <comment>rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>to buy a day ticket</value>
+          <translation>купить проездной билет на сутки</translation>
+          <comment>to buy - покупать, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a three days ticket</value>
+          <translation>купить проездной билет на три дня</translation>
+          <comment>to buy - покупать, three - три, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to take it three times a day</value>
+          <translation>принимать это три раза в день</translation>
+          <comment>to take - принимать, three - три, time - раз, day - день</comment>
+       </example>
+       <example>
+          <value>five days</value>
+          <translation>пять дней</translation>
+          <comment>five - пять, day - день</comment>
+       </example>
+       <example>
+          <value>a lovely day</value>
+          <translation>прекрасный день</translation>
+          <comment>lovely - прекрасный, day - день</comment>
+       </example>
+       <example>
+          <value>a nice day</value>
+          <translation>хороший день</translation>
+          <comment>nice - хороший, day - день</comment>
+       </example>
+       <example>
+          <value>all day long</value>
+          <translation>целый день</translation>
+          <comment>all - весь, day - день, long - долго</comment>
+       </example>
+       <example>
+          <value>a cold day</value>
+          <translation>холодный день</translation>
+          <comment>cold - холодный, day - день</comment>
+       </example>
+       <example>
+          <value>a cool day</value>
+          <translation>прохладный день</translation>
+          <comment>cool - прохладный, day - день</comment>
+       </example>
+       <example>
+          <value>a foggy day</value>
+          <translation>туманный день</translation>
+          <comment>foggy - туманный, day - день</comment>
+       </example>
+       <example>
+          <value>a hot day</value>
+          <translation>жаркий день</translation>
+          <comment>hot - жаркий, day - день</comment>
+       </example>
+       <example>
+          <value>a rainy day</value>
+          <translation>дождливый день</translation>
+          <comment>rainy - дождливый, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>card</question>
+    <answer>карта</answer>
+    <comment>[kɑːrd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fad9cb14-380c-4b95-b9cc-9aac747c112e</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - вот, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>a plastic card</value>
+          <translation>пластиковая карточка</translation>
+          <comment>plastic - пластиковый, card - карта, карточка</comment>
+       </example>
+       <example>
+          <value>to receive money by credit card</value>
+          <translation>получить деньги по кредитной карточке</translation>
+          <comment>to receive - получить, money - деньги, credit card - кредитная карта</comment>
+       </example>
+       <example>
+          <value>to start a credit card</value>
+          <translation>открыть кредитную карточку</translation>
+          <comment>to start - начать, credit card - кредитная карта</comment>
+       </example>
+       <example>
+          <value>to pay by credit card</value>
+          <translation>заплатить кредитной карточкой</translation>
+          <comment>to pay - платить, credit card - кредитная карта</comment>
+       </example>
+       <example>
+          <value>a congratulations card</value>
+          <translation>поздравительная открытка</translation>
+          <comment>congratulation - поздравление, card - карточка, открытка</comment>
+       </example>
+       <example>
+          <value>a card for a cellphone</value>
+          <translation>карточка для сотового телефона</translation>
+          <comment>card - карточка, cell - сотовый, phone - телефон</comment>
+       </example>
+       <example>
+          <value>a telephone card</value>
+          <translation>телефонная карта</translation>
+          <comment>phone - телефонный, телефон, card - карта</comment>
+       </example>
+       <example>
+          <value>to buy a telephone card</value>
+          <translation>купить телефонную карту</translation>
+          <comment>to buy - покупать, telephone - телефон, card - карта</comment>
+       </example>
+       <example>
+          <value>to use this credit card for the payment</value>
+          <translation>использовать эту кредитную карту для оплаты</translation>
+          <comment>to use - использовать, this - этот, эта, credit - кредитный, card - карта, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>care</question>
+    <answer>питать интерес</answer>
+    <comment>[ker]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2976f105-56e3-4139-a804-e9932906dcff</uuid>
+    <examples>
+       <example>
+          <value>would care</value>
+          <translation>хотеть, желать</translation>
+          <comment>to care - питать интерес, любовь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>theater</question>
+    <answer>театр</answer>
+    <comment>[ˈθɪətər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1da4573e-b4ef-44a8-b40e-d79e4aaf1a86</uuid>
+    <examples>
+       <example>
+          <value>to go to the theater</value>
+          <translation>идти в театр</translation>
+          <comment>to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>to arrive at the theater</value>
+          <translation>подъехать к театру</translation>
+          <comment>to arrive - прибывать, подъезжать, theater - театр</comment>
+       </example>
+       <example>
+          <value>to the theater</value>
+          <translation>до театра</translation>
+          <comment>to - до, theater - театр</comment>
+       </example>
+       <example>
+          <value>to go to the Drama Theater</value>
+          <translation>пойти в драматический театр</translation>
+          <comment>to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>to go to the Puppet Theater</value>
+          <translation>пойти в кукольный театр</translation>
+          <comment>to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+       <example>
+          <value>to go to the Young Spectator Theater</value>
+          <translation>пойти в театр юного зрителя</translation>
+          <comment>to go - идти, the Young Spectator Theater - театр юного зрителя</comment>
+       </example>
+       <example>
+          <value>a movie theater</value>
+          <translation>кинотеатр</translation>
+          <comment>movie - кино, theater - театр</comment>
+       </example>
+       <example>
+          <value>the nearest movie theater</value>
+          <translation>ближайший кинотеатр</translation>
+          <comment>the nearest - ближайший, movie theater - кинотеатр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sit</question>
+    <answer>сидеть</answer>
+    <comment>[sɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>be795188-4fd7-4e8f-98cb-469db74c7686</uuid>
+    <examples>
+       <example>
+          <value>to sit down</value>
+          <translation>садиться</translation>
+          <comment>to sit - сидеть, down - вниз</comment>
+       </example>
+       <example>
+          <value>to prefer to sit</value>
+          <translation>предпочитать сидеть</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть</comment>
+       </example>
+       <example>
+          <value>to sit in row ten</value>
+          <translation>сидеть в десятом ряду</translation>
+          <comment>to sit - сидеть, row - ряд, ten - десять</comment>
+       </example>
+       <example>
+          <value>to sit in the back rows</value>
+          <translation>сидеть на задних рядах</translation>
+          <comment>to sit - сидеть, back - задний, row - ряд</comment>
+       </example>
+       <example>
+          <value>to sit in the front rows</value>
+          <translation>сидеть в передних рядах</translation>
+          <comment>to sit - сидеть, front - передний, row - ряд</comment>
+       </example>
+       <example>
+          <value>to sit some distance from the screen</value>
+          <translation>сидеть не очень близко от экрана</translation>
+          <comment>to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Friday</question>
+    <answer>пятница</answer>
+    <comment>[ˈfrаɪdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7bd75747-4506-41ba-a162-f5ec898b9435</uuid>
+    <examples>
+       <example>
+          <value>to come over on Friday evening</value>
+          <translation>зайти (к кому-либо домой) в пятницу вечером</translation>
+          <comment>to come over - приходить в гости к кому-либо домой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>restaurant</question>
+    <answer>ресторан</answer>
+    <comment>[ˈrestəˌrɑːnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cadfd9da-ef4b-4da6-9d1b-982d0d84771e</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to a restaurant</value>
+          <translation>пригласить кого-л. в ресторан</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, restaurant - ресторан</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>drop</question>
+    <answer>драже, леденец</answer>
+    <comment>[drɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec458aa9-ebf5-4981-b6f0-60cf079370b5</uuid>
+    <examples>
+       <example>
+          <value>to drop in one evening</value>
+          <translation>зайти, заглянуть (к кому-либо) как-нибудь вечером</translation>
+          <comment>to drop - бросать, падать, to drop in - заглянуть, забежать, зайти</comment>
+       </example>
+       <example>
+          <value>cough drops</value>
+          <translation>таблетки от кашля</translation>
+          <comment>cough - кашель, drop - драже, леденец</comment>
+       </example>
+       <example>
+          <value>to have cough drops</value>
+          <translation>иметь таблетки от кашля</translation>
+          <comment>to have - иметь, cough - кашель, drop - леденцы, драже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dinner</question>
+    <answer>обед</answer>
+    <comment>[ˈdɪnər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>085e52bd-08e1-48af-be9a-1216bcdbad74</uuid>
+    <examples>
+       <example>
+          <value>after dinner</value>
+          <translation>после ужина</translation>
+          <comment>after - после, dinner - обед, ужин</comment>
+       </example>
+       <example>
+          <value>to have dinner</value>
+          <translation>обедать</translation>
+          <comment>to have - иметь, dinner - обед</comment>
+       </example>
+       <example>
+          <value>to have for dinner</value>
+          <translation>иметь на обед</translation>
+          <comment>to have - иметь, dinner - обед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>place</question>
+    <answer>место</answer>
+    <comment>[pleɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bac80b01-a864-4758-ba3a-15adc3d8be2a</uuid>
+    <examples>
+       <example>
+          <value>to invite somebody to your place</value>
+          <translation>пригласить кого-л. к себе (=тебе) домой</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, place - место</comment>
+       </example>
+       <example>
+          <value>to find your place</value>
+          <translation>найти свое (твое) место</translation>
+          <comment>to find - находить, place - место</comment>
+       </example>
+       <example>
+          <value>to occupy a place</value>
+          <translation>занять место</translation>
+          <comment>to occupy - занимать, place - место</comment>
+       </example>
+       <example>
+          <value>to trade places</value>
+          <translation>поменяться местами</translation>
+          <comment>to trade - обмениваться, place - место</comment>
+       </example>
+       <example>
+          <value>to be at the place</value>
+          <translation>быть на месте</translation>
+          <comment>place - место</comment>
+       </example>
+       <example>
+          <value>a vacant place</value>
+          <translation>свободное место</translation>
+          <comment>vacant - незанятый, place - место</comment>
+       </example>
+       <example>
+          <value>to show our places</value>
+          <translation>показать наши места</translation>
+          <comment>to show - показать, our - наш, наши, place - место</comment>
+       </example>
+       <example>
+          <value>places in the middle</value>
+          <translation>средние места</translation>
+          <comment>place - место, middle - середина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>afternoon</question>
+    <answer>послеобеденное время</answer>
+    <comment>[ˈæftərˈnuːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>719d68a2-b772-452d-8861-69b55b3d256c</uuid>
+    <examples>
+       <example>
+          <value>this afternoon</value>
+          <translation>сегодня после обеда</translation>
+          <comment>this - этот, эта, afternoon - послеобеденное время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>time</question>
+    <answer>время</answer>
+    <comment>[tаɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c538592f-ed16-45b3-bab7-2609f6bce650</uuid>
+    <examples>
+       <example>
+          <value>any time</value>
+          <translation>в любое время</translation>
+          <comment>any - любой, time - время</comment>
+       </example>
+       <example>
+          <value>that time</value>
+          <translation>то/это время</translation>
+          <comment>that - тот, этот, time - время</comment>
+       </example>
+       <example>
+          <value>what time</value>
+          <translation>в какое время</translation>
+          <comment>what - что, какой, time - время</comment>
+       </example>
+       <example>
+          <value>the check-in time</value>
+          <translation>время регистрации</translation>
+          <comment>check-in регистрация, time - время</comment>
+       </example>
+       <example>
+          <value>to take it three times a day</value>
+          <translation>принимать это три раза в день</translation>
+          <comment>to take - принимать, three - три, time - раз, day - день</comment>
+       </example>
+       <example>
+          <value>to come next time</value>
+          <translation>прийти в следующий раз</translation>
+          <comment>to come - прийти, next - следующий, time - раз</comment>
+       </example>
+       <example>
+          <value>it takes much time</value>
+          <translation>это занимает много времени</translation>
+          <comment>to take - занимать, брать, much - много, time - время</comment>
+       </example>
+       <example>
+          <value>much time</value>
+          <translation>много времени</translation>
+          <comment>much - много, time - время</comment>
+       </example>
+       <example>
+          <value>spare time</value>
+          <translation>свободное время</translation>
+          <comment>spare - свободный, time - время</comment>
+       </example>
+       <example>
+          <value>to have a great time</value>
+          <translation>отлично провести время</translation>
+          <comment>to have - иметь, great - отличный, time - время</comment>
+       </example>
+       <example>
+          <value>to have spare time</value>
+          <translation>иметь свободное время</translation>
+          <comment>to have - иметь, spare - свободный, time - время</comment>
+       </example>
+       <example>
+          <value>to spend time at the slot machines</value>
+          <translation>проводить время за игровыми автоматами</translation>
+          <comment>to spend - проводить (время), slot - щель в игровом автомате, machine - машина</comment>
+       </example>
+       <example>
+          <value>to spend spare time</value>
+          <translation>проводить свободное время</translation>
+          <comment>to spend - проводить (время), spare - свободный, time - время</comment>
+       </example>
+       <example>
+          <value>to have very little time</value>
+          <translation>иметь очень мало времени</translation>
+          <comment>to have - иметь, very - очень, little - мало, time - время</comment>
+       </example>
+       <example>
+          <value>to tell the time</value>
+          <translation>сказать время</translation>
+          <comment>to tell - сказать, time - время</comment>
+       </example>
+       <example>
+          <value>very little time</value>
+          <translation>очень мало времени</translation>
+          <comment>very - очень, little - мало, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>spend</question>
+    <answer>проводить, тратить</answer>
+    <comment>[spend]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d9bb5c5-7b98-49d6-825e-73b726e57501</uuid>
+    <examples>
+       <example>
+          <value>to spend this evening</value>
+          <translation>провести этот вечер</translation>
+          <comment>to spend - проводить (время), this - этот, эта, evening - вечер</comment>
+       </example>
+       <example>
+          <value>to spend more than twenty dollars</value>
+          <translation>потратить больше 20 долларов</translation>
+          <comment>to spend - тратить, more - больше, than - чем, twenty - двадцать, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>to spend time at the slot machines</value>
+          <translation>проводить время за игровыми автоматами</translation>
+          <comment>to spend - проводить (время), slot - щель в игровом автомате, machine - машина</comment>
+       </example>
+       <example>
+          <value>to spend evenings</value>
+          <translation>проводить вечера</translation>
+          <comment>to spend - проводить (время), evening - вечер</comment>
+       </example>
+       <example>
+          <value>to spend spare time</value>
+          <translation>проводить свободное время</translation>
+          <comment>to spend - проводить (время), spare - свободный, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wine</question>
+    <answer>вино</answer>
+    <comment>[wаɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2230e6a4-3b02-4e5e-a6b9-ca16170ede81</uuid>
+    <examples>
+       <example>
+          <value>to offer somebody a glass of wine</value>
+          <translation>предложить кому-л. бокал вина</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>a glass of wine</value>
+          <translation>бокал вина</translation>
+          <comment>glass - бокал, wine - вино</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

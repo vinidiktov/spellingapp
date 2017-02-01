@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c3c1b402-2aaa-4d85-a820-c5180e2d8229</uuid>
+  <title>В аптеке :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>weight</question>
+    <answer>вес</answer>
+    <comment>[weɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8a53349e-f44f-4dc5-b894-527919f4086a</uuid>
+    <examples>
+       <example>
+          <value>a remedy for weight loss</value>
+          <translation>средство для похудения</translation>
+          <comment>remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+       <example>
+          <value>to give a remedy for weight loss</value>
+          <translation>давать средство для похудения</translation>
+          <comment>to give - давать, remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunburn</question>
+    <answer>солнечный ожог</answer>
+    <comment>[ˈsʌnˌbɜːrn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d96ed26c-3ba7-4a99-bacb-2339f9fd5d41</uuid>
+    <examples>
+       <example>
+          <value>something for sunburn</value>
+          <translation>что-нибудь от солнечного ожога</translation>
+          <comment>something - что-нибудь, sunburn - солнечный ожог</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>before</question>
+    <answer>до, перед</answer>
+    <comment>[bɪˈfɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f229574c-1336-4edf-95be-e65c88a9f7a0</uuid>
+    <examples>
+       <example>
+          <value>before meals</value>
+          <translation>перед едой</translation>
+          <comment>before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>travel</question>
+    <answer>путешествовать</answer>
+    <comment>[ˈtrævəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>38ee91c8-ec14-449e-b275-67653c80762c</uuid>
+    <examples>
+       <example>
+          <value>something for travel sickness</value>
+          <translation>что-нибудь от морской болезни</translation>
+          <comment>something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+       <example>
+          <value>travel sickness</value>
+          <translation>морская болезнь</translation>
+          <comment>travel - путешествие, sickness - болезнь</comment>
+       </example>
+       <example>
+          <value>to like to travel</value>
+          <translation>любить путешествовать</translation>
+          <comment>to like - любить, нравиться, to travel - путешествовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>multiminerals</question>
+    <answer>мультиминералы</answer>
+    <comment>[ˌmʌltɪ ˈmɪnərəlz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>56c9f8b3-4b76-4da6-bdb2-a402a3377c69</uuid>
+    <examples>
+       <example>
+          <value>to give multiminerals</value>
+          <translation>давать мультиминералы</translation>
+          <comment>to give - давать, multiminerals - мультиминералы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>medicine</question>
+    <answer>лекарство</answer>
+    <comment>[ˈmedɪsən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb0ccc8e-ac65-4889-b3d5-e6f31ead3672</uuid>
+    <examples>
+       <example>
+          <value>to take this medicine</value>
+          <translation>принимать это лекарство</translation>
+          <comment>to take - принимать, брать, this - этот, эта, medicine - лекарство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>drugstore</question>
+    <answer>аптека</answer>
+    <comment>[ˈdrʌgˌstɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3985b3f0-a51b-47cb-8325-b5b3bfff259c</uuid>
+    <examples>
+       <example>
+          <value>the all-night drugstore</value>
+          <translation>круглосуточная аптека</translation>
+          <comment>all - весь, night - ночь, ночной, drugstore - аптека</comment>
+       </example>
+       <example>
+          <value>the nearest drugstore</value>
+          <translation>ближайшая аптека</translation>
+          <comment>the nearest - ближайший, drugstore - аптека</comment>
+       </example>
+       <example>
+          <value>The drugstore is open.</value>
+          <translation>Аптека открыта.</translation>
+          <comment>drugstore - аптека, open - открытым</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chemist</question>
+    <answer>аптекарь</answer>
+    <comment>[ˈkemɪst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5447340-dfde-4975-91e6-af9caecb70c8</uuid>
+    <examples>
+       <example>
+          <value>the chemist&apos;s shop</value>
+          <translation>аптека</translation>
+          <comment>chemist - аптекарь, shop - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stomach</question>
+    <answer>желудок</answer>
+    <comment>[ˈstʌmək]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96c3e35b-baa1-4350-9207-750e42155763</uuid>
+    <examples>
+       <example>
+          <value>something for upset stomach</value>
+          <translation>что-нибудь от расстройства желудка</translation>
+          <comment>something - что-нибудь, upset - растроенный, stomach - желудок</comment>
+       </example>
+       <example>
+          <value>to give something for stomach aches</value>
+          <translation>давать что-нибудь от болей в желудке</translation>
+          <comment>to give - давать, something - что-нибудь, stomach - желудок, ache - боль</comment>
+       </example>
+       <example>
+          <value>upset stomach</value>
+          <translation>расстройства желудка</translation>
+          <comment>upset - расстроенный, stomach - желудок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sickness</question>
+    <answer>болезнь</answer>
+    <comment>[ˈsɪknes]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9bd37f31-9b4f-415c-ac5c-19954d8ccb23</uuid>
+    <examples>
+       <example>
+          <value>something for travel sickness</value>
+          <translation>что-нибудь от морской болезни</translation>
+          <comment>something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+       <example>
+          <value>travel sickness</value>
+          <translation>морская болезнь</translation>
+          <comment>travel - путешествие, sickness - болезнь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>multivitamins</question>
+    <answer>поливитамины</answer>
+    <comment>[ˌmʌltɪ ˈvаɪtəmɪnz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8fcc3795-f1af-468e-ad4a-4a7f480ced5c</uuid>
+    <examples>
+       <example>
+          <value>to give multivitamins</value>
+          <translation>давать поливитамины</translation>
+          <comment>to give - давать, multivitamins - поливитамины</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>analgesic</question>
+    <answer>болеутоляющее</answer>
+    <comment>[ˌænlˈʤiːsɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>acd59760-3768-4136-86de-d85f152cdac9</uuid>
+    <examples>
+       <example>
+          <value>a good analgesic</value>
+          <translation>хорошее болеутоляющее</translation>
+          <comment>good - хороший, analgesic - болеутоляющее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>insect</question>
+    <answer>насекомое</answer>
+    <comment>[ˈɪnsekt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ced74d7-7e25-4549-bb73-be71c2802dd4</uuid>
+    <examples>
+       <example>
+          <value>insect bites</value>
+          <translation>укусы насекомых</translation>
+          <comment>insect - насекомое, bite - укус</comment>
+       </example>
+       <example>
+          <value>something for insect bites</value>
+          <translation>что-нибудь от укусов насекомых</translation>
+          <comment>something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>external</question>
+    <answer>наружний</answer>
+    <comment>[ɪkˈstɜːrnl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>65fa4928-6850-4737-92e0-80036e9a4a57</uuid>
+    <examples>
+       <example>
+          <value>for external use only</value>
+          <translation>лекарство только для наружного применения</translation>
+          <comment>external - внешний, use - применение, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ache</question>
+    <answer>боль</answer>
+    <comment>[eɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6eaceca-caaf-473a-b3e6-16c16cd4083f</uuid>
+    <examples>
+       <example>
+          <value>to give something for stomach aches</value>
+          <translation>давать что-нибудь от болей в желудке</translation>
+          <comment>to give - давать, something - что-нибудь, stomach - желудок, ache - боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>remedy</question>
+    <answer>средство</answer>
+    <comment>[ˈremɪdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6d8c97e6-e02e-4759-8bef-541f362fd40c</uuid>
+    <examples>
+       <example>
+          <value>a remedy for weight loss</value>
+          <translation>средство для похудения</translation>
+          <comment>remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+       <example>
+          <value>to give a remedy for weight loss</value>
+          <translation>давать средство для похудения</translation>
+          <comment>to give - давать, remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cough</question>
+    <answer>кашель</answer>
+    <comment>[kɔːf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9054466c-3d08-4c0a-9eaa-ceb750a2543a</uuid>
+    <examples>
+       <example>
+          <value>cough drops</value>
+          <translation>таблетки от кашля</translation>
+          <comment>cough - кашель, drop - драже, леденец</comment>
+       </example>
+       <example>
+          <value>to give something for a cough</value>
+          <translation>давать что-нибудь от кашля</translation>
+          <comment>to give - давать, something - что-нибудь, cough - кашель</comment>
+       </example>
+       <example>
+          <value>to have cough drops</value>
+          <translation>иметь таблетки от кашля</translation>
+          <comment>to have - иметь, cough - кашель, drop - леденцы, драже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nausea</question>
+    <answer>тошнота</answer>
+    <comment>[ˈnɔːziːə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68ad50c5-255f-4a05-a460-f0714c02fb54</uuid>
+    <examples>
+       <example>
+          <value>something for nausea</value>
+          <translation>что-нибудь от тошноты</translation>
+          <comment>something - что-нибудь, nausea - тошнота</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tranquillizer</question>
+    <answer>успокоительное</answer>
+    <comment>[ˈtræŋkwɪˌlаɪzər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c2158f64-5671-47f8-9695-408b5e600a8f</uuid>
+    <examples>
+       <example>
+          <value>to have tranquillizers</value>
+          <translation>иметь успокоительное</translation>
+          <comment>to have - иметь, tranquillizer - успокоительное</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sedative</question>
+    <answer>болеутоляющее</answer>
+    <comment>[ˈsedətɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d8f00a6-2d35-40eb-b0ac-1765238bfec8</uuid>
+    <examples>
+       <example>
+          <value>to give a sedative</value>
+          <translation>давать болеутоляющее</translation>
+          <comment>to give - давать, sedative - болеутоляющее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>upset</question>
+    <answer>расстроенный</answer>
+    <comment>[ʌpˈset]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f8c89a17-9061-431c-9193-ab3dd76019a3</uuid>
+    <examples>
+       <example>
+          <value>something for upset stomach</value>
+          <translation>что-нибудь от расстройства желудка</translation>
+          <comment>something - что-нибудь, upset - растроенный, stomach - желудок</comment>
+       </example>
+       <example>
+          <value>upset stomach</value>
+          <translation>расстройства желудка</translation>
+          <comment>upset - расстроенный, stomach - желудок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>laxative</question>
+    <answer>слабительное</answer>
+    <comment>[ˈlæksətɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7ab1592b-5295-4b21-ae71-e7adfc5b9866</uuid>
+    <examples>
+       <example>
+          <value>to have laxative</value>
+          <translation>иметь слабительное</translation>
+          <comment>to have - иметь, laxative - слабительное</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

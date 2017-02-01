@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>13ca1d50-3f7e-4ce3-8ccb-30b6f62e19bf</uuid>
+  <title>Средства связи</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>l&apos;adresse</question>
+    <answer>адрес</answer>
+    <comment></comment>
+    <answer_picture>address.gif</answer_picture>
+    <uuid>e9e98f25-4e59-4fdb-9f75-8fa957c799ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cd</question>
+    <answer>компакт-диск</answer>
+    <comment></comment>
+    <answer_picture>cd.gif</answer_picture>
+    <uuid>b4cc0ee9-1d65-492e-95e5-6c2dc3a939ce</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le  téléphone cellulaire</question>
+    <answer>сотовый телефон</answer>
+    <comment></comment>
+    <answer_picture>cellphone.gif</answer_picture>
+    <uuid>c5acb76d-88c3-4feb-bcac-de7d0f2ca7d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cliquer</question>
+    <answer>щёлкать, кликать</answer>
+    <comment></comment>
+    <answer_picture>click.gif</answer_picture>
+    <uuid>de856bfb-66d4-47b3-9ecb-47ed0f94c585</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;ordinateur</question>
+    <answer>компьютер</answer>
+    <comment></comment>
+    <answer_picture>computer.gif</answer_picture>
+    <uuid>36453e0b-6f23-4889-af76-b3b56d199a88</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;emblème</question>
+    <answer>символ, эмблема</answer>
+    <comment></comment>
+    <answer_picture>emblem.gif</answer_picture>
+    <uuid>e2d127ba-18b4-4cb1-8fcd-3df601eed0c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;enveloppe</question>
+    <answer>конверт</answer>
+    <comment></comment>
+    <answer_picture>envelope.gif</answer_picture>
+    <uuid>401f85f3-23fe-4a47-9703-bc7c7c0f8d9f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le télécopieur</question>
+    <answer>факс</answer>
+    <comment></comment>
+    <answer_picture>fax.gif</answer_picture>
+    <uuid>2986f9ce-aea6-4d71-b7ed-742af93e74d1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la disquette</question>
+    <answer>дискета</answer>
+    <comment></comment>
+    <answer_picture>floppy_disk.gif</answer_picture>
+    <uuid>ac2a47ff-94cd-4886-84c2-50ab15dbfc82</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;encre</question>
+    <answer>чернила</answer>
+    <comment></comment>
+    <answer_picture>ink.gif</answer_picture>
+    <uuid>41aac8cb-d96c-4480-b285-6fad5047c383</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le clavier</question>
+    <answer>клавиатура</answer>
+    <comment></comment>
+    <answer_picture>keyboard.gif</answer_picture>
+    <uuid>01784567-43f4-4be9-b801-4b360b51d8ef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;ordinateur portable</question>
+    <answer>ноутбук</answer>
+    <comment></comment>
+    <answer_picture>laptop.gif</answer_picture>
+    <uuid>1851dff8-4bc2-4445-971b-b90d8c025029</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la lettre</question>
+    <answer>письмо</answer>
+    <comment></comment>
+    <answer_picture>letter.gif</answer_picture>
+    <uuid>325c63a3-6f18-4bac-b714-7615224bac84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fort</question>
+    <answer>громкий</answer>
+    <comment></comment>
+    <answer_picture>loud.gif</answer_picture>
+    <uuid>4de53254-917b-48c2-bd19-d78132e067e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le magazine</question>
+    <answer>журнал</answer>
+    <comment></comment>
+    <answer_picture>magazine.gif</answer_picture>
+    <uuid>d391f2e6-c213-48da-9ebb-3e1dc2540be0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le courrier</question>
+    <answer>почта</answer>
+    <comment></comment>
+    <answer_picture>mail.gif</answer_picture>
+    <uuid>592e5947-0559-4567-86e6-f4c088f802e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le moniteur</question>
+    <answer>монитор</answer>
+    <comment></comment>
+    <answer_picture>monitor.gif</answer_picture>
+    <uuid>0d660ccf-fdd7-41fb-8e40-3bfdad92f699</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la souris</question>
+    <answer>мышь</answer>
+    <comment></comment>
+    <answer_picture>mouse.gif</answer_picture>
+    <uuid>5e0a1e8d-7c8e-4d5c-b924-49f2ab9a3f14</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le journal</question>
+    <answer>газета</answer>
+    <comment></comment>
+    <answer_picture>newspaper.gif</answer_picture>
+    <uuid>e06eb87d-e299-4146-b7d2-59785fcfb322</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le téléavertisseur</question>
+    <answer>пейджер</answer>
+    <comment></comment>
+    <answer_picture>pager.gif</answer_picture>
+    <uuid>0cd2fdca-a8f9-4a10-98f0-f66123143869</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>téléphoner</question>
+    <answer>звонить (по телефону)</answer>
+    <comment></comment>
+    <answer_picture>phone.gif</answer_picture>
+    <uuid>6d185a6b-b7e5-4e58-8290-df32e1db8690</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la carte postale</question>
+    <answer>открытка</answer>
+    <comment></comment>
+    <answer_picture>postcard.gif</answer_picture>
+    <uuid>009dc582-d88e-49f9-a96b-18701154e91e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;imprimante</question>
+    <answer>принтер</answer>
+    <comment></comment>
+    <answer_picture>printer.gif</answer_picture>
+    <uuid>b790461e-7460-4761-a2eb-339c750266b6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>calme</question>
+    <answer>тихий</answer>
+    <comment></comment>
+    <answer_picture>quiet.gif</answer_picture>
+    <uuid>3b8a993d-4d2f-4475-9dd6-f2211514ac42</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lire</question>
+    <answer>читать</answer>
+    <comment></comment>
+    <answer_picture>read.gif</answer_picture>
+    <uuid>629ae793-066d-49f4-b763-963f76e51b66</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>recevoir</question>
+    <answer>получать</answer>
+    <comment></comment>
+    <answer_picture>receive.gif</answer_picture>
+    <uuid>7a892372-f408-4e3f-9bbd-d3d5f8183eef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le satellite</question>
+    <answer>спутник</answer>
+    <comment></comment>
+    <answer_picture>satellite_dish.gif</answer_picture>
+    <uuid>41cb526f-cfd2-467f-9b5b-5349f63afe37</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;antenne parabolique</question>
+    <answer>стутниковая тарелка</answer>
+    <comment></comment>
+    <answer_picture>satellite.gif</answer_picture>
+    <uuid>74afc3a4-f2bf-46c6-a839-5e096d927de0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le scanner</question>
+    <answer>сканер</answer>
+    <comment></comment>
+    <answer_picture>scanner.gif</answer_picture>
+    <uuid>2c6d1134-a1db-4849-89b2-f5f3ef6208b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>crier</question>
+    <answer>кричать</answer>
+    <comment></comment>
+    <answer_picture>shout.gif</answer_picture>
+    <uuid>7a59dac9-0df6-4017-8e98-166c1d1bcfa4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sourire</question>
+    <answer>улыбаться</answer>
+    <comment></comment>
+    <answer_picture>smile.gif</answer_picture>
+    <uuid>e2782160-f0ab-4405-be23-009620745898</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>parler</question>
+    <answer>говорить, разговаривать (S. talk)</answer>
+    <comment></comment>
+    <answer_picture>speak.gif</answer_picture>
+    <uuid>e759e90a-d989-4a4b-9120-8145c75de5d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le timbre</question>
+    <answer>марка</answer>
+    <comment></comment>
+    <answer_picture>stamp.gif</answer_picture>
+    <uuid>aa0ff38d-f8be-4c2e-8674-a7ae416e8b3f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>parler</question>
+    <answer>разговаривать (S. speak)</answer>
+    <comment></comment>
+    <answer_picture>talk.gif</answer_picture>
+    <uuid>1d0f3324-7533-46e4-852f-1b08eebbc2fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le téléphone</question>
+    <answer>телефон</answer>
+    <comment></comment>
+    <answer_picture>telephone.gif</answer_picture>
+    <uuid>c1c23c60-ae33-43aa-8373-1116956d158a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>taper</question>
+    <answer>печатать (на клавиатуре)</answer>
+    <comment></comment>
+    <answer_picture>type.gif</answer_picture>
+    <uuid>acac1061-f2a5-4859-8555-be37ccd77a54</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le web</question>
+    <answer>веб, сеть, интернет</answer>
+    <comment></comment>
+    <answer_picture>web.gif</answer_picture>
+    <uuid>04c9f37a-bb75-4bbb-a6d3-fa3620274eff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>chuchoter</question>
+    <answer>шептать</answer>
+    <comment></comment>
+    <answer_picture>whisper.gif</answer_picture>
+    <uuid>dc1b77f7-260f-4a29-a4a0-8ef2960e13d5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>écrire</question>
+    <answer>писать</answer>
+    <comment></comment>
+    <answer_picture>write.gif</answer_picture>
+    <uuid>e93bd71f-239a-4bf1-b68d-6e743cd947f5</uuid>
+  </card>
+</cards>
+</stack>

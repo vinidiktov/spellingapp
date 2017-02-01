@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7257e439-014a-4a37-af1b-962db18fd876</uuid>
+  <title>Болезни</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Bett</question>
+    <answer>кровать</answer>
+    <comment></comment>
+    <uuid>2d4ce27c-51a4-4ea8-96c8-e6dd76955678</uuid>
+  </card>
+  <card>
+    <question>das Einbettzimmer</question>
+    <answer>одноместная палата</answer>
+    <comment></comment>
+    <uuid>ff452c0c-2415-46f4-9e5f-0bf27de80af7</uuid>
+  </card>
+  <card>
+    <question>das Krankenhaus</question>
+    <answer>больница</answer>
+    <comment></comment>
+    <uuid>47359059-8d2c-4378-8bb3-7cccdddfddf2</uuid>
+  </card>
+  <card>
+    <question>das Zimmer</question>
+    <answer>палата, комната</answer>
+    <comment></comment>
+    <uuid>5ae5ad4b-0ed9-4772-9606-8942aa6295d7</uuid>
+  </card>
+  <card>
+    <question>das Zweibettzimmer</question>
+    <answer>двухместная палата</answer>
+    <comment></comment>
+    <uuid>0f2ccd8f-d503-4368-ab0b-79f52c3df64e</uuid>
+  </card>
+  <card>
+    <question>der Arzt</question>
+    <answer>врач</answer>
+    <comment></comment>
+    <uuid>c6b81846-7699-4c58-af64-206fa606a743</uuid>
+  </card>
+  <card>
+    <question>der Chefarzt</question>
+    <answer>главный врач</answer>
+    <comment></comment>
+    <uuid>4251fe5b-9f14-4b4a-abf8-0e7893a68c65</uuid>
+  </card>
+  <card>
+    <question>der Chirurg</question>
+    <answer>хирург</answer>
+    <comment></comment>
+    <uuid>e685bdaf-3e2c-4de9-acac-09284628a200</uuid>
+  </card>
+  <card>
+    <question>der Krankenwagen</question>
+    <answer>машина скорой помощи</answer>
+    <comment></comment>
+    <uuid>31a87615-8042-4696-ac4f-dc6e97cffef2</uuid>
+  </card>
+  <card>
+    <question>der Oberarzt</question>
+    <answer>старший врач</answer>
+    <comment></comment>
+    <uuid>1d2d6162-1fc2-455c-8eda-64a8fad0ec8c</uuid>
+  </card>
+  <card>
+    <question>der Operationssaal</question>
+    <answer>операционная</answer>
+    <comment></comment>
+    <uuid>5dfcf57a-b62b-4ef9-b181-e4b86b56d5d6</uuid>
+  </card>
+  <card>
+    <question>der Pfleger</question>
+    <answer>санитар</answer>
+    <comment></comment>
+    <uuid>1bd5a34d-74bf-4b83-9349-04bc9ece2046</uuid>
+  </card>
+  <card>
+    <question>die Besuchszeit</question>
+    <answer>время посещения</answer>
+    <comment></comment>
+    <uuid>890a947d-d177-44be-ad93-f0cc6a92f9a2</uuid>
+  </card>
+  <card>
+    <question>die Entlassung</question>
+    <answer>выписка</answer>
+    <comment></comment>
+    <uuid>15f7f189-6190-47f2-8a27-3371c671810b</uuid>
+  </card>
+  <card>
+    <question>die Intensivstation</question>
+    <answer>отделение интенсивной терапии</answer>
+    <comment></comment>
+    <uuid>805e7f81-a775-4e16-b599-38e70489687b</uuid>
+  </card>
+  <card>
+    <question>die Klinik</question>
+    <answer>клиника</answer>
+    <comment></comment>
+    <uuid>a8cbdc1f-72e5-4472-b0d0-a7b4d00a9fcc</uuid>
+  </card>
+  <card>
+    <question>die Krankenschwester</question>
+    <answer>медсестра</answer>
+    <comment></comment>
+    <uuid>81631535-7157-4e53-b293-079b34698906</uuid>
+  </card>
+  <card>
+    <question>die Operation</question>
+    <answer>операция</answer>
+    <comment></comment>
+    <uuid>6b2ec57a-6f57-4410-b4aa-16f26a29f120</uuid>
+  </card>
+  <card>
+    <question>die Station</question>
+    <answer>отделение</answer>
+    <comment></comment>
+    <uuid>879c3775-a559-48ac-9151-1c89bde24b7e</uuid>
+  </card>
+  <card>
+    <question>die Vollnarkose</question>
+    <answer>полный наркоз</answer>
+    <comment></comment>
+    <uuid>81c60863-e1c4-437c-932e-6bfa769a1a7e</uuid>
+  </card>
+  <card>
+    <question>die örtliche Betäubung</question>
+    <answer>местный наркоз</answer>
+    <comment></comment>
+    <uuid>8a7c7678-bc0b-43ce-94a7-0b5360246bc1</uuid>
+  </card>
+  <card>
+    <question>einliefern</question>
+    <answer>доставить (в больницу)</answer>
+    <comment></comment>
+    <uuid>c2aa30af-5ba3-4b14-9489-9a3ee63d4946</uuid>
+  </card>
+  <card>
+    <question>Hallo, Schwester Monika!</question>
+    <answer>Добрый день, сестра Моника!</answer>
+    <comment></comment>
+    <uuid>a397e0c2-e31e-455b-8e9b-f379e85102fc</uuid>
+  </card>
+  <card>
+    <question>Ich möchte zu Herrn Müller!</question>
+    <answer>Я к г-ну Мюллеру! (к врачу)</answer>
+    <comment></comment>
+    <uuid>425d7fa5-9a4a-439f-86d2-349bb8604f08</uuid>
+  </card>
+  <card>
+    <question>Kann ich den Arzt sprechen?</question>
+    <answer>Могу ли я поговорить с врачом?</answer>
+    <comment></comment>
+    <uuid>16c41889-b3eb-41c8-aa5f-4bfe29ee6f08</uuid>
+  </card>
+  <card>
+    <question>Kann ich eine Schlaftablette bekommen?</question>
+    <answer>Могу я получить снотворное?</answer>
+    <comment></comment>
+    <uuid>ed41e76e-389d-4b5f-b24f-d8e6afd300e9</uuid>
+  </card>
+  <card>
+    <question>Mein Mann wurde ins Krankenhaus eingeliefert.</question>
+    <answer>Мой муж был доставлен в больницу.</answer>
+    <comment></comment>
+    <uuid>694dc0ac-1c31-4f72-beba-30d08016bb56</uuid>
+  </card>
+  <card>
+    <question>OP</question>
+    <answer>операционная</answer>
+    <comment></comment>
+    <uuid>dac85c53-cc7a-44c9-951a-9ed1bf353d4b</uuid>
+  </card>
+  <card>
+    <question>Sie bekommen eine Vollnarkose.</question>
+    <answer>Вы получите полный наркоз.</answer>
+    <comment></comment>
+    <uuid>46f69014-132f-4eb3-a226-82ed19daf673</uuid>
+  </card>
+  <card>
+    <question>Sie werden Freitag entlassen.</question>
+    <answer>В пятницу Вас выпишут.</answer>
+    <comment></comment>
+    <uuid>4768fb4a-c538-4980-98ec-a8e72c4d57a3</uuid>
+  </card>
+  <card>
+    <question>Station 5, Zimmer 25.</question>
+    <answer>Отделение 5, палата 25.</answer>
+    <comment></comment>
+    <uuid>ea123b7b-5089-4d23-adef-4e73721e6c46</uuid>
+  </card>
+</cards>
+</stack>

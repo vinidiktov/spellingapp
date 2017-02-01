@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>bd5b951e-a2de-4269-a4f6-1a77d4242034</uuid>
+  <title>Язык :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Habla usted español?</question>
+    <answer>Вы говорите по-испански?</answer>
+    <comment></comment>
+    <uuid>9a5ced72-58b9-4d51-a47d-505e14f25a42</uuid>
+  </card>
+  <card>
+    <question>¿Habla usted ruso?</question>
+    <answer>Вы говорите по-русски?</answer>
+    <comment></comment>
+    <uuid>67b9fb8f-3422-4562-a7ae-1af4702501a1</uuid>
+  </card>
+  <card>
+    <question>¿Habla usted inglés?</question>
+    <answer>Вы говорите по-английски?</answer>
+    <comment></comment>
+    <uuid>b3a76142-ea0f-449f-ad2a-897445d09614</uuid>
+  </card>
+  <card>
+    <question>¿Habla usted francés?</question>
+    <answer>Вы говорите по-французски?</answer>
+    <comment></comment>
+    <uuid>c05ead54-d608-49af-bdb1-c0a61c9ebe35</uuid>
+  </card>
+  <card>
+    <question>¿Hablas español?</question>
+    <answer>Ты говоришь по-испански?</answer>
+    <comment></comment>
+    <uuid>d1dc8038-8e15-41c1-b43f-6867da661a47</uuid>
+  </card>
+  <card>
+    <question>¿Hablas ruso?</question>
+    <answer>Ты говоришь по-русски?</answer>
+    <comment></comment>
+    <uuid>50965a11-83b8-4cf4-a54d-a7dc25553e78</uuid>
+  </card>
+  <card>
+    <question>¿Hablas francés?</question>
+    <answer>Ты говоришь по-французски?</answer>
+    <comment></comment>
+    <uuid>923328c6-2765-497c-a950-9f8d416632e4</uuid>
+  </card>
+  <card>
+    <question>¿Hablas inglés?</question>
+    <answer>Ты говоришь по-английски?</answer>
+    <comment></comment>
+    <uuid>9634d19c-80bd-4416-943c-0f9556ebeb85</uuid>
+  </card>
+  <card>
+    <question>Sí, hablo bien el español.</question>
+    <answer>Да, я хорошо говорю по-испански.</answer>
+    <comment></comment>
+    <uuid>889af235-dd47-4ebd-a7db-61312b7cfc19</uuid>
+  </card>
+  <card>
+    <question>Sí, hablo bien el ruso.</question>
+    <answer>Да, я хорошо говорю по-русски.</answer>
+    <comment></comment>
+    <uuid>8c317c1d-90f3-4253-881e-aa790fce0291</uuid>
+  </card>
+  <card>
+    <question>Sí, hablo bien el inglés.</question>
+    <answer>Да, я хорошо говорю по-английски.</answer>
+    <comment></comment>
+    <uuid>c556604c-e83f-465e-afcd-062aeb44b969</uuid>
+  </card>
+  <card>
+    <question>Sí, hablo bien el francés.</question>
+    <answer>Да, я хорошо говорю по-французски.</answer>
+    <comment></comment>
+    <uuid>ec97d2f9-ee93-480c-b513-5b97c946254d</uuid>
+  </card>
+  <card>
+    <question>Hablo un poco el español.</question>
+    <answer>Я немного говорю по-испански.</answer>
+    <comment></comment>
+    <uuid>1a9fb131-470d-473c-b472-b550f2e812e2</uuid>
+  </card>
+  <card>
+    <question>Hablo un poco el inglés.</question>
+    <answer>Я немного говорю по-английски.</answer>
+    <comment></comment>
+    <uuid>630b193e-7e72-433e-919b-5fcfae05e4f1</uuid>
+  </card>
+  <card>
+    <question>Hablo un poco el francés.</question>
+    <answer>Я немного говорю по-французски.</answer>
+    <comment></comment>
+    <uuid>8606d537-d932-4459-b4d6-6b31fd272cac</uuid>
+  </card>
+  <card>
+    <question>No hablo español.</question>
+    <answer>Я не говорю по-испански.</answer>
+    <comment></comment>
+    <uuid>aee16998-1892-4cee-900a-6e602a0f19bc</uuid>
+  </card>
+  <card>
+    <question>No hablo inglés.</question>
+    <answer>Я не говорю по-английски.</answer>
+    <comment></comment>
+    <uuid>baedc1ee-54a1-4e6f-81bb-8aea9fe6fd6c</uuid>
+  </card>
+  <card>
+    <question>No hablo francés.</question>
+    <answer>Я не говорю по-французски.</answer>
+    <comment></comment>
+    <uuid>0d34bbf6-f130-4169-8af1-ed569629aa92</uuid>
+  </card>
+  <card>
+    <question>Leo en español con la ayuda de un diccionario.</question>
+    <answer>Я читаю по-испански со словарем (=с помощью словаря).</answer>
+    <comment></comment>
+    <uuid>f51eedda-332d-4bb3-b861-e6a5ac2b6cd4</uuid>
+  </card>
+  <card>
+    <question>Leo en inglés con la ayuda de un diccionario.</question>
+    <answer>Я читаю по-английски со словарем (=с помощью словаря).</answer>
+    <comment></comment>
+    <uuid>2ba5522e-2b81-4e06-918b-4fd0ace55423</uuid>
+  </card>
+  <card>
+    <question>Leo en francés con la ayuda de un diccionario.</question>
+    <answer>Я читаю по-французски со словарем (=с помощью словаря).</answer>
+    <comment></comment>
+    <uuid>67c9c252-c104-4a0c-92cf-d5c1c6076e5e</uuid>
+  </card>
+  <card>
+    <question>¿Usted me comprende?</question>
+    <answer>Вы меня понимаете?</answer>
+    <comment></comment>
+    <uuid>48877dd5-916f-4656-8aec-183a67ebf849</uuid>
+  </card>
+  <card>
+    <question>Sí, le comprendo, pero hablo con dificultad.</question>
+    <answer>Да, я Вас понимаю, но мне трудно говорить (=говорю с трудом).</answer>
+    <comment></comment>
+    <uuid>06af4207-22fc-4e3c-b563-570a509823c2</uuid>
+  </card>
+  <card>
+    <question>No, no le comprendo.</question>
+    <answer>Нет, я Вас не понимаю.</answer>
+    <comment></comment>
+    <uuid>f699f1b9-3255-41d0-8997-36e4b1e649c1</uuid>
+  </card>
+  <card>
+    <question>No he comprendido.</question>
+    <answer>Я не понял.</answer>
+    <comment></comment>
+    <uuid>c336fb5e-59f6-4108-9037-6bc2e772564f</uuid>
+  </card>
+  <card>
+    <question>Repita, por favor.</question>
+    <answer>Повторите, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>08537c20-4133-4bbe-b85a-793100eafd4d</uuid>
+  </card>
+  <card>
+    <question>Repite, por favor.</question>
+    <answer>Повтори, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>ef80b9d7-dab1-45c3-886f-9d1e9aadc446</uuid>
+  </card>
+  <card>
+    <question>¿Qué ha dicho?</question>
+    <answer>Что он сказал (она сказала)?</answer>
+    <comment></comment>
+    <uuid>c1e0a925-2da8-4e47-8733-221c48fb0204</uuid>
+  </card>
+  <card>
+    <question>¿Quién de ustedes habla ruso?</question>
+    <answer>Кто из вас говорит по-русски?</answer>
+    <comment></comment>
+    <uuid>18a46535-afdc-4852-b848-19470ed19f80</uuid>
+  </card>
+  <card>
+    <question>Hable más despacio, por favor.</question>
+    <answer>Говорите, пожалуйста, медленнее.</answer>
+    <comment></comment>
+    <uuid>a12eb9d6-ffd1-4fcb-b4f2-44718cb5bd77</uuid>
+  </card>
+  <card>
+    <question>Hable más fuerte, por favor.</question>
+    <answer>Говорите, пожалуйста, громче.</answer>
+    <comment></comment>
+    <uuid>02383dfa-8e38-4b8d-b4ee-457ccb199ccf</uuid>
+  </card>
+  <card>
+    <question>Habla más despacio, por favor.</question>
+    <answer>Говори, пожалуйста, медленнее.</answer>
+    <comment></comment>
+    <uuid>216fb3b5-2242-4038-8bdc-0bdd8f8c4bef</uuid>
+  </card>
+  <card>
+    <question>Habla más fuerte, por favor.</question>
+    <answer>Говори, пожалуйста, громче.</answer>
+    <comment></comment>
+    <uuid>02b16d33-68d3-43f1-af6d-7c68e2fdc518</uuid>
+  </card>
+  <card>
+    <question>¿Qué signífica esta palabra?</question>
+    <answer>Что значит это слово?</answer>
+    <comment></comment>
+    <uuid>28cbbf37-068f-4f21-b573-610735a0c1a0</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se escribe esta palabra?</question>
+    <answer>Как пишется это слово?</answer>
+    <comment></comment>
+    <uuid>4c5235be-d338-42bc-937d-b61a7e5dd9f4</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se pronuncia esta palabra?</question>
+    <answer>Как произносится это слово?</answer>
+    <comment></comment>
+    <uuid>503a9852-0d95-4f57-bb61-cdd630934a3a</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se dice esto en español?</question>
+    <answer>Как это сказать по-испански?</answer>
+    <comment></comment>
+    <uuid>bdffe8bc-0a3b-4cf7-a609-8abcb52e62a0</uuid>
+  </card>
+  <card>
+    <question>Escríbalo, por favor.</question>
+    <answer>Напишите (это), пожалуйста.</answer>
+    <comment></comment>
+    <uuid>ac80943e-a9c7-45c8-a26d-58242194cf42</uuid>
+  </card>
+  <card>
+    <question>Escríbelo, por favor.</question>
+    <answer>Напиши (это), пожалуйста.</answer>
+    <comment></comment>
+    <uuid>058f310e-ebbe-4221-a3b0-426bed32fd8c</uuid>
+  </card>
+  <card>
+    <question>No necesitamos un intérprete.</question>
+    <answer>Нам не нужен переводчик.</answer>
+    <comment></comment>
+    <uuid>47b99bde-bf02-4adc-815c-28fd8bf67a3c</uuid>
+  </card>
+  <card>
+    <question>Necesitamos un intérprete.</question>
+    <answer>Нам нужен переводчик.</answer>
+    <comment></comment>
+    <uuid>434ff554-e3da-4041-a1a4-c5d061a4583f</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se escribe su nombre y su apellido?</question>
+    <answer>Как пишется ваше имя и фамилия?</answer>
+    <comment></comment>
+    <uuid>05128642-3434-403a-8d70-b65c4cfc9c57</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se podría traducir?</question>
+    <answer>Как это перевести? (=Как можно было бы перевести?)</answer>
+    <comment></comment>
+    <uuid>481e5f47-d4a8-4875-a15a-51efc1cc3d5d</uuid>
+  </card>
+</cards>
+</stack>

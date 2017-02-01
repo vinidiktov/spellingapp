@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1167083a-5fab-4fc3-8c81-f5af592b60ad</uuid>
+  <title>Почта, телеграф :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>14</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>se encuentra</question>
+    <answer>находится</answer>
+    <comment></comment>
+    <uuid>18fd1cca-f926-49a2-bee1-950d1a99e5df</uuid>
+  </card>
+  <card>
+    <question>encontrarse</question>
+    <answer>находиться</answer>
+    <comment></comment>
+    <uuid>49783de2-5dcc-43ac-a887-e7910ebe7660</uuid>
+  </card>
+  <card>
+    <question>oficina de correos</question>
+    <answer>почта</answer>
+    <comment>f</comment>
+    <uuid>30e809cb-5204-43c7-9002-99b334d46419</uuid>
+  </card>
+  <card>
+    <question>telégrafos</question>
+    <answer>телеграф</answer>
+    <comment>m</comment>
+    <uuid>17d41f06-96c7-40a7-a3be-a8fdd982546c</uuid>
+  </card>
+  <card>
+    <question>horario</question>
+    <answer>расписание, часы работы</answer>
+    <comment>m</comment>
+    <uuid>293caafc-5b88-4dd7-b7aa-1136832457c8</uuid>
+  </card>
+  <card>
+    <question>buzón de correos</question>
+    <answer>почтовый ящик</answer>
+    <comment>m</comment>
+    <uuid>5b0190fc-7c62-4d0a-a785-0aac9b42fb38</uuid>
+  </card>
+  <card>
+    <question>ventanilla</question>
+    <answer>окошко</answer>
+    <comment>f</comment>
+    <uuid>eb2eaeb1-0bef-4526-acf3-b5ca16566f44</uuid>
+  </card>
+  <card>
+    <question>franqueo</question>
+    <answer>почтовый сбор</answer>
+    <comment></comment>
+    <uuid>8a910eef-8e2f-4609-b30b-5eda681b1fb4</uuid>
+  </card>
+  <card>
+    <question>enviar</question>
+    <answer>посылать</answer>
+    <comment></comment>
+    <uuid>d83bedf8-11b8-4240-90c1-696cbfc97aa4</uuid>
+  </card>
+  <card>
+    <question>telegrama</question>
+    <answer>телеграмма</answer>
+    <comment>m</comment>
+    <uuid>857535eb-473d-4a2e-8e79-22a6e706773e</uuid>
+  </card>
+  <card>
+    <question>paquete</question>
+    <answer>посылка, бандероль, пакет</answer>
+    <comment>m</comment>
+    <uuid>fc76d466-25e6-4d69-8156-623d464f0b66</uuid>
+  </card>
+  <card>
+    <question>carta certificada</question>
+    <answer>заказное письмо</answer>
+    <comment>f</comment>
+    <uuid>68772aaf-566c-473a-8667-99bb9580c2b1</uuid>
+  </card>
+  <card>
+    <question>impreso</question>
+    <answer>бланк</answer>
+    <comment>m</comment>
+    <uuid>e0587377-8d4f-4307-aeec-abefa594ef3c</uuid>
+  </card>
+  <card>
+    <question>deme</question>
+    <answer>дайте мне</answer>
+    <comment></comment>
+    <uuid>0e169783-fb7c-4c89-a2a1-66da4cd60f77</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>812f580a-d9be-40ec-9229-8b2739f5dbaa</uuid>
+  </card>
+  <card>
+    <question>papel de cartas</question>
+    <answer>почтовая бумага</answer>
+    <comment></comment>
+    <uuid>2b01c80b-a607-4e7f-a4c9-f8cf7d6eafc3</uuid>
+  </card>
+  <card>
+    <question>sobre</question>
+    <answer>конверт</answer>
+    <comment>m</comment>
+    <uuid>e7cf3268-9808-4eef-b486-d803b0d6fdce</uuid>
+  </card>
+  <card>
+    <question>sello</question>
+    <answer>марка</answer>
+    <comment>m</comment>
+    <uuid>d96ce373-03d6-4be6-b4ac-7509e1ebd590</uuid>
+  </card>
+  <card>
+    <question>quisiera</question>
+    <answer>я бы хотел(а)</answer>
+    <comment></comment>
+    <uuid>2ea9f872-be73-43f1-bf65-fd47c3e98cae</uuid>
+  </card>
+  <card>
+    <question>llegará</question>
+    <answer>придёт</answer>
+    <comment></comment>
+    <uuid>9a08329a-23be-4650-8399-b7d48a9fe462</uuid>
+  </card>
+  <card>
+    <question>llegar</question>
+    <answer>приходить</answer>
+    <comment></comment>
+    <uuid>31013cab-e36d-4cc8-ab82-6805e3a870ff</uuid>
+  </card>
+  <card>
+    <question>apartados de correos</question>
+    <answer>отдел &quot;до востребования&quot;</answer>
+    <comment>m, pl</comment>
+    <uuid>4e8f7f11-12b9-49ea-8556-bcba827ab692</uuid>
+  </card>
+  <card>
+    <question>carta</question>
+    <answer>письмо</answer>
+    <comment>f</comment>
+    <uuid>bf571778-dbd3-495e-aa15-0f11b67456c9</uuid>
+  </card>
+  <card>
+    <question>pasaporte</question>
+    <answer>паспорт</answer>
+    <comment>m</comment>
+    <uuid>bfefd1dd-4f11-413d-aa92-9340e3ff04db</uuid>
+  </card>
+  <card>
+    <question>envíe</question>
+    <answer>перешлите</answer>
+    <comment></comment>
+    <uuid>bf2972f2-a35a-4db0-8b5d-55756bc1d8f0</uuid>
+  </card>
+  <card>
+    <question>siguiente</question>
+    <answer>следующий</answer>
+    <comment></comment>
+    <uuid>8c9b868a-cddc-4c36-b844-840b29bd3f61</uuid>
+  </card>
+  <card>
+    <question>dirección</question>
+    <answer>адрес</answer>
+    <comment>f</comment>
+    <uuid>9796eb54-7594-463c-aec2-17b4fb11f4e6</uuid>
+  </card>
+  <card>
+    <question>llamar</question>
+    <answer>звонить</answer>
+    <comment></comment>
+    <uuid>c17f163a-7df5-4699-a533-30e82764993a</uuid>
+  </card>
+  <card>
+    <question>poder</question>
+    <answer>мочь</answer>
+    <comment></comment>
+    <uuid>f30d1dd3-74bd-4b34-84ef-fbea67715e3f</uuid>
+  </card>
+  <card>
+    <question>podría</question>
+    <answer>мог(ла) бы</answer>
+    <comment></comment>
+    <uuid>718e1495-0c4b-4bb7-b302-3b0e608ff06c</uuid>
+  </card>
+  <card>
+    <question>urgente</question>
+    <answer>срочный</answer>
+    <comment></comment>
+    <uuid>14f588cf-f2cc-4128-aecf-562d8566aed9</uuid>
+  </card>
+  <card>
+    <question>próxima</question>
+    <answer>ближайшая</answer>
+    <comment></comment>
+    <uuid>586cdba2-e8db-43ad-902f-b70a125259d9</uuid>
+  </card>
+  <card>
+    <question>próximo</question>
+    <answer>ближайший</answer>
+    <comment></comment>
+    <uuid>5dfbfd8c-a875-4e6d-a788-b930cbda5d01</uuid>
+  </card>
+  <card>
+    <question>está abierta</question>
+    <answer>открыта</answer>
+    <comment></comment>
+    <uuid>d93da1d7-f533-4dd5-9e80-d34eeccb2cd7</uuid>
+  </card>
+  <card>
+    <question>despachar una carta</question>
+    <answer>отправить письмо</answer>
+    <comment></comment>
+    <uuid>9ece102e-be52-481a-875c-207023c3f3cb</uuid>
+  </card>
+  <card>
+    <question>poner un telegrama</question>
+    <answer>отправить телеграмму</answer>
+    <comment></comment>
+    <uuid>5195f483-5382-47df-9d5a-6914d823445a</uuid>
+  </card>
+  <card>
+    <question>enviar un paquete postal</question>
+    <answer>послать бандероль</answer>
+    <comment></comment>
+    <uuid>f1f56b4c-2a22-4ea1-a994-ea094f83dd79</uuid>
+  </card>
+  <card>
+    <question>auydar</question>
+    <answer>помогать</answer>
+    <comment></comment>
+    <uuid>4015ec8d-500c-4c94-a0d0-f1d3c10a6f55</uuid>
+  </card>
+  <card>
+    <question>ayudo</question>
+    <answer>(я) помогаю</answer>
+    <comment></comment>
+    <uuid>6890f620-f6e1-40ce-8910-cf24d3ec3783</uuid>
+  </card>
+  <card>
+    <question>rellenar</question>
+    <answer>заполнять</answer>
+    <comment></comment>
+    <uuid>11386c2a-015b-4260-8e5f-378b7d38c32a</uuid>
+  </card>
+  <card>
+    <question>se llena</question>
+    <answer>заполняется</answer>
+    <comment></comment>
+    <uuid>49bc8f6e-2edc-4b13-9e06-be32c33e6777</uuid>
+  </card>
+  <card>
+    <question>con letra latina</question>
+    <answer>латинскими буквами</answer>
+    <comment></comment>
+    <uuid>30add93d-56da-489b-904d-8be1b7e08950</uuid>
+  </card>
+  <card>
+    <question>recibir</question>
+    <answer>получать</answer>
+    <comment></comment>
+    <uuid>8cc7c9b8-8ba5-4c50-bbad-c9385a699252</uuid>
+  </card>
+  <card>
+    <question>cartas a lista de correo</question>
+    <answer>письма &quot;до востребования&quot;</answer>
+    <comment></comment>
+    <uuid>20537928-209f-4690-b208-5b161f8a5a69</uuid>
+  </card>
+  <card>
+    <question>giro</question>
+    <answer>почтовый перевод</answer>
+    <comment>m</comment>
+    <uuid>d98f3962-ca4a-46b1-b724-30188ad28c03</uuid>
+  </card>
+  <card>
+    <question>extranjero</question>
+    <answer>заграница</answer>
+    <comment>m</comment>
+    <uuid>9b1da8cb-72d7-4f97-9a8a-a9ca74ecb6af</uuid>
+  </card>
+  <card>
+    <question>cuesta</question>
+    <answer>стОит</answer>
+    <comment></comment>
+    <uuid>4f453871-a76a-4520-892f-cae96b2d13da</uuid>
+  </card>
+  <card>
+    <question>costar</question>
+    <answer>стоить</answer>
+    <comment></comment>
+    <uuid>eaeda0ef-0aa7-412b-bad6-e57982891b65</uuid>
+  </card>
+</cards>
+</stack>

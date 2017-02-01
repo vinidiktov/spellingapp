@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>07395a46-2b37-475e-bc09-c77a36355a09</uuid>
+  <title>Автомобиль :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Can you drive a car?</question>
+    <answer>Вы водите машину?</answer>
+    <comment>[kæn jʊ drаɪv ə kɑːr]</comment>
+    <answer_comment>can - мочь, you - ты, вы, to drive - водить, car - машина</answer_comment>
+    
+    <uuid>d34998ae-1e4e-4c6b-96ea-fbd45d974baf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you own a car?</question>
+    <answer>У вас есть машина?</answer>
+    <comment>[duː jʊ oʊn ə kɑːr]</comment>
+    <answer_comment>to own - владеть, car - машина</answer_comment>
+    
+    <uuid>a7985b33-7fed-4cca-937f-c585ac8360ef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What make of car is this?</question>
+    <answer>Какой марки эта машина?</answer>
+    <comment>[hwʌt meɪk əv kɑːr ɪz ðɪs]</comment>
+    <answer_comment>what - что, какой, make - марка, вид, car - машина, this - это, этот, эта</answer_comment>
+    
+    <uuid>0ec03db2-e317-4339-bf1a-0fc0f8130cf0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>For how many days would you like a car?</question>
+    <answer>На сколько дней вы бы хотели взять машину?</answer>
+    <comment>[fər hаʊ ˈmeniː ˈdeɪz wʊd jʊ lаɪk ə kɑːr]</comment>
+    <answer_comment>how - как, many - много, day - день, would like - хотеть, car - машина</answer_comment>
+    
+    <uuid>04572e80-2f3a-4ef9-82f1-7752d8038056</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to rent a car for three days.</question>
+    <answer>Я хочу арендовать машину на три дня.</answer>
+    <comment>[аɪ wɑːnt tə rent ə kɑːr fər θriː ˈdeɪz]</comment>
+    <answer_comment>to want - хотеть, to rent - арендовать, car - машина, three - три, day - день</answer_comment>
+    
+    <uuid>cbc5874b-492d-41d0-9a5d-f017784997df</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What kind of car would you like?</question>
+    <answer>Какую машину вы хотели бы?</answer>
+    <comment>[hwʌt kаɪnd əv kɑːr wʊd jʊ lаɪk]</comment>
+    <answer_comment>what - какой, kind - вид, car - машина, would like - хотеть</answer_comment>
+    
+    <uuid>fa911e9f-1ad6-426a-80a1-c3d48e5011b8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do I do if the car breaks down?</question>
+    <answer>Что мне нужно делать, если машина сломается?</answer>
+    <comment>[hwʌt duː аɪ duː ɪf ðə kɑːr breɪks dаʊn]</comment>
+    <answer_comment>what - что, to do - делать, if - если, car - машина, to break down - сломаться</answer_comment>
+    
+    <uuid>07f5a3e3-c393-442d-8406-4948420a5fbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the rent of a car per day?</question>
+    <answer>Сколько стоит аренда машины в день?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə rent əv ə kɑːr pɜːr deɪ]</comment>
+    <answer_comment>how - как, much - много, rent - аренда, car - машина, per day - в день</answer_comment>
+    
+    <uuid>47f132d4-9679-4708-afda-a65503cba8c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is insurance included?</question>
+    <answer>Страховка включена?</answer>
+    <comment>[ɪz ɪnˈʃʊrəns ɪnˈkluːdɪd]</comment>
+    <answer_comment>insurance - страховка, included - включенный, внесенный</answer_comment>
+    
+    <uuid>fe7d6245-6f96-4367-b548-031a4a84991f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to rent a car with a camping trailer.</question>
+    <answer>Я хочу арендовать машину с жилым прицепом.</answer>
+    <comment>[аɪ wɑːnt tə rent ə kɑːr wɪð ə ˈkæmpɪŋ ˈtreɪlər]</comment>
+    <answer_comment>to want - хотеть, to rent - арендовать, car - машина, camping - кемпинг, trailer - прицеп</answer_comment>
+    
+    <uuid>0a4ef3cd-5c0d-42d8-b9b8-4eda725d776c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my driver&apos;s license.</question>
+    <answer>Вот мое водительское удостоверение.</answer>
+    <comment>[hɪr ɪz mаɪ ˈdrаɪvərz ˈlаɪsəns]</comment>
+    <answer_comment>here - здесь, my - мой, моя, мое, driver - водитель, license - лицензия</answer_comment>
+    
+    <uuid>02675586-e864-46ec-9994-7c8c172f0be9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have an international driver&apos;s license.</question>
+    <answer>У меня международные водительские права.</answer>
+    <comment>[аɪ hæv ən ˌɪntərˈnæʃənl ˈdrаɪvərz ˈlаɪsəns]</comment>
+    <answer_comment>to have - иметь, international - международный, driver - водитель, license - лицензия</answer_comment>
+    
+    <uuid>f7ae5741-55e7-4555-a970-56d5a143c60a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my passport.</question>
+    <answer>Вот мой паспорт.</answer>
+    <comment>[hɪr ɪz mаɪ ˈpæspɔːrt]</comment>
+    <answer_comment>here - здесь, my - мой, моя, мое, passport - паспорт</answer_comment>
+    
+    <uuid>882976aa-da62-407d-b4c0-0d71bc448616</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to buy an insurance policy for the car.</question>
+    <answer>Я хочу оформить страховку на машину.</answer>
+    <comment>[аɪ wɑːnt tə bаɪ ən ɪnˈʃʊrəns ˈpɑːlɪsiː fər ðə kɑːr]</comment>
+    <answer_comment>to want - хотеть, to buy - купить, insurance - страховка, policy - полис, car - машина</answer_comment>
+    
+    <uuid>e91760d9-88ea-4eaf-97c8-516049368909</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to insure the car.</question>
+    <answer>Я хочу застраховать машину.</answer>
+    <comment>[аɪ wɑːnt tə ˈɪnˈʃʊr ðə kɑːr]</comment>
+    <answer_comment>to want - хотеть, to insure - застраховать, car - машина</answer_comment>
+    
+    <uuid>22afba66-3084-4249-ae1f-2c930e301a03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy a map of the car roads?</question>
+    <answer>Где я могу купить карту автодорог?</answer>
+    <comment>[hwer kæn аɪ bаɪ ə mæp əv ðə kɑːr roʊdz]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, map - карта, car - машина, road - дорога</answer_comment>
+    
+    <uuid>8f8a5926-ab8f-4f1c-bb2c-e03e88df68a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, how can I get to Boston?</question>
+    <answer>Простите, как мне доехать до Бостона?</answer>
+    <comment>[ˈsɑːriː hаʊ kæn аɪ get tə ˈbɔːstən]</comment>
+    <answer_comment>sorry - прости(те), how - как, can - мочь, to get (to) - добраться (до), Boston - Бостон</answer_comment>
+    
+    <uuid>8a50aa23-71cd-4c81-abab-4964b92a9e59</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, may I park here?</question>
+    <answer>Простите, могу я здесь припарковаться?</answer>
+    <comment>[ˈsɑːriː meɪ аɪ pɑːrk hɪr]</comment>
+    <answer_comment>sorry - прости(те), may - мочь, to park - припарковаться, here - здесь</answer_comment>
+    
+    <uuid>94acbc0b-af32-419f-8fbc-e1be67fb4364</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I park the car?</question>
+    <answer>Где я могу поставить машину?</answer>
+    <comment>[hwer kæn аɪ pɑːrk ðə kɑːr]</comment>
+    <answer_comment>where - где, can - мочь, to park - припарковаться, car - машина</answer_comment>
+    
+    <uuid>3adffac8-154b-44ae-bc5d-7f98c37d4554</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the parking meter?</question>
+    <answer>Где автомат для оплаты парковки?</answer>
+    <comment>[hwer ɪz ðə ˈpærkɪŋ ˈmiːtər]</comment>
+    <answer_comment>where - где, parking - парковочный, meter - счетчик</answer_comment>
+    
+    <uuid>8b5073f2-2941-4302-866c-72e3f9cba161</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest free-of-charge parking?</question>
+    <answer>Где тут по близости бесплатная парковка?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst friː əv ʧɑːrʤ ˈpærkɪŋ]</comment>
+    <answer_comment>where - где, the nearest - ближайший, free-of-charge - бесплатный, parking - парковка</answer_comment>
+    
+    <uuid>6762374b-d7b1-4d46-a2c6-04be9f79f846</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest paid underground parking?</question>
+    <answer>Где тут по близости платная подземная парковка?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst peɪd ˌʌndərˈgræʊnd ˈpærkɪŋ]</comment>
+    <answer_comment>where - где, the nearest - ближайший, paid - платный, underground - подземный, parking - парковка</answer_comment>
+    
+    <uuid>e1180a41-c296-4a45-9954-49d214562f25</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the garage?</question>
+    <answer>Где можно поставить машину в гараж?</answer>
+    <comment>[hwer ɪz ðə gəˈrɑːʒ]</comment>
+    <answer_comment>where - где, garage - гараж</answer_comment>
+    
+    <uuid>c109f73e-ea12-4d05-bd71-a0ab73d6757d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a garage for three days.</question>
+    <answer>Мне нужен гараж на три дня.</answer>
+    <comment>[аɪ niːd ə gəˈrɑːʒ fər θriː ˈdeɪz]</comment>
+    <answer_comment>need - нуждаться, garage - гараж, three - три, day - день</answer_comment>
+    
+    <uuid>923a71c8-138f-41fc-b94e-d84ce9a1fd30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to have my car washed.</question>
+    <answer>Я хотел бы, чтобы машину помыли.</answer>
+    <comment>[аɪd lаɪk tə hæv mаɪ kɑːr wɑːʃt]</comment>
+    <answer_comment>would like - хотеть, to have - иметь, my - мой, моя, мое, car - машина, washed - помытый</answer_comment>
+    
+    <uuid>538d0fd0-d3ed-4a92-97a0-2b1efb9a2c13</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please wash the car.</question>
+    <answer>Помойте, пожалуйста, машину.</answer>
+    <comment>[pliːz wɑːʃ ðə kɑːr]</comment>
+    <answer_comment>to wash - мыть, car - машина</answer_comment>
+    
+    <uuid>ca92e023-2392-4e3b-b922-33a344c17a37</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please fill the radiator.</question>
+    <answer>Долейте, пожалуйста, воду.</answer>
+    <comment>[pliːz fɪl ðə ˈreɪdiːˌeɪtər]</comment>
+    <answer_comment>to fill - наполнить, radiator - радиатор</answer_comment>
+    
+    <uuid>10b9bbe5-2d74-4614-9cf5-c640b66b5823</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please pump up the tires.</question>
+    <answer>Накачайте, пожалуйста, шины.</answer>
+    <comment>[pliːz pʌmp ʌp ðə tаɪrz]</comment>
+    <answer_comment>to pump up - накачать, tires - шины</answer_comment>
+    
+    <uuid>51008a83-0c21-41ac-a95d-e48e26947554</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is a detour here.</question>
+    <answer>Здесь объезд.</answer>
+    <comment>[ðer ɪz ə ˈdiːtʊr hɪr]</comment>
+    <answer_comment>there is - есть, имеется, detour - объезд, here - здесь</answer_comment>
+    
+    <uuid>30d229f0-a1f5-4dd1-af82-e5a099ec1c09</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is a turn here.</question>
+    <answer>Здесь поворот.</answer>
+    <comment>[ðer ɪz ə tɜːrn hɪr]</comment>
+    <answer_comment>there is - есть, имеется, turn - поворот, here - здесь</answer_comment>
+    
+    <uuid>b73d0098-1a5c-4329-9b55-dce73b57aafd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is a dead end here.</question>
+    <answer>Здесь тупик.</answer>
+    <comment>[ðer ɪz ə ded end hɪr]</comment>
+    <answer_comment>there is - есть, имеется, dead - мертвый, end - конец, here - здесь</answer_comment>
+    
+    <uuid>5fc5fef7-5625-4481-a820-ce67436b4fff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please call the police.</question>
+    <answer>Пожалуйста, вызовите полицию.</answer>
+    <comment>[pliːz kɔːl ðə pəˈliːs]</comment>
+    <answer_comment>to call - звать, звонить, police - полиция</answer_comment>
+    
+    <uuid>662b3c7e-7f6b-4ad3-a6f7-a77267c4fa7b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my name and address.</question>
+    <answer>Вот мое имя и адрес.</answer>
+    <comment>[hɪr ɪz mаɪ neɪm ənd əˈdres]</comment>
+    <answer_comment>here - здесь, name - имя, address - адрес</answer_comment>
+    
+    <uuid>7a4bfc9e-1626-4f09-84df-307509c0c101</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you be my witness?</question>
+    <answer>Не могли бы вы быть моим свидетелем?</answer>
+    <comment>[kʊd jʊ biː mаɪ ˈwɪtnɪs]</comment>
+    <answer_comment>could - мог, могла, могли, to be - быть, witness - свидетель</answer_comment>
+    
+    <uuid>ea7f6c6d-93d6-490f-bffe-fc761e0ccdaa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Something has broken in my car.</question>
+    <answer>У меня случилась поломка в пути.</answer>
+    <comment>[ˈsʌmθɪŋ həz ˈbroʊkən ɪn mаɪ kɑːr]</comment>
+    <answer_comment>something - что-то, to break - ломаться, car - машина</answer_comment>
+    
+    <uuid>8497e13b-6c41-487d-ad6b-732203d9d7a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you send me a mechanic?</question>
+    <answer>Не могли бы вы прислать мне механика?</answer>
+    <comment>[kʊd jʊ send ˈmiː ə məˈkænɪk]</comment>
+    <answer_comment>could - мог, могла, могли, to send - послать, mechanic - механик</answer_comment>
+    
+    <uuid>35cc25f2-5fc3-45ad-8639-01960a41431d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long will it take?</question>
+    <answer>Сколько времени это займет?</answer>
+    <comment>[hаʊ lɔːŋ wɪl ɪt teɪk]</comment>
+    <answer_comment>how - как, long - долго, to take - взять, брать, занимать</answer_comment>
+    
+    <uuid>b6d1d317-90e0-4b4d-ba90-4b22bd2e147d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a towtruck.</question>
+    <answer>Мне нужен эвакуатор.</answer>
+    <comment>[аɪ niːd ə ˈtoʊtrʌk]</comment>
+    <answer_comment>need - нуждаться, tow truck - эвакуатор</answer_comment>
+    
+    <uuid>a96ccaac-5b7c-4901-9946-62a47e2bf185</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you take my car on a tow?</question>
+    <answer>Можете вы взять мою машину на буксир?</answer>
+    <comment>[kæn jʊ teɪk mаɪ kɑːr ɑːn ə toʊ]</comment>
+    <answer_comment>can - мочь, to take - взять, car - машина, tow - буксир</answer_comment>
+    
+    <uuid>64ee86d2-cfa8-44ad-af00-1617b67369db</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is the towline.</question>
+    <answer>Вот мой трос.</answer>
+    <comment>[hɪr ɪz ðə toʊ lаɪn]</comment>
+    <answer_comment>here - здесь, towline - трос</answer_comment>
+    
+    <uuid>eb511d8a-d263-4270-8adf-fa0edf37454b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Something is wrong with my car.</question>
+    <answer>В машине что-то забарахлило.</answer>
+    <comment>[ˈsʌmθɪŋ ɪz rɔːŋ wɪð mаɪ kɑːr]</comment>
+    <answer_comment>something - что-то, wrong - неправильное, ошибочное, car - машина</answer_comment>
+    
+    <uuid>3a9a0003-397c-4358-95c6-07944af63fe9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think that the accumulator is dead.</question>
+    <answer>Я думаю, что аккумулятор сел.</answer>
+    <comment>[аɪ θɪŋk ðæt ðiː əˈkjuːmjəˌleɪtər ɪz ded]</comment>
+    <answer_comment>to think - думать, that - что, accumulator - аккумулятор, dead - мертвый</answer_comment>
+    
+    <uuid>8a0a01ee-f698-4816-b22c-5ccd8c66b32c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think that the gearbox is broken.</question>
+    <answer>Я думаю, что коробка передач вышла из строя.</answer>
+    <comment>[аɪ θɪŋk ðæt ðə gɪr bɑːks ɪz ˈbroʊkən]</comment>
+    <answer_comment>to think - думать, that - что, gearbox - коробка передач, broken - сломанный</answer_comment>
+    
+    <uuid>8798fad6-0cb9-430e-8571-fca604bd0db7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is something wrong with the engine.</question>
+    <answer>Что-то не в порядке с двигателем.</answer>
+    <comment>[ðer ɪz ˈsʌmθɪŋ rɔːŋ wɪð ðiː ˈenʤən]</comment>
+    <answer_comment>there is - есть, имеется, something - что-то, wrong - неправильное, ошибочное, engine - двигатель</answer_comment>
+    
+    <uuid>4399b230-839c-40bf-bc3c-01a8a0ac1ba1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The motor won&apos;t start.</question>
+    <answer>Двигатель не заводится.</answer>
+    <comment>[ðə ˈmoʊtər woʊnt stɑːrt]</comment>
+    <answer_comment>motor - мотор, to start - стартовать, начинать</answer_comment>
+    
+    <uuid>1da1cf2d-e1b7-4f05-b37e-df5a02776ee3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The car won&apos;t start.</question>
+    <answer>Машина не заводится.</answer>
+    <comment>[ðə kɑːr woʊnt stɑːrt]</comment>
+    <answer_comment>car - машина, to start - стартовать, начинать</answer_comment>
+    
+    <uuid>2b7e5959-502d-4be9-ba79-1c89dac57921</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The radiator leaks.</question>
+    <answer>Радиатор течет.</answer>
+    <comment>[ðə ˈreɪdiːˌeɪtər liːks]</comment>
+    <answer_comment>radiator - радиатор, to leak - течь, сочиться</answer_comment>
+    
+    <uuid>5cd1f0c8-ee01-4330-881a-988651d8e489</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The steering wheel vibrates.</question>
+    <answer>Руль вибрирует.</answer>
+    <comment>[ðə ˈstɪrɪŋ hwiːl ˈvаɪbreɪts]</comment>
+    <answer_comment>steering wheel - руль, to vibrate - вибрирует</answer_comment>
+    
+    <uuid>f46825d6-25f0-49e5-89be-176887c33622</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please repair the brakes.</question>
+    <answer>Отремонтируйте, пожалуйста, тормоз.</answer>
+    <comment>[pliːz rɪˈper ðə breɪks]</comment>
+    <answer_comment>to repair - отремонтировать, brake - тормоз</answer_comment>
+    
+    <uuid>078e12a3-1930-4c71-97d3-324bbc0f8683</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please repair the clutch.</question>
+    <answer>Отремонтируйте, пожалуйста, сцепление.</answer>
+    <comment>[pliːz rɪˈper ðə klʌʧ]</comment>
+    <answer_comment>to repair - отремонтировать, clutch - сцепление</answer_comment>
+    
+    <uuid>5b0df73f-a51a-46da-bda4-428f33b56cc7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please repair the ignition.</question>
+    <answer>Отремонтируйте, пожалуйста, зажигание.</answer>
+    <comment>[pliːz rɪˈper ðiː ɪgˈnɪʃən]</comment>
+    <answer_comment>to repair - отремонтировать, ignition - зажигание</answer_comment>
+    
+    <uuid>9348986a-7d06-4893-bf1e-bb8d842b2673</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please repair the shock absorber.</question>
+    <answer>Отремонтируйте, пожалуйста, амортизатор.</answer>
+    <comment>[pliːz rɪˈper ðə ʃɑːk æbˈsɔːrbər]</comment>
+    <answer_comment>to repair - отремонтировать, shock absorber - амортизатор</answer_comment>
+    
+    <uuid>45feb89f-3bfe-43e4-85fc-7beb37a18f41</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please repair the carburettor.</question>
+    <answer>Отремонтируйте, пожалуйста, карбюратор.</answer>
+    <comment>[pliːz rɪˈper ðə ˈkɑːrbjəˌretər]</comment>
+    <answer_comment>to repair - отремонтировать, carburettor - карбюратор</answer_comment>
+    
+    <uuid>358e9528-8f9e-4ccc-b5bb-5bf8f52bc2de</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think the brakes are rather low.</question>
+    <answer>Кажется, тормоза очень слабые.</answer>
+    <comment>[аɪ θɪŋk ðə breɪks ɑːr ˈræðər loʊ]</comment>
+    <answer_comment>to think - думать, brake - тормоз, rather - довольно, low - низкий</answer_comment>
+    
+    <uuid>2b8f5553-2e88-4880-aa9f-b6be04dd7d23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will you manage to find the fault?</question>
+    <answer>Когда вы сумеете найти поломку?</answer>
+    <comment>[hwen wɪl jʊ ˈmænɪʤ tə fаɪnd ðə fɔːlt]</comment>
+    <answer_comment>when - когда, to manage - удаваться, to find - найти, обнаружить, fault - неполадка</answer_comment>
+    
+    <uuid>b839cf97-2432-4ebb-bd1b-af89e46e79c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long will the repair take?</question>
+    <answer>Сколько времени нужно на ремонт?</answer>
+    <comment>[hаʊ lɔːŋ wɪl ðə rɪˈper teɪk]</comment>
+    <answer_comment>how - как, long - долго, repair - ремонт, to take - брать, взять</answer_comment>
+    
+    <uuid>3f9ee7d4-d45f-4152-b460-59690689b0e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have spare parts?</question>
+    <answer>У вас есть запчасти?</answer>
+    <comment>[duː jʊ hæv sper pɑːrts]</comment>
+    <answer_comment>to have - иметь, spare - свободный, запасной, part - деталь, часть</answer_comment>
+    
+    <uuid>76fa9213-ef84-48ee-835a-6bb078e56913</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much will it cost?</question>
+    <answer>Сколько это будет стоить?</answer>
+    <comment>[hаʊ mʌʧ wɪl ɪt kɔːst]</comment>
+    <answer_comment>how - как, much - много, it - это, to cost - стоить</answer_comment>
+    
+    <uuid>aeb1e421-7a84-454a-a73a-a717109385e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Help me to get to the city.</question>
+    <answer>Сделайте что-нибудь, чтобы я смог доехать до города.</answer>
+    <comment>[help ˈmiː tə get tə ðə ˈsɪtiː]</comment>
+    <answer_comment>to help - помочь, me - мне, меня, to get (to) - добраться (до), city - город</answer_comment>
+    
+    <uuid>6d410d5e-55f1-4be1-85b8-91f2bd64b8b5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you give me a ride home?</question>
+    <answer>Отвезите меня, пожалуйста, домой.</answer>
+    <comment>[kæn jʊ gɪv ˈmiː ə rаɪd hoʊm]</comment>
+    <answer_comment>can - мочь, to give - дать, me - мне, меня, ride - поездка, home - дом, домой</answer_comment>
+    
+    <uuid>3ffde94c-4b98-4841-92da-073bd08192c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many kilometers to Boston?</question>
+    <answer>Сколько километров до Бостона?</answer>
+    <comment>[hаʊ ˈmeniː ˈkɪləˌmiːtərz tə ˈbɔːstən]</comment>
+    <answer_comment>how - сколько, many - много, kilometer - километр, Boston - Бостон</answer_comment>
+    
+    <uuid>23eb1abd-9c52-40d0-9717-75c8aff0a9ac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have enough gas?</question>
+    <answer>У вас достаточно бензина?</answer>
+    <comment>[duː jʊ hæv ɪˈnʌf gæs]</comment>
+    <answer_comment>to have - иметь, enough - достаточно, gas - газ</answer_comment>
+    
+    <uuid>4fa1ec45-69fd-481d-a9bd-07014f963a79</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>At what speed are we driving?</question>
+    <answer>С какой скоростью мы едем?</answer>
+    <comment>[ət hwʌt spiːd ɑːr wiː ˈdrаɪvɪŋ]</comment>
+    <answer_comment>what - какой, speed - скорость, we - мы, to drive - ехать</answer_comment>
+    
+    <uuid>4fe0286a-91c1-41b5-bb68-618f02f558ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is everything ready?</question>
+    <answer>Все готово?</answer>
+    <comment>[ɪz ˈevriːˌθɪŋ ˈrediː]</comment>
+    <answer_comment>everything - все, ready - готовый</answer_comment>
+    
+    <uuid>b022767d-3fe2-4941-b266-0f55e8af4401</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Write out the receipt, please.</question>
+    <answer>Выпишите, пожалуйста, квитанцию.</answer>
+    <comment>[rаɪt аʊt ðə rɪˈsiːt pliːz]</comment>
+    <answer_comment>to write out - выписать, receipt - квитанция</answer_comment>
+    
+    <uuid>7c73a5ef-2ba0-4717-a0b9-1edc32cb65fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You have struck my car!</question>
+    <answer>Вы ударили мою машину!</answer>
+    <comment>[jʊ hæv strʌk mаɪ kɑːr]</comment>
+    <answer_comment>to strike - ударить, car - машина</answer_comment>
+    
+    <uuid>ccbaf47d-404b-42e7-9790-0bf69e5da8a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Look at the dent on the wing.</question>
+    <answer>Видите - на крыле вмятина.</answer>
+    <comment>[lʊk ət ðə dent ɑːn ðə wɪŋ]</comment>
+    <answer_comment>to look (at) - смотреть (на), dent - вмятина, wing - крыло</answer_comment>
+    
+    <uuid>3213c23e-150d-4705-ad8c-5dd0e2d069f3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Look at the dent on the body.</question>
+    <answer>Видите - на кузове вмятина.</answer>
+    <comment>[lʊk ət ðə dent ɑːn ðə ˈbɑːdiː]</comment>
+    <answer_comment>to look (at) - смотреть (на), dent - вмятина, body - кузов</answer_comment>
+    
+    <uuid>29c0acca-a86a-4954-82c4-40530d98fe99</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Look at the dent on the door.</question>
+    <answer>Видите - на двери вмятина.</answer>
+    <comment>[lʊk ət ðə dent ɑːn ðə dɔːr]</comment>
+    <answer_comment>to look (at) - смотреть (на), dent - вмятина, door - дверь</answer_comment>
+    
+    <uuid>99dadbef-36f5-4d69-aaf9-48e139c24503</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Look at the dent on the trunk.</question>
+    <answer>Видите - на багажнике вмятина.</answer>
+    <comment>[lʊk ət ðə dent ɑːn ðə trʌŋk]</comment>
+    <answer_comment>to look (at) - смотреть (на), dent - вмятина, trunk - багажник</answer_comment>
+    
+    <uuid>0f02b366-c586-4a8e-b800-1e19e628d0b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let&apos;s call the police.</question>
+    <answer>Давайте вызовем полицию.</answer>
+    <comment>[lets kɔːl ðə pəˈliːs]</comment>
+    <answer_comment>let&apos;s - давай(те), to call - звать, звонить, police - полиция</answer_comment>
+    
+    <uuid>348f754b-13ea-4b3b-82fa-0642ba0fb73c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My car is insured.</question>
+    <answer>Моя машина застрахована.</answer>
+    <comment>[mаɪ kɑːr ɪz ˈɪnˈʃʊrd]</comment>
+    <answer_comment>car - машина, insured - застрахованный</answer_comment>
+    
+    <uuid>d3311813-d862-4e1a-84ea-8cfdff39ebb1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my insurance policy.</question>
+    <answer>Вот мой страховой полис.</answer>
+    <comment>[hɪr ɪz mаɪ ɪnˈʃʊrəns ˈpɑːlɪsiː]</comment>
+    <answer_comment>here - здесь, insurance - страховка, policy - полис</answer_comment>
+    
+    <uuid>4093a362-e155-49a6-99cd-6c632d61a829</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here are the contacts of the insurance company.</question>
+    <answer>Вот контакты страховой компании.</answer>
+    <comment>[hɪr ɑːr ðə ˈkɑːntækts əv ðiː ɪnˈʃʊrəns ˈkʌmpəniː]</comment>
+    <answer_comment>here - здесь, contact - контакт, insurance - страховка, страховой, company - компания</answer_comment>
+    
+    <uuid>b6bee388-855d-4d45-91b8-3785848d1bc4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let&apos;s call in a car service center and estimate the cost of repairs.</question>
+    <answer>Давайте заедем в автосервис и оценим стоимость ремонта.</answer>
+    <comment>[lets kɔːl ɪn ə kɑːr ˈsɜːrvɪs ˈsentər ənd ˈestəˌmeɪt ðə kɔːst əv rɪˈperz]</comment>
+    <answer_comment>let&apos;s - давай(те), to call - звать, car - машина, service - сервис, center - центр, to estimate - оценить, cost - стоимость, repair - ремонт</answer_comment>
+    
+    <uuid>9be2b478-9185-43c5-a75e-98f07fda5ca3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Have a good trip!</question>
+    <answer>Счастливого пути!</answer>
+    <comment>[hæv ə gʊd trɪp]</comment>
+    <answer_comment>to have - иметь, good - хороший, trip - поездка</answer_comment>
+    
+    <uuid>c9919796-095c-4917-a4fb-3dbd2a7ee378</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest gas pump?</question>
+    <answer>Где ближайшая бензоколонка?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst gæs pʌmp]</comment>
+    <answer_comment>where - где, the nearest - ближайший, gas - газ, бензин, топливо, pump - насос</answer_comment>
+    
+    <uuid>2b90fa41-36a9-47d5-9912-30291d1083fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Fill it up, please.</question>
+    <answer>Полный бак, пожалуйста.</answer>
+    <comment>[fɪl ɪt ʌp pliːz]</comment>
+    <answer_comment>to fill up - наполнить доверху</answer_comment>
+    
+    <uuid>ee185d3c-472a-401c-ad34-451016aed35d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much do I pay?</question>
+    <answer>Сколько с меня?</answer>
+    <comment>[hаʊ mʌʧ duː аɪ peɪ]</comment>
+    <answer_comment>how - как, much - много, to pay - платить</answer_comment>
+    
+    <uuid>16e46110-9abd-4c8d-868c-9524200384f2</uuid>
+  </card>
+</cards>
+</stack>

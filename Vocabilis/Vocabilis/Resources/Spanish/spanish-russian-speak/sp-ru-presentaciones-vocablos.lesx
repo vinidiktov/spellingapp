@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>29889a05-c2b0-4f0a-ab60-9f1dd4d84526</uuid>
+  <title>Знакомство :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>bueno</question>
+    <answer>хороший</answer>
+    <comment></comment>
+    <uuid>497dc8a1-1b10-4891-90b8-049b5d7c2168</uuid>
+  </card>
+  <card>
+    <question>día</question>
+    <answer>день; дневное время</answer>
+    <comment>m</comment>
+    <uuid>6059b828-25c6-4ab4-b734-897d3afc9b71</uuid>
+  </card>
+  <card>
+    <question>tarde</question>
+    <answer>послеполуденное время; день ( от полудня до сумерек )</answer>
+    <comment>f</comment>
+    <uuid>4b00699b-f8b1-4292-992f-365f0e1f657a</uuid>
+  </card>
+  <card>
+    <question>noche</question>
+    <answer>ночь, ночная пора</answer>
+    <comment>f</comment>
+    <uuid>86b20f52-9a53-4ca6-afa9-ed49ebae9ac3</uuid>
+  </card>
+  <card>
+    <question>hola</question>
+    <answer>привет</answer>
+    <comment></comment>
+    <uuid>4d18c99c-de29-4fd2-8969-b73f0c4b98cc</uuid>
+  </card>
+  <card>
+    <question>bienvenido</question>
+    <answer>добро пожаловать</answer>
+    <comment></comment>
+    <uuid>a8d8c809-ceaf-465c-a485-9d19f91d5aaf</uuid>
+  </card>
+  <card>
+    <question>cómo</question>
+    <answer>как? каким образом? (вопросительное слово)</answer>
+    <comment></comment>
+    <uuid>03d7e11f-5c63-4697-aab0-896b6dbbf3c1</uuid>
+  </card>
+  <card>
+    <question>se llama</question>
+    <answer>Вас зовут; его зовут, ее зовут</answer>
+    <comment></comment>
+    <uuid>fdabff5d-7dc2-4dd2-9b48-599cb36b1950</uuid>
+  </card>
+  <card>
+    <question>me llamo</question>
+    <answer>меня зовут</answer>
+    <comment></comment>
+    <uuid>bba4cccb-4737-4e09-80c3-e270fe1a1427</uuid>
+  </card>
+  <card>
+    <question>te llamas</question>
+    <answer>тебя зовут</answer>
+    <comment></comment>
+    <uuid>36c6b275-56b0-49f1-bdb8-236f06ddf761</uuid>
+  </card>
+  <card>
+    <question>usted</question>
+    <answer>Вы (единственное число)</answer>
+    <comment></comment>
+    <uuid>f7a22b99-9088-4b56-a12a-cf94399e2b2f</uuid>
+  </card>
+  <card>
+    <question>permitir</question>
+    <answer>позволять, разрешать</answer>
+    <comment></comment>
+    <uuid>895a838e-5afa-4974-8abe-a56fff12f120</uuid>
+  </card>
+  <card>
+    <question>permita</question>
+    <answer>позвольте, разрешите</answer>
+    <comment></comment>
+    <uuid>3a1a76e1-97a9-48da-915c-0e18508e4481</uuid>
+  </card>
+  <card>
+    <question>me alegro</question>
+    <answer>я рад</answer>
+    <comment></comment>
+    <uuid>1cc8839b-ee9c-487d-b8ea-80f861964ea6</uuid>
+  </card>
+  <card>
+    <question>te alegras</question>
+    <answer>ты рад</answer>
+    <comment></comment>
+    <uuid>18540eb2-0eb8-4d44-a785-fe99f8aa1d47</uuid>
+  </card>
+  <card>
+    <question>se alegra</question>
+    <answer>Вы рады; он рад, она рада</answer>
+    <comment></comment>
+    <uuid>09689d3b-043b-4e8b-9a54-fc47ae2fee6d</uuid>
+  </card>
+  <card>
+    <question>conocer</question>
+    <answer>знать</answer>
+    <comment></comment>
+    <uuid>2ff5d6aa-96f5-4326-8c28-8d9f557ff9b6</uuid>
+  </card>
+  <card>
+    <question>conózcanse</question>
+    <answer>познакомьтесь</answer>
+    <comment></comment>
+    <uuid>001e1857-142f-492a-9fde-2701dfe5dd2b</uuid>
+  </card>
+  <card>
+    <question>le</question>
+    <answer>Вам; ему, ей</answer>
+    <comment></comment>
+    <uuid>39164612-eced-4326-a998-e16c6edcd634</uuid>
+  </card>
+  <card>
+    <question>presentar</question>
+    <answer>представлять (кого-л. кому-л.)</answer>
+    <comment></comment>
+    <uuid>34041a10-701c-4083-99e4-543fe1d946a9</uuid>
+  </card>
+  <card>
+    <question>presento</question>
+    <answer>представляю</answer>
+    <comment></comment>
+    <uuid>a1c3c931-9971-4a95-8326-4e9ab4a9d15b</uuid>
+  </card>
+  <card>
+    <question>presenta</question>
+    <answer>(Вы) представляете, представляет</answer>
+    <comment></comment>
+    <uuid>3ea095a1-be3d-4076-a654-de9d3696cea9</uuid>
+  </card>
+  <card>
+    <question>presentas</question>
+    <answer>представляешь</answer>
+    <comment></comment>
+    <uuid>7241c549-86f6-48fb-be16-50cba4493e85</uuid>
+  </card>
+  <card>
+    <question>señor</question>
+    <answer>господин</answer>
+    <comment>m</comment>
+    <uuid>77faafd3-558a-4612-8c45-bf3fd8378d63</uuid>
+  </card>
+  <card>
+    <question>señora</question>
+    <answer>госпожа</answer>
+    <comment>f</comment>
+    <uuid>a24b1aea-06ec-430e-912e-9a0ba2032d13</uuid>
+  </card>
+  <card>
+    <question>esposo</question>
+    <answer>супруг</answer>
+    <comment>m</comment>
+    <uuid>fcde5885-b566-46fe-bfd3-8ecaf5d4f148</uuid>
+  </card>
+  <card>
+    <question>esposa</question>
+    <answer>супруга</answer>
+    <comment>f</comment>
+    <uuid>a16f44fb-c8d7-4f98-9270-dbdb6877be86</uuid>
+  </card>
+  <card>
+    <question>qué</question>
+    <answer>что?</answer>
+    <comment></comment>
+    <uuid>394438a7-fbaf-4326-b31c-6d61846a1dea</uuid>
+  </card>
+  <card>
+    <question>bien</question>
+    <answer>хорошо</answer>
+    <comment></comment>
+    <uuid>c9bef5a0-c8be-4ded-9234-7df4cf554152</uuid>
+  </card>
+  <card>
+    <question>gracias</question>
+    <answer>спасибо</answer>
+    <comment></comment>
+    <uuid>0c101155-c44e-4bad-8d53-4bef8f606efa</uuid>
+  </card>
+  <card>
+    <question>y</question>
+    <answer>и</answer>
+    <comment></comment>
+    <uuid>ba23f67e-6074-42e0-880c-04566ff88650</uuid>
+  </card>
+  <card>
+    <question>tú</question>
+    <answer>ты</answer>
+    <comment></comment>
+    <uuid>3b591f0e-c640-42f6-a246-6a42c351c2b4</uuid>
+  </card>
+  <card>
+    <question>viaje</question>
+    <answer>поездка</answer>
+    <comment>m</comment>
+    <uuid>1698ccde-84c6-43ef-91a6-d6b2bf5201ae</uuid>
+  </card>
+  <card>
+    <question>de dónde</question>
+    <answer>откуда?</answer>
+    <comment></comment>
+    <uuid>f117c127-bca4-48a5-884e-8fcee587acba</uuid>
+  </card>
+  <card>
+    <question>dónde</question>
+    <answer>куда?</answer>
+    <comment></comment>
+    <uuid>a353dd92-ca87-4c2a-b35c-d138ea995fd7</uuid>
+  </card>
+  <card>
+    <question>ha venido</question>
+    <answer>(Вы) приехали; (он) приехал, (она) приехала</answer>
+    <comment></comment>
+    <uuid>1cc3e521-5995-4e12-aebd-0df5c365d9fc</uuid>
+  </card>
+  <card>
+    <question>has venido</question>
+    <answer>(ты) приехал</answer>
+    <comment></comment>
+    <uuid>2021b880-428b-49bf-a734-3aadbb95dc8a</uuid>
+  </card>
+  <card>
+    <question>he venido</question>
+    <answer>(я) приехал</answer>
+    <comment></comment>
+    <uuid>53f8eba0-0cc4-4f90-8ae3-ce5d89358b0c</uuid>
+  </card>
+  <card>
+    <question>han venido</question>
+    <answer>(Вы) приехали (мн.ч.); (они) приехали</answer>
+    <comment></comment>
+    <uuid>c6302bdc-b77b-4c96-8703-22e85be4d01c</uuid>
+  </card>
+  <card>
+    <question>hemos venido</question>
+    <answer>(мы) приехали</answer>
+    <comment></comment>
+    <uuid>4533261c-5d7a-4a4b-9f65-9472c7ab0b36</uuid>
+  </card>
+  <card>
+    <question>venir</question>
+    <answer>приезжать, приходить</answer>
+    <comment></comment>
+    <uuid>4481c33b-4aac-4963-9fea-3b2f375c1c33</uuid>
+  </card>
+  <card>
+    <question>venido</question>
+    <answer>приехавший</answer>
+    <comment></comment>
+    <uuid>d3eb144f-2fd0-4253-b9f9-17cc4d27b220</uuid>
+  </card>
+  <card>
+    <question>ustedes</question>
+    <answer>вы (множественное число)</answer>
+    <comment>вежливая форма</comment>
+    <uuid>dd24dc37-bd0c-42c5-bf12-26344bbda25b</uuid>
+  </card>
+  <card>
+    <question>nosotros</question>
+    <answer>мы</answer>
+    <comment></comment>
+    <uuid>53d23072-fa72-4c27-b05b-f3ffe6efde9e</uuid>
+  </card>
+  <card>
+    <question>hemos venido</question>
+    <answer>(мы) приехали</answer>
+    <comment></comment>
+    <uuid>74d81656-a645-48df-b976-435b7669458e</uuid>
+  </card>
+  <card>
+    <question>de</question>
+    <answer>из</answer>
+    <comment></comment>
+    <uuid>00f85aeb-c0aa-4d7f-bdea-869bbf34c0d5</uuid>
+  </card>
+  <card>
+    <question>Moscú</question>
+    <answer>Москва</answer>
+    <comment></comment>
+    <uuid>f5c8b28d-1ca0-4f63-ac4a-af94c2f2e519</uuid>
+  </card>
+  <card>
+    <question>cuántos</question>
+    <answer>сколько (мн. ч. м.р.)</answer>
+    <comment></comment>
+    <uuid>af87981a-8740-41da-955e-db77ac38d1cb</uuid>
+  </card>
+  <card>
+    <question>sólo</question>
+    <answer>только</answer>
+    <comment></comment>
+    <uuid>189c9866-6e22-4fd8-a58a-8de1b112e168</uuid>
+  </card>
+  <card>
+    <question>yo</question>
+    <answer>я</answer>
+    <comment></comment>
+    <uuid>3381fd0e-6dbc-4ca4-a829-e5ea0c4af185</uuid>
+  </card>
+  <card>
+    <question>primero</question>
+    <answer>первый</answer>
+    <comment></comment>
+    <uuid>d2f2a9c4-7337-47a3-adc0-c6e6fb31dec2</uuid>
+  </card>
+  <card>
+    <question>primera</question>
+    <answer>первая</answer>
+    <comment></comment>
+    <uuid>f71d200f-e09b-40ac-a538-5513cd05e3bf</uuid>
+  </card>
+  <card>
+    <question>vez</question>
+    <answer>раз</answer>
+    <comment>f</comment>
+    <uuid>b433f534-caf1-482d-ad13-8d36d97d2431</uuid>
+  </card>
+  <card>
+    <question>vengo</question>
+    <answer>приезжаю</answer>
+    <comment></comment>
+    <uuid>ea460517-f889-4e02-8443-764748791605</uuid>
+  </card>
+  <card>
+    <question>venimos</question>
+    <answer>приезжаем</answer>
+    <comment></comment>
+    <uuid>1e0e3783-1be8-45a7-95ad-42d30a46df02</uuid>
+  </card>
+  <card>
+    <question>vienes</question>
+    <answer>приезжаешь</answer>
+    <comment></comment>
+    <uuid>37d7bb23-1d24-4e68-8b42-520b2ed2a4a6</uuid>
+  </card>
+  <card>
+    <question>viene</question>
+    <answer>(Вы) приезжаете; (он, она) приезжает</answer>
+    <comment></comment>
+    <uuid>701f1b07-667b-4165-89fa-8c9abdd5ecce</uuid>
+  </card>
+  <card>
+    <question>su</question>
+    <answer>Ваш; его, её</answer>
+    <comment></comment>
+    <uuid>8dd78753-4046-4473-8ce9-9d4bee0d393a</uuid>
+  </card>
+  <card>
+    <question>país</question>
+    <answer>страна</answer>
+    <comment>m</comment>
+    <uuid>feddb46f-9d0b-435a-8248-72b352d6c982</uuid>
+  </card>
+  <card>
+    <question>ciudad</question>
+    <answer>город</answer>
+    <comment>f</comment>
+    <uuid>f36a2329-3762-4f81-839e-b6ca6873c89d</uuid>
+  </card>
+  <card>
+    <question>este</question>
+    <answer>этот</answer>
+    <comment></comment>
+    <uuid>535ca80f-e7dc-41ec-91c9-3896856fcbba</uuid>
+  </card>
+  <card>
+    <question>esta</question>
+    <answer>эта</answer>
+    <comment></comment>
+    <uuid>992aa297-0a03-4c59-9dbe-a17004516f3c</uuid>
+  </card>
+  <card>
+    <question>formar parte</question>
+    <answer>входить в состав</answer>
+    <comment></comment>
+    <uuid>41ce2041-ec65-433c-baa8-d0e886467d26</uuid>
+  </card>
+  <card>
+    <question>formo parte</question>
+    <answer>я вхожу в состав</answer>
+    <comment></comment>
+    <uuid>f9f88afa-6a4c-4095-a16a-3132f4e6512f</uuid>
+  </card>
+  <card>
+    <question>segundo</question>
+    <answer>второй</answer>
+    <comment></comment>
+    <uuid>7685f219-464b-4243-b159-02d4d16cd1d3</uuid>
+  </card>
+  <card>
+    <question>segunda</question>
+    <answer>вторая</answer>
+    <comment></comment>
+    <uuid>79e9d238-8a27-44f3-bac1-332d54448fed</uuid>
+  </card>
+  <card>
+    <question>delegación</question>
+    <answer>делегация</answer>
+    <comment>f</comment>
+    <uuid>92a82632-cceb-47df-b4b2-933096688405</uuid>
+  </card>
+  <card>
+    <question>comercial</question>
+    <answer>торговый</answer>
+    <comment></comment>
+    <uuid>80017dc1-7736-4446-b0f4-b3f488a84205</uuid>
+  </card>
+  <card>
+    <question>deportivo</question>
+    <answer>спортивный</answer>
+    <comment></comment>
+    <uuid>7270867c-1662-472c-ae8d-ab40b5073c2a</uuid>
+  </card>
+  <card>
+    <question>deportiva</question>
+    <answer>спортивная</answer>
+    <comment></comment>
+    <uuid>5f34b0fa-85e6-4521-8d51-cdeeee2a2c1e</uuid>
+  </card>
+  <card>
+    <question>juvenil</question>
+    <answer>молодежный</answer>
+    <comment></comment>
+    <uuid>0130119c-5d1a-40d3-b636-a6a1df68a901</uuid>
+  </card>
+  <card>
+    <question>por invitación</question>
+    <answer>по приглашению</answer>
+    <comment></comment>
+    <uuid>8dd6a49e-fe8c-4af4-a9b8-65b740419658</uuid>
+  </card>
+  <card>
+    <question>invitación</question>
+    <answer>приглашение</answer>
+    <comment></comment>
+    <uuid>989adf6c-1089-4ffd-8842-913308ec8579</uuid>
+  </card>
+  <card>
+    <question>ministerio</question>
+    <answer>министерство</answer>
+    <comment>m</comment>
+    <uuid>6157eb5f-52c8-454c-bc4f-6e07860fdfa5</uuid>
+  </card>
+  <card>
+    <question>asunto</question>
+    <answer>дело</answer>
+    <comment>m</comment>
+    <uuid>3d6bde91-83c0-4fca-8db7-c7a15e29247e</uuid>
+  </card>
+  <card>
+    <question>asuntos</question>
+    <answer>дела</answer>
+    <comment>m pl</comment>
+    <uuid>66db3066-c8d6-497c-8fa4-70da84241a53</uuid>
+  </card>
+  <card>
+    <question>exterior</question>
+    <answer>внешний</answer>
+    <comment></comment>
+    <uuid>b477d11c-de4b-4e3e-ac8e-15d548eb330f</uuid>
+  </card>
+  <card>
+    <question>exteriores</question>
+    <answer>внешние</answer>
+    <comment></comment>
+    <uuid>d560a3de-0f16-4de6-8050-bcf17ab24c5b</uuid>
+  </card>
+  <card>
+    <question>como</question>
+    <answer>как</answer>
+    <comment></comment>
+    <uuid>e7b1bd1b-6ee0-40cc-8388-5ef21faaa22e</uuid>
+  </card>
+  <card>
+    <question>corresponsal</question>
+    <answer>корреспондент</answer>
+    <comment>m</comment>
+    <uuid>e1a1b028-494b-4ae5-b858-e0811764357b</uuid>
+  </card>
+  <card>
+    <question>turista</question>
+    <answer>турист</answer>
+    <comment>m, f</comment>
+    <uuid>1887b6e4-e0e8-4dc7-8165-0bdeb6ba911b</uuid>
+  </card>
+  <card>
+    <question>comisión</question>
+    <answer>задание, поручение</answer>
+    <comment>f</comment>
+    <uuid>26376c98-3f51-43e5-a949-dfe48a581edd</uuid>
+  </card>
+  <card>
+    <question>servicio</question>
+    <answer>служба, работа</answer>
+    <comment>m</comment>
+    <uuid>98249bde-b538-45e6-91e0-4e14762efa7c</uuid>
+  </card>
+  <card>
+    <question>comisión de servicio</question>
+    <answer>командировка</answer>
+    <comment></comment>
+    <uuid>218eeb32-c14f-4dc9-999b-c32709cfceef</uuid>
+  </card>
+  <card>
+    <question>persona</question>
+    <answer>человек, личность</answer>
+    <comment>f</comment>
+    <uuid>415ae6b0-310b-4b39-8ee6-ca7eeacb9566</uuid>
+  </card>
+  <card>
+    <question>dos</question>
+    <answer>два</answer>
+    <comment></comment>
+    <uuid>9675eb7b-71c7-41e0-9c0c-bb4fed34ef78</uuid>
+  </card>
+  <card>
+    <question>tres</question>
+    <answer>три</answer>
+    <comment></comment>
+    <uuid>eab0bcc7-40a5-4006-9ce8-9b285c86f843</uuid>
+  </card>
+  <card>
+    <question>cuatro</question>
+    <answer>четыре</answer>
+    <comment></comment>
+    <uuid>94b947b5-b9eb-4968-bc99-1066c2c98cc9</uuid>
+  </card>
+  <card>
+    <question>cinco</question>
+    <answer>пять</answer>
+    <comment></comment>
+    <uuid>0ad01ce8-4fc8-47d7-9dbd-5d297548efed</uuid>
+  </card>
+  <card>
+    <question>seis</question>
+    <answer>шесть</answer>
+    <comment></comment>
+    <uuid>f2ad52d4-ab84-4fff-b17d-442d7ec3d7d2</uuid>
+  </card>
+  <card>
+    <question>encantado</question>
+    <answer>очень довольный</answer>
+    <comment></comment>
+    <uuid>1a6ce428-94d0-46c8-8ca3-2752a9613e1a</uuid>
+  </card>
+</cards>
+</stack>

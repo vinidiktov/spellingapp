@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7de96c36-63c0-4416-a02e-91de77d697cb</uuid>
+  <title>Материалы</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Blech</question>
+    <answer>жесть</answer>
+    <comment></comment>
+    <uuid>422f0a21-c2a6-460a-95d2-95893253c67b</uuid>
+  </card>
+  <card>
+    <question>das Brett</question>
+    <answer>доска</answer>
+    <comment></comment>
+    <uuid>e8471a81-0d6b-481b-82d0-f83fd5939e56</uuid>
+  </card>
+  <card>
+    <question>das Eisen</question>
+    <answer>железо</answer>
+    <comment></comment>
+    <uuid>cc6c7de5-f69f-4688-af47-d05eb5dc04a6</uuid>
+  </card>
+  <card>
+    <question>das Holz</question>
+    <answer>дерево</answer>
+    <comment></comment>
+    <uuid>2ead51d5-3e34-452a-862f-3c82f47ce6ff</uuid>
+  </card>
+  <card>
+    <question>das Kupfer</question>
+    <answer>медь</answer>
+    <comment></comment>
+    <uuid>ba4ab5fa-2fb9-462e-9b79-b9411d05a09f</uuid>
+  </card>
+  <card>
+    <question>das Messing</question>
+    <answer>латунь</answer>
+    <comment></comment>
+    <uuid>7c97a7ea-b575-436a-981e-4d59f9fe29da</uuid>
+  </card>
+  <card>
+    <question>das Metall</question>
+    <answer>металл</answer>
+    <comment></comment>
+    <uuid>2df56419-50fb-4b41-8316-291e62c00753</uuid>
+  </card>
+  <card>
+    <question>das Nutzholz</question>
+    <answer>деловая древесина</answer>
+    <comment></comment>
+    <uuid>4fedd21d-8662-4391-8fc4-76bae070510b</uuid>
+  </card>
+  <card>
+    <question>das Silikon</question>
+    <answer>силикон</answer>
+    <comment></comment>
+    <uuid>76ae1763-a46a-40dc-bd69-611ef4b3226a</uuid>
+  </card>
+  <card>
+    <question>der Betori</question>
+    <answer>бетон</answer>
+    <comment></comment>
+    <uuid>446c9089-01d5-4706-aea9-ac648f74a2c2</uuid>
+  </card>
+  <card>
+    <question>der Draht</question>
+    <answer>проволока</answer>
+    <comment></comment>
+    <uuid>e83d61c9-3c14-45ba-b065-555e3443d734</uuid>
+  </card>
+  <card>
+    <question>der Dübel</question>
+    <answer>дюбель</answer>
+    <comment></comment>
+    <uuid>53073673-bf7a-4d0a-b9c4-0fbc3ad2a1b3</uuid>
+  </card>
+  <card>
+    <question>der Kalk</question>
+    <answer>известь, известка</answer>
+    <comment></comment>
+    <uuid>618fb01e-8e6c-4896-a040-b846bd346289</uuid>
+  </card>
+  <card>
+    <question>der Mörtel</question>
+    <answer>цементный раствор</answer>
+    <comment></comment>
+    <uuid>a5d07820-9623-4241-9b03-62c8641ed62c</uuid>
+  </card>
+  <card>
+    <question>der Nagel</question>
+    <answer>гвоздь</answer>
+    <comment></comment>
+    <uuid>b42c6cdd-a4b6-410d-b058-75ab6b153943</uuid>
+  </card>
+  <card>
+    <question>der Sand</question>
+    <answer>песок</answer>
+    <comment></comment>
+    <uuid>dec53db5-6124-46bc-87ab-012a38056caa</uuid>
+  </card>
+  <card>
+    <question>der Stahl</question>
+    <answer>сталь</answer>
+    <comment></comment>
+    <uuid>ede2d751-af79-42cb-8a32-adc3a91260db</uuid>
+  </card>
+  <card>
+    <question>der Zement</question>
+    <answer>цемент</answer>
+    <comment></comment>
+    <uuid>8d48bb62-43bc-42d0-9101-4be5de6e60ab</uuid>
+  </card>
+  <card>
+    <question>die Leiste</question>
+    <answer>планка</answer>
+    <comment></comment>
+    <uuid>a940b5c9-0bdf-403d-a5ef-d953b9a41e05</uuid>
+  </card>
+  <card>
+    <question>die Schraube</question>
+    <answer>винт</answer>
+    <comment></comment>
+    <uuid>273e327c-6129-459c-ae6a-cfd162b915be</uuid>
+  </card>
+  <card>
+    <question>die Schraubenmutter</question>
+    <answer>гайка</answer>
+    <comment></comment>
+    <uuid>729fe5a2-7575-4b40-a27f-587f113b1ccb</uuid>
+  </card>
+  <card>
+    <question>die Spachtelmasse</question>
+    <answer>шпатлевка</answer>
+    <comment></comment>
+    <uuid>515aa728-bfc6-4f6c-80c1-2ece406756a0</uuid>
+  </card>
+</cards>
+</stack>

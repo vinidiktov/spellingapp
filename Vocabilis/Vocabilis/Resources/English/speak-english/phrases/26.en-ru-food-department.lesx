@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c7cb5241-5021-41a3-8c24-c92ad268e089</uuid>
+  <title>В продуктовом магазине :: Фразы</title>
+  <author>Alex Ermakov.</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Weigh me two hundred grams of ham, please.</question>
+    <answer>Взвесьте мне, пожалуйста, двести граммов ветчины.</answer>
+    <comment>[weɪ ˈmiː tuː ˈhʌndrɪd græmz əv hæm pliːz]</comment>
+    <answer_comment>to weigh - взвесить, me - мне, меня, two - два, hundred - сто, gram - грамм, ham - ветчина</answer_comment>
+    
+    <uuid>d11c9bcd-75c9-4cb6-922b-4ce360e85b03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Weigh me one grilled hen, please.</question>
+    <answer>Взвесьте мне, пожалуйста, одну курицу гриль.</answer>
+    <comment>[weɪ ˈmiː wʌn grɪld hen pliːz]</comment>
+    <answer_comment>to weigh - взвесить, me - мне, меня, one - один, grilled - гриль, hen - курица</answer_comment>
+    
+    <uuid>2785af27-e627-4e2e-ac8a-6fdb523f9265</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Weigh me half a kilogram of mushroom salad, please.</question>
+    <answer>Взвесьте мне, пожалуйста, полкило грибного салата.</answer>
+    <comment>[weɪ ˈmiː hæf ə ˈkɪləˌgræm əv ˈmʌʃruːm ˈsæləd pliːz]</comment>
+    <answer_comment>to weigh - взвесить, me - мне, half - половина, kilogram - килограмм, mushroom - гриб, salad - салат</answer_comment>
+    
+    <uuid>2c1a00c1-7fe7-4f4a-914e-288f5cd80c0c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Weigh me two pork chops, please.</question>
+    <answer>Взвесьте мне, пожалуйста, две свиные отбивные.</answer>
+    <comment>[weɪ ˈmiː tuː pɔːrk ʧɑːps pliːz]</comment>
+    <answer_comment>to weigh - взвесить, me - мне, two - два, pork - свинина, chop - отбивная</answer_comment>
+    
+    <uuid>48f101a4-ebbb-4df5-a116-585c62f68526</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is vegetarian pizza here?</question>
+    <answer>Где у вас здесь вегетарианская пицца?</answer>
+    <comment>[hwer ɪz ˌveʤɪˈterɪən ˈpiːtsə hɪr]</comment>
+    <answer_comment>where - где, vegetarian - вегетарианский, pizza - пицца, here - здесь</answer_comment>
+    
+    <uuid>8b755f6d-92f5-46fa-ac88-ce8ba969edf2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is instant coffee?</question>
+    <answer>Где у вас растворимый кофе?</answer>
+    <comment>[hwer ɪz ˈɪnstənt ˈkɔːfiː]</comment>
+    <answer_comment>where - где, instant - растворимый (кофе, чай и т. п.), coffee - кофе</answer_comment>
+    
+    <uuid>3dee7ab6-da63-4257-925b-c0a159c72a94</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want a kilogram of cleaned shrimps.</question>
+    <answer>Я хочу килограмм очищенных креветок.</answer>
+    <comment>[аɪ wɑːnt ə ˈkɪləˌgræm əv kliːnd ʃrɪmps]</comment>
+    <answer_comment>to want - хотеть, kilogram - килограмм, cleaned - очищенный, shrimps - креветки</answer_comment>
+    
+    <uuid>9a1b43fd-45cf-4bb3-a4e4-5476fba3fc30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want one fish of medium size.</question>
+    <answer>Я хочу одну рыбу среднего размера.</answer>
+    <comment>[аɪ wɑːnt wʌn fɪʃ əv ˈmiːdiːəm sаɪz]</comment>
+    <answer_comment>to want - хотеть, one - один, fish - рыба, medium - средний, size - размер</answer_comment>
+    
+    <uuid>31e99c89-ba5b-4d7c-8807-2d7027386d7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What ketchup is the most piquant?</question>
+    <answer>Какой кетчуп самый острый?</answer>
+    <comment>[hwʌt ˈkeʧəp ɪz ðə moʊst ˈpiːkənt]</comment>
+    <answer_comment>what - что, какой, ketchup - кетчуп, the most - наиболее, самый, piquant - острый</answer_comment>
+    
+    <uuid>bdb5db2c-0adf-4f6e-a606-1f9eb97da71a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What ketchup is less piquant?</question>
+    <answer>Какой кетчуп менее острый?</answer>
+    <comment>[hwʌt ˈkeʧəp ɪz les ˈpiːkənt]</comment>
+    <answer_comment>what - что, какой, ketchup - кетчуп, less - меньше, менее, piquant - острый</answer_comment>
+    
+    <uuid>41d2a794-cf1c-4ef6-9e7e-3ad97209bcee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me two large bunches of grapes.</question>
+    <answer>Дайте мне две большие грозди винограда.</answer>
+    <comment>[gɪv ˈmiː tuː lɑːrʤ ˈbʌnʧɪz əv greɪps]</comment>
+    <answer_comment>to give - дать, me - мне, меня, two - два, large - большой, bunch - гроздь, grapes - виноград</answer_comment>
+    
+    <uuid>a4a0c9e7-8384-474f-966a-b67566358345</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is this cheese strong?</question>
+    <answer>Этот сыр острый?</answer>
+    <comment>[ɪz ðɪs ʧiːz strɔːŋ]</comment>
+    <answer_comment>this - это, этот, эта, cheese - сыр, strong - сильный, острый, резкий</answer_comment>
+    
+    <uuid>92fb51de-a707-44b2-b5b9-a098a600e673</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me half a kilogram of mild cheese.</question>
+    <answer>Дайте мне полкило неострого сыра.</answer>
+    <comment>[gɪv ˈmiː hæf ə ˈkɪləˌgræm əv mаɪld ʧiːz]</comment>
+    <answer_comment>to give - давать, me - мне, меня, half - половина, kilogram - килограмм, mild - мягкий, умеренный, cheese - сыр</answer_comment>
+    
+    <uuid>4b89c976-9101-480b-9c7d-f2768f341542</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is wholemeal bread here?</question>
+    <answer>Где у вас хлеб из муки грубого помола?</answer>
+    <comment>[hwer ɪz ˈhoʊlmiːl bred hɪr]</comment>
+    <answer_comment>where - где, wholemeal - сделанный из непросеянной муки, bread - хлею, here - здесь</answer_comment>
+    
+    <uuid>cae00d82-0f4b-4660-98b0-f20b987c0a19</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you carry rye bread?</question>
+    <answer>У вас бывает ржаной хлеб?</answer>
+    <comment>[duː jʊ ˈkæriː rаɪ bred]</comment>
+    <answer_comment>you - ты, вы, to carry - везти, перевозить, rye - рожь, bread - хлеб</answer_comment>
+    
+    <uuid>eabb835f-499d-4d64-a336-c763cbc03cb4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you want any meat?</question>
+    <answer>Вам необходимо мясо?</answer>
+    <comment>[duː jʊ wɑːnt ˈeniː miːt]</comment>
+    <answer_comment>to want - хотеть, any - какой-нибудь, meat - мясо</answer_comment>
+    
+    <uuid>cc407ecc-e800-4ced-9535-295ae931afc6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you want beef or lamb?</question>
+    <answer>Вы хотите говядину или баранину (мясо молодого барашка)?</answer>
+    <comment>[duː jʊ wɑːnt biːf ər læm]</comment>
+    <answer_comment>to want - хотеть, beef - говядина, lamb - баранина</answer_comment>
+    
+    <uuid>dc1a5f17-666b-40f3-951a-524d0926cb9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The lamb is very good today.</question>
+    <answer>Баранина (мясо молодого барашка) сегодня очень хорошая.</answer>
+    <comment>[ðə læm ɪz ˈveriː gʊd təˈdeɪ]</comment>
+    <answer_comment>lamb - баранина, very - очень, good - хороший, today - сегодня</answer_comment>
+    
+    <uuid>95c1528d-220f-45f6-8cbd-6b3c441bbfb0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What about some steak?</question>
+    <answer>Как насчет стейка?</answer>
+    <comment>[hwʌt əˈbаʊt sʌm steɪk]</comment>
+    <answer_comment>what - что, about - насчет, some - некоторое количество, steak - стейк</answer_comment>
+    
+    <uuid>e3848fa2-c1ac-40c8-af40-2f94f92021db</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a very nice piece.</question>
+    <answer>Это очень хороший кусок.</answer>
+    <comment>[ðɪs ɪz ə ˈveriː nаɪs piːs]</comment>
+    <answer_comment>this - это, этот,эта, very - очень, nice - замечательный, хороший, piece - кусок</answer_comment>
+    
+    <uuid>b984a083-c7a5-4c14-bc20-9e8173cc68cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me this piece, please.</question>
+    <answer>Дайте мне, пожалуйста, этот кусок.</answer>
+    <comment>[gɪv ˈmiː ðɪs piːs pliːz]</comment>
+    <answer_comment>to give - давать, me - мне, меня, this - этот, эта, это, piece - кусок</answer_comment>
+    
+    <uuid>e9e0b858-801d-48c2-b5f4-f5590f25ee5a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>And a pound of mince, too.</question>
+    <answer>И еще фунт фарша.</answer>
+    <comment>[ənd ə pаʊnd əv mɪns tuː]</comment>
+    <answer_comment>pound - фунт, mince - фарш, too - тоже, также</answer_comment>
+    
+    <uuid>f0c78620-0afb-4ad5-932c-f37fac526f86</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you want a chicken?</question>
+    <answer>Вы хотите курицу?</answer>
+    <comment>[duː jʊ wɑːnt ə ˈʧɪkən]</comment>
+    <answer_comment>to want - хотеть, chicken - цыпленок, курица</answer_comment>
+    
+    <uuid>a54553e9-e185-4450-b733-567d65e0aa2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will you show me these oranges?</question>
+    <answer>Покажите мне эти апельсины.</answer>
+    <comment>[wɪl jʊ ʃoʊ ˈmiː ðiːz ˈɔːrɪnʤɪz]</comment>
+    <answer_comment>to show - показать, me - мне, меня, these - эти, orange - апельсин</answer_comment>
+    
+    <uuid>8b9858ad-cc34-473b-8dab-0cd357f04d51</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>These oranges are sweet and fresh.</question>
+    <answer>Эти апельсины сладкие и сочные.</answer>
+    <comment>[ðiːz ˈɔːrɪnʤɪz ɑːr swiːt ənd freʃ]</comment>
+    <answer_comment>these - эти, orange - апельсин, sweet - сладкий, fresh - свежий</answer_comment>
+    
+    <uuid>49950961-875e-4976-8201-a31ebd2442aa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take three oranges.</question>
+    <answer>Я возьму три апельсина.</answer>
+    <comment>[аɪl teɪk θriː ˈɔːrɪnʤɪz]</comment>
+    <answer_comment>to take - взять, three - три, orange - апельсин</answer_comment>
+    
+    <uuid>9a725ee0-9ced-4606-af59-588e935dbaf2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What about some strawberry?</question>
+    <answer>Как насчет клубники?</answer>
+    <comment>[hwʌt əˈbаʊt sʌm ˈstrɔːbəriː]</comment>
+    <answer_comment>what - что, about - насчет, some - некоторое количество, strawberry - клубника</answer_comment>
+    
+    <uuid>266f3540-572f-4b22-9849-3c13335b57c1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Three oranges and a bunch of grapes.</question>
+    <answer>Три апельсина и гроздь винограда.</answer>
+    <comment>[θriː ˈɔːrɪnʤɪz ənd ə bʌnʧ əv greɪps]</comment>
+    <answer_comment>three - три, orange - апельсин, bunch - гроздь, grapes - виноград</answer_comment>
+    
+    <uuid>34a4728c-7736-4cc9-b68e-3bf6faef3b2f</uuid>
+  </card>
+</cards>
+</stack>

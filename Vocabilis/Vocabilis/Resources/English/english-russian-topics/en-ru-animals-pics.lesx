@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0b9e65bf-a985-49c4-a403-9cb6d3b0cfbe</uuid>
+  <title>Животные</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>26</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>crocodile</question>
+    <answer>крокодил</answer>
+    <comment>[ˈkrɒkədаɪl]</comment>
+    <answer_picture>crocodile.gif</answer_picture>
+    <uuid>dac1215c-6c72-4f4a-859b-9794fd5c02e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>snake</question>
+    <answer>змея</answer>
+    <comment>[sneɪk]</comment>
+    <answer_picture>snake.gif</answer_picture>
+    <uuid>b43eeaae-5874-449b-b28e-e19e49d71c51</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>zoo</question>
+    <answer>зоопарк</answer>
+    <comment>[zuː]</comment>
+    <answer_picture>zoo.gif</answer_picture>
+    <uuid>709be788-e870-41c2-83f1-898f3c8a06c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rhinoceros</question>
+    <answer>носорог</answer>
+    <comment>[rаɪˈnɒsərəs]</comment>
+    <answer_picture>rhinoceros.gif</answer_picture>
+    <uuid>d811ad5b-0853-4c58-8eea-bc23844cab50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>frog</question>
+    <answer>лягушка</answer>
+    <comment>[frɒg]</comment>
+    <answer_picture>frog.gif</answer_picture>
+    <uuid>e4268b04-be42-4459-99cb-9c7c11dd67e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>otter</question>
+    <answer>выдра</answer>
+    <comment>[ˈɒtə]</comment>
+    <answer_picture>otter.gif</answer_picture>
+    <uuid>50b38c41-009e-4e7a-950c-fc12ec7fb047</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>oyster</question>
+    <answer>устрица</answer>
+    <comment>[ˈɔɪstə]</comment>
+    <answer_picture>oyster.gif</answer_picture>
+    <uuid>a201b0f0-d42e-4f9e-ac61-9646174e22ec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dolphin</question>
+    <answer>дельфин</answer>
+    <comment>[ˈdɒlfɪn]</comment>
+    <answer_picture>dolphin.gif</answer_picture>
+    <uuid>d2075a85-7980-4344-9c71-7b96dbf2c192</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>koala</question>
+    <answer>коала</answer>
+    <comment>[kəu&apos;ɑːlə]</comment>
+    <answer_picture>koala.gif</answer_picture>
+    <uuid>621a4ea9-2c73-4a7c-8301-f1ec40711192</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wolf</question>
+    <answer>волк</answer>
+    <comment>[wʊlf]</comment>
+    <answer_picture>wolf.gif</answer_picture>
+    <uuid>528f7ef3-9e41-4c85-b8de-eae60f597d23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>squirrel</question>
+    <answer>белка</answer>
+    <comment>[ˈskwɪrəl]</comment>
+    <answer_picture>squirrel.gif</answer_picture>
+    <uuid>043032a9-661f-422a-8df6-850c5d3e0a50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>deer</question>
+    <answer>олень</answer>
+    <comment>[dɪə]</comment>
+    <answer_picture>deer.gif</answer_picture>
+    <uuid>afc30aea-a741-4eef-a613-0a4efc5f0e57</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dog</question>
+    <answer>собака</answer>
+    <comment>[dɒg]</comment>
+    <answer_picture>dog.gif</answer_picture>
+    <uuid>d54e577b-56b4-4d36-a328-bc659a2d3919</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>beetle</question>
+    <answer>жук</answer>
+    <comment>[ˈbiːtl]</comment>
+    <answer_picture>beetle.gif</answer_picture>
+    <uuid>305dde4e-81c3-49cf-a1b6-b6b9e31673ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bee</question>
+    <answer>пчела</answer>
+    <comment>[biː]</comment>
+    <answer_picture>bee.gif</answer_picture>
+    <uuid>aae02465-823c-49fd-b594-b422d760cbca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>prawn</question>
+    <answer>креветка</answer>
+    <comment>[prɔːn]</comment>
+    <answer_picture>prawn.gif</answer_picture>
+    <uuid>3f9d73ed-130d-40d2-b7ff-66241946717a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lion</question>
+    <answer>лев</answer>
+    <comment>[ˈlаɪən]</comment>
+    <answer_picture>lion.gif</answer_picture>
+    <uuid>1901e32f-f57f-455e-9570-d213fcbed9b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fly</question>
+    <answer>муха</answer>
+    <comment>[flаɪ]</comment>
+    <answer_picture>fly.gif</answer_picture>
+    <uuid>c46b5a6c-75a9-4f32-8a8a-2e7f570bd17d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>monkey</question>
+    <answer>обезьяна</answer>
+    <comment>[ˈmʌŋkɪ]</comment>
+    <answer_picture>monkey.gif</answer_picture>
+    <uuid>ac7fa547-e11c-4884-a09e-a20a2dd11f73</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>spider</question>
+    <answer>паук</answer>
+    <comment>[ˈspаɪdə]</comment>
+    <answer_picture>spider.gif</answer_picture>
+    <uuid>f8c3f9b9-90b6-4f5a-b040-2761dae20c99</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bear</question>
+    <answer>медведь</answer>
+    <comment>[beə]</comment>
+    <answer_picture>bear.gif</answer_picture>
+    <uuid>33a8a7bb-aeba-49ac-a858-6977d85ed5f7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>porcupine</question>
+    <answer>дикобраз</answer>
+    <comment>[ˈpɔːkjʊpаɪn]</comment>
+    <answer_picture>porcupine.gif</answer_picture>
+    <uuid>c8ae7dc1-b26c-4d6f-ab98-48358c208395</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>feed</question>
+    <answer>кормить</answer>
+    <comment>[fiːd]</comment>
+    <answer_picture>feed.gif</answer_picture>
+    <uuid>f52db62b-4e55-48a8-b988-a820f7abce93</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>feather</question>
+    <answer>перо</answer>
+    <comment>[ˈfeðə]</comment>
+    <answer_picture>feather.gif</answer_picture>
+    <uuid>514128d0-ca37-4eb1-8e1f-73d706b78f8b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lobster</question>
+    <answer>омар</answer>
+    <comment>[ˈlɒbstə]</comment>
+    <answer_picture>lobster.gif</answer_picture>
+    <uuid>8a886665-217b-45f6-bc12-06f80e895882</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>snail</question>
+    <answer>улитка</answer>
+    <comment>[sneɪl]</comment>
+    <answer_picture>snail.gif</answer_picture>
+    <uuid>88928250-b52f-40b4-887d-9e546dbe4421</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shark</question>
+    <answer>акула</answer>
+    <comment>[ʃɑːk]</comment>
+    <answer_picture>shark.gif</answer_picture>
+    <uuid>0cf41bcf-8d68-441b-8ee2-b1c6399c5096</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tiger</question>
+    <answer>тигр</answer>
+    <comment>[ˈtаɪgə]</comment>
+    <answer_picture>tiger.gif</answer_picture>
+    <uuid>7b2a85d4-2c64-4aed-b809-513fe13e3457</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>horse</question>
+    <answer>лошадь</answer>
+    <comment>[hɔːs]</comment>
+    <answer_picture>horse.gif</answer_picture>
+    <uuid>810cfac7-15b8-4cbb-8066-792465f46cf3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>butterfly</question>
+    <answer>бабочка</answer>
+    <comment>[ˈbʌtəflаɪ]</comment>
+    <answer_picture>butterfly.gif</answer_picture>
+    <uuid>bafde729-dec7-4b3c-a9f5-fd34d26b81d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>duck</question>
+    <answer>утка</answer>
+    <comment>[dʌk]</comment>
+    <answer_picture>duck.gif</answer_picture>
+    <uuid>d7aca186-2cca-4d03-aa77-9cabeedc9ebd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>crab</question>
+    <answer>краб</answer>
+    <comment>[kræb]</comment>
+    <answer_picture>crab.gif</answer_picture>
+    <uuid>85ccd85b-a472-49bf-9498-36468423360a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>kangaroo</question>
+    <answer>кенгуру</answer>
+    <comment>[ˌkæŋgəˈruː]</comment>
+    <answer_picture>kangaroo.gif</answer_picture>
+    <uuid>fd83c0cb-625a-4207-8baf-859a368b8d1e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cat</question>
+    <answer>кошка</answer>
+    <comment>[kæt]</comment>
+    <answer_picture>cat.gif</answer_picture>
+    <uuid>fee3158e-6c9d-435b-8628-825f1c3fd1f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pig</question>
+    <answer>свинья</answer>
+    <comment>[pɪg]</comment>
+    <answer_picture>pig.gif</answer_picture>
+    <uuid>96ee0e87-7f83-4a3d-ba5c-952fdbfd5dae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cow</question>
+    <answer>корова</answer>
+    <comment>[kаʊ]</comment>
+    <answer_picture>cow.gif</answer_picture>
+    <uuid>f510d8b0-4e06-4677-a2a3-ebc8ba0bc11d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hedgehog</question>
+    <answer>ёж</answer>
+    <comment>[ˈheʤhɒg]</comment>
+    <answer_picture>hedgehog.gif</answer_picture>
+    <uuid>074cbcde-1f87-4465-b043-44cdae5dbde2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fish</question>
+    <answer>рыба</answer>
+    <comment>[fɪʃ]</comment>
+    <answer_picture>fish.gif</answer_picture>
+    <uuid>ff7fb2cc-d266-4974-b5b0-fcad2dc8f250</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>zebra</question>
+    <answer>зебра</answer>
+    <comment>[ˈziːbrə]</comment>
+    <answer_picture>zebra.gif</answer_picture>
+    <uuid>4d6b311f-81dc-42ec-a56e-a969544411ba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>leopard</question>
+    <answer>леопард</answer>
+    <comment>[ˈlepəd]</comment>
+    <answer_picture>leopard.gif</answer_picture>
+    <uuid>d7483389-adea-4180-929d-da0517bfdbd6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>turtle</question>
+    <answer>черепаха</answer>
+    <comment>[ˈtɜːtl]</comment>
+    <answer_picture>turtle.gif</answer_picture>
+    <uuid>f0ca7ad8-91c8-4853-9002-cdda43f548c7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bird</question>
+    <answer>птица</answer>
+    <comment>[bɜːd]</comment>
+    <answer_picture>bird.gif</answer_picture>
+    <uuid>471a2b87-a2eb-4b60-a4c8-4b09cd22b751</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fox</question>
+    <answer>лиса</answer>
+    <comment>[fɒks]</comment>
+    <answer_picture>fox.gif</answer_picture>
+    <uuid>1b2f8ab1-2dab-4211-bd10-5f128cc4b335</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>elephant</question>
+    <answer>слон</answer>
+    <comment>[ˈelɪfənt]</comment>
+    <answer_picture>elephant.gif</answer_picture>
+    <uuid>5fa62737-32b2-402a-8886-fbb7d054e2a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wasp</question>
+    <answer>оса</answer>
+    <comment>[wɒsp]</comment>
+    <answer_picture>wasp.gif</answer_picture>
+    <uuid>b4a67939-8540-4356-a0a8-713dafad5532</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a chicken</question>
+    <answer>цыплёнок</answer>
+    <comment>[ˈʧɪkɪn]</comment>
+    <answer_picture>a_chicken.gif</answer_picture>
+    <uuid>99e23d3c-aa96-4d66-9cff-be599b2706ab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>caterpillar</question>
+    <answer>гусеница</answer>
+    <comment>[ˈkætəpɪlə]</comment>
+    <answer_picture>caterpillar.gif</answer_picture>
+    <uuid>1caf5861-ccc8-4d3c-9664-2120a550ea9c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>whale</question>
+    <answer>кит</answer>
+    <comment>[weɪl]</comment>
+    <answer_picture>whale.gif</answer_picture>
+    <uuid>f576970e-fa5c-46e9-af1e-2ccc23aecebe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>slug</question>
+    <answer>слизень, слизняк</answer>
+    <comment>[slʌg]</comment>
+    <answer_picture>slug.gif</answer_picture>
+    <uuid>241efa9c-25fe-44d1-9651-38e2c1d58194</uuid>
+  </card>
+</cards>
+</stack>

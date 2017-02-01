@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>daa01191-f470-4b96-8b2c-a57aaa03608a</uuid>
+  <title>Театр, кино, концерт, цирк :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>26</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Quisiera ir hoy al cine.</question>
+    <answer>Я хотел(а) бы пойти сегодня в кино.</answer>
+    <comment></comment>
+    <uuid>6ab6ff25-02c2-470b-ac29-0f92477b3cf0</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir hoy al teatro.</question>
+    <answer>Я хотел(а) бы пойти сегодня в театр.</answer>
+    <comment></comment>
+    <uuid>fee9b3c8-0803-4d78-a545-4ed63f64b96c</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir hoy al concierto.</question>
+    <answer>Я хотел(а) бы пойти сегодня на концерт.</answer>
+    <comment></comment>
+    <uuid>37865933-4763-456d-961e-d093ba25c43d</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir hoy al circo.</question>
+    <answer>Я хотел(а) бы пойти сегодня в цирк.</answer>
+    <comment></comment>
+    <uuid>2f85b103-a493-4811-b1dc-de28ca32dbb1</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir hoy al cine.</question>
+    <answer>Мы хотели бы пойти сегодня в кино.</answer>
+    <comment></comment>
+    <uuid>83ec3991-8fed-4c5c-ac40-ca86164b528c</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir hoy al teatro.</question>
+    <answer>Мы хотели бы пойти сегодня в театр.</answer>
+    <comment></comment>
+    <uuid>5cf364ff-1af3-4d7f-b231-e00764f02811</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir hoy al concierto.</question>
+    <answer>Мы хотели бы пойти сегодня на концерт.</answer>
+    <comment></comment>
+    <uuid>d8095139-057a-447c-b964-f55987bf781a</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir hoy al circo.</question>
+    <answer>Мы хотели бы пойти сегодня в цирк.</answer>
+    <comment></comment>
+    <uuid>da228de9-48b1-45e4-bc67-7f20f2b85575</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede ver la cartelera de espectáculos?</question>
+    <answer>Где можно посмотреть театральный репертуар?</answer>
+    <comment></comment>
+    <uuid>be8a0396-ea3d-428a-a9e1-5a3db45d8fbd</uuid>
+  </card>
+  <card>
+    <question>¿Qué espectáculo me aconseja ver?</question>
+    <answer>Какой спектакль вы посоветовали бы мне посмотреть? (= ... советуете ...)</answer>
+    <comment></comment>
+    <uuid>f54e1582-4314-4dda-abd0-73bdee0f4023</uuid>
+  </card>
+  <card>
+    <question>¿Qué película me aconseja ver?</question>
+    <answer>Какой фильм вы посоветовали бы мне посмотреть? (= ... советуете ...)</answer>
+    <comment></comment>
+    <uuid>05248097-7972-4531-9af1-4b685ee667f0</uuid>
+  </card>
+  <card>
+    <question>¿Qué pelicula ponen hoy en el cine ...?</question>
+    <answer>Какой фильм идёт сегодня в кинотеатре ...?</answer>
+    <comment></comment>
+    <uuid>acf7f4f5-4986-408c-8d49-2413bef5053c</uuid>
+  </card>
+  <card>
+    <question>¿Qué espectáculo ponen hoy en el teatro ...?</question>
+    <answer>Какой спектакль идёт сегодня в театре ...?</answer>
+    <comment></comment>
+    <uuid>5d69d017-db7e-410f-8cd0-98a41d101870</uuid>
+  </card>
+  <card>
+    <question>¿En qué cine ponen la película ...?</question>
+    <answer>В каком кинотеатре идёт фильм ...?</answer>
+    <comment></comment>
+    <uuid>29e542c4-f208-453d-8969-f83050f77957</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir a la ópera.</question>
+    <answer>Я хотел(а) бы пойти на оперу.</answer>
+    <comment></comment>
+    <uuid>628e66db-d19d-4c01-b7af-a5975056cdb2</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir al ballet.</question>
+    <answer>Я хотел(а) бы пойти на балет.</answer>
+    <comment></comment>
+    <uuid>51df0b16-9c6b-4448-8c44-af7f820030d2</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir a un concierto.</question>
+    <answer>Я хотел(а) бы пойти на концерт.</answer>
+    <comment></comment>
+    <uuid>bc6cccf7-b238-424b-a536-d38223faa67c</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir a un concierto de música sinfónica.</question>
+    <answer>Я хотел(а) бы пойти на концерт симфонической музыки.</answer>
+    <comment></comment>
+    <uuid>27c2c5f4-c92b-4146-923e-7155ec9a95c2</uuid>
+  </card>
+  <card>
+    <question>Quisiera ir a un concierto de música de órgano.</question>
+    <answer>Я хотел(а) бы пойти на концерт органной музыки.</answer>
+    <comment></comment>
+    <uuid>bc40d73c-288f-4709-8345-830bb63d99bd</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir a la ópera.</question>
+    <answer>Мы хотели бы пойти на оперу.</answer>
+    <comment></comment>
+    <uuid>e1732e9b-07cd-4d22-8d70-72b38bc173f7</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir al ballet.</question>
+    <answer>Мы хотели бы пойти на балет.</answer>
+    <comment></comment>
+    <uuid>599c39b5-f522-4db2-a9e5-3b600ae2b817</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir a un concierto.</question>
+    <answer>Мы хотели бы пойти на концерт.</answer>
+    <comment></comment>
+    <uuid>cb966b36-b5fd-4d02-b9d8-ac3d9502301f</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir a un concierto de música sinfónica.</question>
+    <answer>Мы хотели бы пойти на концерт симфонической музыки.</answer>
+    <comment></comment>
+    <uuid>fa9f9b6e-e481-432e-ae3b-7f6349eec354</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos ir a un concierto de música de órgano.</question>
+    <answer>Мы хотели бы пойти на концерт органной музыки.</answer>
+    <comment></comment>
+    <uuid>caaecd09-be9d-40fb-8227-7d121bf99ff7</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes entradas para hoy para el circo?</question>
+    <answer>У вас (мн.ч.) есть билеты на сегодня в цирк?</answer>
+    <comment></comment>
+    <uuid>9277cbf1-9c5d-4c9d-9290-91d889fa73f7</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes entradas para hoy para la ópera?</question>
+    <answer>У вас (мн.ч.) есть билеты на сегодня в оперу?</answer>
+    <comment></comment>
+    <uuid>fc892b4f-612a-451a-aeac-76d6f2edcb55</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes entradas para hoy para el ballet?</question>
+    <answer>У вас (мн.ч.) есть билеты на сегодня на балет?</answer>
+    <comment></comment>
+    <uuid>4a1693a4-af5f-4536-8b72-ab828fdb797c</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, dos entradas para hoy a las ...</question>
+    <answer>Дайте мне, пожалуйста, два билета на сегодня на ... часов.</answer>
+    <comment></comment>
+    <uuid>7c61233e-68e4-4167-9967-f3f75e695f88</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, dos entradas para mañana a las ...</question>
+    <answer>Дайте мне, пожалуйста, два билета на завтра на ... часов.</answer>
+    <comment></comment>
+    <uuid>286726bc-5312-463d-9548-9e56101a33c8</uuid>
+  </card>
+  <card>
+    <question>Si es posible, de palco.</question>
+    <answer>Если можно, в ложу.</answer>
+    <comment></comment>
+    <uuid>f5a1ac72-9fff-42f9-adc3-f47211a19a09</uuid>
+  </card>
+  <card>
+    <question>Si es posible, de anfiteatro.</question>
+    <answer>Если можно, в амфитеатр.</answer>
+    <comment></comment>
+    <uuid>00da7287-316e-4652-ad07-edde175b3da3</uuid>
+  </card>
+  <card>
+    <question>Si es posible, de patio.</question>
+    <answer>Если можно, в партер.</answer>
+    <comment></comment>
+    <uuid>a7a4f482-9f94-4781-8315-d0c5dd6fadf9</uuid>
+  </card>
+  <card>
+    <question>Si es posible, cerca de la escena.</question>
+    <answer>Если можно, близко от сцены.</answer>
+    <comment></comment>
+    <uuid>245eaab5-e413-4b4b-a65d-2a25c8f8a81d</uuid>
+  </card>
+  <card>
+    <question>Si es posible, centrales.</question>
+    <answer>Если можно, в середине.</answer>
+    <comment></comment>
+    <uuid>9eb518fa-ffa6-4d92-823d-13380a9c50d5</uuid>
+  </card>
+  <card>
+    <question>Si es posible, de las últimas filas.</question>
+    <answer>Если можно, в последних рядах.</answer>
+    <comment></comment>
+    <uuid>b01eb1bc-9aac-40aa-bd67-4486c55565df</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale una entrada?</question>
+    <answer>Сколько стоит один билет?</answer>
+    <comment></comment>
+    <uuid>c64e0db6-af90-4154-943b-400a5fd9bd2c</uuid>
+  </card>
+  <card>
+    <question>Lo siento, pero para hoy no hay entradas.</question>
+    <answer>К сожалению, на сегодня билетов нет.</answer>
+    <comment></comment>
+    <uuid>6072ebd1-6d80-461d-8acc-5cc27099304e</uuid>
+  </card>
+  <card>
+    <question>Lo siento, pero para mañana no hay entradas.</question>
+    <answer>К сожалению, на завтра билетов нет.</answer>
+    <comment></comment>
+    <uuid>ec69b341-013d-4579-98aa-ce19dbec3435</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora comienza el espectáculo?</question>
+    <answer>В котором часу начинается спектакль?</answer>
+    <comment></comment>
+    <uuid>675afc9c-3d7e-4675-b6c5-df24e4606c15</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora termina el espectáculo?</question>
+    <answer>В котором часу заканчивается спектакль?</answer>
+    <comment></comment>
+    <uuid>b3ebb1bb-abfc-465b-ad2a-0335caa4bcf2</uuid>
+  </card>
+  <card>
+    <question>¿Tiene usted programas?</question>
+    <answer>У вас есть программа (=программы)?</answer>
+    <comment></comment>
+    <uuid>e71b1fbb-a477-4f46-acb0-17a6dcc231e8</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale un programa?</question>
+    <answer>Сколько стоит программа?</answer>
+    <comment></comment>
+    <uuid>f4046175-26de-4f71-ac12-280498f814b6</uuid>
+  </card>
+  <card>
+    <question>¿Por dónde debo ir al patio de butacas?</question>
+    <answer>Как пройти в партер?</answer>
+    <comment></comment>
+    <uuid>68792fcb-a8e4-4c38-9d0f-30ac2a9d46b6</uuid>
+  </card>
+  <card>
+    <question>¿Por dónde debo ir al anfiteatro?</question>
+    <answer>Как пройти в амфитеатр?</answer>
+    <comment></comment>
+    <uuid>ef9aa038-649f-45f2-a47d-5e798e8302dc</uuid>
+  </card>
+  <card>
+    <question>¿Por dónde debo ir al palco número ...?</question>
+    <answer>Как пройти в ложу номер ...?</answer>
+    <comment></comment>
+    <uuid>03d438c1-a518-49d8-be19-34079a6486d8</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, indíquenos cuáles son nuestros asientos?</question>
+    <answer>Покажите, пожалуйста, где наши места? (=Пожалуйста, покажите нам, которые наши места.)</answer>
+    <comment></comment>
+    <uuid>7cef3bf6-ec71-43f7-bd18-d9dd77745edc</uuid>
+  </card>
+  <card>
+    <question>¿Quién interpreta el papel principal?</question>
+    <answer>Кто в главной роли? (=Кто исполняет ...?)</answer>
+    <comment></comment>
+    <uuid>f2a7a318-d0c2-49ed-aa3a-e74ced3b71a8</uuid>
+  </card>
+  <card>
+    <question>¿Quién dirige?</question>
+    <answer>Кто дирижирует?</answer>
+    <comment></comment>
+    <uuid>b2bb4f2c-ed6b-4e97-92cc-44207f442550</uuid>
+  </card>
+  <card>
+    <question>¿Quién acompaña?</question>
+    <answer>Кто аккомпанирует?</answer>
+    <comment></comment>
+    <uuid>70dbce5d-9307-4dae-95e8-1080e7e1c29d</uuid>
+  </card>
+  <card>
+    <question>De quién es la música?</question>
+    <answer>Кто композитор? (=Чья музыка?)</answer>
+    <comment></comment>
+    <uuid>4faae256-021a-4df5-b17b-d3b43e1108c1</uuid>
+  </card>
+  <card>
+    <question>¿Quién es el autor de esta obra?</question>
+    <answer>Кто автор пьесы (=этого произведения)?</answer>
+    <comment></comment>
+    <uuid>29305b44-426c-4708-9485-7fc38a12d708</uuid>
+  </card>
+  <card>
+    <question>¿Quién es el compositor?</question>
+    <answer>Кто композитор?</answer>
+    <comment></comment>
+    <uuid>af2bfb9f-ea0d-49a5-bdeb-363d8d675f24</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto tiempo dura el descanso?</question>
+    <answer>Сколько времени продлится антракт?</answer>
+    <comment></comment>
+    <uuid>ba48375e-985e-4718-b397-0e54eb39789f</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el bar?</question>
+    <answer>Где буфет?</answer>
+    <comment></comment>
+    <uuid>8e54d036-452c-4d45-a8d8-970cf563e863</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el lavabo de señoras?</question>
+    <answer>Где женский туалет?</answer>
+    <comment></comment>
+    <uuid>e39d5ce3-88b2-4044-8a2b-8ab70b975477</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el lavabo de caballeros?</question>
+    <answer>Где мужской туалет?</answer>
+    <comment></comment>
+    <uuid>1063c70f-58d7-4f66-8ed3-3ff465ce6006</uuid>
+  </card>
+  <card>
+    <question>¿Se puede fumar aquí?</question>
+    <answer>Можно здесь курить?</answer>
+    <comment></comment>
+    <uuid>47e58aec-b795-4338-8675-ccf703a2562a</uuid>
+  </card>
+  <card>
+    <question>¿Le ha gustado el espectáculo?</question>
+    <answer>Вам понравился спектакль?</answer>
+    <comment></comment>
+    <uuid>11f7e1f9-11e5-4e23-a4e1-190ee29a154b</uuid>
+  </card>
+  <card>
+    <question>¿Le ha gustado el concierto?</question>
+    <answer>Вам понравился концерт?</answer>
+    <comment></comment>
+    <uuid>52d1730a-2d8e-4170-9a79-5cf74ac0352f</uuid>
+  </card>
+  <card>
+    <question>¿Le ha gustado el ballet?</question>
+    <answer>Вам понравился балет?</answer>
+    <comment></comment>
+    <uuid>2f66b904-0de6-4759-bcb9-4d7751bc8aaa</uuid>
+  </card>
+  <card>
+    <question>¿Le ha gustado la película?</question>
+    <answer>Вам понравился фильм?</answer>
+    <comment></comment>
+    <uuid>048f9f5d-4a47-4a22-b615-d9f948616588</uuid>
+  </card>
+  <card>
+    <question>Me ha gustado mucho.</question>
+    <answer>Я получил большое удовольствие. (=Мне очень понравился.)</answer>
+    <comment></comment>
+    <uuid>79ab05c3-1603-4e79-9457-78d4fef828f0</uuid>
+  </card>
+  <card>
+    <question>El espectáculo ha sido interesante.</question>
+    <answer>Спектакль (был) интересный.</answer>
+    <comment></comment>
+    <uuid>b64e0da5-6475-4a40-8230-95550a3fdbbe</uuid>
+  </card>
+  <card>
+    <question>El espectáculo ha sido bueno.</question>
+    <answer>Спектакль (был) хороший.</answer>
+    <comment></comment>
+    <uuid>6fa73a7d-73ad-48ce-b1f8-33ea9c94f0dd</uuid>
+  </card>
+  <card>
+    <question>El espectáculo ha sido aburrido.</question>
+    <answer>Спектакль (был) скучный.</answer>
+    <comment></comment>
+    <uuid>f03ae2ee-a35d-4d8b-a92a-49c3b236172e</uuid>
+  </card>
+  <card>
+    <question>¿Este cine es de sesión continua?</question>
+    <answer>Этот кинотеатр с непрерывным показом фильмов?</answer>
+    <comment></comment>
+    <uuid>25bd41d8-1297-449f-b295-0dd5e179f347</uuid>
+  </card>
+  <card>
+    <question>¿La película es en color?</question>
+    <answer>Фильм цветной?</answer>
+    <comment></comment>
+    <uuid>5e13fe28-ae98-4c51-b90f-5ccd7473e86d</uuid>
+  </card>
+  <card>
+    <question>¿Quién actúa en esta película?</question>
+    <answer>Кто играет в этом фильме?</answer>
+    <comment></comment>
+    <uuid>e83329ae-9864-439e-9001-b89d1cea09c6</uuid>
+  </card>
+  <card>
+    <question>¿Quién es el director de esta película?</question>
+    <answer>Кто режиссер этого фильма?</answer>
+    <comment></comment>
+    <uuid>fc048c18-3306-4ea4-b7e7-72c1ead4e7ee</uuid>
+  </card>
+  <card>
+    <question>La película es en versión original o doblada?</question>
+    <answer>Фильм в оригинале или дублированный?</answer>
+    <comment></comment>
+    <uuid>606ab038-c51e-476c-b826-442d6796cb4a</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo comienza la temporada teatral?</question>
+    <answer>Когда начинается театральный сезон?</answer>
+    <comment></comment>
+    <uuid>07ba31d5-9993-46f0-b152-d3301bd48ecc</uuid>
+  </card>
+  <card>
+    <question>¿A qué teatro me recomienda que fuera?</question>
+    <answer>В какой театр вы советуете (мне) пойти? (= ... чтобы я пошел?)</answer>
+    <comment></comment>
+    <uuid>a42797fc-68a8-4e1d-8171-5fc0058d85e2</uuid>
+  </card>
+  <card>
+    <question>Deseo ir al teatro de ópera.</question>
+    <answer>Я хочу (желаю) пойти в оперный театр.</answer>
+    <comment></comment>
+    <uuid>89b6254a-6cb5-4aab-972c-d8abd1bd83ac</uuid>
+  </card>
+  <card>
+    <question>Deseo ir al teatro dramático.</question>
+    <answer>Я хочу (желаю) пойти в драматический театр.</answer>
+    <comment></comment>
+    <uuid>d4b26005-8a97-42bb-b909-7360c929616c</uuid>
+  </card>
+  <card>
+    <question>Deseo ir al circo.</question>
+    <answer>Я хочу (желаю) пойти в цирк.</answer>
+    <comment></comment>
+    <uuid>d3fbc4b7-df51-4257-aba8-541df6f1f8c9</uuid>
+  </card>
+  <card>
+    <question>Todas las entradas están vendidas.</question>
+    <answer>Все билеты проданы.</answer>
+    <comment></comment>
+    <uuid>88dd21b8-73fc-43cb-8cdf-fbf89f9329ef</uuid>
+  </card>
+  <card>
+    <question>Hay entradas sólo para hoy.</question>
+    <answer>Билеты есть только на сегодня.</answer>
+    <comment></comment>
+    <uuid>51ddc715-b291-4229-83f4-11ac60e3d5a9</uuid>
+  </card>
+  <card>
+    <question>Hay entradas sólo para mañana.</question>
+    <answer>Билеты есть только на завтра.</answer>
+    <comment></comment>
+    <uuid>99da4184-f517-4407-9f11-77058f937799</uuid>
+  </card>
+  <card>
+    <question>Hay entradas sólo para pasado mañana.</question>
+    <answer>Билеты есть только на послезавтра.</answer>
+    <comment></comment>
+    <uuid>9ee82fd6-7c4c-46dc-ad37-2dc63fe2ca1b</uuid>
+  </card>
+  <card>
+    <question>Hay entradas sólo para el día ...</question>
+    <answer>Билеты есть только на ... число.</answer>
+    <comment></comment>
+    <uuid>ffa0a59d-9b78-4c1a-888b-7d8479a731dc</uuid>
+  </card>
+  <card>
+    <question>Haga el favor de indicarme mi butaca.</question>
+    <answer>Пожалуйста, покажите мне моё место. (=Сделайте одолжение, ... кресло.)</answer>
+    <comment></comment>
+    <uuid>68943e07-701a-4308-bfdc-9e7137cc597a</uuid>
+  </card>
+  <card>
+    <question>¿Cuántos actos tiene la obra?</question>
+    <answer>Сколько действий в спектакле (=произведение)?</answer>
+    <comment></comment>
+    <uuid>507a8f70-d783-4f96-8ac4-69504a7c0744</uuid>
+  </card>
+  <card>
+    <question>¿Quién baila hoy?</question>
+    <answer>Кто сегодня танцует?</answer>
+    <comment></comment>
+    <uuid>aac5a0d3-9beb-458a-b1b3-bb1b8ea17278</uuid>
+  </card>
+  <card>
+    <question>¿Quién canta hoy?</question>
+    <answer>Кто сегодня поёт?</answer>
+    <comment></comment>
+    <uuid>69354f71-04f6-45d2-875e-7eafd60fed6c</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta la ópera?</question>
+    <answer>Вы любите оперу?</answer>
+    <comment></comment>
+    <uuid>99be6ac6-8a2f-4cc5-9ca8-72aac3a0f858</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta el ballet?</question>
+    <answer>Вы любите балет?</answer>
+    <comment></comment>
+    <uuid>6ba2a095-e271-4ad7-84d1-aeb006b3496a</uuid>
+  </card>
+  <card>
+    <question>¿Qué música le gusta?</question>
+    <answer>Какую музыку Вы любите?</answer>
+    <comment></comment>
+    <uuid>c9115fe4-d5cc-4570-a182-5589d3549db4</uuid>
+  </card>
+  <card>
+    <question>Me gustan filmes históricos.</question>
+    <answer>Мне нравятся исторические фильмы.</answer>
+    <comment></comment>
+    <uuid>bbaf3728-3088-4ea1-a0e0-1e24770224a7</uuid>
+  </card>
+  <card>
+    <question>Me gustan comedias.</question>
+    <answer>Мне нравятся комедии.</answer>
+    <comment></comment>
+    <uuid>16490cce-3dc2-4822-b417-01a0eda83404</uuid>
+  </card>
+  <card>
+    <question>Me gustan filmes de aventuras.</question>
+    <answer>Мне нравятся приключенческие фильмы.</answer>
+    <comment></comment>
+    <uuid>b76abbb4-e74a-450e-89fa-afb0d04267d3</uuid>
+  </card>
+  <card>
+    <question>Me gustan filmes musicales.</question>
+    <answer>Мне нравятся музыкальные фильмы.</answer>
+    <comment></comment>
+    <uuid>f1226f5f-b89f-4bec-b276-1c0720a4a30b</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo comienza la siguiente sesión?</question>
+    <answer>Когда начинается следующий сеанс?</answer>
+    <comment></comment>
+    <uuid>f6ee0fe1-7f03-43fc-94c5-be8d76e7e49d</uuid>
+  </card>
+  <card>
+    <question>¿Puedo encargar las entradas para la sesión de las ...?</question>
+    <answer>Можно (=могу я) заказать билеты на сеанс ... часов?</answer>
+    <comment></comment>
+    <uuid>55118720-52b3-43e1-a380-46f9d0292e12</uuid>
+  </card>
+  <card>
+    <question>Me ha gustado la fotografía.</question>
+    <answer>Мне понравилась операторская работа.</answer>
+    <comment></comment>
+    <uuid>e7fea02d-d731-4e9a-b118-ee80ff6f26bd</uuid>
+  </card>
+  <card>
+    <question>Me ha gustado la música.</question>
+    <answer>Мне понравилась музыка.</answer>
+    <comment></comment>
+    <uuid>8673c2a4-66da-49ff-9190-b69fbf328f23</uuid>
+  </card>
+  <card>
+    <question>Me ha gustado el trabajo de los actores.</question>
+    <answer>Мне понравилась игра актёров.</answer>
+    <comment></comment>
+    <uuid>21afa787-bfe2-4ff5-82ce-cbb5bc168722</uuid>
+  </card>
+</cards>
+</stack>

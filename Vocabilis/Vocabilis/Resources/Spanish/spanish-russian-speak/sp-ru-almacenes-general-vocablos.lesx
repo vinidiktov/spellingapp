@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>43db17fc-c9f2-44cf-b52b-2f43f5bf6049</uuid>
+  <title>Покупки :: Общая часть :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>19</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>grandes almacenes</question>
+    <answer>универмаг</answer>
+    <comment>m, pl</comment>
+    <uuid>9e991430-c784-49ab-bf1d-9603267b17f6</uuid>
+  </card>
+  <card>
+    <question>tienda de alimentación</question>
+    <answer>продовольственный магазин</answer>
+    <comment>f</comment>
+    <uuid>61ac902e-20f2-4b55-9bac-b55a8ba8aca4</uuid>
+  </card>
+  <card>
+    <question>confitería</question>
+    <answer>кондитерская</answer>
+    <comment>f</comment>
+    <uuid>131c066a-6578-4cc6-b7ba-98a9c6c9d6f9</uuid>
+  </card>
+  <card>
+    <question>librería</question>
+    <answer>книжный магазин</answer>
+    <comment>f</comment>
+    <uuid>738c8a74-2c21-4db9-a383-ffeca29308f1</uuid>
+  </card>
+  <card>
+    <question>hora</question>
+    <answer>час</answer>
+    <comment>f</comment>
+    <uuid>c026d394-7698-4342-ae70-4e36b062b640</uuid>
+  </card>
+  <card>
+    <question>abre</question>
+    <answer>открывается</answer>
+    <comment></comment>
+    <uuid>87887e64-002c-4a28-a6b2-5fd9d1990e7f</uuid>
+  </card>
+  <card>
+    <question>abrir</question>
+    <answer>открывать(ся)</answer>
+    <comment></comment>
+    <uuid>fd5a6788-42eb-4671-b48d-93d7d72e4d8c</uuid>
+  </card>
+  <card>
+    <question>cerrar</question>
+    <answer>закрывать(ся)</answer>
+    <comment></comment>
+    <uuid>b5db4c07-41b2-4057-8383-420d04ddf635</uuid>
+  </card>
+  <card>
+    <question>cierra</question>
+    <answer>закрывается</answer>
+    <comment></comment>
+    <uuid>9a18560b-cbc9-47ef-9ebc-ad80392393b4</uuid>
+  </card>
+  <card>
+    <question>tienda</question>
+    <answer>магазин, лавка</answer>
+    <comment>f</comment>
+    <uuid>74e02397-954f-4967-8000-2da2d9ed34a3</uuid>
+  </card>
+  <card>
+    <question>sección</question>
+    <answer>отдел</answer>
+    <comment>f</comment>
+    <uuid>e3d38a22-649b-4a28-a7dd-321f5e3a42a5</uuid>
+  </card>
+  <card>
+    <question>ropa</question>
+    <answer>одежда</answer>
+    <comment>f</comment>
+    <uuid>57c0a7af-c741-4224-93c5-250bf2b364da</uuid>
+  </card>
+  <card>
+    <question>caballero</question>
+    <answer>рыцарь, джентльмен</answer>
+    <comment>m</comment>
+    <uuid>c95e6a03-f077-40b6-b289-5c367da2e0f2</uuid>
+  </card>
+  <card>
+    <question>niños</question>
+    <answer>дети</answer>
+    <comment>m, pl</comment>
+    <uuid>4d364fb1-ca8e-48eb-ac91-361720104820</uuid>
+  </card>
+  <card>
+    <question>señoras</question>
+    <answer>дамы</answer>
+    <comment>f, pl</comment>
+    <uuid>e83392c4-50d1-47a9-b702-90949d34109b</uuid>
+  </card>
+  <card>
+    <question>juguetería</question>
+    <answer>магазин игрушек</answer>
+    <comment>f</comment>
+    <uuid>2fbea00a-dd87-4506-afda-8b3841717a7d</uuid>
+  </card>
+  <card>
+    <question>deporte</question>
+    <answer>спорт</answer>
+    <comment>m</comment>
+    <uuid>0edd7a0a-e968-4a55-a813-f0806f8160d3</uuid>
+  </card>
+  <card>
+    <question>comprar</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>3d628ecf-3ef3-4da9-91be-d29882825710</uuid>
+  </card>
+  <card>
+    <question>necesito</question>
+    <answer>мне нужен (нужна)</answer>
+    <comment></comment>
+    <uuid>831fb153-38ba-45df-902f-a7c6e5a2ad97</uuid>
+  </card>
+  <card>
+    <question>quisiera</question>
+    <answer>я бы хотел(а)</answer>
+    <comment></comment>
+    <uuid>b5d45eaa-5bb1-4036-89e1-f4e60be4e4ea</uuid>
+  </card>
+  <card>
+    <question>hacer compras</question>
+    <answer>делать покупки</answer>
+    <comment></comment>
+    <uuid>e0724931-65cf-4eea-9a33-09c7d8704af2</uuid>
+  </card>
+  <card>
+    <question>compra</question>
+    <answer>покупка</answer>
+    <comment>f</comment>
+    <uuid>19dedfb8-5fd6-4b84-96da-fc9e5c64caac</uuid>
+  </card>
+  <card>
+    <question>escalera mecánica</question>
+    <answer>эскалатор</answer>
+    <comment>f</comment>
+    <uuid>52b4dd23-ca1e-424b-9b6b-58138fcdfbce</uuid>
+  </card>
+  <card>
+    <question>enséñeme</question>
+    <answer>покажите мне</answer>
+    <comment></comment>
+    <uuid>a36647b7-76ea-44c2-b2ea-fe72e7b504be</uuid>
+  </card>
+  <card>
+    <question>enseñar</question>
+    <answer>показывать</answer>
+    <comment></comment>
+    <uuid>a60f2d12-4725-4297-ac14-f93afc32e778</uuid>
+  </card>
+  <card>
+    <question>deme</question>
+    <answer>дайте мне</answer>
+    <comment></comment>
+    <uuid>e59f54f6-4a39-4f58-be3d-8c98ca778c9a</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>70ada561-6ffe-49d2-85a2-0fe4756f1ad5</uuid>
+  </card>
+  <card>
+    <question>valer</question>
+    <answer>стоить</answer>
+    <comment></comment>
+    <uuid>38077f4a-29e7-4974-9d17-bc2a1dc7fc49</uuid>
+  </card>
+  <card>
+    <question>vale</question>
+    <answer>стОит</answer>
+    <comment></comment>
+    <uuid>890cb692-6fb0-414e-88c0-85e89b02c355</uuid>
+  </card>
+  <card>
+    <question>pagar</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <uuid>cc63d957-e9a3-470a-9c66-6d35535d8635</uuid>
+  </card>
+  <card>
+    <question>caja</question>
+    <answer>касса</answer>
+    <comment>f</comment>
+    <uuid>1ea6d7ba-ba94-41f4-bc30-83fc7f811fcb</uuid>
+  </card>
+  <card>
+    <question>envuélvame</question>
+    <answer>заверните мне</answer>
+    <comment></comment>
+    <uuid>3175df17-ec74-47aa-9214-823ff4b3cc82</uuid>
+  </card>
+  <card>
+    <question>envolver</question>
+    <answer>завёртывать</answer>
+    <comment></comment>
+    <uuid>95d9cd49-72fd-42b7-a393-229ca9d4c217</uuid>
+  </card>
+  <card>
+    <question>todo junto</question>
+    <answer>всё вместе</answer>
+    <comment></comment>
+    <uuid>608266a0-02d4-4d64-8f0f-ef019e72c030</uuid>
+  </card>
+  <card>
+    <question>salida</question>
+    <answer>выход</answer>
+    <comment>f</comment>
+    <uuid>441a51f3-69c2-4a62-b60b-a466c723e0e5</uuid>
+  </card>
+  <card>
+    <question>algo</question>
+    <answer>что-нибудь</answer>
+    <comment></comment>
+    <uuid>cc84bf60-344b-48d9-98f0-d4b0312aa015</uuid>
+  </card>
+  <card>
+    <question>quiere</question>
+    <answer>(Вы) хотите; (он, она) хочет</answer>
+    <comment></comment>
+    <uuid>0299f44d-19e9-4856-972d-933249b6d2cb</uuid>
+  </card>
+  <card>
+    <question>querer</question>
+    <answer>хотеть</answer>
+    <comment></comment>
+    <uuid>87516421-f72b-4e1c-b237-4cf99dcc704e</uuid>
+  </card>
+  <card>
+    <question>más cercano</question>
+    <answer>ближайший</answer>
+    <comment></comment>
+    <uuid>2ddbacb0-463a-4bbd-afca-a334d8cce7bb</uuid>
+  </card>
+  <card>
+    <question>más cercana</question>
+    <answer>ближайшая</answer>
+    <comment></comment>
+    <uuid>e409d7c8-4ee5-49e6-af46-27692b9395b3</uuid>
+  </card>
+  <card>
+    <question>está abierta</question>
+    <answer>открыта</answer>
+    <comment></comment>
+    <uuid>971f73c3-38b3-4cff-8095-ad305e72779e</uuid>
+  </card>
+  <card>
+    <question>está abierto</question>
+    <answer>открыт</answer>
+    <comment></comment>
+    <uuid>63bf83d6-9da7-476f-9eca-710e61998680</uuid>
+  </card>
+  <card>
+    <question>comercio</question>
+    <answer>торговый дом</answer>
+    <comment>m</comment>
+    <uuid>940d9eea-00d6-425e-9b06-6d519b8dd5e6</uuid>
+  </card>
+  <card>
+    <question>regalo</question>
+    <answer>подарок</answer>
+    <comment>m</comment>
+    <uuid>7505bd4e-bc91-461a-8d76-1f12c24c1756</uuid>
+  </card>
+  <card>
+    <question>souvenir</question>
+    <answer>сувенир</answer>
+    <comment></comment>
+    <uuid>aef2df3c-decc-4700-8a3d-d71ca76caa71</uuid>
+  </card>
+  <card>
+    <question>se venden</question>
+    <answer>продаются</answer>
+    <comment></comment>
+    <uuid>5b3759bd-8630-435e-88a7-6634a9314ee9</uuid>
+  </card>
+  <card>
+    <question>venderse</question>
+    <answer>продаваться</answer>
+    <comment></comment>
+    <uuid>731b8330-20f5-4355-8d91-e1e337f83371</uuid>
+  </card>
+  <card>
+    <question>se vende</question>
+    <answer>продаётся</answer>
+    <comment></comment>
+    <uuid>14a3b70e-ceb5-4b77-ab86-29df6ca30718</uuid>
+  </card>
+  <card>
+    <question>aconsejaría</question>
+    <answer>(Вы) посоветовали бы</answer>
+    <comment></comment>
+    <uuid>f4d1f5a9-f114-4b88-a491-d9e2511a9ced</uuid>
+  </card>
+  <card>
+    <question>aconsejar</question>
+    <answer>советовать</answer>
+    <comment></comment>
+    <uuid>f7cfcac6-d53f-4d92-8c0c-d740c0f853b5</uuid>
+  </card>
+  <card>
+    <question>quiosco</question>
+    <answer>киоск</answer>
+    <comment>m</comment>
+    <uuid>e35186dc-82de-40a9-a3e5-bd4608338713</uuid>
+  </card>
+  <card>
+    <question>laca</question>
+    <answer>шкатулка</answer>
+    <comment>f</comment>
+    <uuid>470cef95-9994-4024-8c39-196321f19a58</uuid>
+  </card>
+  <card>
+    <question>desearía</question>
+    <answer>не хотели бы Вы (не желали бы Вы)</answer>
+    <comment></comment>
+    <uuid>b98c05c1-b121-49e1-af06-7204cd52df83</uuid>
+  </card>
+  <card>
+    <question>desear</question>
+    <answer>хотеть, желать</answer>
+    <comment></comment>
+    <uuid>e08efb3f-babb-47cd-9d78-aa1c5d88fea7</uuid>
+  </card>
+  <card>
+    <question>objeto</question>
+    <answer>предмет, вещь</answer>
+    <comment>m</comment>
+    <uuid>e59ba0f4-b7e2-4cdf-8aec-b348694d55f1</uuid>
+  </card>
+  <card>
+    <question>encaje</question>
+    <answer>кружево</answer>
+    <comment>m</comment>
+    <uuid>e1d7ae84-e2cd-4c30-961c-43871ee41d07</uuid>
+  </card>
+  <card>
+    <question>piedra</question>
+    <answer>камень</answer>
+    <comment>f</comment>
+    <uuid>5fadda22-fb86-4f5d-aa7e-50421143b0ba</uuid>
+  </card>
+  <card>
+    <question>artículo</question>
+    <answer>изделие</answer>
+    <comment></comment>
+    <uuid>fc293fb9-4967-4f65-8967-b35feff5f0bf</uuid>
+  </card>
+  <card>
+    <question>costar</question>
+    <answer>стоить (=valer)</answer>
+    <comment></comment>
+    <uuid>e6ec11e8-3851-406d-bbfc-e7ad53d910b3</uuid>
+  </card>
+  <card>
+    <question>cuesta</question>
+    <answer>стОит (=vale)</answer>
+    <comment></comment>
+    <uuid>378732f9-8a79-4884-aaa7-57cd45cc2ca3</uuid>
+  </card>
+</cards>
+</stack>

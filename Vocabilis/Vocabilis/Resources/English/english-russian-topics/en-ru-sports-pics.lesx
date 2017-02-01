@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ee15c54c-b53c-416a-9afe-5a563a2318c4</uuid>
+  <title>Спорт</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>bowling</question>
+    <answer>боулинг</answer>
+    <comment>[ˈbəʊlɪŋ]</comment>
+    <answer_picture>bowling.gif</answer_picture>
+    <uuid>02dcf078-9d32-4f20-9744-7f113d8d4712</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cricket</question>
+    <answer>крикет</answer>
+    <comment>[ˈkrɪkɪt]</comment>
+    <answer_picture>cricket.gif</answer_picture>
+    <uuid>3512c547-c0c7-4ccf-96ec-21df5f6e0831</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>football</question>
+    <answer>амер. американский футбол</answer>
+    <comment>[ˈfʊtbɔːl]</comment>
+    <answer_picture>football.gif</answer_picture>
+    <uuid>2e8cb772-75a3-4c80-a047-8b2429074647</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ball</question>
+    <answer>мяс</answer>
+    <comment>[bɔːl]</comment>
+    <answer_picture>ball.gif</answer_picture>
+    <uuid>60d82150-d796-4e37-9d75-295a1775bbf2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>angle</question>
+    <answer>удить рыбу</answer>
+    <comment>[ˈæŋgl]</comment>
+    <answer_picture>angle.gif</answer_picture>
+    <uuid>f8f9b203-0051-4c0d-a49c-8298e3c9224c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cycling</question>
+    <answer>велоспорт</answer>
+    <comment>[ˈsаɪklɪŋ]</comment>
+    <answer_picture>cycling.gif</answer_picture>
+    <uuid>f311adcf-b981-4a87-9fa3-a0eb43ee5b7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>boxing</question>
+    <answer>бокс</answer>
+    <comment>[ˈbɒksɪŋ]</comment>
+    <answer_picture>boxing.gif</answer_picture>
+    <uuid>f0ba79b6-9d08-4f65-8eb3-3923f8bad862</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>baseball</question>
+    <answer>бейсбол</answer>
+    <comment>[ˈbeɪsbɔːl]</comment>
+    <answer_picture>baseball.gif</answer_picture>
+    <uuid>41983c47-4090-41c9-898c-eae5ed7118c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>catch</question>
+    <answer>ловить</answer>
+    <comment>[kæʧ]</comment>
+    <answer_picture>catch.gif</answer_picture>
+    <uuid>66101c50-71b3-4faf-887d-0b4822788c12</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bat</question>
+    <answer>бита</answer>
+    <comment>[bæt]</comment>
+    <answer_picture>bat.gif</answer_picture>
+    <uuid>034c02a0-d6d2-449e-a864-bdf0e6f18694</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>golf</question>
+    <answer>гольф</answer>
+    <comment>[gɒlf]</comment>
+    <answer_picture>golf.gif</answer_picture>
+    <uuid>156b365f-e63b-473c-a09d-84a061e45dd5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>gymnastics</question>
+    <answer>гимнастика</answer>
+    <comment>[ʤɪmˈnæstɪks]</comment>
+    <answer_picture>gymnastics.gif</answer_picture>
+    <uuid>13e05cb1-6812-47a0-88bb-bc523309488e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hiking</question>
+    <answer>пеший туризм, пешеходная прогулка</answer>
+    <comment>[ˈhаɪkɪŋ]</comment>
+    <answer_picture>hiking.gif</answer_picture>
+    <uuid>5c7af6c4-d25a-486b-96ce-80a1aa45377a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hit</question>
+    <answer>ударять (по чему-л.);</answer>
+    <comment>[hɪt]</comment>
+    <answer_picture>hit.gif</answer_picture>
+    <uuid>ef0f077c-ab35-4144-80e0-c5d31c0dea68</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hockey</question>
+    <answer>хоккей</answer>
+    <comment>[ˈhɒkɪ]</comment>
+    <answer_picture>hockey.gif</answer_picture>
+    <uuid>111cc706-45a3-4b08-8b74-94c00e6d71e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hop</question>
+    <answer>скакать</answer>
+    <comment>[hɒp]</comment>
+    <answer_picture>hop.gif</answer_picture>
+    <uuid>df3012f3-2d5c-448d-a825-f93efe683b1c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>jump</question>
+    <answer>прыгать</answer>
+    <comment>[ʤʌmp]</comment>
+    <answer_picture>jump.gif</answer_picture>
+    <uuid>8eb0b0f8-223b-4ba2-819f-eaeadf2e9d1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>kick</question>
+    <answer>пинать</answer>
+    <comment>[kɪk]</comment>
+    <answer_picture>kick.gif</answer_picture>
+    <uuid>22a1436f-b80b-4d7b-a618-c873c4bb939d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>play basketball</question>
+    <answer>играть в баскетбол</answer>
+    <comment>[pleɪ ˈbɑːskɪtbɔːl]</comment>
+    <answer_picture>play_basketball.gif</answer_picture>
+    <uuid>20c3177d-37bc-4081-86cf-69be62cd16fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>racquet</question>
+    <answer>ракетка</answer>
+    <comment>[ˈrækɪt]</comment>
+    <answer_picture>racquet.gif</answer_picture>
+    <uuid>88b9ba1b-ada1-4079-a7b2-b55ef45d7e81</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rugby</question>
+    <answer>регби</answer>
+    <comment>[ˈrʌgbɪ]</comment>
+    <answer_picture>rugby.gif</answer_picture>
+    <uuid>bdc73eb2-dec9-455e-a964-d9a3e08f5f6c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>run</question>
+    <answer>бегать</answer>
+    <comment>[rʌn]</comment>
+    <answer_picture>run.gif</answer_picture>
+    <uuid>6b3fca55-a61b-411c-916c-d402b9405304</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ski</question>
+    <answer>ходить на лыжах</answer>
+    <comment>[skiː]</comment>
+    <answer_picture>ski.gif</answer_picture>
+    <uuid>c49b8a58-ca02-4ad2-be16-87d53c7416cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>soccer</question>
+    <answer>футбол</answer>
+    <comment>[ˈsɒkə]</comment>
+    <answer_picture>soccer.gif</answer_picture>
+    <uuid>d414eb19-5991-46db-9e1b-db174cde81fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>swim</question>
+    <answer>плавать</answer>
+    <comment>[swɪm]</comment>
+    <answer_picture>swim.gif</answer_picture>
+    <uuid>9f85c92b-d6e1-4fb8-88d1-ea2b44e187cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>team</question>
+    <answer>команда</answer>
+    <comment>[tiːm]</comment>
+    <answer_picture>team.gif</answer_picture>
+    <uuid>3ba67bb1-5c4a-408c-abc9-2ad7f1c136b2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tennis</question>
+    <answer>теннис</answer>
+    <comment>[ˈtenɪs]</comment>
+    <answer_picture>tennis.gif</answer_picture>
+    <uuid>0f5454ce-94e4-46ef-8466-c5f2efee448c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>throw</question>
+    <answer>бросать, кидать</answer>
+    <comment>[θrəʊ]</comment>
+    <answer_picture>throw.gif</answer_picture>
+    <uuid>0ff58439-31f4-4f61-85f0-174981c0b36c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>trophy</question>
+    <answer>приз, награда</answer>
+    <comment>[ˈtrəʊfɪ]</comment>
+    <answer_picture>trophy.gif</answer_picture>
+    <uuid>be32e426-0b13-4b21-b3d0-883a1391d6d0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>weightlifting</question>
+    <answer>тяжёлая атлетика</answer>
+    <comment>[ˈweɪtˌlɪftɪŋ]</comment>
+    <answer_picture>weightlifting.gif</answer_picture>
+    <uuid>0e1a223c-c0fd-4f08-aab6-b126318fc7a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>win</question>
+    <answer>побеждать</answer>
+    <comment>[wɪn]</comment>
+    <answer_picture>win.gif</answer_picture>
+    <uuid>fadabed8-135a-4fb8-8c19-c3842a870b2d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yachting</question>
+    <answer>парусный спорт</answer>
+    <comment>[ˈjɒtɪŋ]</comment>
+    <answer_picture>yachting.gif</answer_picture>
+    <uuid>d9ff8da5-cc9f-4d63-838c-294b5b16640c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yoga</question>
+    <answer>йога</answer>
+    <comment>[ˈjəʊgə]</comment>
+    <answer_picture>yoga.gif</answer_picture>
+    <uuid>485f39ad-2d54-4489-9d85-1bf4478f399f</uuid>
+  </card>
+</cards>
+</stack>

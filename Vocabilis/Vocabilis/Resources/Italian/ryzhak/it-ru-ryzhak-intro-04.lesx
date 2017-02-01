@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>55ad637d-e316-45a3-a166-a73223d296f4</uuid>
+  <title>Рыжак. Вводный урок 4</title>
+  <author>Екатерина Андреева</author>
+  <date>
+     <year>2016</year>
+     <month>9</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>ita</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Come stai?</question>
+    <answer>Как дела? Как ты себя чувствуешь?</answer>
+    <comment></comment>
+    <uuid>ca3883e3-e4ad-4eec-8bb2-4fe060bcd64f</uuid>
+  </card>
+  <card>
+    <question>Sto bene.</question>
+    <answer>У меня все хорошо.</answer>
+    <comment></comment>
+    <uuid>10a16cd9-e47b-407a-a6b2-343fc0d442f1</uuid>
+  </card>
+  <card>
+    <question>Sto male.</question>
+    <answer>Плохо. Я плохо себя чувствую.</answer>
+    <comment></comment>
+    <uuid>56f4e387-0755-49c0-b459-02be804396d3</uuid>
+  </card>
+  <card>
+    <question>Come va?</question>
+    <answer>Как дела?</answer>
+    <comment></comment>
+    <uuid>7e19e18b-23d2-4762-97ed-d79894b859c9</uuid>
+  </card>
+  <card>
+    <question>Va bene</question>
+    <answer>Хорошо.</answer>
+    <comment></comment>
+    <uuid>f6abb6a9-04d4-4e42-b40c-f489efeb6cf9</uuid>
+  </card>
+  <card>
+    <question>Tutto va bene.</question>
+    <answer>Всё идёт хорошо.</answer>
+    <comment></comment>
+    <uuid>24afeb68-1fbb-4a6b-8bb8-e21b1dbbafdd</uuid>
+  </card>
+  <card>
+    <question>Va male.</question>
+    <answer>Плохо.</answer>
+    <comment></comment>
+    <uuid>7ff83141-1f8a-4c08-b0ee-8ebb7d424d01</uuid>
+  </card>
+  <card>
+    <question>Non c&apos;è male.</question>
+    <answer>Не плохо.</answer>
+    <comment></comment>
+    <uuid>49691182-5e75-4dda-8e78-6e80b164f46a</uuid>
+  </card>
+  <card>
+    <question>Come ti chiami?</question>
+    <answer>Как тебя зовут?</answer>
+    <comment></comment>
+    <uuid>c87c43d6-9276-43fb-a304-55f83cd91602</uuid>
+  </card>
+  <card>
+    <question>Come si chiama?</question>
+    <answer>Как Вас (его, её) зовут?</answer>
+    <comment></comment>
+    <uuid>d1fd1d88-d608-4edd-9a95-4ade0535f16d</uuid>
+  </card>
+  <card>
+    <question>Mi chiamo.....</question>
+    <answer>Меня зовут...</answer>
+    <comment></comment>
+    <uuid>c71876f3-c5ee-4a99-8115-718696abb659</uuid>
+  </card>
+  <card>
+    <question>Ti piace?</question>
+    <answer>Тебе нравится?</answer>
+    <comment></comment>
+    <uuid>e5b427df-f724-45c7-9237-3cb5cba03c30</uuid>
+  </card>
+  <card>
+    <question>Mi piace.</question>
+    <answer>Мне нравится.</answer>
+    <comment></comment>
+    <uuid>23c57d11-36dd-458a-84f6-3b2a7ee4f284</uuid>
+  </card>
+  <card>
+    <question>Non mi piace.</question>
+    <answer>Мне не нравится.</answer>
+    <comment></comment>
+    <uuid>e9956b64-5c77-49fb-ae56-b28168f05272</uuid>
+  </card>
+  <card>
+    <question>e tu?</question>
+    <answer>а ты?</answer>
+    <comment></comment>
+    <uuid>67a4e2cd-ec7b-4e78-9d24-21b5f11ad23d</uuid>
+  </card>
+  <card>
+    <question>abbastanza</question>
+    <answer>довольно</answer>
+    <comment></comment>
+    <uuid>a285dc2e-da74-4625-9e46-702a2341bc8e</uuid>
+  </card>
+  <card>
+    <question>bene</question>
+    <answer>хорошо</answer>
+    <comment></comment>
+    <uuid>d0133bae-8151-487a-a6ca-6a5d0da8dcee</uuid>
+  </card>
+  <card>
+    <question>per fortuna</question>
+    <answer>к счастью</answer>
+    <comment></comment>
+    <uuid>9e2285cf-6e32-42c1-b8bc-6d3254e539f2</uuid>
+  </card>
+  <card>
+    <question>mio</question>
+    <answer>мой</answer>
+    <comment></comment>
+    <uuid>81854316-fc4a-4943-b158-02f1b1f75c1e</uuid>
+  </card>
+  <card>
+    <question>a proposito</question>
+    <answer>между прочим, кстати</answer>
+    <comment></comment>
+    <uuid>5689cce8-eff1-459c-9fb7-04264088ebb3</uuid>
+  </card>
+  <card>
+    <question>piacere</question>
+    <answer>очень приятно</answer>
+    <comment></comment>
+    <uuid>0371eb2e-c265-436d-b579-a743b7e5cb84</uuid>
+  </card>
+  <card>
+    <question>tuo</question>
+    <answer>твой</answer>
+    <comment></comment>
+    <uuid>e5a82d0d-08d9-4a71-b2ce-35b8111817dc</uuid>
+  </card>
+  <card>
+    <question>però</question>
+    <answer>однако</answer>
+    <comment></comment>
+    <uuid>2de98c99-416a-4b7c-8cd6-52afb6327e99</uuid>
+  </card>
+  <card>
+    <question>cucina</question>
+    <answer>кухня</answer>
+    <comment></comment>
+    <uuid>405dd045-5c74-4ca1-a62d-cbe399e7b41a</uuid>
+  </card>
+  <card>
+    <question>troppo</question>
+    <answer>слишком</answer>
+    <comment></comment>
+    <uuid>b2bcc62c-5919-418a-a661-b88396a9385c</uuid>
+  </card>
+  <card>
+    <question>anche</question>
+    <answer>также, тоже</answer>
+    <comment></comment>
+    <uuid>d5d686f4-1f02-49d6-be01-26dffc5aa5a2</uuid>
+  </card>
+  <card>
+    <question>camera</question>
+    <answer>комната</answer>
+    <comment></comment>
+    <uuid>e3914193-44d3-4ab3-848b-90988d6047a6</uuid>
+  </card>
+  <card>
+    <question>camera da letto</question>
+    <answer>спальня</answer>
+    <comment></comment>
+    <uuid>50a6e31b-c0f2-4e51-977c-a759de263384</uuid>
+  </card>
+  <card>
+    <question>salotto</question>
+    <answer>гостиная</answer>
+    <comment></comment>
+    <uuid>4dcc5506-d3eb-4f04-be94-e9c6a0ac2c3c</uuid>
+  </card>
+  <card>
+    <question>armadio</question>
+    <answer>шкаф</answer>
+    <comment></comment>
+    <uuid>d3bd792c-83cd-408a-95f5-7cd33e8fe337</uuid>
+  </card>
+  <card>
+    <question>tavola</question>
+    <answer>стол</answer>
+    <comment></comment>
+    <uuid>83cff0d6-cb06-42b9-a40a-24c2e48d29e7</uuid>
+  </card>
+  <card>
+    <question>divano</question>
+    <answer>диван</answer>
+    <comment></comment>
+    <uuid>f7834af2-7257-4b3f-8743-4caa9a094e4a</uuid>
+  </card>
+  <card>
+    <question>soffitto</question>
+    <answer>потолок</answer>
+    <comment></comment>
+    <uuid>4477fe04-51a1-41fa-9331-3956c1e23d0e</uuid>
+  </card>
+  <card>
+    <question>balcone</question>
+    <answer>балкон</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>7221cbb7-e6f3-4c23-b326-c1db545d5cb0</uuid>
+  </card>
+  <card>
+    <question>veranda</question>
+    <answer>веранда, терраса</answer>
+    <comment></comment>
+    <uuid>46a02dbf-dd39-458a-80ba-ad30633b8ad7</uuid>
+  </card>
+  <card>
+    <question>lingua</question>
+    <answer>язык</answer>
+    <comment></comment>
+    <uuid>2f004299-d160-48fd-81fc-895b81c912ba</uuid>
+  </card>
+</cards>
+</stack>

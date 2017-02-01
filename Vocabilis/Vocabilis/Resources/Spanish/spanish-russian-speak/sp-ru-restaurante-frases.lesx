@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>99bbd4e7-0fca-4531-89f8-4403da33da40</uuid>
+  <title>Ресторан, кафе, бар :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Podría usted recomendarme un buen restaurante?</question>
+    <answer>Вы можете порекомендовать мне хороший ресторан? (=Могли бы вы ...)</answer>
+    <comment></comment>
+    <uuid>9579fe74-ac61-4723-b878-6a45293ff99e</uuid>
+  </card>
+  <card>
+    <question>Estoy hambriento.</question>
+    <answer>Я проголодался.</answer>
+    <comment></comment>
+    <uuid>7817971f-19cd-4e6e-ab4e-8eb1352ba195</uuid>
+  </card>
+  <card>
+    <question>Estoy hambrienta.</question>
+    <answer>Я проголодалась.</answer>
+    <comment></comment>
+    <uuid>e760ad30-0556-426c-9c79-b5f4067251b2</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora abre?</question>
+    <answer>В котором часу он открывается?</answer>
+    <comment></comment>
+    <uuid>c3086d61-628c-4330-8e96-bc1359aeab17</uuid>
+  </card>
+  <card>
+    <question>Abre a las ...</question>
+    <answer>Он открывается в ... часов.</answer>
+    <comment></comment>
+    <uuid>7142022c-19b4-4219-b15a-7cc08ff2ad11</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora cierra?</question>
+    <answer>В котором часу он закрывается?</answer>
+    <comment></comment>
+    <uuid>cad118f0-c042-456e-a5a7-60eff3bcf8f7</uuid>
+  </card>
+  <card>
+    <question>Cierra a las ...</question>
+    <answer>Он закрывается в ... часов.</answer>
+    <comment></comment>
+    <uuid>2bc488f0-44ad-4d65-951d-46df822684d4</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede comer rápido?</question>
+    <answer>Где можно быстро перекусить?</answer>
+    <comment></comment>
+    <uuid>f14ef8a5-d385-411d-a2c3-db73d7ab93c4</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede comer barato?</question>
+    <answer>Где можно недорого поесть?</answer>
+    <comment></comment>
+    <uuid>15b0b23c-2fa8-4bfb-bca0-b4a05624d2de</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay un restaurante?</question>
+    <answer>Где находится (=есть) ресторан?</answer>
+    <comment></comment>
+    <uuid>088837b9-2b75-40ee-ada2-48149fa90a2e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay un bar?</question>
+    <answer>Где находится (=есть) бар?</answer>
+    <comment></comment>
+    <uuid>242a3a13-16f5-434d-a971-e41717ae8075</uuid>
+  </card>
+  <card>
+    <question>¿Quiere almorzar con nosotros?</question>
+    <answer>Хотите пообедать с нами?</answer>
+    <comment></comment>
+    <uuid>b2441f16-0c0f-4bcd-9c15-04a7e3dc7402</uuid>
+  </card>
+  <card>
+    <question>¿Quiere desayunar con nosotros?</question>
+    <answer>Хотите позавтракать с нами?</answer>
+    <comment></comment>
+    <uuid>4ed52553-2ea4-4cda-8d5d-8040a10d78c2</uuid>
+  </card>
+  <card>
+    <question>¿Quiere cenar con nosotros?</question>
+    <answer>Хотите поужинать с нами?</answer>
+    <comment></comment>
+    <uuid>fea57c1f-a064-405b-bd9f-3f593b7f84cb</uuid>
+  </card>
+  <card>
+    <question>Hay un buen restaurante cerca de ...</question>
+    <answer>Есть хороший ресторан рядом с ...</answer>
+    <comment></comment>
+    <uuid>c81b2ec1-0979-4c56-84da-419c3d783850</uuid>
+  </card>
+  <card>
+    <question>Hay un buen bar cerca de ...</question>
+    <answer>Есть хороший бар рядом с ...</answer>
+    <comment></comment>
+    <uuid>7ae64cad-071c-456c-aaab-2e984e1c530a</uuid>
+  </card>
+  <card>
+    <question>Necesitamos una mesa para dos.</question>
+    <answer>Нам нужен столик на двоих.</answer>
+    <comment></comment>
+    <uuid>63f1730c-4ac5-4166-825b-73a68c63a848</uuid>
+  </card>
+  <card>
+    <question>Necesitamos una mesa para cuatro.</question>
+    <answer>Нам нужен столик на четверых.</answer>
+    <comment></comment>
+    <uuid>b9f95151-ff50-4226-b7b7-0d40b8790634</uuid>
+  </card>
+  <card>
+    <question>Necesitamos una mesa para tres.</question>
+    <answer>Нам нужен столик на троих.</answer>
+    <comment></comment>
+    <uuid>3a2b93c5-1ba2-493f-a96b-a4c3f04fe8d9</uuid>
+  </card>
+  <card>
+    <question>Somos dos.</question>
+    <answer>Нас двое.</answer>
+    <comment></comment>
+    <uuid>bef61cbe-43f0-4102-953c-517b701fa200</uuid>
+  </card>
+  <card>
+    <question>Somos tres.</question>
+    <answer>Нас трое.</answer>
+    <comment></comment>
+    <uuid>907988dd-3049-4463-95ad-8e2acfde4b25</uuid>
+  </card>
+  <card>
+    <question>Somos cuatro.</question>
+    <answer>Нас четверо.</answer>
+    <comment></comment>
+    <uuid>7704b62b-01e2-4fab-909c-5fe5f0793513</uuid>
+  </card>
+  <card>
+    <question>Sólo vengo yo.</question>
+    <answer>Я один (одна).</answer>
+    <comment></comment>
+    <uuid>5fced956-44d2-43b2-9028-2c13f9fc0c5b</uuid>
+  </card>
+  <card>
+    <question>Quisiera sentarme lejos de la orquesta.</question>
+    <answer>Я бы хотел сесть подальше от оркестра.</answer>
+    <comment></comment>
+    <uuid>a767825c-04ef-4c96-a9f5-b9bf4ddeefc5</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos sentarnos lejos de la orquesta.</question>
+    <answer>Мы бы хотели сесть подальше от оркестра.</answer>
+    <comment></comment>
+    <uuid>cf1c34f0-69c2-43ab-9152-372957fc1f1e</uuid>
+  </card>
+  <card>
+    <question>Quisiera sentarme en la esquina.</question>
+    <answer>Я бы хотел сесть в углу.</answer>
+    <comment></comment>
+    <uuid>51193839-e88e-4e76-aaf5-e50b8ffe230d</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos sentarnos en la esquina.</question>
+    <answer>Мы бы хотели сесть в углу.</answer>
+    <comment></comment>
+    <uuid>ff343e53-83ec-4fb1-9290-c48d940831b2</uuid>
+  </card>
+  <card>
+    <question>Quisiera sentarme junto a la ventana.</question>
+    <answer>Я бы хотел сесть у окна.</answer>
+    <comment></comment>
+    <uuid>ad3f6760-0ab2-432e-8b2a-d443eb1d6b78</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos sentarnos junto a la ventana.</question>
+    <answer>Мы бы хотели сесть у окна.</answer>
+    <comment></comment>
+    <uuid>3b44cf6b-07cc-4733-8c82-9765a26e947e</uuid>
+  </card>
+  <card>
+    <question>Quisiera sentarme en la terraza.</question>
+    <answer>Я бы хотел сесть на террасе.</answer>
+    <comment></comment>
+    <uuid>1278c266-76e1-438e-a0bd-c3d27823b2c1</uuid>
+  </card>
+  <card>
+    <question>Quisiéramos sentarnos en la terraza.</question>
+    <answer>Мы бы хотели сесть на террасе.</answer>
+    <comment></comment>
+    <uuid>7100606a-f142-48f2-8790-8004d6802bb9</uuid>
+  </card>
+  <card>
+    <question>Por favor, denos el menú.</question>
+    <answer>Меню, пожалуйста. (=Пожалуйста, дайте нам меню.)</answer>
+    <comment></comment>
+    <uuid>ea857dcb-5238-4cb9-bed5-12d81d108128</uuid>
+  </card>
+  <card>
+    <question>Aún no he elegido.</question>
+    <answer>Я еще не выбрал.</answer>
+    <comment></comment>
+    <uuid>8207bcec-e7ac-4995-b286-216589caae6a</uuid>
+  </card>
+  <card>
+    <question>Aún no hemos elegido.</question>
+    <answer>Мы еще не выбрали.</answer>
+    <comment></comment>
+    <uuid>394bab32-2d3a-4d2c-a3d3-845309821f46</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una silla.</question>
+    <answer>Принесите, пожалуйста, один стул.</answer>
+    <comment></comment>
+    <uuid>530b2960-c175-4fb7-a105-a3f9a51139a4</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un cenicero.</question>
+    <answer>Принесите, пожалуйста, одну пепельницу.</answer>
+    <comment></comment>
+    <uuid>ba989842-5c1c-47eb-b516-0602db720d26</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una copa.</question>
+    <answer>Принесите, пожалуйста, одну рюмку.</answer>
+    <comment></comment>
+    <uuid>2a7fd757-ad26-40f6-a13b-cea915d3d57b</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una copa de vino.</question>
+    <answer>Принесите, пожалуйста, один фужер.</answer>
+    <comment></comment>
+    <uuid>39dc5294-7efa-49a8-bbf7-d486d505dd9e</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una servilleta.</question>
+    <answer>Принесите, пожалуйста, одну салфетку.</answer>
+    <comment></comment>
+    <uuid>e0426642-6722-4005-8147-0ddb86667072</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una cuchara.</question>
+    <answer>Принесите, пожалуйста, одну ложку.</answer>
+    <comment></comment>
+    <uuid>63d6ca86-467f-4851-aa54-40548c2e066e</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un cuchillo.</question>
+    <answer>Принесите, пожалуйста, один нож.</answer>
+    <comment></comment>
+    <uuid>ef38a780-917b-4691-ae24-bb9b9c865efb</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un tenedor.</question>
+    <answer>Принесите, пожалуйста, одну вилку.</answer>
+    <comment></comment>
+    <uuid>f13b0d2c-7b60-4bfc-ae4c-89b3a022530a</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un cubierto más.</question>
+    <answer>Принесите, пожалуйста, еще один прибор.</answer>
+    <comment></comment>
+    <uuid>75a716c1-6f7e-419e-ba39-05476d0d1c1a</uuid>
+  </card>
+  <card>
+    <question>¿Qué aperitivo nos recomienda?</question>
+    <answer>Какой аперитив вы можете предложить? (=Какой аперитив вы нам рекомендуете?)</answer>
+    <comment></comment>
+    <uuid>b0c963fb-4339-4565-9d82-923578a873e1</uuid>
+  </card>
+  <card>
+    <question>Le recomiendo ...</question>
+    <answer>Я Вам (ед.ч.) рекомендую ...</answer>
+    <comment></comment>
+    <uuid>d2d038ec-d98d-4e8d-9397-7b105862bd33</uuid>
+  </card>
+  <card>
+    <question>Les recomiendo ...</question>
+    <answer>Я Вам (мн.ч.) рекомендую ...</answer>
+    <comment></comment>
+    <uuid>0fcf4ebc-620f-4fc1-b19c-0cca8c6b4f00</uuid>
+  </card>
+  <card>
+    <question>¿Qué nos recomienda de los platos de carne?</question>
+    <answer>Что вы можете порекомендовать из мясных блюд? (=Что вы нам рекомендуете ...)</answer>
+    <comment></comment>
+    <uuid>dc44c450-d9a2-4aa6-a183-700e73c83f04</uuid>
+  </card>
+  <card>
+    <question>¿Qué nos recomienda de los platos de pescado?</question>
+    <answer>Что вы можете порекомендовать из рыбных блюд? (=Что вы нам рекомендуете ...)</answer>
+    <comment></comment>
+    <uuid>d872851f-b046-47cb-ae4d-fbd0d8fbd2a9</uuid>
+  </card>
+  <card>
+    <question>¿Qué nos recomienda de postre?</question>
+    <answer>Что вы можете порекомендовать на десерт? (=Что вы нам рекомендуете ...)</answer>
+    <comment></comment>
+    <uuid>19fe8daa-7d4c-43ad-b1d4-4e66572952e7</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la especialidad de la casa?</question>
+    <answer>Какие у вас фирменные блюда?</answer>
+    <comment></comment>
+    <uuid>84a49b6b-4bb9-432d-a462-f80ed36c57bf</uuid>
+  </card>
+  <card>
+    <question>¿Qué platos nacionales tienen?</question>
+    <answer>Какие у вас национальные блюда?</answer>
+    <comment></comment>
+    <uuid>9b82a0a3-a86d-4be8-a80f-c9f96d18f11a</uuid>
+  </card>
+  <card>
+    <question>¿Qué ensaladas tienen?</question>
+    <answer>Какие у вас салаты?</answer>
+    <comment></comment>
+    <uuid>98ec60b9-3ce2-4079-a8ef-2669e098d73f</uuid>
+  </card>
+  <card>
+    <question>¿Qué verduras tienen?</question>
+    <answer>Какие у вас овощи?</answer>
+    <comment></comment>
+    <uuid>24e28646-f938-4fef-a5ca-56268e047739</uuid>
+  </card>
+  <card>
+    <question>¿Qué frutas tienen?</question>
+    <answer>Какие у вас фрукты?</answer>
+    <comment></comment>
+    <uuid>e82d1384-7b07-424b-b8f1-1231d539dcbc</uuid>
+  </card>
+  <card>
+    <question>Traígame mantequilla.</question>
+    <answer>Принесите мне (сливочное) масло.</answer>
+    <comment></comment>
+    <uuid>cfd0b8f9-1053-4ac6-a26f-535adf59b2a8</uuid>
+  </card>
+  <card>
+    <question>Traígame jamón.</question>
+    <answer>Принесите мне ветчину.</answer>
+    <comment></comment>
+    <uuid>2af9ea1e-cdc9-412f-ac05-766ad93d9f51</uuid>
+  </card>
+  <card>
+    <question>Traígame queso.</question>
+    <answer>Принесите мне сыр.</answer>
+    <comment></comment>
+    <uuid>980402bc-c786-475a-9063-c31cc6d40442</uuid>
+  </card>
+  <card>
+    <question>Traíganos mantequilla.</question>
+    <answer>Принесите нам (сливочное) масло.</answer>
+    <comment></comment>
+    <uuid>7fa371dc-d597-45be-9904-151daa032836</uuid>
+  </card>
+  <card>
+    <question>Traíganos jamón.</question>
+    <answer>Принесите нам ветчину.</answer>
+    <comment></comment>
+    <uuid>4b8d7900-e562-48b8-945a-5ea53df0bbcf</uuid>
+  </card>
+  <card>
+    <question>Traíganos queso.</question>
+    <answer>Принесите нам сыр.</answer>
+    <comment></comment>
+    <uuid>bf70314b-bb93-4acb-b4a9-8c96ab6d57ae</uuid>
+  </card>
+  <card>
+    <question>Para mí bisté.</question>
+    <answer>Мне бифштекс.</answer>
+    <comment></comment>
+    <uuid>6a52d5cf-0403-40e9-b8be-fbc74339bb6d</uuid>
+  </card>
+  <card>
+    <question>Para mí ternera.</question>
+    <answer>Мне телятину.</answer>
+    <comment></comment>
+    <uuid>30aad2ff-05d9-4fb8-87bd-9647669456b9</uuid>
+  </card>
+  <card>
+    <question>Me gusta el bisté poco hecho.</question>
+    <answer>Мне нравится бифштекс немного недожаренный.</answer>
+    <comment></comment>
+    <uuid>39a73c0e-b589-47ff-adfc-bed79dd2343c</uuid>
+  </card>
+  <card>
+    <question>Me gusta el bisté bien pasado.</question>
+    <answer>Мне нравится бифштекс хорошо прожаренный.</answer>
+    <comment></comment>
+    <uuid>cea542a1-c155-450a-acf4-de259b872bf9</uuid>
+  </card>
+  <card>
+    <question>Me gusta el vino dulce.</question>
+    <answer>Мне нравится сладкое вино.</answer>
+    <comment></comment>
+    <uuid>28093dc9-4d8e-4963-8bac-5a4754cac9e4</uuid>
+  </card>
+  <card>
+    <question>Me gusta el vino seco.</question>
+    <answer>Мне нравится сухое вино.</answer>
+    <comment></comment>
+    <uuid>10050d2c-6d70-4c90-a5bc-291ce956d3ff</uuid>
+  </card>
+  <card>
+    <question>¿Qué vino nos recomienda?</question>
+    <answer>Какое вино вы (нам) порекомендуете?</answer>
+    <comment></comment>
+    <uuid>e1228c50-d055-4eb5-ab41-95ed2bd6f0a7</uuid>
+  </card>
+  <card>
+    <question>Prefiero seco.</question>
+    <answer>Я предпочитаю сухое.</answer>
+    <comment></comment>
+    <uuid>2a142bd5-600d-4318-b5d3-1f5ec83e6862</uuid>
+  </card>
+  <card>
+    <question>Prefiero dulce.</question>
+    <answer>Я предпочитаю сладкое.</answer>
+    <comment></comment>
+    <uuid>d700b433-0cf6-4966-ae8f-980ec58404e9</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una botella de champán.</question>
+    <answer>Принесите, пожалуйста, бутылку шампанского.</answer>
+    <comment></comment>
+    <uuid>c25a7dab-ff16-414e-9e90-45a795599b4e</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una botella de vino seco.</question>
+    <answer>Принесите, пожалуйста, бутылку сухого вина.</answer>
+    <comment></comment>
+    <uuid>a7f9014a-ea48-49f1-bfb5-d46caa60f4b8</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una botella de cerveza.</question>
+    <answer>Принесите, пожалуйста, бутылку пива.</answer>
+    <comment></comment>
+    <uuid>9969ca14-4e42-423b-8f31-f98a10471aaa</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, una botella de agua mineral.</question>
+    <answer>Принесите, пожалуйста, бутылку минеральной воды.</answer>
+    <comment></comment>
+    <uuid>076d3cc8-fb5c-4062-9c4d-bef025e885d9</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un vaso de zumo de naranja.</question>
+    <answer>Принесите, пожалуйста, стакан апельсинового сока.</answer>
+    <comment></comment>
+    <uuid>f44aafd9-bf2d-4caa-b060-0b8d98e54cca</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un helado.</question>
+    <answer>Принесите, пожалуйста, мороженное.</answer>
+    <comment></comment>
+    <uuid>997bebfc-ad51-45aa-b7b4-43b4da0399d9</uuid>
+  </card>
+  <card>
+    <question>Traiga, por favor, un pastel.</question>
+    <answer>Принесите, пожалуйста, пирожное.</answer>
+    <comment></comment>
+    <uuid>4dc48f3f-6064-4ef5-ba0a-038a0bdd654a</uuid>
+  </card>
+  <card>
+    <question>Estoy a dieta.</question>
+    <answer>Я на диете.</answer>
+    <comment></comment>
+    <uuid>9ee3acf3-1674-415e-89ef-5560d542e215</uuid>
+  </card>
+  <card>
+    <question>¿Qué desea encargar?</question>
+    <answer>Что Вы хотите (=желаете) заказать?</answer>
+    <comment></comment>
+    <uuid>c6329982-4898-485d-bb89-c5ff4ec81f7f</uuid>
+  </card>
+  <card>
+    <question>¿Quiere probar platos nacionales?</question>
+    <answer>Хотите попробовать национальные блюда?</answer>
+    <comment></comment>
+    <uuid>64b51947-40dd-496a-a827-2dfc097c5897</uuid>
+  </card>
+  <card>
+    <question>¿Qué prefiere: carne, pescado o aves?</question>
+    <answer>Что Вы предпочитаете: мясо, рыбу или птицу?</answer>
+    <comment></comment>
+    <uuid>680d324d-a47e-4729-9b14-7521f6cf5e22</uuid>
+  </card>
+  <card>
+    <question>¿Qué va a beber?</question>
+    <answer>Что Вы будете пить?</answer>
+    <comment></comment>
+    <uuid>48a14661-cf70-40ca-80b5-7384055ddf19</uuid>
+  </card>
+  <card>
+    <question>¿Qué vas a beber?</question>
+    <answer>Что будешь пить?</answer>
+    <comment></comment>
+    <uuid>b01fb8f7-c519-48f3-b29a-f62e137218bf</uuid>
+  </card>
+  <card>
+    <question>¿Qué quiere de entrada?</question>
+    <answer>Что Вы возьмёте на закуску?</answer>
+    <comment></comment>
+    <uuid>96accd2f-fc1f-480a-ace0-c41f5aca94ec</uuid>
+  </card>
+  <card>
+    <question>¿Qué quieres de entrada?</question>
+    <answer>Что возьмёшь на закуску?</answer>
+    <comment></comment>
+    <uuid>63b94c07-8229-4463-a9c7-2da88ac1c841</uuid>
+  </card>
+  <card>
+    <question>¿Qué quiere de postre?</question>
+    <answer>Что Вы возьмёте на десерт?</answer>
+    <comment></comment>
+    <uuid>4becaf95-314d-4aca-9dd4-d8ffaf7901c6</uuid>
+  </card>
+  <card>
+    <question>¿Qué quieres de postre?</question>
+    <answer>Что ты возьмёшь на десерт?</answer>
+    <comment></comment>
+    <uuid>32e4bd7f-aaef-4155-b933-b55f3aad6d39</uuid>
+  </card>
+  <card>
+    <question>Voy a beber ...</question>
+    <answer>Я буду пить ...</answer>
+    <comment></comment>
+    <uuid>a1c085bc-c28f-4bd7-af3c-edee4f4949b4</uuid>
+  </card>
+  <card>
+    <question>No he pedido ésto.</question>
+    <answer>Я этого не заказывал (=не просил).</answer>
+    <comment></comment>
+    <uuid>d30a8caf-62e0-4852-8f4d-597f06844cc0</uuid>
+  </card>
+  <card>
+    <question>Pedí que me trajeran ...</question>
+    <answer>Я просил (мне) принести ...</answer>
+    <comment></comment>
+    <uuid>8b8868f8-9657-4df4-af81-b572a7cde301</uuid>
+  </card>
+  <card>
+    <question>¿Se puede cambiar ésto?</question>
+    <answer>Это можно заменить?</answer>
+    <comment></comment>
+    <uuid>986da919-8ced-4e7b-a80e-1d45030fb2b5</uuid>
+  </card>
+  <card>
+    <question>Por favor, avise al camarero.</question>
+    <answer>Пригласите, пожалуйста, официанта.</answer>
+    <comment></comment>
+    <uuid>7b367c5e-6036-4f47-9050-46349c4d402b</uuid>
+  </card>
+  <card>
+    <question>Por favor, avise al metre.</question>
+    <answer>Пригласите, пожалуйста, метрдотеля.</answer>
+    <comment></comment>
+    <uuid>5db6001d-1f70-440a-8d20-75d398305934</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta nuestra cocina?</question>
+    <answer>Вам нравится наша кухня?</answer>
+    <comment></comment>
+    <uuid>2aa4eeb8-d5ab-4b37-a13c-83642b4a0366</uuid>
+  </card>
+  <card>
+    <question>Me gusta la cocina de su país.</question>
+    <answer>Мне нравится ваша кухня. (=кухня вашей страны)</answer>
+    <comment></comment>
+    <uuid>595bb793-f889-487c-bda1-358817213788</uuid>
+  </card>
+  <card>
+    <question>Ha estado todo muy rico.</question>
+    <answer>(Все) Было очень вкусно.</answer>
+    <comment></comment>
+    <uuid>7b081c84-9cbb-41d3-bc90-e1d508d55abf</uuid>
+  </card>
+  <card>
+    <question>Está insípido.</question>
+    <answer>Это невкусно.</answer>
+    <comment></comment>
+    <uuid>1b3f6e52-7dec-4733-9aed-78a07e0c0bca</uuid>
+  </card>
+  <card>
+    <question>Está rico.</question>
+    <answer>Это вкусно.</answer>
+    <comment></comment>
+    <uuid>01ea5113-9270-454b-8268-ed6baca9d799</uuid>
+  </card>
+  <card>
+    <question>La cuenta, por favor.</question>
+    <answer>Счёт, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>8429a788-66d2-4c59-a64a-b26eb0091b2c</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta el pescado?</question>
+    <answer>Вы любите рыбные блюда?</answer>
+    <comment></comment>
+    <uuid>6a3f24b6-5b86-4ed2-82a6-cce5462d4fd2</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta la carne?</question>
+    <answer>Вы любите мясные блюда?</answer>
+    <comment></comment>
+    <uuid>2d943e63-2276-43e1-8b5f-80aec1811ea3</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta este vino?</question>
+    <answer>Вам нравится это вино?</answer>
+    <comment></comment>
+    <uuid>b753a556-bc6e-4d05-985c-cd2894e56d42</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta este asado?</question>
+    <answer>Вам нравится это жаркое?</answer>
+    <comment></comment>
+    <uuid>3289a485-06e4-4b1a-8b09-79f23ec960fc</uuid>
+  </card>
+  <card>
+    <question>¿Le gusta este plato?</question>
+    <answer>Вам нравится это блюдо?</answer>
+    <comment></comment>
+    <uuid>136307df-81af-4fec-b9ca-ed3e8d8d6c49</uuid>
+  </card>
+  <card>
+    <question>No como carne.</question>
+    <answer>Я не ем мясного.</answer>
+    <comment></comment>
+    <uuid>46d8f067-6d94-45f0-93e1-e07c5206ae32</uuid>
+  </card>
+  <card>
+    <question>No como productos lacteos.</question>
+    <answer>Я не ем молочного.</answer>
+    <comment></comment>
+    <uuid>2391c150-33ff-4064-a5d0-b1ce26c4c0e7</uuid>
+  </card>
+  <card>
+    <question>¡Buen provecho!</question>
+    <answer>Приятного аппетита!</answer>
+    <comment></comment>
+    <uuid>4ee2c15d-0e45-421b-af1b-52a008843b47</uuid>
+  </card>
+</cards>
+</stack>

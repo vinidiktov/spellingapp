@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>aa66eab3-c267-4dbe-8f5a-5cfd6cfd0497</uuid>
+  <title>Местоимения</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>él</question>
+    <answer>он</answer>
+    <comment></comment>
+    <uuid>200d0ee7-0986-40e8-8c0f-72345ad77233</uuid>
+  </card>
+  <card>
+    <question>yo</question>
+    <answer>я</answer>
+    <comment></comment>
+    <uuid>388c153d-12b2-4bec-b3e1-c831e0af66d8</uuid>
+  </card>
+  <card>
+    <question>lo</question>
+    <answer>оно</answer>
+    <comment></comment>
+    <uuid>f5752f96-d4e9-4785-ad46-b9c6ebd0ecc2</uuid>
+  </card>
+  <card>
+    <question>ella</question>
+    <answer>она</answer>
+    <comment></comment>
+    <uuid>ea06c610-8ff8-41d6-91a3-9eee0a8c199b</uuid>
+  </card>
+  <card>
+    <question>ellos</question>
+    <answer>они</answer>
+    <comment></comment>
+    <uuid>aa704960-2c32-4221-9e42-fdfaefe2adb3</uuid>
+  </card>
+  <card>
+    <question>nosotros</question>
+    <answer>мы</answer>
+    <comment></comment>
+    <uuid>be3022cf-152c-4bbd-9c5a-2b9c71ce5798</uuid>
+  </card>
+  <card>
+    <question>usted</question>
+    <answer>ты, вы</answer>
+    <comment></comment>
+    <uuid>3199a642-0c4d-438e-a37b-dc342f675331</uuid>
+  </card>
+</cards>
+</stack>

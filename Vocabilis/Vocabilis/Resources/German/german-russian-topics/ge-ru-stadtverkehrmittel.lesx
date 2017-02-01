@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1fe28422-3d46-4387-81ee-403bf310ef58</uuid>
+  <title>Городской транспорт</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>aussteigen</question>
+    <answer>выходить</answer>
+    <comment></comment>
+    <uuid>7b69f8cc-da86-4d8a-a0c5-681c4bed235f</uuid>
+  </card>
+  <card>
+    <question>Bitte die Fahrausweise!</question>
+    <answer>Пожалуйста, предъявите билеты!</answer>
+    <comment></comment>
+    <uuid>c60792e1-8147-4b23-94e6-831d3cc0d593</uuid>
+  </card>
+  <card>
+    <question>der Bus</question>
+    <answer>автобус</answer>
+    <comment></comment>
+    <uuid>0c6a4f61-c9bd-425a-becd-396df42920b6</uuid>
+  </card>
+  <card>
+    <question>der Entwerter</question>
+    <answer>компостер</answer>
+    <comment></comment>
+    <uuid>1504bc81-1a5d-4a1d-8ae8-f2224f9bf330</uuid>
+  </card>
+  <card>
+    <question>der Fahrausweis</question>
+    <answer>проездной билет</answer>
+    <comment></comment>
+    <uuid>0c042ca5-2594-49ae-bebe-fe74b855f33d</uuid>
+  </card>
+  <card>
+    <question>der Fahrschein</question>
+    <answer>билет</answer>
+    <comment></comment>
+    <uuid>6eca9f23-ef9e-420d-bbfb-08b8afb6fe64</uuid>
+  </card>
+  <card>
+    <question>der Kontrolleur</question>
+    <answer>контролер</answer>
+    <comment></comment>
+    <uuid>b1b59c31-70d8-40bc-87f5-faf7a00b23b5</uuid>
+  </card>
+  <card>
+    <question>Der nächste Bus fährt zum Bahnhof.</question>
+    <answer>Следующий автобус идет к вокзалу.</answer>
+    <comment></comment>
+    <uuid>edde642b-8c8b-436c-89e5-04c957e04ce1</uuid>
+  </card>
+  <card>
+    <question>der U-Bahn-Plan</question>
+    <answer>план метро</answer>
+    <comment></comment>
+    <uuid>f890ce7f-2a17-4abf-a983-86ddbf020b98</uuid>
+  </card>
+  <card>
+    <question>die Endstation</question>
+    <answer>конечная станция</answer>
+    <comment></comment>
+    <uuid>6b7cc9e4-4746-4372-bd1b-e44d07acb6e6</uuid>
+  </card>
+  <card>
+    <question>die Fahrkarte in den Entwerter stecken</question>
+    <answer>прокомпостировать билет</answer>
+    <comment></comment>
+    <uuid>838bca70-b0aa-4914-9ac3-d375f157b197</uuid>
+  </card>
+  <card>
+    <question>die Haltestelle</question>
+    <answer>остановка</answer>
+    <comment></comment>
+    <uuid>e29080b8-77c9-49f5-b6d7-56de11b2123e</uuid>
+  </card>
+  <card>
+    <question>die Kontrolle</question>
+    <answer>контроль</answer>
+    <comment></comment>
+    <uuid>246f8179-3b8b-4cda-a67f-2ed527324a6c</uuid>
+  </card>
+  <card>
+    <question>die Linie</question>
+    <answer>линия</answer>
+    <comment></comment>
+    <uuid>1f149f82-ed15-4c4a-8b68-b519bfe0f51f</uuid>
+  </card>
+  <card>
+    <question>Die Linie 10.</question>
+    <answer>Линия 10.</answer>
+    <comment></comment>
+    <uuid>c50b2d00-f05d-4b83-979e-735e334909b5</uuid>
+  </card>
+  <card>
+    <question>die Monatskarte</question>
+    <answer>месячный билет</answer>
+    <comment></comment>
+    <uuid>4753d15a-90a6-4d0f-9604-9c2e9a71ef22</uuid>
+  </card>
+  <card>
+    <question>die Richtung</question>
+    <answer>направление</answer>
+    <comment></comment>
+    <uuid>1d9dcbce-7d96-473c-a44b-0ac964b85182</uuid>
+  </card>
+  <card>
+    <question>die S-Bahn</question>
+    <answer>электричка</answer>
+    <comment></comment>
+    <uuid>7201dcb3-bd98-42a8-9f19-2dc3b1e60640</uuid>
+  </card>
+  <card>
+    <question>die Station</question>
+    <answer>станция</answer>
+    <comment></comment>
+    <uuid>857ad4b6-52f2-4377-9577-2979ac843bf2</uuid>
+  </card>
+  <card>
+    <question>die Straßenbahn</question>
+    <answer>трамвай</answer>
+    <comment></comment>
+    <uuid>c04024a2-5631-4341-9d7b-3de6145fcfd7</uuid>
+  </card>
+  <card>
+    <question>die U-Bahn</question>
+    <answer>метро</answer>
+    <comment></comment>
+    <uuid>f634ebdc-53ad-4f45-ad25-6180185ea790</uuid>
+  </card>
+  <card>
+    <question>einsteigen</question>
+    <answer>садиться (в транспорт)</answer>
+    <comment></comment>
+    <uuid>07520b1f-5c23-4370-9e57-a480a7242849</uuid>
+  </card>
+  <card>
+    <question>Fahren Sie mir der Linie 3.</question>
+    <answer>Поезжайте автобусом номер 3.</answer>
+    <comment></comment>
+    <uuid>368f7084-7e6d-4598-86f5-ef454754905c</uuid>
+  </card>
+  <card>
+    <question>Fährt dieser Bus nach Schöneberg?</question>
+    <answer>Этот автобус идет в Шенеберг?</answer>
+    <comment></comment>
+    <uuid>543d7b4e-f5ce-4694-b8f1-913eb1ec2fa5</uuid>
+  </card>
+  <card>
+    <question>Fährt dieser Bus zum Bahnhof?</question>
+    <answer>Этот автобус идет к вокзалу?</answer>
+    <comment></comment>
+    <uuid>f9a77908-9730-48d5-a680-9d5c14b4b6cd</uuid>
+  </card>
+  <card>
+    <question>Ich möchte einen U-Bahn-Plan.</question>
+    <answer>Я хотел бы план метро.</answer>
+    <comment></comment>
+    <uuid>c2979ba3-f709-43cd-9202-fea44269cd4e</uuid>
+  </card>
+  <card>
+    <question>Ich möchte zum Rathaus, wo muß ich umsteigen?</question>
+    <answer>Мне нужна ратуша, где мне сделать пересадку?</answer>
+    <comment></comment>
+    <uuid>03c51b99-0545-49df-9d1e-362ca29bdb86</uuid>
+  </card>
+  <card>
+    <question>INFORMATION</question>
+    <answer>справочное бюро, справка</answer>
+    <comment></comment>
+    <uuid>457eac78-9fae-4f8f-a946-bbe95efc36d8</uuid>
+  </card>
+  <card>
+    <question>K?nnen Sie mir helfen, ich möchte zum Alexanderplatz.</question>
+    <answer>Вы мне можете помочь, мне нужно к Александрплац.</answer>
+    <comment></comment>
+    <uuid>742a90e7-e18c-4bba-af8c-b45c070bfb6d</uuid>
+  </card>
+  <card>
+    <question>Sie müssen an der nächsten Haltestelle aussteigen.</question>
+    <answer>Вы должны выйти на следующей остановке.</answer>
+    <comment></comment>
+    <uuid>918eef31-ce67-4a7e-a270-bafff185b739</uuid>
+  </card>
+  <card>
+    <question>Steigen Sie ein.</question>
+    <answer>Садитесь (в автобус).</answer>
+    <comment></comment>
+    <uuid>59864ae8-edd4-44e6-94cc-39d70a27ce46</uuid>
+  </card>
+  <card>
+    <question>umsteigen</question>
+    <answer>делать пересадку</answer>
+    <comment></comment>
+    <uuid>2d3f7731-10b5-43b9-ac72-9b88929e396e</uuid>
+  </card>
+  <card>
+    <question>Welcher Bus fährt zum Bahnhof?</question>
+    <answer>Какой автобус идет к вокзалу?</answer>
+    <comment></comment>
+    <uuid>cb693c4d-d9e7-4bc6-b29a-6c5fe15819eb</uuid>
+  </card>
+</cards>
+</stack>

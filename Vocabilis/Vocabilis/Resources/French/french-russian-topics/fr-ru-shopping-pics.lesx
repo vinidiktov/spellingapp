@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>98ad166a-0dd9-4cfe-b1dd-83a6939cfd58</uuid>
+  <title>Покупки</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>les billets de banque</question>
+    <answer>банкнота, купюра</answer>
+    <comment></comment>
+    <answer_picture>bank_notes.gif</answer_picture>
+    <uuid>e3fee18d-bcd0-4098-b3f1-654115e91c31</uuid>
+  </card>
+  <card>
+    <question>marchander</question>
+    <answer>торговаться</answer>
+    <comment></comment>
+    <answer_picture>bargain.gif</answer_picture>
+    <uuid>73bba582-ad88-40a5-bee1-14505370b012</uuid>
+  </card>
+  <card>
+    <question>acheter</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <answer_picture>buy.gif</answer_picture>
+    <uuid>c5bca8fc-d529-4fef-845c-a89d3e646485</uuid>
+  </card>
+  <card>
+    <question>le caissier</question>
+    <answer>кассир</answer>
+    <comment></comment>
+    <answer_picture>cashier.gif</answer_picture>
+    <uuid>a85269e5-5cea-475c-a356-f288926e50b7</uuid>
+  </card>
+  <card>
+    <question>la caisse</question>
+    <answer>кассовый аппарат</answer>
+    <comment></comment>
+    <answer_picture>cash_register.gif</answer_picture>
+    <uuid>2b391db5-6d72-4e36-a140-2f802b414e90</uuid>
+  </card>
+  <card>
+    <question>bon marché</question>
+    <answer>дешёвый</answer>
+    <comment></comment>
+    <answer_picture>cheap.gif</answer_picture>
+    <uuid>aa92a770-3474-4a1c-82b4-1e04a80bb759</uuid>
+  </card>
+  <card>
+    <question>les pièces de monnaie</question>
+    <answer>монеты</answer>
+    <comment></comment>
+    <answer_picture>coins.gif</answer_picture>
+    <uuid>9c41a36c-179a-4586-8f81-80b62ed7f034</uuid>
+  </card>
+  <card>
+    <question>la carte de crédit</question>
+    <answer>кредитная карта</answer>
+    <comment></comment>
+    <answer_picture>credit_card.gif</answer_picture>
+    <uuid>d2a9a084-dfa5-4183-864d-78b897824271</uuid>
+  </card>
+  <card>
+    <question>cher</question>
+    <answer>дорогой</answer>
+    <comment></comment>
+    <answer_picture>expensive.gif</answer_picture>
+    <uuid>3f08ab13-3474-4576-82ae-18fe67a3c5bd</uuid>
+  </card>
+  <card>
+    <question>le centre commercial</question>
+    <answer>торговый комплекс</answer>
+    <comment></comment>
+    <answer_picture>mall.gif</answer_picture>
+    <uuid>69773eca-4af2-41f6-a2ed-0f8a26a3cda7</uuid>
+  </card>
+  <card>
+    <question>l&apos;argent</question>
+    <answer>деньги</answer>
+    <comment></comment>
+    <answer_picture>money.gif</answer_picture>
+    <uuid>d0e1e21b-32d5-4bbc-b78a-238ee8e1c743</uuid>
+  </card>
+  <card>
+    <question>payer</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <answer_picture>pay.gif</answer_picture>
+    <uuid>b18e0f08-0697-42b8-b891-bd75499e2843</uuid>
+  </card>
+  <card>
+    <question>le ticket de caisse</question>
+    <answer>кассовый чек</answer>
+    <comment></comment>
+    <answer_picture>receipt.gif</answer_picture>
+    <uuid>4a5180ba-1d2d-40b5-917e-ebb2c0697692</uuid>
+  </card>
+  <card>
+    <question>la vente</question>
+    <answer>распродажа</answer>
+    <comment></comment>
+    <answer_picture>sale.gif</answer_picture>
+    <uuid>4d129330-15e6-4bc3-bd0b-c2152b65cd41</uuid>
+  </card>
+  <card>
+    <question>vendre</question>
+    <answer>продавать</answer>
+    <comment></comment>
+    <answer_picture>sell.gif</answer_picture>
+    <uuid>f8d90d88-2b37-480e-aab7-c6e0a1e4430b</uuid>
+  </card>
+  <card>
+    <question>le chariot</question>
+    <answer>тележка</answer>
+    <comment></comment>
+    <answer_picture>trolley.gif</answer_picture>
+    <uuid>35f00cc2-32e3-45cb-887c-b1b2291694ef</uuid>
+  </card>
+</cards>
+</stack>

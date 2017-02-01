@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7b354561-5cd2-408f-a5d8-c882671c20a5</uuid>
+  <title>Обмен валюты</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>1000 Mark in Dollar wechseln</question>
+    <answer>обменять 100 марок на доллары</answer>
+    <comment></comment>
+    <uuid>46f688db-682b-408d-9544-972fdc45d666</uuid>
+  </card>
+  <card>
+    <question>Bitte, unterschreiben Sie hier.</question>
+    <answer>Пожалуйста, подпишите здесь.</answer>
+    <comment></comment>
+    <uuid>20ab8f2a-945d-4cd5-abf5-a6c108480fec</uuid>
+  </card>
+  <card>
+    <question>das ausländische Geld</question>
+    <answer>иностранная валюта</answer>
+    <comment></comment>
+    <uuid>c677e001-702c-4a55-b7cb-ae42ada9f955</uuid>
+  </card>
+  <card>
+    <question>das Geld</question>
+    <answer>деньги</answer>
+    <comment></comment>
+    <uuid>d0ed3a4b-001a-4c61-9047-b8fb8012dbc5</uuid>
+  </card>
+  <card>
+    <question>das Portemonnaie</question>
+    <answer>кошелек</answer>
+    <comment></comment>
+    <uuid>c878e088-7121-4ca0-bb86-5e2732f46fcb</uuid>
+  </card>
+  <card>
+    <question>der Euro-Scheck</question>
+    <answer>еврочек (для безналичной оплаты в странах Европы)</answer>
+    <comment></comment>
+    <uuid>f7561290-00ce-41a2-9984-f2b40b10b457</uuid>
+  </card>
+  <card>
+    <question>der Geldwechsel</question>
+    <answer>размен денег, обмен денег</answer>
+    <comment></comment>
+    <uuid>d0d458af-9806-42a8-a2cd-cae0ee455157</uuid>
+  </card>
+  <card>
+    <question>der Pfennig</question>
+    <answer>пфенниг</answer>
+    <comment></comment>
+    <uuid>30ce6e65-2bb7-4085-b23e-fd1a5c8977a4</uuid>
+  </card>
+  <card>
+    <question>der Reisescheck</question>
+    <answer>дорожный чек</answer>
+    <comment></comment>
+    <uuid>6d08cd97-729d-49c4-ade9-c797dd7336e3</uuid>
+  </card>
+  <card>
+    <question>der Wechselkurs</question>
+    <answer>курс обмена</answer>
+    <comment></comment>
+    <uuid>ceb019f1-3751-45f6-bdda-7664ad873986</uuid>
+  </card>
+  <card>
+    <question>die Brieftasche</question>
+    <answer>бумажник</answer>
+    <comment></comment>
+    <uuid>346f75c2-dcd9-4457-9ba6-ad9ba23ec9eb</uuid>
+  </card>
+  <card>
+    <question>die Deutsche Mark</question>
+    <answer>немецкая марка</answer>
+    <comment></comment>
+    <uuid>368b3d46-b65e-4c4e-864c-abc8e91af6e8</uuid>
+  </card>
+  <card>
+    <question>die Devisen</question>
+    <answer>валюта</answer>
+    <comment></comment>
+    <uuid>e1eb2cff-3cdf-44e5-aa7b-492dab59f912</uuid>
+  </card>
+  <card>
+    <question>die Kreditkarte</question>
+    <answer>кредитная карточка</answer>
+    <comment></comment>
+    <uuid>e23e792b-0f3f-48da-8688-6dbacbca1917</uuid>
+  </card>
+  <card>
+    <question>die Mark</question>
+    <answer>марка</answer>
+    <comment></comment>
+    <uuid>bb2b3329-7e85-4150-8b2b-6da17bca3c39</uuid>
+  </card>
+  <card>
+    <question>die Sorten</question>
+    <answer>валюта</answer>
+    <comment></comment>
+    <uuid>73a141d1-1adf-4025-988e-13f602b40f4e</uuid>
+  </card>
+  <card>
+    <question>die Wechselstube</question>
+    <answer>пункт обмена валюты</answer>
+    <comment></comment>
+    <uuid>d22af044-0da6-4ec2-ac96-27fc2d82611e</uuid>
+  </card>
+  <card>
+    <question>Hundert Mark</question>
+    <answer>100 марок</answer>
+    <comment></comment>
+    <uuid>6946cf7e-90bd-4efe-ab3a-28d7aba93577</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Geld wechseln.</question>
+    <answer>Я хотел бы обменять деньги.</answer>
+    <comment></comment>
+    <uuid>b4ba8a0c-c055-49f2-82ed-2da67426af4d</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Reiseschecks bestellen.</question>
+    <answer>Я хотел бы заказать дорожные чеки.</answer>
+    <comment></comment>
+    <uuid>6e985ffa-61d4-44a8-9820-3ac75277368a</uuid>
+  </card>
+  <card>
+    <question>Kann man hier Geld wechseln?</question>
+    <answer>Можно здесь обменять деньги?</answer>
+    <comment></comment>
+    <uuid>e4f06457-7a98-4e78-9a8d-a7bc97613fe2</uuid>
+  </card>
+  <card>
+    <question>Wie ist der Kurs des Dollars?</question>
+    <answer>Какой курс доллара?</answer>
+    <comment></comment>
+    <uuid>aac3519e-2938-412c-a197-78948b8e2ff8</uuid>
+  </card>
+  <card>
+    <question>Zehn Mark</question>
+    <answer>10 марок</answer>
+    <comment></comment>
+    <uuid>2486de5d-dd98-48d3-b28e-ffd0faf84d28</uuid>
+  </card>
+</cards>
+</stack>

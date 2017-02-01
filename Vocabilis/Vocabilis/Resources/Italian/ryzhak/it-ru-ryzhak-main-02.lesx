@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ccef46a1-dc71-4d30-b2e9-1ed801d790d6</uuid>
+  <title>Рыжак. Основной урок 2</title>
+  <author>Екатерина Андреева</author>
+  <date>
+     <year>2016</year>
+     <month>9</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>ita</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>ho</question>
+    <answer>я имею</answer>
+    <comment></comment>
+    <uuid>17ae7416-3024-4906-9b81-4ba8fb7f353f</uuid>
+  </card>
+  <card>
+    <question>hai</question>
+    <answer>ты имеешь</answer>
+    <comment></comment>
+    <uuid>97b1335a-6622-4798-9fbc-2b7863e668ba</uuid>
+  </card>
+  <card>
+    <question>ha</question>
+    <answer>он, она имеет; Вы (Lei) имеете</answer>
+    <comment></comment>
+    <uuid>effb086e-e868-48b4-9c13-cd999cf13fd5</uuid>
+  </card>
+  <card>
+    <question>abbiamo</question>
+    <answer>мы имеем</answer>
+    <comment></comment>
+    <uuid>7bd82a86-d2b9-4abf-b0a6-042db454f672</uuid>
+  </card>
+  <card>
+    <question>avete</question>
+    <answer>вы имеете (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>e9f71507-53d0-4434-8e7f-15bcf1ea8fb1</uuid>
+  </card>
+  <card>
+    <question>hanno</question>
+    <answer>они имеют; Вы (Loro) имеете</answer>
+    <comment></comment>
+    <uuid>b47e259d-7f51-493e-81fa-6f3d7c0c79d2</uuid>
+  </card>
+  <card>
+    <question>mio</question>
+    <answer>мой</answer>
+    <comment></comment>
+    <uuid>d695c2c6-3f39-4f73-94a0-6b1bb367304d</uuid>
+  </card>
+  <card>
+    <question>tuo</question>
+    <answer>твой</answer>
+    <comment></comment>
+    <uuid>eed156be-2daa-4aef-9840-e47c0544a971</uuid>
+  </card>
+  <card>
+    <question>suo</question>
+    <answer>его, её, Ваш</answer>
+    <comment></comment>
+    <uuid>62eac5f7-4801-4ab8-a422-ddec5989bb91</uuid>
+  </card>
+  <card>
+    <question>nostro</question>
+    <answer>наш</answer>
+    <comment></comment>
+    <uuid>5a783c10-cc48-4935-89f8-bf3d20f6314a</uuid>
+  </card>
+  <card>
+    <question>vostro</question>
+    <answer>ваш</answer>
+    <comment></comment>
+    <uuid>010e14ce-b7de-463f-9435-c86b1ffd3186</uuid>
+  </card>
+  <card>
+    <question>loro</question>
+    <answer>их</answer>
+    <comment></comment>
+    <uuid>8016ffb0-eeda-4c8f-bf8e-c026fdd146d9</uuid>
+  </card>
+  <card>
+    <question>mia</question>
+    <answer>моя</answer>
+    <comment></comment>
+    <uuid>cb1ce433-8d6d-41df-8771-c06afcf3651d</uuid>
+  </card>
+  <card>
+    <question>tua</question>
+    <answer>твоя</answer>
+    <comment></comment>
+    <uuid>f80dbc5f-7456-4319-8b85-c26d312e2e4e</uuid>
+  </card>
+  <card>
+    <question>sua</question>
+    <answer>его, её, Ваша</answer>
+    <comment></comment>
+    <uuid>51c0594b-0ee4-4807-b8a2-4ba4260785c5</uuid>
+  </card>
+  <card>
+    <question>nostra</question>
+    <answer>наша</answer>
+    <comment></comment>
+    <uuid>c83384b5-849f-4433-8e82-1c5088e8edd9</uuid>
+  </card>
+  <card>
+    <question>vostra</question>
+    <answer>ваша</answer>
+    <comment></comment>
+    <uuid>77fdb349-852d-4648-b775-a7c8179f68a1</uuid>
+  </card>
+  <card>
+    <question>miei</question>
+    <answer>мои</answer>
+    <comment></comment>
+    <question_comment>м. р, мн. ч.</question_comment>
+    <uuid>db704bf9-b1fa-49cb-8887-70a8668ac1e4</uuid>
+  </card>
+  <card>
+    <question>tuoi</question>
+    <answer>твои</answer>
+    <comment></comment>
+    <question_comment>м. р, мн. ч.</question_comment>
+    <uuid>f791f0f1-09de-41d7-a94b-e077c534c90a</uuid>
+  </card>
+  <card>
+    <question>suoi</question>
+    <answer>его, её, Ваши</answer>
+    <comment></comment>
+    <question_comment>м. р, мн. ч.</question_comment>
+    <uuid>20dce8b0-c1f2-46f6-9190-911b5c8ca533</uuid>
+  </card>
+  <card>
+    <question>nostri</question>
+    <answer>наши</answer>
+    <comment></comment>
+    <question_comment>м. р, мн. ч.</question_comment>
+    <uuid>15882f88-71d0-4eab-bfb0-82fc847f9c49</uuid>
+  </card>
+  <card>
+    <question>vostri</question>
+    <answer>ваши</answer>
+    <comment></comment>
+    <question_comment>м. р, мн. ч.</question_comment>
+    <uuid>c1a0b87c-32ba-4b86-83b2-03a1e75af1ef</uuid>
+  </card>
+  <card>
+    <question>mie</question>
+    <answer>мои</answer>
+    <comment></comment>
+    <question_comment>ж.р, мн. ч</question_comment>
+    <uuid>a61b7339-099b-49b9-9826-025d739cdb82</uuid>
+  </card>
+  <card>
+    <question>tue</question>
+    <answer>твои</answer>
+    <comment></comment>
+    <question_comment>ж.р, мн. ч</question_comment>
+    <uuid>1492426c-095f-4c57-a057-5a36f6671bce</uuid>
+  </card>
+  <card>
+    <question>sue</question>
+    <answer>его, её, Ваши</answer>
+    <comment></comment>
+    <question_comment>ж.р, мн. ч</question_comment>
+    <uuid>28c63aca-39c0-43c1-8b71-37e4070c346a</uuid>
+  </card>
+  <card>
+    <question>nostre</question>
+    <answer>наши</answer>
+    <comment></comment>
+    <question_comment>ж.р, мн. ч</question_comment>
+    <uuid>3a10f802-bd48-45b7-a5db-7977c222ab98</uuid>
+  </card>
+  <card>
+    <question>vostre</question>
+    <answer>ваши</answer>
+    <comment></comment>
+    <question_comment>ж.р, мн. ч</question_comment>
+    <uuid>ae2e9c40-446b-40c4-941a-cac04d569897</uuid>
+  </card>
+  <card>
+    <question>mio padre</question>
+    <answer>мой отец</answer>
+    <comment></comment>
+    <uuid>a0f931b0-d4f1-4cfc-9c8d-4b7da4129f73</uuid>
+  </card>
+  <card>
+    <question>mia madre</question>
+    <answer>моя мать</answer>
+    <comment></comment>
+    <uuid>0f43b4bf-d42e-4330-b439-f2124e5573ef</uuid>
+  </card>
+  <card>
+    <question>mia zia</question>
+    <answer>моя тётя</answer>
+    <comment></comment>
+    <uuid>9c1f0568-b06b-4cc3-8dab-269883ae0f2e</uuid>
+  </card>
+  <card>
+    <question>la mia sorellina</question>
+    <answer>моя сестрёнка</answer>
+    <comment></comment>
+    <uuid>3d03c4d3-2d99-451b-92c3-288b0468de45</uuid>
+  </card>
+  <card>
+    <question>papà</question>
+    <answer>папа (= babbo)</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>aed60b9d-e478-4706-b2ea-5cbd050315bf</uuid>
+  </card>
+  <card>
+    <question>babbo</question>
+    <answer>папа (= papà)</answer>
+    <comment></comment>
+    <uuid>3bb617fd-3001-49f6-be30-a9ddc640442e</uuid>
+  </card>
+  <card>
+    <question>mamma</question>
+    <answer>мама</answer>
+    <comment></comment>
+    <uuid>184fe514-8a72-4f80-a198-940b2fc9e643</uuid>
+  </card>
+  <card>
+    <question>le mie zie</question>
+    <answer>мои тёти</answer>
+    <comment></comment>
+    <uuid>b5031033-097d-44c0-9b33-e710748b92c2</uuid>
+  </card>
+  <card>
+    <question>la loro sorella</question>
+    <answer>их сестра</answer>
+    <comment></comment>
+    <uuid>379e0c7c-8f82-476c-910e-49202490ace0</uuid>
+  </card>
+  <card>
+    <question>sorella</question>
+    <answer>сестра</answer>
+    <comment></comment>
+    <uuid>507820c1-409b-4321-870d-ca94ef4084b3</uuid>
+  </card>
+  <card>
+    <question>maggiore</question>
+    <answer>старший</answer>
+    <comment></comment>
+    <uuid>3124692e-7e1a-48ca-9fb0-8bf677009831</uuid>
+  </card>
+  <card>
+    <question>minore</question>
+    <answer>младший</answer>
+    <comment></comment>
+    <uuid>ba51706a-fde5-4ecf-969b-22bc4ca0624e</uuid>
+  </card>
+  <card>
+    <question>marito</question>
+    <answer>муж</answer>
+    <comment></comment>
+    <uuid>f2ec447c-6b9c-4d4e-9f0c-a2b3bcc26a32</uuid>
+  </card>
+  <card>
+    <question>sposato, sposata</question>
+    <answer>женат, замужем</answer>
+    <comment></comment>
+    <uuid>e907dffe-ba5e-4952-9fa5-143af99212d2</uuid>
+  </card>
+  <card>
+    <question>soltanto</question>
+    <answer>только</answer>
+    <comment></comment>
+    <uuid>016f84b1-a296-4faa-95e3-b18ce08f4100</uuid>
+  </card>
+  <card>
+    <question>figlio</question>
+    <answer>сын</answer>
+    <comment></comment>
+    <uuid>178fb78e-24d4-4c9f-b485-b2bf9f09f81b</uuid>
+  </card>
+  <card>
+    <question>figlia</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <uuid>25989816-ef88-46f4-9609-2f3f43e90b83</uuid>
+  </card>
+  <card>
+    <question>adesso</question>
+    <answer>сейчас</answer>
+    <comment></comment>
+    <uuid>00d5cdd2-f493-41ee-b7f1-26ecbee73d5b</uuid>
+  </card>
+  <card>
+    <question>per i motivi di lavoro</question>
+    <answer>по работе</answer>
+    <comment></comment>
+    <uuid>6f9060d5-251c-4f5f-a7fe-922663e5d5c2</uuid>
+  </card>
+  <card>
+    <question>genitori</question>
+    <answer>родители</answer>
+    <comment></comment>
+    <question_comment>m, pl</question_comment>
+    <uuid>19485d5e-581b-443d-b9f3-0a23b06ef505</uuid>
+  </card>
+  <card>
+    <question>nonno</question>
+    <answer>дедушка</answer>
+    <comment></comment>
+    <uuid>82d2d2b7-d65a-49ae-a48a-046eb984ec89</uuid>
+  </card>
+  <card>
+    <question>nonna</question>
+    <answer>бабушка</answer>
+    <comment></comment>
+    <uuid>1fb7f52b-8a50-4396-80fd-7fba8486c519</uuid>
+  </card>
+  <card>
+    <question>zio</question>
+    <answer>дядя</answer>
+    <comment></comment>
+    <uuid>b1c9a723-9717-467b-90e2-b3644999d43a</uuid>
+  </card>
+  <card>
+    <question>molto lieto</question>
+    <answer>очень приятно</answer>
+    <comment></comment>
+    <uuid>ef6962e9-3ed5-4123-8230-e880224d3078</uuid>
+  </card>
+  <card>
+    <question>professore</question>
+    <answer>преподаватель (средней и высшей школы)</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>b92cc4bf-3f8d-4097-8075-32213805f738</uuid>
+  </card>
+  <card>
+    <question>mi scusi</question>
+    <answer>извините</answer>
+    <comment></comment>
+    <uuid>c39113e5-843e-4278-b19e-f37c46cf7d92</uuid>
+  </card>
+  <card>
+    <question>nome</question>
+    <answer>имя</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>179f9a28-7579-4272-bc34-1e6a32877207</uuid>
+  </card>
+  <card>
+    <question>memoria</question>
+    <answer>память</answer>
+    <comment></comment>
+    <uuid>350a1b2b-60fa-417c-8d1e-975fec69e30e</uuid>
+  </card>
+  <card>
+    <question>certamente</question>
+    <answer>конечно</answer>
+    <comment></comment>
+    <uuid>9164553a-c820-47b9-a4e3-78b95f7f5b26</uuid>
+  </card>
+  <card>
+    <question>si accomodi</question>
+    <answer>располагайтесь</answer>
+    <comment></comment>
+    <uuid>2015c4f8-f32a-43c2-9c81-902379b2543e</uuid>
+  </card>
+  <card>
+    <question>mille grazie</question>
+    <answer>большое спасибо</answer>
+    <comment></comment>
+    <uuid>2ba77459-8495-455f-a3d4-578a4c0545a1</uuid>
+  </card>
+  <card>
+    <question>gentile</question>
+    <answer>вежливый</answer>
+    <comment></comment>
+    <uuid>bb0b792a-112f-4837-b512-91a9055704bc</uuid>
+  </card>
+  <card>
+    <question>purtroppo</question>
+    <answer>к сожалению</answer>
+    <comment></comment>
+    <uuid>fc8cfc80-1793-4f3b-b323-47fc96e619f0</uuid>
+  </card>
+  <card>
+    <question>essere contento di</question>
+    <answer>быть довольным (кем-то, чем-то)</answer>
+    <comment></comment>
+    <uuid>1f713278-390c-4a3e-b05f-89b6b16a9fc1</uuid>
+  </card>
+  <card>
+    <question>bravo</question>
+    <answer>молодец, умница</answer>
+    <comment></comment>
+    <uuid>28792c46-53b7-4692-9742-828037b89173</uuid>
+  </card>
+  <card>
+    <question>pigro</question>
+    <answer>ленивый</answer>
+    <comment></comment>
+    <uuid>b0680570-6ed2-49f2-876f-fb56f2af7532</uuid>
+  </card>
+  <card>
+    <question>spesso</question>
+    <answer>часто</answer>
+    <comment></comment>
+    <uuid>a977db34-c893-4dc2-8998-cd7cbbc90284</uuid>
+  </card>
+  <card>
+    <question>assente</question>
+    <answer>отсутствующий</answer>
+    <comment></comment>
+    <uuid>b18ec20e-da64-425f-947a-98c8133f69b5</uuid>
+  </card>
+  <card>
+    <question>ogni</question>
+    <answer>всякий, каждый</answer>
+    <comment></comment>
+    <uuid>18627902-81ee-4585-b27b-92c181f448f2</uuid>
+  </card>
+  <card>
+    <question>scuola</question>
+    <answer>школа</answer>
+    <comment></comment>
+    <uuid>781fa738-ba93-45f7-88af-84ffc53912c6</uuid>
+  </card>
+  <card>
+    <question>davvero</question>
+    <answer>действительно</answer>
+    <comment></comment>
+    <uuid>5da32deb-6572-470f-9907-d5fea5c425e2</uuid>
+  </card>
+  <card>
+    <question>così</question>
+    <answer>так</answer>
+    <comment></comment>
+    <uuid>9ef647c2-1db6-40bb-b5cd-bc44255d1b12</uuid>
+  </card>
+  <card>
+    <question>carattere</question>
+    <answer>характер</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>f847bc23-98b3-4055-b742-ccbc9ab163d1</uuid>
+  </card>
+  <card>
+    <question>problema</question>
+    <answer>проблема</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>cf16f881-e5c8-4fb9-9bd7-32fef5452502</uuid>
+  </card>
+  <card>
+    <question>maestro, maestra</question>
+    <answer>учитель (учительница) начальной школы</answer>
+    <comment></comment>
+    <uuid>46fd48ad-c1f8-499d-b9d6-dafeb2be0eb6</uuid>
+  </card>
+  <card>
+    <question>signora</question>
+    <answer>замужняя женщина</answer>
+    <comment></comment>
+    <uuid>bf8341f6-548b-48a0-a696-00948351c80c</uuid>
+  </card>
+  <card>
+    <question>signorina</question>
+    <answer>девушка, незамужняя женщина</answer>
+    <comment></comment>
+    <uuid>ca843a47-789c-492d-93a1-d4069b521846</uuid>
+  </card>
+</cards>
+</stack>

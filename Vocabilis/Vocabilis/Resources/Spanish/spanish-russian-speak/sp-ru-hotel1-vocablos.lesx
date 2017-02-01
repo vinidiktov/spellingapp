@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ed3fc082-fc71-4012-af65-b22c33b0e8b7</uuid>
+  <title>Гостиница :: Оформление номера :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>alojamiento</question>
+    <answer>оформление номера</answer>
+    <comment>m</comment>
+    <uuid>02ffb33d-517f-4e5d-be1e-aa9948b25c2c</uuid>
+  </card>
+  <card>
+    <question>hotel</question>
+    <answer>гостиница</answer>
+    <comment>m</comment>
+    <uuid>cc498987-c630-44f5-9481-e803c64972d1</uuid>
+  </card>
+  <card>
+    <question>alojarse</question>
+    <answer>остановиться (в гостинице)</answer>
+    <comment></comment>
+    <uuid>262bbdc9-044a-4995-a887-65d5c59d2b8b</uuid>
+  </card>
+  <card>
+    <question>me alojo</question>
+    <answer>(я) остановился</answer>
+    <comment></comment>
+    <uuid>59b4288b-066b-4b2e-86ac-f2e9d97cc9c9</uuid>
+  </card>
+  <card>
+    <question>te alojas</question>
+    <answer>(ты) остановился</answer>
+    <comment></comment>
+    <uuid>81adb60c-13d9-456f-bca5-00262887bb48</uuid>
+  </card>
+  <card>
+    <question>se aloja</question>
+    <answer>(Вы) остановились; (он) остановился, (она) остановилась</answer>
+    <comment></comment>
+    <uuid>01a320a1-7d2a-4c66-9c8d-3e6c0c92cf5e</uuid>
+  </card>
+  <card>
+    <question>nos alojamos</question>
+    <answer>(мы) остановились</answer>
+    <comment></comment>
+    <uuid>698bc4a9-e8bc-477d-9905-01bcd54d6624</uuid>
+  </card>
+  <card>
+    <question>se alojan</question>
+    <answer>(Вы, они) остановились</answer>
+    <comment></comment>
+    <uuid>0d3f2c74-b2e9-43d3-a0d4-3b12d7210eeb</uuid>
+  </card>
+  <card>
+    <question>me alojaré</question>
+    <answer>(я) остановлюсь</answer>
+    <comment></comment>
+    <uuid>bd731319-78ac-43e4-979a-56c573f47f11</uuid>
+  </card>
+  <card>
+    <question>nos alojaremos</question>
+    <answer>(мы) остановимся (в гостинице)</answer>
+    <comment></comment>
+    <uuid>d8e1ff32-da5a-4f69-87c0-eac929713176</uuid>
+  </card>
+  <card>
+    <question>se alojará</question>
+    <answer>(Вы) остановитесь; (он, она) остановится</answer>
+    <comment></comment>
+    <uuid>4da4150c-eb4c-4ff1-b0b9-eeeb4f9159fb</uuid>
+  </card>
+  <card>
+    <question>te alojarás</question>
+    <answer>(ты) остановишься</answer>
+    <comment></comment>
+    <uuid>14660192-dfd7-45ec-b5e4-2797615246e1</uuid>
+  </card>
+  <card>
+    <question>se alojarán</question>
+    <answer>(Вы) остановитесь (мн.ч.); (они) остановятся</answer>
+    <comment></comment>
+    <uuid>01dffc0d-5880-4564-ad99-05219de6a44a</uuid>
+  </card>
+  <card>
+    <question>delegación</question>
+    <answer>делегация</answer>
+    <comment>f</comment>
+    <uuid>2c7b054c-8aa4-4c38-8776-451841431efe</uuid>
+  </card>
+  <card>
+    <question>encontrarse</question>
+    <answer>находиться</answer>
+    <comment></comment>
+    <uuid>3382adf1-7f41-4541-82ae-a67faeebb481</uuid>
+  </card>
+  <card>
+    <question>se encuentra</question>
+    <answer>находится</answer>
+    <comment></comment>
+    <uuid>012e3443-29ad-4a90-9e29-d37eccd8ad82</uuid>
+  </card>
+  <card>
+    <question>necesitar</question>
+    <answer>нуждаться</answer>
+    <comment></comment>
+    <uuid>3934d163-0785-432e-b229-6436d06eaea5</uuid>
+  </card>
+  <card>
+    <question>necesito</question>
+    <answer>(мне) нужно</answer>
+    <comment></comment>
+    <uuid>ae502d7c-f8bb-4942-8c73-36a8198f8b5e</uuid>
+  </card>
+  <card>
+    <question>necesitamos</question>
+    <answer>(нам) нужно</answer>
+    <comment></comment>
+    <uuid>597fb9cb-4b1f-4ebb-b880-ee554cc403ec</uuid>
+  </card>
+  <card>
+    <question>necesita</question>
+    <answer>(Вам, ему, ей) нужно</answer>
+    <comment></comment>
+    <uuid>dddc2fe3-a1f4-49fd-9ece-27402cc75e38</uuid>
+  </card>
+  <card>
+    <question>necesitas</question>
+    <answer>(тебе) нужно</answer>
+    <comment></comment>
+    <uuid>51942768-a9c2-4bc9-aed7-9ade5f68056e</uuid>
+  </card>
+  <card>
+    <question>necesitan</question>
+    <answer>(Вам, им) нужно</answer>
+    <comment></comment>
+    <uuid>93446f1b-de31-445c-90de-7dc47007214a</uuid>
+  </card>
+  <card>
+    <question>cerca</question>
+    <answer>рядом</answer>
+    <comment></comment>
+    <uuid>b04a209d-8dd7-49b9-ba08-8106522da5da</uuid>
+  </card>
+  <card>
+    <question>centro</question>
+    <answer>центр</answer>
+    <comment>m</comment>
+    <uuid>79123dc3-3b6e-4e22-8e7f-aeba691718a4</uuid>
+  </card>
+  <card>
+    <question>feria</question>
+    <answer>ярмарка</answer>
+    <comment>f</comment>
+    <uuid>52b65200-034a-473f-81b2-488a33aa4064</uuid>
+  </card>
+  <card>
+    <question>exposición</question>
+    <answer>выставка</answer>
+    <comment>f</comment>
+    <uuid>dad055ee-3293-43e1-a031-44057bace59e</uuid>
+  </card>
+  <card>
+    <question>internacional</question>
+    <answer>международный</answer>
+    <comment></comment>
+    <uuid>27c029cc-02ba-4fc5-babd-a79182d16225</uuid>
+  </card>
+  <card>
+    <question>ministerio</question>
+    <answer>министерство</answer>
+    <comment>m</comment>
+    <uuid>960119d3-e423-4270-8055-13f55ed86c78</uuid>
+  </card>
+  <card>
+    <question>reservar</question>
+    <answer>резервировать, бронировать</answer>
+    <comment></comment>
+    <uuid>72ee44ef-8516-450c-8827-06d3e2ab8c4e</uuid>
+  </card>
+  <card>
+    <question>resérveme</question>
+    <answer>забронируйте мне</answer>
+    <comment></comment>
+    <uuid>85e1ee86-eac0-460d-9b5e-ab04d6003646</uuid>
+  </card>
+  <card>
+    <question>resérvame</question>
+    <answer>забронируй мне</answer>
+    <comment></comment>
+    <uuid>9c163d2c-6cc3-47e4-a3c7-ecdb44959492</uuid>
+  </card>
+  <card>
+    <question>habitación</question>
+    <answer>номер (в гостинице)</answer>
+    <comment>f</comment>
+    <uuid>53cdfede-256c-4e3a-be87-1be2731e644d</uuid>
+  </card>
+  <card>
+    <question>apellido</question>
+    <answer>фамилия</answer>
+    <comment>m</comment>
+    <uuid>73baf97c-ac31-4cb1-8688-b82bcb1b9727</uuid>
+  </card>
+  <card>
+    <question>reservado</question>
+    <answer>забронированный</answer>
+    <comment></comment>
+    <uuid>d7a9e0b4-89ef-4ab8-9a1a-5e7ee0cf4d85</uuid>
+  </card>
+  <card>
+    <question>reservada</question>
+    <answer>забронированная</answer>
+    <comment></comment>
+    <uuid>176961c7-c839-4989-88ec-da780cb7c7bb</uuid>
+  </card>
+  <card>
+    <question>reservé</question>
+    <answer>(я) забронировал</answer>
+    <comment></comment>
+    <uuid>ba9940c9-a14a-486c-abe4-1ec50d437629</uuid>
+  </card>
+  <card>
+    <question>reservaste</question>
+    <answer>(ты) забронировал</answer>
+    <comment></comment>
+    <uuid>09b2c7f8-b667-49eb-a4be-50674978e2c8</uuid>
+  </card>
+  <card>
+    <question>reservó</question>
+    <answer>(Вы) забронировали; (он, она) забронировал(а)</answer>
+    <comment></comment>
+    <uuid>83cc48e5-34d8-4dcc-8bca-d6d1260715fe</uuid>
+  </card>
+  <card>
+    <question>reservamos</question>
+    <answer>(мы) забронировали</answer>
+    <comment></comment>
+    <uuid>4ce24ca4-eec6-4a84-be5b-b76c0424d41b</uuid>
+  </card>
+  <card>
+    <question>reservaron</question>
+    <answer>(Вы) забронировали (мн. ч.); (они) забронировали</answer>
+    <comment></comment>
+    <uuid>ca13aefd-0e99-4362-864d-3676fb4ea89f</uuid>
+  </card>
+  <card>
+    <question>teléfono</question>
+    <answer>телефон</answer>
+    <comment>m</comment>
+    <uuid>79522bff-f4c5-4000-85f5-1161bec057a1</uuid>
+  </card>
+  <card>
+    <question>enviar</question>
+    <answer>посылать</answer>
+    <comment></comment>
+    <uuid>f212ae81-0700-48a5-b826-3cfdfb773a88</uuid>
+  </card>
+  <card>
+    <question>enviando</question>
+    <answer>посылая, послав</answer>
+    <comment></comment>
+    <uuid>28c398f5-fa5a-44d1-89d4-16facecbe4df</uuid>
+  </card>
+  <card>
+    <question>telegrama</question>
+    <answer>телеграмма</answer>
+    <comment>m</comment>
+    <uuid>7cf8ee25-709b-4265-bba9-60043fb09d32</uuid>
+  </card>
+  <card>
+    <question>aquí</question>
+    <answer>здесь</answer>
+    <comment></comment>
+    <uuid>7c08c250-249c-4c78-8a0e-ff470d5a63ed</uuid>
+  </card>
+  <card>
+    <question>confirmación</question>
+    <answer>подтверждение</answer>
+    <comment>f</comment>
+    <uuid>aa0d4b35-89b6-437f-81e9-842d7261e621</uuid>
+  </card>
+  <card>
+    <question>libre</question>
+    <answer>свободный</answer>
+    <comment></comment>
+    <uuid>1d34dfc5-6ea4-4e39-81e2-385310ad10d5</uuid>
+  </card>
+  <card>
+    <question>individual</question>
+    <answer>одноместный</answer>
+    <comment></comment>
+    <uuid>c54aaf32-a0a8-4510-91aa-70582f026092</uuid>
+  </card>
+  <card>
+    <question>doble</question>
+    <answer>двухместный</answer>
+    <comment></comment>
+    <uuid>a21bf523-826b-4eef-9288-8d6496fec79f</uuid>
+  </card>
+  <card>
+    <question>tipo</question>
+    <answer>тип</answer>
+    <comment>m</comment>
+    <uuid>11eafee4-2e23-4618-b18a-6c82d1e3494b</uuid>
+  </card>
+  <card>
+    <question>deme</question>
+    <answer>дайте мне</answer>
+    <comment></comment>
+    <uuid>c1a15da4-598a-4678-9408-413e497cde91</uuid>
+  </card>
+  <card>
+    <question>dame</question>
+    <answer>дай мне</answer>
+    <comment></comment>
+    <uuid>0b8d39ae-2c4d-4166-8b8c-7d6d8a51e378</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>4173713f-d635-4c2d-90e4-5fad87bcaefd</uuid>
+  </card>
+  <card>
+    <question>pasaporte</question>
+    <answer>паспорт</answer>
+    <comment>m</comment>
+    <uuid>5a8d56dd-e806-4c87-85b8-f9f7a83afa6b</uuid>
+  </card>
+  <card>
+    <question>ayúdeme</question>
+    <answer>помогите мне</answer>
+    <comment></comment>
+    <uuid>fb60f7f1-a2ed-4d47-bb65-1b7b59970e67</uuid>
+  </card>
+  <card>
+    <question>ayúdame</question>
+    <answer>помоги мне</answer>
+    <comment></comment>
+    <uuid>ee9184b3-ae13-4423-a262-f71a70a1672f</uuid>
+  </card>
+  <card>
+    <question>rellenar</question>
+    <answer>заполнять (бланк)</answer>
+    <comment></comment>
+    <uuid>4a36b2c5-757b-4486-ba1e-e5a1f4a8811f</uuid>
+  </card>
+  <card>
+    <question>rellene</question>
+    <answer>заполните</answer>
+    <comment></comment>
+    <uuid>29b3e76f-b01c-4aea-aab9-3feee23ca0c5</uuid>
+  </card>
+  <card>
+    <question>ficha</question>
+    <answer>бланк</answer>
+    <comment>f</comment>
+    <uuid>801abf69-f401-42e1-8cd2-3920e2bbc424</uuid>
+  </card>
+  <card>
+    <question>devolver</question>
+    <answer>возвращать</answer>
+    <comment></comment>
+    <uuid>58938f14-b8f7-49d3-a4ae-2ddf13478727</uuid>
+  </card>
+  <card>
+    <question>devuelven</question>
+    <answer>(Вы) возвращаете (мн.ч.); (они) возвращают</answer>
+    <comment></comment>
+    <uuid>4bb75511-59aa-46a7-a374-2b4564fdebd5</uuid>
+  </card>
+  <card>
+    <question>devuelvo</question>
+    <answer>(я) возвращаю</answer>
+    <comment></comment>
+    <uuid>e53e3e6f-8868-4f7b-947c-1ae870aa27c4</uuid>
+  </card>
+  <card>
+    <question>devuelves</question>
+    <answer>(ты) возвращаешь</answer>
+    <comment></comment>
+    <uuid>866ae64a-567e-44c4-b446-38b6dd321e53</uuid>
+  </card>
+  <card>
+    <question>devuelve</question>
+    <answer>(Вы) возвращаете; (он, она) возвращает</answer>
+    <comment></comment>
+    <uuid>9f22d403-25de-42f5-99a1-ff1336de64a5</uuid>
+  </card>
+  <card>
+    <question>devolvemos</question>
+    <answer>(мы) возвращаем</answer>
+    <comment></comment>
+    <uuid>f1e52628-60ac-4539-b664-77a49db0e7b4</uuid>
+  </card>
+  <card>
+    <question>hay</question>
+    <answer>есть, имеется</answer>
+    <comment></comment>
+    <uuid>17747ab3-0da4-4aa7-a738-af86efcb78ee</uuid>
+  </card>
+  <card>
+    <question>aire acondicionado</question>
+    <answer>кондиционер</answer>
+    <comment>m</comment>
+    <uuid>97e54c0b-8111-4eec-8190-8ef4e868ff4a</uuid>
+  </card>
+  <card>
+    <question>televisor</question>
+    <answer>телевизор</answer>
+    <comment>m</comment>
+    <uuid>dc1402fc-4655-4011-bd10-21949d2449bf</uuid>
+  </card>
+  <card>
+    <question>frigorífico</question>
+    <answer>холодильник</answer>
+    <comment>m</comment>
+    <uuid>f3782718-18c5-4589-9b7e-cf85cba9d053</uuid>
+  </card>
+  <card>
+    <question>agua caliente</question>
+    <answer>горячая вода</answer>
+    <comment>f</comment>
+    <uuid>2169ff08-f0b5-407d-8375-81bafd71821d</uuid>
+  </card>
+  <card>
+    <question>valer</question>
+    <answer>стоить</answer>
+    <comment></comment>
+    <uuid>2e7630cb-64cd-4de3-922f-8167e7a902eb</uuid>
+  </card>
+  <card>
+    <question>vale</question>
+    <answer>стОит</answer>
+    <comment></comment>
+    <uuid>e67fd034-18ec-4b17-92ed-6977ecc94dac</uuid>
+  </card>
+  <card>
+    <question>valen</question>
+    <answer>стОят</answer>
+    <comment></comment>
+    <uuid>f6ef083e-1820-4189-aebf-a0124ee1864a</uuid>
+  </card>
+  <card>
+    <question>por día</question>
+    <answer>в сутки</answer>
+    <comment></comment>
+    <uuid>fdacc195-d743-4ff8-a52e-a2abf66b6d41</uuid>
+  </card>
+  <card>
+    <question>incluir</question>
+    <answer>включать (в стоимость)</answer>
+    <comment></comment>
+    <uuid>0ba25920-d967-45a2-af4b-9312ecb74c90</uuid>
+  </card>
+  <card>
+    <question>incluido</question>
+    <answer>включенный (в стоимость)</answer>
+    <comment></comment>
+    <uuid>90a943cf-c461-4586-a156-8bcad0680707</uuid>
+  </card>
+  <card>
+    <question>desayuno</question>
+    <answer>завтрак</answer>
+    <comment>m</comment>
+    <uuid>ecd89714-7093-4d98-bc7d-698935c748ad</uuid>
+  </card>
+  <card>
+    <question>precio</question>
+    <answer>цена</answer>
+    <comment>m</comment>
+    <uuid>7cd306b7-f984-4619-8f50-b6e78b9e5339</uuid>
+  </card>
+  <card>
+    <question>piso</question>
+    <answer>этаж</answer>
+    <comment>m</comment>
+    <uuid>c30244d2-a440-494b-bdd3-0951a14223d7</uuid>
+  </card>
+  <card>
+    <question>tercero</question>
+    <answer>третий</answer>
+    <comment></comment>
+    <uuid>0ceec5a5-2365-4890-8c46-2a0abe6f62fd</uuid>
+  </card>
+  <card>
+    <question>cuarto</question>
+    <answer>четвертый</answer>
+    <comment></comment>
+    <uuid>b654ce40-68ae-4ada-b0f6-aecac2793efd</uuid>
+  </card>
+  <card>
+    <question>segundo</question>
+    <answer>второй</answer>
+    <comment></comment>
+    <uuid>b9f149dd-d0f9-4e83-b45f-e99acb76f67f</uuid>
+  </card>
+  <card>
+    <question>poder</question>
+    <answer>мочь</answer>
+    <comment></comment>
+    <uuid>dcd833c1-2f36-4d33-bfcb-b832bc6e363e</uuid>
+  </card>
+  <card>
+    <question>puedo</question>
+    <answer>(я) могу</answer>
+    <comment></comment>
+    <uuid>77afafae-c2b2-43ae-a40a-87f00581a20e</uuid>
+  </card>
+  <card>
+    <question>puedes</question>
+    <answer>(ты) можешь</answer>
+    <comment></comment>
+    <uuid>7805069a-163f-4f71-a7e7-8f40b1a51bda</uuid>
+  </card>
+  <card>
+    <question>puede</question>
+    <answer>(Вы) можете; (он, она) может</answer>
+    <comment></comment>
+    <uuid>75817a4d-5462-44fa-aceb-774d9131a3b3</uuid>
+  </card>
+  <card>
+    <question>podemos</question>
+    <answer>(мы) можем</answer>
+    <comment></comment>
+    <uuid>4228aacc-3219-4753-820a-d90fa95d463a</uuid>
+  </card>
+  <card>
+    <question>pueden</question>
+    <answer>(Вы) можете (мн.ч.); (они) могут</answer>
+    <comment></comment>
+    <uuid>98b30c47-3e44-4c89-90d0-a570a8ba93a5</uuid>
+  </card>
+  <card>
+    <question>ver</question>
+    <answer>видеть</answer>
+    <comment></comment>
+    <uuid>f44d6ef2-014e-4e7b-a8f5-cd69a0aad3c7</uuid>
+  </card>
+  <card>
+    <question>gusta</question>
+    <answer>нравится</answer>
+    <comment></comment>
+    <uuid>a17252a2-0e01-41f2-b6e7-76d4ee78a2b4</uuid>
+  </card>
+  <card>
+    <question>gustar</question>
+    <answer>нравиться</answer>
+    <comment></comment>
+    <uuid>90f9ea02-3566-4a1d-bf4f-963d9ad1f681</uuid>
+  </card>
+  <card>
+    <question>alguno</question>
+    <answer>какой-нибудь</answer>
+    <comment></comment>
+    <uuid>1c59d40b-3114-4ff7-b8cd-bf6cc9661779</uuid>
+  </card>
+  <card>
+    <question>alguna</question>
+    <answer>какая-нибудь</answer>
+    <comment></comment>
+    <uuid>ceaf553f-1e7a-4271-8aeb-c2a2df941673</uuid>
+  </card>
+  <card>
+    <question>más barata</question>
+    <answer>подешевле (ж.р.)</answer>
+    <comment></comment>
+    <uuid>ccb62dde-611a-4f96-994c-542983a8a653</uuid>
+  </card>
+  <card>
+    <question>más tranquila</question>
+    <answer>потише (ж.р.)</answer>
+    <comment></comment>
+    <uuid>3b688f75-d54b-42c8-8867-4d68b4fb8417</uuid>
+  </card>
+  <card>
+    <question>mejor</question>
+    <answer>получше</answer>
+    <comment></comment>
+    <uuid>22b21fe1-c2ba-4904-aba8-e2f9b9a8c364</uuid>
+  </card>
+  <card>
+    <question>otra</question>
+    <answer>другая</answer>
+    <comment></comment>
+    <uuid>351c9881-543e-43e8-a38a-7b70e95b693e</uuid>
+  </card>
+  <card>
+    <question>otro</question>
+    <answer>другой</answer>
+    <comment></comment>
+    <uuid>dbf43840-ecc1-4731-aacf-0f4e28f2a0b8</uuid>
+  </card>
+  <card>
+    <question>pagar</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <uuid>480e1047-bd11-44ce-accf-c830cfcd3a56</uuid>
+  </card>
+  <card>
+    <question>pago</question>
+    <answer>(я) плачу (за что-л.)</answer>
+    <comment></comment>
+    <uuid>60919463-aa8b-4dc1-81e4-648f7a8a4ef1</uuid>
+  </card>
+  <card>
+    <question>pagas</question>
+    <answer>(ты) платишь</answer>
+    <comment></comment>
+    <uuid>8effcae7-a729-4cb6-911a-62b8890f64ea</uuid>
+  </card>
+  <card>
+    <question>paga</question>
+    <answer>(Вы) платите; (он, она) платит</answer>
+    <comment></comment>
+    <uuid>6b5291c5-ae43-4f5f-869f-f5b607759006</uuid>
+  </card>
+  <card>
+    <question>pagamos</question>
+    <answer>(мы) платим</answer>
+    <comment></comment>
+    <uuid>7c23f380-97e2-40b2-9e14-e2a38a687636</uuid>
+  </card>
+  <card>
+    <question>pagan</question>
+    <answer>(Вы) платите (мн.ч.); (они) платят</answer>
+    <comment></comment>
+    <uuid>dbf8a841-4ed9-47ac-9a7d-983873286c9c</uuid>
+  </card>
+  <card>
+    <question>por adelantado</question>
+    <answer>вперёд</answer>
+    <comment></comment>
+    <uuid>1a778f91-aeb2-4255-b129-565958ea38be</uuid>
+  </card>
+  <card>
+    <question>al abandonar</question>
+    <answer>при отъезде</answer>
+    <comment></comment>
+    <uuid>fe07a26b-9957-416a-b745-787bd82b6ec9</uuid>
+  </card>
+  <card>
+    <question>tiempo</question>
+    <answer>время</answer>
+    <comment>m</comment>
+    <uuid>aefc6472-b4ef-422e-9d17-51cacccc6465</uuid>
+  </card>
+  <card>
+    <question>pensar</question>
+    <answer>думать</answer>
+    <comment></comment>
+    <uuid>6b1c8e41-0103-4f94-81c1-f17dd041d486</uuid>
+  </card>
+  <card>
+    <question>pienso</question>
+    <answer>(я) думаю</answer>
+    <comment></comment>
+    <uuid>75bb0906-17ef-49b8-a679-7d109ebc5fd4</uuid>
+  </card>
+  <card>
+    <question>piensas</question>
+    <answer>(ты) думаешь</answer>
+    <comment></comment>
+    <uuid>c92d8817-bf30-4c2f-8eb5-a8e3968b05bd</uuid>
+  </card>
+  <card>
+    <question>piensa</question>
+    <answer>(Вы) думаете; (он, она) думает</answer>
+    <comment></comment>
+    <uuid>19dd3650-636c-4b1a-a94d-8dc4f0529fb3</uuid>
+  </card>
+  <card>
+    <question>pensamos</question>
+    <answer>(мы) думаем</answer>
+    <comment></comment>
+    <uuid>229fb2d6-ddff-476b-822c-d7735f3ae708</uuid>
+  </card>
+  <card>
+    <question>piensan</question>
+    <answer>(Вы) думаете (мн.ч.); (они) думают</answer>
+    <comment></comment>
+    <uuid>c77e7248-259d-4a04-b9de-e9c607f7b3c3</uuid>
+  </card>
+  <card>
+    <question>semana</question>
+    <answer>неделя</answer>
+    <comment>f</comment>
+    <uuid>91a1879e-4e93-4a1e-9670-662b88946eb7</uuid>
+  </card>
+  <card>
+    <question>mes</question>
+    <answer>месяц</answer>
+    <comment>m</comment>
+    <uuid>049b396a-febc-468e-a47a-26e09905ee83</uuid>
+  </card>
+  <card>
+    <question>tomar</question>
+    <answer>брать</answer>
+    <comment></comment>
+    <uuid>f84d23e3-2586-4a5a-9557-5f6bb35893b5</uuid>
+  </card>
+  <card>
+    <question>tomaré</question>
+    <answer>(я) возьму</answer>
+    <comment></comment>
+    <uuid>39439ccc-a3fc-4aca-a59e-16e600eb54af</uuid>
+  </card>
+  <card>
+    <question>tomarás</question>
+    <answer>(ты) возьмёшь</answer>
+    <comment></comment>
+    <uuid>f1b023d4-2526-43e0-bed0-c116a7335f78</uuid>
+  </card>
+  <card>
+    <question>tomará</question>
+    <answer>(Вы) возьмёте; (он, она) возьмёт</answer>
+    <comment></comment>
+    <uuid>58fde088-8baf-4f45-ba6a-fc0b95df4c7d</uuid>
+  </card>
+  <card>
+    <question>tomaremos</question>
+    <answer>(мы) возьмём</answer>
+    <comment></comment>
+    <uuid>0b45e92b-0d78-4445-95f8-ab14d6d96240</uuid>
+  </card>
+  <card>
+    <question>tomarán</question>
+    <answer>(Вы) возьмёте (мн.ч.), (они) возьмут</answer>
+    <comment></comment>
+    <uuid>df1cad14-9d96-4fc5-a16c-b2906acee423</uuid>
+  </card>
+  <card>
+    <question>llevar</question>
+    <answer>отнести</answer>
+    <comment></comment>
+    <uuid>d493f797-8cc2-40e9-b7a7-1d91de3c600e</uuid>
+  </card>
+  <card>
+    <question>llévenme</question>
+    <answer>отнесите (мне) (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>d3ecc89b-b7ac-4000-993f-40daa4bf277f</uuid>
+  </card>
+  <card>
+    <question>lléveme</question>
+    <answer>отнесите (мне) (ед.ч.)</answer>
+    <comment></comment>
+    <uuid>464952ea-ad75-4375-b1e8-85dcf9017efa</uuid>
+  </card>
+  <card>
+    <question>llévame</question>
+    <answer>отнеси (мне)</answer>
+    <comment></comment>
+    <uuid>0eafc70b-79e9-43b0-991b-d93ff062bd5f</uuid>
+  </card>
+  <card>
+    <question>cosa</question>
+    <answer>вещь</answer>
+    <comment>f</comment>
+    <uuid>a7c3d385-62a9-48b6-b122-4c9e73625065</uuid>
+  </card>
+  <card>
+    <question>vestíbulo</question>
+    <answer>вестибуль</answer>
+    <comment>m</comment>
+    <uuid>dec2defb-ee96-454a-be66-ec624f6edc29</uuid>
+  </card>
+  <card>
+    <question>consigna</question>
+    <answer>камера хранения</answer>
+    <comment>f</comment>
+    <uuid>22414df3-810d-480b-b532-4dc21b54af97</uuid>
+  </card>
+  <card>
+    <question>llave</question>
+    <answer>ключ</answer>
+    <comment>f</comment>
+    <uuid>6495f3ff-aa2d-4e28-92a5-290d2feec6ed</uuid>
+  </card>
+  <card>
+    <question>ascensor</question>
+    <answer>лифт</answer>
+    <comment>m</comment>
+    <uuid>48dd7520-b2c2-4f28-98ea-a77dcda570ae</uuid>
+  </card>
+  <card>
+    <question>cuarto de baño</question>
+    <answer>ванная</answer>
+    <comment>m</comment>
+    <uuid>f4a25ce1-0280-4822-8544-ddc6b7e5c5ad</uuid>
+  </card>
+  <card>
+    <question>ducha</question>
+    <answer>душ</answer>
+    <comment>f</comment>
+    <uuid>714c8199-dabb-4d1d-a88c-6011c093e78c</uuid>
+  </card>
+  <card>
+    <question>quiero</question>
+    <answer>(я) хочу</answer>
+    <comment></comment>
+    <uuid>38bc8bca-1715-4882-a591-d82437aadc7d</uuid>
+  </card>
+  <card>
+    <question>querer</question>
+    <answer>хотеть</answer>
+    <comment></comment>
+    <uuid>97bee641-ad24-4de9-a2ca-ee21ca0a0bb2</uuid>
+  </card>
+  <card>
+    <question>hoja de registro</question>
+    <answer>регистрационный лист</answer>
+    <comment>f</comment>
+    <uuid>1548c3f7-7530-4ee3-9a33-1beecb5234f9</uuid>
+  </card>
+  <card>
+    <question>encargada</question>
+    <answer>дежурная</answer>
+    <comment>f</comment>
+    <uuid>62c8838b-7742-403b-b37e-9e129a119baa</uuid>
+  </card>
+  <card>
+    <question>dejar</question>
+    <answer>оставлять</answer>
+    <comment></comment>
+    <uuid>5cde0e42-b515-44a1-a416-919807157990</uuid>
+  </card>
+  <card>
+    <question>deje</question>
+    <answer>оставьте</answer>
+    <comment></comment>
+    <uuid>37961fbb-10ac-4bc4-a677-a80c6b95c62c</uuid>
+  </card>
+  <card>
+    <question>marcharse</question>
+    <answer>уходить</answer>
+    <comment></comment>
+    <uuid>c69dac94-2bd7-409d-a1e3-306ddda13b58</uuid>
+  </card>
+</cards>
+</stack>

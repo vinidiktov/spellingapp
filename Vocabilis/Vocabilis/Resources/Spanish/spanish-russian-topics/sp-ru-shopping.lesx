@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c478dab4-e818-444c-8f77-b452b127146a</uuid>
+  <title>Магазины</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>los billetes de banco</question>
+    <answer>банкноты, купюры</answer>
+    <comment></comment>
+    <uuid>742d661d-c93e-4f22-924f-53320948ee77</uuid>
+  </card>
+  <card>
+    <question>negociar</question>
+    <answer>торговаться</answer>
+    <comment></comment>
+    <uuid>c4007c7c-7b25-46af-a61d-ed2ecadddc45</uuid>
+  </card>
+  <card>
+    <question>comprar</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>75d543a8-207b-48b4-9b3f-929939182b37</uuid>
+  </card>
+  <card>
+    <question>el cajero</question>
+    <answer>кассир</answer>
+    <comment></comment>
+    <uuid>1fda712f-c0ef-43b7-ba8e-99df5237081f</uuid>
+  </card>
+  <card>
+    <question>la caja registradora</question>
+    <answer>кассовый аппарат</answer>
+    <comment></comment>
+    <uuid>0aaf1421-8b8c-4159-96e9-af8a4fb7679a</uuid>
+  </card>
+  <card>
+    <question>barato</question>
+    <answer>дешёвый</answer>
+    <comment></comment>
+    <uuid>2863fcdc-84d5-4e5a-b5d1-39eebc63a3f7</uuid>
+  </card>
+  <card>
+    <question>las monedas</question>
+    <answer>монеты</answer>
+    <comment></comment>
+    <uuid>e5e2344f-ad05-465a-a611-bdb2dd1529ff</uuid>
+  </card>
+  <card>
+    <question>la tarjeta de crédito</question>
+    <answer>кредитная карта</answer>
+    <comment></comment>
+    <uuid>37ccefe2-9490-44e5-9518-eab5f54dbf65</uuid>
+  </card>
+  <card>
+    <question>caro</question>
+    <answer>дорогой</answer>
+    <comment></comment>
+    <uuid>44c3b9e3-e975-4d5d-af4a-ba45b551ebb0</uuid>
+  </card>
+  <card>
+    <question>el centro comercial</question>
+    <answer>торговый комплекс</answer>
+    <comment></comment>
+    <uuid>aa289762-e4ca-47f4-a397-9bdc4c928306</uuid>
+  </card>
+  <card>
+    <question>el dinero</question>
+    <answer>деньги</answer>
+    <comment></comment>
+    <uuid>6d08763d-2b7f-4c71-83db-29b53810d24a</uuid>
+  </card>
+  <card>
+    <question>pagar</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <uuid>2b58ee91-519d-41a2-8988-4f952d8ee23e</uuid>
+  </card>
+  <card>
+    <question>el recibo</question>
+    <answer>кассовый чек</answer>
+    <comment></comment>
+    <uuid>db1cd9de-c2e8-4608-8b0d-bb1846abd8ee</uuid>
+  </card>
+  <card>
+    <question>la venta</question>
+    <answer>распродажа</answer>
+    <comment></comment>
+    <uuid>1c625168-7568-4709-be3f-4c4377991fa6</uuid>
+  </card>
+  <card>
+    <question>vender</question>
+    <answer>продавать</answer>
+    <comment></comment>
+    <uuid>e8df52de-2b54-4140-a26d-c8d1bac5b0b1</uuid>
+  </card>
+  <card>
+    <question>el carro</question>
+    <answer>тележка</answer>
+    <comment></comment>
+    <uuid>2127c182-cb9d-4e12-9341-d5b1bedbb964</uuid>
+  </card>
+</cards>
+</stack>

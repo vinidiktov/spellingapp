@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e7aad00f-22d7-4623-8736-131e00f60a47</uuid>
+  <title>Ландшафт, пейзаж</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>desert</question>
+    <answer>пустыня</answer>
+    <comment>[ˈdezət]</comment>
+    <answer_picture>desert.gif</answer_picture>
+    <uuid>73b20189-d529-4757-998f-a473f395fd37</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>beach</question>
+    <answer>пляж</answer>
+    <comment>[biːʧ]</comment>
+    <answer_picture>beach.gif</answer_picture>
+    <uuid>f6bbd2b2-0b4f-4a6c-aa98-674a029ad83f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>afternoon</question>
+    <answer>послеобеденное время</answer>
+    <comment>[ˈɑːftəˈnuːn]</comment>
+    <answer_picture>afternoon.gif</answer_picture>
+    <uuid>2fe79762-6e75-44b3-9f3e-0bff93255347</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>forest</question>
+    <answer>лес</answer>
+    <comment>[ˈfɒrɪst]</comment>
+    <answer_picture>forest.gif</answer_picture>
+    <uuid>310ffcf6-8357-46da-8ecf-7229f7e0e628</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>autumn</question>
+    <answer>осень</answer>
+    <comment>[ˈɔːtəm]</comment>
+    <answer_picture>autumn.gif</answer_picture>
+    <uuid>e54a93d7-c76d-45ce-a625-1119091233eb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>city</question>
+    <answer>город (S. town)</answer>
+    <comment>[ˈsɪtɪ]</comment>
+    <answer_picture>city.gif</answer_picture>
+    <uuid>361b4761-b5e7-4038-9fb4-a56e7d92fa88</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lake</question>
+    <answer>озеро</answer>
+    <comment>[leɪk]</comment>
+    <answer_picture>lake.gif</answer_picture>
+    <uuid>b5adc3f9-d597-42f1-83e5-ef1eda84f935</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>evening</question>
+    <answer>вечер</answer>
+    <comment>[ˈiːvnɪŋ]</comment>
+    <answer_picture>evening.gif</answer_picture>
+    <uuid>febb581d-b67a-4eb2-b986-ecd503443e76</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>morning</question>
+    <answer>утро</answer>
+    <comment>[ˈmɔːnɪŋ]</comment>
+    <answer_picture>morning.gif</answer_picture>
+    <uuid>add00d5c-07f1-45cc-a013-057b865de1f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>farm</question>
+    <answer>ферма</answer>
+    <comment>[fɑːm]</comment>
+    <answer_picture>farm.gif</answer_picture>
+    <uuid>9375896a-0e54-4836-ba81-bd5157c715fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mountain</question>
+    <answer>гора</answer>
+    <comment>[ˈmаʊntɪn]</comment>
+    <answer_picture>mountain.gif</answer_picture>
+    <uuid>c3ea17e8-a147-4b36-9fcd-b62c17936ced</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>night</question>
+    <answer>ночь</answer>
+    <comment>[nаɪt]</comment>
+    <answer_picture>night.gif</answer_picture>
+    <uuid>37fd9418-0849-4ff1-8fe5-0da714d7b940</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>noon</question>
+    <answer>полдень</answer>
+    <comment>[nuːn]</comment>
+    <answer_picture>noon.gif</answer_picture>
+    <uuid>8d076c49-ac57-44bf-b43e-ac7376609aee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>park</question>
+    <answer>парк</answer>
+    <comment>[pɑːk]</comment>
+    <answer_picture>park.gif</answer_picture>
+    <uuid>f02322ce-9f25-4f01-8831-55c82bd3eb1d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>picture</question>
+    <answer>картина</answer>
+    <comment>[ˈpɪkʧə]</comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>335a7ad6-b8b5-4e48-abd3-e6917fbf2ae6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>prairie</question>
+    <answer>прерия, степь</answer>
+    <comment>[ˈpreərɪ]</comment>
+    <answer_picture>prairie.gif</answer_picture>
+    <uuid>14948693-08c0-4458-9ea7-db2e3be34032</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>river</question>
+    <answer>река</answer>
+    <comment>[ˈrɪvə]</comment>
+    <answer_picture>river.gif</answer_picture>
+    <uuid>43904b91-d756-4cf5-9d3d-7f35e05195f1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sea</question>
+    <answer>море</answer>
+    <comment>[siː]</comment>
+    <answer_picture>sea.gif</answer_picture>
+    <uuid>3bdfa77a-afd3-4928-91e0-69f3a756e8fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>snow</question>
+    <answer>снег</answer>
+    <comment>[snəʊ]</comment>
+    <answer_picture>snow.gif</answer_picture>
+    <uuid>e4455680-2560-4228-9653-91501dfb565c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>spring</question>
+    <answer>весна</answer>
+    <comment>[sprɪŋ]</comment>
+    <answer_picture>spring.gif</answer_picture>
+    <uuid>dfd08d0e-1b64-44b0-864a-dfbe86892883</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>street</question>
+    <answer>улица</answer>
+    <comment>[striːt]</comment>
+    <answer_picture>street.gif</answer_picture>
+    <uuid>107123d3-7ad1-4467-81cd-464cfc974d90</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>summer</question>
+    <answer>лето</answer>
+    <comment>[ˈsʌmə]</comment>
+    <answer_picture>summer.gif</answer_picture>
+    <uuid>c95b1340-2d8a-42bd-996d-d2a0e8d633d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunrise</question>
+    <answer>восход солнца</answer>
+    <comment>[ˈsʌnrаɪz]</comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>369c6b33-68ee-4c25-bb7a-9ed31537ec83</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>valley</question>
+    <answer>долина</answer>
+    <comment>[ˈvælɪ]</comment>
+    <answer_picture>valley.gif</answer_picture>
+    <uuid>e5add46a-3071-4b01-ac24-3862ee722205</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>village</question>
+    <answer>деревня</answer>
+    <comment>[ˈvɪlɪʤ]</comment>
+    <answer_picture>village.gif</answer_picture>
+    <uuid>c88e584e-3c75-4cc7-88aa-5fea347feb1a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wet</question>
+    <answer>мокрый</answer>
+    <comment>[wet]</comment>
+    <answer_picture>wet.gif</answer_picture>
+    <uuid>4e152aff-2dca-4878-851b-280dc10144db</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>winter</question>
+    <answer>зима</answer>
+    <comment>[ˈwɪntə]</comment>
+    <answer_picture>winter.gif</answer_picture>
+    <uuid>5e66f070-6d5a-4ff6-8f3f-40f7d7249f73</uuid>
+  </card>
+</cards>
+</stack>

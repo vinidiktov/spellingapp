@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f5563e1c-2777-42ce-be43-197d8159a701</uuid>
+  <title>Почта, телеграф :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>9</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a congratulations card</question>
+    <answer>поздравительная открытка</answer>
+    <comment>[ə kənˌgræʧəˈleɪʃənz kɑːrd]</comment>
+    <question_comment>congratulation - поздравление, card - карточка, открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff77faa8-c77c-4918-9cd3-367a68031f66</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a fine for wrong parking</question>
+    <answer>штраф за неправильную парковку</answer>
+    <comment>[ə fаɪn fər rɔːŋ ˈpærkɪŋ]</comment>
+    <question_comment>fine -штраф, wrong - неправильный, parking - парковка, to park - ставить (машину)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d79956be-f179-4a1d-a957-5397e23fa853</uuid>
+    <examples>
+       <example>
+          <value>Where can I pay a fine for wrong parking?</value>
+          <translation>Где я могу оплатить штраф за неправильную парковку?</translation>
+          <comment>where - где, can - мочь, to pay - платить, fine - штраф, wrong - неправильный, ошибочный, parking - парковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an international message form</question>
+    <answer>международный бланк</answer>
+    <comment>[ən ˌɪntərˈnæʃənl ˈmesɪʤ fɔːrm]</comment>
+    <question_comment>international - международный, message - сообщение, form - бланк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a77bb68f-0e1d-4d89-8d37-6d584d3a3bcf</uuid>
+    <examples>
+       <example>
+          <value>May I have an international message form, please?</value>
+          <translation>Международный бланк, пожалуйста.</translation>
+          <comment>may - мочь, to have - иметь, international - международный, message - сообщение, form - форма, бланк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a letter to Russia</question>
+    <answer>письмо в Россию</answer>
+    <comment>[ə ˈletər tə ˈrʌʃə]</comment>
+    <question_comment>letter - письмо, Russia - Россия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1a7faa1-5768-471e-8261-9bc542e7f87a</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the postage for a letter to Russia?</value>
+          <translation>Сколько стоит письмо в Россию?</translation>
+          <comment>what - что, какой, postage - почтовая оплата, letter - письмо, Russia - Россия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>letters for me</question>
+    <answer>письма для меня</answer>
+    <comment>[ˈletərz fər ˈmiː]</comment>
+    <question_comment>letter - письмо, me - мне, меня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>700b4260-c099-4f6e-9573-69f7575fb585</uuid>
+    <examples>
+       <example>
+          <value>I want to send a letter.</value>
+          <translation>Мне нужно отправить письмо.</translation>
+          <comment>to want - хотеть, to send - послать, letter - письмо</comment>
+       </example>
+       <example>
+          <value>Could you give me a stamp for this letter?</value>
+          <translation>Дайте, пожалуйста, марку на это письмо.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, letter - письмо</comment>
+       </example>
+       <example>
+          <value>What&apos;s the postage for a letter to Russia?</value>
+          <translation>Сколько стоит письмо в Россию?</translation>
+          <comment>what - что, какой, postage - почтовая оплата, letter - письмо, Russia - Россия</comment>
+       </example>
+       <example>
+          <value>Where can I pick up letters sent general delivery?</value>
+          <translation>Где можно получить письма до востребования?</translation>
+          <comment>where - где, can - мочь, to pick up - взять, letter - письмо, sent - посланный, general - общий, delivery - доставка</comment>
+       </example>
+       <example>
+          <value>Are there any letters for me?</value>
+          <translation>Есть ли для меня письма?</translation>
+          <comment>there are - есть, имеются, any - какой-либо, letter - письмо, for - для, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the main post office</question>
+    <answer>главпочтамт</answer>
+    <comment>[ðə meɪn poʊst ˈɔːfɪs]</comment>
+    <question_comment>main - главный, post - почта, office - офис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55d38fe1-a168-4692-a932-ff3b5d471e62</uuid>
+    <examples>
+       <example>
+          <value>Where is the main post office?</value>
+          <translation>Где главпочтамт?</translation>
+          <comment>where - где, main - главный, post - почта, office - офис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>messages for me</question>
+    <answer>сообщения для меня</answer>
+    <comment>[ˈmesɪʤɪz fər ˈmiː]</comment>
+    <question_comment>message - сообщение, me - мне, меня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6e9bf531-7276-4ea4-abd0-5b19c04cae1e</uuid>
+    <examples>
+       <example>
+          <value>Are there any messages for me?</value>
+          <translation>Есть ли для меня сообщения?</translation>
+          <comment>there are - есть, имеются, any - какой-либо, message - сообщение, for - для, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>May I have an international message form, please?</value>
+          <translation>Международный бланк, пожалуйста.</translation>
+          <comment>may - мочь, to have - иметь, international - международный, message - сообщение, form - форма, бланк</comment>
+       </example>
+       <example>
+          <value>Would you take a message, please?</value>
+          <translation>Вы не передадите ему сообщение?</translation>
+          <comment>to take - брать, взять, message - сообщение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a post office</question>
+    <answer>почта</answer>
+    <comment>[ə poʊst ˈɔːfɪs]</comment>
+    <question_comment>post - почта, office - офис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5bfd56e-9b6d-4f11-aa0b-0f6c1412161f</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest post office?</value>
+          <translation>Гда здесь ближайшая почта?</translation>
+          <comment>where - где, the nearest - ближайший, post - почта, office - офис</comment>
+       </example>
+       <example>
+          <value>Where is the main post office?</value>
+          <translation>Где главпочтамт?</translation>
+          <comment>where - где, main - главный, post - почта, office - офис</comment>
+       </example>
+       <example>
+          <value>What time does the post office open?</value>
+          <translation>Когда открывается почта?</translation>
+          <comment>what - что, какой, time - время, post - почта, office - офис, to open - открываться</comment>
+       </example>
+       <example>
+          <value>When is the post office open?</value>
+          <translation>Когда работает почта?</translation>
+          <comment>when - когда, post - почта, office - офис, to open - открываться</comment>
+       </example>
+       <example>
+          <value>What time does the post office close?</value>
+          <translation>Когда закрывается почта?</translation>
+          <comment>what - что, какой, time - время, post - почта, office - офис, to close - закрываться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>postage for a letter</question>
+    <answer>цена отправки письма</answer>
+    <comment>[ˈpoʊstɪʤ fər ə ˈletər]</comment>
+    <question_comment>postage - почтовые расходы, letter - письмо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae0811ae-8113-43ac-bbb9-3d6e5e9ac41a</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the postage for a letter to Russia?</value>
+          <translation>Сколько стоит письмо в Россию?</translation>
+          <comment>what - что, какой, postage - почтовая оплата, letter - письмо, Russia - Россия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>postage for a postcard</question>
+    <answer>цена отправки открытки</answer>
+    <comment>[ˈpoʊstɪʤ fər ə ˈpoʊstkɑːrd]</comment>
+    <question_comment>postage - почтовые расходы, postcard - открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6903ff3-aeb6-42f7-8b6e-dbdf00a501dc</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the postage for a postcard to Great Britain?</value>
+          <translation>Сколько стоит открытка в Великобританию?</translation>
+          <comment>what - что, какой, postage - почтовая оплата, postcard - открытка, Great Britain - Великобритания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a postcard to Great Britain</question>
+    <answer>открытка в Великобританию</answer>
+    <comment>[ə ˈpoʊstkɑːrd tə greɪt brɪtn]</comment>
+    <question_comment>postcard - открытка, Great Britain - Великобритания</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dbe9158b-d4db-4600-91e7-39a9651142da</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the postage for a postcard to Great Britain?</value>
+          <translation>Сколько стоит открытка в Великобританию?</translation>
+          <comment>what - что, какой, postage - почтовая оплата, postcard - открытка, Great Britain - Великобритания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>general delivery</question>
+    <answer>окошко до востребования</answer>
+    <comment>[ˈʤenərəl dɪˈlɪvəriː]</comment>
+    <question_comment>general - общий, delivery - доставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf961064-05a4-4d67-9fd9-e132fd69663d</uuid>
+    <examples>
+       <example>
+          <value>Where can I pick up letters sent general delivery?</value>
+          <translation>Где можно получить письма до востребования?</translation>
+          <comment>where - где, can - мочь, to pick up - взять, letter - письмо, sent - посланный, general - общий, delivery - доставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a stamp for this letter</question>
+    <answer>марка на это письмо</answer>
+    <comment>[ə stæmp fər ðɪs ˈletər]</comment>
+    <question_comment>stamp - марка, this - этот, эта, letter - письмо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c214c684-4ce5-4836-9cb8-2a5d4caf4b6b</uuid>
+    <examples>
+       <example>
+          <value>Could you give me a stamp for this letter?</value>
+          <translation>Дайте, пожалуйста, марку на это письмо.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, letter - письмо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a stamp for this postcard</question>
+    <answer>марка на эту открытку</answer>
+    <comment>[ə stæmp fər ðɪs ˈpoʊstkɑːrd]</comment>
+    <question_comment>stamp - марка, this - этот, эта, postcard - открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>af1ebf16-98b6-4a87-9ce3-0d3ddb90752b</uuid>
+    <examples>
+       <example>
+          <value>Could you give me a stamp for this postcard?</value>
+          <translation>Дайте, пожалуйста, марку на эту открытку.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, postcard - открытка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a telegram form</question>
+    <answer>телеграфный бланк</answer>
+    <comment>[ə ˈteləˌgræm fɔːrm]</comment>
+    <question_comment>telegram - телеграмма, form - бланк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf90ed3b-24b1-4cd1-a098-3b7b4d1ff668</uuid>
+    <examples>
+       <example>
+          <value>Give me a telegram form.</value>
+          <translation>Дайте, пожалуйста, телеграфный бланк.</translation>
+          <comment>to give - давать, me - мне, меня, telegram - телеграмма, form - форма, бланк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a telegram to London</question>
+    <answer>телеграмма до Лондона</answer>
+    <comment>[ə ˈteləˌgræm tə ˈlʌndən]</comment>
+    <question_comment>telegram - телеграмма, London - Лондон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>958296dd-8e44-43a1-8cb8-fb9297ccb722</uuid>
+    <examples>
+       <example>
+          <value>How long will a telegram to London take?</value>
+          <translation>Сколько идет телеграмма до Лондона?</translation>
+          <comment>how - как, long - долго, telegram - телеграмма, London - Лондон, to take - взять, брать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest mailbox</question>
+    <answer>ближайший почтовый ящик</answer>
+    <comment>[ðə ˈnɪrɪst ˈmeɪlbɑːks]</comment>
+    <question_comment>the nearest - ближайший, mailbox - почтовый ящик</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b25ffb2c-01a5-4237-b812-c136d90d8e60</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest mailbox?</value>
+          <translation>Где ближайший почтовый ящик?</translation>
+          <comment>where - где, the nearest - ближайший, mailbox - почтовый ящик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest post office</question>
+    <answer>ближайшая почта</answer>
+    <comment>[ðə ˈnɪrɪst poʊst ˈɔːfɪs]</comment>
+    <question_comment>the nearest - ближайший, post office - почта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>df418197-ce04-41a0-b57e-30d58261bfb7</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest post office?</value>
+          <translation>Гда здесь ближайшая почта?</translation>
+          <comment>where - где, the nearest - ближайший, post - почта, office - офис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this letter</question>
+    <answer>это письмо</answer>
+    <comment>[ðɪs ˈletər]</comment>
+    <question_comment>this - этот, эта, letter - письмо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>16dc4680-6c1c-452e-b27e-81b6e70c95f7</uuid>
+    <examples>
+       <example>
+          <value>Could you give me a stamp for this letter?</value>
+          <translation>Дайте, пожалуйста, марку на это письмо.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, letter - письмо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this postcard</question>
+    <answer>эта открытка</answer>
+    <comment>[ðɪs ˈpoʊstkɑːrd]</comment>
+    <question_comment>this - этот, эта, postcard - открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>abf19d89-bad1-4ad6-8021-5626207b424d</uuid>
+    <examples>
+       <example>
+          <value>Could you give me a stamp for this postcard?</value>
+          <translation>Дайте, пожалуйста, марку на эту открытку.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, postcard - открытка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>three envelopes</question>
+    <answer>три конверта</answer>
+    <comment>[θriː ˈenvəˌloʊps]</comment>
+    <question_comment>three - три, envelope - конверт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>187459f5-ea20-4aa8-9ff0-f34d6659e97e</uuid>
+    <examples>
+       <example>
+          <value>Please give me three envelopes.</value>
+          <translation>Пожалуйста, дайте мне три конверта.</translation>
+          <comment>to give - дать, me - мне, меня, three - три, envelope - конверт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to deliver the telegram</question>
+    <answer>доставить телеграмму</answer>
+    <comment>[tə dɪˈlɪvər ðə ˈteləˌgræm]</comment>
+    <question_comment>delivered - доставленный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb510287-fefd-49e5-92eb-c93641493a1f</uuid>
+    <examples>
+       <example>
+          <value>When will the telegram be delivered?</value>
+          <translation>Когда будет доставлена телеграмма?</translation>
+          <comment>when - когда, telegram - телеграмма, to be - быть, delivered - доставленный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy envelopes</question>
+    <answer>купить конверты</answer>
+    <comment>[tə bаɪ ˈenvəˌloʊps]</comment>
+    <question_comment>to buy - купить, envelope - конверт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6846d3f3-5b5d-4b4d-a275-d94040c8d8a8</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy envelopes?</value>
+          <translation>Где я могу купить конверты?</translation>
+          <comment>where - где, can - мочь, to buy - купить, envelope - конверт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy postcards</question>
+    <answer>купить открытки</answer>
+    <comment>[tə bаɪ ˈpoʊstkɑːrdz]</comment>
+    <question_comment>to buy - купить, postcard - открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>225ebc92-1fe4-41c1-a970-a068084e763f</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy postcards?</value>
+          <translation>Где я могу купить открытки?</translation>
+          <comment>where - где, can - мочь, to buy - купить, postcard - открытка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy stamps</question>
+    <answer>купить марки</answer>
+    <comment>[tə bаɪ stæmps]</comment>
+    <question_comment>to buy - купить, stamp - марка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1f088b03-a3de-410f-a7c2-5cc0d300c6fe</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy stamps?</value>
+          <translation>Где я могу купить марки?</translation>
+          <comment>where - где, can - мочь, to buy - купить, stamp - марка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give two stamps</question>
+    <answer>дать две марки</answer>
+    <comment>[tə gɪv tuː stæmps]</comment>
+    <question_comment>to give - давать, two - два, stamp - марка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9e03afb2-4da4-4a0e-9752-bd37df2b1a1e</uuid>
+    <examples>
+       <example>
+          <value>Please give me two stamps.</value>
+          <translation>Пожалуйста, дайте мне две марки.</translation>
+          <comment>to give -давать, me - мне, меня, two - два, stamp - марка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have stamps</question>
+    <answer>иметь марки</answer>
+    <comment>[tə hæv stæmps]</comment>
+    <question_comment>to have - иметь, stamp - марка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a7c8e003-c0ba-458e-9a5c-f005635fb96f</uuid>
+    <examples>
+       <example>
+          <value>Do you have any stamps?</value>
+          <translation>У вас есть марки?</translation>
+          <comment>to have - иметь, any - какой-либо, stamp - марка</comment>
+       </example>
+       <example>
+          <value>Please give me two stamps.</value>
+          <translation>Пожалуйста, дайте мне две марки.</translation>
+          <comment>to give -давать, me - мне, меня, two - два, stamp - марка</comment>
+       </example>
+       <example>
+          <value>Could you give me a stamp for this letter?</value>
+          <translation>Дайте, пожалуйста, марку на это письмо.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, letter - письмо</comment>
+       </example>
+       <example>
+          <value>Could you give me a stamp for this postcard?</value>
+          <translation>Дайте, пожалуйста, марку на эту открытку.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>Where can I buy stamps?</value>
+          <translation>Где я могу купить марки?</translation>
+          <comment>where - где, can - мочь, to buy - купить, stamp - марка</comment>
+       </example>
+       <example>
+          <value>I collect stamps.</value>
+          <translation>Я коллекционирую марки.</translation>
+          <comment>to collect - собирать, stamp - марка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to mail this</question>
+    <answer>отправить это (по почте)</answer>
+    <comment>[tə meɪl ðɪs]</comment>
+    <question_comment>to mail - отправить (по почте), this - этот, эта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9fab70b2-614d-45be-b48f-5901b0de659b</uuid>
+    <examples>
+       <example>
+          <value>Would you mail this for me, please?</value>
+          <translation>Отправьте, пожалуйста.</translation>
+          <comment>to mail - отправить (по почте), this - это, этот, эта, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay a fine</question>
+    <answer>оплатить штраф</answer>
+    <comment>[tə peɪ ə fаɪn]</comment>
+    <question_comment>to pay - платить, fine - штраф</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f117c8fc-8103-4e77-aa27-de4ee470dfa0</uuid>
+    <examples>
+       <example>
+          <value>Where can I pay a fine for wrong parking?</value>
+          <translation>Где я могу оплатить штраф за неправильную парковку?</translation>
+          <comment>where - где, can - мочь, to pay - платить, fine - штраф, wrong - неправильный, ошибочный, parking - парковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay a telephone bill</question>
+    <answer>оплатить счет за телефон</answer>
+    <comment>[tə peɪ ə ˈteləˌfoʊn bɪl]</comment>
+    <question_comment>to pay - платить, telephone - телефон, bill - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>78c2c6d6-4cad-4369-8090-a6faa1cba8d4</uuid>
+    <examples>
+       <example>
+          <value>Where can I pay a telephone bill?</value>
+          <translation>Где я могу оплатить счет за телефон?</translation>
+          <comment>where - где, can - мочь, to pay - платить, telephone - телефон, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay this bill</question>
+    <answer>оплатить этот счет</answer>
+    <comment>[tə peɪ ðɪs bɪl]</comment>
+    <question_comment>to pay - платить, this - этот, эта, bill - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e68e07be-46d3-487b-ab4e-dcc5a2c7cd12</uuid>
+    <examples>
+       <example>
+          <value>At what window can I pay this bill?</value>
+          <translation>В каком окне я могу оплатить этот счет?</translation>
+          <comment>what - что, какой, window - окно, can - мочь, to pay - платить, this - этот, эта, это, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pick up letters</question>
+    <answer>забрать письма</answer>
+    <comment>[tə pɪk ʌp ˈletərz]</comment>
+    <question_comment>to pick up - забирать, letter - письмо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5ad4da7-d7af-44c5-bc18-a56c2616e3f0</uuid>
+    <examples>
+       <example>
+          <value>Where can I pick up letters sent general delivery?</value>
+          <translation>Где можно получить письма до востребования?</translation>
+          <comment>where - где, can - мочь, to pick up - взять, letter - письмо, sent - посланный, general - общий, delivery - доставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to send a letter</question>
+    <answer>отправить письмо</answer>
+    <comment>[tə send ə ˈletər]</comment>
+    <question_comment>to send - послать, letter - письмо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7f24c908-2631-487e-a772-38638890ce18</uuid>
+    <examples>
+       <example>
+          <value>I want to send a letter.</value>
+          <translation>Мне нужно отправить письмо.</translation>
+          <comment>to want - хотеть, to send - послать, letter - письмо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to send a money order</question>
+    <answer>отправить денежный перевод</answer>
+    <comment>[tə send ə ˈmʌniː ˈɔːrdər]</comment>
+    <question_comment>to send - послать, money - деньги, order - ордер, заказ</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f44b418b-dfc4-4798-9ac3-957c6807d7ec</uuid>
+    <examples>
+       <example>
+          <value>I want to send a money order.</value>
+          <translation>Не нужно отправить денежный перевод.</translation>
+          <comment>to want - хотеть, to send - послать, money - деньги, order - ордер, заказ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to send a telegram</question>
+    <answer>послать телеграмму</answer>
+    <comment>[tə send ə ˈteləˌgræm]</comment>
+    <question_comment>to send - послать, telegram - телеграмма</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>89652582-f944-4177-9b06-d5428abf8b59</uuid>
+    <examples>
+       <example>
+          <value>I want to send a telegram.</value>
+          <translation>Мне нужно послать телеграмму.</translation>
+          <comment>to want - хотеть, to send - послать, telegram - телеграмму</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to send general delivery</question>
+    <answer>отправить до востребования</answer>
+    <comment>[tə send ˈʤenərəl dɪˈlɪvəriː]</comment>
+    <question_comment>to send - послать, general - общий, delivery - доставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c9b47715-b4a5-4f66-a196-803e02056eab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to write the address</question>
+    <answer>написать адрес</answer>
+    <comment>[tə rаɪt ðə əˈdres]</comment>
+    <question_comment>to write - писать, address - адрес</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3e3a0278-68a6-43fc-8a86-30ad7ed50958</uuid>
+    <examples>
+       <example>
+          <value>Please write the address for me.</value>
+          <translation>Пожалуйста, напишите мне адрес.</translation>
+          <comment>to write - писать, address - адрес, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two stamps</question>
+    <answer>две марки</answer>
+    <comment>[tuː stæmps]</comment>
+    <question_comment>two - два, stamp - марка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53b60429-d376-4dcb-807d-30a0a9f4930f</uuid>
+    <examples>
+       <example>
+          <value>Please give me two stamps.</value>
+          <translation>Пожалуйста, дайте мне две марки.</translation>
+          <comment>to give -давать, me - мне, меня, two - два, stamp - марка</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

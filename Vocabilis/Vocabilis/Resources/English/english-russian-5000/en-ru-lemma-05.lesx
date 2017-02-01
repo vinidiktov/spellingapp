@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f8849b41-c758-4f3f-8b04-d62bcf1beb1f</uuid>
+  <title>A1. Урок 5</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>stop</question>
+    <answer>останавливать(ся)</answer>
+    <comment>[stɒp ːː stɑːp]</comment>
+    <uuid>f1f062a3-d7aa-4f0b-8de4-cdb55ab130bf</uuid>
+    <examples>
+       <example>
+          <value>The train stopped.</value>
+          <translation>Поезд остановился.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Stop the car.</value>
+          <translation>Останови машину.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>You can&apos;t stop him.</value>
+          <translation>Его невозможно остановить.</translation>
+          <comment>you can&apos;t - ты не можешь, невозможно</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>control</question>
+    <answer>управление, контроль</answer>
+    <comment>[kənˈtrəʊl ːː kənˈtroʊl]</comment>
+    <uuid>76a4680f-c848-47b3-9f2c-6d2b4622f775</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t want to lose control.</value>
+          <translation>Я не хочу терять контроль/управление.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Everything is under control.</value>
+          <translation>Всё под контролем. Всё в порядке.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;m keeping it under control.</value>
+          <translation>Я держу это под контролем.</translation>
+          <comment>to keep - держать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>value</question>
+    <answer>стоимость, цена</answer>
+    <comment>[ˈvæljuː ːː ˈvæljuː]</comment>
+    <uuid>93a79b30-a841-4c6b-b97d-c0ac728684bd</uuid>
+    <examples>
+       <example>
+          <value>My house is rising in value.</value>
+          <translation>Стоимость моего дома повышается.</translation>
+          <comment>my house - мой дом; to rise - подниматься</comment>
+       </example>
+       <example>
+          <value>market value</value>
+          <translation>рыночная стоимость</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the full value of the car</value>
+          <translation>полная стоимость машины</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the value of the dollar</value>
+          <translation>стоимость доллара</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The dollar is falling in value.</value>
+          <translation>Доллар падает в цене.</translation>
+          <comment>to fall - падать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>send</question>
+    <answer>отправлять, посылать</answer>
+    <comment>[send ːː send]</comment>
+    <uuid>9158ac69-4447-4b57-a231-e1714b2d36d7</uuid>
+    <examples>
+       <example>
+          <value>I sent the package yesterday.</value>
+          <translation>Я отправил посылку вчера.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I have a letter to send.</value>
+          <translation>Мне нужно отправить письмо.</translation>
+          <comment>I have to - я должен, мне нужно; a letter - письмо</comment>
+       </example>
+       <example>
+          <value>I sent him an email.</value>
+          <translation>Я отправил ему сообщение по электронной почте.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She sent me a money order.</value>
+          <translation>Она отправила мне денежный перевод.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I would have sent him to the gas chamber.</value>
+          <translation>Я бы отправил его в газовую камеру.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>health</question>
+    <answer>здоровье</answer>
+    <comment>[helθ ːː helθ]</comment>
+    <uuid>b8df8e6d-95eb-4dda-a578-17e83919c680</uuid>
+    <examples>
+       <example>
+          <value>poor health</value>
+          <translation>плохое здоровье</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>good health</value>
+          <translation>хорошее здоровье</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;m worried about my wife&apos;s health.</value>
+          <translation>Здоровье жены вызывает у меня беспокойство.</translation>
+          <comment>I&apos;m worried - я обеспокоен; wife - жена</comment>
+       </example>
+       <example>
+          <value>Sex is good for your health.</value>
+          <translation>Секс полезен для здоровья.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>decide</question>
+    <answer>решать</answer>
+    <comment>[dɪˈsаɪd ːː dəˈsаɪd]</comment>
+    <uuid>00bd7e45-ced3-4de0-aba2-a776681849e3</uuid>
+    <examples>
+       <example>
+          <value>I haven&apos;t decided yet.</value>
+          <translation>Я ещё не решил.</translation>
+          <comment>yet - ещё</comment>
+       </example>
+       <example>
+          <value>I&apos;ve decided to sell the house.</value>
+          <translation>Я решил продать дом.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Have you decided what to do yet?</value>
+          <translation>Ты уже решил, что делать?</translation>
+          <comment>what - что; to do - делать; yet - уже</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>main</question>
+    <answer>главный</answer>
+    <comment>[meɪn ːː meɪn]</comment>
+    <uuid>f7482c60-e9c0-4219-9830-1f6303512118</uuid>
+    <examples>
+       <example>
+          <value>This is the main reason why I have no money.</value>
+          <translation>Это главная причина, почему у меня нет денег.</translation>
+          <comment>I have no - Я не имею</comment>
+       </example>
+       <example>
+          <value>The lack of sex is the main reason for divorce.</value>
+          <translation>Отсутствие секса - главная причина разводов.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What is the main problem?</value>
+          <translation>Какова главная проблема?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>win</question>
+    <answer>выигрывать, побеждать</answer>
+    <comment>[wɪn ːː wɪn]</comment>
+    <uuid>ee4715e3-84fb-4617-9759-caa86c21d151</uuid>
+    <examples>
+       <example>
+          <value>Everybody likes to win.</value>
+          <translation>Всем нравится побеждать.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Who won?</value>
+          <translation>Кто победил?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>They won the election.</value>
+          <translation>Они победили на выборах.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>understand</question>
+    <answer>понимать</answer>
+    <comment>[ˌʌndəˈstænd ːː ˌʌndərˈstænd]</comment>
+    <uuid>41c6267a-cff4-484b-b051-cbef73e8e129</uuid>
+    <examples>
+       <example>
+          <value>Do you understand me?</value>
+          <translation>Ты меня понимаешь?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I don&apos;t understand my husband.</value>
+          <translation>Я не понимаю своего мужа.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Now I understand.</value>
+          <translation>Теперь я понимаю.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>decision</question>
+    <answer>решение</answer>
+    <comment>[dɪˈsɪʒən ːː dəˈsɪʒən]</comment>
+    <uuid>b8d20cdc-91aa-4599-9e64-174dd19aaac5</uuid>
+    <examples>
+       <example>
+          <value>You&apos;ve made the right decision.</value>
+          <translation>Ты принял правильное решение.</translation>
+          <comment>to make a decision - принимать решение</comment>
+       </example>
+       <example>
+          <value>I told them my decision.</value>
+          <translation>Я сообщил им о своём решении.</translation>
+          <comment>to tell - рассказывать, сказать</comment>
+       </example>
+       <example>
+          <value>What&apos;s your decision?</value>
+          <translation>Что ты решил?</translation>
+          <comment>Каково твоё решение?</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>develop</question>
+    <answer>развивать(ся)</answer>
+    <comment>[dɪˈveləp ːː dɪˈveləp]</comment>
+    <uuid>afd2bf6c-e021-4640-adfa-efb6d553ed30</uuid>
+    <examples>
+       <example>
+          <value>Develop your imagination.</value>
+          <translation>Развивайте воображение.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What should I do to develop my muscles?</value>
+          <translation>Что я должен делать, чтобы развить мускулатуру?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Piero Sraffa developed the idea of natural monopoly.</value>
+          <translation>Пьеро Сраффа развил идею естественной монополии.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>class</question>
+    <answer>класс (в разных значениях)</answer>
+    <comment>[klɑːs ːː klæs]</comment>
+    <uuid>7e015223-1ddd-4e39-80c7-7a354d184e98</uuid>
+    <examples>
+       <example>
+          <value>to travel first class</value>
+          <translation>ехать первым классном</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the ruling classes</value>
+          <translation>правящие классы</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>We&apos;re in the same class.</value>
+          <translation>Мы (учимся) в одном классе.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>industry</question>
+    <answer>промышленность</answer>
+    <comment>[ˈɪndəstrɪ ːː ˈɪndəstriː]</comment>
+    <uuid>b1f554a0-2b64-435b-9cec-8d12be09070a</uuid>
+    <examples>
+       <example>
+          <value>heavy industry</value>
+          <translation>тяжёлая промышленность</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>light industry</value>
+          <translation>лёгкая промышленность</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a key industry</value>
+          <translation>ключевая отрасль промышленности</translation>
+          <comment>key - ключ, ключевой</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>receive</question>
+    <answer>получать</answer>
+    <comment>[rɪˈsiːv ːː rəˈsiːv]</comment>
+    <uuid>b4e1e927-2e25-44da-a4cc-85b5d7c060c4</uuid>
+    <examples>
+       <example>
+          <value>to receive a prize</value>
+          <translation>получить приз</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to receive education</value>
+          <translation>получать образование</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to receive an award</value>
+          <translation>получить награду</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to receive votes</value>
+          <translation>получать голоса</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to receive a degree</value>
+          <translation>получать научную степень, диплом</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>back</question>
+    <answer>спина</answer>
+    <comment>[bæk ːː bæk]</comment>
+    <uuid>21c7c5f4-6f03-48a4-bf36-0efe4e56fb60</uuid>
+    <examples>
+       <example>
+          <value>My back hurts.</value>
+          <translation>У меня болит спина.</translation>
+          <comment>дословно &quot;Моя спина болит&quot;</comment>
+       </example>
+       <example>
+          <value>His back was nicely tanned.</value>
+          <translation>Его спина была хорошо загоревшей.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I turned my back to him.</value>
+          <translation>Я повернулся к нему спиной.</translation>
+          <comment>I turned my back - дословно &quot;Я повернул мою спину&quot;</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>several</question>
+    <answer>несколько</answer>
+    <comment>[ˈsevrəl ːː ˈsevrəl]</comment>
+    <uuid>f8720ca1-03df-4ce7-b9e1-91293eae9b67</uuid>
+    <examples>
+       <example>
+          <value>He was married several times.</value>
+          <translation>Он был женат несколько раз.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;ve seen several of his films.</value>
+          <translation>Я видел несколько его фильмов.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>return</question>
+    <answer>возвращать(ся)</answer>
+    <comment>[rɪˈtɜːn ːː rəˈtɜːrn]</comment>
+    <uuid>9ca68fc5-d721-4b73-a8ce-f8d3d093b360</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s returned to Canada.</value>
+          <translation>Он вернулся в Канаду.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I want to return home.</value>
+          <translation>Я хочу вернуться домой.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Are you planning to return to Russia?</value>
+          <translation>Ты планируешь вернуться в Россию?</translation>
+          <comment>to plan - планировать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>build</question>
+    <answer>строить</answer>
+    <comment>[bɪld ːː bɪld]</comment>
+    <uuid>aa9eb3c5-6078-44c3-8d31-137ddd8fb293</uuid>
+    <examples>
+       <example>
+          <value>They&apos;ve built a new house.</value>
+          <translation>Они построили новый дом.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Did you build it yourself?</value>
+          <translation>Ты сам его построил?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s building a raft.</value>
+          <translation>Он строит плот.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>When was this bridge built?</value>
+          <translation>Когда был построен этот мост?</translation>
+          <comment>was built - был построен</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>spend</question>
+    <answer>тратить (деньги)</answer>
+    <comment>[spend ːː spend]</comment>
+    <uuid>f520c070-0284-4c19-b4c7-e14ca00bbf40</uuid>
+    <examples>
+       <example>
+          <value>Spend your money wisely.</value>
+          <translation>Трать деньги с умом.</translation>
+          <comment>wisely - мудро; wise - мудрый</comment>
+       </example>
+       <example>
+          <value>He spends all his money on drugs.</value>
+          <translation>Он тратит все свои деньги на наркотики.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Everyone likes spending money.</value>
+          <translation>Всем нравится тратить деньги.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>force</question>
+    <answer>~s – войска</answer>
+    <comment>[fɔːs ːː fɔːrs]</comment>
+    <uuid>672b81a5-7887-4de4-b91e-b45b2d186017</uuid>
+    <examples>
+       <example>
+          <value>government forces</value>
+          <translation>правильственные войска</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>US forces</value>
+          <translation>американские войска</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>rebel forces</value>
+          <translation>войска повстанцев</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>condition</question>
+    <answer>~s - условия</answer>
+    <comment>[kənˈdɪʃən ːː kənˈdɪʃən]</comment>
+    <uuid>8c8bb985-86cd-4bbd-ab94-6ce8a1980f0b</uuid>
+    <examples>
+       <example>
+          <value>living conditions</value>
+          <translation>условия проживания</translation>
+          <comment>to live - жить</comment>
+       </example>
+       <example>
+          <value>working conditions</value>
+          <translation>условия (для) работы</translation>
+          <comment>to work - работать</comment>
+       </example>
+       <example>
+          <value>I can&apos;t work in such conditions.</value>
+          <translation>Я не могу работать в таких условиях.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>in appalling conditions</value>
+          <translation>в ужасных условиях</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>itself</question>
+    <answer>(оно) -ся, -сь; себя, себе</answer>
+    <comment>[ɪtˈself ːː ətˈself]</comment>
+    <uuid>5411e2af-5575-42d5-981d-4b59eb200fc5</uuid>
+    <examples>
+       <example>
+          <value>The cat washes its kittens. - The cat washes itself.</value>
+          <translation>Кошка моет своих котят. - Кошка моется.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I switched off the machine. - The machine switched itself off.</value>
+          <translation>Я отключил станок. - Станок отключился.</translation>
+          <comment>to switch off - отключать</comment>
+       </example>
+       <example>
+          <value>The child amused itself by playing with the ball.</value>
+          <translation>Ребёнок развлекался игрой в мяч.</translation>
+          <comment>ребёнок для англоязычных - существо неодушевленное</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>paper</question>
+    <answer>бумага</answer>
+    <comment>[ˈpeɪpə ːː ˈpeɪpər]</comment>
+    <uuid>c5c74dbc-b0d7-49e5-bc45-1362e2f8fa53</uuid>
+    <examples>
+       <example>
+          <value>a sheet of paper</value>
+          <translation>лист бумаги</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to write on paper</value>
+          <translation>писать на бумаге</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to burn paper</value>
+          <translation>жечь бумагу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a piece of paper</value>
+          <translation>клочок бумаги</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to wrap in paper</value>
+          <translation>завернуть в бумагу</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>themselves</question>
+    <answer>(они) -ся, -сь; себя, себе</answer>
+    <comment>[ðəmˈselvz ːː ðemˈselvz]</comment>
+    <uuid>b5b48b53-3409-402e-8220-b4efe29e8e66</uuid>
+    <examples>
+       <example>
+          <value>They protected the child. - They protected themselves.</value>
+          <translation>Они защитили ребёнка. - Они защитились (защитили себя).</translation>
+          <comment>to protect - защищать</comment>
+       </example>
+       <example>
+          <value>They are very pleased with themselves.</value>
+          <translation>Они очень довольны собой.</translation>
+          <comment>with themselves - собой</comment>
+       </example>
+       <example>
+          <value>They&apos;ve just bought themselves a new car.</value>
+          <translation>Они недавно купили себе новую машину.</translation>
+          <comment>just - только что; to buy - покупать</comment>
+       </example>
+       <example>
+          <value>They washed the baby. - They washed themselves.</value>
+          <translation>Они умыли ребёнка. - Они умылись.</translation>
+          <comment>to wash - умывать, мыть</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>off</question>
+    <answer>с (лестницы, дерева и т.п.)</answer>
+    <comment>[ɒf ːː ɒːf]</comment>
+    <uuid>068cfe9f-010b-48f4-ac1f-a53a4d765640</uuid>
+    <examples>
+       <example>
+          <value>He fell off a tree.</value>
+          <translation>Он упал с дерева.</translation>
+          <comment>to fall - падать</comment>
+       </example>
+       <example>
+          <value>He took the book off the shelf.</value>
+          <translation>Он снял книгу с полки.</translation>
+          <comment>to take - брать</comment>
+       </example>
+       <example>
+          <value>Get off the fence.</value>
+          <translation>Слезай с забора.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>major</question>
+    <answer>серьёзный (о проблеме, операции и т.п.)</answer>
+    <comment>[ˈmeɪʤə ːː ˈmeɪʤər]</comment>
+    <uuid>b4b1657d-6c93-4ce0-94f8-917a40527493</uuid>
+    <examples>
+       <example>
+          <value>We have a major problem here.</value>
+          <translation>У нас тут серьёзная проблема.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He underwent major heart surgery recently.</value>
+          <translation>Он недавно перенёс серьёзную операцию на сердце.</translation>
+          <comment>to undergo - переносить (операцию); surgery - хирургия</comment>
+       </example>
+       <example>
+          <value>a major confrontation</value>
+          <translation>большое противостояние</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>describe</question>
+    <answer>описывать</answer>
+    <comment>[dɪsˈkrаɪb ːː dəsˈkrаɪb]</comment>
+    <uuid>b06dd5b0-4366-4350-84e9-24b5cda345c6</uuid>
+    <examples>
+       <example>
+          <value>Describe the man.</value>
+          <translation>Опиши этого мужчину.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It&apos;s difficult to describe.</value>
+          <translation>Это трудно описать.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She describes herself as loyal, passionate and spontaneous.</value>
+          <translation>Она называет себя верной, страстной и непосредственной.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>agree</question>
+    <answer>соглашаться, быть согласным</answer>
+    <comment>[əˈgriː ːː əˈgriː]</comment>
+    <uuid>86e5bd80-5a27-4c56-a7f2-1e43fbfeb0b6</uuid>
+    <examples>
+       <example>
+          <value>I agree with you.</value>
+          <translation>Я с тобой согласен.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He doesn&apos;t agree with my methods.</value>
+          <translation>Он не согласен с моими методами.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Do you agree?</value>
+          <translation>Ты согласен?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I couldn&apos;t agree more.</value>
+          <translation>Я совершенно согласен.</translation>
+          <comment>I couldn&apos;t - я не мог бы; more - более</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>economic</question>
+    <answer>экономический</answer>
+    <comment>[ˌiːkəˈnɒmɪk ːː ˌekəˈnɑːmɪk]</comment>
+    <uuid>1273b85d-7184-4994-800c-a7c2bfda2ab6</uuid>
+    <examples>
+       <example>
+          <value>economic growth</value>
+          <translation>экономический рост</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>economic crime</value>
+          <translation>экономические преступления</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>economic policy</value>
+          <translation>экономическая политика</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>economic reform</value>
+          <translation>экономическая реформа</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>increase</question>
+    <answer>увеличивать(ся)</answer>
+    <comment>[ɪnˈkriːs ːː ˌɪnˈkriːs]</comment>
+    <uuid>c1c4a21f-ef91-4ebf-96fb-cb50b0187829</uuid>
+    <examples>
+       <example>
+          <value>They increased production.</value>
+          <translation>Они увеличили производство.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>They want to increase taxes.</value>
+          <translation>Они хотят увеличить налоги.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>We increased our prices 3 times</value>
+          <translation>Мы 3 раза увеличивали свои цены.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>upon</question>
+    <answer>на, по (formal)</answer>
+    <comment>[əˈpɒn ːː əˈpɑːn]</comment>
+    <uuid>b0529953-8239-487f-bead-0400ece607b1</uuid>
+    <examples>
+       <example>
+          <value>upon the ground</value>
+          <translation>на земле, на землю</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>upon the table</value>
+          <translation>на столе, на стол</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>upon broken glass</value>
+          <translation>по битому стеклу</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>learn</question>
+    <answer>учить(ся)</answer>
+    <comment>[lɜːn ːː lɜːrn]</comment>
+    <uuid>7536fa1d-c42e-4a73-9389-1ccdc92bfa56</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m learning English.</value>
+          <translation>Я учу английский.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s learning to walk.</value>
+          <translation>Он учится ходить.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What do you learn at school?</value>
+          <translation>Что вы изучаете в школе?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;ve learned my part.</value>
+          <translation>Я выучил свою роль.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>general</question>
+    <answer>общий (общее впечатление, предствление и т.п.)</answer>
+    <comment>[ˈʤenərəl ːː ˈʤenərəl]</comment>
+    <uuid>7b311058-cc51-474d-99c4-a0c6e131cc4b</uuid>
+    <examples>
+       <example>
+          <value>general impression</value>
+          <translation>общее впечатление</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>in general outline</value>
+          <translation>в общих чертах</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a general introduction</value>
+          <translation>общее введение</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to have a general idea</value>
+          <translation>иметь общее представление</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>century</question>
+    <answer>столетие, век</answer>
+    <comment>[ˈsenʧʊrɪ ːː ˈsenʧəriː]</comment>
+    <uuid>9bdc0287-73c0-46fc-8782-af4444d0cb3f</uuid>
+    <examples>
+       <example>
+          <value>He lived in the nineteenth century.</value>
+          <translation>Он жил девятнадцатом веке.</translation>
+          <comment>to live - жить</comment>
+       </example>
+       <example>
+          <value>a century ago</value>
+          <translation>век назад</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>for centuries</value>
+          <translation>веками, в течение веков</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She lived for a century.</value>
+          <translation>Она жила сто лет/целый век.</translation>
+          <comment>to live - жить</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>therefore</question>
+    <answer>поэтому, следовательно</answer>
+    <comment>[ˈðeəfɔː ːː ˈðerfˌɔːr]</comment>
+    <uuid>b791c1fc-214a-4cfd-81a4-2e60da48ea81</uuid>
+    <examples>
+       <example>
+          <value>I think, therefore I am.</value>
+          <translation>Я думаю, и следовательно существую.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Their car was bigger and therefore more comfortable.</value>
+          <translation>Их машина была больше, и поэтому комфортабельнее.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>father</question>
+    <answer>отец</answer>
+    <comment>[ˈfɑːðə ːː ˈfɑːðər]</comment>
+    <uuid>2ee8d52c-1c28-4497-9ead-9d99555a07c4</uuid>
+    <examples>
+       <example>
+          <value>Is you father home?</value>
+          <translation>Твой отец дома?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I want to see your father.</value>
+          <translation>Я хочу увидеть твоего отца.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>My father is in the hospital.</value>
+          <translation>Мой отец в больнице.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>section</question>
+    <answer>часть (целого)</answer>
+    <comment>[ˈsekʃən ːː ˈsekʃən]</comment>
+    <uuid>760b91a5-ab52-45d2-8e13-054bf6a17159</uuid>
+    <examples>
+       <example>
+          <value>a section of road</value>
+          <translation>участок дороги</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the first section of the article</value>
+          <translation>первый раздел статьи</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>patient</question>
+    <answer>больной, пациент</answer>
+    <comment>[ˈpeɪʃənt ːː ˈpeɪʃənt]</comment>
+    <uuid>a00c6b9c-31f6-4ec6-9dcb-ec629099ca63</uuid>
+    <examples>
+       <example>
+          <value>The doctor is seeing his patients.</value>
+          <translation>Врач осматривает больных.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>How many patients do you have in the hospital?</value>
+          <translation>Сколько у вас больных в больнице?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>These patients are treated for tuberculosis.</value>
+          <translation>Этих больных лечат от туберкулёза.</translation>
+          <comment>to treat - лечить</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>around</question>
+    <answer>вокруг</answer>
+    <comment>[əˈrаʊnd ːː əˈrаʊnd]</comment>
+    <uuid>1b78919a-fa0e-4cb8-9675-cf7f6066435c</uuid>
+    <examples>
+       <example>
+          <value>He looked around.</value>
+          <translation>Он посмотрел вокруг.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The children stood around listening to his story.</value>
+          <translation>Дети стояли вокруг и слушали его рассказ.</translation>
+          <comment>to stand - стоять; to listen - слушать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>activity</question>
+    <answer>деятельность</answer>
+    <comment>[ækˈtɪvɪtɪ ːː ækˈtɪvətiː]</comment>
+    <uuid>efda8f3d-68d2-4e6a-8c07-4c144c39cf70</uuid>
+    <examples>
+       <example>
+          <value>social activity</value>
+          <translation>общественная деятельность</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>out-of-school activities</value>
+          <translation>внеклассная работа</translation>
+          <comment>school - школа, занятия</comment>
+       </example>
+       <example>
+          <value>His activities were much criticized.</value>
+          <translation>Его деятельность/работу сильно критиковали.</translation>
+          <comment>to criticize - критиковать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>road</question>
+    <answer>дорога</answer>
+    <comment>[rəʊd ːː roʊd]</comment>
+    <uuid>cb366929-965e-4104-aba5-b97b80deeb11</uuid>
+    <examples>
+       <example>
+          <value>This road leads to Kemerovo.</value>
+          <translation>Эта дорога ведёт в Кмерово.</translation>
+          <comment>to lead - вести</comment>
+       </example>
+       <example>
+          <value>Let&apos;s follow this road.</value>
+          <translation>Давайте поедем по этой дороге.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I don&apos;t know the road.</value>
+          <translation>Я не знаю дорогу.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>We crossed the road.</value>
+          <translation>Мы перешли через дорогу.</translation>
+          <comment>to cross - переходить через</comment>
+       </example>
+       <example>
+          <value>Get out of the road!</value>
+          <translation>Прочь с дороги!</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>table</question>
+    <answer>стол</answer>
+    <comment>[ˈteɪbl ːː ˈteɪbəl]</comment>
+    <uuid>d3f80e1f-2310-47c0-85f2-159defd86333</uuid>
+    <examples>
+       <example>
+          <value>Put the plate on the table.</value>
+          <translation>Поставь тарелку на стол.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>They sat at the table drinking tea.</value>
+          <translation>Они сидели за столом и пили чай.</translation>
+          <comment>to sit - сидеть</comment>
+       </example>
+       <example>
+          <value>Take the table away.</value>
+          <translation>Унеси стол.</translation>
+          <comment>to take away - уносить</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>including</question>
+    <answer>включая, в том числе</answer>
+    <comment>[ɪnˈkluːdɪŋ ːː ˌɪnˈkluːdɪŋ]</comment>
+    <uuid>6988ea7c-4d5e-440d-a21c-762966341f07</uuid>
+    <examples>
+       <example>
+          <value>Everyone&apos;s here, including James.</value>
+          <translation>Все здесь включая Джеймса.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>church</question>
+    <answer>церковь</answer>
+    <comment>[ʧɜːʧ ːː ʧɜːrʧ]</comment>
+    <uuid>cc3fb2f7-7346-4b15-b642-03b57d0fb0a3</uuid>
+    <examples>
+       <example>
+          <value>They go to church every Sunday.</value>
+          <translation>Каждое воскресенье они ходят в церковь.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The church was built a century ago.</value>
+          <translation>Церковь была построена век назад.</translation>
+          <comment>to build - строить</comment>
+       </example>
+       <example>
+          <value>I took a photo of the church.</value>
+          <translation>Я сфотографировал церковь.</translation>
+          <comment>to take a photo - сфотографировать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>reach</question>
+    <answer>добраться до</answer>
+    <comment>[riːʧ ːː riːʧ]</comment>
+    <uuid>b3f231f9-f038-40e1-9bbe-bfc253e7691c</uuid>
+    <examples>
+       <example>
+          <value>We reached London by noon.</value>
+          <translation>К полудню мы добрались до Лондона.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>When did they reach Europe?</value>
+          <translation>Когда они добрались до Европы?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Four disabled climbers have reached the summit of Mt. Kilimanjaro.</value>
+          <translation>Четверо альпинистов-инвалидов добрались до вершины горы Килиманджаро.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>real</question>
+    <answer>настоящий; действительный, реальный</answer>
+    <comment>[rɪəl ːː riːl]</comment>
+    <uuid>ee516466-cba7-4727-aea1-cf32b0a6d57a</uuid>
+    <examples>
+       <example>
+          <value>real gold</value>
+          <translation>настоящее золото</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a real problem</value>
+          <translation>реальная проблема</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a real friend</value>
+          <translation>настоящий друг</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a real danger</value>
+          <translation>настоящая/реальная опасность</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>lie</question>
+    <answer>лежать</answer>
+    <comment>[lаɪ ːː lаɪ]</comment>
+    <uuid>49de1614-e92e-45ac-92b1-e8637a474f86</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t lie in the sun for too long.</value>
+          <translation>Не лежи слишком долго на солнце.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He was lying on the bed smoking.</value>
+          <translation>Он лежал на кровати и курил.</translation>
+          <comment>to smoke - курить</comment>
+       </example>
+       <example>
+          <value>They lay on the grass all night.</value>
+          <translation>Они всю ночь лежали на траве.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>mind</question>
+    <answer>разум; ум; душа, дух</answer>
+    <comment>[mаɪnd ːː mаɪnd]</comment>
+    <uuid>a67cab83-3ec0-44f5-b6e2-4c5b075fcf65</uuid>
+    <examples>
+       <example>
+          <value>the human mind</value>
+          <translation>человеческий разум</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Mind and body are closely related.</value>
+          <translation>душа и тело тесно связаны.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He has a brilliant mind.</value>
+          <translation>У него блестящий ум.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the great minds of our time</value>
+          <translation>великие умы нашего времени</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s not in his right mind.</value>
+          <translation>Он не в своём уме.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>likely</question>
+    <answer>вероятный</answer>
+    <comment>[ˈlаɪklɪ ːː ˈlаɪkliː]</comment>
+    <uuid>a20c639b-8358-44a4-8711-8b1a1903c823</uuid>
+    <examples>
+       <example>
+          <value>What is the likely outcome?</value>
+          <translation>Каков вероятный исход?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>You have to foresee the likely consequences.</value>
+          <translation>Необходимо предвидеть вероятные последствия.</translation>
+          <comment>you have - вы должны, необходимо</comment>
+       </example>
+       <example>
+          <value>the most likely cause of the problem</value>
+          <translation>наиболее вероятная причина проблемы</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>among</question>
+    <answer>среди, между</answer>
+    <comment>[əˈmʌŋ ːː əˈmʌŋ]</comment>
+    <uuid>c3b665e6-5b86-4730-925f-7451201b7731</uuid>
+    <examples>
+       <example>
+          <value>You are among friends.</value>
+          <translation>Ты среди друзей.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It&apos;s very popular among students.</value>
+          <translation>Она очень популярна среди студентов.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>They agreed among themselves.</value>
+          <translation>Они договорились между собой.</translation>
+          <comment>to agree - договариваться</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>team</question>
+    <answer>команда</answer>
+    <comment>[tiːm ːː tiːm]</comment>
+    <uuid>a9d63bf9-d516-4e33-99cf-5e51dd7eb246</uuid>
+    <examples>
+       <example>
+          <value>Our team has won.</value>
+          <translation>Наша команда победила.</translation>
+          <comment>to win - побеждать, выигрывать</comment>
+       </example>
+       <example>
+          <value>Andrew joined our team last ear.</value>
+          <translation>Эндрю присоединился к нашей команде в прошлом году.</translation>
+          <comment>to join - присоединяться к</comment>
+       </example>
+       <example>
+          <value>He left the team.</value>
+          <translation>Он ушёл из команды.</translation>
+          <comment>to leave - уходить из</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>experience</question>
+    <answer>опыт</answer>
+    <comment>[ɪksˈpɪərɪəns ːː ɪksˈpɪriːəns]</comment>
+    <uuid>2e298fa4-7ae8-4e4a-a718-de121d784c78</uuid>
+    <examples>
+       <example>
+          <value>He has a lot of experience.</value>
+          <translation>У него очень много опыта.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I need someone with experience.</value>
+          <translation>Мне нужен кто-нибудь с опытом.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I know it from experience.</value>
+          <translation>Я знаю это по опыту.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>death</question>
+    <answer>смерть</answer>
+    <comment>[deθ ːː deθ]</comment>
+    <uuid>6f443397-f0dd-40f9-a0d9-0dbcc4dae55c</uuid>
+    <examples>
+       <example>
+          <value>Death is everywhere.</value>
+          <translation>Смерть повсюду.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Tropical Storm Olga caused many deaths in Caribbean</value>
+          <translation>Тропический шторм Ольга стал причиной многих смертей в Карибском море.</translation>
+          <comment>to cause - вызвать (смерть и т.п.)</comment>
+       </example>
+       <example>
+          <value>His death was a shock to me.</value>
+          <translation>Его смерть стала для меня шоком.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>soon</question>
+    <answer>скоро</answer>
+    <comment>[suːn ːː suːn]</comment>
+    <uuid>3911ce20-5cef-4da6-96f2-437cbd662cc3</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll be back soon.</value>
+          <translation>Я скоро вернусь.</translation>
+          <comment>to be back - вернуться</comment>
+       </example>
+       <example>
+          <value>We&apos;ll soon get divorced.</value>
+          <translation>Мы скоро разведёмся.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>See you soon.</value>
+          <translation>Скоро увидимся.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>act</question>
+    <answer>действие, поступок</answer>
+    <comment>[ækt ːː ækt]</comment>
+    <uuid>278396c8-86a8-4aef-9df9-7b6fc3963bad</uuid>
+    <examples>
+       <example>
+          <value>It was an act of great courage.</value>
+          <translation>Это был очень смелый поступок.</translation>
+          <comment>great - большой; courage - смелость</comment>
+       </example>
+       <example>
+          <value>a thoughtless act</value>
+          <translation>бездумный поступок</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>an act of violence</value>
+          <translation>проявление жестокости/насилия</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>His first act was to change the band&apos;s repertoire.</value>
+          <translation>Его первым действием стала смена репертуара оркестра.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sense</question>
+    <answer>чувство, ощущение</answer>
+    <comment>[sens ːː sens]</comment>
+    <uuid>423df72c-6238-4ed2-b383-25d6146f929b</uuid>
+    <examples>
+       <example>
+          <value>He has no sense of humor.</value>
+          <translation>У него нет чувства юмора.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a sense of shame</value>
+          <translation>чувство стыда</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He acted out of a sense of duty.</value>
+          <translation>Он поступал из чувства долга.</translation>
+          <comment>to act - действовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>staff</question>
+    <answer>персонал, штат (служащих)</answer>
+    <comment>[stɑːf ːː stæf]</comment>
+    <uuid>d455351c-bc6d-44fd-94c6-5637bbc5aca3</uuid>
+    <examples>
+       <example>
+          <value>the office staff</value>
+          <translation>персонал конторы</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s on the staff.</value>
+          <translation>Он в штате.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She&apos;s been taken on the staff.</value>
+          <translation>Её зачислили в штат.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a staff meeting</value>
+          <translation>собрание сотрудников</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>certain</question>
+    <answer>уверенный</answer>
+    <comment>[ˈsɜːtn ːː ˈsɜːrtən]</comment>
+    <uuid>95b8823b-642f-4f69-b172-164b1be02cdb</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m absolutely certain that you need some rest.</value>
+          <translation>Я абсолютно уверен, что ты нуждаешься в отдыхе.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Are you certain that you locked the door?</value>
+          <translation>Ты уверен, что запер дверь?</translation>
+          <comment>to lock - запирать на замок</comment>
+       </example>
+       <example>
+          <value>He is not certain whether he can afford it.</value>
+          <translation>Он не уверен, может ли он это себе позволить.</translation>
+          <comment>to afford - повзолить себе</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>student</question>
+    <answer>студент, ученик</answer>
+    <comment>[ˈstjuːdənt ːː ˈstuːdənt]</comment>
+    <uuid>859f6dce-3a88-4fdb-9199-02a02256f94c</uuid>
+    <examples>
+       <example>
+          <value>My brother is a student.</value>
+          <translation>Мой брат студент.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a medical student</value>
+          <translation>студент-медик</translation>
+          <comment>medical - медицинский</comment>
+       </example>
+       <example>
+          <value>a law student</value>
+          <translation>студент-юрист</translation>
+          <comment>law - закон</comment>
+       </example>
+       <example>
+          <value>a student loan</value>
+          <translation>студенческий заем</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>half</question>
+    <answer>половина</answer>
+    <comment>[hɑːf ːː hæf]</comment>
+    <uuid>05ef7b34-2f8d-46e5-9b7d-b24470a64468</uuid>
+    <examples>
+       <example>
+          <value>She&apos;s four and a half years old.</value>
+          <translation>Ей четыре с половиной года.</translation>
+          <comment>year - год; old - старый</comment>
+       </example>
+       <example>
+          <value>He drank half a bottle of wine.</value>
+          <translation>Он выпил полбутылки вина.</translation>
+          <comment>to drink - пить</comment>
+       </example>
+       <example>
+          <value>I&apos;ve read half the book.</value>
+          <translation>Я прочитал половину книги.</translation>
+          <comment>to read - читать</comment>
+       </example>
+       <example>
+          <value>I&apos;ll be ready in half an hour.</value>
+          <translation>Я буду готова через полчаса.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>around</question>
+    <answer>кругом, вокруг</answer>
+    <comment>[əˈrаʊnd ːː əˈrаʊnd]</comment>
+    <uuid>7146afed-6f79-4c3d-9732-e01bb2c5b2f2</uuid>
+    <examples>
+       <example>
+          <value>around the city</value>
+          <translation>вокруг города</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The children are running around the table.</value>
+          <translation>Дети бегают вокруг стола.</translation>
+          <comment>to run - бегать</comment>
+       </example>
+       <example>
+          <value>They stood around him.</value>
+          <translation>Они стояли вокруг него.</translation>
+          <comment>to stand - стоять</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>language</question>
+    <answer>язык</answer>
+    <comment>[ˈlæŋgwɪʤ ːː ˈlæŋgwəʤ]</comment>
+    <uuid>a4ef656f-a0d0-4518-a834-84b540dd927a</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t speak this language.</value>
+          <translation>Я не говорю на этом языке.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What&apos;s your native language?</value>
+          <translation>Какой у тебя родной язык?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Chinese is a difficult language.</value>
+          <translation>Китайский трудный язык.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>walk</question>
+    <answer>гулять, ходить пешком</answer>
+    <comment>[wɔːk ːː wɒːk]</comment>
+    <uuid>8f988661-9805-4c77-8b58-7a39817f034f</uuid>
+    <examples>
+       <example>
+          <value>They walked for half an hour.</value>
+          <translation>Они гуляли полчаса.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s learning to walk.</value>
+          <translation>Он учится ходить.</translation>
+          <comment>to learn - учиться</comment>
+       </example>
+       <example>
+          <value>You&apos;re walking too fast.</value>
+          <translation>Ты слишком быстро идёшь.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>die</question>
+    <answer>умирать</answer>
+    <comment>[dаɪ ːː dаɪ]</comment>
+    <uuid>2209095a-b0e6-4f80-8943-62b203f947e1</uuid>
+    <examples>
+       <example>
+          <value>Every man dies, not every man really lives.</value>
+          <translation>Каждый умирает, но не каждый по-настоящему живёт.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>special</question>
+    <answer>особый</answer>
+    <comment>[ˈspeʃəl ːː ˈspeʃəl]</comment>
+    <uuid>db774923-5f99-47dd-b6cf-e29b0afad1d3</uuid>
+    <examples>
+       <example>
+          <value>She is very special.</value>
+          <translation>Она особенная.</translation>
+          <comment>very - очень</comment>
+       </example>
+       <example>
+          <value>We have a special guest.</value>
+          <translation>У нас особый гость.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>special treatment</value>
+          <translation>особое отношение</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a special case</value>
+          <translation>особый случай</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>difficult</question>
+    <answer>трудный</answer>
+    <comment>[ˈdɪfɪkəlt ːː ˈdɪfəkəlt]</comment>
+    <uuid>8d6fbacf-0804-4b61-8151-67a38773fccf</uuid>
+    <examples>
+       <example>
+          <value>Japanese is a difficult language.</value>
+          <translation>Японский трудный язык.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Physics is a difficult subject.</value>
+          <translation>Физика трудный предмет.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It&apos;s difficult to say.</value>
+          <translation>Трудно сказать.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>international</question>
+    <answer>международный</answer>
+    <comment>[ˌɪntəˈnæʃənl ːː ˌɪntərˈnæʃənəl]</comment>
+    <uuid>b7fbff3d-dc0a-49cb-8bd5-543b289a7e99</uuid>
+    <examples>
+       <example>
+          <value>international recognition</value>
+          <translation>международное признание</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the international community</value>
+          <translation>международное сообщество</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>an international organization</value>
+          <translation>международная организация</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>particularly</question>
+    <answer>особенно, особо</answer>
+    <comment>[pəˈtɪkjʊləlɪ ːː ˌpɑːrˈtɪkjələrliː]</comment>
+    <uuid>eed1cc41-0d58-4e00-88ec-c87f97fc7555</uuid>
+    <examples>
+       <example>
+          <value>The restaurant is particularly popular with young people.</value>
+          <translation>Этот ресторан особенно популярен среди молодёжи.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Steve was in a particularly bad mood when he got back.</value>
+          <translation>Стив был в особенно плохом настроении, когда вернулся.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>department</question>
+    <answer>отдел, отделение; кафедра</answer>
+    <comment>[dɪˈpɑːtmənt ːː dəˈpɑːrtmənt]</comment>
+    <uuid>a9b75432-1453-4daa-b84b-4037e8b2edc9</uuid>
+    <examples>
+       <example>
+          <value>the export department</value>
+          <translation>отдел экспорта</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the press department</value>
+          <translation>отдел печати</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the English department</value>
+          <translation>английское отделение, английская кафедра</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the department of modern languages</value>
+          <translation>кафедра современных языков</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>management</question>
+    <answer>управление, руководство (предприятием)</answer>
+    <comment>[ˈmænɪʤmənt ːː ˈmænəʤmənt]</comment>
+    <uuid>3e441238-6eed-45d8-bd4f-ab2e266946f9</uuid>
+    <examples>
+       <example>
+          <value>good management</value>
+          <translation>хорошее управление/руководство</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>management skills</value>
+          <translation>навыки руководства</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>bad management</value>
+          <translation>плохое управление</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Management is a skill that can be learned.</value>
+          <translation>Управление - это навык, которому можно научиться.</translation>
+          <comment>can be - может быть; learned - выучен</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>morning</question>
+    <answer>утро</answer>
+    <comment>[ˈmɔːnɪŋ ːː mˈɔːrnɪŋ]</comment>
+    <uuid>66ac1935-d225-4e59-b6e6-cdfbfa332db3</uuid>
+    <examples>
+       <example>
+          <value>Good morning!</value>
+          <translation>Доброе утро!</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>in the morning</value>
+          <translation>утром</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>this morning</value>
+          <translation>сегодня утром</translation>
+          <comment>this - этот</comment>
+       </example>
+       <example>
+          <value>all morning</value>
+          <translation>всё утро</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>draw</question>
+    <answer>рисовать (карандашом или ручкой)</answer>
+    <comment>[drɔː ːː drɒː]</comment>
+    <uuid>dde9dc61-abc4-4f66-8b55-d716cebf696c</uuid>
+    <examples>
+       <example>
+          <value>Draw a bear.</value>
+          <translation>Нарисуй медведя.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Sam drew a picture of Kate.</value>
+          <translation>Сэм нарисовал портрет Кейт.</translation>
+          <comment>a picture - картина</comment>
+       </example>
+       <example>
+          <value>I&apos;ve drawn two rabbits.</value>
+          <translation>Я нарисовал двух кроликов.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I can&apos;t draw very well.</value>
+          <translation>Я не очень хорошо рисую.</translation>
+          <comment>I can&apos;t - я не умею</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>hope</question>
+    <answer>надеяться</answer>
+    <comment>[həʊp ːː hoʊp]</comment>
+    <uuid>864fae71-18b6-450e-8c78-f60dd6ffb882</uuid>
+    <examples>
+       <example>
+          <value>I hope to see you soon.</value>
+          <translation>Надеюсь тебя скоро увидеть.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I hope he won&apos;t be late.</value>
+          <translation>Я надеюсь, что он не опоздает.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I hope he found a room.</value>
+          <translation>Я надеюсь, что он нашёл комнату.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I hope she&apos;s OK.</value>
+          <translation>Я надеюсь, что она в порядке.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He hopes to return to Russia.</value>
+          <translation>Он надеется вернуться в Россию.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>across</question>
+    <answer>поперёк, через</answer>
+    <comment>[əˈkrɒs ːː əˈkrɒːs]</comment>
+    <uuid>1cf1fefe-7d9c-4831-bbfc-ef974645b47b</uuid>
+    <examples>
+       <example>
+          <value>across the road</value>
+          <translation>через дорогу</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>across the ocean</value>
+          <translation>через океан</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Can you swim across the river?</value>
+          <translation>Ты (с)можешь переплыть через реку?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He led her across the street.</value>
+          <translation>Он перевёл её через улицу.</translation>
+          <comment>to lead - вести</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>plan</question>
+    <answer>план</answer>
+    <comment>[plæn ːː plæn]</comment>
+    <uuid>497965f4-d8a6-449a-b5b0-9127dc7a4e69</uuid>
+    <examples>
+       <example>
+          <value>Do you have a plan?</value>
+          <translation>У тебя есть какой-нибудь план?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What are your plans for the weekend?</value>
+          <translation>Какие у тебя планы на выходные?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He didn&apos;t tell me about his plans.</value>
+          <translation>Он не рассказал мне о своих планах.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What do you think of my plan?</value>
+          <translation>Что ты думаешь о моём плане?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>product</question>
+    <answer>продукт, изделие</answer>
+    <comment>[ˈprɒdʌkt ːː ˈprɑːdəkt]</comment>
+    <uuid>0313e8d4-e941-4bc7-b774-a596715c7795</uuid>
+    <examples>
+       <example>
+          <value>That store offers a variety of products.</value>
+          <translation>Этот магазин предлагает целый спектр товаров.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>consumer products</value>
+          <translation>потребительские товары</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the finished product</value>
+          <translation>готовое изделие</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>dairy products</value>
+          <translation>молочные изделия</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the gross national product</value>
+          <translation>валовый национальный продукт</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>city</question>
+    <answer>(большой) город</answer>
+    <comment>[ˈsɪtɪ ːː ˈsɪtiː]</comment>
+    <uuid>beae3a9d-d390-40e7-980e-65039d55c742</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s from a village, but he wants to live in a city.</value>
+          <translation>Он из деревни, но хочет жить в (большом) городе.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>city life</value>
+          <translation>городская жизнь</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Ancient Troy was a great city.</value>
+          <translation>Древняя Троя была великим городом.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a city dweller</value>
+          <translation>городской житель</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>early</question>
+    <answer>рано</answer>
+    <comment>[ˈɜːlɪ ːː ˈɜːrliː]</comment>
+    <uuid>2793cb16-c39a-4a81-909f-ab7aceab1441</uuid>
+    <examples>
+       <example>
+          <value>We arrived early.</value>
+          <translation>При приехали рано.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She graduated early.</value>
+          <translation>Она рано закончила учёбу.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>committee</question>
+    <answer>комитет, комиссия</answer>
+    <comment>[kəˈmɪtɪ ːː kəˈmɪtiː]</comment>
+    <uuid>365e3943-b797-4876-bd58-2aabfd07b90a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m on the committee.</value>
+          <translation>Я вхожу в комиссию.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>A committee is a group that keeps minutes and loses hours.</value>
+          <translation>Комитет - это группа, которая экономит минуты и теряет часы.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to appoint a committee</value>
+          <translation>назначать комиссию</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>ground</question>
+    <answer>земля, почва</answer>
+    <comment>[grаʊnd ːː grаʊnd]</comment>
+    <uuid>e4110570-81f4-47a0-8583-0eaa1e290422</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t sit on the ground.</value>
+          <translation>Не сиди на земле.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He dropped the logs on the ground.</value>
+          <translation>Он бросил брёвна на землю.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He fell to the ground.</value>
+          <translation>Он упал на землю.</translation>
+          <comment>to fall - падать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>letter</question>
+    <answer>письмо</answer>
+    <comment>[ˈletə ːː ˈletər]</comment>
+    <uuid>6c3ea767-8c47-4850-ad3d-c127773caea3</uuid>
+    <examples>
+       <example>
+          <value>When did you receive my letter?</value>
+          <translation>Когда ты получил моё письмо?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Have you sent the letter?</value>
+          <translation>Ты отправил письмо?</translation>
+          <comment>to send - посылать, отправлять</comment>
+       </example>
+       <example>
+          <value>He&apos;s writing a letter.</value>
+          <translation>Он пишет письмо.</translation>
+          <comment>to write - писать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>create</question>
+    <answer>творить, создавать</answer>
+    <comment>[kriːˈeɪt ːː kriːˈeɪt]</comment>
+    <uuid>eb03a6f7-8b22-4c7b-9c5d-aac9daab3c34</uuid>
+    <examples>
+       <example>
+          <value>Who created us?</value>
+          <translation>Кто нас создал?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>If you want money, you have to create something of value.</value>
+          <translation>Если ты хочешь денег, то должен создать что-то стоящее.</translation>
+          <comment>of value - ценное, стоящее; value - цена, стоимость, ценность</comment>
+       </example>
+       <example>
+          <value>His behavior is creating a lot of problems.</value>
+          <translation>Его поведение создаёт много проблем.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>evidence</question>
+    <answer>основание; признак; данные, факты</answer>
+    <comment>[ˈevɪdəns ːː ˈevədəns]</comment>
+    <uuid>c945c2b6-a65c-47eb-86ef-fd3cdcd5d9ab</uuid>
+    <examples>
+       <example>
+          <value>There is no evidence for these claims.</value>
+          <translation>Эти заявления ничем не обоснованы.</translation>
+          <comment>there is no evidence - нет никаких оснований; claims - заявления</comment>
+       </example>
+       <example>
+          <value>historical evidence</value>
+          <translation>исторические факты</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>We have no evidence of life on Mars.</value>
+          <translation>У нас нет оснований считать, что на Марсе есть жизнь.</translation>
+          <comment>evidence of life - признаки жизни</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>foot</question>
+    <answer>ступня</answer>
+    <comment>[fʊt ːː fʊt]</comment>
+    <uuid>3c8fcfac-3a7b-48a0-b994-28a24d6a990f</uuid>
+    <examples>
+       <example>
+          <value>I hurt my foot.</value>
+          <translation>Я ушиб ногу (ступню).</translation>
+          <comment>to hurt - ушибить, поранить</comment>
+       </example>
+       <example>
+          <value>Wipe your feet.</value>
+          <translation>Вытирайте ноги.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>on foot</value>
+          <translation>пешком</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;ve been on my feet all day.</value>
+          <translation>Я весь день на ногах.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>clear</question>
+    <answer>ясный</answer>
+    <comment>[klɪə ːː klɪr]</comment>
+    <uuid>d2e157a5-0d7f-480d-9fae-d53d1da0a25a</uuid>
+    <examples>
+       <example>
+          <value>clear instructions</value>
+          <translation>ясные инструкции</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It was clear to him that something was missing.</value>
+          <translation>Ему было ясно, что чего-то недостаёт.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Do I make myself clear?</value>
+          <translation>Я ясно выражаюсь?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>boy</question>
+    <answer>мальчик</answer>
+    <comment>[bɔɪ ːː bɔɪ]</comment>
+    <uuid>8f17928f-e0fa-4abd-86e0-b813b53a6e49</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s just a boy.</value>
+          <translation>Он всего-лишь мальчишка.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She has two boys and a girl.</value>
+          <translation>У неё два мальчика и одна девочка.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>game</question>
+    <answer>игра</answer>
+    <comment>[geɪm ːː geɪm]</comment>
+    <uuid>3803b96b-fd20-4846-bf42-14c312ea1080</uuid>
+    <examples>
+       <example>
+          <value>The game has begun.</value>
+          <translation>Игра началась.</translation>
+          <comment>to begin - начинаться</comment>
+       </example>
+       <example>
+          <value>Have you ever played this game?</value>
+          <translation>Ты когда-нибудь играл в эту игру?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Did you like the game?</value>
+          <translation>Тебе понравилась игра?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>food</question>
+    <answer>пища, еда</answer>
+    <comment>[fuːd ːː fuːd]</comment>
+    <uuid>fb7dce09-e729-4fea-a39d-0cb28e2cd336</uuid>
+    <examples>
+       <example>
+          <value>food and drink</value>
+          <translation>еда и питьё</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>wholesome food</value>
+          <translation>здоровая пища</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>food for thought</value>
+          <translation>пища для размышлений</translation>
+          <comment>thought - мысль</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>role</question>
+    <answer>роль</answer>
+    <comment>[rəʊl ːː roʊl]</comment>
+    <uuid>a3a92896-db59-4f83-b4b1-00a37488d0b4</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s your role in this affair?</value>
+          <translation>Какова твоя роль в этом деле?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>to play a leading role</value>
+          <translation>играть главную роль</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>an important role</value>
+          <translation>важная роль</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Parents play an important role in the education of their children.</value>
+          <translation>Родители играют важную роль в обучении/воспитании своих детей.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>practice</question>
+    <answer>практика</answer>
+    <comment>[ˈpræktɪs ːː ˈpræktɪs]</comment>
+    <uuid>af341f33-93ff-4c70-97e3-960891fc9afd</uuid>
+    <examples>
+       <example>
+          <value>Practice is the key to success in music.</value>
+          <translation>Практика - ключ к успеху в музыке.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He lacks practice.</value>
+          <translation>Ему не хватает практики.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It takes hours of practice to learn to operate it.</value>
+          <translation>Чтобы научиться им управлять, нужны (многие) часы практики.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>bank</question>
+    <answer>банк</answer>
+    <comment>[bæŋk ːː bæŋk]</comment>
+    <uuid>c0119ef2-c929-44af-9d26-d3a53f8adc96</uuid>
+    <examples>
+       <example>
+          <value>They&apos;ve robbed a bank.</value>
+          <translation>Они ограбили банк.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She works in a bank.</value>
+          <translation>Она работает в банке.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I&apos;m going to the bank.</value>
+          <translation>Я иду в банк.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>else</question>
+    <answer>ещё (напр. что-нибудь ещё, кто-нибудь ещё)</answer>
+    <comment>[els ːː els]</comment>
+    <uuid>c3a1591a-e0b4-4a9b-a897-8ad88c4e0fba</uuid>
+    <examples>
+       <example>
+          <value>Who else was at the party?</value>
+          <translation>Кто ещё был на вечеринке?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Everyone else had gone.</value>
+          <translation>Все остальные уже ушли.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Everything else is already done.</value>
+          <translation>Всё остальное уже сделано.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Anything else?</value>
+          <translation>Что-нибудь ещё?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>I don&apos;t know where else to look.</value>
+          <translation>Я не знаю, где ещё искать.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>support</question>
+    <answer>поддерживать</answer>
+    <comment>[səˈpɔːt ːː səˈpɔːrt]</comment>
+    <uuid>2a885346-1fcd-447d-9f94-7f0884c0edb7</uuid>
+    <examples>
+       <example>
+          <value>We need to support our teachers.</value>
+          <translation>Нам надо поддержать наших учителей.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Do you support this idea?</value>
+          <translation>Ты поддерживаешь эту идею?</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sell</question>
+    <answer>продавать</answer>
+    <comment>[sel ːː sel]</comment>
+    <uuid>9c4bf432-bdbb-4c6d-b455-613751d9340b</uuid>
+    <examples>
+       <example>
+          <value>He sold his computer last year.</value>
+          <translation>Он в прошлом году продал свой компьютер.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>What do they sell?</value>
+          <translation>Что они продают.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>They sell cars.</value>
+          <translation>Они продают машины.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>event</question>
+    <answer>событие</answer>
+    <comment>[ɪˈvent ːː ɪˈvent]</comment>
+    <uuid>669375bd-7cd8-442f-83c4-9a4b1ee1efee</uuid>
+    <examples>
+       <example>
+          <value>an important event</value>
+          <translation>важное событие</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>the main events of this year</value>
+          <translation>главные события этого года</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>a happy event</value>
+          <translation>счастливое событие</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>building</question>
+    <answer>здание</answer>
+    <comment>[ˈbɪldɪŋ ːː ˈbɪldɪŋ]</comment>
+    <uuid>5b407e02-f226-4960-bbf6-b9ef50972fd6</uuid>
+    <examples>
+       <example>
+          <value>They want to tear down that building.</value>
+          <translation>Они хотят снести это здание.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The building is used as a workshop.</value>
+          <translation>Это здание используется как мастерская.</translation>
+          <comment>to use - использовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>range</question>
+    <answer>ряд (услуг, заболеваний и т.п.)</answer>
+    <comment>[reɪnʤ ːː reɪnʤ]</comment>
+    <uuid>9ac723bf-0227-43e7-b4f4-93cb2540a5ae</uuid>
+    <examples>
+       <example>
+          <value>They are providing a range of services.</value>
+          <translation>Они предоставляют ряд услуг.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>The drug is effective against a range of bacteria.</value>
+          <translation>Это лекарство эффективно против целого ряда бактерий.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He answered a range of questions.</value>
+          <translation>Он ответил на ряд вопросов.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>behind</question>
+    <answer>за, позади</answer>
+    <comment>[bɪˈhаɪnd ːː bəˈhаɪnd]</comment>
+    <uuid>f74bc034-2fb7-4a42-b88a-9452b1f6661d</uuid>
+    <examples>
+       <example>
+          <value>behind the door</value>
+          <translation>за дверью</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Look behind you.</value>
+          <translation>Посмотри сзади.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>He&apos;s hiding behind the tree.</value>
+          <translation>Он прячется за деревом.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>sure</question>
+    <answer>уверенный</answer>
+    <comment>[ʃʊə ːː ʃʊr]</comment>
+    <uuid>a3175041-871b-46be-a6ec-64d71a382dc0</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m sure he&apos;s lying.</value>
+          <translation>Я уверен, что он лжёт.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>Are you sure?</value>
+          <translation>Ты уверен?</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>She was sure she had seen it.</value>
+          <translation>Она была уверена, что видела это уже раньше.</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card>
+    <question>report</question>
+    <answer>сообщать</answer>
+    <comment>[rɪˈpɔːt ːː riːˈpɔːrt]</comment>
+    <uuid>9ecb6afd-4bff-41ab-b6fd-801766ecb032</uuid>
+    <examples>
+       <example>
+          <value>The incident was reported in the newspaper.</value>
+          <translation>О происшествии было напечатано в газете.</translation>
+          <comment></comment>
+       </example>
+       <example>
+          <value>It is reported from Rome that ...</value>
+          <translation>Из Рима сообщают, что...</translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>164a2093-864c-483a-8089-6689541e40ab</uuid>
+  <title>Частотный немецкий 4</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2016</year>
+     <month>9</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>entwickeln</question>
+    <answer>разрабатывать, проектировать, конструировать</answer>
+    <comment></comment>
+    <uuid>bbbf6ab0-aecc-4fcd-b7ad-4cfa1e94b1ed</uuid>
+  </card>
+  <card>
+    <question>USA</question>
+    <answer>Соединенные Штаты Америки</answer>
+    <comment></comment>
+    <uuid>dc9e1221-3ccc-4672-afa4-709d95abfeee</uuid>
+  </card>
+  <card>
+    <question>allein</question>
+    <answer>в одиночку, в одиночестве</answer>
+    <comment></comment>
+    <uuid>ca4dabc3-b488-4dc0-8638-d201e84008c0</uuid>
+  </card>
+  <card>
+    <question>die Partei</question>
+    <answer>партия, сторона</answer>
+    <comment></comment>
+    <uuid>957cfdca-aa2c-4931-9f01-136a23ce9785</uuid>
+  </card>
+  <card>
+    <question>die Stunde</question>
+    <answer>час</answer>
+    <comment></comment>
+    <uuid>e605416c-168f-4b57-8f3b-7b534529e527</uuid>
+  </card>
+  <card>
+    <question>der Artikel</question>
+    <answer>статья, заметка</answer>
+    <comment></comment>
+    <uuid>7c3e2dbd-804d-47e3-ab23-2b0245958024</uuid>
+  </card>
+  <card>
+    <question>handeln</question>
+    <answer>торговать</answer>
+    <comment></comment>
+    <uuid>20392c76-19e4-4e3c-868a-cf49aa0c2a0f</uuid>
+  </card>
+  <card>
+    <question>eben</question>
+    <answer>только что</answer>
+    <comment></comment>
+    <uuid>9320527c-3372-4056-ada1-14be2781a4cd</uuid>
+  </card>
+  <card>
+    <question>die Familie</question>
+    <answer>семья</answer>
+    <comment></comment>
+    <uuid>84106b28-7517-467e-b992-7f8bc8061d0d</uuid>
+  </card>
+  <card>
+    <question>Interesse</question>
+    <answer>интерес</answer>
+    <comment></comment>
+    <uuid>ff121fdf-e88a-4d13-90c6-aad59c3bbbcd</uuid>
+  </card>
+  <card>
+    <question>die Schule</question>
+    <answer>школа, училище</answer>
+    <comment></comment>
+    <uuid>7e9b516e-047b-4cb9-9e1b-996b7812f0d8</uuid>
+  </card>
+  <card>
+    <question>statt</question>
+    <answer>вместо</answer>
+    <comment></comment>
+    <uuid>3b3e832e-2ff3-4d8e-9c10-483f5f37a652</uuid>
+  </card>
+  <card>
+    <question>eher</question>
+    <answer>раньше</answer>
+    <comment></comment>
+    <uuid>f8186252-1fa0-4516-82f5-b63e8c567342</uuid>
+  </card>
+  <card>
+    <question>einzig</question>
+    <answer>единственный</answer>
+    <comment></comment>
+    <uuid>32e1adbb-1bc5-48bb-a0c7-e64059f071a0</uuid>
+  </card>
+  <card>
+    <question>das Ergebnis</question>
+    <answer>результат; итог</answer>
+    <comment></comment>
+    <uuid>c5fdc4de-8b1b-4a8d-a107-a026ffb7fb71</uuid>
+  </card>
+  <card>
+    <question>hören</question>
+    <answer>слышать</answer>
+    <comment></comment>
+    <uuid>1632a0db-4bc3-4ae0-bf1c-8bc3be6e0fe0</uuid>
+  </card>
+  <card>
+    <question>die Stelle</question>
+    <answer>место</answer>
+    <comment></comment>
+    <uuid>072e562f-da15-429b-80c3-6f435d27aba8</uuid>
+  </card>
+  <card>
+    <question>je</question>
+    <answer>когда-нибудь, когда-либо</answer>
+    <comment></comment>
+    <uuid>af1928f1-f357-45ec-a1de-73cf07f58982</uuid>
+  </card>
+  <card>
+    <question>allgemein</question>
+    <answer>общий, всеобщий</answer>
+    <comment></comment>
+    <uuid>ec0fb390-a64c-4596-a83d-32db5e34de45</uuid>
+  </card>
+  <card>
+    <question>legen</question>
+    <answer>положить, класть</answer>
+    <comment></comment>
+    <uuid>c88d8323-d1be-4063-aeab-f58a1070a3b4</uuid>
+  </card>
+  <card>
+    <question>die Aufgabe</question>
+    <answer>задача, задание</answer>
+    <comment></comment>
+    <uuid>c0232e47-5250-465f-9ec0-aecf9478e49d</uuid>
+  </card>
+  <card>
+    <question>der Text</question>
+    <answer>текст</answer>
+    <comment></comment>
+    <uuid>3e452655-716d-4520-85d3-3b404c0ba023</uuid>
+  </card>
+  <card>
+    <question>früh</question>
+    <answer>рано</answer>
+    <comment></comment>
+    <uuid>c588bb61-166a-4f35-b74f-dfe560d9b850</uuid>
+  </card>
+  <card>
+    <question>die Million</question>
+    <answer>миллион</answer>
+    <comment></comment>
+    <uuid>03ca1eef-229f-493b-b5c9-cd027035233b</uuid>
+  </card>
+  <card>
+    <question>das Mitglied</question>
+    <answer>член (организации)</answer>
+    <comment></comment>
+    <uuid>606be166-3aca-42db-89e3-ba7e7588c87f</uuid>
+  </card>
+  <card>
+    <question>der Beitrag</question>
+    <answer>вклад, взнос</answer>
+    <comment></comment>
+    <uuid>37e746d6-5f02-4971-b40e-284847ae23cb</uuid>
+  </card>
+  <card>
+    <question>entstehen</question>
+    <answer>возникать</answer>
+    <comment></comment>
+    <uuid>a17c2d38-ae77-4f97-92ae-1ff99d91360c</uuid>
+  </card>
+  <card>
+    <question>der Krieg</question>
+    <answer>война</answer>
+    <comment></comment>
+    <uuid>5ccc41e6-cebe-4582-a547-55cd29ef1186</uuid>
+  </card>
+  <card>
+    <question>direkt</question>
+    <answer>прямой, непосредственный</answer>
+    <comment></comment>
+    <uuid>35cd8578-20e8-4d8b-8edf-b0f10b4f99bf</uuid>
+  </card>
+  <card>
+    <question>voll</question>
+    <answer>полный, наполненный</answer>
+    <comment></comment>
+    <uuid>e2a74f3b-9105-40b8-981c-dc4261556f40</uuid>
+  </card>
+  <card>
+    <question>überhaupt</question>
+    <answer>вообще, в общем</answer>
+    <comment></comment>
+    <uuid>5a5b63a0-5407-43b3-94e7-b0d40afe441e</uuid>
+  </card>
+  <card>
+    <question>vier</question>
+    <answer>четыре</answer>
+    <comment></comment>
+    <uuid>474eff2e-becc-406d-a6eb-85dcd4c25480</uuid>
+  </card>
+  <card>
+    <question>laufen</question>
+    <answer>бежать, бегать</answer>
+    <comment></comment>
+    <uuid>212b7c86-50e8-4c5d-8b3f-217e7113f576</uuid>
+  </card>
+  <card>
+    <question>folgen</question>
+    <answer>следовать, идти (за кем-л.)</answer>
+    <comment></comment>
+    <uuid>761e529d-71ad-4a11-8eca-26eefb14ee87</uuid>
+  </card>
+  <card>
+    <question>der Film</question>
+    <answer>фильм, кино, кинофильм</answer>
+    <comment></comment>
+    <uuid>39872831-c11d-445f-b75d-4d4c11999812</uuid>
+  </card>
+  <card>
+    <question>die Erfahrung</question>
+    <answer>опыт (практический, жизненный опыт)</answer>
+    <comment></comment>
+    <uuid>e9fb85b3-329c-48ad-879c-4fb22c9b00ba</uuid>
+  </card>
+  <card>
+    <question>der Anfang</question>
+    <answer>начало</answer>
+    <comment></comment>
+    <uuid>388876d1-d7b0-4dc8-a612-701543da2463</uuid>
+  </card>
+  <card>
+    <question>treten</question>
+    <answer>входить (в комнату и т.п.)</answer>
+    <comment></comment>
+    <uuid>5a1a1f44-15b2-4ad4-a0d5-859c90c2ecfc</uuid>
+  </card>
+  <card>
+    <question>Europa</question>
+    <answer>Европа</answer>
+    <comment></comment>
+    <uuid>b58c6a30-92fb-4b9f-87bd-535626b9cf77</uuid>
+  </card>
+  <card>
+    <question>der Vater</question>
+    <answer>отец</answer>
+    <comment></comment>
+    <uuid>0c0435fb-12bb-4d11-8967-507256403a40</uuid>
+  </card>
+  <card>
+    <question>bisher</question>
+    <answer>до сих пор</answer>
+    <comment></comment>
+    <uuid>389c3699-a612-414c-8c4e-2427d50adc02</uuid>
+  </card>
+  <card>
+    <question>erkennen</question>
+    <answer>узнавать (по голосу и т.п.)</answer>
+    <comment></comment>
+    <uuid>ab4636f6-96c2-4c16-9b75-ac288088bf76</uuid>
+  </card>
+  <card>
+    <question>daran</question>
+    <answer>об этом, в этом</answer>
+    <comment></comment>
+    <uuid>e7cf37a9-a176-42a0-8fe8-024188902dd8</uuid>
+  </card>
+  <card>
+    <question>mehrere</question>
+    <answer>некоторые, несколько</answer>
+    <comment></comment>
+    <uuid>d772a0a0-1816-4c0b-bb57-45c775de7224</uuid>
+  </card>
+  <card>
+    <question>verlieren</question>
+    <answer>терять</answer>
+    <comment></comment>
+    <uuid>bd3e1f7f-e47b-4a95-a411-f7d51c30f511</uuid>
+  </card>
+  <card>
+    <question>die Sache</question>
+    <answer>вещь, предмет</answer>
+    <comment></comment>
+    <uuid>29fcc1e5-2649-4ee4-8b05-381b39cf3d4d</uuid>
+  </card>
+  <card>
+    <question>der Kommentar</question>
+    <answer>комментарий, пояснение</answer>
+    <comment></comment>
+    <uuid>2ff7b157-47fd-41c8-8dce-1c42440b464e</uuid>
+  </card>
+  <card>
+    <question>die Politik</question>
+    <answer>политика</answer>
+    <comment></comment>
+    <uuid>5bd48c1f-9cfc-48f5-b1ad-e220d26e14f2</uuid>
+  </card>
+  <card>
+    <question>fest</question>
+    <answer>твердый, плотный</answer>
+    <comment></comment>
+    <uuid>e7da3b0c-081a-487e-8249-dc0d3882b900</uuid>
+  </card>
+  <card>
+    <question>schlecht</question>
+    <answer>плохой, дурной</answer>
+    <comment></comment>
+    <uuid>a4fab417-2c32-4d0e-9860-4c14bfa84c6c</uuid>
+  </card>
+  <card>
+    <question>lange</question>
+    <answer>долгий</answer>
+    <comment></comment>
+    <uuid>9b0604e4-f9bd-4e60-abef-d43794a07db0</uuid>
+  </card>
+  <card>
+    <question>rund</question>
+    <answer>круглый</answer>
+    <comment></comment>
+    <uuid>2545d51a-8d37-4360-8fda-7e68bf68ec4c</uuid>
+  </card>
+  <card>
+    <question>zunächst</question>
+    <answer>прежде всего</answer>
+    <comment></comment>
+    <uuid>f73ba5c6-9795-46d2-990d-12fdc2afcdb0</uuid>
+  </card>
+  <card>
+    <question>oben</question>
+    <answer>наверху, сверху, выше</answer>
+    <comment></comment>
+    <uuid>9f6af120-b1cd-4e20-9d7e-32ce251b41f9</uuid>
+  </card>
+  <card>
+    <question>die Folge</question>
+    <answer>следствие, результат</answer>
+    <comment></comment>
+    <uuid>0ba113e9-17b2-4cc4-8367-47dfd03141b2</uuid>
+  </card>
+  <card>
+    <question>helfen</question>
+    <answer>помогать</answer>
+    <comment></comment>
+    <uuid>d31c0569-9c31-4179-bdd4-329538066738</uuid>
+  </card>
+  <card>
+    <question>die Kraft</question>
+    <answer>сила</answer>
+    <comment></comment>
+    <uuid>4f4a5b94-ca9f-445e-8382-21a50d7158d6</uuid>
+  </card>
+  <card>
+    <question>bedeuten</question>
+    <answer>означать, значить</answer>
+    <comment></comment>
+    <uuid>ef56bd87-ad14-4587-8562-f482d56984e4</uuid>
+  </card>
+  <card>
+    <question>außerdem</question>
+    <answer>кроме того, помимо того</answer>
+    <comment></comment>
+    <uuid>93d40352-ad5d-49e8-8cd9-389e60e6b280</uuid>
+  </card>
+  <card>
+    <question>die Mutter</question>
+    <answer>мать</answer>
+    <comment></comment>
+    <uuid>0011c684-f892-4128-b979-1b0b5bbd45d5</uuid>
+  </card>
+  <card>
+    <question>das Programm</question>
+    <answer>программа (концерта, ...)</answer>
+    <comment></comment>
+    <uuid>bd0da3de-9778-40b4-9493-d6fb29440255</uuid>
+  </card>
+  <card>
+    <question>die Rolle</question>
+    <answer>роль</answer>
+    <comment></comment>
+    <uuid>eabd5795-cb3f-456e-b61f-ce8a1e69a60c</uuid>
+  </card>
+  <card>
+    <question>hinter</question>
+    <answer>позади, за</answer>
+    <comment></comment>
+    <uuid>3d5654c9-f989-4558-aa92-3bbd1cf7fb4f</uuid>
+  </card>
+  <card>
+    <question>ziehen</question>
+    <answer>тянуть, тащить</answer>
+    <comment></comment>
+    <uuid>326106fa-dc6d-4ec8-858c-ef91f2d507fe</uuid>
+  </card>
+  <card>
+    <question>der Freund</question>
+    <answer>друг</answer>
+    <comment></comment>
+    <uuid>c00517b0-8942-483e-a744-d99ddfcbe481</uuid>
+  </card>
+  <card>
+    <question>tatsächlich</question>
+    <answer>на самом деле, в самом деле</answer>
+    <comment></comment>
+    <uuid>a6e3e8fa-1986-4396-82ea-efbb04f547a3</uuid>
+  </card>
+  <card>
+    <question>die Situation</question>
+    <answer>ситуация</answer>
+    <comment></comment>
+    <uuid>6e870f67-f635-4a81-b479-f313530dea9b</uuid>
+  </card>
+  <card>
+    <question>das Projekt</question>
+    <answer>проект, план, намерение</answer>
+    <comment></comment>
+    <uuid>9fb79152-0c8c-48f8-b278-305c5d3898fa</uuid>
+  </card>
+  <card>
+    <question>die Zahl</question>
+    <answer>число</answer>
+    <comment></comment>
+    <uuid>4068d7a9-b131-4cc1-88e8-4bb28d28dace</uuid>
+  </card>
+  <card>
+    <question>ebenso</question>
+    <answer>так же, такой же</answer>
+    <comment></comment>
+    <uuid>453eaa07-623a-4abf-bd91-e73f6581d581</uuid>
+  </card>
+  <card>
+    <question>persönlich</question>
+    <answer>личный, персональный</answer>
+    <comment></comment>
+    <uuid>9c25c97e-507d-4fd9-b9f4-eaca759b6920</uuid>
+  </card>
+  <card>
+    <question>der Punkt</question>
+    <answer>точка</answer>
+    <comment></comment>
+    <uuid>29f81f3b-2109-4ed0-816a-5eecabc1a35c</uuid>
+  </card>
+  <card>
+    <question>das Spiel</question>
+    <answer>игра</answer>
+    <comment></comment>
+    <uuid>23558bb5-4344-4911-91a7-1b17b80fd282</uuid>
+  </card>
+  <card>
+    <question>das Internet</question>
+    <answer>Интернет</answer>
+    <comment></comment>
+    <uuid>0345a3c7-717b-4898-8831-8dd34d0ef416</uuid>
+  </card>
+  <card>
+    <question>weniger</question>
+    <answer>меньше, менее</answer>
+    <comment></comment>
+    <uuid>3a2b6c4d-a9eb-44ec-b35b-546b6d58f60e</uuid>
+  </card>
+  <card>
+    <question>die Bedeutung</question>
+    <answer>значение, смысл</answer>
+    <comment></comment>
+    <uuid>d95305ea-698e-4394-a1f2-e69c47e61d39</uuid>
+  </card>
+  <card>
+    <question>lieb</question>
+    <answer>милый, дорогой</answer>
+    <comment></comment>
+    <uuid>95e60ace-3fd3-4dcf-aff9-2ba0583e8d51</uuid>
+  </card>
+  <card>
+    <question>dadurch</question>
+    <answer>тем, этим; вследствие этого</answer>
+    <comment></comment>
+    <uuid>b762ae0e-c5f3-4e6e-9ffb-298b2180e1a9</uuid>
+  </card>
+  <card>
+    <question>obwohl</question>
+    <answer>хотя, несмотря на то, что</answer>
+    <comment></comment>
+    <uuid>d9f29d30-6df8-4fcb-89a2-e0dddcb2c3b7</uuid>
+  </card>
+  <card>
+    <question>die Hilfe</question>
+    <answer>помощь</answer>
+    <comment></comment>
+    <uuid>9ebb6da2-1090-4a23-aa11-8afb4ecf0ce6</uuid>
+  </card>
+  <card>
+    <question>ebenfalls</question>
+    <answer>также, тоже</answer>
+    <comment></comment>
+    <uuid>481f1b89-c877-4d98-81eb-d65c8ba7f853</uuid>
+  </card>
+  <card>
+    <question>das Datum</question>
+    <answer>дата</answer>
+    <comment></comment>
+    <uuid>9c96c675-1d52-43bf-8163-89f1ad84f086</uuid>
+  </card>
+  <card>
+    <question>das Ding</question>
+    <answer>предмет, вещь</answer>
+    <comment></comment>
+    <uuid>65a2a715-0a44-4cde-8e45-b5beddf9701c</uuid>
+  </card>
+  <card>
+    <question>nämlich</question>
+    <answer>потому что, так как</answer>
+    <comment></comment>
+    <uuid>6c819906-14a0-4a55-aa3f-7cf12ac1c4e9</uuid>
+  </card>
+  <card>
+    <question>innerhalb</question>
+    <answer>внутри, в</answer>
+    <comment></comment>
+    <uuid>f207911e-6354-40a8-9d0b-7753f00e286b</uuid>
+  </card>
+  <card>
+    <question>insbesondere</question>
+    <answer>в частности, в особенности</answer>
+    <comment></comment>
+    <uuid>4c1f88c8-3ab2-4ef9-97d1-09d858a8abf9</uuid>
+  </card>
+  <card>
+    <question>der Ort</question>
+    <answer>место, пункт</answer>
+    <comment></comment>
+    <uuid>75dfab15-67fa-44b2-8a70-f002559ada18</uuid>
+  </card>
+  <card>
+    <question>die Zukunft</question>
+    <answer>будущее</answer>
+    <comment></comment>
+    <uuid>3cb827a4-cc45-4c3f-9b9e-e7882753221e</uuid>
+  </card>
+  <card>
+    <question>der Raum</question>
+    <answer>помещение, комната</answer>
+    <comment></comment>
+    <uuid>816fe730-b8f1-44b3-89af-09aa5f534e04</uuid>
+  </card>
+  <card>
+    <question>lernen</question>
+    <answer>учиться, учить</answer>
+    <comment></comment>
+    <uuid>66cb46e6-106d-419d-8bba-1d7ace402f98</uuid>
+  </card>
+  <card>
+    <question>völlig</question>
+    <answer>полностью, всецело</answer>
+    <comment></comment>
+    <uuid>77e2553c-7827-4a51-8043-33762baed2b2</uuid>
+  </card>
+  <card>
+    <question>unterschiedlich</question>
+    <answer>различный, разный</answer>
+    <comment></comment>
+    <uuid>94cf6f45-7ee0-4401-ab57-0d7fc3d6ecda</uuid>
+  </card>
+  <card>
+    <question>die Entscheidung</question>
+    <answer>решение</answer>
+    <comment></comment>
+    <uuid>6336e3ed-1797-4240-8571-4c0519aef1f4</uuid>
+  </card>
+  <card>
+    <question>anders</question>
+    <answer>другой</answer>
+    <comment></comment>
+    <uuid>1327b712-419b-4f99-a112-332e7d7fdcc0</uuid>
+  </card>
+  <card>
+    <question>die Kirche</question>
+    <answer>церковь</answer>
+    <comment></comment>
+    <uuid>1ae12bbe-b181-4aaa-a0d2-9d652fc344d1</uuid>
+  </card>
+  <card>
+    <question>offen</question>
+    <answer>открытый</answer>
+    <comment></comment>
+    <uuid>3eb251d0-afdd-4fce-8657-b55dfb15af98</uuid>
+  </card>
+  <card>
+    <question>häufig</question>
+    <answer>частый; часто</answer>
+    <comment></comment>
+    <uuid>40cfb6d0-befd-438d-b2c2-ecc043aeca13</uuid>
+  </card>
+  <card>
+    <question>die Sprache</question>
+    <answer>язык</answer>
+    <comment></comment>
+    <uuid>87175131-dea3-43cc-8352-ce3cfd9326b2</uuid>
+  </card>
+  <card>
+    <question>das Gesetz</question>
+    <answer>закон</answer>
+    <comment></comment>
+    <uuid>653918b1-2a33-485a-8ba4-99269b96f304</uuid>
+  </card>
+  <card>
+    <question>leider</question>
+    <answer>к сожалению</answer>
+    <comment></comment>
+    <uuid>bceadc16-fd15-428e-9db3-90716797dd88</uuid>
+  </card>
+</cards>
+</stack>

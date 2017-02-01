@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>accbb5c6-2ab0-4721-a834-5bcc9399a8b8</uuid>
+  <title>У зубного врача :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>anesthetic</question>
+    <answer>обезболивающее</answer>
+    <comment>[ˌænɪsˈθetɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0b5adc79-c5a7-4cb9-a186-ada5e39f0974</uuid>
+    <examples>
+       <example>
+          <value>to give an anesthetic</value>
+          <translation>сделать обезболивание</translation>
+          <comment>to give - дать, anesthetic - обезболивающее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>abscess</question>
+    <answer>нарыв</answer>
+    <comment>[ˈæbses]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55061941-0eb4-4f58-8ee9-4ab467f0f623</uuid>
+    <examples>
+       <example>
+          <value>to have a dental abscess</value>
+          <translation>иметь флюс</translation>
+          <comment>to have - иметь, dental - зубной, abscess - абсцесс, нарыв</comment>
+       </example>
+       <example>
+          <value>to have an abscess on a gum</value>
+          <translation>иметь нарыв на десне</translation>
+          <comment>to have - иметь, abscess - нарыв, gum - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fix</question>
+    <answer>исправить</answer>
+    <comment>[fɪks]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>98f37753-4386-47a3-ac03-bc8a08d5a42d</uuid>
+    <examples>
+       <example>
+          <value>to fix temporarily</value>
+          <translation>временно залечить</translation>
+          <comment>to fix - исправить, temporarily - временно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>temporary</question>
+    <answer>временный</answer>
+    <comment>[ˈtempəˌreriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b9d7299b-9ed0-4d81-9c7a-0516999a7d59</uuid>
+    <examples>
+       <example>
+          <value>to fix temporarily</value>
+          <translation>временно залечить</translation>
+          <comment>to fix - исправить, temporarily - временно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>denture</question>
+    <answer>протез</answer>
+    <comment>[ˈdenʧər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0fd61827-4f22-4f3e-8a91-8a37fe1fc9ad</uuid>
+    <examples>
+       <example>
+          <value>to break your denture</value>
+          <translation>сломать (твой) протез</translation>
+          <comment>to break - ломать, my - мой, моя, denture - протез</comment>
+       </example>
+       <example>
+          <value>to repair your denture</value>
+          <translation>отремонтировать (твой) протез</translation>
+          <comment>to repair - отремонтировать, denture - протез</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dental</question>
+    <answer>зубной</answer>
+    <comment>[ˈdentl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6a877188-8f31-40ae-9ed7-46f26e5dfec1</uuid>
+    <examples>
+       <example>
+          <value>a good dental clinic</value>
+          <translation>хорошая стоматология</translation>
+          <comment>good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>to have a dental abscess</value>
+          <translation>иметь флюс</translation>
+          <comment>to have - иметь, dental - зубной, abscess - абсцесс, нарыв</comment>
+       </example>
+       <example>
+          <value>to recommend a good dental clinic</value>
+          <translation>порекомендовать хорошую стоматологию</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cavity</question>
+    <answer>дупло</answer>
+    <comment>[ˈkævɪtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02a6c0fd-43e7-4a8f-aa86-ea3b110cb119</uuid>
+    <examples>
+       <example>
+          <value>to have a cavity in a tooth</value>
+          <translation>иметь дупло в зубе</translation>
+          <comment>to have - иметь, cavity - дупло, tooth - зуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>crown</question>
+    <answer>коронка</answer>
+    <comment>[krаʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>30b761d7-5ae7-421b-993a-b282b037b35b</uuid>
+    <examples>
+       <example>
+          <value>to have a broken crown</value>
+          <translation>иметь сломанную коронку</translation>
+          <comment>to have - иметь, broken - сломанный, crown - коронка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gum</question>
+    <answer>десна</answer>
+    <comment>[gʌm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>957e96d6-a55f-4586-85cc-42ac3b751bc0</uuid>
+    <examples>
+       <example>
+          <value>sore gums</value>
+          <translation>воспаленные десна</translation>
+          <comment>sore - воспаленный, gums - десна</comment>
+       </example>
+       <example>
+          <value>to have an abscess on a gum</value>
+          <translation>иметь нарыв на десне</translation>
+          <comment>to have - иметь, abscess - нарыв, gum - десна</comment>
+       </example>
+       <example>
+          <value>to have bleeding gums</value>
+          <translation>иметь кровоточащие десна</translation>
+          <comment>to have - иметь, bleeding - кровоточащий, to bleed - кровоточить, gum - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tooth</question>
+    <answer>зуб</answer>
+    <comment>[tuːθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5a72bd3f-870e-42f5-92b9-23ade9736de4</uuid>
+    <examples>
+       <example>
+          <value>to have a broken tooth</value>
+          <translation>иметь сломанный зуб</translation>
+          <comment>to have - иметь, broken - сломанный, tooth - зуб</comment>
+       </example>
+       <example>
+          <value>to have a cavity in a tooth</value>
+          <translation>иметь дупло в зубе</translation>
+          <comment>to have - иметь, cavity - дупло, tooth - зуб</comment>
+       </example>
+       <example>
+          <value>to touch the tooth</value>
+          <translation>прикасаться к зубу</translation>
+          <comment>to touch - прикасаться, tooth - зуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sore</question>
+    <answer>воспаленный</answer>
+    <comment>[sɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fcf6ecb5-b779-419f-a4c7-352011176b2d</uuid>
+    <examples>
+       <example>
+          <value>sore gums</value>
+          <translation>воспаленные десна</translation>
+          <comment>sore - воспаленный, gums - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>filling</question>
+    <answer>пломба</answer>
+    <comment>[ˈfɪlɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7da7bdf-54ba-465f-b124-158f4b9d0d22</uuid>
+    <examples>
+       <example>
+          <value>to lose a filling</value>
+          <translation>потерять пломбу</translation>
+          <comment>to lose - потерять, filling - пломба</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gingivitis</question>
+    <answer>воспаление десен</answer>
+    <comment>[ˌʤɪnʤəˈvаɪtɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>24c9b0de-41d9-4ba3-84fc-bfec75683d93</uuid>
+    <examples>
+       <example>
+          <value>to have a gingivitis</value>
+          <translation>иметь воспаленные десна</translation>
+          <comment>to have - иметь, gingivitis - воспаление десен</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>recommend</question>
+    <answer>рекомендовать</answer>
+    <comment>[ˌrekəˈmend]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>673db7e9-2d63-4367-8178-24512f686503</uuid>
+    <examples>
+       <example>
+          <value>to recommend a good dental clinic</value>
+          <translation>порекомендовать хорошую стоматологию</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>to recommend a good dentist</value>
+          <translation>порекомендовать хорошего зубного врача</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dentist - зубной врач</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>touch</question>
+    <answer>прикасаться</answer>
+    <comment>[tʌʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c7f2381a-96da-48cd-809b-db35abe5d860</uuid>
+    <examples>
+       <example>
+          <value>to touch the tooth</value>
+          <translation>прикасаться к зубу</translation>
+          <comment>to touch - прикасаться, tooth - зуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bleeding</question>
+    <answer>кровоточащий</answer>
+    <comment>[ˈbliːdɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec9f0720-47ba-48a2-a567-730ec210ac07</uuid>
+    <examples>
+       <example>
+          <value>to have bleeding gums</value>
+          <translation>иметь кровоточащие десна</translation>
+          <comment>to have - иметь, bleeding - кровоточащий, to bleed - кровоточить, gum - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>surgery</question>
+    <answer>хирургия</answer>
+    <comment>[ˈsɜːrʤəriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f7be130-bf6d-4b75-bc2e-acba377fd557</uuid>
+    <examples>
+       <example>
+          <value>the surgery hours</value>
+          <translation>приемные часы</translation>
+          <comment>surgery - хирургия, hour - час</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pulled</question>
+    <answer>вырванный</answer>
+    <comment>[pʊld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e894b34-47ee-4cd3-b868-ceaa0697d589</uuid>
+    <examples>
+       <example>
+          <value>to want it pulled out</value>
+          <translation>хотеть, чтобы его (зуб) вырвали</translation>
+          <comment>to want - хотеть, to pull out - вытянуть, вырывать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>side</question>
+    <answer>сторона</answer>
+    <comment>[sаɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ebdab32f-8150-4a7b-b208-3ea18faee20a</uuid>
+    <examples>
+       <example>
+          <value>on the left side</value>
+          <translation>слева</translation>
+          <comment>left - левый, side - сторона</comment>
+       </example>
+       <example>
+          <value>on the right side</value>
+          <translation>справа</translation>
+          <comment>right - правый, side - сторона</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

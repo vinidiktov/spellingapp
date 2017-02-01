@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5d2f5e6d-e569-4cdc-910a-308547d8df9d</uuid>
+  <title>Приглашение в гости :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>2</month>
+     <day>21</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Come in, please.</question>
+    <answer>Пожалуйста, входите.</answer>
+    <comment>[kʌm ɪn pliːz]</comment>
+    <answer_comment>to come in - входить, please - пожалуйста</answer_comment>
+    
+    <uuid>08ed5a4a-9870-442b-910d-7aec5f69012f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please sit down.</question>
+    <answer>Садитесь, пожалуйста.</answer>
+    <comment>[pliːz sɪt dаʊn]</comment>
+    <answer_comment>please - пожалуйста, sit down - садиться</answer_comment>
+    
+    <uuid>9329ecc1-ce3d-429d-80bc-09021d688dde</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Take your seat, please.</question>
+    <answer>Садитесь, пожалуйста.</answer>
+    <comment>[teɪk jər siːt pliːz]</comment>
+    <answer_comment>to take - брать, your - твой, ваш, seat - место</answer_comment>
+    
+    <uuid>8fea0172-6f54-4204-9113-983ee97fc36e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Stay, please.</question>
+    <answer>Останьтесь, пожалуйста.</answer>
+    <comment>[steɪ pliːz]</comment>
+    <answer_comment>to stay - оставаться</answer_comment>
+    
+    <uuid>f1d38199-2f75-4048-8e52-9ce12019fe46</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please come and see us.</question>
+    <answer>Приходите к нам.</answer>
+    <comment>[pliːz kʌm ənd siː ʌs]</comment>
+    <answer_comment>to come - приходить, to see - видеть, us - нам, нас</answer_comment>
+    
+    <uuid>ba09c6b7-9888-4bf9-8f8f-711a33a0a988</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Come and see me on Sunday.</question>
+    <answer>Приходите ко мне в воскресенье.</answer>
+    <comment>[kʌm ənd siː ˈmiː ɑːn ˈsʌndiː]</comment>
+    <answer_comment>to come - приходить, to see - видеть, me - мне, меня, Sunday - воскресенье</answer_comment>
+    
+    <uuid>99bee2ba-eb83-4ed9-921a-b406cc1328ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please drop in any time you like.</question>
+    <answer>Пожалуйста, заходите, когда угодно.</answer>
+    <comment>[pliːz drɑːp ɪn ˈeniː tаɪm jʊ lаɪk]</comment>
+    <answer_comment>to drop in - зайти, any - любой, time - время, you - ты, вы, to like - хотеть, любить</answer_comment>
+    
+    <uuid>3c5a6468-13fe-41e0-b279-c3f98fc25f7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Come again.</question>
+    <answer>Приходите еще.</answer>
+    <comment>[kʌm əˈgen]</comment>
+    <answer_comment>to come - прийти, again - снова</answer_comment>
+    
+    <uuid>111d8a48-33d7-4fab-93d3-46c25f2d085c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This way, please.</question>
+    <answer>Сюда, пожалуйста.</answer>
+    <comment>[ðɪs weɪ pliːz]</comment>
+    <answer_comment>this - этот, эта, way - путь, дорога</answer_comment>
+    
+    <uuid>e48a39f2-bc4f-4c25-a23b-45986d3c1422</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That way, please.</question>
+    <answer>Сюда, пожалуйста.</answer>
+    <comment>[ðæt weɪ pliːz]</comment>
+    <answer_comment>that - тот, этот, way - путь, дорога</answer_comment>
+    
+    <uuid>918d9e68-9833-4d06-8b04-fb3af2ab6ebe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When shall we meet?</question>
+    <answer>Когда мы встретимся?</answer>
+    <comment>[hwen ʃæl wiː miːt]</comment>
+    <answer_comment>when - когда, we - мы, to meet - встретиться</answer_comment>
+    
+    <uuid>b9e7863b-3dab-4d39-85eb-54fe4f07821a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you busy tomorrow?</question>
+    <answer>Вы заняты завтра?</answer>
+    <comment>[ɑːr jʊ ˈbɪziː təˈmɔːroʊ]</comment>
+    <answer_comment>busy - занятый, tomorrow - завтра</answer_comment>
+    
+    <uuid>c8cf9ac8-bee8-4ba1-8b99-192cb9b7235e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you busy tonight?</question>
+    <answer>Вы заняты сегодня вечером?</answer>
+    <comment>[ɑːr jʊ ˈbɪziː təˈnаɪt]</comment>
+    <answer_comment>busy - занятый, tonight - сегодня вечером</answer_comment>
+    
+    <uuid>7a4d9b49-7cc3-41e7-9710-54999464ec32</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you come at three?</question>
+    <answer>Вы можете прийти в три часа?</answer>
+    <comment>[kæn jʊ kʌm ət θriː]</comment>
+    <answer_comment>can - мочь, to come - прийти, three - три</answer_comment>
+    
+    <uuid>6d24f5ef-53cc-4aa8-9c5f-d969b9a38422</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll come by at four.</question>
+    <answer>Я зайду в четыре часа.</answer>
+    <comment>[аɪl kʌm bаɪ ət fɔːr]</comment>
+    <answer_comment>to come by - зайти, four - четыре</answer_comment>
+    
+    <uuid>41613efb-86bc-4640-9dcd-b186c60dfb34</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will that time suit you?</question>
+    <answer>Это время вам подходит?</answer>
+    <comment>[wɪl ðæt tаɪm suːt jʊ]</comment>
+    <answer_comment>that - то, это, time - время, to suit - подходить, you - тебе, вам</answer_comment>
+    
+    <uuid>b4042e2a-18f7-4387-820c-6c177a943a03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here&apos;s my card.</question>
+    <answer>Вот моя визитка.</answer>
+    <comment>[hɪrz mаɪ kɑːrd]</comment>
+    <answer_comment>here - здесь, my - мой, моя, card - карточка</answer_comment>
+    
+    <uuid>9011cab7-f7b3-4e15-a494-b659b096c45b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How about going for a cup of coffee this afternoon?</question>
+    <answer>Как насчет чашечки кофе в обед?</answer>
+    <comment>[hаʊ əˈbаʊt ˈgoʊɪŋ fər ə kʌp əv ˈkɔːfiː ðɪs ˈæftərˈnuːn]</comment>
+    <answer_comment>how - как, about - насчет, to go - идти, cup - чашка, coffee - кофе, this - этот, эта, afternoon - день</answer_comment>
+    
+    <uuid>7c191d0e-0637-44cb-894f-163113bf0028</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to come over one evening?</question>
+    <answer>Вы не хотели бы зайти к нам как-нибудь вечером?</answer>
+    <comment>[wʊd jʊ lаɪk tə kʌm ˈoʊvər wʌn ˈiːvnɪŋ]</comment>
+    <answer_comment>to like - хотеть, любить, to come over - зайти, one - один, evening - вечер</answer_comment>
+    
+    <uuid>8bb86b20-2402-43a1-ab82-449e15f46f36</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thanks for the invitation.</question>
+    <answer>Спасибо за приглашение.</answer>
+    <comment>[θæŋks fər ðiː ˌɪnvɪˈteɪʃən]</comment>
+    <answer_comment>thank - благодарность, invitation - приглашение</answer_comment>
+    
+    <uuid>c9443825-a84f-4276-8821-ecf9512357fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to go to the theater?</question>
+    <answer>Позвольте пригласить вас в театр.</answer>
+    <comment>[wʊd jʊ lаɪk tə goʊ tə ðə ˈθɪətər]</comment>
+    <answer_comment>to like - хотеть, любить, to go - идти, theater - театр</answer_comment>
+    
+    <uuid>0706d938-179a-47d7-8100-9ea5611faa6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can&apos;t you spend this evening with us?</question>
+    <answer>Не можете ли вы сегодня провести вечер с нами?</answer>
+    <comment>[kænt jʊ spend ðɪs ˈiːvnɪŋ wɪð ʌs]</comment>
+    <answer_comment>to spend - тратить, провести, this - этот, эта, evening - вечер, with - с (кем-л.), us - нам, нас</answer_comment>
+    
+    <uuid>90a6e3dd-0209-4df0-90e8-4e50862da6f4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like a game of chess?</question>
+    <answer>Не хотите ли вы сыграть партию в шахматы?</answer>
+    <comment>[wʊd jʊ lаɪk ə geɪm əv ʧes]</comment>
+    <answer_comment>to like - хотеть, любить, game - игра, chess - шахматы</answer_comment>
+    
+    <uuid>46426c8a-f2f4-4b18-a2c3-956ffc5e50ac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like a game of pool?</question>
+    <answer>Не хотите ли вы сыграть партию в бильярд?</answer>
+    <comment>[wʊd jʊ lаɪk ə geɪm əv puːl]</comment>
+    <answer_comment>to like - хотеть, любить, game - игра, pool - бильярд</answer_comment>
+    
+    <uuid>f725c6be-fdc0-4e4f-9668-b88cb903a729</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I ask you for a dance?</question>
+    <answer>Позвольте пригласить вас на танец?</answer>
+    <comment>[meɪ аɪ æsk jʊ fər ə dæns]</comment>
+    <answer_comment>may - мочь, to ask - спросить, просить, you - тебя, вас, dance - танец</answer_comment>
+    
+    <uuid>cd67112a-a11b-4e51-9ed9-08feddc42a1d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are you doing tonight?</question>
+    <answer>Что вы делаете сегодня вечером?</answer>
+    <comment>[hwʌt ɑːr jʊ ˈduːɪŋ təˈnаɪt]</comment>
+    <answer_comment>to do - делать, tonight - сегодня вечером</answer_comment>
+    
+    <uuid>8ece0859-fa97-4259-9f6f-c5adebc5b2d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are you doing tomorrow?</question>
+    <answer>Что вы делаете завтра?</answer>
+    <comment>[hwʌt ɑːr jʊ ˈduːɪŋ təˈmɔːroʊ]</comment>
+    <answer_comment>to do - делать, tomorrow - завтра</answer_comment>
+    
+    <uuid>6c7bff32-a3a9-45a4-a14a-d2cf2807ff26</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you free after dinner?</question>
+    <answer>Вы свободны после ужина?</answer>
+    <comment>[ɑːr jʊ friː ˈæftər ˈdɪnər]</comment>
+    <answer_comment>free - свободный, after - после, dinner - ужин, обед</answer_comment>
+    
+    <uuid>e581ddfb-b673-494d-99ea-fe0ed3fb5dbf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you free tonight?</question>
+    <answer>Вы свободны сегодня вечером?</answer>
+    <comment>[ɑːr jʊ friː təˈnаɪt]</comment>
+    <answer_comment>free - свободный, tonight - сегодня вечером</answer_comment>
+    
+    <uuid>65fb4034-bd43-4421-959b-23888452e433</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you free on Saturday?</question>
+    <answer>Вы свободны в субботу?</answer>
+    <comment>[ɑːr jʊ friː ɑːn ˈsætərdiː]</comment>
+    <answer_comment>free - свободный, Saturday - суббота</answer_comment>
+    
+    <uuid>2546929a-95ae-4433-9fa5-b432b586fd33</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I invite you to the movies?</question>
+    <answer>Можно пригласить вас в кино?</answer>
+    <comment>[meɪ аɪ ɪnˈvаɪt jʊ tə ðə ˈmuːviːz]</comment>
+    <answer_comment>may - мочь, to invite - пригласить, you - тебя, вас, movie - кинофильм</answer_comment>
+    
+    <uuid>7578741e-f63e-4cb2-be76-57da239b8811</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I invite you to a museum?</question>
+    <answer>Можно пригласить вас в музей?</answer>
+    <comment>[meɪ аɪ ɪnˈvаɪt jʊ tə ə mjuːˈziːəm]</comment>
+    <answer_comment>may - мочь, to invite - пригласить, you - тебя, вас, museum - музей</answer_comment>
+    
+    <uuid>7fc0f220-9582-4624-a921-5f972ade68d2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I invite you to a restaurant?</question>
+    <answer>Можно пригласить вас в ресторан?</answer>
+    <comment>[meɪ аɪ ɪnˈvаɪt jʊ tʊ ə ˈrestəˌrɑːnt]</comment>
+    <answer_comment>may - мочь, to invite - пригласить, you - тебя, вас, restaurant - ресторан</answer_comment>
+    
+    <uuid>6ae71389-4330-46ad-84e9-fa1649c67e7b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I invite you to my place?</question>
+    <answer>Разрешите пригласить вас к себе?</answer>
+    <comment>[meɪ аɪ ɪnˈvаɪt jʊ tə mаɪ pleɪs]</comment>
+    <answer_comment>may - мочь, to invite - пригласить, you - тебя, вас, place - место</answer_comment>
+    
+    <uuid>c5f0de7e-4af6-4e9f-a691-3f50d9344c01</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to invite you to lunch.</question>
+    <answer>Я хочу пригласить вас на обед.</answer>
+    <comment>[аɪ wɑːnt tə ɪnˈvаɪt jʊ tə lʌnʧ]</comment>
+    <answer_comment>to want - хотеть, to invite - пригласить, you - тебя, вас, lunch - обед</answer_comment>
+    
+    <uuid>5e1c6716-7402-4c26-821f-02e77d9afd3c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thank you for your invitation.</question>
+    <answer>Спасибо за ваше приглашение.</answer>
+    <comment>[θæŋk jʊ fər jər ˌɪnvɪˈteɪʃən]</comment>
+    <answer_comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, invitation - приглашение</answer_comment>
+    
+    <uuid>eefdc7b1-6f31-48bc-bd18-b9d3ffea576b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let&apos;s go to the concert.</question>
+    <answer>Пойдемте на концерт.</answer>
+    <comment>[lets goʊ tə ðə ˈkɑːnsərt]</comment>
+    <answer_comment>let&apos;s - давайте, to go - идти, concert - концерт</answer_comment>
+    
+    <uuid>23fe70e6-cf6d-449a-9305-39d1134c09cb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you keep me company?</question>
+    <answer>Вы можете составить мне компанию?</answer>
+    <comment>[kæn jʊ kiːp ˈmiː ˈkʌmpəniː]</comment>
+    <answer_comment>to keep - держать, сохранять, me - мне, меня, company - компания</answer_comment>
+    
+    <uuid>b8777fac-4edc-4d69-8402-19b1e745172a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I offer you a cup of coffee?</question>
+    <answer>Можно предложить вам чашку кофе?</answer>
+    <comment>[meɪ аɪ ˈɔːfər jʊ ə kʌp əv ˈkɔːfiː]</comment>
+    <answer_comment>may - мочь, to offer - предложить, you - вам, тебе, cup - чашка, coffee - кофе</answer_comment>
+    
+    <uuid>1465e257-1c0d-4dad-a87b-f51ffe0ebc6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I offer you an ice cream?</question>
+    <answer>Можно предложить вам мороженое?</answer>
+    <comment>[meɪ аɪ ˈɔːfər jʊ ən аɪs kriːm]</comment>
+    <answer_comment>may - мочь, to offer - предложить, you - вам, тебе, ice cream - мороженое</answer_comment>
+    
+    <uuid>b7557508-ef95-4a5a-a14c-35baae44db32</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I offer you a glass of wine?</question>
+    <answer>Можно предложить вам бокал вина?</answer>
+    <comment>[meɪ аɪ ˈɔːfər jʊ ə glæs əv wаɪn]</comment>
+    <answer_comment>may - мочь, to offer - предложить, you - вам, тебе, glass - бокал, wine - вино</answer_comment>
+    
+    <uuid>66fa975a-0ab3-4409-8cdd-51b2ed0dd9bd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Call any day you like.</question>
+    <answer>Звоните, когда угодно.</answer>
+    <comment>[kɔːl ˈeniː deɪ jʊ lаɪk]</comment>
+    <answer_comment>to call - звонить, any - любой, day - день, you - ты, вы, to like - любить, хотеть</answer_comment>
+    
+    <uuid>2eaf54ca-d447-4dad-bd9e-d10ae82655ca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to have some coffee?</question>
+    <answer>Не хотите выпить кофе?</answer>
+    <comment>[wʊd jʊ lаɪk tə hæv sʌm ˈkɔːfiː]</comment>
+    <answer_comment>to like - хотеть, to have - иметь, some - некоторое количество, coffee - кофе</answer_comment>
+    
+    <uuid>bc3c3a90-b3b3-4c36-b90a-d324ac2c5c0a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to come for a walk?</question>
+    <answer>Не хотите ли прогуляться?</answer>
+    <comment>[wʊd jʊ lаɪk tə kʌm fər ə wɔːk]</comment>
+    <answer_comment>to like - хотеть, to come - приходить, walk - прогулка</answer_comment>
+    
+    <uuid>39ff6fba-ed86-47ef-adcc-a05aba59c37a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you care to come to my place and have a drink?</question>
+    <answer>Не хотите зайти ко мне и выпить?</answer>
+    <comment>[wʊd jʊ ker tə kʌm tə mаɪ pleɪs ənd hæv ə drɪŋk]</comment>
+    <answer_comment>to care - питать интерес, to come - приходить, place - место, to have - иметь, drink - питье</answer_comment>
+    
+    <uuid>9de267b6-31ce-4c4a-a555-2222c44db734</uuid>
+  </card>
+</cards>
+</stack>

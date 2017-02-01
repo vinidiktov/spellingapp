@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d7177e5f-dcc8-4bd2-a573-901a0f1db323</uuid>
+  <title>Согласие. Подтверждение :: Фразы</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2009</year>
+     <month>2</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Yes.</question>
+    <answer>Да.</answer>
+    <comment>[jes]</comment>
+    <answer_comment>yes - да</answer_comment>
+    
+    <uuid>8ae4fe4a-7829-482a-b36e-aa4ba29ab0fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yes, indeed.</question>
+    <answer>Да, действительно.</answer>
+    <comment>[jes ɪnˈdiːd]</comment>
+    <answer_comment>yes - да, indeed - на самом деле, действительно</answer_comment>
+    
+    <uuid>e741d9d7-b277-4c72-ad53-b19695128b95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yes, that&apos;s true.</question>
+    <answer>Да, верно.</answer>
+    <comment>[jes ðæts truː]</comment>
+    <answer_comment>that - это, то, true - верный</answer_comment>
+    
+    <uuid>e9915aa6-db7b-46a0-af89-f6f943068a1d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m of the same opinion.</question>
+    <answer>Я того же мнения.</answer>
+    <comment>[аɪm əv ðə seɪm əˈpɪnjən]</comment>
+    <answer_comment>the same - такой же, тот же, opinion - мнение</answer_comment>
+    
+    <uuid>fc2cb871-fbdc-42b5-aa70-9e7a40c1da1c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll make use of your invitation.</question>
+    <answer>Я воспользуюсь вашим приглашением.</answer>
+    <comment>[аɪl meɪk juːs əv jər ˌɪnvɪˈteɪʃən]</comment>
+    <answer_comment>to make - делать, use - польза, your - твой, ваш, invitation - приглашение</answer_comment>
+    
+    <uuid>2935cf22-2a8c-486d-8ea7-0b8c6f3f7d0a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll make use of your suggestion.</question>
+    <answer>Я воспользуюсь вашим предложением.</answer>
+    <comment>[аɪl meɪk juːs əv jər səgˈʤesʧən]</comment>
+    <answer_comment>to make - делать, use - польза, your - твой, ваш, suggestion - предложение</answer_comment>
+    
+    <uuid>4fa6824a-5b1c-49d8-bb5e-ca78507597e1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Your suggestion suits us.</question>
+    <answer>Ваше предложение подходит нам.</answer>
+    <comment>[jər səgˈʤesʧən suːts ʌs]</comment>
+    <answer_comment>suggestion - предложение, to suit - подходить, us - нам, нас</answer_comment>
+    
+    <uuid>cdd23463-6e4f-4935-bcf9-fe45ea6bf47b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It suits me.</question>
+    <answer>Это меня устраивает.</answer>
+    <comment>[ɪt suːts ˈmiː]</comment>
+    <answer_comment>it - это, to suit - подходить, me - мне, меня</answer_comment>
+    
+    <uuid>4e734cef-1152-481e-857e-364d4bd1764d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think so.</question>
+    <answer>Думаю, что так.</answer>
+    <comment>[аɪ θɪŋk soʊ]</comment>
+    <answer_comment>to think - думать, so - так</answer_comment>
+    
+    <uuid>5c734fc3-dbc3-49a7-ab74-c458ea198ffc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You&apos;re right.</question>
+    <answer>Вы правы.</answer>
+    <comment>[jʊr rаɪt]</comment>
+    <answer_comment>right - правильный</answer_comment>
+    
+    <uuid>c30037f5-d27a-4579-a36a-db721bbdaea8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;re sure of that.</question>
+    <answer>Мы уверены в этом.</answer>
+    <comment>[wɪr ʃʊr əv ðæt]</comment>
+    <answer_comment>we - мы, sure - уверенный, that - это, то</answer_comment>
+    
+    <uuid>28302739-a732-48a2-be7c-7c173f8bb382</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m sure of that.</question>
+    <answer>Я в этом уверен.</answer>
+    <comment>[аɪm ʃʊr əv ðæt]</comment>
+    <answer_comment>sure - уверенный, that - это, то</answer_comment>
+    
+    <uuid>00bba8a8-d013-420d-89dd-ee844caf85d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t doubt it.</question>
+    <answer>Я в этом и не сомневаюсь.</answer>
+    <comment>[аɪ doʊnt dаʊt ɪt]</comment>
+    <answer_comment>to doubt - сомневаться, it - это</answer_comment>
+    
+    <uuid>e7479241-b450-4826-ba7d-643b6854d8a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m absolutely certain of that.</question>
+    <answer>Я в этом абсолютно уверен.</answer>
+    <comment>[аɪm ˌæbsəˈluːtliː ˈsɜːrtn əv ðæt]</comment>
+    <answer_comment>absolutely - абсолютно, certain - несомненный, уверенный, that - это, то</answer_comment>
+    
+    <uuid>e9ffaa5a-8da1-4800-bdef-2c56e56f9f98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I see.</question>
+    <answer>Понятно.</answer>
+    <comment>[аɪ siː]</comment>
+    <answer_comment>to see - видеть, понимать</answer_comment>
+    
+    <uuid>cbe2c0ef-f4b6-4e96-ab5d-18e873881ed1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It stands to reason.</question>
+    <answer>Само собой разумеется.</answer>
+    <comment>[ɪt stændz tə ˈriːzən]</comment>
+    <answer_comment>to stand - стоять, reason - причина</answer_comment>
+    
+    <uuid>17b7f1ce-82b7-45e3-890b-0a0a1e707418</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good. That&apos;s it.</question>
+    <answer>Хорошо. Это как раз то, что нам нужно.</answer>
+    <comment>[gʊd ðæts ɪt]</comment>
+    <answer_comment>good - хороший, that - это, то, it - это</answer_comment>
+    
+    <uuid>e552e46b-28f2-464a-95af-5b8adfa0f494</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s the point.</question>
+    <answer>Именно так.</answer>
+    <comment>[ðæts ðə pɔɪnt]</comment>
+    <answer_comment>that - это, то, point - главное, суть</answer_comment>
+    
+    <uuid>b94cc497-fd73-421e-852f-b29176339840</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s fine.</question>
+    <answer>Хорошо.</answer>
+    <comment>[ðæts fаɪn]</comment>
+    <answer_comment>that - это, то, fine - замечательный</answer_comment>
+    
+    <uuid>d405aea8-ef3e-4f73-97a5-60ae4d415389</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s clear.</question>
+    <answer>Понятно.</answer>
+    <comment>[ðæts klɪr]</comment>
+    <answer_comment>that - это, то, clear - ясный, понятный</answer_comment>
+    
+    <uuid>e81a6d77-a3ee-496a-b64f-d17cf77e22c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s right.</question>
+    <answer>Верно.</answer>
+    <comment>[ðæts rаɪt]</comment>
+    <answer_comment>that - это, то, right - правильный</answer_comment>
+    
+    <uuid>c519bb51-0b4d-4876-8b01-02f991509e84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s true.</question>
+    <answer>Это правда; Это так.</answer>
+    <comment>[ðæts truː]</comment>
+    <answer_comment>that - это, то, true - верный</answer_comment>
+    
+    <uuid>cfc17da9-9bed-4987-8064-32592ddb2b39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Just so.</question>
+    <answer>Именно так.</answer>
+    <comment>[ʤʌst soʊ]</comment>
+    <answer_comment>just - именно, как раз, so - так</answer_comment>
+    
+    <uuid>3415e090-be7c-422e-a2da-d56d695ff2ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>All right!</question>
+    <answer>Правильно!</answer>
+    <comment>[ɔːl rаɪt]</comment>
+    <answer_comment>all - всё, все, right - правильный</answer_comment>
+    
+    <uuid>78d26585-ce95-4bb3-860f-634e1366de40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s allright.</question>
+    <answer>Все в порядке.</answer>
+    <comment>[ðæts ɔːl rаɪt]</comment>
+    <answer_comment>that - это, то, all - всё, все, right - правильный</answer_comment>
+    
+    <uuid>6d420317-f6cc-406d-8b29-c2637c4c16a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Willingly.</question>
+    <answer>Охотно.</answer>
+    <comment>[ˈwɪlɪŋli]</comment>
+    <answer_comment>willingly - охотно</answer_comment>
+    
+    <uuid>31006c10-9fdb-4b5a-8ddd-b16ab1565376</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Agreed.</question>
+    <answer>Решено.</answer>
+    <comment>[əˈgriːd]</comment>
+    <answer_comment>agreed - решенный</answer_comment>
+    
+    <uuid>5275f224-3ab6-4632-b3ef-8ea60ec15a0e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Settled.</question>
+    <answer>Договорились.</answer>
+    <comment>[ˈsetld]</comment>
+    <answer_comment>settled - улаженный, договоренный</answer_comment>
+    
+    <uuid>79cb8f3d-f220-4c34-b16d-c681c95c9c21</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>OK.</question>
+    <answer>Ладно.</answer>
+    <comment>[ˌoʊ ˈkeɪ]</comment>
+    <answer_comment>OK - окей</answer_comment>
+    
+    <uuid>30afe5e6-0f09-4402-9521-c00e4e79eae2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Very well.</question>
+    <answer>Очень хорошо.</answer>
+    <comment>[ˈveriː wel]</comment>
+    <answer_comment>very - очень, well - хорошо</answer_comment>
+    
+    <uuid>17236814-846f-40d8-a196-5289a99f1700</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Certainly!</question>
+    <answer>Конечно!</answer>
+    <comment>[ˈsɜːrtnliː]</comment>
+    <answer_comment>certainly - конечно</answer_comment>
+    
+    <uuid>3e4ec7a6-d9c0-4e54-a61b-8e86d2348c8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s correct!</question>
+    <answer>Это правильно!</answer>
+    <comment>[its kəˈrekt]</comment>
+    <answer_comment>correct - правильный</answer_comment>
+    
+    <uuid>a341f3e0-599f-4186-aa48-8eb76c707bab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Absolutely correct.</question>
+    <answer>Абсолютно правильно.</answer>
+    <comment>[ˌæbsəˈluːtliː kəˈrekt]</comment>
+    <answer_comment>absolutely - абсолютно, correct - правильный</answer_comment>
+    
+    <uuid>921a0d2d-540c-48e5-8bb6-e13502ccb0fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Undoubtedly.</question>
+    <answer>Несомненно.</answer>
+    <comment>[ənˈdаʊtɪdli]</comment>
+    <answer_comment>undoubtedly - несомненно</answer_comment>
+    
+    <uuid>b27ff237-8259-4b61-a8c4-0f7c6bd31c11</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Oh, surely.</question>
+    <answer>Обязательно.</answer>
+    <comment>[oʊ ˈʃʊrliː]</comment>
+    <answer_comment>surely - обязательно</answer_comment>
+    
+    <uuid>bc18693a-fad6-47e4-a1eb-350b2be696e1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>By all means.</question>
+    <answer>Непременно.</answer>
+    <comment>[bаɪ ɔːl miːnz]</comment>
+    <answer_comment>all - все, mean - средство</answer_comment>
+    
+    <uuid>46d4e10a-7244-4068-bc18-8824564eab2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Wonderful!</question>
+    <answer>Прекрасно!</answer>
+    <comment>[ˈwʌndərfəl]</comment>
+    <answer_comment>wonderful - прекрасный, чудесный</answer_comment>
+    
+    <uuid>03676b03-d37d-4d9b-857d-482f301d9ef9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>With pleasure.</question>
+    <answer>С удовольствием.</answer>
+    <comment>[wɪð ˈpleʒər]</comment>
+    <answer_comment>pleasure - удовольствие</answer_comment>
+    
+    <uuid>9b65f494-bb33-44db-b0e3-5f785308463d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yes, indeed. Very good.</question>
+    <answer>Да, конечно. Очень хорошо.</answer>
+    <comment>[jes ɪnˈdiːd ˈveriː gʊd]</comment>
+    <answer_comment>indeed - на самом деле, very - очень, good - хороший</answer_comment>
+    
+    <uuid>b20ce5d1-e8ac-4b1c-b50a-2aaa1cb36c11</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s a good idea.</question>
+    <answer>Это хорошая идея.</answer>
+    <comment>[ðæts ə gʊd аɪˈdɪə]</comment>
+    <answer_comment>that - это, то, good - хороший, idea - идея</answer_comment>
+    
+    <uuid>26c6800a-281c-4d1a-a36d-2a98b34a2656</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I agree with you.</question>
+    <answer>Я с вами согласен.</answer>
+    <comment>[аɪ əˈgriː wɪð jʊ]</comment>
+    <answer_comment>to agree - соглашаться, with - с (кем-л.), you - тебя, тебе, вам, вас</answer_comment>
+    
+    <uuid>9c4decfa-c8c6-4e0c-9f47-3082d4f2511a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I quite agree with you.</question>
+    <answer>Я с вами полностью согласен.</answer>
+    <comment>[аɪ kwаɪt əˈgriː wɪð jʊ]</comment>
+    <answer_comment>quite - полностью, совершенно, to agree - соглашаться, with - с (кем-л.), you - тебя, тебе, вам, вас</answer_comment>
+    
+    <uuid>9efd16c8-423a-4dc9-a9d6-d9846c8a8541</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>No objections.</question>
+    <answer>Не возражаю.</answer>
+    <comment>[noʊ əbˈʤekʃənz]</comment>
+    <answer_comment>objection - возражение</answer_comment>
+    
+    <uuid>583afcb5-2046-4f2d-9220-eddb0c2e9bea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I do not object.</question>
+    <answer>Я не возражаю.</answer>
+    <comment>[аɪ duː nɑːt əbˈʤek]</comment>
+    <answer_comment>to object - возражать</answer_comment>
+    
+    <uuid>972481b5-fc8c-4dd3-a951-c323fbfeaad5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m not against it.</question>
+    <answer>Я не против этого.</answer>
+    <comment>[аɪm nɑːt əˈgenst ɪt]</comment>
+    <answer_comment>against - против, it - это</answer_comment>
+    
+    <uuid>7a719db1-6f0e-4592-8ceb-02283746749b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m for it!</question>
+    <answer>Я &quot;за&quot;!</answer>
+    <comment>[аɪm fɔːr ɪt]</comment>
+    <answer_comment>for - за (что-л.), it - это</answer_comment>
+    
+    <uuid>776b1d5d-4f81-46c3-9e6a-90505275c1a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There&apos;s something in that.</question>
+    <answer>В этом что-то есть.</answer>
+    <comment>[ðerz ˈsʌmθɪŋ ɪn ðæt]</comment>
+    <answer_comment>there&apos;s - есть, имеется, something - что-то, that - это, то</answer_comment>
+    
+    <uuid>a700bed9-b1f6-47c8-83b2-bd26cde33e46</uuid>
+  </card>
+</cards>
+</stack>

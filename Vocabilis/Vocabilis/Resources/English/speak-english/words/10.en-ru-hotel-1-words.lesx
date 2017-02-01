@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>cef44d05-6230-4288-a0b2-c5ea72f98d06</uuid>
+  <title>В гостинице. Часть 1 :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>bill</question>
+    <answer>счет</answer>
+    <comment>[bɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1d217c9-49f7-4905-803e-8a099325432d</uuid>
+    <examples>
+       <example>
+          <value>to prepare the bill</value>
+          <translation>приготовить счет</translation>
+          <comment>to prepare - подготовить, bill - счет</comment>
+       </example>
+       <example>
+          <value>to bring the bill</value>
+          <translation>принести счет</translation>
+          <comment>to bring - принести, bill - счет</comment>
+       </example>
+       <example>
+          <value>to pay a telephone bill</value>
+          <translation>оплатить счет за телефон</translation>
+          <comment>to pay - платить, telephone - телефон, bill - счет</comment>
+       </example>
+       <example>
+          <value>to pay this bill</value>
+          <translation>оплатить этот счет</translation>
+          <comment>to pay - платить, this - этот, эта, bill - счет</comment>
+       </example>
+       <example>
+          <value>to pay the bill</value>
+          <translation>оплатить счет</translation>
+          <comment>to pay - платить, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>appartment</question>
+    <answer>квартира</answer>
+    <comment>[əˈpɑːrtmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1a16633c-67b6-467b-8982-3ec48b28c4be</uuid>
+    <examples>
+       <example>
+          <value>the rent of an appartment</value>
+          <translation>аренда квартиры</translation>
+          <comment>rent - аренда, appartment - квартира</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>reserve</question>
+    <answer>бронировать</answer>
+    <comment>[rɪˈzɜːrv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>27553afb-85d7-4e2e-921e-f8a03cac807f</uuid>
+    <examples>
+       <example>
+          <value>to reserve a room beforehand</value>
+          <translation>забронировать заранее номер</translation>
+          <comment>to reserve - забронировать, room - комната, номер (в гостинице), beforehand - заранее</comment>
+       </example>
+       <example>
+          <value>to reserve one ticket</value>
+          <translation>забронировать один билет</translation>
+          <comment>to reserve - забронировать, one - один, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to want to reserve</value>
+          <translation>хотеть забронировать</translation>
+          <comment>to want - хотеть, to reserve - забронировать</comment>
+       </example>
+       <example>
+          <value>to reserve two tickets</value>
+          <translation>заказать два билета</translation>
+          <comment>to reserve - заказать, two - два, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>house</question>
+    <answer>дом</answer>
+    <comment>[ˌhæʊs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6d407b6b-c3ad-4277-a2a1-f8aa88e885d3</uuid>
+    <examples>
+       <example>
+          <value>the rent of a house</value>
+          <translation>аренда дома</translation>
+          <comment>rent - аренда, house - дом</comment>
+       </example>
+       <example>
+          <value>the house specialty</value>
+          <translation>фирменное блюдо</translation>
+          <comment>house - дом, specialty - особенность</comment>
+       </example>
+       <example>
+          <value>house calling</value>
+          <translation>вызов на дом</translation>
+          <comment>house - дом, calling - вызов, to call - вызывать</comment>
+       </example>
+       <example>
+          <value>the number for house calling a doctor</value>
+          <translation>номер телефона для вызова врача на дом</translation>
+          <comment>number - номер, house - дом, to call - вызывать, doctor - врач</comment>
+       </example>
+       <example>
+          <value>The house is sold out.</value>
+          <translation>Все билеты проданы.</translation>
+          <comment>house - дом, театр, sold out - распроданный</comment>
+       </example>
+       <example>
+          <value>to go to the Opera House</value>
+          <translation>пойти в оперный театр</translation>
+          <comment>to go - идти, the Opera House - оперный театр</comment>
+       </example>
+       <example>
+          <value>to go to the Operetta House</value>
+          <translation>пойти в театр оперетты</translation>
+          <comment>to go - идти, the Operetta House - театр оперетты</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cheap</question>
+    <answer>дешевый</answer>
+    <comment>[ʧiːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>37f3b25a-37c4-4823-820a-063e4b9f4185</uuid>
+    <examples>
+       <example>
+          <value>to have anything cheaper</value>
+          <translation>иметь что-нибудь подешевле</translation>
+          <comment>to have - иметь, anything - что-нибудь, cheaper - дешевле</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bath</question>
+    <answer>ванна</answer>
+    <comment>[bæθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>675f3121-739f-4550-9897-55c290ea7123</uuid>
+    <examples>
+       <example>
+          <value>a room with a bath</value>
+          <translation>номер с ванной</translation>
+          <comment>room - комната, номер (в гостинице), bath - ванна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>vacancy</question>
+    <answer>свободное место</answer>
+    <comment>[ˈveɪkənsiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b226ac6b-53f2-40cc-818e-496b5d39c0e4</uuid>
+    <examples>
+       <example>
+          <value>to have any vacancies</value>
+          <translation>иметь свободные места</translation>
+          <comment>to have - иметь, vacancy - свободное место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>rent</question>
+    <answer>аренда</answer>
+    <comment>[rent]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>765a93c1-1e2a-401f-8846-86dc6c645655</uuid>
+    <examples>
+       <example>
+          <value>the rent for a night</value>
+          <translation>стоимость суток</translation>
+          <comment>rent - арендная плата, аренда, night - ночь</comment>
+       </example>
+       <example>
+          <value>the rent of a house</value>
+          <translation>аренда дома</translation>
+          <comment>rent - аренда, house - дом</comment>
+       </example>
+       <example>
+          <value>the rent of an appartment</value>
+          <translation>аренда квартиры</translation>
+          <comment>rent - аренда, appartment - квартира</comment>
+       </example>
+       <example>
+          <value>the rent with breakfast</value>
+          <translation>аренда с завтраком</translation>
+          <comment>rent - аренда, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to rent a car</value>
+          <translation>арендовать автомобиль</translation>
+          <comment>to rent - арендовать, car- машина</comment>
+       </example>
+       <example>
+          <value>rent of a car per day</value>
+          <translation>аренда машины в день</translation>
+          <comment>rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>to want to rent</value>
+          <translation>хотеть арендовать</translation>
+          <comment>to want - хотеть, to rent - арендовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>registration</question>
+    <answer>регистрация</answer>
+    <comment>[ˌreʤɪˈstreɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d356cf8-c776-48cf-a5cb-dd8cec45c66f</uuid>
+    <examples>
+       <example>
+          <value>the registration form</value>
+          <translation>анкета</translation>
+          <comment>registration - регистрация, form - форма (для заполнения)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>breakfast</question>
+    <answer>завтрак</answer>
+    <comment>[ˈbrekfəst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>df668947-d2cb-4347-bc03-73a8645543cf</uuid>
+    <examples>
+       <example>
+          <value>the rent with breakfast</value>
+          <translation>аренда с завтраком</translation>
+          <comment>rent - аренда, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to serve breakfast</value>
+          <translation>подавать завтрак</translation>
+          <comment>serve - подавать (к столу), breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to bring my breakfast</value>
+          <translation>принести мой завтрак</translation>
+          <comment>to bring - приносить, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>to have breakfast</value>
+          <translation>завтракать</translation>
+          <comment>to have - иметь, breakfast - завтрак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>expensive</question>
+    <answer>дорогой</answer>
+    <comment>[ɪkˈspensɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>75a2eadf-59e2-456e-ac96-eda0d8e1c370</uuid>
+    <examples>
+       <example>
+          <value>a not too expensive room</value>
+          <translation>не слишком дорогой номер</translation>
+          <comment>too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>not expensive shoes</value>
+          <translation>недорогие туфли</translation>
+          <comment>expensive - дорогой, shoe - туфля</comment>
+       </example>
+       <example>
+          <value>too expensive</value>
+          <translation>слишком дорогое</translation>
+          <comment>too - слишком, expensive - дорогой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>balcony</question>
+    <answer>балкон</answer>
+    <comment>[ˈbælkəniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e0045e0d-d555-40d5-bbce-ae146635422f</uuid>
+    <examples>
+       <example>
+          <value>a room with a balcony</value>
+          <translation>номер с балконом</translation>
+          <comment>room - комната, номер (в гостинице), balcony - балкон</comment>
+       </example>
+       <example>
+          <value>seats in the balcony</value>
+          <translation>места на балконе</translation>
+          <comment>seat - место, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>to get to the balcony</value>
+          <translation>пройти на балкон</translation>
+          <comment>to get (to) - добраться (до), balcony - балкон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>prepare</question>
+    <answer>подготовить</answer>
+    <comment>[prɪˈper]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90d5c388-f592-4df9-8281-983aab7780fd</uuid>
+    <examples>
+       <example>
+          <value>to prepare the bill</value>
+          <translation>приготовить счет</translation>
+          <comment>to prepare - подготовить, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bottom</question>
+    <answer>низ, нижняя</answer>
+    <comment>[ˈbɑːtəm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6dafe3e2-2fdb-4a6f-b0cb-14f8457564a4</uuid>
+    <examples>
+       <example>
+          <value>a room on the bottom floors</value>
+          <translation>номер на нижних этажах</translation>
+          <comment>room - комната, номер (в гостинице), bottom - низ, нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>at the bottom</value>
+          <translation>внизу</translation>
+          <comment>bottom - низ, нижняя сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pay</question>
+    <answer>платить</answer>
+    <comment>[peɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5946cfbb-cc02-4abe-b282-228ca6a8dd2b</uuid>
+    <examples>
+       <example>
+          <value>to pay by credit card</value>
+          <translation>заплатить кредитной карточкой</translation>
+          <comment>to pay - платить, credit card - кредитная карта</comment>
+       </example>
+       <example>
+          <value>to pay in cash</value>
+          <translation>заплатить наличными</translation>
+          <comment>to pay - платить, cash - наличные средства</comment>
+       </example>
+       <example>
+          <value>to pay with traveller&apos;s checks</value>
+          <translation>заплатить дорожными чеками</translation>
+          <comment>to pay - платить, traveller&apos;s check - дорожный чек</comment>
+       </example>
+       <example>
+          <value>to pay for the excess baggage</value>
+          <translation>доплатить за перевес багажа</translation>
+          <comment>to pay - платить, excess - избыточный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to pay ten dollars</value>
+          <translation>доплатить 10 долларов</translation>
+          <comment>to pay - платить, ten - десять, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>to pay a fine</value>
+          <translation>оплатить штраф</translation>
+          <comment>to pay - платить, fine - штраф</comment>
+       </example>
+       <example>
+          <value>to pay a telephone bill</value>
+          <translation>оплатить счет за телефон</translation>
+          <comment>to pay - платить, telephone - телефон, bill - счет</comment>
+       </example>
+       <example>
+          <value>to pay this bill</value>
+          <translation>оплатить этот счет</translation>
+          <comment>to pay - платить, this - этот, эта, bill - счет</comment>
+       </example>
+       <example>
+          <value>to pay the bill</value>
+          <translation>оплатить счет</translation>
+          <comment>to pay - платить, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>top</question>
+    <answer>верх, верхний</answer>
+    <comment>[tɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e90eecd7-0a35-431a-a911-cbda175e9538</uuid>
+    <examples>
+       <example>
+          <value>a room on the top floors</value>
+          <translation>номер на верних этажах</translation>
+          <comment>room - комната, номер (в гостинице), top - верх, верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>at the top</value>
+          <translation>вверху</translation>
+          <comment>top - верх, верхняя сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>night</question>
+    <answer>ночь</answer>
+    <comment>[nаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>917eab3a-5aee-40be-ac86-153c6c1b1399</uuid>
+    <examples>
+       <example>
+          <value>the rent for a night</value>
+          <translation>стоимость суток</translation>
+          <comment>rent - арендная плата, аренда, night - ночь</comment>
+       </example>
+       <example>
+          <value>to drive to the night club</value>
+          <translation>отвезти в ночной клуб</translation>
+          <comment>to drive - ехать, night - ночь, ночной, club - клуб</comment>
+       </example>
+       <example>
+          <value>last night</value>
+          <translation>прошлой ночью</translation>
+          <comment>last - прошлый, night - ночь</comment>
+       </example>
+       <example>
+          <value>the all-night drugstore</value>
+          <translation>круглосуточная аптека</translation>
+          <comment>all - весь, night - ночь, ночной, drugstore - аптека</comment>
+       </example>
+       <example>
+          <value>to go to a night club</value>
+          <translation>пойти в ночной клуб</translation>
+          <comment>to go - идти, night - ночной, club - клуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>only</question>
+    <answer>только</answer>
+    <comment>[ˈoʊnliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>80500b1b-a8a1-422c-a7f0-ea95575e4ed7</uuid>
+    <examples>
+       <example>
+          <value>overnight only</value>
+          <translation>только на сутки</translation>
+          <comment>overnight - на ночь, only - только</comment>
+       </example>
+       <example>
+          <value>for external use only</value>
+          <translation>лекарство только для наружного применения</translation>
+          <comment>external - внешний, use - применение, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hall</question>
+    <answer>зал</answer>
+    <comment>[hɔːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>500a3710-d1c4-45c2-8171-913174a89abe</uuid>
+    <examples>
+       <example>
+          <value>a fitness hall</value>
+          <translation>фитнес-зал</translation>
+          <comment>fitness - фитнес, hall - зал</comment>
+       </example>
+       <example>
+          <value>a concert hall</value>
+          <translation>концертный зал</translation>
+          <comment>concert - концертный, hall - зал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>live</question>
+    <answer>жить</answer>
+    <comment>![lɪv]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca87cc9d-ce98-448e-a6b2-0af61603ce19</uuid>
+    <examples>
+       <example>
+          <value>to live in the center</value>
+          <translation>жить в центре</translation>
+          <comment>to live - жить, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>station</question>
+    <answer>станция</answer>
+    <comment>[ˈsteɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c55d65b-7718-40d8-b9f9-2ba9873906f4</uuid>
+    <examples>
+       <example>
+          <value>near the railroad station</value>
+          <translation>возле ж/д вокзала</translation>
+          <comment>near - возле, рядом, railroad - железная дорога, station - станция</comment>
+       </example>
+       <example>
+          <value>at this station</value>
+          <translation>на этой станции</translation>
+          <comment>this - этот, эта, station - станция</comment>
+       </example>
+       <example>
+          <value>to stay at the station</value>
+          <translation>стоять на станции</translation>
+          <comment>to stay - оставаться, station - станция</comment>
+       </example>
+       <example>
+          <value>the nearest subway station</value>
+          <translation>ближайшая станция метро (амер.)</translation>
+          <comment>the nearest - ближайший, subway - метро, station - станция</comment>
+       </example>
+       <example>
+          <value>the next station</value>
+          <translation>следующая станция</translation>
+          <comment>next - следующий, station - станция</comment>
+       </example>
+       <example>
+          <value>to take to the railroad station</value>
+          <translation>отвезти на вокзал</translation>
+          <comment>to take (to) - отвезти (в), railroad station - ж/д вокзал, rail -рельс, road - дорога</comment>
+       </example>
+       <example>
+          <value>to the railroad station</value>
+          <translation>до вокзала</translation>
+          <comment>railroad station - ж/д вокзал</comment>
+       </example>
+       <example>
+          <value>the police station</value>
+          <translation>полицейский участок</translation>
+          <comment>police - полиция, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perfectly</question>
+    <answer>совершенно</answer>
+    <comment>[ˈpɜːrfɪktliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4d90b97-ed10-465d-8804-eb68a66cf615</uuid>
+    <examples>
+       <example>
+          <value>perfectly well</value>
+          <translation>очень хорошо</translation>
+          <comment>perfectly - совершенно, вполне, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>form</question>
+    <answer>форма, бланк</answer>
+    <comment>[fɔːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d32e280-f667-4f30-9f61-9b9660a1670a</uuid>
+    <examples>
+       <example>
+          <value>the registration form</value>
+          <translation>анкета</translation>
+          <comment>registration - регистрация, form - форма (для заполнения)</comment>
+       </example>
+       <example>
+          <value>an international message form</value>
+          <translation>международный бланк</translation>
+          <comment>international - международный, message - сообщение, form - бланк</comment>
+       </example>
+       <example>
+          <value>a telegram form</value>
+          <translation>телеграфный бланк</translation>
+          <comment>telegram - телеграмма, form - бланк</comment>
+       </example>
+       <example>
+          <value>forms of cooperation</value>
+          <translation>формы сотрудничества</translation>
+          <comment>form - форма, cooperation - сотрудничество</comment>
+       </example>
+       <example>
+          <value>to discuss possible forms of cooperation</value>
+          <translation>обсудить возможные формы сотрудничества</translation>
+          <comment>to discuss - обсуждать, possible - возможный, form - форма, cooperation - сотрудничество</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>beforehand</question>
+    <answer>заранее</answer>
+    <comment>[bɪˈfɔːrˌhænd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>81d59171-23ac-451d-9473-8674ce07e4fb</uuid>
+    <examples>
+       <example>
+          <value>to reserve a room beforehand</value>
+          <translation>забронировать заранее номер</translation>
+          <comment>to reserve - забронировать, room - комната, номер (в гостинице), beforehand - заранее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>view</question>
+    <answer>вид</answer>
+    <comment>[vjuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0f0d6b6-1553-4c14-99ef-6a6775ad17a2</uuid>
+    <examples>
+       <example>
+          <value>a room with a better view</value>
+          <translation>номер с лучшим видом</translation>
+          <comment>room - комната, номер (в гостинице), view - вид, better - более хороший, лучший</comment>
+       </example>
+       <example>
+          <value>a room with a view of the river</value>
+          <translation>номер с видом на реку</translation>
+          <comment>room - комната, номер (в гостинице), river - река</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>park</question>
+    <answer>парковать</answer>
+    <comment>[pɑːrk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7b105316-c46b-45cf-8f84-e3e334ce70a8</uuid>
+    <examples>
+       <example>
+          <value>to park my car</value>
+          <translation>поставить мою машину</translation>
+          <comment>to park - парковать, ставить, my - мой, моя, мое, car - машина</comment>
+       </example>
+       <example>
+          <value>to park the car</value>
+          <translation>поставить (припарковать) машину</translation>
+          <comment>to park - парковать, car - машина</comment>
+       </example>
+       <example>
+          <value>to walk in the park</value>
+          <translation>гулять по парку</translation>
+          <comment>to walk - гулять, park - парк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pleasant</question>
+    <answer>приятный</answer>
+    <comment>[ˈplezənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a23288c-8b6a-4617-b696-835242c5fe4f</uuid>
+    <examples>
+       <example>
+          <value>very pleasant</value>
+          <translation>очень приятный</translation>
+          <comment>very - очень, pleasant - приятный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>front</question>
+    <answer>перед, передний</answer>
+    <comment>[frʌnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2bc1e4cb-0b0e-46e0-9b3b-6040616510f7</uuid>
+    <examples>
+       <example>
+          <value>a room at the front</value>
+          <translation>номер с окнами на улицу</translation>
+          <comment>room - комната, номер (в гостинице), the front - передняя часть</comment>
+       </example>
+       <example>
+          <value>at the front</value>
+          <translation>спереди</translation>
+          <comment>front - передняя сторона</comment>
+       </example>
+       <example>
+          <value>to sit in the front rows</value>
+          <translation>сидеть в передних рядах</translation>
+          <comment>to sit - сидеть, front - передний, row - ряд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>reservation</question>
+    <answer>бронь, заказ (номера)</answer>
+    <comment>[ˌrezərˈveɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>824f4fa2-be57-4488-80b7-5e3c1b2a4aec</uuid>
+    <examples>
+       <example>
+          <value>to have a reservation</value>
+          <translation>иметь заказанным номер</translation>
+          <comment>to have - иметь, reservation - бронь, заказ (номера)</comment>
+       </example>
+       <example>
+          <value>my reservation</value>
+          <translation>моя плацкарта</translation>
+          <comment>my - мой, моя, reservation - предварительный заказ, бронь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>railroad</question>
+    <answer>железная дорога</answer>
+    <comment>[ˈreɪlˌroʊd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7e66cf8d-86c0-4ea5-86ed-318cdab50de7</uuid>
+    <examples>
+       <example>
+          <value>near the railroad station</value>
+          <translation>возле ж/д вокзала</translation>
+          <comment>near - возле, рядом, railroad - железная дорога, station - станция</comment>
+       </example>
+       <example>
+          <value>to take to the railroad station</value>
+          <translation>отвезти на вокзал</translation>
+          <comment>to take (to) - отвезти (в), railroad station - ж/д вокзал, rail -рельс, road - дорога</comment>
+       </example>
+       <example>
+          <value>to the railroad station</value>
+          <translation>до вокзала</translation>
+          <comment>railroad station - ж/д вокзал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>overnight</question>
+    <answer>на ночь</answer>
+    <comment>[ˈoʊvərˈnаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>526a9402-2ef1-4577-9865-7d3753ab3410</uuid>
+    <examples>
+       <example>
+          <value>to stay overnight</value>
+          <translation>остановиться на сутки</translation>
+          <comment>to stay - остановиться, остаться, overnight - ночной, only - только</comment>
+       </example>
+       <example>
+          <value>overnight only</value>
+          <translation>только на сутки</translation>
+          <comment>overnight - на ночь, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>accommodation</question>
+    <answer>жилье</answer>
+    <comment>[əˌkɑːməˈdeɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c8f686df-7c0f-44b2-83f5-8db73cf2730c</uuid>
+    <examples>
+       <example>
+          <value>hotel accommodation</value>
+          <translation>номер в гостинице</translation>
+          <comment>accommodation - жилье, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pool</question>
+    <answer>бассейн</answer>
+    <comment>[puːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1b4b0b21-a1c5-48b3-902d-f88c5d662281</uuid>
+    <examples>
+       <example>
+          <value>a swimming pool</value>
+          <translation>бассейн</translation>
+          <comment>swimming - плавающий, плавательный, to swim - плавать, pool - бассейн</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>center</question>
+    <answer>центр</answer>
+    <comment>[ˈsentər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7082368a-d450-4c33-bd22-1be08fedf712</uuid>
+    <examples>
+       <example>
+          <value>to live in the center</value>
+          <translation>жить в центре</translation>
+          <comment>to live - жить, center - центр</comment>
+       </example>
+       <example>
+          <value>a car service center</value>
+          <translation>автосервис</translation>
+          <comment>car - машина, service - служба, center - центр</comment>
+       </example>
+       <example>
+          <value>the city center</value>
+          <translation>центр города</translation>
+          <comment>city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>to go to the center</value>
+          <translation>ехать до центра</translation>
+          <comment>to go (to) - ехать (до), center - центр</comment>
+       </example>
+       <example>
+          <value>through the city center</value>
+          <translation>по центру города</translation>
+          <comment>through - через, сквозь, по, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>to have a ride through the city center</value>
+          <translation>проехаться по центру города</translation>
+          <comment>to have - иметь, ride - поездка, through - через, сквозь, по, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>a musical center</value>
+          <translation>музыкальный центр</translation>
+          <comment>musical - музыкальный, center - центр</comment>
+       </example>
+       <example>
+          <value>a research center</value>
+          <translation>исследовательский центр</translation>
+          <comment>research - исследование, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>car</question>
+    <answer>машина</answer>
+    <comment>[kɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>21494dfb-83a1-42a0-b7e4-5d1346cc2a67</uuid>
+    <examples>
+       <example>
+          <value>to park my car</value>
+          <translation>поставить мою машину</translation>
+          <comment>to park - парковать, ставить, my - мой, моя, мое, car - машина</comment>
+       </example>
+       <example>
+          <value>to rent a car</value>
+          <translation>арендовать автомобиль</translation>
+          <comment>to rent - арендовать, car- машина</comment>
+       </example>
+       <example>
+          <value>the baggage car</value>
+          <translation>багажный вагон</translation>
+          <comment>baggage - багаж, car - вагон</comment>
+       </example>
+       <example>
+          <value>the dining car</value>
+          <translation>вагон-ресторан</translation>
+          <comment>to dine - обедать, car - вагон</comment>
+       </example>
+       <example>
+          <value>a non-smoking car</value>
+          <translation>вагон для некурящих</translation>
+          <comment>smoking - курящий, to smoke - курить, car - вагон</comment>
+       </example>
+       <example>
+          <value>a sleeping car</value>
+          <translation>спальный вагон</translation>
+          <comment>to sleep - спать, car - вагон</comment>
+       </example>
+       <example>
+          <value>a smoking car</value>
+          <translation>вагон для курящих</translation>
+          <comment>smoking - курящий, to smoke - курить, car - вагон</comment>
+       </example>
+       <example>
+          <value>a car service center</value>
+          <translation>автосервис</translation>
+          <comment>car - машина, service - служба, center - центр</comment>
+       </example>
+       <example>
+          <value>in my car</value>
+          <translation>в моей машине</translation>
+          <comment>my - мой, моя, car - машина</comment>
+       </example>
+       <example>
+          <value>the make of a car</value>
+          <translation>марка машины</translation>
+          <comment>make - марка, car - машина</comment>
+       </example>
+       <example>
+          <value>a map of the car roads</value>
+          <translation>карта автодорог</translation>
+          <comment>map - карта, car - машина, road - дорога</comment>
+       </example>
+       <example>
+          <value>rent of a car per day</value>
+          <translation>аренда машины в день</translation>
+          <comment>rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>a broken car</value>
+          <translation>сломавшаяся машина</translation>
+          <comment>broken - сломанный, car - машина</comment>
+       </example>
+       <example>
+          <value>Something is wrong with my car.</value>
+          <translation>В машине что-то забарахлило.</translation>
+          <comment>something - что-то, wrong - неисправный, car - машина</comment>
+       </example>
+       <example>
+          <value>My car has broken down.</value>
+          <translation>Моя машина сломалась.</translation>
+          <comment>car - машина, to break down - сломаться</comment>
+       </example>
+       <example>
+          <value>to drive a car</value>
+          <translation>вести машину</translation>
+          <comment>to drive - вести (транспорт), car - машина</comment>
+       </example>
+       <example>
+          <value>to have my car washed</value>
+          <translation>отдать мою машину в автомойку</translation>
+          <comment>to have - иметь, my - мой, моя, car - машина, washed - помытый, to wash - мыть</comment>
+       </example>
+       <example>
+          <value>to insure the car</value>
+          <translation>застраховать машину</translation>
+          <comment>to insure - страховать, car - машина</comment>
+       </example>
+       <example>
+          <value>to own a car</value>
+          <translation>иметь машину</translation>
+          <comment>to own - владеть, car - машина</comment>
+       </example>
+       <example>
+          <value>to park the car</value>
+          <translation>поставить (припарковать) машину</translation>
+          <comment>to park - парковать, car - машина</comment>
+       </example>
+       <example>
+          <value>to strike a car</value>
+          <translation>ударить машину</translation>
+          <comment>to strike - бить, ударять, car - машина</comment>
+       </example>
+       <example>
+          <value>to wash the car</value>
+          <translation>помыть машину</translation>
+          <comment>to wash - мыть, car - машина</comment>
+       </example>
+       <example>
+          <value>to stop the car</value>
+          <translation>остановить машину</translation>
+          <comment>to stop - останавливать, car - машина</comment>
+       </example>
+       <example>
+          <value>to steal a car</value>
+          <translation>украсть машину</translation>
+          <comment>to steal - воровать, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>room</question>
+    <answer>комната</answer>
+    <comment>[ruːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3aa91935-7ca4-469f-96ac-0e38789c8b22</uuid>
+    <examples>
+       <example>
+          <value>a double room</value>
+          <translation>номер на двоих</translation>
+          <comment>double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>a not too expensive room</value>
+          <translation>не слишком дорогой номер</translation>
+          <comment>too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>a room at the back</value>
+          <translation>номер с окнами во двор</translation>
+          <comment>room - комната, номер (в гостинице), the back - задняя часть</comment>
+       </example>
+       <example>
+          <value>a room at the front</value>
+          <translation>номер с окнами на улицу</translation>
+          <comment>room - комната, номер (в гостинице), the front - передняя часть</comment>
+       </example>
+       <example>
+          <value>a room on the bottom floors</value>
+          <translation>номер на нижних этажах</translation>
+          <comment>room - комната, номер (в гостинице), bottom - низ, нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>a room on the top floors</value>
+          <translation>номер на верних этажах</translation>
+          <comment>room - комната, номер (в гостинице), top - верх, верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>a room with a balcony</value>
+          <translation>номер с балконом</translation>
+          <comment>room - комната, номер (в гостинице), balcony - балкон</comment>
+       </example>
+       <example>
+          <value>a room with a bath</value>
+          <translation>номер с ванной</translation>
+          <comment>room - комната, номер (в гостинице), bath - ванна</comment>
+       </example>
+       <example>
+          <value>a room with a better view</value>
+          <translation>номер с лучшим видом</translation>
+          <comment>room - комната, номер (в гостинице), view - вид, better - более хороший, лучший</comment>
+       </example>
+       <example>
+          <value>a room with a shower</value>
+          <translation>номер с душем</translation>
+          <comment>room - комната, номер (в гостинице), shower - душ</comment>
+       </example>
+       <example>
+          <value>a room with a view of the river</value>
+          <translation>номер с видом на реку</translation>
+          <comment>room - комната, номер (в гостинице), river - река</comment>
+       </example>
+       <example>
+          <value>a single room</value>
+          <translation>номер на одного</translation>
+          <comment>single - одиночный, отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>in the room</value>
+          <translation>в комнате</translation>
+          <comment>room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>the room number</value>
+          <translation>номер комнаты</translation>
+          <comment>room - комната, номер (в гостинице), number - номер</comment>
+       </example>
+       <example>
+          <value>a quiet room</value>
+          <translation>тихий номер</translation>
+          <comment>quiet - тихий</comment>
+       </example>
+       <example>
+          <value>I like the room.</value>
+          <translation>Номер мне нравится.</translation>
+          <comment>to like - любить, нравиться, room - номер, комната (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to look at the room</value>
+          <translation>посмотреть номер</translation>
+          <comment>to look (at) - посмотреть (на), room - номер, комната (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to receive a double room</value>
+          <translation>получить двухместный номер</translation>
+          <comment>to receive - получить, double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to receive a single room</value>
+          <translation>получить одноместный номер</translation>
+          <comment>to receive - получить, single - единичный, отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to reserve a room beforehand</value>
+          <translation>забронировать заранее номер</translation>
+          <comment>to reserve - забронировать, room - комната, номер (в гостинице), beforehand - заранее</comment>
+       </example>
+       <example>
+          <value>in my room</value>
+          <translation>в моем номере</translation>
+          <comment>room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>the key to my room</value>
+          <translation>ключ от моего номера</translation>
+          <comment>key - ключ, my - мой, моя, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>a dirty room</value>
+          <translation>грязный номер (комната)</translation>
+          <comment>dirty - грязный, room - комната, номер в гостинице</comment>
+       </example>
+       <example>
+          <value>to bring to the room</value>
+          <translation>принести в номер</translation>
+          <comment>to bring - приносить, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to my room</value>
+          <translation>в мой номер</translation>
+          <comment>to - в (куда?), room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>the waiting room</value>
+          <translation>зал ожидания</translation>
+          <comment>to wait - ждать, ожидать, waiting - ожидание, room - комната, помещение</comment>
+       </example>
+       <example>
+          <value>the smoking room</value>
+          <translation>курительная комната</translation>
+          <comment>smoking - курящий, room - комната</comment>
+       </example>
+       <example>
+          <value>a fitting room</value>
+          <translation>примерочная</translation>
+          <comment>fitting - примерка, room - комната</comment>
+       </example>
+       <example>
+          <value>a billiard room</value>
+          <translation>бильярдная</translation>
+          <comment>billiard - бильярд, room - комната, помещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>anything</question>
+    <answer>что-нибудь</answer>
+    <comment>[ˈenɪˌθɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc4f762b-6937-4165-b94a-4ce39b484e11</uuid>
+    <examples>
+       <example>
+          <value>to have anything better</value>
+          <translation>иметь что-нибудь получше</translation>
+          <comment>to have - иметь, anything - что-нибудь, better - лучше</comment>
+       </example>
+       <example>
+          <value>to have anything cheaper</value>
+          <translation>иметь что-нибудь подешевле</translation>
+          <comment>to have - иметь, anything - что-нибудь, cheaper - дешевле</comment>
+       </example>
+       <example>
+          <value>to have anything larger</value>
+          <translation>иметь что-нибудь побольше</translation>
+          <comment>to have - иметь, anything - что-нибудь, larger - больше</comment>
+       </example>
+       <example>
+          <value>anything reprehensible</value>
+          <translation>что-нибудь предосудительное</translation>
+          <comment>anything - что-нибудь, reprehensible - предосудительный</comment>
+       </example>
+       <example>
+          <value>anything suspicious</value>
+          <translation>что-нибудь подозрительное</translation>
+          <comment>anything - что-нибудь, suspicious - подозрительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>luggage</question>
+    <answer>багаж</answer>
+    <comment>[ˈlʌgɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0342d70-c33d-4ce6-b4e9-155e4c963ef4</uuid>
+    <examples>
+       <example>
+          <value>a luggage office</value>
+          <translation>камера хранения</translation>
+          <comment>luggage - багаж, office - офис</comment>
+       </example>
+       <example>
+          <value>the luggage office</value>
+          <translation>камера хранения</translation>
+          <comment>luggage - багаж, office - офис</comment>
+       </example>
+       <example>
+          <value>to take my luggage</value>
+          <translation>взять мой багаж</translation>
+          <comment>to take - брать, my - мой, моя, моё, luggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>double</question>
+    <answer>двойной</answer>
+    <comment>[ˈdʌbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c3cf55e6-e223-4b81-a100-83bf58774e83</uuid>
+    <examples>
+       <example>
+          <value>a double room</value>
+          <translation>номер на двоих</translation>
+          <comment>double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to receive a double room</value>
+          <translation>получить двухместный номер</translation>
+          <comment>to receive - получить, double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>floor</question>
+    <answer>этаж</answer>
+    <comment>[flɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>550d3e3d-0a8d-442d-bad5-95180383153b</uuid>
+    <examples>
+       <example>
+          <value>a room on the bottom floors</value>
+          <translation>номер на нижних этажах</translation>
+          <comment>room - комната, номер (в гостинице), bottom - низ, нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>a room on the top floors</value>
+          <translation>номер на верних этажах</translation>
+          <comment>room - комната, номер (в гостинице), top - верх, верхний, floor - пол, этаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>quiet</question>
+    <answer>спокойный</answer>
+    <comment>[ˈkwаɪɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb99d409-8be0-49d3-8e51-449653e4c431</uuid>
+    <examples>
+       <example>
+          <value>a quiet room</value>
+          <translation>тихий номер</translation>
+          <comment>quiet - тихий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>morning</question>
+    <answer>утро</answer>
+    <comment>[ˈmɔːrnɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7925807f-ad3a-4b48-8c1f-5be955084982</uuid>
+    <examples>
+       <example>
+          <value>tomorrow morning</value>
+          <translation>завтра утром</translation>
+          <comment>tomorrow - завтра, morning - утро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shower</question>
+    <answer>душ</answer>
+    <comment>[ˈʃаʊər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51cc1ffe-9f34-4bc1-be8c-c735b05f1de1</uuid>
+    <examples>
+       <example>
+          <value>a room with a shower</value>
+          <translation>номер с душем</translation>
+          <comment>room - комната, номер (в гостинице), shower - душ</comment>
+       </example>
+       <example>
+          <value>a blocked shower</value>
+          <translation>засорившийся душ</translation>
+          <comment>blocked - засоренный, shower - душ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fitness</question>
+    <answer>фитнес</answer>
+    <comment>[ˈfɪtnəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e258d909-43de-4e80-8101-86e07bb50b19</uuid>
+    <examples>
+       <example>
+          <value>a fitness hall</value>
+          <translation>фитнес-зал</translation>
+          <comment>fitness - фитнес, hall - зал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>river</question>
+    <answer>река</answer>
+    <comment>[ˈrɪvər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c00201d8-728e-4392-b72a-93b9c0e1d4a4</uuid>
+    <examples>
+       <example>
+          <value>a room with a view of the river</value>
+          <translation>номер с видом на реку</translation>
+          <comment>room - комната, номер (в гостинице), river - река</comment>
+       </example>
+       <example>
+          <value>along the river</value>
+          <translation>вдоль реки</translation>
+          <comment>along - вдоль, river - река</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>swimming</question>
+    <answer>плавательный</answer>
+    <comment>[ˈswɪmɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1ea2052-38ef-42b6-beb7-94b5f26ad2b1</uuid>
+    <examples>
+       <example>
+          <value>a swimming pool</value>
+          <translation>бассейн</translation>
+          <comment>swimming - плавающий, плавательный, to swim - плавать, pool - бассейн</comment>
+       </example>
+       <example>
+          <value>a swimming suit</value>
+          <translation>купальник</translation>
+          <comment>swimming - плаванье, suit - костюм</comment>
+       </example>
+       <example>
+          <value>Swimming is forbidden.</value>
+          <translation>Плаванье запрещено.</translation>
+          <comment>swimming - плавание, to swim - плавать, forbidden - запрещенный, to forbid - запрещать</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

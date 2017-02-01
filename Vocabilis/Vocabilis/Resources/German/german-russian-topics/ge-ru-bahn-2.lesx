@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>87142ced-3a7e-4c63-aaa0-ba893def2d90</uuid>
+  <title>Поездки, путешествия 2</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Anschluß zum IC Nr. 880 nach Dortmund</question>
+    <answer>Пересадка на поезд IC 880 на Дортмунд</answer>
+    <comment></comment>
+    <uuid>44430ab6-1bf2-4eb2-99d5-3ac20942cfc0</uuid>
+  </card>
+  <card>
+    <question>auf dem Bahnsteig</question>
+    <answer>на перроне</answer>
+    <comment></comment>
+    <uuid>e4e48329-7955-4098-9108-3f10f9b41327</uuid>
+  </card>
+  <card>
+    <question>AUSGANG</question>
+    <answer>ВЫХОД</answer>
+    <comment></comment>
+    <uuid>78d00164-e3cf-46eb-8c91-c87481ef017c</uuid>
+  </card>
+  <card>
+    <question>Bitte eine Platzkarte für den Zug morgen um 13 Uhr.</question>
+    <answer>Забронируйте мне место на завтра на поезд в 13 часов.</answer>
+    <comment></comment>
+    <uuid>4f1c1778-b036-4978-9bad-e800ef2072ab</uuid>
+  </card>
+  <card>
+    <question>Bitte einsteigen.</question>
+    <answer>Пожалуйста, садитесь (в поезд).</answer>
+    <comment></comment>
+    <uuid>f9258e54-13c9-43aa-9a98-e1b12e1a1f17</uuid>
+  </card>
+  <card>
+    <question>das Abteil</question>
+    <answer>купе</answer>
+    <comment></comment>
+    <uuid>ba938810-3d9f-40ee-bbc5-22d19311d8f5</uuid>
+  </card>
+  <card>
+    <question>Das Gepäck</question>
+    <answer>багаж</answer>
+    <comment></comment>
+    <uuid>eab0c549-f0ab-4d68-a769-5d0302bbfde7</uuid>
+  </card>
+  <card>
+    <question>das Gleis</question>
+    <answer>путь</answer>
+    <comment></comment>
+    <uuid>c25e4bf3-41ed-470c-9159-4400a45ea39a</uuid>
+  </card>
+  <card>
+    <question>der Bahnsteig</question>
+    <answer>перрон</answer>
+    <comment></comment>
+    <uuid>26d26ece-fcfc-4cdf-a348-19196684118b</uuid>
+  </card>
+  <card>
+    <question>der Eilzug</question>
+    <answer>скорый пассажирский поезд</answer>
+    <comment></comment>
+    <uuid>3df56df9-6337-42f8-964f-63edc63faa96</uuid>
+  </card>
+  <card>
+    <question>der Fensterplatz</question>
+    <answer>место у окна</answer>
+    <comment></comment>
+    <uuid>f674310d-a4c6-44cd-b611-749458af94db</uuid>
+  </card>
+  <card>
+    <question>der Großraumwagen</question>
+    <answer>плацкартный вагон</answer>
+    <comment></comment>
+    <uuid>fac26d7d-f50f-4138-bffc-eca69fa5b239</uuid>
+  </card>
+  <card>
+    <question>der InterCity (IC)</question>
+    <answer>экспресс (с рестораном)</answer>
+    <comment></comment>
+    <uuid>55650a65-907e-456c-9397-36963a13c85d</uuid>
+  </card>
+  <card>
+    <question>der InterRegio (IR)</question>
+    <answer>экспресс (без ресторана)</answer>
+    <comment></comment>
+    <uuid>05a26d5a-eb47-403a-99e2-4072c97e09b2</uuid>
+  </card>
+  <card>
+    <question>der Koffer</question>
+    <answer>чемодан</answer>
+    <comment></comment>
+    <uuid>fa3966e8-0909-4f3f-8662-c90dac54f778</uuid>
+  </card>
+  <card>
+    <question>der Liegewagen</question>
+    <answer>вагон со спальными местами</answer>
+    <comment></comment>
+    <uuid>30cf8afd-9b66-4906-8ed9-0b44a6ce0787</uuid>
+  </card>
+  <card>
+    <question>der Nahverkehrszug</question>
+    <answer>поезд ближнего сообщения, электричка</answer>
+    <comment></comment>
+    <uuid>e0431eb1-752d-4675-8fe0-5b39880aa12d</uuid>
+  </card>
+  <card>
+    <question>der Platz</question>
+    <answer>место</answer>
+    <comment></comment>
+    <uuid>72943761-d40d-4cef-bf51-7e52512f4334</uuid>
+  </card>
+  <card>
+    <question>Der Schaffher</question>
+    <answer>проводник</answer>
+    <comment></comment>
+    <uuid>899447b4-fecc-464d-9b94-76039d674e19</uuid>
+  </card>
+  <card>
+    <question>der Schlafwagen</question>
+    <answer>спальный вагон</answer>
+    <comment></comment>
+    <uuid>1209a02e-b522-4506-a005-f43ff4713be7</uuid>
+  </card>
+  <card>
+    <question>der Schnellzug</question>
+    <answer>скорый поезд</answer>
+    <comment></comment>
+    <uuid>c3b80d8e-46f0-482f-b50a-af618406768f</uuid>
+  </card>
+  <card>
+    <question>der Sitzplatz</question>
+    <answer>посадочное место</answer>
+    <comment></comment>
+    <uuid>ad7df403-b0c9-4f14-b577-febc0b920039</uuid>
+  </card>
+  <card>
+    <question>der Speisewagen</question>
+    <answer>вагон-ресторан</answer>
+    <comment></comment>
+    <uuid>407904f4-5fde-4d52-8cef-17194f42238a</uuid>
+  </card>
+  <card>
+    <question>der Wagen</question>
+    <answer>вагон</answer>
+    <comment></comment>
+    <uuid>7725a4b6-03dd-49e8-9686-16cd73cb9630</uuid>
+  </card>
+  <card>
+    <question>der Warteraum</question>
+    <answer>зал ожидания</answer>
+    <comment></comment>
+    <uuid>bd386819-a771-48bd-8542-76daa06bf6c9</uuid>
+  </card>
+  <card>
+    <question>Der Zug fährt von Gleis 5 ab.</question>
+    <answer>Поезд отходит с 5 пути.</answer>
+    <comment></comment>
+    <uuid>6fae2679-abe9-41ae-bb2c-8702e0e3088b</uuid>
+  </card>
+  <card>
+    <question>die Lokomotive</question>
+    <answer>локомотив</answer>
+    <comment></comment>
+    <uuid>91fe4f7a-f2ab-4d94-98ad-9961c4067eae</uuid>
+  </card>
+  <card>
+    <question>die Tasche</question>
+    <answer>сумка</answer>
+    <comment></comment>
+    <uuid>3f5f6063-02fa-4679-a784-21df94064a2f</uuid>
+  </card>
+  <card>
+    <question>die Toiletten</question>
+    <answer>туалеты</answer>
+    <comment></comment>
+    <uuid>408e2329-7c83-4b2c-a0a5-b69eddde747c</uuid>
+  </card>
+  <card>
+    <question>Die Türen schließen selbsttätig.</question>
+    <answer>Двери закрываются автоматически.</answer>
+    <comment></comment>
+    <uuid>9255a799-1ee0-405e-b6c7-3f875a6fafe2</uuid>
+  </card>
+  <card>
+    <question>Es hat Einfahrt der IC Nr. 804 nach München.</question>
+    <answer>Прибывает поезд IС 804 на Мюнхен.</answer>
+    <comment></comment>
+    <uuid>6dd067b4-042b-4803-9f0c-ea3df83c93aa</uuid>
+  </card>
+  <card>
+    <question>Gleis 4, Abfahrt 12.10 Uhr</question>
+    <answer>путь № 4, отправление в 12. 10</answer>
+    <comment></comment>
+    <uuid>b971f522-f033-4a96-91fb-b6099d4b18b2</uuid>
+  </card>
+  <card>
+    <question>GLEIS 5</question>
+    <answer>путь N 5</answer>
+    <comment></comment>
+    <uuid>6b213386-052b-4f02-90af-372a6d29355d</uuid>
+  </card>
+  <card>
+    <question>Haben Sie einen IC-Zuschlag?</question>
+    <answer>Вы произвели доплату на IC?</answer>
+    <comment></comment>
+    <uuid>5e812414-9d68-4378-b6c4-3f4d65ef1c78</uuid>
+  </card>
+  <card>
+    <question>Ich hole den Kofferkuli.</question>
+    <answer>Я схожу за тележкой для багажа.</answer>
+    <comment></comment>
+    <uuid>24a5e16d-7909-4ccc-89b6-17e86c4d5e29</uuid>
+  </card>
+  <card>
+    <question>Ihren Fahrausweis, bitte.</question>
+    <answer>Ваш проездной документ, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>97cd1de8-0786-483f-9fc1-6be836f761d2</uuid>
+  </card>
+  <card>
+    <question>In wenigen Minuten erreichen wir Köln Hauptbahnhof.</question>
+    <answer>Через несколько минут мы прибудем в Кельн.</answer>
+    <comment></comment>
+    <uuid>a64f070c-2ed6-4ed4-97ab-8f28b5e905d1</uuid>
+  </card>
+  <card>
+    <question>Ist dieser Platz noch frei?</question>
+    <answer>Это место еще свободно?</answer>
+    <comment></comment>
+    <uuid>c8a6b806-d3d0-4793-8832-723680089696</uuid>
+  </card>
+  <card>
+    <question>NICHTRAUCHER</question>
+    <answer>для некурящих</answer>
+    <comment></comment>
+    <uuid>ec8d5e27-ebcd-4171-b1db-893337952430</uuid>
+  </card>
+  <card>
+    <question>Noch jemand zugestiegen?</question>
+    <answer>Еще кто-нибудь сел (в вагон)?</answer>
+    <comment></comment>
+    <uuid>8f91b561-4beb-4a95-b857-0831a7c8ec9d</uuid>
+  </card>
+  <card>
+    <question>RAUCHER</question>
+    <answer>вагон для курящих</answer>
+    <comment></comment>
+    <uuid>3753f2db-adb5-4aa7-9608-9a18ec51891b</uuid>
+  </card>
+  <card>
+    <question>Sie haben Anschluß.</question>
+    <answer>У вас есть возможность пересесть.</answer>
+    <comment></comment>
+    <uuid>0dd85eb8-1256-4ac0-9803-f41f7d964965</uuid>
+  </card>
+  <card>
+    <question>Wagen Nummer 5.</question>
+    <answer>Вагон N 5.</answer>
+    <comment></comment>
+    <uuid>c9e36650-63b9-4fd9-af06-236b7c78c4c9</uuid>
+  </card>
+  <card>
+    <question>Wo sind hier die Toiletten?</question>
+    <answer>Где здесь туалеты?</answer>
+    <comment></comment>
+    <uuid>4b861490-d0ef-4fd2-ac65-e87350336bcf</uuid>
+  </card>
+</cards>
+</stack>

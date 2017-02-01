@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>51ba9a2a-da9b-4cab-8f94-ebacf44012ae</uuid>
+  <title>Кухня, приготовление пищи</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>backen</question>
+    <answer>печь</answer>
+    <comment></comment>
+    <uuid>95925901-28d0-4d73-9b08-2110975ff963</uuid>
+  </card>
+  <card>
+    <question>braten</question>
+    <answer>жарить</answer>
+    <comment></comment>
+    <uuid>6fc05c97-069f-44ba-8966-20a47f8f68e9</uuid>
+  </card>
+  <card>
+    <question>das Backpulver</question>
+    <answer>пекарский порошок</answer>
+    <comment></comment>
+    <uuid>910aa824-8168-4238-a8de-7f64f2f5eb85</uuid>
+  </card>
+  <card>
+    <question>das Geschirr</question>
+    <answer>посуда</answer>
+    <comment></comment>
+    <uuid>fef71bca-9d4a-45db-8a76-67fd045ac5b5</uuid>
+  </card>
+  <card>
+    <question>das Gewürz</question>
+    <answer>приправа, пряность</answer>
+    <comment></comment>
+    <uuid>6d7162f7-76c3-4d68-a89d-5052b2e666b6</uuid>
+  </card>
+  <card>
+    <question>das Gewürzbrett</question>
+    <answer>полка для приправы</answer>
+    <comment></comment>
+    <uuid>3aac4715-d5d5-49d7-8934-ea9a7f6832a9</uuid>
+  </card>
+  <card>
+    <question>das Mehl</question>
+    <answer>мука</answer>
+    <comment></comment>
+    <uuid>209f5bbf-5a9e-4e93-9f6f-42b6eb7ba367</uuid>
+  </card>
+  <card>
+    <question>das Salz</question>
+    <answer>соль</answer>
+    <comment></comment>
+    <uuid>9e3def0f-957a-4091-b24c-5f04d2c8af94</uuid>
+  </card>
+  <card>
+    <question>das Öl</question>
+    <answer>масло</answer>
+    <comment></comment>
+    <uuid>f5fc83c7-59f7-443e-9a08-7f98b8d7cdc0</uuid>
+  </card>
+  <card>
+    <question>der Essig</question>
+    <answer>уксус</answer>
+    <comment></comment>
+    <uuid>544d03ba-d7d4-44a1-9378-745027073483</uuid>
+  </card>
+  <card>
+    <question>der Herd</question>
+    <answer>плита</answer>
+    <comment></comment>
+    <uuid>f121f7ad-5a75-4e67-bc4e-ed6d6c05fff0</uuid>
+  </card>
+  <card>
+    <question>der Hängeschrank</question>
+    <answer>настенный кухонный шкаф</answer>
+    <comment></comment>
+    <uuid>2446e397-6246-4464-8e85-3ae4ab0487b1</uuid>
+  </card>
+  <card>
+    <question>der Ketchup</question>
+    <answer>кетчуп</answer>
+    <comment></comment>
+    <uuid>d4bde51d-596c-483c-8cbf-32893a5e6221</uuid>
+  </card>
+  <card>
+    <question>der Knoblauch</question>
+    <answer>чеснок</answer>
+    <comment></comment>
+    <uuid>e5b59adb-d079-4101-ac94-3eea7cd0bb83</uuid>
+  </card>
+  <card>
+    <question>der Kochtopf</question>
+    <answer>кастрюля, горшок</answer>
+    <comment></comment>
+    <uuid>fdc35823-9800-4158-b83d-0d205e7c5628</uuid>
+  </card>
+  <card>
+    <question>der Küchenschrank</question>
+    <answer>кухонный буфет</answer>
+    <comment></comment>
+    <uuid>397986f5-0edf-4af0-a3fb-7c024f6aec1a</uuid>
+  </card>
+  <card>
+    <question>der Küchenstuhl</question>
+    <answer>кухонный стул</answer>
+    <comment></comment>
+    <uuid>2c89d3d3-00dc-4876-b926-e4e60ce44595</uuid>
+  </card>
+  <card>
+    <question>der Küchentisch</question>
+    <answer>кухонный стол</answer>
+    <comment></comment>
+    <uuid>b183c8ac-69e4-4f9b-a146-07bea36412d6</uuid>
+  </card>
+  <card>
+    <question>der Kühlschrank</question>
+    <answer>холодильник</answer>
+    <comment></comment>
+    <uuid>31df22b9-2498-4fa6-af36-2016265b717c</uuid>
+  </card>
+  <card>
+    <question>der Mixer</question>
+    <answer>миксер</answer>
+    <comment></comment>
+    <uuid>b3abf304-74aa-452c-952d-af8daad95a06</uuid>
+  </card>
+  <card>
+    <question>der Pfeffer</question>
+    <answer>перец</answer>
+    <comment></comment>
+    <uuid>068258f9-9469-43af-a9a3-45e6be457505</uuid>
+  </card>
+  <card>
+    <question>der Teig</question>
+    <answer>тесто</answer>
+    <comment></comment>
+    <uuid>f23ed94f-9824-49b8-8d19-1afb8ec0f59d</uuid>
+  </card>
+  <card>
+    <question>der Zucker</question>
+    <answer>сахар</answer>
+    <comment></comment>
+    <uuid>09e9ddfc-cef2-44d1-824b-4824917ff5c1</uuid>
+  </card>
+  <card>
+    <question>die Bratpfanne</question>
+    <answer>глубокая сковорода</answer>
+    <comment></comment>
+    <uuid>bcc9fab6-cb58-4abc-99c7-180685ad1715</uuid>
+  </card>
+  <card>
+    <question>die Dunstabzugshaube</question>
+    <answer>вытяжка над плитой</answer>
+    <comment></comment>
+    <uuid>e0747de9-a6f0-4c4d-8e0d-15771ba01437</uuid>
+  </card>
+  <card>
+    <question>die Geschirrspülmaschine</question>
+    <answer>посудомоечная машина</answer>
+    <comment></comment>
+    <uuid>3d4d9577-e9a0-456f-9549-50b90b8dd5ad</uuid>
+  </card>
+  <card>
+    <question>die Hefe</question>
+    <answer>дрожжи</answer>
+    <comment></comment>
+    <uuid>2e3da093-96bc-458d-8fc2-8e99963b49f8</uuid>
+  </card>
+  <card>
+    <question>die Kaffeemaschine</question>
+    <answer>машина для варки кофе</answer>
+    <comment></comment>
+    <uuid>510adbbb-df60-4200-a3fc-5685dde33afb</uuid>
+  </card>
+  <card>
+    <question>die Mikrowelle</question>
+    <answer>микроволновая печь</answer>
+    <comment></comment>
+    <uuid>22d1b528-1ceb-40c6-b414-d16b66e9d88f</uuid>
+  </card>
+  <card>
+    <question>die Petersilie</question>
+    <answer>петрушка</answer>
+    <comment></comment>
+    <uuid>1fd57cc1-1dd7-4859-980e-9ec089cfc7a7</uuid>
+  </card>
+  <card>
+    <question>die Spüle</question>
+    <answer>мойка</answer>
+    <comment></comment>
+    <uuid>ac2bf2cb-43c2-4657-9a04-5986d526b319</uuid>
+  </card>
+  <card>
+    <question>die Zwiebel</question>
+    <answer>лук</answer>
+    <comment></comment>
+    <uuid>3d776d7a-6ae3-4478-97e5-9b373064490a</uuid>
+  </card>
+  <card>
+    <question>einen Kuchen backen</question>
+    <answer>печь пирог</answer>
+    <comment></comment>
+    <uuid>df9a1bc3-846b-41b8-8dca-4004ff965811</uuid>
+  </card>
+  <card>
+    <question>Ich muß das Gulasch anbraten.</question>
+    <answer>Мне нужно поджарить гуляш.</answer>
+    <comment></comment>
+    <uuid>9beeeda3-2050-4f1c-b793-56e5785ea359</uuid>
+  </card>
+  <card>
+    <question>kochen</question>
+    <answer>варить</answer>
+    <comment></comment>
+    <uuid>a82e577c-7700-40a3-9bee-2e1149fa96cc</uuid>
+  </card>
+  <card>
+    <question>Koteletts braten</question>
+    <answer>жарить отбивные котлеты</answer>
+    <comment></comment>
+    <uuid>b1f843b5-bfbb-4a3b-b00b-e12942d400ad</uuid>
+  </card>
+  <card>
+    <question>Was kochen wir heute?</question>
+    <answer>Что мы будем варить сегодня?</answer>
+    <comment></comment>
+    <uuid>f6dc823f-287a-41d8-b28c-2fe755240151</uuid>
+  </card>
+</cards>
+</stack>

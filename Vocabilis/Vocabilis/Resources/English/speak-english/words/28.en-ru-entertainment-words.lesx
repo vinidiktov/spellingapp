@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a64bc5f3-f72a-4a5e-a707-a0835c31c580</uuid>
+  <title>Отдых, Развлечения :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>required</question>
+    <answer>необходимый</answer>
+    <comment>[rɪˈkwаɪrd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9e69241e-bf22-4351-9f67-822eeed695cb</uuid>
+    <examples>
+       <example>
+          <value>Is evening dress required?</value>
+          <translation>Надо ли приходить в вечернем платье?</translation>
+          <comment>required - необходимый, to require - требовать, evening - вечерний, dress - платье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bicycle</question>
+    <answer>велосипед</answer>
+    <comment>[ˈbаɪsɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d398c6ef-b718-4a73-abdc-e9ffa0d58a3e</uuid>
+    <examples>
+       <example>
+          <value>on a bicycle</value>
+          <translation>на велосипеде</translation>
+          <comment>bicycle - велосипед</comment>
+       </example>
+       <example>
+          <value>to hire a bicycle</value>
+          <translation>взять напрокат велосипед</translation>
+          <comment>to hire - взять напрокат, bicycle - велосипед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>process</question>
+    <answer>процесс</answer>
+    <comment>[ˈprɑːses]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>889e4c67-bcc9-4c44-b766-843a6c93e21e</uuid>
+    <examples>
+       <example>
+          <value>the process of collecting</value>
+          <translation>процесс коллекционирования</translation>
+          <comment>the process - процесс, collecting - коллекционирование</comment>
+       </example>
+       <example>
+          <value>the production process</value>
+          <translation>процесс производства</translation>
+          <comment>production - производство, process - процесс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>modern</question>
+    <answer>современный</answer>
+    <comment>[ˈmɑːdərn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>06bdd26c-b0b1-47ba-925f-ca7a9905bfb7</uuid>
+    <examples>
+       <example>
+          <value>modern music</value>
+          <translation>современная музыка</translation>
+          <comment>modern - современный, music - музыка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>erotic</question>
+    <answer>эротический</answer>
+    <comment>[ɪˈrɑːtɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>144bbdbc-d6af-42ac-b094-08ec273ef503</uuid>
+    <examples>
+       <example>
+          <value>an erotic show</value>
+          <translation>эротическое шоу</translation>
+          <comment>erotic - эротический, show - шоу</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>skate</question>
+    <answer>кататься на коньках</answer>
+    <comment>[skeɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6f3f9c28-8929-4334-8e87-d0b140ae5068</uuid>
+    <examples>
+       <example>
+          <value>to like to skate</value>
+          <translation>любить кататься на коньках</translation>
+          <comment>to like - любить, нравиться, to skate - кататься на коньках</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pastime</question>
+    <answer>развлечение</answer>
+    <comment>[ˈpæsˌtаɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4c4ae1eb-c702-4b76-abfa-b0af2f5c1571</uuid>
+    <examples>
+       <example>
+          <value>a very interesting pastime</value>
+          <translation>очень интересное развлечение</translation>
+          <comment>very - очень, interesting - интересный, pastime - развлечение, забава</comment>
+       </example>
+       <example>
+          <value>favorite pastime</value>
+          <translation>любимое развлечение</translation>
+          <comment>favorite - любимый, pastime - развлечение, забава</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fishing</question>
+    <answer>рыбалка</answer>
+    <comment>[ˈfɪʃɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c44e5fa8-7580-4201-bab4-452bcab2ee8f</uuid>
+    <examples>
+       <example>
+          <value>to be interested in fishing</value>
+          <translation>увлекаться рыбалкой</translation>
+          <comment>interested - интересующийся, fishing - рыбалка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>golf</question>
+    <answer>гольф</answer>
+    <comment>[gɑːlf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e422c11a-eee0-40ea-8e19-fc7d477d5f08</uuid>
+    <examples>
+       <example>
+          <value>to hire golf clubs</value>
+          <translation>взять напрокат клюшки для гольфа</translation>
+          <comment>to hire - взять напрокат, golf - гольф, club - клюшка, бита</comment>
+       </example>
+       <example>
+          <value>to play golf</value>
+          <translation>играть в гольф</translation>
+          <comment>to play - играть, golf - гольф</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>beach</question>
+    <answer>пляж</answer>
+    <comment>[biːʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1af0ac3-33d9-43fe-aaeb-a7b85f07823a</uuid>
+    <examples>
+       <example>
+          <value>to go to the beach</value>
+          <translation>ходить на пляж</translation>
+          <comment>to go - идти, beach - пляж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>singing</question>
+    <answer>пение</answer>
+    <comment>[ˈsɪŋɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ea0f83e-6e30-45c4-82d6-7e028a749b0c</uuid>
+    <examples>
+       <example>
+          <value>to go karaoke singing</value>
+          <translation>идти петь караоке</translation>
+          <comment>to go - идти, karaoke - караоке, singing - пение, to sing - петь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>slot</question>
+    <answer>приемное отверстие (игрового автомата)</answer>
+    <comment>[slɑːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7232890a-d4d0-49d1-93c8-eb34a64789e2</uuid>
+    <examples>
+       <example>
+          <value>slot machines</value>
+          <translation>игровые автоматы</translation>
+          <comment>to slot - отверстие автомата для опускания монеты, machine - машина</comment>
+       </example>
+       <example>
+          <value>to spend time at the slot machines</value>
+          <translation>проводить время за игровыми автоматами</translation>
+          <comment>to spend - проводить (время), slot - щель в игровом автомате, machine - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>video</question>
+    <answer>видео</answer>
+    <comment>[ˈvɪdiːˌoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>294dbd51-4cc0-499f-83d5-f4e8ad315679</uuid>
+    <examples>
+       <example>
+          <value>video shooting</value>
+          <translation>видеосъемка</translation>
+          <comment>video - видео, shooting - съемка (кино)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shooting</question>
+    <answer>съемка (кино)</answer>
+    <comment>[ˈʃuːtiːŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7324d07c-fd5e-4c36-9ca4-b9c88b0df273</uuid>
+    <examples>
+       <example>
+          <value>video shooting</value>
+          <translation>видеосъемка</translation>
+          <comment>video - видео, shooting - съемка (кино)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dancing</question>
+    <answer>танец, танцы</answer>
+    <comment>[ˈdænsɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a027fa69-24d4-431b-b517-ce99ca3585f6</uuid>
+    <examples>
+       <example>
+          <value>to feel like dancing</value>
+          <translation>хотеть потанцевать</translation>
+          <comment>to feel like - хотеть, to dance - танцевать, dancing - танцы</comment>
+       </example>
+       <example>
+          <value>to like dancing</value>
+          <translation>любить танцевать</translation>
+          <comment>to like - любить, нравиться, dancing - танцы, to dance - танцевать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>interesting</question>
+    <answer>интересный</answer>
+    <comment>[ˈɪntərɪstɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e22c1fab-816a-4a8a-bba0-46748483d6a0</uuid>
+    <examples>
+       <example>
+          <value>a very interesting pastime</value>
+          <translation>очень интересное развлечение</translation>
+          <comment>very - очень, interesting - интересный, pastime - развлечение, забава</comment>
+       </example>
+       <example>
+          <value>an interesting profession</value>
+          <translation>интересная профессия</translation>
+          <comment>interesting - интересный, profession - профессия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>billiards</question>
+    <answer>бильярд</answer>
+    <comment>[ˈbɪljərdz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a5c334ad-660b-4f46-b073-26ad7b25013b</uuid>
+    <examples>
+       <example>
+          <value>to play billiards</value>
+          <translation>играть на бильярде</translation>
+          <comment>to play - играть, billiards - бильярд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>machine</question>
+    <answer>машина, автомат</answer>
+    <comment>[məˈʃiːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fe1ed6c9-fd21-477e-8ef7-3d0520ae98f2</uuid>
+    <examples>
+       <example>
+          <value>slot machines</value>
+          <translation>игровые автоматы</translation>
+          <comment>to slot - отверстие автомата для опускания монеты, machine - машина</comment>
+       </example>
+       <example>
+          <value>to spend time at the slot machines</value>
+          <translation>проводить время за игровыми автоматами</translation>
+          <comment>to spend - проводить (время), slot - щель в игровом автомате, machine - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>badge</question>
+    <answer>значок</answer>
+    <comment>[bæʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>587e3f5d-fa9a-43d8-9814-c8783755d517</uuid>
+    <examples>
+       <example>
+          <value>to collect badges</value>
+          <translation>коллекционировать значки</translation>
+          <comment>to collect - собирать, badge - значок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>swim</question>
+    <answer>плавать</answer>
+    <comment>[swɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2614af18-69d2-4cc9-930f-935bedf22ca1</uuid>
+    <examples>
+       <example>
+          <value>to like to swim</value>
+          <translation>любить плавать</translation>
+          <comment>to like - любить, нравиться, to swim - плавать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hippodrome</question>
+    <answer>ипподром</answer>
+    <comment>[ˈhɪpəˌdroʊm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf5f5a80-b425-4ad3-b0e2-e799e3bb714e</uuid>
+    <examples>
+       <example>
+          <value>to visit the hippodrome</value>
+          <translation>посещать ипподром</translation>
+          <comment>to visit - посещать, hippodrome - ипподром</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>around</question>
+    <answer>вокруг</answer>
+    <comment>[əˈrаʊnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>89839729-cbd0-4c18-8db9-b47b89c2724c</uuid>
+    <examples>
+       <example>
+          <value>around the city</value>
+          <translation>по городу</translation>
+          <comment>around - вокруг, city - город</comment>
+       </example>
+       <example>
+          <value>to take a ride around the city</value>
+          <translation>покататься по городу</translation>
+          <comment>to take - взять, ride - поездка, around - вокруг, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>poster</question>
+    <answer>постер</answer>
+    <comment>[ˈpoʊstər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0379bc94-754f-434f-a1cc-01f53f6ce292</uuid>
+    <examples>
+       <example>
+          <value>to collect posters</value>
+          <translation>коллекционировать постеры</translation>
+          <comment>to collect - собирать, poster - постер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>guitar</question>
+    <answer>гитара</answer>
+    <comment>[gɪˈtɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97ac311a-ee3a-46ad-94e1-f99dddd4b148</uuid>
+    <examples>
+       <example>
+          <value>to play the guitar</value>
+          <translation>играть на гитаре</translation>
+          <comment>to play - играть, guitar - гитара</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>billiard</question>
+    <answer>бильярдный</answer>
+    <comment>[ˈbɪljərd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d896b255-d02e-40a0-b508-b5b543725a5c</uuid>
+    <examples>
+       <example>
+          <value>a billiard room</value>
+          <translation>бильярдная</translation>
+          <comment>billiard - бильярд, room - комната, помещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tennis</question>
+    <answer>теннис</answer>
+    <comment>[ˈtenɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc1d845b-200e-465f-85c8-ad61afcc8e92</uuid>
+    <examples>
+       <example>
+          <value>to play tennis</value>
+          <translation>играть в теннис</translation>
+          <comment>to play - играть, tennis - теннис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>coin</question>
+    <answer>монета</answer>
+    <comment>[kɔɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc49f979-e4d3-4e4a-a318-4023eba0d5b2</uuid>
+    <examples>
+       <example>
+          <value>to collect coins</value>
+          <translation>коллекционировать монеты</translation>
+          <comment>to collect - собирать, coin - монета</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>karaoke</question>
+    <answer>караоке</answer>
+    <comment></comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4292a0ba-c00e-414a-a530-b8adf9bb36e4</uuid>
+    <examples>
+       <example>
+          <value>to go karaoke singing</value>
+          <translation>идти петь караоке</translation>
+          <comment>to go - идти, karaoke - караоке, singing - пение, to sing - петь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hike</question>
+    <answer>поход</answer>
+    <comment>[hаɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f498cb61-33e4-4a68-a8b0-665befd393e6</uuid>
+    <examples>
+       <example>
+          <value>to go on a hike</value>
+          <translation>пойти в поход</translation>
+          <comment>to go - идти, hike - поход</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>casino</question>
+    <answer>казино</answer>
+    <comment>[kəˈsiːnoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>793ccf3f-7d88-401e-a8b1-c8941dfddc4e</uuid>
+    <examples>
+       <example>
+          <value>the nearest casino</value>
+          <translation>ближайшее казино</translation>
+          <comment>the nearest - ближайший, casino - казино</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>disco</question>
+    <answer>дискотека</answer>
+    <comment>[ˈdɪskoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca5b03c8-9953-4524-add7-d70f6e93581f</uuid>
+    <examples>
+       <example>
+          <value>to go to the disco</value>
+          <translation>пойти на дискотеку</translation>
+          <comment>to go - идти, disco - дискотека</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>collect</question>
+    <answer>собирать</answer>
+    <comment>[kəˈlekt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6bd7e512-0d0b-4d76-b953-168fe32307dd</uuid>
+    <examples>
+       <example>
+          <value>the process of collecting</value>
+          <translation>процесс коллекционирования</translation>
+          <comment>the process - процесс, collecting - коллекционирование</comment>
+       </example>
+       <example>
+          <value>to collect badges</value>
+          <translation>коллекционировать значки</translation>
+          <comment>to collect - собирать, badge - значок</comment>
+       </example>
+       <example>
+          <value>to collect coins</value>
+          <translation>коллекционировать монеты</translation>
+          <comment>to collect - собирать, coin - монета</comment>
+       </example>
+       <example>
+          <value>to collect postcards</value>
+          <translation>коллекционировать открытки</translation>
+          <comment>to collect - собирать, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>to collect stamps</value>
+          <translation>коллекционировать марки</translation>
+          <comment>to collect - собирать, stamp - марка</comment>
+       </example>
+       <example>
+          <value>to collect posters</value>
+          <translation>коллекционировать постеры</translation>
+          <comment>to collect - собирать, poster - постер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pleasure</question>
+    <answer>удовольствие</answer>
+    <comment>[ˈpleʒər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>984117bb-8d07-401a-bd0d-7f18647b2d09</uuid>
+    <examples>
+       <example>
+          <value>the largest pleasure</value>
+          <translation>самое большое удовольствие</translation>
+          <comment>the largest - самый большой, large - большой, pleasure - удовольствие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>steam</question>
+    <answer>пар</answer>
+    <comment>[stiːm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6d12bf8-fac8-4896-92fd-93c098b3be02</uuid>
+    <examples>
+       <example>
+          <value>to let off steam</value>
+          <translation>расслабиться (&quot;выпустить пар&quot;)</translation>
+          <comment>to let off - выпускать, steam - пар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ski</question>
+    <answer>кататься на лыжах</answer>
+    <comment>[skiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3d73ac56-68c3-4e84-b69e-a28bd402b01f</uuid>
+    <examples>
+       <example>
+          <value>to like to ski</value>
+          <translation>любить кататься на лыжах</translation>
+          <comment>to like - любить, нравиться, to ski - кататься на лыжах</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

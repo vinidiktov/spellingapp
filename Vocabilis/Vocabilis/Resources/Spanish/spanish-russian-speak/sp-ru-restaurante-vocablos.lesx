@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0616aae9-10fd-4c26-80f3-54abcb9aa5b2</uuid>
+  <title>Ресторан, кафе, бар :: Слова</title>
+  <author></author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>desayuno</question>
+    <answer>завтрак</answer>
+    <comment>m</comment>
+    <uuid>49b91c3a-68f2-496f-8c4e-b005e81b3622</uuid>
+  </card>
+  <card>
+    <question>bollo</question>
+    <answer>булочка</answer>
+    <comment>m</comment>
+    <uuid>a6680ef1-0058-43fb-b0dc-c43a936bd0d2</uuid>
+  </card>
+  <card>
+    <question>bocadillo</question>
+    <answer>бутерброд</answer>
+    <comment>m</comment>
+    <uuid>a76094bf-8a8f-42bf-9722-3b3359685283</uuid>
+  </card>
+  <card>
+    <question>jamón</question>
+    <answer>ветчина</answer>
+    <comment>m</comment>
+    <uuid>d152c249-b364-401c-902a-aae3500c2797</uuid>
+  </card>
+  <card>
+    <question>mermelada</question>
+    <answer>мармелад, джем</answer>
+    <comment>f</comment>
+    <uuid>29d096e0-8510-4e7b-87de-d679577baf51</uuid>
+  </card>
+  <card>
+    <question>café</question>
+    <answer>кофе</answer>
+    <comment>m</comment>
+    <uuid>747c2944-898e-4d1b-848a-3fa7420403e5</uuid>
+  </card>
+  <card>
+    <question>mantequilla</question>
+    <answer>сливочное масло</answer>
+    <comment>f</comment>
+    <uuid>a9e3406b-a5a1-47ef-aa64-8cb570730244</uuid>
+  </card>
+  <card>
+    <question>leche</question>
+    <answer>молоко</answer>
+    <comment>m</comment>
+    <uuid>e9aaf042-faa5-44dd-9058-cc549b3e7c64</uuid>
+  </card>
+  <card>
+    <question>tortilla</question>
+    <answer>омлет</answer>
+    <comment>f</comment>
+    <uuid>11693ebf-e093-4004-b5e6-424e1432b2f9</uuid>
+  </card>
+  <card>
+    <question>paté</question>
+    <answer>паштет</answer>
+    <comment></comment>
+    <uuid>e45c2eaf-5dc3-485f-a286-eacd0fa501e9</uuid>
+  </card>
+  <card>
+    <question>pastel</question>
+    <answer>пирожное</answer>
+    <comment>m</comment>
+    <uuid>2b610313-7a58-46ab-85a7-87cd7130d015</uuid>
+  </card>
+  <card>
+    <question>salchichas</question>
+    <answer>сосиски</answer>
+    <comment>f, pl</comment>
+    <uuid>cc53b4e4-ef07-4b2a-84c3-802900a86e12</uuid>
+  </card>
+  <card>
+    <question>queso</question>
+    <answer>сыр</answer>
+    <comment>m</comment>
+    <uuid>0b91973f-1b37-4e3f-81e8-dd192f4099e1</uuid>
+  </card>
+  <card>
+    <question>tostada</question>
+    <answer>тост</answer>
+    <comment>f</comment>
+    <uuid>929351a5-1e68-4d0c-a7d9-f8c5ecac64d9</uuid>
+  </card>
+  <card>
+    <question>zumo de fruta</question>
+    <answer>фруктовый сок</answer>
+    <comment>m</comment>
+    <uuid>a17b18fc-fd63-49a6-96fb-9f82cf24baf5</uuid>
+  </card>
+  <card>
+    <question>té</question>
+    <answer>чай</answer>
+    <comment>m</comment>
+    <uuid>f83fdaa5-c26d-43e5-9b07-2764c38798a0</uuid>
+  </card>
+  <card>
+    <question>buffet libre</question>
+    <answer>шведский стол</answer>
+    <comment></comment>
+    <uuid>fcfdfd0c-f34b-403f-a356-a0791aa4df23</uuid>
+  </card>
+  <card>
+    <question>huevo</question>
+    <answer>яйцо</answer>
+    <comment>m</comment>
+    <uuid>60842774-158f-4399-87bf-da9c7e6b5878</uuid>
+  </card>
+  <card>
+    <question>huevo duro</question>
+    <answer>яйцо вкрутую</answer>
+    <comment>m</comment>
+    <uuid>a820b38e-ee8e-413e-bae7-ad674680ab75</uuid>
+  </card>
+  <card>
+    <question>huevo pasado por agua</question>
+    <answer>яйцо всмятку</answer>
+    <comment>m</comment>
+    <uuid>7d2bb0bc-dccf-4a5e-9501-ce0f72963c10</uuid>
+  </card>
+  <card>
+    <question>huevos fritos</question>
+    <answer>яичница</answer>
+    <comment>m, pl</comment>
+    <uuid>57762198-1875-4b01-9abe-e5c73897d58d</uuid>
+  </card>
+  <card>
+    <question>con jamón</question>
+    <answer>с ветчиной</answer>
+    <comment></comment>
+    <uuid>9339357f-95e4-4c55-82e5-d110b0b12783</uuid>
+  </card>
+  <card>
+    <question>con tocino</question>
+    <answer>с салом</answer>
+    <comment></comment>
+    <uuid>f821379b-9df8-4c74-948d-184dd424713a</uuid>
+  </card>
+  <card>
+    <question>heuvos fritos al plato</question>
+    <answer>глазунья</answer>
+    <comment>m, pl</comment>
+    <uuid>03e9683e-fdb0-4dfc-bfc1-1371e85f0df2</uuid>
+  </card>
+  <card>
+    <question>entremeses</question>
+    <answer>закуски</answer>
+    <comment></comment>
+    <uuid>a195b9e5-3aec-4b34-a33e-d323f4f3903a</uuid>
+  </card>
+  <card>
+    <question>caviar</question>
+    <answer>икра</answer>
+    <comment>m</comment>
+    <uuid>3079dc27-980c-4716-ba52-eb4483ae379f</uuid>
+  </card>
+  <card>
+    <question>calamares</question>
+    <answer>кальмары</answer>
+    <comment>m</comment>
+    <uuid>9e916ffa-097f-4eb5-af60-fe086caf3268</uuid>
+  </card>
+  <card>
+    <question>salmón</question>
+    <answer>лосось</answer>
+    <comment>m</comment>
+    <uuid>8d2fe461-e74f-4910-bdf8-fa3f0535ec88</uuid>
+  </card>
+  <card>
+    <question>aceitunas</question>
+    <answer>маслины</answer>
+    <comment>f, pl</comment>
+    <uuid>51107774-afe9-44d6-bb71-159d5b6d8580</uuid>
+  </card>
+  <card>
+    <question>almuerzo</question>
+    <answer>обед</answer>
+    <comment>m</comment>
+    <uuid>0cbe7ae9-a354-490c-ac94-8781b14f247e</uuid>
+  </card>
+  <card>
+    <question>primer plato</question>
+    <answer>первое блюдо</answer>
+    <comment>m</comment>
+    <uuid>4d1b0179-93dd-43b8-a537-14fcf404cbd9</uuid>
+  </card>
+  <card>
+    <question>consomé</question>
+    <answer>бульон</answer>
+    <comment>m</comment>
+    <uuid>6db8ab0a-c0ec-4d71-9897-f7c137246e21</uuid>
+  </card>
+  <card>
+    <question>sopa de cebolla</question>
+    <answer>луковый суп</answer>
+    <comment>f</comment>
+    <uuid>c685278b-6a35-4ebd-a2bb-22ed7d7a4ea8</uuid>
+  </card>
+  <card>
+    <question>sopa de hortalizas</question>
+    <answer>овощной суп</answer>
+    <comment>f</comment>
+    <uuid>f34eeda2-d866-41d9-b9e3-59e1cbe1d661</uuid>
+  </card>
+  <card>
+    <question>puré</question>
+    <answer>протёртый суп</answer>
+    <comment>m</comment>
+    <uuid>964bbf0a-eae9-4412-98b2-772dd24cd5e5</uuid>
+  </card>
+  <card>
+    <question>sopa de pescado</question>
+    <answer>рыбный суп</answer>
+    <comment>f</comment>
+    <uuid>fdb8b873-9ab9-4774-8136-8b96176c5b15</uuid>
+  </card>
+  <card>
+    <question>sopa de ajo</question>
+    <answer>суп из чеснока</answer>
+    <comment>f</comment>
+    <uuid>1d2ac8d7-1bff-48aa-a465-5f0dd5d79ede</uuid>
+  </card>
+  <card>
+    <question>sopa de fideos</question>
+    <answer>суп-лапша</answer>
+    <comment>f</comment>
+    <uuid>1c7a7ab8-7dd4-4e87-a184-1fb4bea15d59</uuid>
+  </card>
+  <card>
+    <question>crema de tomate</question>
+    <answer>томатный суп</answer>
+    <comment>f</comment>
+    <uuid>66e3eb00-4939-4382-b667-430863460789</uuid>
+  </card>
+  <card>
+    <question>segundo plato</question>
+    <answer>второе блюдо</answer>
+    <comment>m</comment>
+    <uuid>9a632bb5-b6e3-43b3-99d1-fe261d48efe7</uuid>
+  </card>
+  <card>
+    <question>boquerones</question>
+    <answer>анчоусы</answer>
+    <comment>m, pl</comment>
+    <uuid>1d9189c4-f20e-41b1-b8bf-a6ffb485f85c</uuid>
+  </card>
+  <card>
+    <question>langosta</question>
+    <answer>лангуст</answer>
+    <comment>f</comment>
+    <uuid>7f6b8de8-b9de-4940-b255-d408d086dfcf</uuid>
+  </card>
+  <card>
+    <question>cangrejos</question>
+    <answer>крабы</answer>
+    <comment>m, pl</comment>
+    <uuid>8782d3b0-b35e-4b81-adf5-d9a4cebc92f4</uuid>
+  </card>
+  <card>
+    <question>gambas</question>
+    <answer>креветки</answer>
+    <comment>f, pl</comment>
+    <uuid>3e772517-7684-4483-b6a9-1a6f6334cf15</uuid>
+  </card>
+  <card>
+    <question>merluza</question>
+    <answer>мерлан</answer>
+    <comment>f</comment>
+    <uuid>ba7e62cf-edf6-4d88-a94c-842f3f5eb123</uuid>
+  </card>
+  <card>
+    <question>esturión</question>
+    <answer>осетрина</answer>
+    <comment>m</comment>
+    <uuid>e4a28aac-6911-483d-b09f-1b875b2da044</uuid>
+  </card>
+  <card>
+    <question>almejas</question>
+    <answer>ракушки</answer>
+    <comment>f, pl</comment>
+    <uuid>8cca085c-0af0-445b-8b27-7bcd311d7a7f</uuid>
+  </card>
+  <card>
+    <question>sardinas</question>
+    <answer>сардины</answer>
+    <comment>f, pl</comment>
+    <uuid>d25fbf66-1de7-42f7-9430-9c03c2d30f05</uuid>
+  </card>
+  <card>
+    <question>bacalao</question>
+    <answer>треска</answer>
+    <comment>m</comment>
+    <uuid>2cf58a93-493f-40cd-b880-1c2a78dbe63a</uuid>
+  </card>
+  <card>
+    <question>atún</question>
+    <answer>тунец</answer>
+    <comment>m</comment>
+    <uuid>85ff81c0-cf2d-40e6-be6e-9d844013870e</uuid>
+  </card>
+  <card>
+    <question>congrio</question>
+    <answer>угорь</answer>
+    <comment>m</comment>
+    <uuid>11e97d6b-cc70-4639-bd73-09f02efc616a</uuid>
+  </card>
+  <card>
+    <question>trucha</question>
+    <answer>форель</answer>
+    <comment>f</comment>
+    <uuid>f0ddca29-d5c9-4f5c-aee6-a8682dee43b1</uuid>
+  </card>
+  <card>
+    <question>de carne</question>
+    <answer>мясной</answer>
+    <comment></comment>
+    <uuid>c4b26f96-e1d9-439f-9b4c-9eba3114c8af</uuid>
+  </card>
+  <card>
+    <question>carne de cordero</question>
+    <answer>баранина</answer>
+    <comment>f</comment>
+    <uuid>839c1963-9612-4fdf-b708-574aa2015e6d</uuid>
+  </card>
+  <card>
+    <question>bisté</question>
+    <answer>бифштекс</answer>
+    <comment></comment>
+    <uuid>f2eb9a8a-4204-4d9f-a627-7c053110d0eb</uuid>
+  </card>
+  <card>
+    <question>filete</question>
+    <answer>вырезка</answer>
+    <comment>m</comment>
+    <uuid>2e4c2ab4-bfa5-4ff7-be4e-8e3afe32552c</uuid>
+  </card>
+  <card>
+    <question>hamburguesa</question>
+    <answer>гамбургер</answer>
+    <comment>f</comment>
+    <uuid>836d830d-f0d7-45fa-a919-d8b417ecb07d</uuid>
+  </card>
+  <card>
+    <question>carne de vaca</question>
+    <answer>говядина</answer>
+    <comment>f</comment>
+    <uuid>79957287-448f-4d70-8170-771a41f60618</uuid>
+  </card>
+  <card>
+    <question>carne guisada</question>
+    <answer>гуляш</answer>
+    <comment>f</comment>
+    <uuid>4a2bff91-6212-4ad5-91c2-c2478114f002</uuid>
+  </card>
+  <card>
+    <question>carne asada</question>
+    <answer>жаркое</answer>
+    <comment>f</comment>
+    <uuid>16504370-ac38-490f-a8d9-b1553d8c50e6</uuid>
+  </card>
+  <card>
+    <question>albóndigas</question>
+    <answer>котлеты</answer>
+    <comment>f, pl</comment>
+    <uuid>0dbe97e0-212e-4703-9057-9cc57434a0c7</uuid>
+  </card>
+  <card>
+    <question>paella</question>
+    <answer>паэлья (блюдо типа плова)</answer>
+    <comment>f</comment>
+    <uuid>bc487e77-a040-4237-80c8-3c4513b9afca</uuid>
+  </card>
+  <card>
+    <question>hígado</question>
+    <answer>печень</answer>
+    <comment>m</comment>
+    <uuid>9bb6e144-fc7d-49d5-8239-885e3d620dd7</uuid>
+  </card>
+  <card>
+    <question>riñones</question>
+    <answer>почки</answer>
+    <comment></comment>
+    <uuid>87b639f2-c274-489c-b52a-6d0644c82479</uuid>
+  </card>
+  <card>
+    <question>carne picada</question>
+    <answer>рубленое мясо</answer>
+    <comment>f</comment>
+    <uuid>15ac7163-25e3-4eb2-af56-72a9c89515f6</uuid>
+  </card>
+  <card>
+    <question>carne de cerdo</question>
+    <answer>свинина</answer>
+    <comment>f</comment>
+    <uuid>bd60d342-1192-4bc8-a7e6-434bd807739d</uuid>
+  </card>
+  <card>
+    <question>carne de ternero</question>
+    <answer>телятина</answer>
+    <comment>f</comment>
+    <uuid>388c4a44-9e7e-4324-a88a-2fef8d68b1a1</uuid>
+  </card>
+  <card>
+    <question>carne estofada</question>
+    <answer>тушёное мясо</answer>
+    <comment>f</comment>
+    <uuid>09b81930-fe0b-43ed-9578-355683ad6a7e</uuid>
+  </card>
+  <card>
+    <question>solomillo</question>
+    <answer>филей</answer>
+    <comment>m</comment>
+    <uuid>577394d4-1f5a-4d1f-9571-b10cbd93140a</uuid>
+  </card>
+  <card>
+    <question>brocheta</question>
+    <answer>шашлык</answer>
+    <comment>f</comment>
+    <uuid>ffe30026-aca0-4acc-96d6-92357821e2d9</uuid>
+  </card>
+  <card>
+    <question>escalope</question>
+    <answer>эскалоп</answer>
+    <comment></comment>
+    <uuid>6af782dd-71ed-401d-884f-b854b2013c5e</uuid>
+  </card>
+  <card>
+    <question>lengua</question>
+    <answer>язык</answer>
+    <comment>f</comment>
+    <uuid>fcf5f8d8-ea5f-49b6-aca3-2f03ad560f1b</uuid>
+  </card>
+  <card>
+    <question>avez</question>
+    <answer>птица</answer>
+    <comment>f, pl</comment>
+    <uuid>b3e39547-3dbc-4754-bb84-dfad5ed497a2</uuid>
+  </card>
+  <card>
+    <question>caza</question>
+    <answer>дичь</answer>
+    <comment>f</comment>
+    <uuid>1aa8ff21-b067-4f30-8c4d-c582357c0cd5</uuid>
+  </card>
+  <card>
+    <question>ganso</question>
+    <answer>гусь</answer>
+    <comment>m</comment>
+    <uuid>4673b494-ab2e-46e7-a3ef-6123e9b26be0</uuid>
+  </card>
+  <card>
+    <question>pavo</question>
+    <answer>индейка</answer>
+    <comment>m</comment>
+    <uuid>77c9339f-aab4-4cd2-aecc-c41d53041b14</uuid>
+  </card>
+  <card>
+    <question>conejo</question>
+    <answer>кролик</answer>
+    <comment>m</comment>
+    <uuid>9fee106e-5bbb-40f0-b83f-aef673dc43ce</uuid>
+  </card>
+  <card>
+    <question>gallina</question>
+    <answer>курица</answer>
+    <comment>f</comment>
+    <uuid>3fbc4c31-8a77-4eb9-ba41-9b1e780becef</uuid>
+  </card>
+  <card>
+    <question>codorniz</question>
+    <answer>перепел</answer>
+    <comment>f</comment>
+    <uuid>3f71e7dd-a4cd-410a-acda-8ed26fc3ffdd</uuid>
+  </card>
+  <card>
+    <question>pato</question>
+    <answer>утка</answer>
+    <comment>m</comment>
+    <uuid>fcb69b5e-1c55-4efa-a806-cd323a042b6c</uuid>
+  </card>
+  <card>
+    <question>faisán</question>
+    <answer>фазан</answer>
+    <comment>m</comment>
+    <uuid>cce7c237-a575-4d69-8122-f52a763341a6</uuid>
+  </card>
+  <card>
+    <question>pollo</question>
+    <answer>цыплёнок</answer>
+    <comment>m</comment>
+    <uuid>e647bad8-aa75-43c0-adbd-1e428d9b2e4a</uuid>
+  </card>
+  <card>
+    <question>harina</question>
+    <answer>мука</answer>
+    <comment>f</comment>
+    <uuid>e76d6062-7805-45e6-912c-552f792ab2fb</uuid>
+  </card>
+  <card>
+    <question>granos</question>
+    <answer>крупы</answer>
+    <comment>m, pl</comment>
+    <uuid>6c8bfa5f-4010-4114-986e-4c676dc24232</uuid>
+  </card>
+  <card>
+    <question>macarrones</question>
+    <answer>макароны</answer>
+    <comment>m, pl</comment>
+    <uuid>efae7ca3-c16b-44d2-ae2f-668dd4613c55</uuid>
+  </card>
+  <card>
+    <question>pudín</question>
+    <answer>пудинг</answer>
+    <comment>m</comment>
+    <uuid>6725a136-2c4f-4696-a78b-4bf83191b90d</uuid>
+  </card>
+  <card>
+    <question>nata</question>
+    <answer>сливки</answer>
+    <comment>f</comment>
+    <uuid>3a3237f3-9225-44a0-b2a8-9f4ddc6c41db</uuid>
+  </card>
+  <card>
+    <question>crema</question>
+    <answer>сметана</answer>
+    <comment>f</comment>
+    <uuid>07a0ce73-1cc3-4755-a5c3-dc8900509746</uuid>
+  </card>
+  <card>
+    <question>queso holandés</question>
+    <answer>голландский сыр</answer>
+    <comment>m</comment>
+    <uuid>16729748-e536-45bf-b783-6b3a4a5b6020</uuid>
+  </card>
+  <card>
+    <question>queso suizo</question>
+    <answer>швейцарский сыр</answer>
+    <comment>m</comment>
+    <uuid>86632323-a4e1-4e09-a175-5433aa18f2b2</uuid>
+  </card>
+  <card>
+    <question>legumbres</question>
+    <answer>овощи</answer>
+    <comment>f, pl</comment>
+    <uuid>653c9d0a-5e52-423c-bead-3addb04bd347</uuid>
+  </card>
+  <card>
+    <question>verduras</question>
+    <answer>зелень</answer>
+    <comment>f, pl</comment>
+    <uuid>aafe232e-416e-4304-9905-30e1d8b4b6a0</uuid>
+  </card>
+  <card>
+    <question>alcachofa</question>
+    <answer>артишок</answer>
+    <comment>f</comment>
+    <uuid>df5e9f78-060c-4ad2-b12b-f21952422639</uuid>
+  </card>
+  <card>
+    <question>guisante</question>
+    <answer>зелёный горошек</answer>
+    <comment>m</comment>
+    <uuid>77457694-ce96-486b-8019-1226ae504693</uuid>
+  </card>
+  <card>
+    <question>lechuga</question>
+    <answer>зелёный салат</answer>
+    <comment>f</comment>
+    <uuid>10acdefd-0be8-40b7-96a7-f0d8a94acd76</uuid>
+  </card>
+  <card>
+    <question>repollo</question>
+    <answer>капуста</answer>
+    <comment>m</comment>
+    <uuid>d713d5fe-a067-40b1-b857-0f9dc19b3afb</uuid>
+  </card>
+  <card>
+    <question>coliflor</question>
+    <answer>цветная капуста</answer>
+    <comment>f</comment>
+    <uuid>178be91c-3afa-4a51-b028-3542cf16bf78</uuid>
+  </card>
+  <card>
+    <question>patatas</question>
+    <answer>картофель</answer>
+    <comment>f, pl</comment>
+    <uuid>9c361960-7a0d-4a0e-a552-9347ee3bfda8</uuid>
+  </card>
+  <card>
+    <question>papas</question>
+    <answer>картофель (Лат.Ам.)</answer>
+    <comment>f, pl</comment>
+    <uuid>ac537d74-6e30-426a-b497-cbc9c182bab1</uuid>
+  </card>
+  <card>
+    <question>patatas fritas</question>
+    <answer>жареный картофель</answer>
+    <comment>f, pl</comment>
+    <uuid>34256a82-10c4-4714-8413-79921d15e77e</uuid>
+  </card>
+  <card>
+    <question>patatas cocidas</question>
+    <answer>отварной картофель</answer>
+    <comment>f, pl</comment>
+    <uuid>a9ed516e-8021-47ae-a7b6-20c788784c59</uuid>
+  </card>
+  <card>
+    <question>cebolla</question>
+    <answer>лук</answer>
+    <comment>f</comment>
+    <uuid>4baf4f6b-5484-489c-9f68-0b10434cdb8d</uuid>
+  </card>
+  <card>
+    <question>zanahoria</question>
+    <answer>морковь</answer>
+    <comment>f</comment>
+    <uuid>56c762e6-7944-4090-984b-abd260679c87</uuid>
+  </card>
+  <card>
+    <question>perejil</question>
+    <answer>петрушка</answer>
+    <comment>m</comment>
+    <uuid>47844e64-ef34-41a1-ba95-0983fb3e06a2</uuid>
+  </card>
+  <card>
+    <question>tomates</question>
+    <answer>помидоры</answer>
+    <comment>m, pl</comment>
+    <uuid>5394ff95-df6c-4f96-afea-76dd6006e803</uuid>
+  </card>
+  <card>
+    <question>rábano</question>
+    <answer>редис</answer>
+    <comment>m</comment>
+    <uuid>c3e12146-edb9-4e9e-a11a-d6ff8be57b04</uuid>
+  </card>
+  <card>
+    <question>remolacha</question>
+    <answer>свекла</answer>
+    <comment>f</comment>
+    <uuid>cb11e908-8ed9-47ee-ad59-65d3079b4bad</uuid>
+  </card>
+  <card>
+    <question>hinojo</question>
+    <answer>укроп</answer>
+    <comment>m</comment>
+    <uuid>c2ae6d51-6fce-4e66-bcd7-102a5efc5b0b</uuid>
+  </card>
+  <card>
+    <question>alubias</question>
+    <answer>фасоль</answer>
+    <comment>f, pl</comment>
+    <uuid>f6c03d29-f1d8-4720-8b2a-359a45d1f479</uuid>
+  </card>
+  <card>
+    <question>ajo</question>
+    <answer>чеснок</answer>
+    <comment>m</comment>
+    <uuid>0a5155be-6fca-4751-bd4a-f147189f5ffb</uuid>
+  </card>
+  <card>
+    <question>espinacas</question>
+    <answer>шпинат</answer>
+    <comment>f, pl</comment>
+    <uuid>d58f5558-5928-4752-a6ea-95fac957b0a4</uuid>
+  </card>
+  <card>
+    <question>postre</question>
+    <answer>десерт</answer>
+    <comment>m</comment>
+    <uuid>7c583896-0a2c-44a6-92d6-1eafa762175a</uuid>
+  </card>
+  <card>
+    <question>nata montada</question>
+    <answer>взбитые сливки</answer>
+    <comment>f</comment>
+    <uuid>4e82bee6-fdfb-4c81-999e-9464f9a29a0f</uuid>
+  </card>
+  <card>
+    <question>gelatina de frutas</question>
+    <answer>желе (фруктовое)</answer>
+    <comment>f</comment>
+    <uuid>9793df05-5bfa-4b0d-ac9e-fce21d381466</uuid>
+  </card>
+  <card>
+    <question>helado</question>
+    <answer>мороженое</answer>
+    <comment>m</comment>
+    <uuid>212b0cfa-a72d-43f8-a77f-c55ae1a4bf35</uuid>
+  </card>
+  <card>
+    <question>tarta</question>
+    <answer>торт</answer>
+    <comment>f</comment>
+    <uuid>0ec0be15-ee1c-4771-9aee-eeb4e97c13ee</uuid>
+  </card>
+  <card>
+    <question>flan</question>
+    <answer>флан (взбитые яйца с молоком)</answer>
+    <comment>m</comment>
+    <uuid>eddaa663-6e97-44c8-af0a-d0190306b207</uuid>
+  </card>
+  <card>
+    <question>fruta</question>
+    <answer>фрукты</answer>
+    <comment>f</comment>
+    <uuid>b421ef76-1bae-42fe-a611-c76576d3c2e7</uuid>
+  </card>
+  <card>
+    <question>albaricoques</question>
+    <answer>абрикосы</answer>
+    <comment>m, pl</comment>
+    <uuid>e65724be-60f5-4592-acc8-18cc0973ba28</uuid>
+  </card>
+  <card>
+    <question>membrillos</question>
+    <answer>айва</answer>
+    <comment>m, pl</comment>
+    <uuid>b1257133-f6f4-434f-8d50-eb1df6919d75</uuid>
+  </card>
+  <card>
+    <question>piña</question>
+    <answer>ананас</answer>
+    <comment>f</comment>
+    <uuid>e452e9b0-8be6-4bc4-a86b-0710ea24c988</uuid>
+  </card>
+  <card>
+    <question>naranjas</question>
+    <answer>апельсины</answer>
+    <comment>f, pl</comment>
+    <uuid>8fddff8a-aafc-434a-9d63-25ee80152ef1</uuid>
+  </card>
+  <card>
+    <question>sandía</question>
+    <answer>арбуз</answer>
+    <comment>f</comment>
+    <uuid>9c889a64-c74c-43ec-ab63-ac9341ec1d9d</uuid>
+  </card>
+  <card>
+    <question>melón de agua</question>
+    <answer>арбуз (Лат.Ам.)</answer>
+    <comment>m</comment>
+    <uuid>b644d58b-a112-42c2-b25c-7adf30a47bae</uuid>
+  </card>
+  <card>
+    <question>plátanos</question>
+    <answer>бананы</answer>
+    <comment>m, pl</comment>
+    <uuid>66f2988c-297b-4e3d-b615-df74ff80fbbe</uuid>
+  </card>
+  <card>
+    <question>uvas</question>
+    <answer>виноград</answer>
+    <comment>f, pl</comment>
+    <uuid>1133336b-4a4c-443a-a064-e04be19769e5</uuid>
+  </card>
+  <card>
+    <question>guinda</question>
+    <answer>вишня</answer>
+    <comment>f</comment>
+    <uuid>53aeb27f-858c-4ff1-8d39-a5c66bfe0bd5</uuid>
+  </card>
+  <card>
+    <question>pomelo</question>
+    <answer>грейпфрут (=toronja)</answer>
+    <comment>m</comment>
+    <uuid>c80e5170-88ba-47bd-9845-0a49b642309e</uuid>
+  </card>
+  <card>
+    <question>toronja</question>
+    <answer>грейпфрут (=pomelo)</answer>
+    <comment>f</comment>
+    <uuid>f1798547-fab3-44f3-bf32-f9e5da33f4b5</uuid>
+  </card>
+  <card>
+    <question>peras</question>
+    <answer>груши</answer>
+    <comment>f, pl</comment>
+    <uuid>f6263b4e-4e92-4d9c-84f1-f7171e428ec1</uuid>
+  </card>
+  <card>
+    <question>melón</question>
+    <answer>дыня</answer>
+    <comment>m</comment>
+    <uuid>37739643-135f-44e4-b7a0-39cc35e541c4</uuid>
+  </card>
+  <card>
+    <question>fresa</question>
+    <answer>клубника</answer>
+    <comment>f</comment>
+    <uuid>023473cf-a039-4607-a52e-18eaee1b9944</uuid>
+  </card>
+  <card>
+    <question>limones</question>
+    <answer>лимоны</answer>
+    <comment>m, pl</comment>
+    <uuid>dd00284a-0a2a-4521-9f2f-5ef6c320619e</uuid>
+  </card>
+  <card>
+    <question>mandarinas</question>
+    <answer>мандарины</answer>
+    <comment>f, pl</comment>
+    <uuid>b8f8d073-c330-4cde-bd37-f45a322a19fb</uuid>
+  </card>
+  <card>
+    <question>melocotones</question>
+    <answer>персики</answer>
+    <comment>m, pl</comment>
+    <uuid>f3eb2596-ddb3-4121-b56f-04098dc77990</uuid>
+  </card>
+  <card>
+    <question>ciruelas</question>
+    <answer>сливы</answer>
+    <comment>f, pl</comment>
+    <uuid>f4edd080-91bc-48e2-af1b-b18325639049</uuid>
+  </card>
+  <card>
+    <question>manzanas</question>
+    <answer>яблоки</answer>
+    <comment>f, pl</comment>
+    <uuid>b0bcc52e-055a-4dfd-9d31-9adf4577bbc0</uuid>
+  </card>
+  <card>
+    <question>bebidas</question>
+    <answer>напитки</answer>
+    <comment>f, pl</comment>
+    <uuid>66308fc8-755b-4a20-8a0e-0cf4b5aee669</uuid>
+  </card>
+  <card>
+    <question>sin alcohol</question>
+    <answer>безалкогольный</answer>
+    <comment></comment>
+    <uuid>4d010fda-4acb-4229-913b-da5bfd68d654</uuid>
+  </card>
+  <card>
+    <question>cacao</question>
+    <answer>какао</answer>
+    <comment>m</comment>
+    <uuid>6ff28247-a974-40b6-8bcf-ad83555dceb2</uuid>
+  </card>
+  <card>
+    <question>coca-cola</question>
+    <answer>кока-кола</answer>
+    <comment></comment>
+    <uuid>4133141f-7aa9-4f88-a15a-392bd686d297</uuid>
+  </card>
+  <card>
+    <question>café con leche</question>
+    <answer>кофе с молоком</answer>
+    <comment>m</comment>
+    <uuid>414a4573-d819-46cc-9a1d-f0e890fff955</uuid>
+  </card>
+  <card>
+    <question>café con nata</question>
+    <answer>кофе со сливками</answer>
+    <comment>m</comment>
+    <uuid>3d97a433-3680-4eb9-ba28-34b963c4b2b5</uuid>
+  </card>
+  <card>
+    <question>café con azúcar</question>
+    <answer>кофе с сахаром</answer>
+    <comment>m</comment>
+    <uuid>b3a3ac46-bc0a-4882-bfdc-2f90c8279aa8</uuid>
+  </card>
+  <card>
+    <question>café sólo</question>
+    <answer>чёрный кофе</answer>
+    <comment>m</comment>
+    <uuid>d6cf5bec-83a8-4743-b668-925100392590</uuid>
+  </card>
+  <card>
+    <question>agua mineral</question>
+    <answer>минеральная вода</answer>
+    <comment>f</comment>
+    <uuid>df8ad284-7cdf-49bc-83e5-80f0262687bb</uuid>
+  </card>
+  <card>
+    <question>pepsi-cola</question>
+    <answer>пепси-кола</answer>
+    <comment></comment>
+    <uuid>813d08ab-e2fe-421d-a5ee-b46d56ce17a2</uuid>
+  </card>
+  <card>
+    <question>zumo</question>
+    <answer>сок</answer>
+    <comment>m</comment>
+    <uuid>ca370e07-3752-4d8e-b0f5-7921890f124a</uuid>
+  </card>
+  <card>
+    <question>zumo de albaricoque</question>
+    <answer>абрикосовый сок</answer>
+    <comment>m</comment>
+    <uuid>96f8a4fd-deb1-4f59-bfb7-763dfb97479b</uuid>
+  </card>
+  <card>
+    <question>zumo de naranja</question>
+    <answer>апельсиновый сок</answer>
+    <comment>m</comment>
+    <uuid>2da3ee1d-9f33-4367-adb4-7adf2aacc4a3</uuid>
+  </card>
+  <card>
+    <question>zumo de uva</question>
+    <answer>виноградный сок</answer>
+    <comment>m</comment>
+    <uuid>4c8ea0f5-f7f5-4180-bd10-f95bc3e0d3cf</uuid>
+  </card>
+  <card>
+    <question>zumo de pomelo</question>
+    <answer>грейпфрутовый сок</answer>
+    <comment>m</comment>
+    <uuid>1466dfe5-9d7a-40cd-bf3c-fedd3168eed4</uuid>
+  </card>
+  <card>
+    <question>zumo de tomate</question>
+    <answer>томатный сок</answer>
+    <comment>m</comment>
+    <uuid>cf8f23cb-9907-4aad-b068-82006d67799f</uuid>
+  </card>
+  <card>
+    <question>zumo de manzana</question>
+    <answer>яблочный сок</answer>
+    <comment>m</comment>
+    <uuid>ba87255b-08d3-4b70-981d-449a9b1ca884</uuid>
+  </card>
+  <card>
+    <question>tónica</question>
+    <answer>тоник</answer>
+    <comment></comment>
+    <uuid>a3edc390-d952-42ef-abc1-d82889f92367</uuid>
+  </card>
+  <card>
+    <question>fanta</question>
+    <answer>фанта</answer>
+    <comment></comment>
+    <uuid>74030e28-9e16-42fc-a8db-bacf2e8ab2e0</uuid>
+  </card>
+  <card>
+    <question>té</question>
+    <answer>чай</answer>
+    <comment>m</comment>
+    <uuid>f7244915-82ba-44bb-8ed9-c5716350500e</uuid>
+  </card>
+  <card>
+    <question>té de jazmín</question>
+    <answer>жасминовый чай</answer>
+    <comment>m</comment>
+    <uuid>b6b17f72-3a3d-4ba5-a625-7853c05c7be0</uuid>
+  </card>
+  <card>
+    <question>chocolate</question>
+    <answer>шоколад</answer>
+    <comment>m</comment>
+    <uuid>9577497f-b936-4a59-a74c-c8ce37066713</uuid>
+  </card>
+  <card>
+    <question>whisky</question>
+    <answer>виски</answer>
+    <comment>m</comment>
+    <uuid>c66dcb3f-dde3-418c-a1ea-543e2be601af</uuid>
+  </card>
+  <card>
+    <question>vodka</question>
+    <answer>водка</answer>
+    <comment></comment>
+    <uuid>15251a8a-29ea-448e-aad5-bf9c1d563689</uuid>
+  </card>
+  <card>
+    <question>ginebra</question>
+    <answer>джин</answer>
+    <comment>f</comment>
+    <uuid>651e2161-7432-4e79-bf7f-b65282de6763</uuid>
+  </card>
+  <card>
+    <question>coñac</question>
+    <answer>коньяк</answer>
+    <comment>m</comment>
+    <uuid>189071b3-9d0e-4039-bd32-58c63408e5c6</uuid>
+  </card>
+  <card>
+    <question>licor</question>
+    <answer>ликёр</answer>
+    <comment>m</comment>
+    <uuid>5680f3b3-85f0-4f3d-8dc3-af3712f7b63f</uuid>
+  </card>
+  <card>
+    <question>cerveza</question>
+    <answer>пиво</answer>
+    <comment>f</comment>
+    <uuid>a8061499-dd54-4d3b-b009-7d33d29b7537</uuid>
+  </card>
+  <card>
+    <question>oporto</question>
+    <answer>портвейн</answer>
+    <comment>m</comment>
+    <uuid>e0afb446-cd2f-4eb2-a647-a9e4e8f402dd</uuid>
+  </card>
+  <card>
+    <question>ponche</question>
+    <answer>пунш</answer>
+    <comment>m</comment>
+    <uuid>8f59999f-b22b-4e5d-892e-f2d30a26a65d</uuid>
+  </card>
+  <card>
+    <question>ron</question>
+    <answer>ром</answer>
+    <comment>m</comment>
+    <uuid>972db881-1bf3-4e5c-8ca8-fe64f9cd7468</uuid>
+  </card>
+  <card>
+    <question>champán</question>
+    <answer>шампанское</answer>
+    <comment>m</comment>
+    <uuid>e62f1740-68f9-41e8-9f40-3960ee89cd50</uuid>
+  </card>
+  <card>
+    <question>vajilla</question>
+    <answer>столовая посуда</answer>
+    <comment>f</comment>
+    <uuid>cb1fa92d-575b-4ecd-b67f-00e7df12e33e</uuid>
+  </card>
+  <card>
+    <question>cubierto</question>
+    <answer>столовый прибор</answer>
+    <comment>m</comment>
+    <uuid>84830e65-8da0-4e41-91ae-251b0562d777</uuid>
+  </card>
+  <card>
+    <question>fuente</question>
+    <answer>блюдо (посуда)</answer>
+    <comment>f</comment>
+    <uuid>86e886d3-e949-4e27-988f-3a0c54e41ccf</uuid>
+  </card>
+  <card>
+    <question>tenedor</question>
+    <answer>вилка</answer>
+    <comment>m</comment>
+    <uuid>538216b9-da68-478d-9de3-39d9888884a6</uuid>
+  </card>
+  <card>
+    <question>jarra</question>
+    <answer>графин</answer>
+    <comment>f</comment>
+    <uuid>220c8416-6d55-4ec1-989c-40b5e5689e86</uuid>
+  </card>
+  <card>
+    <question>cafetera</question>
+    <answer>кофейник</answer>
+    <comment>f</comment>
+    <uuid>85d5c2c7-9863-4d0d-beb2-5963f81958b6</uuid>
+  </card>
+  <card>
+    <question>cuchara</question>
+    <answer>ложка</answer>
+    <comment>f</comment>
+    <uuid>c0246ade-5061-4c44-a841-f717cfceac99</uuid>
+  </card>
+  <card>
+    <question>cuchillo</question>
+    <answer>нож</answer>
+    <comment>m</comment>
+    <uuid>43bde950-a7ec-4d43-8ac7-6330a6ac91f8</uuid>
+  </card>
+  <card>
+    <question>servilleta</question>
+    <answer>салфетка</answer>
+    <comment>f</comment>
+    <uuid>c0393832-2333-410c-8113-0ddd7bae206c</uuid>
+  </card>
+  <card>
+    <question>azucarera</question>
+    <answer>сахарница</answer>
+    <comment>f</comment>
+    <uuid>fd060523-8a0d-49fa-af7d-7a3dc716809c</uuid>
+  </card>
+  <card>
+    <question>salero</question>
+    <answer>солонка</answer>
+    <comment>m</comment>
+    <uuid>067b9fae-3e5f-489e-890f-51b91988bc3b</uuid>
+  </card>
+  <card>
+    <question>vaso</question>
+    <answer>стакан</answer>
+    <comment>m</comment>
+    <uuid>f38a60c6-d4ad-4f8f-821e-08c7f6f98ca0</uuid>
+  </card>
+  <card>
+    <question>plato</question>
+    <answer>тарелка</answer>
+    <comment>m</comment>
+    <uuid>35e4a9e9-b713-4306-a66d-a44760bc13b3</uuid>
+  </card>
+  <card>
+    <question>tetera</question>
+    <answer>чайник</answer>
+    <comment>f</comment>
+    <uuid>14de85d7-779b-4746-8071-9b65a453ac30</uuid>
+  </card>
+  <card>
+    <question>taza</question>
+    <answer>чашка</answer>
+    <comment>f</comment>
+    <uuid>d94831fb-e3b1-4d1f-af71-eab0875d29a9</uuid>
+  </card>
+</cards>
+</stack>

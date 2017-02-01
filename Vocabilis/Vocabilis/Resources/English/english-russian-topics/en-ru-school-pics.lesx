@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7d739174-02fa-4d80-9f4d-80a40e915d7d</uuid>
+  <title>Школа</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>book</question>
+    <answer>книга</answer>
+    <comment>[bʊk]</comment>
+    <answer_picture>book.gif</answer_picture>
+    <uuid>d2fd094e-d10c-44c6-a3dc-806b482e34a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ask</question>
+    <answer>спрашивать</answer>
+    <comment>[ɑːsk]</comment>
+    <answer_picture>ask.gif</answer_picture>
+    <uuid>20974def-b427-4a16-8502-044e2347f11d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bookbag</question>
+    <answer>ранец, школьная сумка</answer>
+    <comment>[bʊk bæg]</comment>
+    <answer_picture>bookbag.gif</answer_picture>
+    <uuid>bd2144bb-4e6e-4af5-8d1d-39edcda0e198</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>class</question>
+    <answer>урок, занятие</answer>
+    <comment>[klɑːs]</comment>
+    <answer_picture>class.gif</answer_picture>
+    <uuid>358291e6-5a22-4e01-9ae2-4c002b2dfb78</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>correct</question>
+    <answer>правильный (S. right)</answer>
+    <comment>[kəˈrekt]</comment>
+    <answer_picture>correct.gif</answer_picture>
+    <uuid>bec44e69-8223-4f4d-8cf3-62c38aa5481f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>boring</question>
+    <answer>скучный</answer>
+    <comment>[ˈbɔːrɪŋ]</comment>
+    <answer_picture>boring.gif</answer_picture>
+    <uuid>0ed006bc-f702-43c4-959a-f1a7ccbc87f7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>blackboard</question>
+    <answer>классная доска</answer>
+    <comment>[ˈblækbɔːd]</comment>
+    <answer_picture>blackboard.gif</answer_picture>
+    <uuid>ea54f21a-7cb5-4235-b25b-9194e409d309</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>calculator</question>
+    <answer>калькулятор</answer>
+    <comment>[ˈkælkjʊleɪtə]</comment>
+    <answer_picture>calculator.gif</answer_picture>
+    <uuid>b6a66519-b42f-4888-9011-ef62133990cc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bus</question>
+    <answer>автобус</answer>
+    <comment>[bʌs]</comment>
+    <answer_picture>bus.gif</answer_picture>
+    <uuid>7ab42033-4abc-44a4-b1ac-7a4a358fa885</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>crossing</question>
+    <answer>пешеходный переход</answer>
+    <comment>[ˈkrɒsɪŋ]</comment>
+    <answer_picture>crossing.gif</answer_picture>
+    <uuid>7c5bb853-2ada-4161-b16d-af548d5ac777</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>desk</question>
+    <answer>парта, письменный стол</answer>
+    <comment>[desk]</comment>
+    <answer_picture>desk.gif</answer_picture>
+    <uuid>6ec4b6c3-5d0f-44ba-9f16-38c636aed1af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>difficult</question>
+    <answer>трудный</answer>
+    <comment>[ˈdɪfɪkəlt]</comment>
+    <answer_picture>difficult.gif</answer_picture>
+    <uuid>5eea69bc-d648-410d-b77b-b6e3316ea65f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>discuss</question>
+    <answer>обсуждать</answer>
+    <comment>[dɪsˈkʌs]</comment>
+    <answer_picture>discuss.gif</answer_picture>
+    <uuid>1d943fc0-004a-4616-96ad-483aeddcc98b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>easy</question>
+    <answer>лёгкий, нетрудный</answer>
+    <comment>[ˈiːzɪ]</comment>
+    <answer_picture>easy.gif</answer_picture>
+    <uuid>02e61ab2-ea21-4c51-8e26-b1c6683515ce</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>erase</question>
+    <answer>стирать</answer>
+    <comment>[ɪˈreɪz]</comment>
+    <answer_picture>erase.gif</answer_picture>
+    <uuid>1ac48c98-19a1-406d-a809-220eb8ba7cfd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>eraser</question>
+    <answer>ластик, резинка</answer>
+    <comment>[ɪˈreɪzə]</comment>
+    <answer_picture>eraser.gif</answer_picture>
+    <uuid>86d5cd6c-b834-4018-8ccf-a8c0bdb9994d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fail</question>
+    <answer>не сдать (экзамен)</answer>
+    <comment>[feɪl]</comment>
+    <answer_picture>fail.gif</answer_picture>
+    <uuid>7b0fc01e-ec31-4c6c-9c01-0c1c6ee01d9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>incorrect</question>
+    <answer>неправильный (S. wrong)</answer>
+    <comment>[ˌɪnkəˈrekt]</comment>
+    <answer_picture>incorrect.gif</answer_picture>
+    <uuid>dd8e1df8-ffd1-44ca-b633-1c5f96314028</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>interesting</question>
+    <answer>интересный</answer>
+    <comment>[ˈɪntrɪstɪŋ]</comment>
+    <answer_picture>interesting.gif</answer_picture>
+    <uuid>59e75554-b389-40b9-815d-6523eaafbc74</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lazy</question>
+    <answer>ленивый</answer>
+    <comment>[ˈleɪzɪ]</comment>
+    <answer_picture>lazy.gif</answer_picture>
+    <uuid>857a1c65-34f0-42c2-8654-e7a561b1b7fc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>math</question>
+    <answer>математика</answer>
+    <comment>[mæθ]</comment>
+    <answer_picture>math.gif</answer_picture>
+    <uuid>3259b2d9-27be-4550-a46f-d6634ccff43f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>paper</question>
+    <answer>бумага</answer>
+    <comment>[ˈpeɪpə]</comment>
+    <answer_picture>paper.gif</answer_picture>
+    <uuid>78827aa1-d096-4ea5-8fe5-0a58db18d719</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pass</question>
+    <answer>успешно сдать (экзамен)</answer>
+    <comment>[pɑːs]</comment>
+    <answer_picture>pass.gif</answer_picture>
+    <uuid>921a1971-ec6f-489b-b1e2-38a45c8439a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pen</question>
+    <answer>ручка (которой пишут)</answer>
+    <comment>[pen]</comment>
+    <answer_picture>pen.gif</answer_picture>
+    <uuid>31470a4d-f070-49f5-acf2-cd23297b3199</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pencil</question>
+    <answer>карандаш</answer>
+    <comment>[ˈpensl]</comment>
+    <answer_picture>pencil.gif</answer_picture>
+    <uuid>b50f1586-f5b4-479c-a3e1-f8cd273d7240</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>school</question>
+    <answer>школа</answer>
+    <comment>[skuːl]</comment>
+    <answer_picture>school.gif</answer_picture>
+    <uuid>fd4b9415-e567-463b-82a5-10366ad31f8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>student</question>
+    <answer>ученик, студент</answer>
+    <comment>[ˈstjuːdənt]</comment>
+    <answer_picture>student.gif</answer_picture>
+    <uuid>a05c52df-32e9-48bd-8219-2fbb754f97f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>study</question>
+    <answer>учить(ся), изучать</answer>
+    <comment>[ˈstʌdɪ]</comment>
+    <answer_picture>study.gif</answer_picture>
+    <uuid>cd0b19df-4497-4b4f-903c-f68425e5f167</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>teach</question>
+    <answer>обучать</answer>
+    <comment>[tiːʧ]</comment>
+    <answer_picture>teach.gif</answer_picture>
+    <uuid>fd0e6635-001d-4aea-8e46-bd26e60949c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>teacher</question>
+    <answer>учитель</answer>
+    <comment>[ˈtiːʧə]</comment>
+    <answer_picture>teacher.gif</answer_picture>
+    <uuid>4e82e922-5c9f-4fd1-bad4-482598ed8bf0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>test</question>
+    <answer>контрольная работа, тест</answer>
+    <comment>[test]</comment>
+    <answer_picture>test.gif</answer_picture>
+    <uuid>54abac7e-0578-4ff9-9bf8-75f5d965474b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>university</question>
+    <answer>университет</answer>
+    <comment>[ˌjuːnɪˈvɜːsɪtɪ]</comment>
+    <answer_picture>university.gif</answer_picture>
+    <uuid>dcfbd72b-38b2-4cff-bb5e-d75e5377ef9f</uuid>
+  </card>
+</cards>
+</stack>

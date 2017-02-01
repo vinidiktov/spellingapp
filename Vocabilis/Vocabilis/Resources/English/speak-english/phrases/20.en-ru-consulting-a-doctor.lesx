@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>22a931d7-679a-4522-a3c5-648f13146d67</uuid>
+  <title>У врача :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>How are you?</question>
+    <answer>Как вы?</answer>
+    <comment>[hаʊ ɑːr jʊ]</comment>
+    <answer_comment>how - как, you - ты, вы</answer_comment>
+    
+    <uuid>9ea3a146-ed3a-4f76-84b9-7bd51bf346a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s wrong?</question>
+    <answer>Что случилось?</answer>
+    <comment>[hwʌts rɔːŋ]</comment>
+    <answer_comment>what - что, wrong - неправильный</answer_comment>
+    
+    <uuid>861b81ce-5b8a-4064-a7cd-7dab095195f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the trouble?</question>
+    <answer>Что случилось? Что у вас болит?</answer>
+    <comment>[hwʌts ðə ˈtrʌbəl]</comment>
+    <answer_comment>what - что, какой, trouble - беспокойство, проблема</answer_comment>
+    
+    <uuid>857da74f-8885-40cc-9aa6-222410fa2d9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are your complaints?</question>
+    <answer>Какие у вас жалобы?</answer>
+    <comment>[hwʌt ɑːr jər kəmˈpleɪnts]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, complaint - жалоба</answer_comment>
+    
+    <uuid>5cbcc462-6745-4a9c-a4c1-f99937c02fb0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I feel sick.</question>
+    <answer>Мне нездоровится.</answer>
+    <comment>[аɪ fiːl sɪk]</comment>
+    <answer_comment>to feel - чувствовать, sick - больной</answer_comment>
+    
+    <uuid>04174693-f2aa-44a3-ae71-35d21daecad1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I feel nauseous.</question>
+    <answer>Меня тошнит.</answer>
+    <comment>[аɪ fiːl ˈnɔːʃəs]</comment>
+    <answer_comment>to feel - чувствовать, nauseous - тошнотворный</answer_comment>
+    
+    <uuid>b492a6b5-f920-4efe-81c4-d2b96afc208a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t feel well.</question>
+    <answer>Я не очень хорошо себя чувствую.</answer>
+    <comment>[аɪ doʊnt fiːl wel]</comment>
+    <answer_comment>to feel - чувствовать, well - хорошо</answer_comment>
+    
+    <uuid>040ba391-abee-4107-9ed8-4fa0412fac9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You look pale.</question>
+    <answer>Вы бледны.</answer>
+    <comment>[jʊ lʊk peɪl]</comment>
+    <answer_comment>to look - выглядеть, pale - бледный</answer_comment>
+    
+    <uuid>45b6481f-23c3-460c-a209-4f8a72cb86ca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I didn&apos;t sleep enough last night.</question>
+    <answer>Я мало спал сегодня ночью.</answer>
+    <comment>[аɪ ˈdidənt sliːp ɪˈnʌf læst nаɪt]</comment>
+    <answer_comment>to sleep - спать, enough - достаточно, last - поршлый, night - ночь</answer_comment>
+    
+    <uuid>641edbc2-fbb3-4d0c-bc06-2e53617d9710</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let me examine you.</question>
+    <answer>Позвольте мне осмотреть вас.</answer>
+    <comment>[let ˈmiː ɪgˈzæmɪn jʊ]</comment>
+    <answer_comment>let - позволять, me - меня, мне, to examine - осматривать, you - тебя, вас</answer_comment>
+    
+    <uuid>738e5cdc-8f05-4f66-bf5f-2fcf48c99671</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Open your mouth.</question>
+    <answer>Откройте рот.</answer>
+    <comment>[ˈoʊpən jər ˈmаʊθ]</comment>
+    <answer_comment>to open - открыть, your - твой, ваш, mouth - рот</answer_comment>
+    
+    <uuid>8312137e-c16b-4b9b-adf1-5d7e34db26d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Show me your tongue.</question>
+    <answer>Покажите язык.</answer>
+    <comment>[ʃoʊ ˈmiː jər tʌŋ]</comment>
+    <answer_comment>to show - показать, me - мне, меня, your - твой, ваш, tongue - язык</answer_comment>
+    
+    <uuid>3c37fac5-8c10-4c79-bb9a-a727e8a62451</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think there&apos;s nothing serious.</question>
+    <answer>Думаю, что ничего серьезного.</answer>
+    <comment>[аɪ θɪŋk ðerz ˈnʌθɪŋ ˈsɪriːəs]</comment>
+    <answer_comment>to think - думать, there&apos;s - есть, имеется, nothing - ничего, serious - серьезный</answer_comment>
+    
+    <uuid>85ea723a-1b28-4884-9a11-7b98e0ca3075</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a cold.</question>
+    <answer>Я простужен.</answer>
+    <comment>[аɪ hæv ə koʊld]</comment>
+    <answer_comment>to have - иметь, cold - простуда</answer_comment>
+    
+    <uuid>31d88176-b997-4a26-9726-9fb066d5eb8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a headache.</question>
+    <answer>У меня болит голова.</answer>
+    <comment>[аɪ hæv ə ˈhedˌeɪk]</comment>
+    <answer_comment>to have - иметь, headache - головная боль</answer_comment>
+    
+    <uuid>184eed6f-979a-48a8-a311-302866e4652e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a toothache.</question>
+    <answer>У меня болят зубы.</answer>
+    <comment>[аɪ hæv ə ˈtuːθeɪk]</comment>
+    <answer_comment>to have - иметь, toothache - зубная боль</answer_comment>
+    
+    <uuid>e7af7041-3a45-4147-83d7-e6c093bae94c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a fever.</question>
+    <answer>У меня температура.</answer>
+    <comment>[аɪ hæv ə ˈfiːvər]</comment>
+    <answer_comment>to have - иметь, fever - температура</answer_comment>
+    
+    <uuid>b547e54b-69fb-456a-9720-a9bc1e5d6fa5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a heart trouble.</question>
+    <answer>У меня болит сердце.</answer>
+    <comment>[аɪ hæv ə hɑːrt ˈtrʌbəl]</comment>
+    <answer_comment>to have - иметь, heart - сердце, trouble - проблема, беспокойство</answer_comment>
+    
+    <uuid>4e847724-f527-4d19-bd50-9aa139827552</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a stomachache.</question>
+    <answer>У меня болит желудок.</answer>
+    <comment>[аɪ hæv ə ˈstʌmək eɪk]</comment>
+    <answer_comment>to have - иметь, stomachache - боль в желудке</answer_comment>
+    
+    <uuid>428a4f44-993d-4a8e-9935-11c3a1540a57</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a pain in my chest.</question>
+    <answer>У меня боли в груди.</answer>
+    <comment>[аɪ hæv ə peɪn ɪn mаɪ ʧest]</comment>
+    <answer_comment>to have - иметь, pain - боль, chest - грудная клетка</answer_comment>
+    
+    <uuid>c41ff880-e025-40d2-9605-a3e4539a0c6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a pain in my back.</question>
+    <answer>У меня боли в спине.</answer>
+    <comment>[аɪ hæv ə peɪn ɪn mаɪ bæk]</comment>
+    <answer_comment>to have - иметь, pain - боль, back - спина</answer_comment>
+    
+    <uuid>9d8a624b-914d-4b85-a9d1-e9855ac783a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve broken my leg.</question>
+    <answer>Я сломал ногу.</answer>
+    <comment>[аɪv ˈbroʊkən mаɪ leg]</comment>
+    <answer_comment>to break - ломать, leg - нога</answer_comment>
+    
+    <uuid>d52cdcf1-4ccf-4ff2-8089-b01dbdadf365</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have dislocated my arm.</question>
+    <answer>Я вывихнул руку.</answer>
+    <comment>[аɪ hæv ˈdɪsloʊˌkeɪtɪd mаɪ ɑːrm]</comment>
+    <answer_comment>to dislocate - вывихнуть, arm - рука</answer_comment>
+    
+    <uuid>1b54fd86-ff17-4ca4-8aae-ae5e98f7e201</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have dislocated my leg.</question>
+    <answer>Я вывихнул ногу.</answer>
+    <comment>[аɪ hæv ˈdɪsloʊˌkeɪtɪd mаɪ leg]</comment>
+    <answer_comment>to dislocate - вывихнуть, leg - нога</answer_comment>
+    
+    <uuid>ce998ee0-a551-4c98-919c-342c9092fc2f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a doctor.</question>
+    <answer>Мне нужен врач.</answer>
+    <comment>[аɪ niːd ə ˈdɑːktər]</comment>
+    <answer_comment>need - нуждаться, doctor - врач, доктор</answer_comment>
+    
+    <uuid>de5a0ce4-3e61-480a-aac2-a29044fbe314</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need to consult a physician.</question>
+    <answer>Мне нужно к терапевту.</answer>
+    <comment>[аɪ niːd tə kənˈsʌlt ə fɪˈzɪʃən]</comment>
+    <answer_comment>need - нуждаться, to consult - консультироваться, physician - врач, терапевт</answer_comment>
+    
+    <uuid>77d4f19a-77a6-4f52-a590-6ff34773ce5b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I must urgently go to a surgeon.</question>
+    <answer>Мне нужно срочно к хирургу.</answer>
+    <comment>[аɪ mʌst ˈɜːrʤəntli goʊ tu ə ˈsɜːrʤən]</comment>
+    <answer_comment>must - должен, urgently - срочно, to go (to) - обратиться (к), surgeon - хирург</answer_comment>
+    
+    <uuid>403c978f-1169-496a-ac3a-ab9bd57d4d44</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I must go to a dentist.</question>
+    <answer>Мне нужно к зубному.</answer>
+    <comment>[аɪ mʌst goʊ tu ə ˈdentɪst]</comment>
+    <answer_comment>must - должен, to go (to) - обратиться (к), dentist - стоматолог</answer_comment>
+    
+    <uuid>7e0b0963-d268-409e-ae36-f52d3cef8e4c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a doctor in the hotel?</question>
+    <answer>В гостинице есть врач?</answer>
+    <comment>[ɪz ðer ə ˈdɑːktər ɪn ðə hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, doctor - врач, hotel - гостиница</answer_comment>
+    
+    <uuid>2d02ca39-bd42-4027-b3fb-8f9867b9aeac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest clinic?</question>
+    <answer>Где поблизости поликлиника?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈklɪnɪk]</comment>
+    <answer_comment>where - где, the nearest - ближайший, clinic - клиника</answer_comment>
+    
+    <uuid>876c38bd-f435-48ab-a606-682c21974e35</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest hospital?</question>
+    <answer>Где ближайшая больница?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈhɑːspɪtl]</comment>
+    <answer_comment>where - где, the nearest - ближайший, hospital - больница</answer_comment>
+    
+    <uuid>c56494d0-14c6-4007-8d29-94553891c99b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please call me a doctor.</question>
+    <answer>Пожалуйста, вызовите врача.</answer>
+    <comment>[pliːz kɔːl ˈmiː ə ˈdɑːktər]</comment>
+    <answer_comment>to call - звать, вызвать, me - мне, меня, doctor - врач, доктор</answer_comment>
+    
+    <uuid>6813e71f-f955-4fed-a858-5b3768afc159</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What number is for house calling a doctor?</question>
+    <answer>По какому телефону можно вызвать врача на дом?</answer>
+    <comment>[hwʌt ˈnʌmbər ɪz fər ˌhаʊs ˈkɔːlɪŋ ə ˈdɑːktər]</comment>
+    <answer_comment>what - что, какой, number - номер, house - дом, calling - вызов, doctor - врач, доктор</answer_comment>
+    
+    <uuid>158b176a-7df5-4137-9b18-88c977ee4952</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What number is for making an appointment with a doctor?</question>
+    <answer>По какому телефону можно записаться к врачу?</answer>
+    <comment>[hwʌt ˈnʌmbər ɪz fər ˈmeɪkɪŋ ən əˈpɔɪntmənt wɪð ə ˈdɑːktər]</comment>
+    <answer_comment>what - что, какой, number - номер, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</answer_comment>
+    
+    <uuid>c6f73072-1d2e-4961-b8d9-708322860a67</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What number is for calling an ambulance?</question>
+    <answer>По какому телефону вызвать &quot;скорую помощь&quot;?</answer>
+    <comment>[hwʌt ˈnʌmbər ɪz fər ˈkɔːlɪŋ ən ˈæmbjələns]</comment>
+    <answer_comment>what - что, какой, number - номер, calling - вызов, ambulance - скорая помощь</answer_comment>
+    
+    <uuid>186e1798-f0da-44bb-91e6-f38a5e02554f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to make an appointment with a doctor.</question>
+    <answer>Мне нужно записаться к врачу.</answer>
+    <comment>[аɪ wɑːnt tə meɪk ən əˈpɔɪntmənt wɪð ə ˈdɑːktər]</comment>
+    <answer_comment>to want - хотеть, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</answer_comment>
+    
+    <uuid>355929d6-84c1-4b2c-978f-86ed511c9c09</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will the doctor come?</question>
+    <answer>Когда придет врач?</answer>
+    <comment>[hwen wɪl ðə ˈdɑːktər kʌm]</comment>
+    <answer_comment>when - когда, doctor - доктор, врач, to come - приходить</answer_comment>
+    
+    <uuid>bdb88cb3-e130-43b4-a130-fc59c76184c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have medical insurance.</question>
+    <answer>У меня есть медецинская страховка.</answer>
+    <comment>[аɪ hæv ˈmedɪkəl ɪnˈʃʊrəns]</comment>
+    <answer_comment>to have - иметь, medical - медицинский, insurance - страховка</answer_comment>
+    
+    <uuid>71895900-244f-4fef-b101-81bef5af31e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How old are you?</question>
+    <answer>Сколько вам лет?</answer>
+    <comment>[hаʊ oʊld ɑːr jʊ]</comment>
+    <answer_comment>how - как, old - старый, you - ты, вы</answer_comment>
+    
+    <uuid>468f20e3-e7ac-4f62-b7e7-822d9bffad49</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m better today.</question>
+    <answer>Сегодня мне лучше.</answer>
+    <comment>[аɪm ˈbetər təˈdeɪ]</comment>
+    <answer_comment>better - лучше, today - сегодня</answer_comment>
+    
+    <uuid>93de066a-8162-430a-84d2-074f784de492</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I feel better.</question>
+    <answer>Я чувствую себя лучше.</answer>
+    <comment>[аɪ fiːl ˈbetər]</comment>
+    <answer_comment>to feel - чувствовать, better - лучше</answer_comment>
+    
+    <uuid>bacf1b87-2411-45dd-b8f3-0dfbe1106d51</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I feel worse.</question>
+    <answer>Я чувствую себя хуже.</answer>
+    <comment>[аɪ fiːl wɜːrs]</comment>
+    <answer_comment>to feel - чувствовать, worse - хуже</answer_comment>
+    
+    <uuid>eca402e5-3bf8-4363-8a3c-c9102bd945b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your blood group?</question>
+    <answer>Какая у вас группа крови?</answer>
+    <comment>[hwʌts jər blʌd gruːp]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, blood - кровь, group - группа</answer_comment>
+    
+    <uuid>34b26a18-7993-4679-8afa-7a1a7c971169</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You have to go to see your doctor.</question>
+    <answer>Вам следует пойти к врачу.</answer>
+    <comment>[jʊ hæv tə goʊ tə siː jər ˈdɑːktər]</comment>
+    <answer_comment>to have to - быть должным (что-л. сделать), to go - идти, to see - видеть, your - твой, ваш, doctor - врач</answer_comment>
+    
+    <uuid>a6ebfa9a-9721-4a2e-989c-1e77c0e924f6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m going to give you a prescription for some pills.</question>
+    <answer>Я выпишу вам рецепт на таблетки.</answer>
+    <comment>[аɪm ˈgoʊɪŋ tə gɪv jʊ ə prɪˈskrɪpʃən fər sʌm pɪlz]</comment>
+    <answer_comment>to be going to - собираться (что-л. сделать), to give - дать, prescription - рецепт, some - некоторый, pill - таблетка</answer_comment>
+    
+    <uuid>37b0579e-73d5-46a0-8f3c-49348a93bb84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Take it three times a day after meals.</question>
+    <answer>Принимайте три раза в день после еды.</answer>
+    <comment>[teɪk ɪt θriː tаɪmz ə deɪ ˈæftər miːlz]</comment>
+    <answer_comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</answer_comment>
+    
+    <uuid>8551326f-2df4-43e2-a116-374da5ce8c89</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Stay in bed for a week.</question>
+    <answer>Оставайтесь в постели неделю.</answer>
+    <comment>[steɪ ɪn bed fər ə wiːk]</comment>
+    <answer_comment>to stay - оставаться, bed - кровать, for - в течение, week - неделя</answer_comment>
+    
+    <uuid>09af0411-0275-422f-8e18-6ec602c9678c</uuid>
+  </card>
+</cards>
+</stack>

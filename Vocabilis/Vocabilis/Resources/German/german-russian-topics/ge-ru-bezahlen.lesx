@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dd9cb497-703d-4a47-9659-68bf9c243f78</uuid>
+  <title>Деньги, оплата</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>bar bezahlen</question>
+    <answer>платить наличными</answer>
+    <comment></comment>
+    <uuid>a2fc77da-81fa-45b6-bb0f-037c87352b28</uuid>
+  </card>
+  <card>
+    <question>bezahlen</question>
+    <answer>оплачивать</answer>
+    <comment></comment>
+    <uuid>a622a65a-8ac7-4b56-8d60-e1d987db96bf</uuid>
+  </card>
+  <card>
+    <question>Bezahlen Sie bar?</question>
+    <answer>Вы платите наличными?</answer>
+    <comment></comment>
+    <uuid>1f994d35-0ac7-4e18-b3dc-162e423ef6b3</uuid>
+  </card>
+  <card>
+    <question>billig</question>
+    <answer>дешевый</answer>
+    <comment></comment>
+    <uuid>0663f2f7-9fde-4350-ac15-b758cb23e162</uuid>
+  </card>
+  <card>
+    <question>das Fußballtoto</question>
+    <answer>футбольный тотализатор</answer>
+    <comment></comment>
+    <uuid>7aee8bec-666d-42ae-8cc4-8541584ffe7c</uuid>
+  </card>
+  <card>
+    <question>Das ist nicht zu teuer.</question>
+    <answer>Это не очень дорого.</answer>
+    <comment></comment>
+    <uuid>b6fbc167-acf2-4284-95bc-aa9571cb622b</uuid>
+  </card>
+  <card>
+    <question>Das ist teuer.</question>
+    <answer>Это дорого.</answer>
+    <comment></comment>
+    <uuid>ff285333-f892-48ed-8473-f4e83c5d4b8b</uuid>
+  </card>
+  <card>
+    <question>das Lotto</question>
+    <answer>лотерея</answer>
+    <comment></comment>
+    <uuid>06453275-86a8-4d65-8cdf-42703a4257f8</uuid>
+  </card>
+  <card>
+    <question>das Toto</question>
+    <answer>тотализатор</answer>
+    <comment></comment>
+    <uuid>fa2bf338-2681-479b-a836-d17d87181048</uuid>
+  </card>
+  <card>
+    <question>der Kassenbon</question>
+    <answer>кассовый чек</answer>
+    <comment></comment>
+    <uuid>154614ee-1a98-42fa-8852-592b7116042a</uuid>
+  </card>
+  <card>
+    <question>der Lottoschein</question>
+    <answer>лотерейный билет</answer>
+    <comment></comment>
+    <uuid>6906fd5e-4a22-4c2e-8cb1-8cde0c6caa5d</uuid>
+  </card>
+  <card>
+    <question>der Preis</question>
+    <answer>цена</answer>
+    <comment></comment>
+    <uuid>e1132846-0892-41db-a24d-ae233e21b7db</uuid>
+  </card>
+  <card>
+    <question>die Kasse</question>
+    <answer>касса</answer>
+    <comment></comment>
+    <uuid>77147004-f9d9-45b3-b96c-19bc67667c88</uuid>
+  </card>
+  <card>
+    <question>Die Kasse ist dort!</question>
+    <answer>Касса находится там!</answer>
+    <comment></comment>
+    <uuid>35b670f7-152b-4e7b-a620-6f82c149c60e</uuid>
+  </card>
+  <card>
+    <question>die Quittung</question>
+    <answer>квитанция, расписка</answer>
+    <comment></comment>
+    <uuid>1e898828-26e7-4224-ae67-129c7fdb7783</uuid>
+  </card>
+  <card>
+    <question>die Ziehung der Lottozahlen</question>
+    <answer>розыгрыш, тираж лото</answer>
+    <comment></comment>
+    <uuid>72b0a4c8-07e6-4992-af21-9edb11e62c0c</uuid>
+  </card>
+  <card>
+    <question>Hier ist Ihr Kassenbon.</question>
+    <answer>Вот ваш чек.</answer>
+    <comment></comment>
+    <uuid>878e3a8a-7322-4899-8df9-6ff55f14a078</uuid>
+  </card>
+  <card>
+    <question>Ich muß noch den Lottoschein abgeben.</question>
+    <answer>Мне еще нужно сдать лотерейный билет.</answer>
+    <comment></comment>
+    <uuid>55b34889-be1c-4f4e-a78c-4e631ec24dae</uuid>
+  </card>
+  <card>
+    <question>Lotto spielen</question>
+    <answer>играть в лотерею</answer>
+    <comment></comment>
+    <uuid>11d119cf-1c28-40e1-9701-e7c016165db7</uuid>
+  </card>
+  <card>
+    <question>Lottoschein ausfüllen</question>
+    <answer>заполнить лотерейный билет</answer>
+    <comment></comment>
+    <uuid>ed011da6-8888-4aee-b739-99f86a0b2c69</uuid>
+  </card>
+  <card>
+    <question>preiswert</question>
+    <answer>выгодный, недорогой</answer>
+    <comment></comment>
+    <uuid>8518decf-7c16-4a6e-b1f0-08414454e75d</uuid>
+  </card>
+  <card>
+    <question>teuer</question>
+    <answer>дорогой</answer>
+    <comment></comment>
+    <uuid>c7325aef-2c0a-4df3-b235-2d050e6160d8</uuid>
+  </card>
+  <card>
+    <question>Wieviel kann man beim Lotto gewinnen?</question>
+    <answer>Сколько можно выиграть в лото?</answer>
+    <comment></comment>
+    <uuid>3841c2f4-54d4-4d59-8646-5322bdde0c15</uuid>
+  </card>
+  <card>
+    <question>Wieviel kosten die Schuhe?</question>
+    <answer>Сколько стоят туфли?</answer>
+    <comment></comment>
+    <uuid>5b57405c-7393-4596-ba90-756afab054f4</uuid>
+  </card>
+  <card>
+    <question>Wieviel kostet das?</question>
+    <answer>Сколько это стоит?</answer>
+    <comment></comment>
+    <uuid>539c2a77-5d6c-4a76-af1b-9c237071ef2b</uuid>
+  </card>
+  <card>
+    <question>Zahlen Sie mit Scheck?</question>
+    <answer>Вы оплачиваете чеком?</answer>
+    <comment></comment>
+    <uuid>dfc42d32-75ca-4a3f-9df5-37c54fb18871</uuid>
+  </card>
+</cards>
+</stack>

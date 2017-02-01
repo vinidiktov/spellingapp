@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ae8a9340-e658-499e-9ac7-56887284265c</uuid>
+  <title>Обед</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Es gibt Forelle &quot;blau&quot;.</question>
+    <answer>У нас есть &quot;голубая&quot; форель.</answer>
+    <comment></comment>
+    <uuid>7aeefd02-ebe3-4b45-9889-11a2db8df076</uuid>
+  </card>
+  <card>
+    <question>200 Gramm Mettwurst</question>
+    <answer>200 гр. итальянской колбасы</answer>
+    <comment></comment>
+    <uuid>ba34a502-fbf2-447b-a6e6-6b125d9bc409</uuid>
+  </card>
+  <card>
+    <question>das Brathähnchen</question>
+    <answer>жареная курица</answer>
+    <comment></comment>
+    <uuid>583c4157-6ecf-48b8-9129-9316cd81dadb</uuid>
+  </card>
+  <card>
+    <question>das Fleisch</question>
+    <answer>мясо</answer>
+    <comment></comment>
+    <uuid>a6be20d2-4483-409d-af51-2fdbec142d4b</uuid>
+  </card>
+  <card>
+    <question>das Geflügel</question>
+    <answer>домашняя птица</answer>
+    <comment></comment>
+    <uuid>bfedaacc-c6c6-4ba4-b25f-bf1a8ace824f</uuid>
+  </card>
+  <card>
+    <question>das Gulasch</question>
+    <answer>гуляш</answer>
+    <comment></comment>
+    <uuid>bfe6be5c-606c-4355-b0a4-58f8605d46d5</uuid>
+  </card>
+  <card>
+    <question>das Hammelfleisch</question>
+    <answer>баранина</answer>
+    <comment></comment>
+    <uuid>91b1f674-3ed4-4635-9b13-357f8632c7f0</uuid>
+  </card>
+  <card>
+    <question>das Huhn</question>
+    <answer>курица</answer>
+    <comment></comment>
+    <uuid>bb407526-3010-4798-b035-dcba38b298e5</uuid>
+  </card>
+  <card>
+    <question>das Hähnchen</question>
+    <answer>курица, бройлер</answer>
+    <comment></comment>
+    <uuid>6d0ebb8e-f724-482f-b6e9-1573df4e60b9</uuid>
+  </card>
+  <card>
+    <question>das Kalbfleisch</question>
+    <answer>телятина</answer>
+    <comment></comment>
+    <uuid>4bf316f5-4738-4ac2-9f00-cbd48cd456ec</uuid>
+  </card>
+  <card>
+    <question>das Kartoffelpüree</question>
+    <answer>картофельное пюре</answer>
+    <comment></comment>
+    <uuid>36969201-5b31-4a36-a83f-f323d380cb8c</uuid>
+  </card>
+  <card>
+    <question>das Kotelett</question>
+    <answer>отбивная котлета</answer>
+    <comment></comment>
+    <uuid>75c7034d-381e-48d3-9d29-65a167c2968e</uuid>
+  </card>
+  <card>
+    <question>das magere Fleisch</question>
+    <answer>постное мясо</answer>
+    <comment></comment>
+    <uuid>1c611982-3d9a-4920-a569-ab3de1bc61a2</uuid>
+  </card>
+  <card>
+    <question>das Rindfleisch</question>
+    <answer>говядина</answer>
+    <comment></comment>
+    <uuid>651cea9f-d177-4f56-8935-884e3cd10153</uuid>
+  </card>
+  <card>
+    <question>das Schnitzel</question>
+    <answer>эскалоп, шницель</answer>
+    <comment></comment>
+    <uuid>b03b8e7d-91e9-48a9-bc9d-adb2ad652c2d</uuid>
+  </card>
+  <card>
+    <question>das Schweinefleisch</question>
+    <answer>свинина</answer>
+    <comment></comment>
+    <uuid>9e3cc94e-6d6f-4c94-9409-ef966f7b4489</uuid>
+  </card>
+  <card>
+    <question>das Wild</question>
+    <answer>дичь</answer>
+    <comment></comment>
+    <uuid>001651df-0fdd-4266-8010-ec522dc829ac</uuid>
+  </card>
+  <card>
+    <question>das Würstchen</question>
+    <answer>сосиска</answer>
+    <comment></comment>
+    <uuid>5eba96d3-a1f0-4f3c-bf4a-f45471160cad</uuid>
+  </card>
+  <card>
+    <question>der Aal</question>
+    <answer>угорь</answer>
+    <comment></comment>
+    <uuid>e12fb3bf-4d48-4dfb-a6a9-6ab521f2534a</uuid>
+  </card>
+  <card>
+    <question>der Braten</question>
+    <answer>жаркое, жареное</answer>
+    <comment></comment>
+    <uuid>efd018d7-e1e2-47bf-b2fa-01e43dd159f0</uuid>
+  </card>
+  <card>
+    <question>der Fisch</question>
+    <answer>рыба</answer>
+    <comment></comment>
+    <uuid>7833647c-b20e-4587-8046-c1fa46371d5c</uuid>
+  </card>
+  <card>
+    <question>der Fischstäbchen</question>
+    <answer>рыбные палочки</answer>
+    <comment></comment>
+    <uuid>3660d889-dce5-44a9-93f6-1bec0133f1eb</uuid>
+  </card>
+  <card>
+    <question>der Hering</question>
+    <answer>сельд</answer>
+    <comment></comment>
+    <uuid>f8af3f4d-48cc-4b1e-9b29-201be50c6a6e</uuid>
+  </card>
+  <card>
+    <question>der Kabelljau</question>
+    <answer>треска</answer>
+    <comment></comment>
+    <uuid>d6dc6ba9-9f0a-463f-ab9d-3cf8d8476efa</uuid>
+  </card>
+  <card>
+    <question>der Karpfen</question>
+    <answer>карп</answer>
+    <comment></comment>
+    <uuid>1d05e697-1ca6-46a5-bf05-d167584bf416</uuid>
+  </card>
+  <card>
+    <question>der Kartoffelsalat</question>
+    <answer>картофельный салат</answer>
+    <comment></comment>
+    <uuid>7868f5d1-4402-4a89-b196-26c690535d23</uuid>
+  </card>
+  <card>
+    <question>der Lachs</question>
+    <answer>семга, лосось</answer>
+    <comment></comment>
+    <uuid>e97e7aed-6c7e-443d-90d5-19126059c3f3</uuid>
+  </card>
+  <card>
+    <question>der Reis</question>
+    <answer>рис</answer>
+    <comment></comment>
+    <uuid>82dc25b7-4ba9-4b3c-bc00-e1cd02a728f3</uuid>
+  </card>
+  <card>
+    <question>der Rinderbraten</question>
+    <answer>жаркое из говядины</answer>
+    <comment></comment>
+    <uuid>438621b7-a2be-4c3c-a419-86d21fb96775</uuid>
+  </card>
+  <card>
+    <question>der Rotbarsch</question>
+    <answer>окунь</answer>
+    <comment></comment>
+    <uuid>98282ee1-86eb-4a74-bac7-d1ff18761fff</uuid>
+  </card>
+  <card>
+    <question>der Schweinebraten</question>
+    <answer>свинина жареная</answer>
+    <comment></comment>
+    <uuid>044a00a3-5864-45bd-a61c-d47142f3ed8c</uuid>
+  </card>
+  <card>
+    <question>die Beulette</question>
+    <answer>котлета</answer>
+    <comment></comment>
+    <uuid>7f896e95-59fa-44b4-adbf-58aa0dca4d91</uuid>
+  </card>
+  <card>
+    <question>die Bratkartoffeln</question>
+    <answer>жареный картофель</answer>
+    <comment></comment>
+    <uuid>b7f5b618-2a82-45a0-84e8-4bd3b37d4b51</uuid>
+  </card>
+  <card>
+    <question>die Brühe</question>
+    <answer>бульон, отвар</answer>
+    <comment></comment>
+    <uuid>e1b8915f-3c4b-4a4d-bff1-1ef1916864f2</uuid>
+  </card>
+  <card>
+    <question>die Ente</question>
+    <answer>утка</answer>
+    <comment></comment>
+    <uuid>117c9733-5aa9-4eaf-878e-d0f091680dc5</uuid>
+  </card>
+  <card>
+    <question>die Forelle</question>
+    <answer>форель</answer>
+    <comment></comment>
+    <uuid>98652bb9-86b8-41ba-b648-a72e9f09dbab</uuid>
+  </card>
+  <card>
+    <question>die Gans</question>
+    <answer>гусь</answer>
+    <comment></comment>
+    <uuid>f73bd1fe-74b7-419f-984c-315b507c8383</uuid>
+  </card>
+  <card>
+    <question>die Hühnerbrühe</question>
+    <answer>куриный бульон</answer>
+    <comment></comment>
+    <uuid>240f9f02-fc17-44b2-b3ed-3aba1591a174</uuid>
+  </card>
+  <card>
+    <question>die Kartoffel</question>
+    <answer>картофель</answer>
+    <comment></comment>
+    <uuid>df072d85-4b2a-4eb5-b85f-5b815565676e</uuid>
+  </card>
+  <card>
+    <question>die Leber</question>
+    <answer>печенка</answer>
+    <comment></comment>
+    <uuid>d8b24db9-5914-4d4a-8d97-8a02dd6b33f2</uuid>
+  </card>
+  <card>
+    <question>die Nudeln</question>
+    <answer>лапша, вермишель</answer>
+    <comment></comment>
+    <uuid>88078c3d-dd6a-489e-bfef-007b5004a3bd</uuid>
+  </card>
+  <card>
+    <question>die Pizza</question>
+    <answer>пицца</answer>
+    <comment></comment>
+    <uuid>1a8fbdec-5c46-4d54-b3ef-a9dd8b24311e</uuid>
+  </card>
+  <card>
+    <question>die Salzkartoffeln</question>
+    <answer>отварной картофель</answer>
+    <comment></comment>
+    <uuid>6d214606-3f1d-4a68-a782-23f2be6a1a8b</uuid>
+  </card>
+  <card>
+    <question>die Soße</question>
+    <answer>соус</answer>
+    <comment></comment>
+    <uuid>7416f506-7d91-4014-a09b-aa85ca5ee839</uuid>
+  </card>
+  <card>
+    <question>die Spaghettis</question>
+    <answer>макароны, спагетти</answer>
+    <comment></comment>
+    <uuid>df3b7822-486d-4533-a1b7-6e41fe36dbbe</uuid>
+  </card>
+  <card>
+    <question>die Suppe</question>
+    <answer>суп</answer>
+    <comment></comment>
+    <uuid>ac424bac-357d-4e72-b3cb-8bc1949c6ecf</uuid>
+  </card>
+  <card>
+    <question>die Tomatensuppe</question>
+    <answer>томатный суп</answer>
+    <comment></comment>
+    <uuid>ec8fa28a-949d-4a01-987b-7a6830bf2ecc</uuid>
+  </card>
+  <card>
+    <question>ein halbes Brathähnchen</question>
+    <answer>половина жареной курицы</answer>
+    <comment></comment>
+    <uuid>3e5b73c4-db7d-4144-a7a6-4d0e8300c59e</uuid>
+  </card>
+  <card>
+    <question>ein Kilo Schweinebraten</question>
+    <answer>килограмм жареной свинины</answer>
+    <comment></comment>
+    <uuid>a087ee95-291d-4985-9d0a-2f5f179e79bc</uuid>
+  </card>
+  <card>
+    <question>fett</question>
+    <answer>жирный</answer>
+    <comment></comment>
+    <uuid>89398fa2-3acb-452e-8e28-4b4eec424f9e</uuid>
+  </card>
+  <card>
+    <question>Gulasch ist im Angebot.</question>
+    <answer>В продаже имеется гуляш.</answer>
+    <comment></comment>
+    <uuid>f383b3f1-d7b4-4dee-a75c-9b81a2467ba6</uuid>
+  </card>
+  <card>
+    <question>mager</question>
+    <answer>нежирный</answer>
+    <comment></comment>
+    <uuid>154cf101-8bf1-4253-8276-d6c774562b41</uuid>
+  </card>
+  <card>
+    <question>mit Kartoffelsalat</question>
+    <answer>с картофельным салатом</answer>
+    <comment></comment>
+    <uuid>6e3de6c2-f277-47e2-8bf3-13b87541deb2</uuid>
+  </card>
+  <card>
+    <question>Mögen Sie Fisch?</question>
+    <answer>Вы любите рыбу?</answer>
+    <comment></comment>
+    <uuid>10f86449-8212-4c68-b6ce-6107f2d8b113</uuid>
+  </card>
+  <card>
+    <question>zwei Schnitzel</question>
+    <answer>два шницеля</answer>
+    <comment></comment>
+    <uuid>1259ee69-3f14-4447-befe-c79950127515</uuid>
+  </card>
+</cards>
+</stack>

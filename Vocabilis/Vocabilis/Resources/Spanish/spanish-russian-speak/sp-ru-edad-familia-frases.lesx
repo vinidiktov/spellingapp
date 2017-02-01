@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>2cc823ff-9f86-4f81-a991-83448c425a4b</uuid>
+  <title>Возраст, Семья :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿En qué año nació usted?</question>
+    <answer>В каком году Вы родились?</answer>
+    <comment></comment>
+    <uuid>3b7b9e54-a780-43e1-bf5a-07f80c26ee81</uuid>
+  </card>
+  <card>
+    <question>¿En qué año naciste?</question>
+    <answer>В каком году ты родился?</answer>
+    <comment></comment>
+    <uuid>23598b2f-f86f-448a-a6b1-cdadc0ac2ab5</uuid>
+  </card>
+  <card>
+    <question>Nací en ... año.</question>
+    <answer>Я родился (родилась) в ... году.</answer>
+    <comment></comment>
+    <uuid>2eeea04b-9fe7-4c4a-ae37-7672e4b4ccd0</uuid>
+  </card>
+  <card>
+    <question>¿Qué edad tiene usted?</question>
+    <answer>Сколько Вам лет?</answer>
+    <comment></comment>
+    <uuid>33a8bf10-09a3-43ac-ac22-dd6bff5dd1b8</uuid>
+  </card>
+  <card>
+    <question>¿Qué edad tienes?</question>
+    <answer>Сколько тебе лет?</answer>
+    <comment></comment>
+    <uuid>8bdd2ad5-0deb-498c-b7e8-95ea9c0d923b</uuid>
+  </card>
+  <card>
+    <question>¿Qué edad tiene su hijo?</question>
+    <answer>Сколько лет Вашему сыну?</answer>
+    <comment></comment>
+    <uuid>88e90996-8941-4204-a4bc-6dc7727ffb27</uuid>
+  </card>
+  <card>
+    <question>¿Qué edad tiene su hija?</question>
+    <answer>Сколько лет Вашей дочери?</answer>
+    <comment></comment>
+    <uuid>be6da7b1-f83b-47f0-803e-b7c9fcbb48d7</uuid>
+  </card>
+  <card>
+    <question>Tengo ... años.</question>
+    <answer>Мне ... лет.</answer>
+    <comment></comment>
+    <uuid>1d83b3e3-7204-4c07-ba7e-a0c9b66a47f5</uuid>
+  </card>
+  <card>
+    <question>Mi hija tiene ... años.</question>
+    <answer>Моей дочери ... лет.</answer>
+    <comment></comment>
+    <uuid>39db6b5c-1f43-41ca-8371-9336bb06628f</uuid>
+  </card>
+  <card>
+    <question>Mi hijo tiene ... años.</question>
+    <answer>Моему сыну ... лет.</answer>
+    <comment></comment>
+    <uuid>c5da1a44-3c98-452c-aa33-1f795edbc71a</uuid>
+  </card>
+  <card>
+    <question>Pronto cumpliré ... años.</question>
+    <answer>Скоро мне исполнится ... лет.</answer>
+    <comment></comment>
+    <uuid>a710cfae-9ce0-4652-82f7-ccea516ad32e</uuid>
+  </card>
+  <card>
+    <question>Somos de la misma edad.</question>
+    <answer>Мы ровесники.</answer>
+    <comment></comment>
+    <uuid>889fe11f-9764-4ef0-8389-c01f3c92c4d2</uuid>
+  </card>
+  <card>
+    <question>¿Dónde nació usted?</question>
+    <answer>Где Вы родились?</answer>
+    <comment></comment>
+    <uuid>10db102b-dab5-471b-9d59-dfcd8f1b9302</uuid>
+  </card>
+  <card>
+    <question>¿Dónde naciste?</question>
+    <answer>Где ты родился?</answer>
+    <comment></comment>
+    <uuid>c5fd9cf8-fe83-41ca-991f-8ea5933b6fb6</uuid>
+  </card>
+  <card>
+    <question>¿Es usted casado?</question>
+    <answer>Вы женаты?</answer>
+    <comment></comment>
+    <uuid>6b2d5fb4-bc56-4d62-967d-ad3a9a104094</uuid>
+  </card>
+  <card>
+    <question>¿Es usted casada?</question>
+    <answer>Вы замужем?</answer>
+    <comment></comment>
+    <uuid>6ed8ff5e-a1c5-49df-9ba0-0b0df850b4c9</uuid>
+  </card>
+  <card>
+    <question>¿Eres casado?</question>
+    <answer>Ты женат?</answer>
+    <comment></comment>
+    <uuid>7ba25493-5638-4179-9683-bd477e3abbe7</uuid>
+  </card>
+  <card>
+    <question>¿Eres casada?</question>
+    <answer>Ты замужем?</answer>
+    <comment></comment>
+    <uuid>6a214195-46d6-41e6-9850-46fe821f13c1</uuid>
+  </card>
+  <card>
+    <question>Soy casado.</question>
+    <answer>Я женат.</answer>
+    <comment></comment>
+    <uuid>de07ffe5-17e9-4784-aea3-75a7012436a0</uuid>
+  </card>
+  <card>
+    <question>Soy casada.</question>
+    <answer>Я замужем.</answer>
+    <comment></comment>
+    <uuid>a9abfb3f-0a74-4646-920a-561b8a124525</uuid>
+  </card>
+  <card>
+    <question>Soy soltero.</question>
+    <answer>Я холост.</answer>
+    <comment></comment>
+    <uuid>c514706e-cbc5-45ed-b645-feb6d5ef26bc</uuid>
+  </card>
+  <card>
+    <question>Soy soltera.</question>
+    <answer>Я не замужем.</answer>
+    <comment></comment>
+    <uuid>85bfb370-9097-4f53-9b3a-ed6c1f1689ab</uuid>
+  </card>
+  <card>
+    <question>Soy viudo.</question>
+    <answer>Я вдовец.</answer>
+    <comment></comment>
+    <uuid>54ba49d8-ebe8-4674-9457-78a680b18322</uuid>
+  </card>
+  <card>
+    <question>Soy viuda.</question>
+    <answer>Я вдова.</answer>
+    <comment></comment>
+    <uuid>37b40287-5b02-45d0-8dc8-0c55cf58d0a0</uuid>
+  </card>
+  <card>
+    <question>Soy divorciado.</question>
+    <answer>Я разведен.</answer>
+    <comment></comment>
+    <uuid>dad5c480-3b02-4d0e-8bb5-97a2555a7736</uuid>
+  </card>
+  <card>
+    <question>Soy divorciada.</question>
+    <answer>Я разведена.</answer>
+    <comment></comment>
+    <uuid>4b633477-0180-4671-bc5f-40beaab3d94d</uuid>
+  </card>
+  <card>
+    <question>¿Tiene usted hijos?</question>
+    <answer>У Вас есть дети?</answer>
+    <comment></comment>
+    <uuid>921c24c2-7f10-432a-b200-4eba5b6e40f7</uuid>
+  </card>
+  <card>
+    <question>¿Tienes hijos?</question>
+    <answer>У тебя есть дети?</answer>
+    <comment></comment>
+    <uuid>ab4f9676-c896-4fae-9326-361efe477631</uuid>
+  </card>
+  <card>
+    <question>¿Tiene usted hermanos?</question>
+    <answer>У Вас есть братья?</answer>
+    <comment></comment>
+    <uuid>e804729d-735c-42e2-aa03-3b69d381c3aa</uuid>
+  </card>
+  <card>
+    <question>¿Tiene usted hermanas?</question>
+    <answer>У Вас есть сестры?</answer>
+    <comment></comment>
+    <uuid>d8ca6a26-799c-441e-8e3a-46e0abf4780b</uuid>
+  </card>
+  <card>
+    <question>¿Tienes hermanos?</question>
+    <answer>У тебя есть братья?</answer>
+    <comment></comment>
+    <uuid>eec53332-4abe-4b71-bdb8-f07b8f18b9bb</uuid>
+  </card>
+  <card>
+    <question>¿Tienes hermanas?</question>
+    <answer>У тебя есть сестры?</answer>
+    <comment></comment>
+    <uuid>311e77aa-4ecc-448b-ad5a-357db748568f</uuid>
+  </card>
+  <card>
+    <question>No tengo hijos.</question>
+    <answer>У меня нет детей.</answer>
+    <comment></comment>
+    <uuid>028469cd-036a-4e2e-9343-e7e85ebe7d7c</uuid>
+  </card>
+  <card>
+    <question>No tengo hermanos.</question>
+    <answer>У меня нет братьев.</answer>
+    <comment></comment>
+    <uuid>3957efbc-4bfb-4a12-9413-d1a097a35299</uuid>
+  </card>
+  <card>
+    <question>No tengo hermanas.</question>
+    <answer>У меня нет сестёр.</answer>
+    <comment></comment>
+    <uuid>26f4de01-b94a-427b-bc54-06d57ddc09a4</uuid>
+  </card>
+  <card>
+    <question>Tengo un niño.</question>
+    <answer>У меня есть один ребенок (мальчик).</answer>
+    <comment></comment>
+    <uuid>adccc17d-3ec9-4c1a-8241-c4d9a82a7c24</uuid>
+  </card>
+  <card>
+    <question>Tengo una niña.</question>
+    <answer>У меня есть один ребенок (девочка).</answer>
+    <comment></comment>
+    <uuid>a64539a3-8d1d-40c4-9da2-136a970503f2</uuid>
+  </card>
+  <card>
+    <question>Tengo dos niños.</question>
+    <answer>У меня двое детей. (=У меня два мальчика.)</answer>
+    <comment></comment>
+    <uuid>e53a762a-30ae-4494-9658-d5bb95b56382</uuid>
+  </card>
+  <card>
+    <question>Tengo tres niños.</question>
+    <answer>У меня трое детей. (=У меня три мальчика.)</answer>
+    <comment></comment>
+    <uuid>98fb71ed-6506-4c76-8f9e-12440dcd4047</uuid>
+  </card>
+  <card>
+    <question>Tengo dos hermanos.</question>
+    <answer>У меня два брата.</answer>
+    <comment></comment>
+    <uuid>e05cd334-2846-4a9e-bfdb-6a036bd6f727</uuid>
+  </card>
+  <card>
+    <question>Tengo dos hermanas.</question>
+    <answer>У меня две сестеры.</answer>
+    <comment></comment>
+    <uuid>eff7e198-b630-4794-a2e5-c6a70630d762</uuid>
+  </card>
+  <card>
+    <question>Tengo tres hermanos.</question>
+    <answer>У меня три брата.</answer>
+    <comment></comment>
+    <uuid>c3cb7a42-9cea-4963-a7e4-a234919e3916</uuid>
+  </card>
+  <card>
+    <question>Tengo tres hermanas.</question>
+    <answer>У меня три сестры.</answer>
+    <comment></comment>
+    <uuid>811b515b-2528-44d0-b9cd-3a48fba86fec</uuid>
+  </card>
+  <card>
+    <question>Tengo un hijo y una hija.</question>
+    <answer>У меня есть сын и дочь.</answer>
+    <comment></comment>
+    <uuid>e61f0e05-d7ac-4a37-a23f-d04045e3e8f1</uuid>
+  </card>
+</cards>
+</stack>

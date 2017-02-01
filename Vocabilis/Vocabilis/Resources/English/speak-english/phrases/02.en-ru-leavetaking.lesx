@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ce9e3be5-8907-4f59-9a6e-7f5289d917f0</uuid>
+  <title>Прощание :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>2</month>
+     <day>20</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>It’s getting late.</question>
+    <answer>Становится поздно.</answer>
+    <comment>[ɪts ˈgetɪŋ leɪt]</comment>
+    <answer_comment>to get - становиться, late - поздний</answer_comment>
+    
+    <uuid>badc257f-7aaa-4f96-9ea0-8298125851a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve got to get moving.</question>
+    <answer>Мне пора выдвигаться.</answer>
+    <comment>[аɪv gɑːt tə get ˈmuːvɪŋ]</comment>
+    <answer_comment>to have got to - быть должным, moving - двигающийся</answer_comment>
+    
+    <uuid>83d8cd4d-fc7f-4f23-85d4-0bfdb8d65240</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve got to go.</question>
+    <answer>Мне нужно идти.</answer>
+    <comment>[аɪv gɑːt tə goʊ]</comment>
+    <answer_comment>to have got to - быть должным, to go - идти</answer_comment>
+    
+    <uuid>81d1df41-2015-4eba-ba02-545f47efa552</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;ve got to go.</question>
+    <answer>Нам нужно идти.</answer>
+    <comment>[wiːv gɑːt tə goʊ]</comment>
+    <answer_comment>to have got to - быть должным, to go - идти</answer_comment>
+    
+    <uuid>1910cee1-ced3-4500-b868-a80d55873199</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It’s too late, I have to go.</question>
+    <answer>Уже слишком поздно, мне нужно идти.</answer>
+    <comment>[ɪts tuː leɪt аɪ hæv tə goʊ]</comment>
+    <answer_comment>too - слишком, late - поздний, have to - быть должным, to go - идти</answer_comment>
+    
+    <uuid>f09903ee-b75d-41cb-bd18-743a753f2d93</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I’d better be going.</question>
+    <answer>Я лучше пойду.</answer>
+    <comment>[aɪd ˈbetər biː ˈgoʊɪŋ]</comment>
+    <answer_comment>better - лучше, to be going - идти</answer_comment>
+    
+    <uuid>0e37005b-b635-4188-84a5-e74896fdd555</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good-bye, and thanks for everything.</question>
+    <answer>До свидания! Благодарю вас за все.</answer>
+    <comment>[ˌgʊdˈbаɪ ənd θæŋks fər ˈevriːˌθɪŋ]</comment>
+    <answer_comment>good-bye - до свидания, thanks - спасибо, everything - все</answer_comment>
+    
+    <uuid>2393f66c-f75a-43f3-9194-4d0980c01e34</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve come to say goodbye.</question>
+    <answer>Я пришел попрощаться.</answer>
+    <comment>[аɪv kʌm tə seɪ ˌgʊdˈbаɪ]</comment>
+    <answer_comment>to come - прийти, to say - сказать, goodbye - до свидания</answer_comment>
+    
+    <uuid>8b967055-b34d-4ddb-ad32-7d78727c4d32</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Goodbye!</question>
+    <answer>До свидания!</answer>
+    <comment>[ˌgʊdˈbаɪ]</comment>
+    <answer_comment>goodbye - до свидания</answer_comment>
+    
+    <uuid>70bb2451-a504-4eb4-b81b-c605f54e419a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good night!</question>
+    <answer>Спокойной ночи!</answer>
+    <comment>[gʊd nаɪt]</comment>
+    <answer_comment>good - хороший, добрый, night - ночь</answer_comment>
+    
+    <uuid>b1684d7f-c875-4262-ab41-11181f924bec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>See you.</question>
+    <answer>Пока.</answer>
+    <comment>[siː jʊ]</comment>
+    <answer_comment>to see - увидеть, you - тебя, вас</answer_comment>
+    
+    <uuid>69d3a4fa-78ee-425f-a59b-572c7e48ca82</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>See you later.</question>
+    <answer>До скорой встречи.</answer>
+    <comment>[siː jʊ ˈleɪtər]</comment>
+    <answer_comment>to see - увидеть, you - тебя, вас, later - позже</answer_comment>
+    
+    <uuid>4cc9f530-7ddd-472a-a8ea-3c34278d4bbf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>See you tonight.</question>
+    <answer>До вечера.</answer>
+    <comment>[siː jʊ təˈnаɪt]</comment>
+    <answer_comment>to see - увидеть, you - тебя, вас, tonight - сегодня вечером</answer_comment>
+    
+    <uuid>d8642aa9-7f70-4b7d-9235-50a8b2c4b3c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>See you soon!</question>
+    <answer>До скорой встречи!</answer>
+    <comment>[siː jʊ suːn]</comment>
+    <answer_comment>to see - увидеть, you - тебя, вас, soon - скоро</answer_comment>
+    
+    <uuid>61e06520-6d47-482d-91be-f5083a16f341</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>See you tomorrow!</question>
+    <answer>До завтра!</answer>
+    <comment>[siː jʊ təˈmɔːroʊ]</comment>
+    <answer_comment>to see - увидеть, you - тебя, вас, tomorrow - завтра</answer_comment>
+    
+    <uuid>8ed67a27-b6ce-4460-8358-bf55f87823f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I hope to see you again.</question>
+    <answer>Надеюсь увидеть вас снова.</answer>
+    <comment>[аɪ hoʊp tə siː jʊ əˈgen]</comment>
+    <answer_comment>to hope - надеяться, to see - видеть, you - тебя, вас, again - снова</answer_comment>
+    
+    <uuid>6be890a8-540b-4567-809e-7a86e2327c29</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give my regards to your sister.</question>
+    <answer>Передавайте привет вашей сестре.</answer>
+    <comment>[gɪv mаɪ rɪˈgɑːrdz tə jər ˈsɪstər]</comment>
+    <answer_comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, sister - сестра</answer_comment>
+    
+    <uuid>a41b86e2-9a66-4ac4-830c-d7225f47517c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give my regards to your parents.</question>
+    <answer>Передавайте привет вашим родителям.</answer>
+    <comment>[gɪv mаɪ rɪˈgɑːrdz tə jər ˈperənts]</comment>
+    <answer_comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, parents - родители</answer_comment>
+    
+    <uuid>650dbd8b-0968-41c3-8530-4a0b6b361850</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Have a good journey!</question>
+    <answer>Счастливого пути.</answer>
+    <comment>[hæv ə gʊd ˈʤɜːrniː]</comment>
+    <answer_comment>to have - иметь, good - хороший, journey - путешествие</answer_comment>
+    
+    <uuid>2e5eedef-34c7-417b-8f16-609929703c9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good luck!</question>
+    <answer>Удачи!</answer>
+    <comment>[gʊd lʌk]</comment>
+    <answer_comment>good - хороший, luck - удача</answer_comment>
+    
+    <uuid>c4498cbd-f1e4-4c69-b80f-0430dd205e91</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m so glad to have met you.</question>
+    <answer>Было очень приятно с вами познакомиться.</answer>
+    <comment>[аɪm soʊ glæd tə hæv met jʊ]</comment>
+    <answer_comment>so - так, такой, glad - радостный, to meet - встретить, you - тебя, вас</answer_comment>
+    
+    <uuid>03069b2e-5a86-4aaf-b307-a71139b5eafb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>All the best!</question>
+    <answer>Всего хорошего!</answer>
+    <comment>[ɔːl ðə best]</comment>
+    <answer_comment>all - все, the best - наилучшее</answer_comment>
+    
+    <uuid>20c5a1c9-a849-4d2c-8fb1-47a1212f48ce</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thank you for your attention.</question>
+    <answer>Спасибо за внимание.</answer>
+    <comment>[θæŋk jʊ fər jər əˈtenʃən]</comment>
+    <answer_comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, attention - внимание</answer_comment>
+    
+    <uuid>9b660308-0b95-403d-9394-5b53b3e3ddc2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thank you for your invitation.</question>
+    <answer>Спасибо за приглашение.</answer>
+    <comment>[θæŋk jʊ fər jər ˌɪnvɪˈteɪʃən]</comment>
+    <answer_comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, invitation - приглашение</answer_comment>
+    
+    <uuid>5466ba8b-a949-45b8-a589-0e3cb751e7bf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thank you for your help.</question>
+    <answer>Спасибо за помощь.</answer>
+    <comment>[θæŋk jʊ fər jər help]</comment>
+    <answer_comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, help - помощь</answer_comment>
+    
+    <uuid>153177fc-cb67-4d26-ae26-9d6f0adbad30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thank you for your advice.</question>
+    <answer>Спасибо за совет.</answer>
+    <comment>[θæŋk jʊ fər jər ædˈvаɪs]</comment>
+    <answer_comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, advice - совет</answer_comment>
+    
+    <uuid>0e01bef0-a14f-4437-9ff6-dbef6ef34089</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>So long!</question>
+    <answer>Пока!</answer>
+    <comment>[soʊ lɔːŋ]</comment>
+    <answer_comment>so - так, такой, long - долгий срок, долго</answer_comment>
+    
+    <uuid>eef0b548-cf54-457b-9bcc-982cb5dd34a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bye-bye!</question>
+    <answer>Пока!</answer>
+    <comment>[bаɪ bаɪ]</comment>
+    <answer_comment>bye - пока</answer_comment>
+    
+    <uuid>7aeaeec4-41db-45d8-b9e5-a41d1292888e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I must go now.</question>
+    <answer>Мне нужно уходить.</answer>
+    <comment>[аɪ mʌst goʊ nаʊ]</comment>
+    <answer_comment>must - должен, должна, должны, to go - идти, now - сейчас</answer_comment>
+    
+    <uuid>6e95bf97-0876-4f1e-8af4-2d4f4141e0c5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m sorry to see you go.</question>
+    <answer>Жаль, что вы уходите.</answer>
+    <comment>[aɪm ˈsɑːriː tə siː jʊ goʊ]</comment>
+    <answer_comment>sorry - сожалеющий, to see - видеть, you - тебя, вас, to go - идти, уходить</answer_comment>
+    
+    <uuid>d0d6f509-7c22-456b-b7ac-b5b9378e20e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You&apos;re not in a hurry, are you?</question>
+    <answer>Вы ведь не торопитесь, не так ли?</answer>
+    <comment>[jʊr nɑːt ɪn ə ˈhɜːriː ɑːr jʊ]</comment>
+    <answer_comment>hurry - спешка</answer_comment>
+    
+    <uuid>ab6bee6f-e5ff-49e5-9d99-47b9c3d4f6c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I hope we&apos;ll meet again.</question>
+    <answer>Я надеюсь, мы снова встретимся.</answer>
+    <comment>[аɪ hoʊp wiːl miːt əˈgen]</comment>
+    <answer_comment>to hope - надеяться, to meet - встретить, again - снова</answer_comment>
+    
+    <uuid>af848e7c-1a56-45d6-88d6-7a92e05eb1f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It was great seeing you.</question>
+    <answer>Рад был увидеть вас.</answer>
+    <comment>[ɪt wʌz greɪt ˈsiːiːŋ jʊ]</comment>
+    <answer_comment>was - был, была, было, great - замечательный, to see - видеть, you - тебя, вас</answer_comment>
+    
+    <uuid>a50ef147-ecdd-4a9c-a3cd-0a856c7972dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Come back soon.</question>
+    <answer>Возвращайтесь быстрее.</answer>
+    <comment>[kʌm bæk suːn]</comment>
+    <answer_comment>to come - приходить, back - обратно, soon - скоро</answer_comment>
+    
+    <uuid>f3838ccd-afb4-4913-a3ea-bf70341ae34f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Remember me to your wife.</question>
+    <answer>Передавайте привет вашей жене.</answer>
+    <comment>[rɪˈmembər ˈmiː tə jər wаɪf]</comment>
+    <answer_comment>to remember - напомнить, me - мне, меня, your - ваш, ваша, wife - жена</answer_comment>
+    
+    <uuid>25463952-8017-4195-9b57-c548f44fbbb3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Say hello to Mary.</question>
+    <answer>Передавай привет Мэри.</answer>
+    <comment>[seɪ heˈloʊ tə ˈmeeriː]</comment>
+    <answer_comment>to say - сказать, hello - привет, Mary - Мэри</answer_comment>
+    
+    <uuid>5e87b0d2-a890-402a-ad5b-b450bf9f7b44</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Say hello to your family for me.</question>
+    <answer>Передавай от меня привет семье.</answer>
+    <comment>[seɪ heˈloʊ tə jər ˈfæməliː fər ˈmiː]</comment>
+    <answer_comment>to say - сказать, hello - привет, your - твой, ваш, family - семья</answer_comment>
+    
+    <uuid>9fb1783a-7ca7-428d-8a06-7497b835d3fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Have a good trip.</question>
+    <answer>Счастливого пути.</answer>
+    <comment>[hæv ə gʊd trɪp]</comment>
+    <answer_comment>to have - иметь, good - хороший, trip - поездка</answer_comment>
+    
+    <uuid>224a2128-6363-4fbd-851e-06f9b79ffb67</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I wish you success.</question>
+    <answer>Я желаю вам успехов.</answer>
+    <comment>[аɪ wɪʃ jʊ səkˈses]</comment>
+    <answer_comment>to wish - желать, you - тебе, тебя, success - успех</answer_comment>
+    
+    <uuid>d6ddaabb-4cdc-4f75-9125-3d7b0ba52320</uuid>
+  </card>
+</cards>
+</stack>

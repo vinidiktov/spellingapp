@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>445146f7-e43d-48cd-979d-e13ebfd00795</uuid>
+  <title>Деловой английский - 10</title>
+  <author>Роман Килин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>exclusive</question>
+    <answer>исключительный</answer>
+    <comment>[ɪksˈkluːsɪv]</comment>
+    <uuid>fdb4f415-dc58-4411-b6d1-847b7c11c8bd</uuid>
+  </card>
+  <card>
+    <question>excuse</question>
+    <answer>извинять</answer>
+    <comment>[ɪksˈkjuːs]</comment>
+    <uuid>9ff95d47-6105-43a4-8f07-ff1e0f4cfb88</uuid>
+  </card>
+  <card>
+    <question>execution</question>
+    <answer>выполнение</answer>
+    <comment>[ˌeksɪˈkjuːʃən]</comment>
+    <uuid>cf644c9f-8fb6-472c-8fd1-c3a6ea860232</uuid>
+  </card>
+  <card>
+    <question>exempt</question>
+    <answer>освобождать</answer>
+    <comment>[ɪgˈzempt]</comment>
+    <uuid>2124811a-5f57-4f56-8428-eb2822ef86bc</uuid>
+  </card>
+  <card>
+    <question>exercise</question>
+    <answer>пользоваться (правами)</answer>
+    <comment>[ˈeksəsаɪz]</comment>
+    <uuid>14642cf5-7e1c-4da3-a5f0-187f2c9b35fa</uuid>
+  </card>
+  <card>
+    <question>exhibit</question>
+    <answer>показывать</answer>
+    <comment>[ɪgˈzɪbɪt]</comment>
+    <uuid>f57b8c88-9af2-4237-8d1c-b4ee363879c2</uuid>
+  </card>
+  <card>
+    <question>exhibit</question>
+    <answer>экспонат выставки</answer>
+    <comment>[ɪgˈzɪbɪt]</comment>
+    <uuid>1b32182c-640b-43a4-9df6-16fae0fced77</uuid>
+  </card>
+  <card>
+    <question>exhibition</question>
+    <answer>выставка</answer>
+    <comment>[ˌeksɪˈbɪʃən]</comment>
+    <uuid>9d3c2d42-29c1-4317-aea4-66c2c8396df1</uuid>
+  </card>
+  <card>
+    <question>exhibitions</question>
+    <answer>выставки</answer>
+    <comment>[ˌeksɪˈbɪʃən]</comment>
+    <uuid>40ad723d-35ee-4eeb-b925-fa84979fbdf0</uuid>
+  </card>
+  <card>
+    <question>existing</question>
+    <answer>действующий</answer>
+    <comment>[ɪgˈzɪstɪŋ]</comment>
+    <uuid>81b44197-3560-4384-bac7-45f61403f6f8</uuid>
+  </card>
+  <card>
+    <question>expect</question>
+    <answer>ожидать</answer>
+    <comment>[ɪksˈpekt]</comment>
+    <uuid>5853962f-bc11-474d-a286-4b0c89fb4e1e</uuid>
+  </card>
+  <card>
+    <question>expected</question>
+    <answer>ожидал, полагал</answer>
+    <comment>[ɪksˈpektd]</comment>
+    <uuid>a556a5a7-e76f-47ec-91fa-23543dcfe5fd</uuid>
+  </card>
+  <card>
+    <question>expedite</question>
+    <answer>ускорять</answer>
+    <comment>[ˈekspɪdаɪt]</comment>
+    <uuid>1663503f-5b76-4c14-b4f4-166715aded8e</uuid>
+  </card>
+  <card>
+    <question>expense</question>
+    <answer>расход, счет</answer>
+    <comment>[ɪksˈpens]</comment>
+    <uuid>e4a48fb0-d655-411e-b874-541368af4ea7</uuid>
+  </card>
+  <card>
+    <question>expenses</question>
+    <answer>расходы, издержки</answer>
+    <comment>[ɪksˈpens]</comment>
+    <uuid>9d5a5ccc-bd07-470a-ba2f-408bbcb79782</uuid>
+  </card>
+  <card>
+    <question>experience</question>
+    <answer>опыт</answer>
+    <comment>[ɪksˈpɪərɪəns]</comment>
+    <uuid>349b3b2b-38a0-4bd4-a2c3-9850d3f7ed1c</uuid>
+  </card>
+  <card>
+    <question>expert</question>
+    <answer>эксперт</answer>
+    <comment>[ˈekspɜːt]</comment>
+    <uuid>f9dd1cf5-1fe0-485c-ac87-5701e24f8c5c</uuid>
+  </card>
+  <card>
+    <question>expert examination</question>
+    <answer>экспертиза</answer>
+    <comment>[ˈekspɜːt ɪgˌzæmɪˈneɪʃən]</comment>
+    <uuid>36424db5-d1b2-43e8-abb0-b299204936a0</uuid>
+  </card>
+  <card>
+    <question>expert&apos;s findings</question>
+    <answer>заключение эксперта</answer>
+    <comment>[ˈekspɜːt ˈfаɪndɪŋ]</comment>
+    <uuid>b40e3d7d-2bda-4aa2-b317-13a54d79a51b</uuid>
+  </card>
+  <card>
+    <question>expertise</question>
+    <answer>знания и опыт по специальности</answer>
+    <comment>[ˌekspɜːˈtiːz]</comment>
+    <uuid>cb6fe7f4-ae2a-4fae-b4e1-652bc91fbf9e</uuid>
+  </card>
+  <card>
+    <question>expiration</question>
+    <answer>истечение срока</answer>
+    <comment>[ˌekspаɪəˈreɪʃən]</comment>
+    <uuid>ba735b01-400c-458d-a9a2-89bb844b5546</uuid>
+  </card>
+  <card>
+    <question>expired</question>
+    <answer>кончился, истек</answer>
+    <comment>[ɪksˈpаɪəd]</comment>
+    <uuid>9ca18e4e-e3e8-463c-99de-f42251091858</uuid>
+  </card>
+  <card>
+    <question>explain</question>
+    <answer>объяснять</answer>
+    <comment>[ɪksˈpleɪn]</comment>
+    <uuid>562d0282-fce6-4107-a579-9308f43727dd</uuid>
+  </card>
+  <card>
+    <question>explained</question>
+    <answer>объяснил</answer>
+    <comment>[ɪksˈpleɪnd]</comment>
+    <uuid>8ff71e8b-d6e0-4b34-ac7b-6ddefa08bb8a</uuid>
+  </card>
+  <card>
+    <question>explanation</question>
+    <answer>объяснение</answer>
+    <comment>[ˌekspləˈneɪʃən]</comment>
+    <uuid>3e75e27d-7f6c-4cc9-8461-9a3b5a734550</uuid>
+  </card>
+  <card>
+    <question>explosion</question>
+    <answer>взрыв</answer>
+    <comment>[ɪksˈpləʊʒən]</comment>
+    <uuid>4f067c7f-cc53-4feb-95d1-f3d7de2f3af5</uuid>
+  </card>
+  <card>
+    <question>export</question>
+    <answer>вывоз, экспорт, экспортировать</answer>
+    <comment>[ˈekspɔːt]</comment>
+    <uuid>f57f0d96-1d2e-4470-8d26-e25cb5b6c5ec</uuid>
+  </card>
+  <card>
+    <question>exported</question>
+    <answer>экспортировал</answer>
+    <comment>[ˈekspɔːtd]</comment>
+    <uuid>27e44f20-4702-4884-84b9-fb526e078211</uuid>
+  </card>
+  <card>
+    <question>exporters</question>
+    <answer>экспортеры</answer>
+    <comment>[eksˈpɔːtə]</comment>
+    <uuid>c70b18fe-bafb-40cc-95ec-647d8b4eb263</uuid>
+  </card>
+  <card>
+    <question>exporting</question>
+    <answer>экспорт</answer>
+    <comment>[ˈekspɔːtɪŋ]</comment>
+    <uuid>c763d453-a3da-44b9-8b5a-97a49d56a3b3</uuid>
+  </card>
+  <card>
+    <question>exposition</question>
+    <answer>экспозиция</answer>
+    <comment>[ˌekspəʊˈzɪʃən]</comment>
+    <uuid>bf6ed872-b5ed-4ae4-b5cb-e2d232fcd847</uuid>
+  </card>
+  <card>
+    <question>express</question>
+    <answer>скорый</answer>
+    <comment>[ɪksˈpres]</comment>
+    <uuid>999a4277-32e1-428d-b362-8349af17c17c</uuid>
+  </card>
+  <card>
+    <question>expressing</question>
+    <answer>выражение</answer>
+    <comment>[ɪksˈpresɪŋ]</comment>
+    <uuid>36b92567-7e76-4395-84b4-e969ed57d54b</uuid>
+  </card>
+  <card>
+    <question>extent</question>
+    <answer>мера, степень</answer>
+    <comment>[ɪksˈtent]</comment>
+    <uuid>c86352db-5351-4a16-8f1f-c021c0776308</uuid>
+  </card>
+  <card>
+    <question>external</question>
+    <answer>внешний</answer>
+    <comment>[eksˈtɜːnl]</comment>
+    <uuid>357a3422-502c-42d0-972f-3081723225f0</uuid>
+  </card>
+  <card>
+    <question>extra</question>
+    <answer>дополнительный, сверх</answer>
+    <comment>[ˈekstrə]</comment>
+    <uuid>96e52de4-4744-42f4-b934-85e0ba8f4cde</uuid>
+  </card>
+  <card>
+    <question>facilities</question>
+    <answer>оборудование, средства обслуживания</answer>
+    <comment>[fəˈsɪlɪtɪ]</comment>
+    <uuid>61cb4cde-15a7-45d9-b9ed-68af8749cb3d</uuid>
+  </card>
+  <card>
+    <question>fact</question>
+    <answer>факт, сущность</answer>
+    <comment>[fækt]</comment>
+    <uuid>5fbdb40f-6529-4ab8-b86f-8a2a9907bc53</uuid>
+  </card>
+  <card>
+    <question>factory</question>
+    <answer>завод, фабрика</answer>
+    <comment>[ˈfæktərɪ]</comment>
+    <uuid>624d966b-2a4e-47b0-be86-352233af3a9d</uuid>
+  </card>
+  <card>
+    <question>fail</question>
+    <answer>подводить</answer>
+    <comment>[feɪl]</comment>
+    <uuid>4a4a2e74-d313-4ee8-beb2-d09aa6467e50</uuid>
+  </card>
+  <card>
+    <question>fair</question>
+    <answer>справедливый</answer>
+    <comment>[feə]</comment>
+    <uuid>1d887622-fa0e-48ac-b31a-5fe9f3c5705f</uuid>
+  </card>
+  <card>
+    <question>fair</question>
+    <answer>ярмарка</answer>
+    <comment>[feə]</comment>
+    <uuid>bd922edf-0da0-43e1-a929-a63b51e315d2</uuid>
+  </card>
+  <card>
+    <question>fairs</question>
+    <answer>ярмарки</answer>
+    <comment>[feə]</comment>
+    <uuid>4b240bc5-53de-439f-8142-85e1832ae758</uuid>
+  </card>
+  <card>
+    <question>fall</question>
+    <answer>падать</answer>
+    <comment>[fɔːl]</comment>
+    <uuid>99cebc22-bcb6-4036-8732-fde4edeee6ac</uuid>
+  </card>
+  <card>
+    <question>familiar</question>
+    <answer>хорошо знакомый</answer>
+    <comment>[fəˈmɪljə]</comment>
+    <uuid>eb1b5ff4-10aa-4e2a-a438-c39a6e5922af</uuid>
+  </card>
+  <card>
+    <question>far</question>
+    <answer>дальний, далекий</answer>
+    <comment>[fɑː]</comment>
+    <uuid>0008a4f2-02af-40cf-bedd-80abfb868d4a</uuid>
+  </card>
+  <card>
+    <question>fare</question>
+    <answer>стоимость проезда</answer>
+    <comment>[feə]</comment>
+    <uuid>9b64d84a-7063-41d2-8aac-2c5a0ebd9c78</uuid>
+  </card>
+  <card>
+    <question>fast</question>
+    <answer>скорый, быстрый</answer>
+    <comment>[fɑːst]</comment>
+    <uuid>86dd0a2c-aa7e-43ec-be60-4700869342e6</uuid>
+  </card>
+  <card>
+    <question>fasten</question>
+    <answer>прикреплять</answer>
+    <comment>[ˈfɑːsn]</comment>
+    <uuid>f2f6c80a-e170-4aac-8c0e-e33ab7aae9da</uuid>
+  </card>
+  <card>
+    <question>fastening</question>
+    <answer>закрепление</answer>
+    <comment>[ˈfɑːsnɪŋ]</comment>
+    <uuid>75f5d096-277b-466c-a4b1-bac8642b1c34</uuid>
+  </card>
+  <card>
+    <question>faster</question>
+    <answer>быстрее</answer>
+    <comment>[ˈfɑːstə]</comment>
+    <uuid>6af87c9c-770a-4d9b-bb05-199689d9fd37</uuid>
+  </card>
+  <card>
+    <question>fault</question>
+    <answer>вина, ошибка</answer>
+    <comment>[fɔːlt]</comment>
+    <uuid>335911b2-b0ee-4b77-bf8b-2751ba04fa91</uuid>
+  </card>
+  <card>
+    <question>favour</question>
+    <answer>одобрение</answer>
+    <comment>[ˈfeɪvə]</comment>
+    <uuid>7f88032b-065f-46a3-a45a-8954d5a0857d</uuid>
+  </card>
+  <card>
+    <question>feasibility</question>
+    <answer>целесообразность</answer>
+    <comment>[(---)]</comment>
+    <uuid>08ddb722-fe0a-4173-8f3d-ede60005470f</uuid>
+  </card>
+  <card>
+    <question>fee</question>
+    <answer>гонорар, сбор</answer>
+    <comment>[fiː]</comment>
+    <uuid>acf43dbf-51e3-482a-ac6b-d56b5d704d96</uuid>
+  </card>
+  <card>
+    <question>fees</question>
+    <answer>сборы</answer>
+    <comment>[fiː]</comment>
+    <uuid>a2e064c7-8ab0-466f-9e31-2853342cc867</uuid>
+  </card>
+  <card>
+    <question>few</question>
+    <answer>мало</answer>
+    <comment>[fjuː]</comment>
+    <uuid>bbf490ca-72d9-4462-8419-e8ed08fd5175</uuid>
+  </card>
+  <card>
+    <question>field</question>
+    <answer>область</answer>
+    <comment>[fiːld]</comment>
+    <uuid>2cab72b5-9e70-4555-9d9c-f01a5cf64588</uuid>
+  </card>
+  <card>
+    <question>fierce</question>
+    <answer>сильный</answer>
+    <comment>[fɪəs]</comment>
+    <uuid>e18a866c-a1b3-4433-8990-9620a2f2154a</uuid>
+  </card>
+  <card>
+    <question>film</question>
+    <answer>фильм</answer>
+    <comment>[fɪlm]</comment>
+    <uuid>4cb5b04f-a552-47f2-bcaa-5f27101631f8</uuid>
+  </card>
+  <card>
+    <question>final</question>
+    <answer>окончательный</answer>
+    <comment>[ˈfаɪnl]</comment>
+    <uuid>63fb93f7-acb1-4085-ba50-67ebb9abd8b0</uuid>
+  </card>
+  <card>
+    <question>finalize</question>
+    <answer>завершать, заканчивать</answer>
+    <comment>[ˈfаɪnəlаɪz]</comment>
+    <uuid>1ddf1dcd-4a57-496c-b46c-5c3766bcba8d</uuid>
+  </card>
+  <card>
+    <question>finance</question>
+    <answer>финансировать</answer>
+    <comment>[fаɪˈnæns]</comment>
+    <uuid>43b62d74-d9de-4b18-b2c6-3716f185ab0e</uuid>
+  </card>
+  <card>
+    <question>financed</question>
+    <answer>финансированный</answer>
+    <comment>[fаɪˈnænsd]</comment>
+    <uuid>ffabefa0-a1c8-472a-afd2-7d72e867e86b</uuid>
+  </card>
+  <card>
+    <question>financial</question>
+    <answer>финансовый</answer>
+    <comment>[fаɪˈnænʃəl]</comment>
+    <uuid>4a3d2893-ac6b-44d1-8110-f33bd6f6a84d</uuid>
+  </card>
+  <card>
+    <question>find</question>
+    <answer>находить, найти</answer>
+    <comment>[fаɪnd]</comment>
+    <uuid>62affe66-a4a4-468e-8380-47bbba270ae7</uuid>
+  </card>
+  <card>
+    <question>fine</question>
+    <answer>прекрасно</answer>
+    <comment>[fаɪn]</comment>
+    <uuid>4356e0fb-efe7-4887-adb8-fa295a643c2a</uuid>
+  </card>
+  <card>
+    <question>finish</question>
+    <answer>окончание, заканчивать</answer>
+    <comment>[ˈfɪnɪʃ]</comment>
+    <uuid>5326d9ff-72e4-42b7-82f5-d7abc9006d5c</uuid>
+  </card>
+  <card>
+    <question>finished</question>
+    <answer>готовый</answer>
+    <comment>[ˈfɪnɪʃt]</comment>
+    <uuid>0fa7cbc0-eb7b-4fcd-a0ca-8a06d3a1d7d8</uuid>
+  </card>
+  <card>
+    <question>fire</question>
+    <answer>огонь</answer>
+    <comment>[ˈfаɪə]</comment>
+    <uuid>f4f82f80-0e94-4d29-8c48-0abfc5144855</uuid>
+  </card>
+  <card>
+    <question>firm</question>
+    <answer>фирма</answer>
+    <comment>[fɜːm]</comment>
+    <uuid>af0437c2-8f8c-4690-ace2-29a26a561887</uuid>
+  </card>
+  <card>
+    <question>firms</question>
+    <answer>фирмы</answer>
+    <comment>[fɜːm]</comment>
+    <uuid>1b4eb667-d6b5-4dd7-a900-7e3479cf0776</uuid>
+  </card>
+  <card>
+    <question>fix</question>
+    <answer>установление цены, курса</answer>
+    <comment>[fɪks]</comment>
+    <uuid>6c87c458-d0e4-411a-bf3c-79e529fb3df7</uuid>
+  </card>
+  <card>
+    <question>fixation</question>
+    <answer>фиксация</answer>
+    <comment>[fɪkˈseɪʃən]</comment>
+    <uuid>833435c5-66be-47a0-95d9-d6c966d67849</uuid>
+  </card>
+  <card>
+    <question>fixed</question>
+    <answer>твердый</answer>
+    <comment>[fɪkst]</comment>
+    <uuid>0021198a-9f26-4d46-96cf-01a561ad8d12</uuid>
+  </card>
+  <card>
+    <question>fixed assets</question>
+    <answer>активы неликвидные</answer>
+    <comment>[fɪkst ˈæset]</comment>
+    <uuid>de3ec1cd-7f76-40c1-8524-badd157178b8</uuid>
+  </card>
+  <card>
+    <question>fixed capital</question>
+    <answer>основной капитал</answer>
+    <comment>[fɪkst ˈkæpɪtl]</comment>
+    <uuid>a2e494f1-f408-4d81-b9cc-d0733c3eb5b8</uuid>
+  </card>
+  <card>
+    <question>fixed charges</question>
+    <answer>постоянные издержки</answer>
+    <comment>[fɪkst ʧɑːʤ]</comment>
+    <uuid>5ae64fca-66e2-4a5c-b45c-20c134f54dac</uuid>
+  </card>
+  <card>
+    <question>fixed price</question>
+    <answer>твердая цена</answer>
+    <comment>[fɪkst prаɪs]</comment>
+    <uuid>8f9aac69-fe12-4842-bc63-efe472ce3604</uuid>
+  </card>
+  <card>
+    <question>fixed-date loan</question>
+    <answer>ссуда срочная</answer>
+    <comment>[(---) ləʊn]</comment>
+    <uuid>22816081-6aad-48fc-b2b5-b2f88d2ea7b1</uuid>
+  </card>
+  <card>
+    <question>fixture</question>
+    <answer>приспособление</answer>
+    <comment>[ˈfɪkstʧə]</comment>
+    <uuid>967accec-f8f1-4bde-a27d-e57c1d54c5f0</uuid>
+  </card>
+  <card>
+    <question>flight</question>
+    <answer>полет</answer>
+    <comment>[flаɪt]</comment>
+    <uuid>a64bcfe3-4b96-41aa-b9a6-2f523fb03c9a</uuid>
+  </card>
+  <card>
+    <question>flood</question>
+    <answer>наводнение</answer>
+    <comment>[flʌd]</comment>
+    <uuid>986ad544-09d9-499d-916a-36a089c58220</uuid>
+  </card>
+  <card>
+    <question>floods</question>
+    <answer>наводнения</answer>
+    <comment>[flʌd]</comment>
+    <uuid>a4df0ee3-51f7-44ff-b3d0-c0490ed19ce4</uuid>
+  </card>
+  <card>
+    <question>following</question>
+    <answer>следующий, после</answer>
+    <comment>[ˈfɒləʊɪŋ]</comment>
+    <uuid>c9639d7c-7436-4b74-96ae-250ee1cbe1bd</uuid>
+  </card>
+  <card>
+    <question>foodstuffs</question>
+    <answer>продовольственные товары</answer>
+    <comment>[ˈfuːdstʌfs]</comment>
+    <uuid>c712e4eb-f4e8-416d-b348-c293747af84a</uuid>
+  </card>
+  <card>
+    <question>for</question>
+    <answer>на, по, для</answer>
+    <comment>[fɔː]</comment>
+    <uuid>08155acf-29c6-4d6d-b8a0-74388db9fe94</uuid>
+  </card>
+  <card>
+    <question>force</question>
+    <answer>сила, действие</answer>
+    <comment>[fɔːs]</comment>
+    <uuid>16d6156e-a5bd-43ba-bc87-bf08b80df967</uuid>
+  </card>
+  <card>
+    <question>force-majeure</question>
+    <answer>форс-мажор</answer>
+    <comment>[(---)]</comment>
+    <uuid>96f29eec-4be4-4375-a986-4c9c5962caed</uuid>
+  </card>
+  <card>
+    <question>foreign</question>
+    <answer>внешний, иностранный</answer>
+    <comment>[ˈfɒrɪn]</comment>
+    <uuid>a5af076b-42f3-45fd-93ab-0031a9b9d6df</uuid>
+  </card>
+  <card>
+    <question>foreman</question>
+    <answer>мастер</answer>
+    <comment>[ˈfɔːmən]</comment>
+    <uuid>589f7972-73ec-4420-8fb3-2987a8fcd18f</uuid>
+  </card>
+  <card>
+    <question>foresee</question>
+    <answer>предугадать</answer>
+    <comment>[fɔːˈsiː]</comment>
+    <uuid>768c2682-1ecd-4da5-b36d-3e1063a5e055</uuid>
+  </card>
+  <card>
+    <question>form</question>
+    <answer>бланк, форма</answer>
+    <comment>[fɔːm]</comment>
+    <uuid>62cddd31-ef9d-4dce-945d-e6774e584cf6</uuid>
+  </card>
+  <card>
+    <question>formalities</question>
+    <answer>формальности</answer>
+    <comment>[fɔːˈmælɪtɪ]</comment>
+    <uuid>3e4527ff-b75c-40a3-aaaa-f46b858fb79e</uuid>
+  </card>
+  <card>
+    <question>formality</question>
+    <answer>формальность</answer>
+    <comment>[fɔːˈmælɪtɪ]</comment>
+    <uuid>3635b985-2f14-4992-8eb3-7d54ae591c50</uuid>
+  </card>
+  <card>
+    <question>formation</question>
+    <answer>формирование</answer>
+    <comment>[fɔːˈmeɪʃən]</comment>
+    <uuid>b6dba5b9-1479-48c8-a555-043bc283faa1</uuid>
+  </card>
+  <card>
+    <question>forms</question>
+    <answer>формы</answer>
+    <comment>[fɔːm]</comment>
+    <uuid>ff3f6701-64cf-407b-af57-70526540cd7a</uuid>
+  </card>
+  <card>
+    <question>forward</question>
+    <answer>вперед, отправлять</answer>
+    <comment>[ˈfɔːwəd]</comment>
+    <uuid>12e98ffa-b0cd-4562-abf6-85c284adc3f0</uuid>
+  </card>
+  <card>
+    <question>forward buying</question>
+    <answer>закупка в запас</answer>
+    <comment>[ˈfɔːwəd ˈbаɪɪŋ]</comment>
+    <uuid>a31a4eb0-cda8-441c-8b87-0a1f2849cb3f</uuid>
+  </card>
+  <card>
+    <question>forward contract</question>
+    <answer>срочный контракт</answer>
+    <comment>[ˈfɔːwəd ˈkɒntrækt]</comment>
+    <uuid>4835d457-8ba3-4790-80ae-e5fb233a7045</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:local="clr-namespace:Vocabilis;assembly=Vocabilis" 
+	x:Class="Vocabilis.SchedulerLanguagesPage"
+	Icon="Calendar.png"
+	Title="Повторение"
+	>
+	<ContentPage.Resources>
+        <ResourceDictionary>
+            <local:LanguageCodeToLanguageNameConverter x:Key="cnvLanguageCode" />
+            <!-- This is only an issue on the iPhone; Android and 
+           			WinPhone auto size the row height to the contents. -->
+      		<OnPlatform x:Key="rowHeight" 
+                  x:TypeArguments="x:Int32"
+                  iOS="60"
+                  Android="60"
+                  WinPhone="85" />
+        </ResourceDictionary> 
+        </ContentPage.Resources>
+	<ContentPage.Content>
+	<StackLayout VerticalOptions="FillAndExpand">
+		<StackLayout Padding="0, 0, 0, 150"
+	                	VerticalOptions="CenterAndExpand" 
+	        			HorizontalOptions="CenterAndExpand"
+	        			x:Name="LearnedStack" 
+	        			IsVisible="{Binding IsLearnedStackVisible}" 
+	        			Orientation="Vertical"
+	        			>
+			<Label Font="Large" Text="Карточек для повторения пока нет." />
+<!--			<Button Font="Large" Text="Начать сначала" 
+					Command="{Binding ResetStatsCommand}" 
+					/>-->
+		</StackLayout>
+		<StackLayout VerticalOptions="FillAndExpand"
+					IsVisible="{Binding IsLearningStackVisible}" 
+		>
+
+	        <ListView x:Name="languagesListView" 
+	        	ItemsSource="{Binding LanguageList}"
+	        	SelectedItem="{Binding SelectedItem, Mode=TwoWay}" 
+	        >
+		     <ListView.ItemTemplate>
+			      <DataTemplate>
+			        <TextCell Text="{Binding target_language, Converter={StaticResource cnvLanguageCode}"
+			        />
+			      </DataTemplate>
+			    </ListView.ItemTemplate>
+	        </ListView>
+	        </StackLayout>
+	    </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>aaf64525-37cd-451f-b101-892dced92601</uuid>
+  <title>Бытовое обслуживание :: Ремонт обуви и др. :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>26</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde hay por aquí un taller de reparación de calzado?</question>
+    <answer>Где здесь (ближайшая) мастерская по ремонту обуви?</answer>
+    <comment></comment>
+    <uuid>a940a40b-4481-41a2-a8ff-037af568f9d3</uuid>
+  </card>
+  <card>
+    <question>¿Podría usted arreglarme estos zapatos?</question>
+    <answer>Можете ли вы отремонтировать мне эти туфли? (=Могли бы вы ...)</answer>
+    <comment></comment>
+    <uuid>871649ff-bf7b-46cd-b5ac-a454f3b3ed17</uuid>
+  </card>
+  <card>
+    <question>¿Podría usted arreglarme estas botas?</question>
+    <answer>Можете ли вы отремонтировать мне эти сапоги? (=Могли бы вы ...)</answer>
+    <comment></comment>
+    <uuid>a4aff646-07dd-41fc-ba72-ce37973eab2a</uuid>
+  </card>
+  <card>
+    <question>¿Podría usted arreglarme estas sandalias?</question>
+    <answer>Можете ли вы отремонтировать мне эти босоножки? (=Могли бы вы ...)</answer>
+    <comment></comment>
+    <uuid>ea0432bf-071e-405f-9aee-3e4f0c23bbe4</uuid>
+  </card>
+  <card>
+    <question>Por favor, arrégleme el tacón.</question>
+    <answer>Пожалуйста, прибейте (мне) каблук. (=... отремонтируйте мне каблук.)</answer>
+    <comment></comment>
+    <uuid>c43ad566-d270-488b-84a0-bd4ee818a9c1</uuid>
+  </card>
+  <card>
+    <question>Por favor, ponga tapas nuevas.</question>
+    <answer>Пожалуйста, поменяйте набойки. (=... положите новые набойки.)</answer>
+    <comment></comment>
+    <uuid>d7c24c5a-4ab5-4800-9311-e688ee0b38b1</uuid>
+  </card>
+  <card>
+    <question>Por favor, cósame esto.</question>
+    <answer>Пожалуйста, зашейте здесь (=... мне это).</answer>
+    <comment></comment>
+    <uuid>61e56a8f-a678-4791-bdeb-15aa2ab6356c</uuid>
+  </card>
+  <card>
+    <question>¿Ponen ustedes tapas metálicas?</question>
+    <answer>Вы (мн.ч.) делаете металлические набойки?</answer>
+    <comment></comment>
+    <uuid>8a084ad7-754a-4711-b1dc-4356dd128f46</uuid>
+  </card>
+  <card>
+    <question>Me molesta un clavo.</question>
+    <answer>Мне мешает гвоздь.</answer>
+    <comment></comment>
+    <uuid>69155f32-410f-44ae-b5fc-0f68949ff371</uuid>
+  </card>
+  <card>
+    <question>¿Podrían ponerme suelas nuevas?</question>
+    <answer>Можете ли вы (мн.ч.) заменить подмётки? (=Могли бы вы (мн.ч.) положить мне новые подмётки?)</answer>
+    <comment></comment>
+    <uuid>18f93032-d08e-4b4c-830f-0b030f5c8764</uuid>
+  </card>
+  <card>
+    <question>Pueden ustedes hacerlo ahora?</question>
+    <answer>Это можно сделать при мне? (=Можете ли вы (мн.ч.) сделать это сейчас?)</answer>
+    <comment></comment>
+    <uuid>0a5f2bfc-8e35-4a2c-bef3-0ff7192e1f17</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo estará arreglado?</question>
+    <answer>Когда будет готово?</answer>
+    <comment></comment>
+    <uuid>12b245c2-4f1b-4fd2-b145-a2f068d0c441</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto es?</question>
+    <answer>Сколько с меня?</answer>
+    <comment></comment>
+    <uuid>a64347ab-24be-457f-8a3e-85ccf68c4bd4</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay por aquí un taller de reparación de relojes?</question>
+    <answer>Где здесь (ближайшая) часовая мастерская?</answer>
+    <comment></comment>
+    <uuid>17c06042-5858-4b11-94c4-9e1c82dae984</uuid>
+  </card>
+  <card>
+    <question>Se me ha parado el reloj.</question>
+    <answer>У меня остановились часы.</answer>
+    <comment></comment>
+    <uuid>4a055a0e-f15a-4673-902a-4b4e07e54787</uuid>
+  </card>
+  <card>
+    <question>Se me cayó el reloj.</question>
+    <answer>Я уронил(а) часы.</answer>
+    <comment></comment>
+    <uuid>bff883fc-5ab9-4b91-bc87-41abd7867d3f</uuid>
+  </card>
+  <card>
+    <question>Mi reloj se ha parado.</question>
+    <answer>Мои часы остановились.</answer>
+    <comment></comment>
+    <uuid>9e990efe-5bb8-49f5-a922-ba9bf5050670</uuid>
+  </card>
+  <card>
+    <question>Mi reloj se adelanta ... minutos al día.</question>
+    <answer>Мои часы спешат на ... минут в день.</answer>
+    <comment></comment>
+    <uuid>9745dbe2-4708-4312-9fd4-b177c8f33405</uuid>
+  </card>
+  <card>
+    <question>Mi reloj atrasa ... minutos al día.</question>
+    <answer>Мои часы отстают на ... минут в день.</answer>
+    <comment></comment>
+    <uuid>de710a1f-2a07-4131-b87f-86918ea17cc4</uuid>
+  </card>
+  <card>
+    <question>Se ha roto el cristal.</question>
+    <answer>Разбилось стекло.</answer>
+    <comment></comment>
+    <uuid>2b11b2fc-0c26-49e3-91a3-3c00018580b4</uuid>
+  </card>
+  <card>
+    <question>Cámbieme, por favor, las pilas.</question>
+    <answer>Замените (мне), пожалуйста, батарейку (=батарейки).</answer>
+    <comment></comment>
+    <uuid>dbad2d65-c653-4fb5-90ae-0823361a7670</uuid>
+  </card>
+  <card>
+    <question>El calendario no funciona.</question>
+    <answer>Неисправен календарь.</answer>
+    <comment></comment>
+    <uuid>ca0cf43c-336b-420c-999f-69c054482f56</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay por aquí un taller de reparación de cámaras de foto?</question>
+    <answer>Где здесь (ближайшая) мастерская по ремонту фотоаппаратов?</answer>
+    <comment></comment>
+    <uuid>97d572e8-564b-4345-b79b-10fadced61aa</uuid>
+  </card>
+  <card>
+    <question>¿Podría usted arreglarme esta cámara?</question>
+    <answer>Вы можете починить мне фотоаппарат? (=Могли бы вы починить мне этот фотоаппарат?)</answer>
+    <comment></comment>
+    <uuid>f573c56e-a126-4069-b905-4c258356d33a</uuid>
+  </card>
+  <card>
+    <question>Se me cayó al suelo.</question>
+    <answer>Я его уронил. (=Он у меня упал на землю.)</answer>
+    <comment></comment>
+    <uuid>942178cb-2ff1-4034-816c-7f167db187b6</uuid>
+  </card>
+  <card>
+    <question>Se ha trabado el botón de disparo.</question>
+    <answer>Запала кнопка спуска.</answer>
+    <comment></comment>
+    <uuid>5f1315bb-cde8-4c81-a25d-b83a297defae</uuid>
+  </card>
+  <card>
+    <question>Se traba el obturador.</question>
+    <answer>Заедает затвор.</answer>
+    <comment></comment>
+    <uuid>af8e5c4c-613d-4431-9c0d-0b5020568c85</uuid>
+  </card>
+  <card>
+    <question>Se traba el objetivo.</question>
+    <answer>Заедает объектив.</answer>
+    <comment></comment>
+    <uuid>f5b9bdf6-48c3-4577-9dc8-2f4518f2a17c</uuid>
+  </card>
+  <card>
+    <question>Se traba el carrete.</question>
+    <answer>Заедает кассета.</answer>
+    <comment></comment>
+    <uuid>c1fa3eee-7bcc-46fa-b8c9-1d78773582f6</uuid>
+  </card>
+  <card>
+    <question>La película se rompe.</question>
+    <answer>Плёнка рвётся.</answer>
+    <comment></comment>
+    <uuid>62c65c1a-6f40-4e87-b6de-2f77d46c9285</uuid>
+  </card>
+  <card>
+    <question>La película no se puede rebobinar.</question>
+    <answer>Плёнка не перематывается.</answer>
+    <comment></comment>
+    <uuid>b4727666-4eff-4c02-9db7-3b4de954107e</uuid>
+  </card>
+  <card>
+    <question>No enfoca bien.</question>
+    <answer>Не наводится фокус. (=Не фокусируется хорошо.)</answer>
+    <comment></comment>
+    <uuid>a8b79b15-36e4-4d0c-b267-342be21b523c</uuid>
+  </card>
+  <card>
+    <question>No funciona el flash.</question>
+    <answer>Не включается вспышка. (=Не работает ...)</answer>
+    <comment></comment>
+    <uuid>8bc6c8f8-4598-42ee-984b-5057681e5294</uuid>
+  </card>
+  <card>
+    <question>Necesito mandar esta ropa urgentemente a la tintorería.</question>
+    <answer>Мне нужно отдать эту одежду в срочную химчистку. (= ... срочно в химчистку.)</answer>
+    <comment></comment>
+    <uuid>dd27834d-4f04-48b9-8ee5-aaf31499a84b</uuid>
+  </card>
+  <card>
+    <question>¿Podrían quitarme esta mancha ahora mismo?</question>
+    <answer>Вы можете вывести это пятно при мне? (=Могли бы вы (мн.ч.) ... сейчас же.)</answer>
+    <comment></comment>
+    <uuid>4d09c17e-7137-4ad9-8524-d05daab46a94</uuid>
+  </card>
+  <card>
+    <question>Es una mancha de café.</question>
+    <answer>Это пятно от кофе.</answer>
+    <comment></comment>
+    <uuid>3a6fd631-2189-43a9-ab3c-4be13a6923e8</uuid>
+  </card>
+  <card>
+    <question>Es una mancha de grasa.</question>
+    <answer>Это пятно от масла.</answer>
+    <comment></comment>
+    <uuid>f1014dd7-6cbe-44ed-b589-3c3bd143fb17</uuid>
+  </card>
+  <card>
+    <question>¿Me podrían coser un botón?</question>
+    <answer>Вы можете пришить (мне) пуговицу? (=Вы могли бы (мн.ч.) ...?)</answer>
+    <comment></comment>
+    <uuid>0089af20-2e9e-47de-9081-e0275c9ca23d</uuid>
+  </card>
+  <card>
+    <question>Espere un momento.</question>
+    <answer>Подождите немного.</answer>
+    <comment></comment>
+    <uuid>7c0ce689-fe72-41df-9ff9-9937fb9b7d13</uuid>
+  </card>
+  <card>
+    <question>Tiene que dejarlo aquí.</question>
+    <answer>Вещь нужно оставить. (=Нужно оставить это здесь.)</answer>
+    <comment></comment>
+    <uuid>2ab3c5a8-8883-4b0e-8bd8-b50c09546ca7</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo estará listo?</question>
+    <answer>Когда будет готово? (готово = listo)</answer>
+    <comment></comment>
+    <uuid>60a05454-f61f-413f-ab83-b8faef38814a</uuid>
+  </card>
+  <card>
+    <question>¿Estará para hoy por la tarde?</question>
+    <answer>Будет ли (готово) сегодня вечером?</answer>
+    <comment></comment>
+    <uuid>4d1b3ca1-f3ad-4c14-b6f9-1bea213b2cb2</uuid>
+  </card>
+  <card>
+    <question>¿Estará para mañana por la mañana?</question>
+    <answer>Будет ли (готово) завтра утром?</answer>
+    <comment></comment>
+    <uuid>2fbc08d9-a494-4f95-be67-adc3040dc046</uuid>
+  </card>
+  <card>
+    <question>¿Estará para pasado mañana?</question>
+    <answer>Будет ли (готово) послезавтра?</answer>
+    <comment></comment>
+    <uuid>05ee79bc-3114-426d-b32f-6365677d8911</uuid>
+  </card>
+  <card>
+    <question>Tome el resguardo.</question>
+    <answer>Возьмите квитанцию.</answer>
+    <comment></comment>
+    <uuid>3b1dc3ba-01fa-44ff-9cb1-44ccc6e4959e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde podría dar mi ropa a lavar?</question>
+    <answer>Где можно сдать вещи в стирку? (=Где мог(ла) бы я сдать мои вещи постирать?)</answer>
+    <comment></comment>
+    <uuid>b078ff6b-b79c-4eaf-8c6c-04830c707fd5</uuid>
+  </card>
+  <card>
+    <question>¿Dónde podría dar mi ropa a limpiar?</question>
+    <answer>Где можно сдать вещи в чистку? (=Где мог(ла) бы я сдать мои вещи почистить?)</answer>
+    <comment></comment>
+    <uuid>5c2d97fe-0130-4b0b-bdcf-4b7c93002e7a</uuid>
+  </card>
+  <card>
+    <question>¿Dónde podría dar mi ropa a planchar?</question>
+    <answer>Где можно сдать вещи в утюжку? (=Где мог(ла) бы я сдать мои вещи поутюжить?)</answer>
+    <comment></comment>
+    <uuid>e36d28a8-bea3-4783-a90d-373437dd330a</uuid>
+  </card>
+  <card>
+    <question>Tenga la bondad de hacer lavar mi ropa interior.</question>
+    <answer>Сдайте, пожалуйста, в стирку моё бельё. (=Будьте добры ...)</answer>
+    <comment></comment>
+    <uuid>5db9e76d-c67a-4c65-ad7e-917521fe1ca5</uuid>
+  </card>
+  <card>
+    <question>Tenga la bondad de hacer lavar mis camisas.</question>
+    <answer>Сдайте, пожалуйста, в стирку мои рубашки. (=Будьте добры ...)</answer>
+    <comment></comment>
+    <uuid>eb74e549-dfd6-4031-b336-783f17db4f6b</uuid>
+  </card>
+  <card>
+    <question>Haga el favor de dar a limpiar mi traje.</question>
+    <answer>Сдайте, пожалуйста, в чистку мой костюм. (=Сделайте одолжение ...)</answer>
+    <comment></comment>
+    <uuid>676b72bb-35b7-4c9c-8dda-c42a277b1483</uuid>
+  </card>
+  <card>
+    <question>Haga el favor de dar a limpiar mi vestido.</question>
+    <answer>Сдайте, пожалуйста, в чистку моё платье. (=Сделайте одолжение ...)</answer>
+    <comment></comment>
+    <uuid>0122edef-acad-4eba-8484-863132587e68</uuid>
+  </card>
+  <card>
+    <question>Quite esta mancha, por favor.</question>
+    <answer>Удалите, пожалуйста, это пятно. (=..., пожалуйста.)</answer>
+    <comment></comment>
+    <uuid>3cad5c3b-e663-4b31-882e-8e68932967d6</uuid>
+  </card>
+  <card>
+    <question>Las prendas me urgen para hoy.</question>
+    <answer>Вещи мне нужны сегодня.</answer>
+    <comment></comment>
+    <uuid>3186594b-1d90-4ba1-a757-884349c16226</uuid>
+  </card>
+  <card>
+    <question>Las prendas me urgen para mañana.</question>
+    <answer>Вещи мне нужны завтра.</answer>
+    <comment></comment>
+    <uuid>ce8cee98-bd58-4527-8565-9b43e43ae20c</uuid>
+  </card>
+  <card>
+    <question>Las prendas me urgen para pasado mañana.</question>
+    <answer>Вещи мне нужны послезавтра.</answer>
+    <comment></comment>
+    <uuid>cd4baf7a-e277-4744-ab3d-d3fcac654903</uuid>
+  </card>
+  <card>
+    <question>Necesito remendar los zapatos.</question>
+    <answer>Мне нужно починить туфли.</answer>
+    <comment></comment>
+    <uuid>489d7ac7-e3a0-434b-bf93-b676bc510a7e</uuid>
+  </card>
+  <card>
+    <question>Necesito remendar las botas.</question>
+    <answer>Мне нужно починить сапоги.</answer>
+    <comment></comment>
+    <uuid>aad356d1-fca1-4725-8fe6-4dfa23525480</uuid>
+  </card>
+  <card>
+    <question>Necesito remendar las sandalias.</question>
+    <answer>Мне нужно починить босоножки.</answer>
+    <comment></comment>
+    <uuid>2e3345c7-626b-4349-a9d6-0a525c399866</uuid>
+  </card>
+  <card>
+    <question>Necesito cambiar la cremallera.</question>
+    <answer>Мне нужно заменить молнию.</answer>
+    <comment></comment>
+    <uuid>5ea56bcb-9fb7-440d-83cd-17f1ecc02e9b</uuid>
+  </card>
+  <card>
+    <question>Necesito acortar la falda.</question>
+    <answer>Мне нужно укоротить юбку.</answer>
+    <comment></comment>
+    <uuid>d5a343b0-1e95-4a8d-9ec3-3b3dad563337</uuid>
+  </card>
+  <card>
+    <question>Necesito alargar la falda.</question>
+    <answer>Мне нужно удлинить юбку.</answer>
+    <comment></comment>
+    <uuid>58ceaf5f-5e95-4321-ba77-cc4d2e01ca95</uuid>
+  </card>
+  <card>
+    <question>Necesito acortar los pantalones.</question>
+    <answer>Мне нужно укоротить брюки.</answer>
+    <comment></comment>
+    <uuid>dc969235-afec-4026-9bed-e8cafba9a01c</uuid>
+  </card>
+  <card>
+    <question>Necesito acortar la gabardina.</question>
+    <answer>Мне нужно укоротить плащ.</answer>
+    <comment></comment>
+    <uuid>e4a02a6f-4a17-424f-8c4d-29ac24872892</uuid>
+  </card>
+  <card>
+    <question>Necesito alargar los pantalones.</question>
+    <answer>Мне нужно удлинить брюки.</answer>
+    <comment></comment>
+    <uuid>358fbb34-baff-4cf6-8a75-06c001c47b3d</uuid>
+  </card>
+  <card>
+    <question>Necesito alargar la gabardina.</question>
+    <answer>Мне нужно удлинить плащ.</answer>
+    <comment></comment>
+    <uuid>135973c6-1770-44b2-a0bc-df9df7ce5db5</uuid>
+  </card>
+  <card>
+    <question>Necesito fotografiarme.</question>
+    <answer>Мне нужно сфотографироваться.</answer>
+    <comment></comment>
+    <uuid>f6e6e293-2de5-4743-a51f-51f3c9a11102</uuid>
+  </card>
+  <card>
+    <question>Querría fotografiarme de cuerpo entero.</question>
+    <answer>Я хотел(а) бы сфотографироваться в полный рост.</answer>
+    <comment></comment>
+    <uuid>cd755bb0-f9ad-479a-b705-8ff9859fcecd</uuid>
+  </card>
+  <card>
+    <question>Querría fotografiarme de medio cuerpo.</question>
+    <answer>Я хотел(а) бы сфотографироваться по пояс.</answer>
+    <comment></comment>
+    <uuid>6f6621a3-4d03-4b7c-bfbe-5bda84c6512a</uuid>
+  </card>
+  <card>
+    <question>Querría fotografiarme para carnet.</question>
+    <answer>Я хотел(а) бы сфотографироваться на документ.</answer>
+    <comment></comment>
+    <uuid>a3201263-c518-42ef-a3bd-640a6b6371ad</uuid>
+  </card>
+  <card>
+    <question>Querría fotos en blanco y negro.</question>
+    <answer>Я хотел(а) бы чёрно-белые фотографии.</answer>
+    <comment></comment>
+    <uuid>5c8b06cf-31ed-4701-ab77-8f6201f0d4a5</uuid>
+  </card>
+  <card>
+    <question>Querría fotos en color.</question>
+    <answer>Я хотел(а) бы цветные фотографии.</answer>
+    <comment></comment>
+    <uuid>823408b3-f3ef-4917-a21c-6caf55a8de3e</uuid>
+  </card>
+  <card>
+    <question>Necesito seis fotos.</question>
+    <answer>Мне нужно 6 фотографий.</answer>
+    <comment></comment>
+    <uuid>93dd9942-72ef-41ea-872c-c44b3e4c5f0e</uuid>
+  </card>
+  <card>
+    <question>Necesito doce fotos.</question>
+    <answer>Мне нужно 12 фотографий.</answer>
+    <comment></comment>
+    <uuid>bb07b8ed-1249-4a4f-969d-09563c4604d6</uuid>
+  </card>
+  <card>
+    <question>Se me ha estropeado la cámara.</question>
+    <answer>У меня сломался фотоаппарат.</answer>
+    <comment></comment>
+    <uuid>533901a0-e4be-4299-84b9-03a38b98386b</uuid>
+  </card>
+  <card>
+    <question>No se puede fijar la exposición.</question>
+    <answer>Не устанавливается выдержка.</answer>
+    <comment></comment>
+    <uuid>d74994cc-8594-4bd7-ad8d-7d28fc9b5a87</uuid>
+  </card>
+  <card>
+    <question>Releve, por favor, esta película.</question>
+    <answer>Проявите, пожалуйста, эту плёнку.</answer>
+    <comment></comment>
+    <uuid>15b31037-7caa-4558-9a24-5e4e1d240b4b</uuid>
+  </card>
+  <card>
+    <question>Sáqueme, por favor, positivas de esta película.</question>
+    <answer>Отпечатайте (мне), пожалуйста, фотографии с этой плёнки.</answer>
+    <comment></comment>
+    <uuid>c532cdb2-bbb4-4b02-b0f3-14caa957e1f7</uuid>
+  </card>
+</cards>
+</stack>

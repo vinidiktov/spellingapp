@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>24a7338d-a90f-4957-8292-ddec09ff5e41</uuid>
+  <title>Покупки :: Универмаг :: Слова 2</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>20</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>pila</question>
+    <answer>батарейка</answer>
+    <comment>f</comment>
+    <uuid>0f86a4d5-1159-43f5-b5ef-f68214a90a28</uuid>
+  </card>
+  <card>
+    <question>blusa</question>
+    <answer>блузка</answer>
+    <comment>f</comment>
+    <uuid>a744d284-f7c2-4b4f-bc66-db050bab4fa1</uuid>
+  </card>
+  <card>
+    <question>sandalias</question>
+    <answer>босоножки</answer>
+    <comment>f, pl</comment>
+    <uuid>eb9827b3-7cfe-4aef-a4e1-5faaa9bd1317</uuid>
+  </card>
+  <card>
+    <question>pulsera de reloj</question>
+    <answer>браслет для часов</answer>
+    <comment>f</comment>
+    <uuid>40528876-23eb-4697-b4c3-050381665d55</uuid>
+  </card>
+  <card>
+    <question>alfiler</question>
+    <answer>брошь</answer>
+    <comment>m</comment>
+    <uuid>dbfd9ef0-0543-4cff-a297-928bfb76aabe</uuid>
+  </card>
+  <card>
+    <question>pantalones</question>
+    <answer>брюки</answer>
+    <comment>m, pl</comment>
+    <uuid>1a651901-06d8-4c05-a1cb-cf927df1da18</uuid>
+  </card>
+  <card>
+    <question>florero</question>
+    <answer>ваза</answer>
+    <comment>m</comment>
+    <uuid>39b9eccb-0c33-491b-9221-4e05303d1435</uuid>
+  </card>
+  <card>
+    <question>mercería</question>
+    <answer>галантерея</answer>
+    <comment>f</comment>
+    <uuid>57bd8aa4-94df-4c6b-85d3-fa91712594a4</uuid>
+  </card>
+  <card>
+    <question>corbata</question>
+    <answer>галстук</answer>
+    <comment>f</comment>
+    <uuid>9763ce9c-14d0-4df1-b76d-e81342472559</uuid>
+  </card>
+  <card>
+    <question>disco</question>
+    <answer>диск</answer>
+    <comment>m</comment>
+    <uuid>0f2ce103-5bcd-4e5d-a56f-184b4085073e</uuid>
+  </card>
+  <card>
+    <question>lápiz de labios</question>
+    <answer>губная помада</answer>
+    <comment>m</comment>
+    <uuid>d68ce746-a097-4d57-a299-f05e6f66d717</uuid>
+  </card>
+  <card>
+    <question>vaqueros</question>
+    <answer>джинсы</answer>
+    <comment>m, pl</comment>
+    <uuid>9659c336-44d1-4297-9b16-c0c5af2947cb</uuid>
+  </card>
+  <card>
+    <question>perfume</question>
+    <answer>духи</answer>
+    <comment>m</comment>
+    <uuid>907086f3-6522-4e90-b0c6-3c85e8989e88</uuid>
+  </card>
+  <card>
+    <question>ante</question>
+    <answer>замша</answer>
+    <comment>m</comment>
+    <uuid>02350e30-0778-4496-b6e4-71f3a258ae57</uuid>
+  </card>
+  <card>
+    <question>espejo</question>
+    <answer>зеркало</answer>
+    <comment>m</comment>
+    <uuid>0b34238e-b92c-4061-bd17-f2b7d3a18a2c</uuid>
+  </card>
+  <card>
+    <question>pasta dentífrica</question>
+    <answer>зубная паста</answer>
+    <comment>f</comment>
+    <uuid>66648b85-d460-4dea-9ad6-834e248ad254</uuid>
+  </card>
+  <card>
+    <question>aguja</question>
+    <answer>иголка</answer>
+    <comment>f</comment>
+    <uuid>dce64ae4-dcf4-4047-ae00-358c6f99fa15</uuid>
+  </card>
+  <card>
+    <question>juego</question>
+    <answer>игра</answer>
+    <comment>m</comment>
+    <uuid>c219b615-9810-4219-a400-c8b0a31663f2</uuid>
+  </card>
+  <card>
+    <question>juguete</question>
+    <answer>игрушка</answer>
+    <comment>m</comment>
+    <uuid>015dedb8-49ff-4424-9238-de949b8f3a31</uuid>
+  </card>
+  <card>
+    <question>caja</question>
+    <answer>касса</answer>
+    <comment>f</comment>
+    <uuid>669b9d35-c9cd-42fd-943f-fd30daebe084</uuid>
+  </card>
+  <card>
+    <question>cassette</question>
+    <answer>кассета</answer>
+    <comment></comment>
+    <uuid>cb604729-6a6a-4a7d-bd38-bbc38c40e3db</uuid>
+  </card>
+  <card>
+    <question>cámara de cine</question>
+    <answer>киноаппарат</answer>
+    <comment>f</comment>
+    <uuid>cc93b83a-7321-45be-af07-539a6b648d81</uuid>
+  </card>
+  <card>
+    <question>película de cine</question>
+    <answer>киноплёнка</answer>
+    <comment>f</comment>
+    <uuid>ab565616-bb64-4d7c-84bb-0cbfa58ea337</uuid>
+  </card>
+  <card>
+    <question>cuero</question>
+    <answer>кожа</answer>
+    <comment>m</comment>
+    <uuid>82151c72-5179-4c7a-b7bd-983c434721de</uuid>
+  </card>
+  <card>
+    <question>pantis</question>
+    <answer>колготки</answer>
+    <comment></comment>
+    <uuid>cd92cca0-53d8-4571-b140-82fe20205b80</uuid>
+  </card>
+  <card>
+    <question>cosmética</question>
+    <answer>косметика</answer>
+    <comment>f</comment>
+    <uuid>66b87775-f7ad-4cee-b991-649cc8f5caa5</uuid>
+  </card>
+  <card>
+    <question>chaqueta de punto</question>
+    <answer>кофта</answer>
+    <comment>f</comment>
+    <uuid>564599eb-b599-4113-851d-8d6cc3cf6013</uuid>
+  </card>
+  <card>
+    <question>monedero</question>
+    <answer>кошелёк</answer>
+    <comment>m</comment>
+    <uuid>53edcb77-6382-4a84-9bbe-257fe76c8b20</uuid>
+  </card>
+  <card>
+    <question>encajes</question>
+    <answer>кружева</answer>
+    <comment>m, pl</comment>
+    <uuid>f0acb216-ebf7-4752-8ad6-7024b45a2b13</uuid>
+  </card>
+  <card>
+    <question>cazadora</question>
+    <answer>куртка</answer>
+    <comment>f</comment>
+    <uuid>7cb6fc91-9dab-42c3-85de-66db40b9b252</uuid>
+  </card>
+  <card>
+    <question>esmalte</question>
+    <answer>лак для ногтей</answer>
+    <comment>m</comment>
+    <uuid>4c48b36d-0fec-47e8-a909-d2674bb8041a</uuid>
+  </card>
+  <card>
+    <question>laca</question>
+    <answer>лак для волос</answer>
+    <comment>f</comment>
+    <uuid>7ea5e0f7-18c9-43ed-ac26-eb4f04934650</uuid>
+  </card>
+  <card>
+    <question>hoja de afeitar</question>
+    <answer>лезвие (бриться)</answer>
+    <comment>f</comment>
+    <uuid>654d6b4a-b19a-4697-8817-cfb3c2a8e94d</uuid>
+  </card>
+  <card>
+    <question>magnetófono</question>
+    <answer>магнитофон</answer>
+    <comment>m</comment>
+    <uuid>491a2409-ec0f-4d43-9414-67bd8fa21db6</uuid>
+  </card>
+  <card>
+    <question>camiseta</question>
+    <answer>майка</answer>
+    <comment>f</comment>
+    <uuid>9319fdbd-4084-4400-814b-dff3dde87b99</uuid>
+  </card>
+  <card>
+    <question>jabón</question>
+    <answer>мыло</answer>
+    <comment>m</comment>
+    <uuid>469d0b5c-6b30-4d97-bb7b-e48dad54e235</uuid>
+  </card>
+  <card>
+    <question>hilos</question>
+    <answer>нитки</answer>
+    <comment>m, pl</comment>
+    <uuid>3a456731-86cc-4e7c-bbb7-a3bc3788e959</uuid>
+  </card>
+  <card>
+    <question>calcetines</question>
+    <answer>носки</answer>
+    <comment>m, pl</comment>
+    <uuid>3b78d16b-c585-43c8-8b99-51c008f8c32e</uuid>
+  </card>
+  <card>
+    <question>calzado</question>
+    <answer>обувь</answer>
+    <comment>m</comment>
+    <uuid>84e47049-2603-4f0e-9fc3-cf06f2dedf80</uuid>
+  </card>
+  <card>
+    <question>confecciones</question>
+    <answer>одежда, готовое платье</answer>
+    <comment>f, pl</comment>
+    <uuid>a2d39028-6ab5-48fc-beb9-37344e537863</uuid>
+  </card>
+  <card>
+    <question>gafas</question>
+    <answer>очки</answer>
+    <comment>f, pl</comment>
+    <uuid>4e5a3910-d662-4f1d-8732-5ceb2242f197</uuid>
+  </card>
+  <card>
+    <question>abrigo</question>
+    <answer>пальто</answer>
+    <comment>m</comment>
+    <uuid>0650652a-c91a-4d75-aa5b-c446c8a2389a</uuid>
+  </card>
+  <card>
+    <question>chaqueta</question>
+    <answer>пиджак</answer>
+    <comment>f</comment>
+    <uuid>6ad9fca2-0ad7-42ba-ab52-c3e522699566</uuid>
+  </card>
+  <card>
+    <question>impermeable</question>
+    <answer>плащ</answer>
+    <comment>m</comment>
+    <uuid>4b06145e-9635-4ef4-9187-1250e283b845</uuid>
+  </card>
+  <card>
+    <question>receptor</question>
+    <answer>приёмник</answer>
+    <comment>m</comment>
+    <uuid>e661ad48-f1ac-488f-befd-4fa6e076af0d</uuid>
+  </card>
+  <card>
+    <question>tocadiscos</question>
+    <answer>проигрыватель</answer>
+    <comment></comment>
+    <uuid>244c6add-daff-4341-ba76-8131c35368a5</uuid>
+  </card>
+  <card>
+    <question>polvos</question>
+    <answer>пудра</answer>
+    <comment>m, pl</comment>
+    <uuid>ee061533-b949-45cd-9c44-43652a72a132</uuid>
+  </card>
+  <card>
+    <question>pullóver</question>
+    <answer>пуловер</answer>
+    <comment>m</comment>
+    <uuid>2fd011fe-1072-4cd6-909f-9328fd4b7d95</uuid>
+  </card>
+  <card>
+    <question>camisa</question>
+    <answer>рубашка</answer>
+    <comment>f</comment>
+    <uuid>d6292ea6-9e83-4b0f-aded-85f7dac479e5</uuid>
+  </card>
+  <card>
+    <question>botas</question>
+    <answer>сапоги</answer>
+    <comment>f, pl</comment>
+    <uuid>ab9fe281-1a2c-48d1-a459-a55a3118bb9c</uuid>
+  </card>
+  <card>
+    <question>jersey</question>
+    <answer>свитер</answer>
+    <comment>m</comment>
+    <uuid>d0abb7dd-0ef8-476e-82d8-2b135326b28e</uuid>
+  </card>
+  <card>
+    <question>auriculares estereofónicos</question>
+    <answer>стереонаушники</answer>
+    <comment>m, pl</comment>
+    <uuid>79eb5455-ee26-4102-b5be-a2ffb3c9e16c</uuid>
+  </card>
+  <card>
+    <question>sombra</question>
+    <answer>тени для век</answer>
+    <comment>f</comment>
+    <uuid>bce81340-852f-416e-afff-6ad241f32979</uuid>
+  </card>
+  <card>
+    <question>artículos de punto</question>
+    <answer>трикотаж</answer>
+    <comment>m, pl</comment>
+    <uuid>517fcb7f-51d3-4d87-b18d-f2c121c40dd4</uuid>
+  </card>
+  <card>
+    <question>zapatos</question>
+    <answer>туфли</answer>
+    <comment>m, pl</comment>
+    <uuid>73d6d4cb-1b0e-4f8d-b382-a0ca68ea85db</uuid>
+  </card>
+  <card>
+    <question>rímmel</question>
+    <answer>тушь для ресниц</answer>
+    <comment></comment>
+    <uuid>9b207248-267d-4f5c-a4b3-d2569b961ed4</uuid>
+  </card>
+  <card>
+    <question>porcelana</question>
+    <answer>фарфор</answer>
+    <comment>f</comment>
+    <uuid>ab690778-daf3-46fe-a715-9dc8ec8796aa</uuid>
+  </card>
+  <card>
+    <question>rotulador</question>
+    <answer>фломастер</answer>
+    <comment>m</comment>
+    <uuid>3b9a0a55-3eb8-409d-bdd5-25a4409470bb</uuid>
+  </card>
+  <card>
+    <question>cámara fotográfica</question>
+    <answer>фотоаппарат</answer>
+    <comment>f</comment>
+    <uuid>57433fd3-630e-4c1c-9f1c-d7202d17ebc6</uuid>
+  </card>
+  <card>
+    <question>película fotográfica</question>
+    <answer>фотоплёнка</answer>
+    <comment>f</comment>
+    <uuid>513d9156-5c3b-44a0-b4ec-bbe3c8458bbe</uuid>
+  </card>
+  <card>
+    <question>cadenita</question>
+    <answer>цепочка</answer>
+    <comment>f</comment>
+    <uuid>f02a1aae-050d-4111-b450-22aa4b792fd9</uuid>
+  </card>
+  <card>
+    <question>taza</question>
+    <answer>чашка</answer>
+    <comment>f</comment>
+    <uuid>d53f9081-92f2-491b-bcab-eb4619f25276</uuid>
+  </card>
+  <card>
+    <question>talón</question>
+    <answer>талок, купон</answer>
+    <comment>m</comment>
+    <uuid>d233df2d-cd64-4e25-a535-68e9cdfc0a8e</uuid>
+  </card>
+  <card>
+    <question>maleta</question>
+    <answer>чемодан</answer>
+    <comment>f</comment>
+    <uuid>b38d121e-8669-4511-bac2-5a1a241d473b</uuid>
+  </card>
+  <card>
+    <question>chal</question>
+    <answer>шаль</answer>
+    <comment>m</comment>
+    <uuid>34afd567-7b4a-4ee6-8e84-c57d3af418b6</uuid>
+  </card>
+  <card>
+    <question>champú</question>
+    <answer>шампунь</answer>
+    <comment>m</comment>
+    <uuid>c19dd69b-a183-4b14-9d94-ef88d4d6a2b0</uuid>
+  </card>
+  <card>
+    <question>gorro de piel</question>
+    <answer>меховая шапка</answer>
+    <comment>m</comment>
+    <uuid>f660a1e4-2c54-4b64-a405-4ff03ff17be3</uuid>
+  </card>
+  <card>
+    <question>cofrecito</question>
+    <answer>шкатулка</answer>
+    <comment>m</comment>
+    <uuid>e3325da4-37a3-431d-a77b-3103af00544f</uuid>
+  </card>
+  <card>
+    <question>sombrero</question>
+    <answer>шляпа</answer>
+    <comment>m</comment>
+    <uuid>e17c625c-5981-4f37-8eff-15650f302900</uuid>
+  </card>
+  <card>
+    <question>abrigo de pieles</question>
+    <answer>шуба</answer>
+    <comment>m</comment>
+    <uuid>820ba826-e570-4dfb-9334-0bdcf7ee7998</uuid>
+  </card>
+  <card>
+    <question>falda</question>
+    <answer>юбка</answer>
+    <comment>f</comment>
+    <uuid>1f3c72e3-932b-4e57-b328-7abfcb1e92a1</uuid>
+  </card>
+  <card>
+    <question>joyería</question>
+    <answer>ювелирные изделия</answer>
+    <comment>f</comment>
+    <uuid>6039a3b5-7dd7-472d-8a31-429efd5ae3bb</uuid>
+  </card>
+</cards>
+</stack>

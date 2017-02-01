@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a952fdc1-dc8f-473c-a653-159b2b38bdf0</uuid>
+  <title>Общетематический</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>kleenex</question>
+    <answer>бумажный новосой платок</answer>
+    <comment>[ˈkliːneks]</comment>
+    <answer_picture>kleenex.gif</answer_picture>
+    <uuid>1d9b28d9-262b-48d1-bc2a-d20a8496e785</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>light feather</question>
+    <answer>лёгкое перо</answer>
+    <comment>[lаɪt ˈfeðə]</comment>
+    <answer_picture>light_feather.gif</answer_picture>
+    <uuid>343936c3-3930-425d-ac3f-02cd945e863b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>photo</question>
+    <answer>фото, фотография</answer>
+    <comment>[ˈfəʊtəʊ]</comment>
+    <answer_picture>photo.gif</answer_picture>
+    <uuid>316a2500-a5bf-4999-ad7d-7f5a3035f026</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>old</question>
+    <answer>старый</answer>
+    <comment>[əʊld]</comment>
+    <answer_picture>old.gif</answer_picture>
+    <uuid>dc5150ba-6e09-4268-948c-a6849a388d9c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>large</question>
+    <answer>большой (S. big)</answer>
+    <comment>[lɑːʤ]</comment>
+    <answer_picture>large.gif</answer_picture>
+    <uuid>8c488fd9-2e2b-4f87-9097-59e1dbc412f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>locked</question>
+    <answer>запертый, закрытый на замок</answer>
+    <comment>[lɒkt]</comment>
+    <answer_picture>locked.gif</answer_picture>
+    <uuid>fe5b7833-fdeb-43ee-b989-601180138834</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>listen</question>
+    <answer>слушать</answer>
+    <comment>[ˈlɪsn]</comment>
+    <answer_picture>listen.gif</answer_picture>
+    <uuid>74be6ccf-22e6-441f-bc6f-4a70ee71b3ca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>knob</question>
+    <answer>шарообразная ручка (двери)</answer>
+    <comment>[nɒb]</comment>
+    <answer_picture>knob.gif</answer_picture>
+    <uuid>b37b6b6a-2e38-44cd-b401-200d59e49ab7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>low</question>
+    <answer>низкий</answer>
+    <comment>[ləʊ]</comment>
+    <answer_picture>low.gif</answer_picture>
+    <uuid>cfb42465-038f-4afe-b091-e1cee5950690</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>makeup</question>
+    <answer>косметика</answer>
+    <comment>[ˈmeɪkʌp]</comment>
+    <answer_picture>makeup.gif</answer_picture>
+    <uuid>4355e629-cec8-4267-a412-81ddb1b077cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>candle</question>
+    <answer>свеча</answer>
+    <comment>[ˈkændl]</comment>
+    <answer_picture>candle.gif</answer_picture>
+    <uuid>b388dc9e-48be-40d2-9fd9-3531a38ec859</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cassette</question>
+    <answer>кассета</answer>
+    <comment>[kə&apos;set]</comment>
+    <answer_picture>cassette.gif</answer_picture>
+    <uuid>55e08c17-3066-4d8d-970b-9d963a9d6bd8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>chat</question>
+    <answer>болтать</answer>
+    <comment>[ʧæt]</comment>
+    <answer_picture>chat.gif</answer_picture>
+    <uuid>37a71453-24ee-4e73-8aa0-559fa1049342</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cigar</question>
+    <answer>сигара</answer>
+    <comment>[sɪˈgɑː]</comment>
+    <answer_picture>cigar.gif</answer_picture>
+    <uuid>c32aff7f-ebf8-43d8-ba1a-710fad0d69ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cigarette</question>
+    <answer>сигарета</answer>
+    <comment>[ˌsɪgəˈret]</comment>
+    <answer_picture>cigarette.gif</answer_picture>
+    <uuid>c29f304e-c89c-455f-9569-ad8729132a9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>clean</question>
+    <answer>чистый</answer>
+    <comment>[kliːn]</comment>
+    <answer_picture>clean.gif</answer_picture>
+    <uuid>f661bae2-e55f-4e88-aefa-0805eb6b546a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to close</question>
+    <answer>закрывать</answer>
+    <comment>[tə kləʊs]</comment>
+    <answer_picture>to_close.gif</answer_picture>
+    <uuid>0fde826e-ee3e-415b-80e2-b9ef12c81e17</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>clothespin</question>
+    <answer>прищепка</answer>
+    <comment>[ˈkləʊðzpɪn]</comment>
+    <answer_picture>clothespin.gif</answer_picture>
+    <uuid>c81c1f8f-fd35-422a-920c-485b9d4425e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>crutches</question>
+    <answer>костыли</answer>
+    <comment>[ˈkrʌʧɪz]</comment>
+    <answer_picture>crutches.gif</answer_picture>
+    <uuid>1cb4bd6b-712e-4715-bef9-d135e699b525</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dangerous</question>
+    <answer>опасный</answer>
+    <comment>[ˈdeɪnʤrəs]</comment>
+    <answer_picture>dangerous.gif</answer_picture>
+    <uuid>b3d030d0-0d8c-4886-8430-67f9e64c2b02</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dark</question>
+    <answer>тёмный</answer>
+    <comment>[dɑːk]</comment>
+    <answer_picture>dark.gif</answer_picture>
+    <uuid>f9770fe4-49e5-4e01-8350-944e8bd323bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>deep</question>
+    <answer>глубокий</answer>
+    <comment>[diːp]</comment>
+    <answer_picture>deep.gif</answer_picture>
+    <uuid>68a10f4d-01e7-4a8d-b8c5-f87b6fdd6634</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>diary</question>
+    <answer>дневник</answer>
+    <comment>[ˈdаɪərɪ]</comment>
+    <answer_picture>diary.gif</answer_picture>
+    <uuid>9196f7d5-94cb-45ac-bc5f-2fba817757e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>different</question>
+    <answer>другой</answer>
+    <comment>[ˈdɪfrənt]</comment>
+    <answer_picture>different.gif</answer_picture>
+    <uuid>2107410e-9776-44fe-b511-1c737cca9f4e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dirty</question>
+    <answer>грязный</answer>
+    <comment>[ˈdɜːtɪ]</comment>
+    <answer_picture>dirty.gif</answer_picture>
+    <uuid>8c7b97e9-96ad-4f9d-a921-2e29e14079ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>disagree</question>
+    <answer>не соглашаться</answer>
+    <comment>[ˌdɪsəˈgriː]</comment>
+    <answer_picture>disagree.gif</answer_picture>
+    <uuid>21ad57fc-9f67-4561-831e-3f532abbb815</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dry</question>
+    <answer>сухой</answer>
+    <comment>[drаɪ]</comment>
+    <answer_picture>dry.gif</answer_picture>
+    <uuid>e214c406-1cf8-4130-836a-8d91f64aa100</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>enter</question>
+    <answer>входить (S. come in)</answer>
+    <comment>[ˈentə]</comment>
+    <answer_picture>enter.gif</answer_picture>
+    <uuid>f8fa2486-6dca-4068-b375-1b11552f57f1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>exit</question>
+    <answer>выходить (S. come out, go out)</answer>
+    <comment>[ˈeksɪt]</comment>
+    <answer_picture>exit.gif</answer_picture>
+    <uuid>7ada3d7a-654b-43c1-ba15-9276a0db01d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fall</question>
+    <answer>падать</answer>
+    <comment>[fɔːl]</comment>
+    <answer_picture>fall.gif</answer_picture>
+    <uuid>0b86ab95-73e7-49b4-81a9-b2756a007a0f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>finish</question>
+    <answer>заканчивать</answer>
+    <comment>[ˈfɪnɪʃ]</comment>
+    <answer_picture>finish.gif</answer_picture>
+    <uuid>19a1f987-713c-4fcf-8262-83ad6415ec62</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fire</question>
+    <answer>огонь</answer>
+    <comment>[ˈfаɪə]</comment>
+    <answer_picture>fire.gif</answer_picture>
+    <uuid>61e7ede7-ce99-488e-acce-8038a3d02719</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>free</question>
+    <answer>свободный</answer>
+    <comment>[friː]</comment>
+    <answer_picture>free.gif</answer_picture>
+    <uuid>44dd2021-6f88-4665-86fb-04141d2da358</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>gift</question>
+    <answer>подарок</answer>
+    <comment>[gɪft]</comment>
+    <answer_picture>gift.gif</answer_picture>
+    <uuid>aaad8254-79bb-48d7-a197-226e9a939b13</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hear</question>
+    <answer>слышать</answer>
+    <comment>[hɪə]</comment>
+    <answer_picture>hear.gif</answer_picture>
+    <uuid>6b65b5f0-17a5-443d-b3b4-d7ebdcc75921</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>heavy</question>
+    <answer>тяжёлый</answer>
+    <comment>[ˈhevɪ]</comment>
+    <answer_picture>heavy.gif</answer_picture>
+    <uuid>aafe7448-3428-40d8-9783-ef87746283c5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>high</question>
+    <answer>высокий</answer>
+    <comment>[hаɪ]</comment>
+    <answer_picture>high.gif</answer_picture>
+    <uuid>f4c64450-bd3b-43dc-8e98-f1167635a3c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>identical</question>
+    <answer>одинаковые</answer>
+    <comment>[аɪˈdentɪkəl]</comment>
+    <answer_picture>identical.gif</answer_picture>
+    <uuid>454da843-d6d2-427a-878c-f681b0704c29</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>kind</question>
+    <answer>добрый, любезный</answer>
+    <comment>[kаɪnd]</comment>
+    <answer_picture>kind.gif</answer_picture>
+    <uuid>bc5cc241-24b6-4b5f-9dc9-a56ea6a4fd38</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>movie</question>
+    <answer>(кино)фильм (S. film)</answer>
+    <comment>[ˈmuːvɪ]</comment>
+    <answer_picture>movie.gif</answer_picture>
+    <uuid>15572ecd-e639-4b82-ad14-0e9249d24399</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lock</question>
+    <answer>зам&apos;ок (дверной)</answer>
+    <comment>[lɒk]</comment>
+    <answer_picture>lock.gif</answer_picture>
+    <uuid>52b4b1e4-ad62-4223-8c53-4dbc853a5d98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>men&apos;s washroom</question>
+    <answer>мужской туалет</answer>
+    <comment>[menz ˈwɒʃrʊm]</comment>
+    <answer_picture>mens_washroom.gif</answer_picture>
+    <uuid>23a0103f-0db0-4d97-a917-c0e39774fa10</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pipe</question>
+    <answer>трубка (курительная)</answer>
+    <comment>[pаɪp]</comment>
+    <answer_picture>pipe.gif</answer_picture>
+    <uuid>4960c96f-7023-4301-b9af-928c257d11ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shelf</question>
+    <answer>полка</answer>
+    <comment>[ʃelf]</comment>
+    <answer_picture>shelf.gif</answer_picture>
+    <uuid>c7226c93-40b4-4729-bd48-e4dd22bd5b25</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>refuse</question>
+    <answer>отказывать(ся)</answer>
+    <comment>[rɪˈfjuːz]</comment>
+    <answer_picture>refuse.gif</answer_picture>
+    <uuid>33fd34c1-ccbc-4e83-9a76-3c5627833c66</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>meet</question>
+    <answer>встречать(ся)</answer>
+    <comment>[miːt]</comment>
+    <answer_picture>meet.gif</answer_picture>
+    <uuid>6f89eb1a-75ee-450a-aa8b-1e3aa3ea7e20</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>medicines</question>
+    <answer>лекарства</answer>
+    <comment>[ˈmedsɪnz]</comment>
+    <answer_picture>medicines.gif</answer_picture>
+    <uuid>9ef9de22-abb9-4b41-8b76-3d20fe895f89</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>see</question>
+    <answer>видеть</answer>
+    <comment>[siː]</comment>
+    <answer_picture>see.gif</answer_picture>
+    <uuid>0a413b85-a3f8-4a29-9664-2669db9a6c7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>new</question>
+    <answer>новый</answer>
+    <comment>[njuː]</comment>
+    <answer_picture>new.gif</answer_picture>
+    <uuid>b822c75c-efe9-4b0b-af2b-d37c44fd627f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to part</question>
+    <answer>расставаться</answer>
+    <comment>[tə pɑːt]</comment>
+    <answer_picture>to_part.gif</answer_picture>
+    <uuid>fe48d5b2-1509-4248-b753-95d8788ca5da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>narrow</question>
+    <answer>узкий</answer>
+    <comment>[ˈnærəʊ]</comment>
+    <answer_picture>narrow.gif</answer_picture>
+    <uuid>2e03c34f-46cb-4082-bddc-d74e136789a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to open</question>
+    <answer>открывать</answer>
+    <comment>[tʊ ˈəʊpən]</comment>
+    <answer_picture>to_open.gif</answer_picture>
+    <uuid>6eb54258-3dba-4a56-a21b-8452ccef72f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>busy</question>
+    <answer>занятой</answer>
+    <comment>[ˈbɪzɪ]</comment>
+    <answer_picture>busy.gif</answer_picture>
+    <uuid>57d01fe5-e04d-4a9e-af2a-e118ba75fe12</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>similar</question>
+    <answer>похожий, подобный</answer>
+    <comment>[ˈsɪmɪlə]</comment>
+    <answer_picture>similar.gif</answer_picture>
+    <uuid>cb643c2c-2494-4858-a64e-63556302c1cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>queue</question>
+    <answer>очередь</answer>
+    <comment>[kjuː]</comment>
+    <answer_picture>queue.gif</answer_picture>
+    <uuid>08048e78-1ffc-4006-977c-6971442d0c40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>safetypin</question>
+    <answer>английская булавка</answer>
+    <comment>[ˈseɪftɪpɪn]</comment>
+    <answer_picture>safetypin.gif</answer_picture>
+    <uuid>4ed7ff65-cdf7-4e94-81dd-27d2d1fe4217</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>relax</question>
+    <answer>расслабляться, отдыхать</answer>
+    <comment>[rɪˈlæks]</comment>
+    <answer_picture>relax.gif</answer_picture>
+    <uuid>28f13ec1-4ca7-4df4-b7a2-441ca8ea135b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tent</question>
+    <answer>палатка</answer>
+    <comment>[tent]</comment>
+    <answer_picture>tent.gif</answer_picture>
+    <uuid>6e126e0e-c946-418d-982c-b632212a5775</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rush</question>
+    <answer>мчаться, нестись</answer>
+    <comment>[rʌʃ]</comment>
+    <answer_picture>rush.gif</answer_picture>
+    <uuid>8fe0b5a7-0919-427d-82c9-64647ea69911</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shallow</question>
+    <answer>мелкий, неглубокий</answer>
+    <comment>[ˈʃæləʊ]</comment>
+    <answer_picture>shallow.gif</answer_picture>
+    <uuid>bb822782-76a2-47eb-b69e-f391f1f1fc70</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>small</question>
+    <answer>маленький, небольшой</answer>
+    <comment>[smɔːl]</comment>
+    <answer_picture>small.gif</answer_picture>
+    <uuid>986b7e75-ebb5-4feb-980f-b6f1a726202a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>unlocked</question>
+    <answer>незапертый, незакрытый на замок</answer>
+    <comment>[ˈʌnˈlɒkt]</comment>
+    <answer_picture>unlocked.gif</answer_picture>
+    <uuid>b4c123fc-5e9d-4c04-a32c-8d12c8a4943b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>start</question>
+    <answer>начинать</answer>
+    <comment>[stɑːt]</comment>
+    <answer_picture>start.gif</answer_picture>
+    <uuid>94fe9056-6e57-4ccd-8982-28f60f1e3e03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>think</question>
+    <answer>думать</answer>
+    <comment>[θɪŋk]</comment>
+    <answer_picture>think.gif</answer_picture>
+    <uuid>088e33a1-fefc-4ca0-9738-0852bff14f95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tablets</question>
+    <answer>таблетки</answer>
+    <comment>[ˈtæblɪts]</comment>
+    <answer_picture>tablets.gif</answer_picture>
+    <uuid>9302583c-2316-4cda-b789-41d9468d97f6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sleeping bag</question>
+    <answer>спальный мешок</answer>
+    <comment>[ˈsliːpɪŋ bæg]</comment>
+    <answer_picture>sleeping_bag.gif</answer_picture>
+    <uuid>fc187e3d-8680-4627-88a5-c0c94ba356bf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sleep</question>
+    <answer>спать</answer>
+    <comment>[sliːp]</comment>
+    <answer_picture>sleep.gif</answer_picture>
+    <uuid>dc10d53d-9582-45b6-8fe4-a818a44de9e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wet</question>
+    <answer>мокрый</answer>
+    <comment>[wet]</comment>
+    <answer_picture>wet.gif</answer_picture>
+    <uuid>a4f3f4f5-ab87-43ca-947c-599223ab7b06</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tidy</question>
+    <answer>опрятный, аккуратный</answer>
+    <comment>[ˈtаɪdɪ]</comment>
+    <answer_picture>tidy.gif</answer_picture>
+    <uuid>b837ff5f-a712-4467-bc8e-b7abc6a0456b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wake up</question>
+    <answer>просыпаться</answer>
+    <comment>[weɪk ʌp]</comment>
+    <answer_picture>wake_up.gif</answer_picture>
+    <uuid>ed8dcc74-85cf-4f8e-b05e-8a8876a8b51c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sweep</question>
+    <answer>подметать</answer>
+    <comment>[swiːp]</comment>
+    <answer_picture>sweep.gif</answer_picture>
+    <uuid>04fc1990-9020-48ff-9b77-d120da2c7af8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>talk</question>
+    <answer>говорить (S. speak)</answer>
+    <comment>[tɔːk]</comment>
+    <answer_picture>talk.gif</answer_picture>
+    <uuid>1b8cd104-f720-48c2-a205-3f319a984cee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bright</question>
+    <answer>яркий</answer>
+    <comment>[brаɪt]</comment>
+    <answer_picture>bright.gif</answer_picture>
+    <uuid>7ebe3edb-c170-489f-9266-7326ae322746</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>torch</question>
+    <answer>факел</answer>
+    <comment>[tɔːʧ]</comment>
+    <answer_picture>torch.gif</answer_picture>
+    <uuid>5f8d5fc7-19eb-4794-b2cb-50882857aacf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>briefcase</question>
+    <answer>портфель</answer>
+    <comment>[ˈbriːfkeɪs]</comment>
+    <answer_picture>briefcase.gif</answer_picture>
+    <uuid>cc261c28-e4a7-40dc-9c90-fd305caa6574</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>unkind</question>
+    <answer>злой, недобрый</answer>
+    <comment>[ʌnˈkаɪnd]</comment>
+    <answer_picture>unkind.gif</answer_picture>
+    <uuid>9f04b2fa-6e0d-4f78-af4a-27de021a5481</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>toilet</question>
+    <answer>унитаз</answer>
+    <comment>[ˈtɔɪlɪt]</comment>
+    <answer_picture>toilet.gif</answer_picture>
+    <uuid>cc3dce18-e539-45c4-8dbf-da97d3d21689</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>untidy</question>
+    <answer>неопрятный, неаккуратный</answer>
+    <comment>[ʌnˈtаɪdɪ]</comment>
+    <answer_picture>untidy.gif</answer_picture>
+    <uuid>087526e8-c6eb-49ce-8ed4-7e62932e6159</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>understand</question>
+    <answer>понимать</answer>
+    <comment>[ˌʌndəˈstænd]</comment>
+    <answer_picture>understand.gif</answer_picture>
+    <uuid>849d3ffa-aafe-425b-8836-fcdfd3a24392</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bottle</question>
+    <answer>бутылка</answer>
+    <comment>[ˈbɒtl]</comment>
+    <answer_picture>bottle.gif</answer_picture>
+    <uuid>010d0574-6f43-4955-a46d-8812ddda729f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bookbag</question>
+    <answer>ранец, школьная сумка</answer>
+    <comment>[bʊk bæg]</comment>
+    <answer_picture>bookbag.gif</answer_picture>
+    <uuid>4f2a7df7-26ed-44c8-b8dd-6ad4603ee14d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>work</question>
+    <answer>работать</answer>
+    <comment>[wɜːk]</comment>
+    <answer_picture>work.gif</answer_picture>
+    <uuid>95f9085c-0caf-46b9-b5ff-c40c99c5a5dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to watch</question>
+    <answer>наблюдать, смотреть</answer>
+    <comment>[tə wɒʧ]</comment>
+    <answer_picture>to_watch.gif</answer_picture>
+    <uuid>045f4e20-67bb-451b-bb98-164ae2c60c8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Walkman</question>
+    <answer>аудиоплеер</answer>
+    <comment>[&apos;wɔːkmən]</comment>
+    <answer_picture>walkman.gif</answer_picture>
+    <uuid>54870600-8cf0-4c49-a819-50dfd8521355</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wide</question>
+    <answer>широкий</answer>
+    <comment>[wаɪd]</comment>
+    <answer_picture>wide.gif</answer_picture>
+    <uuid>b008384e-e1d7-4e4b-994b-0dd992d5401b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>women&apos;s washroom</question>
+    <answer>женский туалет</answer>
+    <comment>[ˈwɪmɪnz ˈwɒʃrʊm]</comment>
+    <answer_picture>womens_washroom.gif</answer_picture>
+    <uuid>84172a7b-81d7-461d-aeb6-70a3760bc72d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wheelchair</question>
+    <answer>инвалидное кресло</answer>
+    <comment>[ˈwiːlˈʧeə]</comment>
+    <answer_picture>wheelchair.gif</answer_picture>
+    <uuid>875a81fa-7c31-4ebb-9fbf-e4e380445ca8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>agree</question>
+    <answer>соглашаться</answer>
+    <comment>[əˈgriː]</comment>
+    <answer_picture>agree.gif</answer_picture>
+    <uuid>a0f1caef-ba1d-4077-bb12-133e289d814d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bandage</question>
+    <answer>бинт</answer>
+    <comment>[ˈbændɪʤ]</comment>
+    <answer_picture>bandage.gif</answer_picture>
+    <uuid>1e7bfd1d-62ab-4d1e-9231-637d5b0db644</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>box</question>
+    <answer>коробка</answer>
+    <comment>[bɒks]</comment>
+    <answer_picture>box.gif</answer_picture>
+    <uuid>87cdc2aa-c1d8-4e3a-8090-9641c80e69da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>camera</question>
+    <answer>фотоаппарат</answer>
+    <comment>[ˈkæmərə]</comment>
+    <answer_picture>camera.gif</answer_picture>
+    <uuid>8af275b1-6db2-417e-8608-b1b6cfa6499e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>calendar</question>
+    <answer>календарь</answer>
+    <comment>[ˈkælɪndə]</comment>
+    <answer_picture>calendar.gif</answer_picture>
+    <uuid>ee85c13e-9808-483f-b7ea-74eea3fbcac4</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f743c080-dcd6-40a3-8415-bfe76212e4c1</uuid>
+  <title>Телефон</title>
+  <author>Алексей Ермаков, Алексй Винидиктов</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Münztelefon</question>
+    <answer>телефон-автомат</answer>
+    <comment></comment>
+    <uuid>0881bb29-dae6-42c7-8cd0-031bdbbc3111</uuid>
+  </card>
+  <card>
+    <question>das Telefon</question>
+    <answer>телефон</answer>
+    <comment></comment>
+    <uuid>b58bf177-0cc8-47f2-985f-1a319d1236d9</uuid>
+  </card>
+  <card>
+    <question>der Apparat</question>
+    <answer>аппарат</answer>
+    <comment></comment>
+    <uuid>695d9079-006a-4a84-94fc-d3687e2276a6</uuid>
+  </card>
+  <card>
+    <question>der Hörer</question>
+    <answer>трубка</answer>
+    <comment></comment>
+    <uuid>bcc92541-ce5e-40ca-a001-91a6337d2bfb</uuid>
+  </card>
+  <card>
+    <question>die Telefonkarte</question>
+    <answer>телефонная карта</answer>
+    <comment></comment>
+    <uuid>2fd47575-5651-42fc-b7ca-9c9c95db723e</uuid>
+  </card>
+  <card>
+    <question>die Telefonnummer</question>
+    <answer>номер телефона</answer>
+    <comment></comment>
+    <uuid>c4731c3c-e264-41ef-8f03-d873e316123e</uuid>
+  </card>
+  <card>
+    <question>die Telefonzelle</question>
+    <answer>телефонная будка</answer>
+    <comment></comment>
+    <uuid>95f1a1e8-70c6-4b36-a4b9-517a4f4ca8fe</uuid>
+  </card>
+  <card>
+    <question>die Telefonistin</question>
+    <answer>телефонистка</answer>
+    <comment></comment>
+    <uuid>e1a49c82-d559-468f-a2da-a117ed35d242</uuid>
+  </card>
+  <card>
+    <question>die Vorwahl</question>
+    <answer>код (города, страны)</answer>
+    <comment></comment>
+    <uuid>ecba67c4-c9b5-41c0-b55d-d8c97dcfbc3d</uuid>
+  </card>
+  <card>
+    <question>Ich möchte meine Frau anrufen.</question>
+    <answer>Я хотел бы позвонить своей жене.</answer>
+    <comment></comment>
+    <uuid>d0f2cfd0-7ce3-443f-b72e-661d612a4d8a</uuid>
+  </card>
+  <card>
+    <question>telefonieren</question>
+    <answer>звонить по телефону, разговаривать по телефону</answer>
+    <comment></comment>
+    <uuid>7564064e-cd43-40c7-af2e-8ecf931d05a0</uuid>
+  </card>
+  <card>
+    <question>Wie ist die Vorwahl von München?</question>
+    <answer>Какой код в Мюнхене?</answer>
+    <comment></comment>
+    <uuid>8fbf5736-9506-41bd-b13b-48d8857bbefa</uuid>
+  </card>
+  <card>
+    <question>wählen</question>
+    <answer>набирать (номер)</answer>
+    <comment></comment>
+    <uuid>a091f907-4081-4b3a-a0df-5df55c52a722</uuid>
+  </card>
+  <card>
+    <question>die Fernsprechzentrale</question>
+    <answer>телефонная станция</answer>
+    <comment></comment>
+    <uuid>919aedec-79e0-4f7a-98da-38db4400ad71</uuid>
+  </card>
+  <card>
+    <question>das Telefongespräch</question>
+    <answer>телефонный разговор</answer>
+    <comment></comment>
+    <uuid>aa9e2918-3331-4d38-900d-bc1d1fd6d585</uuid>
+  </card>
+  <card>
+    <question>eine Nummer wählen</question>
+    <answer>набрать номер</answer>
+    <comment></comment>
+    <uuid>4aade0e7-665b-4cea-8efb-d4d4d99b8118</uuid>
+  </card>
+  <card>
+    <question>das Ferngespräch</question>
+    <answer>междугородный разговор</answer>
+    <comment></comment>
+    <uuid>c03641d1-401b-485b-b4ea-b4a89c639c1c</uuid>
+  </card>
+  <card>
+    <question>das Fernamt</question>
+    <answer>междугородная телефонная станция</answer>
+    <comment></comment>
+    <uuid>2ef594d6-9439-4117-ab26-fc19c2e01d68</uuid>
+  </card>
+  <card>
+    <question>das Amt</question>
+    <answer>телефонная станция</answer>
+    <comment></comment>
+    <uuid>4f6a3dd0-ea13-4335-abd9-31594b13410f</uuid>
+  </card>
+</cards>
+</stack>

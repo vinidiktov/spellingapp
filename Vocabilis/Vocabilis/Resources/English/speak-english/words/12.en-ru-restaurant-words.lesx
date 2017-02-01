@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>caaafca1-1943-4ea5-b67b-2dc6ca14f085</uuid>
+  <title>В ресторане :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>reserved</question>
+    <answer>зарезервированный</answer>
+    <comment>[rɪˈzɜːrvd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ca8ca3f-2ab0-4d79-997f-d69fd58fa429</uuid>
+    <examples>
+       <example>
+          <value>a reserved table</value>
+          <translation>зарезервированный стол</translation>
+          <comment>reserved - зарезервированный, table - столик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thirsty</question>
+    <answer>желающий пить</answer>
+    <comment>[ˈθɜːrstiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31922d3e-c7d7-4bc5-ab51-246cd7e18d27</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m thirsty.</value>
+          <translation>Я хочу пить.</translation>
+          <comment>thirsty - желающий пить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>feel</question>
+    <answer>чувствовать</answer>
+    <comment>[fiːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3215517d-8ab2-4ad9-bf87-fd8ef47484f3</uuid>
+    <examples>
+       <example>
+          <value>to feel like eating something</value>
+          <translation>хотеть съесть что-нибудь</translation>
+          <comment>to feel like - хотеть, something - что-нибудь, to eat - есть, кушать</comment>
+       </example>
+       <example>
+          <value>to feel better</value>
+          <translation>чувствовать себя лучше</translation>
+          <comment>to feel - чувствовать, better - лучше</comment>
+       </example>
+       <example>
+          <value>to feel nauseous</value>
+          <translation>чувствовать тошноту</translation>
+          <comment>to feel - чувствовать, nauseous - тошнотворный, отвратительный</comment>
+       </example>
+       <example>
+          <value>to feel sick</value>
+          <translation>чувствовать себя нездоровым</translation>
+          <comment>to feel - чувствовать, sick - нездоровый</comment>
+       </example>
+       <example>
+          <value>to feel well</value>
+          <translation>чувствовать себя хорошо</translation>
+          <comment>to feel - чувствовать, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to feel worse</value>
+          <translation>чувствовать себя хуже</translation>
+          <comment>to feel - чувствовать, worse - хуже</comment>
+       </example>
+       <example>
+          <value>to feel like dancing</value>
+          <translation>хотеть потанцевать</translation>
+          <comment>to feel like - хотеть, to dance - танцевать, dancing - танцы</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tea</question>
+    <answer>чай</answer>
+    <comment>[tiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee2a5650-10fe-4bae-933d-d3a9cbad8d82</uuid>
+    <examples>
+       <example>
+          <value>to prefer a cup of tea</value>
+          <translation>предпочесть чашку чая</translation>
+          <comment>to prefer - предпочитать, cup - чашка, tea - чай</comment>
+       </example>
+       <example>
+          <value>to bring some tea</value>
+          <translation>принести чай</translation>
+          <comment>to bring - принести, some - некоторое количество, tea - чай</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pot</question>
+    <answer>горшок</answer>
+    <comment>[pɑːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4407113d-c059-4efd-89fe-3ebb1854160e</uuid>
+    <examples>
+       <example>
+          <value>to serve coffee in a coffee pot</value>
+          <translation>подавать кофе в кофейнике</translation>
+          <comment>to serve - подавать на стол, сервировать, coffee - кофе, coffee pot - кофейник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>prefer</question>
+    <answer>предпочитать</answer>
+    <comment>[prɪˈfɜːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1eccd2ce-a6e6-40ba-9121-7917219e97dc</uuid>
+    <examples>
+       <example>
+          <value>to prefer a cup of tea</value>
+          <translation>предпочесть чашку чая</translation>
+          <comment>to prefer - предпочитать, cup - чашка, tea - чай</comment>
+       </example>
+       <example>
+          <value>to prefer to sit</value>
+          <translation>предпочитать сидеть</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть</comment>
+       </example>
+       <example>
+          <value>to prefer sitting down</value>
+          <translation>предпочитать сидеть в партере</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, down - вниз, внизу</comment>
+       </example>
+       <example>
+          <value>to prefer sitting upstairs</value>
+          <translation>предпочитать сидеть на балконе</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, upstairs - наверху</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>juice</question>
+    <answer>сок</answer>
+    <comment>[ʤuːs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>275f8d88-9aea-437a-b8c1-8eb37a426c91</uuid>
+    <examples>
+       <example>
+          <value>to take this orange juice</value>
+          <translation>взять этот апельсиновый сок</translation>
+          <comment>to take - брать, orange - апельсин, juice - сок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>appetite</question>
+    <answer>аппетит</answer>
+    <comment>[ˈæpɪˌtаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ed66d54e-eef9-4a23-aaf6-9bffba14d975</uuid>
+    <examples>
+       <example>
+          <value>to have no appetite</value>
+          <translation>не иметь аппетита</translation>
+          <comment>to have - иметь, appetite - аппетит</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>decanter</question>
+    <answer>графин</answer>
+    <comment>[dɪˈkæntər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>04dc407b-f78d-4507-b389-bef7e396fad5</uuid>
+    <examples>
+       <example>
+          <value>a decanter of water</value>
+          <translation>графин воды</translation>
+          <comment>decanter - графин, water - вода</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>table</question>
+    <answer>стол</answer>
+    <comment>[ˈteɪbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9764e25-452f-4df4-8250-187c7f38eaf5</uuid>
+    <examples>
+       <example>
+          <value>a table at a window</value>
+          <translation>столик у окна</translation>
+          <comment>table - стол, window - окно</comment>
+       </example>
+       <example>
+          <value>a table for three</value>
+          <translation>столик на троих</translation>
+          <comment>table - стол, three - три</comment>
+       </example>
+       <example>
+          <value>a table in a corner</value>
+          <translation>столик в углу</translation>
+          <comment>table - стол, corner - угол</comment>
+       </example>
+       <example>
+          <value>a table outdoors</value>
+          <translation>столик на улице</translation>
+          <comment>table - стол, outdoors - на улице</comment>
+       </example>
+       <example>
+          <value>to need a table for four</value>
+          <translation>нуждаться в столике на четверых</translation>
+          <comment>to need - нуждаться, table - стол, four - четыре</comment>
+       </example>
+       <example>
+          <value>a reserved table</value>
+          <translation>зарезервированный стол</translation>
+          <comment>reserved - зарезервированный, table - столик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dish</question>
+    <answer>блюдо</answer>
+    <comment>[dɪʃ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dc287414-6df5-4889-bc2d-07c1effb7170</uuid>
+    <examples>
+       <example>
+          <value>to wait for the hot dish</value>
+          <translation>ждать горячее</translation>
+          <comment>to wait - ждать, hot - горячий, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>vegetarian dishes</value>
+          <translation>вегетарианские блюда</translation>
+          <comment>vegetarian - вегетарианский, dish - блюдо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>corner</question>
+    <answer>угол</answer>
+    <comment>[ˈkɔːrnər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0bae78e8-875a-4081-af48-08ccb572b685</uuid>
+    <examples>
+       <example>
+          <value>a table in a corner</value>
+          <translation>столик в углу</translation>
+          <comment>table - стол, corner - угол</comment>
+       </example>
+       <example>
+          <value>at the next corner</value>
+          <translation>возле следующего угла</translation>
+          <comment>next - следующий, corner - угол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chair</question>
+    <answer>стул</answer>
+    <comment>[ʧer]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97430867-b55d-4796-8c64-45b04f433bfc</uuid>
+    <examples>
+       <example>
+          <value>to bring one more chair</value>
+          <translation>принести еще один стул</translation>
+          <comment>to bring - принести, one more - еще один, chair - стул</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>milk</question>
+    <answer>молоко</answer>
+    <comment>[mɪlk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>447b1a3b-62d4-4b70-8cba-a937402451cb</uuid>
+    <examples>
+       <example>
+          <value>coffee with milk</value>
+          <translation>кофе с молоком</translation>
+          <comment>coffee - кофе, milk - молоко</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>menu</question>
+    <answer>меню</answer>
+    <comment>[ˈmenjuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>db393117-8091-418e-8d24-f0b4c15d2289</uuid>
+    <examples>
+       <example>
+          <value>a menu in Russian</value>
+          <translation>меню на русском языке</translation>
+          <comment>menu - меню, Russian - русский</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bite</question>
+    <answer>кусок</answer>
+    <comment>[bаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>877d97b7-1813-400e-a14f-429d1c10e1f5</uuid>
+    <examples>
+       <example>
+          <value>to have a bite</value>
+          <translation>перекусить</translation>
+          <comment>to have - иметь, bite - кусок</comment>
+       </example>
+       <example>
+          <value>insect bites</value>
+          <translation>укусы насекомых</translation>
+          <comment>insect - насекомое, bite - укус</comment>
+       </example>
+       <example>
+          <value>something for insect bites</value>
+          <translation>что-нибудь от укусов насекомых</translation>
+          <comment>something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>beer</question>
+    <answer>пиво</answer>
+    <comment>[bɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>07ae8fbf-61cb-49fb-831d-83e40d119dae</uuid>
+    <examples>
+       <example>
+          <value>a glass of beer</value>
+          <translation>бокал (стакан) пива</translation>
+          <comment>glass - стакан, beer - пиво</comment>
+       </example>
+       <example>
+          <value>to have a glass of beer</value>
+          <translation>попить пива</translation>
+          <comment>to have - иметь, glass - бокал, beer - пиво</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>window</question>
+    <answer>окно</answer>
+    <comment>[ˈwɪndoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5536e392-b076-4e52-bc74-28bbc4d37929</uuid>
+    <examples>
+       <example>
+          <value>a table at a window</value>
+          <translation>столик у окна</translation>
+          <comment>table - стол, window - окно</comment>
+       </example>
+       <example>
+          <value>a ticket window</value>
+          <translation>билетная касса</translation>
+          <comment>ticket - билет, window - окно</comment>
+       </example>
+       <example>
+          <value>to close the window</value>
+          <translation>закрыть окно</translation>
+          <comment>to close - закрыть, window - окно</comment>
+       </example>
+       <example>
+          <value>to open the window</value>
+          <translation>открыть окно</translation>
+          <comment>to open - открыть, window - окно</comment>
+       </example>
+       <example>
+          <value>a broken window</value>
+          <translation>разбитое окно</translation>
+          <comment>broken - сломанный, to break - ломать, window - окно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>setting</question>
+    <answer>прибор (столовый)</answer>
+    <comment>[ˈsetɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9336c167-6581-42ed-8418-d59db29495e9</uuid>
+    <examples>
+       <example>
+          <value>to bring one more setting</value>
+          <translation>принести еще один прибор</translation>
+          <comment>to bring - принести, one more - еще один, setting - прибор (столовый)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>black</question>
+    <answer>черный</answer>
+    <comment>[blæk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f8c42fcc-388e-45cd-93f7-95a05ed7cf60</uuid>
+    <examples>
+       <example>
+          <value>to want black coffee</value>
+          <translation>хотеть черный кофе</translation>
+          <comment>to want - хотеть, black - черный, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to show that black belt</value>
+          <translation>показать тот черный пояс</translation>
+          <comment>to show - показать, that - тот, та, black - черный, belt - пояс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dessert</question>
+    <answer>десерт</answer>
+    <comment>[dɪˈzɜːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>675d66af-7409-4473-af33-666dd0d7a285</uuid>
+    <examples>
+       <example>
+          <value>to want for dessert</value>
+          <translation>хотеть на десерт</translation>
+          <comment>to want - хотеть, dessert - десерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>taken</question>
+    <answer>занятый</answer>
+    <comment>[ˈteɪkən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd54dc33-b569-4872-90b4-736665d96b04</uuid>
+    <examples>
+       <example>
+          <value>a taken seat</value>
+          <translation>занятое место</translation>
+          <comment>taken - занятый, seat - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>knife</question>
+    <answer>нож</answer>
+    <comment>[nаɪf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>970e20d8-3d56-4cfd-8df4-6004b96698e8</uuid>
+    <examples>
+       <example>
+          <value>to need a knife</value>
+          <translation>нуждаться в ноже</translation>
+          <comment>to need - нуждаться в, knife - нож</comment>
+       </example>
+       <example>
+          <value>to bring a knife</value>
+          <translation>принести нож</translation>
+          <comment>to bring - принести, knife - нож</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fork</question>
+    <answer>вилка</answer>
+    <comment>[fɔːrk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e55ef92-9532-47ea-b9b0-4dde11bb61cf</uuid>
+    <examples>
+       <example>
+          <value>to need a fork</value>
+          <translation>нуждаться в вилке</translation>
+          <comment>to need - нуждаться в, fork - вилка</comment>
+       </example>
+       <example>
+          <value>to bring a fork</value>
+          <translation>принести вилку</translation>
+          <comment>to bring - принести, fork - вилка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>eating</question>
+    <answer>еда, прием пищи</answer>
+    <comment>[ˈiːtɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>85d596d3-06d4-412d-812c-60a7d0f4ab48</uuid>
+    <examples>
+       <example>
+          <value>to feel like eating something</value>
+          <translation>хотеть съесть что-нибудь</translation>
+          <comment>to feel like - хотеть, something - что-нибудь, to eat - есть, кушать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bacon</question>
+    <answer>бекон</answer>
+    <comment>[ˈbeɪkən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6d3d1624-7807-4c93-893a-386d0a081256</uuid>
+    <examples>
+       <example>
+          <value>an omelet with bacon</value>
+          <translation>омлет с беконом</translation>
+          <comment>omelet - омлет, bacon - бекон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gas</question>
+    <answer>газ</answer>
+    <comment>[gæs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3a57da92-0993-44cc-975d-0b66c3f7b4c1</uuid>
+    <examples>
+       <example>
+          <value>mineral water without gas</value>
+          <translation>минеральная вода без газа</translation>
+          <comment>mineral - минеральный, water - вода, without - без, gas - газ</comment>
+       </example>
+       <example>
+          <value>without gas</value>
+          <translation>без газа</translation>
+          <comment>without - без, gas - газ</comment>
+       </example>
+       <example>
+          <value>enough gas</value>
+          <translation>достаточно бензина</translation>
+          <comment>enough - достаточно, gas - бензин</comment>
+       </example>
+       <example>
+          <value>a gas pump</value>
+          <translation>бензоколонка</translation>
+          <comment>gas - бензин, pump - насос</comment>
+       </example>
+       <example>
+          <value>the nearest gas pump</value>
+          <translation>ближайшая бензоколонка</translation>
+          <comment>the nearest - ближайший, near - рядом с, gas - бензин, pump - насос</comment>
+       </example>
+       <example>
+          <value>to have enough gas</value>
+          <translation>иметь достаточно бензина</translation>
+          <comment>to have - иметь, enough - достаточно, gas - бензин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>specialty</question>
+    <answer>особенность</answer>
+    <comment>[ˈspeʃəltiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>01d020cd-4b8b-41a0-ad10-34df54d6b7bb</uuid>
+    <examples>
+       <example>
+          <value>the house specialty</value>
+          <translation>фирменное блюдо</translation>
+          <comment>house - дом, specialty - особенность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chocolate</question>
+    <answer>шоколад</answer>
+    <comment>[ˈʧɔːkəlɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7cfa1922-4106-40de-a4fe-0f58063725a4</uuid>
+    <examples>
+       <example>
+          <value>a cup of hot chocolate</value>
+          <translation>чашка горячего шоколада</translation>
+          <comment>cup - чашка, hot - горячий, chocolate - шоколад</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>orange</question>
+    <answer>апельсин</answer>
+    <comment>[ˈɔːrɪnʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2e0e9b70-1472-4a94-b191-df3629281071</uuid>
+    <examples>
+       <example>
+          <value>to take this orange juice</value>
+          <translation>взять этот апельсиновый сок</translation>
+          <comment>to take - брать, orange - апельсин, juice - сок</comment>
+       </example>
+       <example>
+          <value>these oranges</value>
+          <translation>эти апельсины</translation>
+          <comment>these - эти, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>sweet oranges</value>
+          <translation>сладкие апельсины</translation>
+          <comment>sweet - сладкий, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>fresh oranges</value>
+          <translation>сочные апельсины</translation>
+          <comment>fresh - свежий, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>to take three oranges</value>
+          <translation>взять три апельсина</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>spoon</question>
+    <answer>ложка</answer>
+    <comment>[spuːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d82b90f9-f3b3-42f5-84c9-41fe9cf80366</uuid>
+    <examples>
+       <example>
+          <value>to bring a spoon</value>
+          <translation>принести ложку</translation>
+          <comment>to bring - принести, spoon - ложка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>omelet</question>
+    <answer>омлет</answer>
+    <comment>[ˈɑːməlɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1ef45038-f912-4576-a25e-739d3ed9b1c9</uuid>
+    <examples>
+       <example>
+          <value>to take an omelet</value>
+          <translation>взять омлет</translation>
+          <comment>to take - брать, omelet - омлет</comment>
+       </example>
+       <example>
+          <value>an omelet with bacon</value>
+          <translation>омлет с беконом</translation>
+          <comment>omelet - омлет, bacon - бекон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>choice</question>
+    <answer>выбор</answer>
+    <comment>[ʧɔɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>493c0f2f-2de7-48b7-a270-49ccd3c99f54</uuid>
+    <examples>
+       <example>
+          <value>to make your choice</value>
+          <translation>сделать свой (=твой) выбор</translation>
+          <comment>to make - делать, choice - выбор</comment>
+       </example>
+       <example>
+          <value>a very poor choice</value>
+          <translation>очень маленький выбор</translation>
+          <comment>very - очень, poor - слабый, плохой, choice - выбор</comment>
+       </example>
+       <example>
+          <value>to your choice</value>
+          <translation>на ваш выбор</translation>
+          <comment>your - твой, ваш, choice - выбор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>eat</question>
+    <answer>есть</answer>
+    <comment>[iːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>39faba73-b774-4ca5-b5ae-0938f6d82cb5</uuid>
+    <examples>
+       <example>
+          <value>to want to eat</value>
+          <translation>хотеть съесть</translation>
+          <comment>to want - хотеть, to eat - есть, кушать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mineral</question>
+    <answer>минеральный</answer>
+    <comment>[ˈmɪnərəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc22eb71-41a3-4c02-8547-056b8d3c35d7</uuid>
+    <examples>
+       <example>
+          <value>a bottle of mineral water</value>
+          <translation>бутылка минеральной воды</translation>
+          <comment>bottle - бутылка, mineral - минеральный, water - вода</comment>
+       </example>
+       <example>
+          <value>mineral water</value>
+          <translation>минеральная вода</translation>
+          <comment>mineral - минеральный, water - вода</comment>
+       </example>
+       <example>
+          <value>mineral water without gas</value>
+          <translation>минеральная вода без газа</translation>
+          <comment>mineral - минеральный, water - вода, without - без, gas - газ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>vegetarian</question>
+    <answer>вегетарианский</answer>
+    <comment>[ˌveʤɪˈterɪən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>40ad7b0b-9803-40b4-8287-100e5740fc34</uuid>
+    <examples>
+       <example>
+          <value>vegetarian dishes</value>
+          <translation>вегетарианские блюда</translation>
+          <comment>vegetarian - вегетарианский, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>a vegetarian pizza</value>
+          <translation>вегетарианская пицца</translation>
+          <comment>vegetarian - вегетарианский, pizza - пицца</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>napkin</question>
+    <answer>салфетка</answer>
+    <comment>[ˈnæpkɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>243bc879-48ed-456e-9873-bd48afd3f84d</uuid>
+    <examples>
+       <example>
+          <value>to need a napkin</value>
+          <translation>нуждаться в салфетке</translation>
+          <comment>to need - нуждаться, napkin - салфетка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wineglass</question>
+    <answer>бокал, рюмка</answer>
+    <comment>[ˈwаɪnˌglæs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c755df80-7f76-4bfd-b6f9-55739d524816</uuid>
+    <examples>
+       <example>
+          <value>to bring a wineglass</value>
+          <translation>принести рюмку</translation>
+          <comment>to bring - принести, wineglass - бокал; рюмка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hungry</question>
+    <answer>голодный</answer>
+    <comment>[ˈhʌŋgriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fcc01aa3-3a08-4f68-b570-e4cd0125b42c</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m hungry.</value>
+          <translation>Я хочу есть (я голоден).</translation>
+          <comment>hungry - голодный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>without</question>
+    <answer>без (чего-л.)</answer>
+    <comment>[wɪðˈаʊt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b8fc901-b3f3-4b2e-80ef-087bf33f678f</uuid>
+    <examples>
+       <example>
+          <value>mineral water without gas</value>
+          <translation>минеральная вода без газа</translation>
+          <comment>mineral - минеральный, water - вода, without - без, gas - газ</comment>
+       </example>
+       <example>
+          <value>without gas</value>
+          <translation>без газа</translation>
+          <comment>without - без, gas - газ</comment>
+       </example>
+       <example>
+          <value>without a prescription</value>
+          <translation>без рецепта</translation>
+          <comment>without - без, prescription - рецепт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bottle</question>
+    <answer>бутылка</answer>
+    <comment>[ˈbɑːtl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e506e6d-b654-4018-ad49-c7ac200ba882</uuid>
+    <examples>
+       <example>
+          <value>a bottle of mineral water</value>
+          <translation>бутылка минеральной воды</translation>
+          <comment>bottle - бутылка, mineral - минеральный, water - вода</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>outdoors</question>
+    <answer>на улице</answer>
+    <comment>[аʊtˈdɔːrz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>342050b8-0576-4423-88ad-12d63013c28e</uuid>
+    <examples>
+       <example>
+          <value>a table outdoors</value>
+          <translation>столик на улице</translation>
+          <comment>table - стол, outdoors - на улице</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>salt</question>
+    <answer>соль</answer>
+    <comment>[sɔːlt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>83ede5be-be36-4ff8-b0d8-6d8e77ee3b52</uuid>
+    <examples>
+       <example>
+          <value>to pass the salt</value>
+          <translation>передать соль</translation>
+          <comment>to pass - передать, salt - соль</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3a62a52a-486f-463f-9238-bd854a363e9a</uuid>
+  <title>Самолет</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>ABFLUG</question>
+    <answer>ВЫЛЕТ</answer>
+    <comment></comment>
+    <uuid>4f26b870-4941-4898-9406-b573b23b6df1</uuid>
+  </card>
+  <card>
+    <question>an Bord gehen</question>
+    <answer>подняться на борт самолета</answer>
+    <comment></comment>
+    <uuid>74c62c65-cd60-4f37-9cf1-764ba23cb200</uuid>
+  </card>
+  <card>
+    <question>ANKUNFT</question>
+    <answer>ПРИЛЕТ</answer>
+    <comment></comment>
+    <uuid>57a4a8d9-db24-4671-81e7-321bf8fa4d90</uuid>
+  </card>
+  <card>
+    <question>das Handgepäck</question>
+    <answer>ручной багаж</answer>
+    <comment></comment>
+    <uuid>f46a295d-990d-4b4a-a9a0-425f60fd2eb3</uuid>
+  </card>
+  <card>
+    <question>das Rauchen einstellen</question>
+    <answer>не курить</answer>
+    <comment></comment>
+    <uuid>bc7d19bb-1381-44a5-b7cd-ec3ece3b7914</uuid>
+  </card>
+  <card>
+    <question>das Ticket</question>
+    <answer>билет</answer>
+    <comment></comment>
+    <uuid>dc41b84c-5c1e-4194-beab-a9b791279740</uuid>
+  </card>
+  <card>
+    <question>der Ausgang B</question>
+    <answer>выход В</answer>
+    <comment></comment>
+    <uuid>79c6a732-7280-40f0-bfb5-1c30fc89ecad</uuid>
+  </card>
+  <card>
+    <question>der Flughafen</question>
+    <answer>аэропорт</answer>
+    <comment></comment>
+    <uuid>d3533d65-8b1c-43e8-a9e6-0dde6c2bd4bf</uuid>
+  </card>
+  <card>
+    <question>der Flugschein</question>
+    <answer>авиабилет</answer>
+    <comment></comment>
+    <uuid>6aef689c-0d61-4e37-8d56-79594600f2fd</uuid>
+  </card>
+  <card>
+    <question>der Frankfurter Flughafen</question>
+    <answer>аэропорт Франкфурт</answer>
+    <comment></comment>
+    <uuid>27413367-0188-4aef-9b46-f1eb56a8ec6f</uuid>
+  </card>
+  <card>
+    <question>der Passagier</question>
+    <answer>пассажир</answer>
+    <comment></comment>
+    <uuid>21002a23-9f75-4ed3-95d2-ef376967f9b6</uuid>
+  </card>
+  <card>
+    <question>der Schalter</question>
+    <answer>окошко</answer>
+    <comment></comment>
+    <uuid>4eb3fa97-2638-4c96-9cc6-f39d807235a5</uuid>
+  </card>
+  <card>
+    <question>der Sitz</question>
+    <answer>место</answer>
+    <comment></comment>
+    <uuid>4a6ee62e-b4da-47a9-a967-55ecf233ac59</uuid>
+  </card>
+  <card>
+    <question>der Start</question>
+    <answer>старт</answer>
+    <comment></comment>
+    <uuid>b0870512-44c3-4140-8801-edf1f248d8a9</uuid>
+  </card>
+  <card>
+    <question>der Warteraum C</question>
+    <answer>зал ожидания С</answer>
+    <comment></comment>
+    <uuid>610e5188-fc4b-4b6a-83ec-f67175ca2bac</uuid>
+  </card>
+  <card>
+    <question>die Bordkarte</question>
+    <answer>посадочный талон</answer>
+    <comment></comment>
+    <uuid>7d57775a-0a8f-4f6a-b797-2646a6135d7b</uuid>
+  </card>
+  <card>
+    <question>Die Flugzeit wird 2 Stunden betragen.</question>
+    <answer>Время полета составляет 2 часа.</answer>
+    <comment></comment>
+    <uuid>ab81cf8e-6d1d-454c-b100-7e96792b6144</uuid>
+  </card>
+  <card>
+    <question>die Landung</question>
+    <answer>посадка</answer>
+    <comment></comment>
+    <uuid>e05d440c-301e-49c2-8dc7-f24c8ded80c0</uuid>
+  </card>
+  <card>
+    <question>die Mannschaft</question>
+    <answer>экипаж</answer>
+    <comment></comment>
+    <uuid>a366d4a1-1700-4507-aff2-4625608656be</uuid>
+  </card>
+  <card>
+    <question>Die Mannschaft heißt Sie an Bord herzlich willkommen.</question>
+    <answer>Экипаж сердечно приветствует Вас на борту.</answer>
+    <comment></comment>
+    <uuid>8c6c91a3-bcee-4de0-b037-4b5eb62250cf</uuid>
+  </card>
+  <card>
+    <question>die Reihe 23</question>
+    <answer>23-й ряд</answer>
+    <comment></comment>
+    <uuid>945fd1dc-4420-4323-a74d-a475bc971a54</uuid>
+  </card>
+  <card>
+    <question>die Reiseflughöhe</question>
+    <answer>высота полета</answer>
+    <comment></comment>
+    <uuid>d7580eb1-1dc5-47aa-a28a-aecf66cbfa68</uuid>
+  </card>
+  <card>
+    <question>die Rückenlehne senkrecht stellen</question>
+    <answer>привести спинки кресел в вертикальное положение</answer>
+    <comment></comment>
+    <uuid>b9848e6c-58a8-48c0-829f-94b9b52f6659</uuid>
+  </card>
+  <card>
+    <question>die Stewardeß</question>
+    <answer>стюардесса</answer>
+    <comment></comment>
+    <uuid>dda624fb-a765-482d-86fd-d28f43b9ecb0</uuid>
+  </card>
+  <card>
+    <question>Flugkapitän Müller</question>
+    <answer>Воздушный капитан Мюллер</answer>
+    <comment></comment>
+    <uuid>94b7a2b5-baa1-40a1-883c-cb848ba947e0</uuid>
+  </card>
+  <card>
+    <question>Hier ist Ihre Bordkarte.</question>
+    <answer>Вот ваш посадочный талон.</answer>
+    <comment></comment>
+    <uuid>68aa290c-8cb2-498f-b7a0-70d55b3b6f9d</uuid>
+  </card>
+  <card>
+    <question>INFORMATION</question>
+    <answer>ИНФОРМАЦИЯ</answer>
+    <comment></comment>
+    <uuid>1f48b5fa-83d3-4ad3-8239-bbe50e34f892</uuid>
+  </card>
+  <card>
+    <question>sich anschnallen</question>
+    <answer>пристегнуть ремни</answer>
+    <comment></comment>
+    <uuid>3df328e7-d631-4a34-a817-c4528cf80aeb</uuid>
+  </card>
+  <card>
+    <question>Sitz A</question>
+    <answer>место &quot;А&quot;</answer>
+    <comment></comment>
+    <uuid>5821bfdd-3dae-4a05-a184-dc3c14b1ddce</uuid>
+  </card>
+  <card>
+    <question>Wir befinden uns im Anflug auf Hamburg.</question>
+    <answer>Мы приближаемся к Гамбургу.</answer>
+    <comment></comment>
+    <uuid>44a90186-8424-451d-a80b-987bcd559449</uuid>
+  </card>
+  <card>
+    <question>Wir haben unsere Reiseflughöhe verlassen.</question>
+    <answer>Мы снижаемся с крейсерской высоты.</answer>
+    <comment></comment>
+    <uuid>37dd19da-97a7-455f-a79e-057f4a742042</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5fdbe542-fa15-4a71-88de-c93740f11dcb</uuid>
+  <title>Знакомство :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¡Buenos días!</question>
+    <answer>Доброе утро!</answer>
+    <comment></comment>
+    <uuid>df1325ba-255b-48fc-b8b2-5a333deb3e6e</uuid>
+  </card>
+  <card>
+    <question>¡Buenas tardes!</question>
+    <answer>Добрый день!</answer>
+    <comment></comment>
+    <uuid>e6fd0d83-3f3b-48a1-aaf1-477cc23b45d1</uuid>
+  </card>
+  <card>
+    <question>¡Buenas noches!</question>
+    <answer>Добрый вечер!</answer>
+    <comment></comment>
+    <uuid>ffb3bd83-2815-4fce-91d0-f441612348db</uuid>
+  </card>
+  <card>
+    <question>¡Hola!</question>
+    <answer>Привет!</answer>
+    <comment></comment>
+    <uuid>c6efb1b0-8fa9-408f-a222-b64822d6213e</uuid>
+  </card>
+  <card>
+    <question>¡Bienvenido!</question>
+    <answer>Добро пожаловать! (при обращении к мужчине)</answer>
+    <comment></comment>
+    <uuid>830e4676-3acb-44a2-94fc-667025abf54e</uuid>
+  </card>
+  <card>
+    <question>¡Bienvenida!</question>
+    <answer>Добро пожаловать! (при обращении к женщине)</answer>
+    <comment></comment>
+    <uuid>34f10fd2-6f4e-4545-a1cc-0e51a26eb36a</uuid>
+  </card>
+  <card>
+    <question>¿Cómo se llama usted?</question>
+    <answer>Как Вас зовут?</answer>
+    <comment></comment>
+    <uuid>c18d44b9-2b1a-495d-bfdc-6d09d3e1db2c</uuid>
+  </card>
+  <card>
+    <question>¿Cómo te llamas?</question>
+    <answer>Как тебя зовут?</answer>
+    <comment></comment>
+    <uuid>247ad485-c328-411b-a2ef-ee5a59d99fb4</uuid>
+  </card>
+  <card>
+    <question>Permítame que me presente.</question>
+    <answer>Разрешите представиться.</answer>
+    <comment></comment>
+    <uuid>bf298ec2-ea0b-42c4-87f7-45c09d841695</uuid>
+  </card>
+  <card>
+    <question>Me llamo ...</question>
+    <answer>Меня зовут ...</answer>
+    <comment></comment>
+    <uuid>6315dbd3-ae6d-41b4-8d1e-6a8b57349755</uuid>
+  </card>
+  <card>
+    <question>Te llamas ...</question>
+    <answer>Тебя зовут ...</answer>
+    <comment></comment>
+    <uuid>5c915d5b-43d1-4bc7-abea-2ef4008f6364</uuid>
+  </card>
+  <card>
+    <question>Se llama ...</question>
+    <answer>Вас зовут ...; Его (ее) зовут ...</answer>
+    <comment></comment>
+    <uuid>efce7782-4bb4-473f-a278-93a963260fe6</uuid>
+  </card>
+  <card>
+    <question>Me alegro de conocerle.</question>
+    <answer>Рад(а) с Вами познакомиться.</answer>
+    <comment></comment>
+    <uuid>c4d6d276-9795-4199-bffc-5fa9a216c9ba</uuid>
+  </card>
+  <card>
+    <question>Permítame que le presente al señor ...</question>
+    <answer>Разрешите представить вам господина ...</answer>
+    <comment></comment>
+    <uuid>ebe2aafe-b99d-4608-94ff-90555aa9f39b</uuid>
+  </card>
+  <card>
+    <question>Permítame que le presente a la señora ...</question>
+    <answer>Разрешите представить вам госпожу ...</answer>
+    <comment></comment>
+    <uuid>7b8fdd9b-8020-47bd-9087-1a179659f6b3</uuid>
+  </card>
+  <card>
+    <question>Permítame que le presente a mi esposo.</question>
+    <answer>Разрешите представить вам моего мужа.</answer>
+    <comment></comment>
+    <uuid>f20530f0-21e5-44a4-b99a-3e179098b772</uuid>
+  </card>
+  <card>
+    <question>Permítame que le presente a mi esposa.</question>
+    <answer>Разрешите представить вам мою жену.</answer>
+    <comment></comment>
+    <uuid>9a588584-1cf8-4112-a529-bbd875d71b8a</uuid>
+  </card>
+  <card>
+    <question>¿Qué tal?</question>
+    <answer>Как дела?</answer>
+    <comment></comment>
+    <uuid>e3eae06e-82aa-4046-bf81-f2e4d9b8b6ea</uuid>
+  </card>
+  <card>
+    <question>¿Cómo está usted?</question>
+    <answer>Как поживаете?</answer>
+    <comment></comment>
+    <uuid>1502af4e-83f8-42f8-a688-09e1f82225d8</uuid>
+  </card>
+  <card>
+    <question>¿Cómo estás?</question>
+    <answer>Как поживаешь?</answer>
+    <comment></comment>
+    <uuid>c457254a-5dd2-4a9b-8fa0-769dc8d1691a</uuid>
+  </card>
+  <card>
+    <question>Bien, gracias.</question>
+    <answer>Хорошо, спасибо.</answer>
+    <comment></comment>
+    <uuid>ba3fd1f5-0733-4baf-a739-ec337a042249</uuid>
+  </card>
+  <card>
+    <question>¿Y usted?</question>
+    <answer>А Вы?</answer>
+    <comment></comment>
+    <uuid>2c58dfd5-8727-43f2-81b3-17824d2067b7</uuid>
+  </card>
+  <card>
+    <question>¿Y tú?</question>
+    <answer>А ты?</answer>
+    <comment></comment>
+    <uuid>8a4005cb-b30f-4562-b7a1-a6606decd29b</uuid>
+  </card>
+  <card>
+    <question>¿Qué tal el viaje?</question>
+    <answer>Как вы доехали?</answer>
+    <comment></comment>
+    <uuid>bccbb807-57ba-456a-9725-5266ade4b815</uuid>
+  </card>
+  <card>
+    <question>¿De dónde ha venido usted?</question>
+    <answer>Откуда вы приехали? (ед.ч.)</answer>
+    <comment></comment>
+    <uuid>94cd3fdb-6292-4546-85d7-2caeba8cd4a2</uuid>
+  </card>
+  <card>
+    <question>¿De dónde has venido?</question>
+    <answer>Откуда ты приехал?</answer>
+    <comment></comment>
+    <uuid>0dbf7f39-2ec5-4b17-8cee-1d4c11b4c5ce</uuid>
+  </card>
+  <card>
+    <question>¿De dónde han venido ustedes?</question>
+    <answer>Откуда вы приехали? (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>bb7e7dda-d1c1-42a7-87e9-3934de7a59e5</uuid>
+  </card>
+  <card>
+    <question>He venido de Rusia.</question>
+    <answer>Я приехал из России.</answer>
+    <comment></comment>
+    <uuid>81907958-c094-4237-be56-c6187d3d40fc</uuid>
+  </card>
+  <card>
+    <question>Hemos venido de Rusia.</question>
+    <answer>Мы приехали из России.</answer>
+    <comment></comment>
+    <uuid>67d8c757-c14c-49df-aec9-1875761b45e3</uuid>
+  </card>
+  <card>
+    <question>Nosotros hemos venido de ...</question>
+    <answer>Мы приехали из ...</answer>
+    <comment></comment>
+    <uuid>93563397-42fc-4439-b50c-20245e53053f</uuid>
+  </card>
+  <card>
+    <question>¿Cuántos son ustedes?</question>
+    <answer>Сколько вас?</answer>
+    <comment></comment>
+    <uuid>36de529f-4a65-4668-8e1a-ae8b107f33fd</uuid>
+  </card>
+  <card>
+    <question>Sólo he venido yo.</question>
+    <answer>Я (приехал) один.</answer>
+    <comment></comment>
+    <uuid>0bef8f87-091c-4bc0-b9ed-8096536f989f</uuid>
+  </card>
+  <card>
+    <question>Somos dos personas.</question>
+    <answer>Нас двое.</answer>
+    <comment></comment>
+    <uuid>7a7d0437-a949-44cb-b53d-edb090f65979</uuid>
+  </card>
+  <card>
+    <question>Somos tres personas.</question>
+    <answer>Нас трое.</answer>
+    <comment></comment>
+    <uuid>da71282a-0071-4c39-acf5-82b93432f387</uuid>
+  </card>
+  <card>
+    <question>Somos cuatro personas.</question>
+    <answer>Нас четверо.</answer>
+    <comment></comment>
+    <uuid>e9b7a82f-b10d-46ce-a99b-7753fc5e3184</uuid>
+  </card>
+  <card>
+    <question>Somos cinco personas.</question>
+    <answer>Нас пятеро.</answer>
+    <comment></comment>
+    <uuid>2b92ca80-5f20-4ffc-80ff-4938081fcf60</uuid>
+  </card>
+  <card>
+    <question>Somos seis personas.</question>
+    <answer>Нас шестеро.</answer>
+    <comment></comment>
+    <uuid>5b38529a-2cbb-43ec-bbfe-3316634b4db6</uuid>
+  </card>
+  <card>
+    <question>Es la primera vez que vengo a su país.</question>
+    <answer>Я впервые в вашей стране. (=Это первый раз, что я приезжаю ...)</answer>
+    <comment></comment>
+    <uuid>1d25fec8-37a3-46e7-8aea-31753275d393</uuid>
+  </card>
+  <card>
+    <question>Es la segunda vez que vengo a su país.</question>
+    <answer>Я второй раз в вашей стране. (=Это второй раз, что я приезжаю ...)</answer>
+    <comment></comment>
+    <uuid>af6e4ef5-da0c-47f3-a1fc-d4d4b848cba1</uuid>
+  </card>
+  <card>
+    <question>Es la primera vez que venimos a su país.</question>
+    <answer>Мы впервые в вашей стране. (=Это первый раз, что мы приезжаем ...)</answer>
+    <comment></comment>
+    <uuid>1cdd7cf9-fe28-4555-818c-c82bb5000361</uuid>
+  </card>
+  <card>
+    <question>Es la segunda vez que venimos a su país.</question>
+    <answer>Мы второй раз в вашей стране. (=Это второй раз, что мы приезжаем ...)</answer>
+    <comment></comment>
+    <uuid>c38a0615-8f1e-439e-9784-4b328321d881</uuid>
+  </card>
+  <card>
+    <question>Es la primera vez que vengo a su ciudad.</question>
+    <answer>Я впервые в вашем городе. (=Это первый раз, что я приезжаю ...)</answer>
+    <comment></comment>
+    <uuid>f111b895-8aa1-41ca-b5b6-42fc9b9977ae</uuid>
+  </card>
+  <card>
+    <question>Es la segunda vez que vengo a su ciudad.</question>
+    <answer>Я второй раз в вашем городе. (=Это второй раз, что я приезжаю ...)</answer>
+    <comment></comment>
+    <uuid>558df56e-92f0-45ab-9a5c-1e3ab73350f2</uuid>
+  </card>
+  <card>
+    <question>Es la primera vez que venimos a su ciudad.</question>
+    <answer>Мы впервые в вашем городе. (=Это первый раз, что мы приезжаем ...)</answer>
+    <comment></comment>
+    <uuid>14e80a20-f0f9-4f97-8c0b-bcbf57630dbd</uuid>
+  </card>
+  <card>
+    <question>Es la segunda vez que venimos a su ciudad.</question>
+    <answer>Мы второй раз в вашем городе. (=Это второй раз, что мы приезжаем ...)</answer>
+    <comment></comment>
+    <uuid>d8c60ca3-b4a2-4e68-b147-2a567074bd38</uuid>
+  </card>
+  <card>
+    <question>He venido por invitación del ministerio de asuntos exteriores.</question>
+    <answer>Я приехал по приглашению министерства иностранных дел.</answer>
+    <comment></comment>
+    <uuid>4bf46903-fa6f-4f7c-9253-979e801d90f4</uuid>
+  </card>
+  <card>
+    <question>Hemos venido por invitación del ministerio de asuntos exteriores.</question>
+    <answer>Мы приехали по приглашению министерства иностранных дел.</answer>
+    <comment></comment>
+    <uuid>0d495f0a-3a1f-43c3-be5e-743fdaef1d20</uuid>
+  </card>
+  <card>
+    <question>He venido como corresponsal.</question>
+    <answer>Я приехал как корреспондент.</answer>
+    <comment></comment>
+    <uuid>d5be2226-144a-41e3-855e-a9c85f98a062</uuid>
+  </card>
+  <card>
+    <question>He venido como turista.</question>
+    <answer>Я приехал как турист.</answer>
+    <comment></comment>
+    <uuid>d7b5d2f0-0484-4cfd-ba7a-863baafaa5ff</uuid>
+  </card>
+  <card>
+    <question>He venido en comisión de servicio.</question>
+    <answer>Я приехал в командировку.</answer>
+    <comment></comment>
+    <uuid>93ba4f09-3397-420c-b2bc-38d2dfba0517</uuid>
+  </card>
+  <card>
+    <question>¿De qué país es usted?</question>
+    <answer>Из какой Вы страны?</answer>
+    <comment></comment>
+    <uuid>d622eb73-88f6-4218-b3bf-ec1693d5a19d</uuid>
+  </card>
+  <card>
+    <question>¿De qué país eres?</question>
+    <answer>Из какой ты страны?</answer>
+    <comment></comment>
+    <uuid>7bb18c0c-de74-4a87-8d01-8fef47fd66d2</uuid>
+  </card>
+  <card>
+    <question>Soy de Rusia.</question>
+    <answer>Я из России.</answer>
+    <comment></comment>
+    <uuid>eda56e88-106f-4c5b-b74c-7c36b80b548f</uuid>
+  </card>
+  <card>
+    <question>Somos de Rusia.</question>
+    <answer>Мы из России.</answer>
+    <comment></comment>
+    <uuid>725a84b7-5fc4-40f9-aa27-bdae4789f353</uuid>
+  </card>
+  <card>
+    <question>¿Es la primera vez que está en Rusia?</question>
+    <answer>Вы впервые в России?</answer>
+    <comment></comment>
+    <uuid>2f70fb61-37f8-446d-8c88-51895691e327</uuid>
+  </card>
+  <card>
+    <question>¿Es la primera vez que está en Madrid?</question>
+    <answer>Вы впервые в Мадриде?</answer>
+    <comment></comment>
+    <uuid>cc3fdf6c-5961-48a0-9474-4cab7663d72e</uuid>
+  </card>
+  <card>
+    <question>Conózcanse, por favor.</question>
+    <answer>Познакомьтесь, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>3a0fa73a-22d0-40bc-b788-b46fb6fd7595</uuid>
+  </card>
+</cards>
+</stack>

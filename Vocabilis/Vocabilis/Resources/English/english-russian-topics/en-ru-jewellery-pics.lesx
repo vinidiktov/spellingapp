@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>eb350c16-07ce-440b-b3ed-ef35809299bf</uuid>
+  <title>Украшения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>necklace</question>
+    <answer>ожерелье</answer>
+    <comment>[ˈneklɪs]</comment>
+    <answer_picture>necklace.gif</answer_picture>
+    <uuid>4c7a05fc-fbcb-45fa-85f9-a763ba24bf30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>key ring</question>
+    <answer>колько для ключей</answer>
+    <comment>[kiː rɪŋ]</comment>
+    <answer_picture>key_ring.gif</answer_picture>
+    <uuid>0d0de862-476c-42ef-b3b2-b9b7d727b343</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>earrings</question>
+    <answer>серёжки</answer>
+    <comment>[ˈɪərɪŋz]</comment>
+    <answer_picture>earrings.gif</answer_picture>
+    <uuid>46dd6451-a52f-4992-a796-b5ee3cb7adeb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ring</question>
+    <answer>кольцо</answer>
+    <comment>[rɪŋ]</comment>
+    <answer_picture>ring.gif</answer_picture>
+    <uuid>6f39b872-ccd5-4b3c-866a-fe58b2980c38</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bracelet</question>
+    <answer>браслет</answer>
+    <comment>[ˈbreɪslɪt]</comment>
+    <answer_picture>bracelet.gif</answer_picture>
+    <uuid>82a23b81-7d9b-4259-a5d2-c2d4fce985a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a watch</question>
+    <answer>часы</answer>
+    <comment>[ə wɒʧ]</comment>
+    <answer_picture>a_watch.gif</answer_picture>
+    <uuid>ed4fbfd6-594a-46a1-890b-1125f7883c1f</uuid>
+  </card>
+</cards>
+</stack>

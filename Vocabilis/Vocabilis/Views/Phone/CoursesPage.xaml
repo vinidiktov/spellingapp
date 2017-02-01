@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			x:Class="Vocabilis.CoursesPage"
+			Title="Коллекции">
+	<ContentPage.Content>
+		<StackLayout VerticalOptions="FillAndExpand">
+
+        <ListView x:Name="coursesListView" 
+        	ItemsSource="{Binding CoursesInfoList}"
+        	SelectedItem="{Binding SelectedItem, Mode=TwoWay}" 
+        >
+	     <ListView.ItemTemplate>
+		      <DataTemplate>
+		        <TextCell Text="{Binding Title}"
+		        />
+		      </DataTemplate>
+		    </ListView.ItemTemplate>   
+        </ListView>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

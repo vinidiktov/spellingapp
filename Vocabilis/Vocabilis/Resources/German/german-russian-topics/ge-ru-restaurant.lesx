@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d771d54d-72cb-4df6-b7cc-046c2c3d3164</uuid>
+  <title>Ресторан</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Alle zusammen?</question>
+    <answer>За всех? (будете платить)</answer>
+    <comment></comment>
+    <uuid>edd40cc6-b31c-46ba-a730-8cf56e096b76</uuid>
+  </card>
+  <card>
+    <question>das Cafe</question>
+    <answer>кафе</answer>
+    <comment></comment>
+    <uuid>2ff54e0e-1b34-4e70-a0be-5ac0a6441c65</uuid>
+  </card>
+  <card>
+    <question>das Mineralwasser</question>
+    <answer>минеральная вода</answer>
+    <comment></comment>
+    <uuid>4dfce4e5-b0ec-41e8-9cc2-42646d51634f</uuid>
+  </card>
+  <card>
+    <question>das Restaurant</question>
+    <answer>ресторан</answer>
+    <comment></comment>
+    <uuid>d677e01c-851b-46d9-9c1d-1193d19a3941</uuid>
+  </card>
+  <card>
+    <question>der Ruhetag</question>
+    <answer>выходной день</answer>
+    <comment></comment>
+    <uuid>51d76424-953c-4772-a0ed-4af6710b8758</uuid>
+  </card>
+  <card>
+    <question>die Gaststätte</question>
+    <answer>ресторан, столовая, кафе</answer>
+    <comment></comment>
+    <uuid>0e388bba-abd5-47cb-8bfd-51fdb696b3ff</uuid>
+  </card>
+  <card>
+    <question>die Kneipe</question>
+    <answer>трактир, пивная</answer>
+    <comment></comment>
+    <uuid>2c295175-fd00-44ae-85dd-ec5887a47152</uuid>
+  </card>
+  <card>
+    <question>die Raststätte</question>
+    <answer>придорожная закусочная</answer>
+    <comment></comment>
+    <uuid>18cb6e2b-bf77-43a3-9c3c-cb9a43b74c5d</uuid>
+  </card>
+  <card>
+    <question>die Speisekarte</question>
+    <answer>меню</answer>
+    <comment></comment>
+    <uuid>f1a8d0f2-5a33-4882-9c8c-95ced4bb600b</uuid>
+  </card>
+  <card>
+    <question>Ich hätte gern Rechnung.</question>
+    <answer>Принесите счёт, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>cccae645-0fc5-4507-8754-e2530100f6e0</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Menu 2.</question>
+    <answer>Я хотел бы комплексный обед № 2.</answer>
+    <comment></comment>
+    <uuid>eeccb28c-c168-408c-944e-be38e0cf00a4</uuid>
+  </card>
+  <card>
+    <question>Ich möchte zahlen.</question>
+    <answer>Я хотел бы расплатиться.</answer>
+    <comment></comment>
+    <uuid>f6ceb047-c18c-4654-81c5-4403ab54ea73</uuid>
+  </card>
+  <card>
+    <question>ins Cafe gehen</question>
+    <answer>идти в кафе</answer>
+    <comment></comment>
+    <uuid>8399a9a5-3ded-44a6-99d8-893478226c69</uuid>
+  </card>
+  <card>
+    <question>Ist dieser Platz noch frei?</question>
+    <answer>Это место свободно?</answer>
+    <comment></comment>
+    <uuid>d5c70408-1bef-42bb-acff-cc431594cee5</uuid>
+  </card>
+  <card>
+    <question>jeder für sich</question>
+    <answer>каждый (платит) сам за себя</answer>
+    <comment></comment>
+    <uuid>0266c07e-f8d9-413d-a4db-cce43eb75d37</uuid>
+  </card>
+  <card>
+    <question>reserviert</question>
+    <answer>забронировано</answer>
+    <comment></comment>
+    <uuid>7ce80a41-3789-4096-b9cf-b7c114f16ff5</uuid>
+  </card>
+  <card>
+    <question>Stimmt so!</question>
+    <answer>Сдачи не надо!</answer>
+    <comment></comment>
+    <uuid>d3da78e1-652b-4fd5-b7bd-3aacd86bdf07</uuid>
+  </card>
+  <card>
+    <question>Und zu trinken?</question>
+    <answer>А пить что будете?</answer>
+    <comment></comment>
+    <uuid>73c3907f-15a1-4d6f-b0d6-b3f72450cb0d</uuid>
+  </card>
+  <card>
+    <question>Vielen Dank!</question>
+    <answer>Большое спасибо!</answer>
+    <comment></comment>
+    <uuid>37000eb4-e45c-4f0c-b1d6-0fddfee06c47</uuid>
+  </card>
+</cards>
+</stack>

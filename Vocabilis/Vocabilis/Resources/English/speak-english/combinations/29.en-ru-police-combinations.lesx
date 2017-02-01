@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3b8ccd54-5a39-4347-a7e8-48321116a3a7</uuid>
+  <title>Обращение в полицию :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>an air ticket</question>
+    <answer>билет на самолет</answer>
+    <comment>[ən er ˈtɪkɪt]</comment>
+    <question_comment>air - воздушный, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55b25a20-5156-4ab2-b978-b55882be3fe0</uuid>
+    <examples>
+       <example>
+          <value>Where can I book my air tickets?</value>
+          <translation>Где я могу заказать билеты на самолет?</translation>
+          <comment>where - где, can - мочь, to book - забронировать, заказать, my - мой, моя, мои, air - воздушный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>My air ticket has been stolen.</value>
+          <translation>Украден мой билет на самолет.</translation>
+          <comment>my - мой, моя, мое, air - воздух, ticket - билет, stolen - украденный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>all my money</question>
+    <answer>все мои деньги</answer>
+    <comment>[ɔːl mаɪ ˈmʌniː]</comment>
+    <question_comment>all - все, my - мой, моя, money - деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>205f2394-1009-4773-8156-0cdb71cf345e</uuid>
+    <examples>
+       <example>
+          <value>All my money has been stolen.</value>
+          <translation>Украдены все мои деньги.</translation>
+          <comment>all - все, my - мой, моя, мое, money - деньги, stolen - украденный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an official from the consulate</question>
+    <answer>сотрудник консульства</answer>
+    <comment>[ən əˈfɪʃəl frəm ðə ˈkɑːnsəlɪt]</comment>
+    <question_comment>official - официальное лицо, consulate - консульство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d43d0abc-65af-44c0-97e9-7ce05b3220e6</uuid>
+    <examples>
+       <example>
+          <value>Please call an official from the consulate.</value>
+          <translation>Пожалуйста, пригласите сотрудника консульства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, consulate - консульство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an official from the embassy</question>
+    <answer>сотрудник посольства</answer>
+    <comment>[ən əˈfɪʃəl frəm ðiː ˈembəsiː]</comment>
+    <question_comment>official - официальное лицо, embassy - посольство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e23bbd6e-a6d1-4cad-a71b-426e04e50167</uuid>
+    <examples>
+       <example>
+          <value>Please call an official from the embassy.</value>
+          <translation>Пожалуйста, пригласите сотрудника посольства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, embassy - посольство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>anything reprehensible</question>
+    <answer>что-нибудь предосудительное</answer>
+    <comment>[ˈenɪˌθɪŋ ˌreprɪˈhensəbəl]</comment>
+    <question_comment>anything - что-нибудь, reprehensible - предосудительный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5e4623a6-7264-494e-90af-1fe72749b10c</uuid>
+    <examples>
+       <example>
+          <value>I haven&apos;t made anything reprehensible.</value>
+          <translation>Я не совершал ничего предосудительного.</translation>
+          <comment>to make - делать, anything - что-либо, reprehensible - предосудительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>anything suspicious</question>
+    <answer>что-нибудь подозрительное</answer>
+    <comment>[ˈenɪˌθɪŋ səˈspɪʃəs]</comment>
+    <question_comment>anything - что-нибудь, suspicious - подозрительный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b9f50a65-b2c7-4672-9e53-6618c2673075</uuid>
+    <examples>
+       <example>
+          <value>I didn&apos;t notice anything suspicious.</value>
+          <translation>Я не заметил ничего подозрительного.</translation>
+          <comment>to notice - заметить, anything - что-нибудь, suspicious - подозрительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in a bus</question>
+    <answer>в автобусе</answer>
+    <comment>[ɪn ə bʌs]</comment>
+    <question_comment>bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>341c371d-738f-4889-8204-c1da00642bc4</uuid>
+    <examples>
+       <example>
+          <value>Which bus should I take to the city center?</value>
+          <translation>На каком автобусе можно доехать до центра?</translation>
+          <comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Where is the nearest bus stop?</value>
+          <translation>Где ближайшая автобусная остановка?</translation>
+          <comment>where - где, the nearest - ближайший, bus - автобус, stop - остановка</comment>
+       </example>
+       <example>
+          <value>Excuse me, does this bus go to the Zoo?</value>
+          <translation>Простите, этот автобус идет к зоопарку?</translation>
+          <comment>to excuse - извинять, me - мне, меня, this - этот, это, эта, bus - автобус, to go - ехать, Zoo - зоопарк</comment>
+       </example>
+       <example>
+          <value>Excuse me. Does this bus go to the square?</value>
+          <translation>Извините. Этот автобус идет до площади?</translation>
+          <comment>to excuse - извинять, me - ине, меня, this - этот, эта, это, bus - автобус, to go - ехать, square - площадь</comment>
+       </example>
+       <example>
+          <value>Where does this bus go?</value>
+          <translation>Куда идет этот автобус?</translation>
+          <comment>where - куда, где, this - этот, эта, это, bus - автобус, to go - ехать</comment>
+       </example>
+       <example>
+          <value>Which bus goes to the university?</value>
+          <translation>Какой автобус идет к университету?</translation>
+          <comment>which - какой, который, bus - автобус, to go - ехать, university - университет</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>When is the next bus?</value>
+          <translation>Когда следующий автобус?</translation>
+          <comment>when - когда, next - следующий, bus - автобус</comment>
+       </example>
+       <example>
+          <value>I&apos;ve left my suitcase in a bus.</value>
+          <translation>Я оставил чемодан в автобусе.</translation>
+          <comment>to leave - оставлять, покидать, my - мой, моя, мое, suitcase - чемодан, bus - автобус</comment>
+       </example>
+       <example>
+          <value>I&apos;ve been left behind by my bus.</value>
+          <translation>Я отстал от автобуса.</translation>
+          <comment>to leave behind by - отстать, bus - автобус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in a taxi</question>
+    <answer>в такси</answer>
+    <comment>[ɪn ə ˈtæksiː]</comment>
+    <question_comment>taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9aee52e0-9085-4af9-b98d-8da5dfb73d66</uuid>
+    <examples>
+       <example>
+          <value>Please order a taxi for me for five o&apos;clock.</value>
+          <translation>Пожалуйста, закажите для меня такси на пять часов.</translation>
+          <comment>to order - заказать, taxi - такси, five - пять, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>Please let me know when the taxi is here.</value>
+          <translation>Пожалуйста, предупредите меня, когда приедет такси.</translation>
+          <comment>let - позволять, me - мне, меня, to know - знать, when - когда, taxi - такси, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the taxi stand here?</value>
+          <translation>Где здесь стоянка такси?</translation>
+          <comment>where - где, taxi - такси, stand - стоянка, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I find a taxi?</value>
+          <translation>Где можно найти такси?</translation>
+          <comment>where - где, to find - найти, taxi - такси</comment>
+       </example>
+       <example>
+          <value>Do you have the number for a taxi?</value>
+          <translation>Как вызвать такси по телефону?</translation>
+          <comment>to have - иметь, number - номер, taxi - такси</comment>
+       </example>
+       <example>
+          <value>Please call a taxi for me.</value>
+          <translation>Вызовите, пожалуйста, для меня такси.</translation>
+          <comment>to call - звонить, вызывать, taxi - такси, for - для, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>Please get me a taxi.</value>
+          <translation>Я хочу вызвать такси.</translation>
+          <comment>to get - доставать, taxi - такси, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>I&apos;ve left my bag in a taxi.</value>
+          <translation>Я оставил сумку в такси.</translation>
+          <comment>to leave - оставлять, покидать, my - мой, моя, мое, bag - сумка, taxi - такси</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in my purse</question>
+    <answer>в моем кошельке</answer>
+    <comment>[ɪn mаɪ pɜːrs]</comment>
+    <question_comment>my - мой, моя, purse - кошелек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5daee8ac-a032-4bd8-82aa-233a89d335b1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve lost my purse somewhere.</value>
+          <translation>Я где-то потерял мой кошелек (женский).</translation>
+          <comment>to loose - терять, my - мой, моя, мое, purse - кошелек, somewhere - где-то</comment>
+       </example>
+       <example>
+          <value>There was money in my purse.</value>
+          <translation>В кошельке (женском) были деньги.</translation>
+          <comment>there was - имелось, было, money - деньги, purse - кошелек</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the wallet</question>
+    <answer>в бумажнике</answer>
+    <comment>[ɪn ðə ˈwɑːlɪt]</comment>
+    <question_comment>wallet - бумажник</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5575a9e7-89bb-4b5b-ac0d-07f64570cfb1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve lost my wallet somewhere.</value>
+          <translation>Я где-то потерял свой бумажник.</translation>
+          <comment>to loose - терять, my - мой, моя, мое, wallet - бумажник, somewhere - где-то</comment>
+       </example>
+       <example>
+          <value>There was my ticket in the wallet.</value>
+          <translation>В бумажнике был мой билет.</translation>
+          <comment>there was - имелось, было, ticket - билет, wallet - бумажник</comment>
+       </example>
+       <example>
+          <value>There were receipts in the wallet.</value>
+          <translation>В бумажнике были квитанции.</translation>
+          <comment>there was - имелось, было, receipts - квитанции, wallet - бумажник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to leave your bag</question>
+    <answer>забыть (твою) сумку</answer>
+    <comment>[tə liːv jər bæg]</comment>
+    <question_comment>to leave - оставлять, bag - сумка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b54b2ac4-0df9-4bf7-ad3d-f47a5a153855</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to steal a car</question>
+    <answer>украсть машину</answer>
+    <comment>[tə stiːl ə kɑːr]</comment>
+    <question_comment>to steal - воровать, car - машина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d88b1f1-f432-4d3d-b72f-6a8b187d93a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose your purse</question>
+    <answer>потерять (твой) кошелек (женский)</answer>
+    <comment>[tə luːz jər pɜːrs]</comment>
+    <question_comment>to lose - терять, purse - кошелек (женский)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>80bb2e7e-85b3-4334-be34-17f975a4d7af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to leave your suitcase</question>
+    <answer>забыть (твой) чемодан</answer>
+    <comment>[tə liːv jər ˈsuːtˌkeɪs]</comment>
+    <question_comment>to leave - оставлять, suitcase - чемодан</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1cb6706d-bc63-4e68-8e81-bcde1fcd9cca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to find your things</question>
+    <answer>найти твои вещи</answer>
+    <comment>[tə fаɪnd jər θɪŋz]</comment>
+    <question_comment>to find - находить, thing - вещь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>499ee087-bd8f-430b-aeba-985f024e11a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose your wallet</question>
+    <answer>потерять (твой) бумажник</answer>
+    <comment>[tə luːz jər ˈwɑːlɪt]</comment>
+    <question_comment>to lose - терять, wallet - бумажник</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>745af22d-4010-4801-b843-2e1240a21d80</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>some people</question>
+    <answer>какие-то люди</answer>
+    <comment>[sʌm ˈpiːpəl]</comment>
+    <question_comment>some - некоторый, people - люди</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>39b09f6a-0b6f-413b-b6a4-99ad68fb08dc</uuid>
+    <examples>
+       <example>
+          <value>Some people attacked me.</value>
+          <translation>На меня напали какие-то люди.</translation>
+          <comment>some - некоторый, people - люди, to attack - напасть, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the police station</question>
+    <answer>полицейский участок</answer>
+    <comment>[ðə pəˈliːs ˈsteɪʃən]</comment>
+    <question_comment>police - полиция, station - станция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f2d503a8-cf1e-435e-bb88-eb31902bf4b9</uuid>
+    <examples>
+       <example>
+          <value>Where is the police station?</value>
+          <translation>Где полицейский участок?</translation>
+          <comment>where - где, police - полицейский, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m a tourist.</question>
+    <answer>Я турист.</answer>
+    <comment>[аɪm ə ˈtʊrɪst]</comment>
+    <question_comment>tourist - туристом</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9f2a88e8-26b2-4b29-ab23-a0c3c2aeead7</uuid>
+    <examples>
+       <example>
+          <value>I am a tourist.</value>
+          <translation>Я турист.</translation>
+          <comment>tourist - турист</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be detained illegally</question>
+    <answer>быть незаконно задержанным</answer>
+    <comment>[tə biː dɪˈteɪnd ɪˈliːgəli]</comment>
+    <question_comment>to detain - задерживать, detained - задержанный, illegally - незаконно, illegal - незаконный, legal - законный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34788266-6a2d-4a85-8580-6a357dfa622e</uuid>
+    <examples>
+       <example>
+          <value>I was detained illegally.</value>
+          <translation>Я был незаконно задержан.</translation>
+          <comment>was - был, была, было, detained - задержанный, illegally - незаконно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m lost.</question>
+    <answer>Я заблудился.</answer>
+    <comment>[аɪm lɔːst]</comment>
+    <question_comment>lost - потерянный, to lose - терять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>08498967-a9e0-4bfd-9aea-ceea40b2b5b6</uuid>
+    <examples>
+       <example>
+          <value>The interest will be lost.</value>
+          <translation>Проценты будут утрачены.</translation>
+          <comment>interest - процент, to be - быть, lost - потерянный</comment>
+       </example>
+       <example>
+          <value>Where can I apply for the lost baggage?</value>
+          <translation>Куда я могу обратиться по поводу пропажи багажа?</translation>
+          <comment>where - где, can - мочь, to apply - подавать заявление, lost - утерянный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>Where is the lost-and-found office?</value>
+          <translation>Где находится бюро находок?</translation>
+          <comment>where - где, lost - потерянный, found - найденный, office - офис</comment>
+       </example>
+       <example>
+          <value>I have lost a suitcase.</value>
+          <translation>Я потерял чемодан.</translation>
+          <comment>to loose - потерять, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>I&apos;ve lost a filling.</value>
+          <translation>Выпала пломба.</translation>
+          <comment>to loose - терять, filling - пломба</comment>
+       </example>
+       <example>
+          <value>I&apos;ve lost my purse somewhere.</value>
+          <translation>Я где-то потерял мой кошелек (женский).</translation>
+          <comment>to loose - терять, my - мой, моя, мое, purse - кошелек, somewhere - где-то</comment>
+       </example>
+       <example>
+          <value>I&apos;ve lost my wallet somewhere.</value>
+          <translation>Я где-то потерял свой бумажник.</translation>
+          <comment>to loose - терять, my - мой, моя, мое, wallet - бумажник, somewhere - где-то</comment>
+       </example>
+       <example>
+          <value>I&apos;m lost.</value>
+          <translation>Я заблудился.</translation>
+          <comment>lost - потерянный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be on business here</question>
+    <answer>быть здесь по делу</answer>
+    <comment>[tə biː ɑːn ˈbɪznɪs hɪr]</comment>
+    <question_comment>business - дело, here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a58606fb-2bf9-4a34-8651-41ed8dfff121</uuid>
+    <examples>
+       <example>
+          <value>I am on business here.</value>
+          <translation>Я здесь по делу.</translation>
+          <comment>business - бизнес, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve been robbed.</question>
+    <answer>Меня ограбили.</answer>
+    <comment>[аɪv bɪn rɑːbd]</comment>
+    <question_comment>robbed - ограбленный, to rob - грабить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>917d95e3-d12f-4cd0-a452-ca1dd763f286</uuid>
+    <examples>
+       <example>
+          <value>I have been robbed.</value>
+          <translation>Меня ограбили.</translation>
+          <comment>robbed - ограбленный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>My wallet has been stolen.</question>
+    <answer>У меня украли бумажник.</answer>
+    <comment>[mаɪ ˈwɑːlɪt hæz bɪn ˈstoʊlən]</comment>
+    <question_comment>wallet - бумажник, stolen - украденный, to steal - красть</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1cfb60c0-8650-4b1d-b302-f22fe040216b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call an interpreter</question>
+    <answer>пригласить (вызвать) переводчика</answer>
+    <comment>[tə kɔːl ən ɪnˈtɜːrprɪtə]</comment>
+    <question_comment>to call - звать, interpreter - переводчик</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>027973bd-8773-4c14-a6a1-b61123162d71</uuid>
+    <examples>
+       <example>
+          <value>Can you call an interpreter?</value>
+          <translation>Пригласите, пожалуйста, переводчика.</translation>
+          <comment>can - мочь, you - ты, вы, to call - пригласить, interpreter - переводчик</comment>
+       </example>
+       <example>
+          <value>Will you call an interpreter?</value>
+          <translation>Можно пригласить переводчика?</translation>
+          <comment>to call - звать, interpreter - переводчик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call an official from the consulate</question>
+    <answer>пригласить (вызвать) сотрудника консульства</answer>
+    <comment>[tə kɔːl ən əˈfɪʃəl frəm ðə ˈkɑːnsəlɪt]</comment>
+    <question_comment>to call - звать, official - официальное лицо, consulate - консульство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b626602-c208-4a35-9376-d80d8afd7e91</uuid>
+    <examples>
+       <example>
+          <value>Please call an official from the consulate.</value>
+          <translation>Пожалуйста, пригласите сотрудника консульства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, consulate - консульство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call an official from the embassy</question>
+    <answer>пригласить (вызвать) сотрудника посольства</answer>
+    <comment>[tə kɔːl ən əˈfɪʃəl frəm ðiː ˈembəsiː]</comment>
+    <question_comment>to call - звать, official - официальное лицо, embassy - посольство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>00cd22f7-e8b7-41d0-be7f-2ebff028926e</uuid>
+    <examples>
+       <example>
+          <value>Please call an official from the embassy.</value>
+          <translation>Пожалуйста, пригласите сотрудника посольства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, embassy - посольство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come from Russia</question>
+    <answer>приехать из России</answer>
+    <comment>[tə kʌm frəm ˈrʌʃə]</comment>
+    <question_comment>to come - приехать, Russia - Россия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0161166b-ce4c-4c91-bf4f-64c7ffc70841</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come from Russia.</value>
+          <translation>Я приехал из России.</translation>
+          <comment>to come - приехать, from - из, от, Russia - Россия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to explain everything</question>
+    <answer>все объяснить</answer>
+    <comment>[tə ɪkˈspleɪn ˈevrɪˌθɪŋ]</comment>
+    <question_comment>to explain - объяснить, everything - все</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34111bfd-7e19-44ed-a5d1-60134ab12cb8</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll explain everything to you.</value>
+          <translation>Я все вам объясню.</translation>
+          <comment>to explain - объяснить, everything - все, you - тебе, вам</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be left behind by your bus</question>
+    <answer>отстать от (твоего) автобуса</answer>
+    <comment>[tə biː left bɪˈhаɪnd bаɪ jər bʌs]</comment>
+    <question_comment>to leave - оставлять, behind - позади, bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34431134-05c1-4ed1-8363-415ac925eae7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be left behind by your ship</question>
+    <answer>отстать от (твоего) теплохода</answer>
+    <comment>[tə biː left bɪˈhаɪnd bаɪ jər ʃɪp]</comment>
+    <question_comment>to leave - оставлять, behind - позади, ship - теплоход</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>27e59be0-506c-4b39-85f5-1c72bf520583</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be left behind by your train</question>
+    <answer>отстать от (твоего) поезда</answer>
+    <comment>[tə biː left bɪˈhаɪnd bаɪ jər treɪn]</comment>
+    <question_comment>to leave - оставлять, behind - позади, train - поезд</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d30849df-ce81-4092-a38d-5e1000a4d344</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to leave in a bus</question>
+    <answer>оставить в автобусе</answer>
+    <comment>[tə liːv ɪn ə bʌs]</comment>
+    <question_comment>to leave - оставлять, bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bdf4dba5-b5d0-4c41-917b-88c9298305bf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to leave in a taxi</question>
+    <answer>оставить в такси</answer>
+    <comment>[tə liːv ɪn ə ˈtæksiː]</comment>
+    <question_comment>to leave - оставлять, taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d97ad322-78f7-414c-85d0-f4e93ee40525</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to leave somebody alone</question>
+    <answer>оставить кого-либо в покое</answer>
+    <comment>[tə liːv ˈsʌmˌbɑːdiː əˈloʊn]</comment>
+    <question_comment>to leave - оставлять, somebody - кто-либо, alone - один</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5efa1964-979d-42ea-af34-75c5ee16fafd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose somewhere</question>
+    <answer>где-то потерять</answer>
+    <comment>[tə luːz ˈsʌmhwer]</comment>
+    <question_comment>to lose - терять, somewhere - где-то</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c15ec542-fdfc-43c4-b960-5e24d2bbca6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to miss the plane</question>
+    <answer>опоздать на самолет</answer>
+    <comment>[tə mɪs ðə pleɪn]</comment>
+    <question_comment>to miss - опоздать, пропустить, plane - самолет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49c56f06-5e81-493b-9f1d-27b303523194</uuid>
+    <examples>
+       <example>
+          <value>We missed the plane.</value>
+          <translation>Мы опоздали на самолет.</translation>
+          <comment>to miss - пропустить, plane - самолет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to miss the train</question>
+    <answer>опоздать на поезд</answer>
+    <comment>[tə mɪs ðə treɪn]</comment>
+    <question_comment>to miss - опоздать, пропустить, train - поезд</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb0b52f7-29b8-4407-9a72-a0063de1069a</uuid>
+    <examples>
+       <example>
+          <value>We missed the train.</value>
+          <translation>Мы опоздали на поезд.</translation>
+          <comment>to miss - пропустить, train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to remain there</question>
+    <answer>остаться там</answer>
+    <comment>[tə rɪˈmeɪn ðer]</comment>
+    <question_comment>to remain - оставаться, there - там</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dee71d36-c447-44db-85af-110b40c155de</uuid>
+    <examples>
+       <example>
+          <value>My things, money and documents remained there.</value>
+          <translation>Там остались мои вещи, деньги и документы.</translation>
+          <comment>thing - вещь, money - деньги, documents - документы, to remain - оставаться, there - там</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to snatch out your bag</question>
+    <answer>выхватить твою сумку</answer>
+    <comment>[tə snætʃ аʊt jər bæg]</comment>
+    <question_comment>to snatch - хватать, bag - сумка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2e6c6e7f-9ebc-40dc-a821-20ba0497744b</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>82482525-7270-4101-8684-943a0369bd99</uuid>
+  <title>Телефон :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>cellphone</question>
+    <answer>сотовый телефон</answer>
+    <comment>[ˈselfoʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>911ca05b-8493-4d74-910d-9f4119915255</uuid>
+    <examples>
+       <example>
+          <value>a card for a cellphone</value>
+          <translation>карточка для сотового телефона</translation>
+          <comment>card - карточка, cell - сотовый, phone - телефон</comment>
+       </example>
+       <example>
+          <value>cellphone</value>
+          <translation>сотовый телефон</translation>
+          <comment>cell - сотовый, phone - телефон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>code</question>
+    <answer>код</answer>
+    <comment>[koʊd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f52159bd-0b45-47d7-9622-7e539f42c5c8</uuid>
+    <examples>
+       <example>
+          <value>the area code</value>
+          <translation>код города</translation>
+          <comment>area - территория, площадь, code - код</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Brown</question>
+    <answer>Браун</answer>
+    <comment>[brаʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4a29474f-5c09-4e58-86c5-41a1e0ff3ecf</uuid>
+    <examples>
+       <example>
+          <value>to speak to Mr. Brown</value>
+          <translation>поговорить с мистером Брауном</translation>
+          <comment>to speak - говорить, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>Mr. Brown&apos;s trade</value>
+          <translation>профессия мистера Брауна</translation>
+          <comment>trade - занятие, ремесло, профессия</comment>
+       </example>
+       <example>
+          <value>on the invitation of Mr. Brown</value>
+          <translation>по приглашению мистера Брауна</translation>
+          <comment>invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>area</question>
+    <answer>территория, площадь</answer>
+    <comment>[ˈeriːə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ade4b6d-2699-4668-965a-ae299c915228</uuid>
+    <examples>
+       <example>
+          <value>the area code</value>
+          <translation>код города</translation>
+          <comment>area - территория, площадь, code - код</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>loud</question>
+    <answer>громкий</answer>
+    <comment>[lаʊd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>815aa36b-996e-4567-a0f0-2ae07137c6dd</uuid>
+    <examples>
+       <example>
+          <value>to speak louder</value>
+          <translation>говорить громче</translation>
+          <comment>to speak - говорить, louder - громче</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>six</question>
+    <answer>шесть</answer>
+    <comment>[sɪks]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8066ad1f-efe9-481e-9f41-cc81c15a3912</uuid>
+    <examples>
+       <example>
+          <value>about six dollars</value>
+          <translation>около 6 долларов</translation>
+          <comment>about - примерно, six - шесть, dollar - доллар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>later</question>
+    <answer>позже</answer>
+    <comment>[ˈleɪtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5a5c0a94-b80b-4310-9189-c269f3282b41</uuid>
+    <examples>
+       <example>
+          <value>to call again later</value>
+          <translation>перезвонить позже</translation>
+          <comment>to call - звонить, again - снова, later - позже</comment>
+       </example>
+       <example>
+          <value>to call later</value>
+          <translation>позвонить позже</translation>
+          <comment>to call - звонить, later - позже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>phone</question>
+    <answer>телефон</answer>
+    <comment>[foʊn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7a44933f-4774-4f24-99d1-94b1bc63b257</uuid>
+    <examples>
+       <example>
+          <value>a phone call</value>
+          <translation>звонок (по телефону)</translation>
+          <comment>phone - телефонный, телефон, call - звонок</comment>
+       </example>
+       <example>
+          <value>the phone rate</value>
+          <translation>тариф звонков</translation>
+          <comment>phone - телефонный, телефон, rate - тариф</comment>
+       </example>
+       <example>
+          <value>The phone is out of order.</value>
+          <translation>Телефон не работает.</translation>
+          <comment>out of order - не в порядке, сломанный</comment>
+       </example>
+       <example>
+          <value>to order a ticket by phone</value>
+          <translation>заказать билет по телефону</translation>
+          <comment>to order - заказать, ticket - билет, phone - телефон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>moment</question>
+    <answer>момент</answer>
+    <comment>[ˈmoʊmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e99be98-b480-42fd-af74-cd8b42dcb7ee</uuid>
+    <examples>
+       <example>
+          <value>at the moment</value>
+          <translation>в настоящий момент</translation>
+          <comment>moment - момент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>afraid</question>
+    <answer>испуганный</answer>
+    <comment>[əˈfreɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c78e6469-0df7-4418-bb6a-cdaaed760652</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t be afraid.</value>
+          <translation>Не бойся.</translation>
+          <comment>afraid - испуганный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>reply</question>
+    <answer>ответ</answer>
+    <comment>[riːˈplаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>58d67ea2-c35d-4d9c-9882-839046677a4d</uuid>
+    <examples>
+       <example>
+          <value>no reply at this number</value>
+          <translation>нет ответа по этому номеру</translation>
+          <comment>no - никакой, reply - ответ, this - этот, эта, number - номер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>line</question>
+    <answer>линия</answer>
+    <comment>[lаɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2870e575-8a6b-4b8b-bea8-ecc3f4389b0a</uuid>
+    <examples>
+       <example>
+          <value>a busy line</value>
+          <translation>занятая линия</translation>
+          <comment>busy - занятый, line - линия</comment>
+       </example>
+       <example>
+          <value>to hold the line</value>
+          <translation>оставаться на линии</translation>
+          <comment>to hold - держать, line - линия</comment>
+       </example>
+       <example>
+          <value>to put somebody on the line</value>
+          <translation>соединять с кем-либо</translation>
+          <comment>to put - класть, ставить, somebody - кто-либо, line - линия</comment>
+       </example>
+       <example>
+          <value>to take a line</value>
+          <translation>сесть на маршрут</translation>
+          <comment>to take - сесть в, line - маршрут</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hold</question>
+    <answer>держать</answer>
+    <comment>[hoʊld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8090cb6-7804-4901-bec6-2e31e5528d78</uuid>
+    <examples>
+       <example>
+          <value>Can you hold on?</value>
+          <translation>Одну минуточку. (тел.)</translation>
+          <comment>can - мочь, to hold on - оставаться на линии</comment>
+       </example>
+       <example>
+          <value>to hold the line</value>
+          <translation>оставаться на линии</translation>
+          <comment>to hold - держать, line - линия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cut</question>
+    <answer>отрезать</answer>
+    <comment>[kʌt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eb884e20-9da5-41c0-b12b-b06ba39a479b</uuid>
+    <examples>
+       <example>
+          <value>We got cut off.</value>
+          <translation>Нас разъдинили.</translation>
+          <comment>to get cut off - разъединиться, to cut off - отрезать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>valid</question>
+    <answer>действительный</answer>
+    <comment>[ˈvælɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1ab9e721-aea4-49a0-a016-1180b0edc18b</uuid>
+    <examples>
+       <example>
+          <value>a valid number</value>
+          <translation>существующий номер</translation>
+          <comment>valid - действительный</comment>
+       </example>
+       <example>
+          <value>a valid ticket</value>
+          <translation>действительный билет</translation>
+          <comment>valid - действительный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

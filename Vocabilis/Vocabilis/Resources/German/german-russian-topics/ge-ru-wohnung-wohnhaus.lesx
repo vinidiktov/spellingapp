@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>519e71b2-cdf1-41f6-8a39-dd6bf343c71e</uuid>
+  <title>Жилой дом, квартира</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Apartment</question>
+    <answer>однокомнатная квартира</answer>
+    <comment></comment>
+    <uuid>1a0a0779-451e-47b4-8c96-e51f85a45f61</uuid>
+  </card>
+  <card>
+    <question>das Badezimmer</question>
+    <answer>ванная</answer>
+    <comment></comment>
+    <uuid>2d292e3d-db82-40fb-a8f0-96425d1a682a</uuid>
+  </card>
+  <card>
+    <question>das Einfamilienhaus</question>
+    <answer>одноквартирный дом</answer>
+    <comment></comment>
+    <uuid>9a5a6bcd-ce38-472b-8c2f-69f596ff8f55</uuid>
+  </card>
+  <card>
+    <question>das Eßzimmer</question>
+    <answer>столовая (в квартире)</answer>
+    <comment></comment>
+    <uuid>6a05e8c3-f59e-4ba2-8c55-c54f185fe1e1</uuid>
+  </card>
+  <card>
+    <question>das Haus</question>
+    <answer>дом</answer>
+    <comment></comment>
+    <uuid>821be12b-2cb8-4e2b-a7b7-9d7f8f745dab</uuid>
+  </card>
+  <card>
+    <question>das Mietshaus</question>
+    <answer>доходный дом, дом с наемными квартирами</answer>
+    <comment></comment>
+    <uuid>815caade-00d9-4970-a1f2-d01568211cb4</uuid>
+  </card>
+  <card>
+    <question>das Schlafzimmer</question>
+    <answer>спальня</answer>
+    <comment></comment>
+    <uuid>b451ec80-8a20-4098-a430-cc4aaadfc569</uuid>
+  </card>
+  <card>
+    <question>das Schlüsselloch</question>
+    <answer>замочная скважина</answer>
+    <comment></comment>
+    <uuid>ea99e41b-85f4-4d4f-bed2-cf051fce919b</uuid>
+  </card>
+  <card>
+    <question>das Wohnhaus</question>
+    <answer>жилой дом</answer>
+    <comment></comment>
+    <uuid>124a6f03-bad5-4118-a0f3-3dcc4ec165f2</uuid>
+  </card>
+  <card>
+    <question>das Wohnzimmer</question>
+    <answer>общая комната, жилая гостиная</answer>
+    <comment></comment>
+    <uuid>543fd82a-759a-4407-9bce-c5b571ade89b</uuid>
+  </card>
+  <card>
+    <question>das Zimmer</question>
+    <answer>комната</answer>
+    <comment></comment>
+    <uuid>71931d59-5947-427a-8ffb-4d689ec3dde9</uuid>
+  </card>
+  <card>
+    <question>der Kleiderbügel</question>
+    <answer>плечики, вешалка</answer>
+    <comment></comment>
+    <uuid>2fb57d28-4dfb-4965-a9bf-b1b4fb6e2999</uuid>
+  </card>
+  <card>
+    <question>der Schirmständer</question>
+    <answer>стойка для зонтиков</answer>
+    <comment></comment>
+    <uuid>7fe482ee-c011-43d8-b6cc-becf93ab9f98</uuid>
+  </card>
+  <card>
+    <question>der Spiegel</question>
+    <answer>зеркало</answer>
+    <comment></comment>
+    <uuid>ebd95c47-1b19-4933-8515-286c59ee196d</uuid>
+  </card>
+  <card>
+    <question>der Teppichboden</question>
+    <answer>ковровое покрытие</answer>
+    <comment></comment>
+    <uuid>ffbc15c9-b8a0-482c-b5be-29916426301b</uuid>
+  </card>
+  <card>
+    <question>der Türgriff</question>
+    <answer>дверная ручка</answer>
+    <comment></comment>
+    <uuid>515b91b1-0cb0-4130-aecc-62a15b14d4f3</uuid>
+  </card>
+  <card>
+    <question>die 2-Zimmer-Wohnung</question>
+    <answer>двухкомнатная квартира</answer>
+    <comment></comment>
+    <uuid>8c3528e4-a4eb-457d-9939-924808ee879e</uuid>
+  </card>
+  <card>
+    <question>die Ablage</question>
+    <answer>гардероб, место для одежды</answer>
+    <comment></comment>
+    <uuid>437c8c58-2b20-444c-800f-c0bc8fc13c3d</uuid>
+  </card>
+  <card>
+    <question>die Diele</question>
+    <answer>коридор</answer>
+    <comment></comment>
+    <uuid>9dcf8c5a-cdc5-4fba-a594-b21bb7cc5a3b</uuid>
+  </card>
+  <card>
+    <question>die Eigentumswohnung</question>
+    <answer>частная квартира</answer>
+    <comment></comment>
+    <uuid>8e46ec96-aded-4db9-b99e-c83761b77e29</uuid>
+  </card>
+  <card>
+    <question>die Eingangstür</question>
+    <answer>входная дверь</answer>
+    <comment></comment>
+    <uuid>6243f457-4a36-4848-8dd1-325772c613cf</uuid>
+  </card>
+  <card>
+    <question>die Garderobe</question>
+    <answer>гардероб</answer>
+    <comment></comment>
+    <uuid>9fe98b5d-db31-4ce0-85a5-058dd62317dd</uuid>
+  </card>
+  <card>
+    <question>die Küche</question>
+    <answer>кухня</answer>
+    <comment></comment>
+    <uuid>2c1aa09c-1dcc-486e-ab35-e123f1756782</uuid>
+  </card>
+  <card>
+    <question>die Mietwohnung</question>
+    <answer>квартира, сдаваемая внаем</answer>
+    <comment></comment>
+    <uuid>ca933ecf-0e59-4fb8-b0ab-9813633b6b32</uuid>
+  </card>
+  <card>
+    <question>die Möbel</question>
+    <answer>мебель</answer>
+    <comment></comment>
+    <uuid>b1f0193e-fef2-4f61-bb4e-103f9d63af21</uuid>
+  </card>
+  <card>
+    <question>die Schublade</question>
+    <answer>выдвижной ящик</answer>
+    <comment></comment>
+    <uuid>a2f84a65-541f-4dcd-9671-9d6f541ac1a0</uuid>
+  </card>
+  <card>
+    <question>die Treppe</question>
+    <answer>лестница</answer>
+    <comment></comment>
+    <uuid>2f9aed16-d598-45d5-add6-9d7c823b029a</uuid>
+  </card>
+  <card>
+    <question>die Tür</question>
+    <answer>дверь</answer>
+    <comment></comment>
+    <uuid>c03745cb-583f-440b-aecf-d06281f8821f</uuid>
+  </card>
+  <card>
+    <question>die Vase</question>
+    <answer>ваза</answer>
+    <comment></comment>
+    <uuid>ae454c61-4098-4669-bf81-eb893ab95d87</uuid>
+  </card>
+  <card>
+    <question>die Wohnung</question>
+    <answer>квартира</answer>
+    <comment></comment>
+    <uuid>7e253939-491f-4859-98f4-4237289e7bd6</uuid>
+  </card>
+</cards>
+</stack>

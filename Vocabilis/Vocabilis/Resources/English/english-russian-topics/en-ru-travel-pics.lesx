@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>66f14c65-aa2f-4046-88a9-1348bf222bd2</uuid>
+  <title>Путешествия</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>bus</question>
+    <answer>автобус</answer>
+    <comment>[bʌs]</comment>
+    <answer_picture>bus.gif</answer_picture>
+    <uuid>f27e3db0-5db4-441f-9a28-39ba10a59dfc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>car</question>
+    <answer>машина</answer>
+    <comment>[kɑː]</comment>
+    <answer_picture>car.gif</answer_picture>
+    <uuid>2ffa4598-b25a-46cc-860f-298e839caa9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>backpack</question>
+    <answer>рюкзак (туристический)</answer>
+    <comment>[&apos;bækpæk]</comment>
+    <answer_picture>backpack.gif</answer_picture>
+    <uuid>6392f5c3-5fe1-4824-a456-6f7f4c65a64d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>check out</question>
+    <answer>расплатиться и освободить номер в гостинице</answer>
+    <comment>[ʧek аʊt]</comment>
+    <answer_picture>check_out.gif</answer_picture>
+    <uuid>ac079822-1ad8-4f61-beb7-f0aa12040561</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>check in</question>
+    <answer>регистрироваться (в гостинице)</answer>
+    <comment>[ʧek ɪn]</comment>
+    <answer_picture>check_in.gif</answer_picture>
+    <uuid>a7a92daa-4ec6-43c7-8771-e81b3e47e387</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>arrive</question>
+    <answer>прибывать, приезжать</answer>
+    <comment>[əˈrаɪv]</comment>
+    <answer_picture>arrive.gif</answer_picture>
+    <uuid>862bd683-9362-4bdb-8d39-d85352b67ce3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bus terminal</question>
+    <answer>автовокзал</answer>
+    <comment>[bʌs ˈtɜːmɪnl]</comment>
+    <answer_picture>bus_terminal.gif</answer_picture>
+    <uuid>54dee11e-1fc8-45a8-908f-f483b265b29a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bellhop</question>
+    <answer>амер. коридорный, посыльный (в гостинице)</answer>
+    <comment>[ˈbelhɒp]</comment>
+    <answer_picture>bellhop.gif</answer_picture>
+    <uuid>ed0ad0b5-2862-4386-a8f5-de7ab9114019</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bicycle</question>
+    <answer>велосипед</answer>
+    <comment>[ˈbаɪsɪkl]</comment>
+    <answer_picture>bicycle.gif</answer_picture>
+    <uuid>2376c674-21f1-43b7-a59f-05b0ce0d0a71</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bus stop</question>
+    <answer>автобусная остановка</answer>
+    <comment>[bʌs stɒp]</comment>
+    <answer_picture>bus_stop.gif</answer_picture>
+    <uuid>baacdc6e-385f-456f-8131-a47cca99fc61</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>customs</question>
+    <answer>таможня</answer>
+    <comment>[ˈkʌstəmz]</comment>
+    <answer_picture>customs.gif</answer_picture>
+    <uuid>a34e6c3a-0b99-4ee9-bb5a-cc6d78eb1dfc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>doorman</question>
+    <answer>амер. привратник, швейцар</answer>
+    <comment>[ˈdɔːmən]</comment>
+    <answer_picture>doorman.gif</answer_picture>
+    <uuid>fff00fc3-351e-4eb6-871e-50c9a4c05c6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>drive</question>
+    <answer>вести (машину), ехать</answer>
+    <comment>[drаɪv]</comment>
+    <answer_picture>drive.gif</answer_picture>
+    <uuid>9d53eebd-092a-4c91-b95a-1bf9d52cd8e4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>east</question>
+    <answer>восток</answer>
+    <comment>[iːst]</comment>
+    <answer_picture>east.gif</answer_picture>
+    <uuid>7a0b5440-c4b2-44fb-a4e8-1024dc138f7d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fast</question>
+    <answer>быстрый, быстро</answer>
+    <comment>[fɑːst]</comment>
+    <answer_picture>fast.gif</answer_picture>
+    <uuid>1eeaf5bf-c8f6-472b-a2cc-010ac4536f2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fly</question>
+    <answer>летать</answer>
+    <comment>[tə flаɪ]</comment>
+    <answer_picture>to_fly.gif</answer_picture>
+    <uuid>c6ca124b-cef8-463a-b4a2-22007763a72c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>guest</question>
+    <answer>гость</answer>
+    <comment>[gest]</comment>
+    <answer_picture>guest.gif</answer_picture>
+    <uuid>a2ac1f96-4564-4fb7-a1e7-24d2f111c433</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>highway</question>
+    <answer>шоссе</answer>
+    <comment>[ˈhаɪweɪ]</comment>
+    <answer_picture>highway.gif</answer_picture>
+    <uuid>ae444cda-bada-4f14-b6f9-3e65dcbb4bf2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hotel lobby</question>
+    <answer>вестибюль гостиницы</answer>
+    <comment>[həʊˈtel ˈlɒbɪ]</comment>
+    <answer_picture>hotel_lobby.gif</answer_picture>
+    <uuid>7c96b28a-5d8c-41e0-aa58-f2eba374ef62</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hotel room</question>
+    <answer>номер в гостинице</answer>
+    <comment>[həʊˈtel ruːm]</comment>
+    <answer_picture>hotel_room.gif</answer_picture>
+    <uuid>1c68d050-dc06-4981-98fb-05444ac1b86a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>housekeeper</question>
+    <answer>домашняя работница</answer>
+    <comment>[ˈhаʊsˌkiːpə]</comment>
+    <answer_picture>housekeeper.gif</answer_picture>
+    <uuid>db2967a2-c6f5-40f5-862e-c59ea8434a2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>leave</question>
+    <answer>покидать, уезжать из</answer>
+    <comment>[liːv]</comment>
+    <answer_picture>leave.gif</answer_picture>
+    <uuid>b1910bcf-e28a-493f-9d61-6db53265620d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>motorbike</question>
+    <answer>мотоцикл</answer>
+    <comment>[&apos;məutəbaɪk]</comment>
+    <answer_picture>motorbike.gif</answer_picture>
+    <uuid>f38ab0ed-c1f4-4d77-a214-47f96bcb5e9e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>north</question>
+    <answer>север</answer>
+    <comment>[nɔːθ]</comment>
+    <answer_picture>north.gif</answer_picture>
+    <uuid>82c5edc7-05f3-43fd-bf03-77e9a6bfbce7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pack your suitcase</question>
+    <answer>упаковывать (ваш) чемодан</answer>
+    <comment>[pæk jə ˈsjuːtkeɪs]</comment>
+    <answer_picture>pack_your_suitcase.gif</answer_picture>
+    <uuid>ebc6014b-d9b8-4ea9-9032-62df8a7b3e0b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>passport</question>
+    <answer>паспорт</answer>
+    <comment>[ˈpɑːspɔːt]</comment>
+    <answer_picture>passport.gif</answer_picture>
+    <uuid>8c17dcb1-6361-4021-8996-1576fbab4c0f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>plane</question>
+    <answer>самолёт</answer>
+    <comment>[pleɪn]</comment>
+    <answer_picture>plane.gif</answer_picture>
+    <uuid>2929ce99-e3f2-4af3-b7d2-74b8e6c0e2f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>railroad station</question>
+    <answer>железнодорожный вокзал</answer>
+    <comment>[ˈreɪlrəʊd ˈsteɪʃən]</comment>
+    <answer_picture>railroad_station.gif</answer_picture>
+    <uuid>80e38d4f-7438-4e4f-bd7d-54f67bea1783</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>receptionist</question>
+    <answer>администратор (в гостинице)</answer>
+    <comment>[rɪˈsepʃənɪst]</comment>
+    <answer_picture>receptionist.gif</answer_picture>
+    <uuid>32558606-5376-417c-80b7-50521d614f7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ride a bicycle</question>
+    <answer>ездить на велосипеде</answer>
+    <comment>[rаɪd ə ˈbаɪsɪkl]</comment>
+    <answer_picture>ride_a_bicycle.gif</answer_picture>
+    <uuid>5e3353e7-ff45-43c3-802d-5b521253344f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ride a motorbike</question>
+    <answer>ездить на мотоцикле</answer>
+    <comment>[rаɪd ə &apos;məutəbaɪk]</comment>
+    <answer_picture>ride_a_motorbike.gif</answer_picture>
+    <uuid>bff813bd-e40c-4e88-8bc5-2459a56987b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>room service</question>
+    <answer>подача еды и напитков в номера</answer>
+    <comment>[ruːm ˈsɜːvɪs]</comment>
+    <answer_picture>room_service.gif</answer_picture>
+    <uuid>50bbafd2-425a-4bfd-aec3-3623fc875618</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sailboat</question>
+    <answer>парусное судно, парусная шлюпка</answer>
+    <comment>[ˈseɪlbəʊt]</comment>
+    <answer_picture>sailboat.gif</answer_picture>
+    <uuid>916600a9-eb20-453f-acd0-a0560f345f4d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>schedule</question>
+    <answer>амер. расписание (транспорта) (S. timetable)</answer>
+    <comment>[ˈʃedjuːl]</comment>
+    <answer_picture>schedule.gif</answer_picture>
+    <uuid>4e676e03-db95-4e5f-b89a-cddd9267717a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ship</question>
+    <answer>корабль</answer>
+    <comment>[ʃɪp]</comment>
+    <answer_picture>ship.gif</answer_picture>
+    <uuid>ee73e160-b7a9-4f94-b4c8-af6988e13f6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sightseeing</question>
+    <answer>осмотр достопримечательностей</answer>
+    <comment>[ˈsаɪtˌsiːɪŋ]</comment>
+    <answer_picture>sightseeing.gif</answer_picture>
+    <uuid>a0d48289-4696-4398-be47-f86da83890c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>signboard</question>
+    <answer>вывеска; указатель</answer>
+    <comment>[ˈsаɪnbɔːd]</comment>
+    <answer_picture>signboard.gif</answer_picture>
+    <uuid>8f2637da-8989-49de-b5ec-ad45e49b57ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>slow</question>
+    <answer>медленный</answer>
+    <comment>[sləʊ]</comment>
+    <answer_picture>slow.gif</answer_picture>
+    <uuid>a9776e32-a8b9-4dd1-8c6e-3626437249e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>soapdish</question>
+    <answer>мыльница</answer>
+    <comment>[səʊp dɪʃ]</comment>
+    <answer_picture>soapdish.gif</answer_picture>
+    <uuid>a1f72919-ab63-41ba-b711-049110401000</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>south</question>
+    <answer>юг</answer>
+    <comment>[sаʊθ]</comment>
+    <answer_picture>south.gif</answer_picture>
+    <uuid>9e60c579-ef44-4ddc-ac65-25677d8b2885</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>station</question>
+    <answer>вокзал, станция</answer>
+    <comment>[ˈsteɪʃən]</comment>
+    <answer_picture>station.gif</answer_picture>
+    <uuid>7802eb36-28dc-492b-b676-eaf7fb8cb0bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>stay in a hotel</question>
+    <answer>остановиться в гостинице</answer>
+    <comment>[steɪ ɪn ə həʊˈtel]</comment>
+    <answer_picture>stay_in_a_hotel.gif</answer_picture>
+    <uuid>4845d239-12e7-4d54-8303-2a77962ddd7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>street</question>
+    <answer>улица</answer>
+    <comment>[striːt]</comment>
+    <answer_picture>street.gif</answer_picture>
+    <uuid>e519beb3-a971-4cca-b505-2747105231dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>suitcase</question>
+    <answer>чемодан</answer>
+    <comment>[ˈsjuːtkeɪs]</comment>
+    <answer_picture>suitcase.gif</answer_picture>
+    <uuid>cfcb38ee-eadf-42da-8e2a-7251b5981ce5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>taxi</question>
+    <answer>такси</answer>
+    <comment>[ˈtæksɪ]</comment>
+    <answer_picture>taxi.gif</answer_picture>
+    <uuid>33f3000b-ff10-4b2e-a318-c54e3cca7c8f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ticket</question>
+    <answer>билет</answer>
+    <comment>[ˈtɪkɪt]</comment>
+    <answer_picture>ticket.gif</answer_picture>
+    <uuid>f0646226-7fff-4e22-a847-db5924883236</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>towtruck</question>
+    <answer>тягач</answer>
+    <comment>[təʊ trʌk]</comment>
+    <answer_picture>towtruck.gif</answer_picture>
+    <uuid>2fd9f7d3-a0f1-45e7-9879-0cddb0bccdaa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>traffic jam</question>
+    <answer>&quot;пробка&quot; (на дороге)</answer>
+    <comment>[ˈtræfɪk ʤæm]</comment>
+    <answer_picture>traffic_jam.gif</answer_picture>
+    <uuid>98491838-61c4-4aa4-8b84-2aced1b93a37</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>train</question>
+    <answer>поезд</answer>
+    <comment>[treɪn]</comment>
+    <answer_picture>train.gif</answer_picture>
+    <uuid>5cf92723-8aaf-4cfb-aa77-6d6bafaf805a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>travel</question>
+    <answer>путешествовать</answer>
+    <comment>[ˈtrævl]</comment>
+    <answer_picture>travel.gif</answer_picture>
+    <uuid>8307e705-5976-405f-b0b3-53828b24786c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wait</question>
+    <answer>ждать</answer>
+    <comment>[weɪt]</comment>
+    <answer_picture>wait.gif</answer_picture>
+    <uuid>e0375e47-5406-4568-86ce-1b23bde47fe7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>walk</question>
+    <answer>гулять, ходить</answer>
+    <comment>[wɔːk]</comment>
+    <answer_picture>walk.gif</answer_picture>
+    <uuid>c52d7bf0-3c5b-452b-99eb-195560d9213c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wander</question>
+    <answer>блуждать</answer>
+    <comment>[ˈwɒndə]</comment>
+    <answer_picture>wander.gif</answer_picture>
+    <uuid>36cddd22-ee9b-4e18-9bbd-8c73d67ec372</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>west</question>
+    <answer>запад</answer>
+    <comment>[west]</comment>
+    <answer_picture>west.gif</answer_picture>
+    <uuid>77f3f9d5-f894-4544-924c-0d37abad8aae</uuid>
+  </card>
+</cards>
+</stack>

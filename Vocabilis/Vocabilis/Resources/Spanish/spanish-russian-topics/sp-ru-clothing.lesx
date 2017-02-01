@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e4c38994-3646-4863-a27a-93639f4183b2</uuid>
+  <title>Одежда</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el cinturón</question>
+    <answer>ремень, пояс</answer>
+    <comment></comment>
+    <uuid>10c4c8c8-fa69-45da-8d5f-3f4fccce4f64</uuid>
+  </card>
+  <card>
+    <question>negro</question>
+    <answer>чёрный</answer>
+    <comment></comment>
+    <uuid>666ffa00-ac06-4c9b-a8f7-a77eb45500b6</uuid>
+  </card>
+  <card>
+    <question>la blusa</question>
+    <answer>блузка, кофточка</answer>
+    <comment></comment>
+    <uuid>d0cfdff7-10b0-45e1-ad45-b8cb14fcdb04</uuid>
+  </card>
+  <card>
+    <question>azul</question>
+    <answer>синий, голубой</answer>
+    <comment></comment>
+    <uuid>e1226948-e79e-40f1-988e-1c0fd76f81a9</uuid>
+  </card>
+  <card>
+    <question>la pulsera</question>
+    <answer>браслет</answer>
+    <comment></comment>
+    <uuid>fdb274d9-ae0f-4e25-9c59-7a102d0feb07</uuid>
+  </card>
+  <card>
+    <question>marrón</question>
+    <answer>коричневый</answer>
+    <comment></comment>
+    <uuid>db89c55b-cce4-4461-a61a-0f191a0b2d98</uuid>
+  </card>
+  <card>
+    <question>el botón</question>
+    <answer>кнопка</answer>
+    <comment></comment>
+    <uuid>fb3fa868-5168-48de-9a8e-4a3f3cf71500</uuid>
+  </card>
+  <card>
+    <question>a cuadros</question>
+    <answer>клетчатый, в клетку</answer>
+    <comment></comment>
+    <uuid>9f2380ad-9c7e-4907-9296-c85ff52619ba</uuid>
+  </card>
+  <card>
+    <question>el abrigo</question>
+    <answer>пальто</answer>
+    <comment></comment>
+    <uuid>8d5004bb-eb73-4ca8-9ea3-51e39b1438a6</uuid>
+  </card>
+  <card>
+    <question>el cuello</question>
+    <answer>воротник</answer>
+    <comment></comment>
+    <uuid>6b9b94be-65d6-479b-ab09-9f8b680379f7</uuid>
+  </card>
+  <card>
+    <question>el vestido</question>
+    <answer>платье (женское)</answer>
+    <comment></comment>
+    <uuid>4c2002e9-0471-45f9-9502-006cc7391a43</uuid>
+  </card>
+  <card>
+    <question>los pendientes</question>
+    <answer>серёжки</answer>
+    <comment></comment>
+    <uuid>65a49c4f-b6dd-4a25-a3a7-135a0ac44ca9</uuid>
+  </card>
+  <card>
+    <question>formal</question>
+    <answer>официальный</answer>
+    <comment></comment>
+    <uuid>86f8a9b9-7ae0-48b0-9c00-0f9f70bcefd9</uuid>
+  </card>
+  <card>
+    <question>las gafas</question>
+    <answer>очки</answer>
+    <comment></comment>
+    <uuid>54fbb591-dbee-468c-a51b-d52d12112151</uuid>
+  </card>
+  <card>
+    <question>verde</question>
+    <answer>зелёный</answer>
+    <comment></comment>
+    <uuid>2218e27f-a3ee-4349-b150-7a191c2413b9</uuid>
+  </card>
+  <card>
+    <question>gris</question>
+    <answer>серый</answer>
+    <comment></comment>
+    <uuid>7b68aa4d-92f6-4fd1-b742-f8c7ec680f49</uuid>
+  </card>
+  <card>
+    <question>el bolso</question>
+    <answer>дамская сумочка</answer>
+    <comment></comment>
+    <uuid>dcf1ab31-64fe-4672-a14d-195bc7f12c95</uuid>
+  </card>
+  <card>
+    <question>el sombrero</question>
+    <answer>шляпа</answer>
+    <comment></comment>
+    <uuid>85a8e81e-93d5-4039-802f-87b4103a0838</uuid>
+  </card>
+  <card>
+    <question>informal</question>
+    <answer>обычный (об одежде), неофициальный</answer>
+    <comment></comment>
+    <uuid>124ab135-0c5b-4b68-b00e-3e31fbb23411</uuid>
+  </card>
+  <card>
+    <question>la plancha</question>
+    <answer>утюг</answer>
+    <comment></comment>
+    <uuid>988708c6-9e4f-477d-9313-3d793ea51c47</uuid>
+  </card>
+  <card>
+    <question>la chaqueta</question>
+    <answer>куртка</answer>
+    <comment></comment>
+    <uuid>21f35a6d-c073-4966-971d-db369752df15</uuid>
+  </card>
+  <card>
+    <question>los jeans</question>
+    <answer>джинсы</answer>
+    <comment></comment>
+    <uuid>6eda5b9f-486e-4474-8d8d-09920e77207b</uuid>
+  </card>
+  <card>
+    <question>la chaqueta de jean</question>
+    <answer>джинсовая куртка</answer>
+    <comment></comment>
+    <uuid>4c9d5a1c-c478-407a-9293-823f8dc4a4f8</uuid>
+  </card>
+  <card>
+    <question>granate</question>
+    <answer>красно-коричневый</answer>
+    <comment></comment>
+    <uuid>c9c741ca-50d1-4f2f-bb62-52581c1246a8</uuid>
+  </card>
+  <card>
+    <question>el collar</question>
+    <answer>ожерелье</answer>
+    <comment></comment>
+    <uuid>9f529baa-75df-4743-89cf-d1ccdce74b14</uuid>
+  </card>
+  <card>
+    <question>anaranjado</question>
+    <answer>оранжевый</answer>
+    <comment></comment>
+    <uuid>85bc1153-a99c-4d19-a614-7642b08a6970</uuid>
+  </card>
+  <card>
+    <question>rosado</question>
+    <answer>розовый</answer>
+    <comment></comment>
+    <uuid>7f6a6696-0590-4428-9b4a-e48b987a2620</uuid>
+  </card>
+  <card>
+    <question>el bolsillo</question>
+    <answer>карман</answer>
+    <comment></comment>
+    <uuid>1a2be863-290f-4f77-856c-2f8266a8324d</uuid>
+  </card>
+  <card>
+    <question>morado</question>
+    <answer>фиолетовый</answer>
+    <comment></comment>
+    <uuid>b6abf323-894c-4842-aadd-05473aac54f2</uuid>
+  </card>
+  <card>
+    <question>ponerse</question>
+    <answer>надевать</answer>
+    <comment></comment>
+    <uuid>9d5d10c8-4d43-4a29-98f8-0f5df1661a6b</uuid>
+  </card>
+  <card>
+    <question>rojo</question>
+    <answer>красный</answer>
+    <comment></comment>
+    <uuid>d1a8f43a-4a92-4d65-9999-7b2839e84139</uuid>
+  </card>
+  <card>
+    <question>el anillo</question>
+    <answer>кольцо</answer>
+    <comment></comment>
+    <uuid>b5406ed2-b250-4698-b842-62fe92efd1a8</uuid>
+  </card>
+  <card>
+    <question>la bufanda</question>
+    <answer>шарф</answer>
+    <comment></comment>
+    <uuid>be3e446e-8213-4d44-b975-4e23d68af100</uuid>
+  </card>
+  <card>
+    <question>la camisa</question>
+    <answer>рубашка</answer>
+    <comment></comment>
+    <uuid>3544439b-6f24-4684-9a9b-7a1167a7c8f9</uuid>
+  </card>
+  <card>
+    <question>los zapatos</question>
+    <answer>туфли</answer>
+    <comment></comment>
+    <uuid>3d9239a6-39e8-4331-a45f-27412fb04a8f</uuid>
+  </card>
+  <card>
+    <question>los pantalones cortos</question>
+    <answer>шорты</answer>
+    <comment></comment>
+    <uuid>1d07152e-dbf1-4b58-955c-1f43ba4bb405</uuid>
+  </card>
+  <card>
+    <question>la falda</question>
+    <answer>юбка</answer>
+    <comment></comment>
+    <uuid>b741c976-a5f2-49a7-acb1-8d5f4aeadc64</uuid>
+  </card>
+  <card>
+    <question>los calcetines</question>
+    <answer>носки</answer>
+    <comment></comment>
+    <uuid>75273e15-62df-4d75-bf6e-6dcaaffc7e34</uuid>
+  </card>
+  <card>
+    <question>manchado</question>
+    <answer>пятнистый, крапчатый</answer>
+    <comment></comment>
+    <uuid>e52ff1e3-3805-4e29-a6ac-8025c6a26b64</uuid>
+  </card>
+  <card>
+    <question>a rayas</question>
+    <answer>полосатый</answer>
+    <comment></comment>
+    <uuid>3dd5e8bc-2399-4e87-946d-d19bed78410c</uuid>
+  </card>
+  <card>
+    <question>el traje</question>
+    <answer>костюм</answer>
+    <comment></comment>
+    <uuid>b4a1a2ca-80a8-46cc-9cd8-686b41fa31f2</uuid>
+  </card>
+  <card>
+    <question>las gafas de sol</question>
+    <answer>солцезащитные очки</answer>
+    <comment></comment>
+    <uuid>149ea15f-e2a8-4b2a-ba83-024d33f966ef</uuid>
+  </card>
+  <card>
+    <question>quitarse</question>
+    <answer>снимать</answer>
+    <comment></comment>
+    <uuid>79464249-e92a-4773-b3b2-5970d5a82257</uuid>
+  </card>
+  <card>
+    <question>ordenado</question>
+    <answer>опрятный, аккуратный</answer>
+    <comment></comment>
+    <uuid>3c714bad-1704-4fb8-b074-9a7b144a42e8</uuid>
+  </card>
+  <card>
+    <question>la corbata</question>
+    <answer>галстук</answer>
+    <comment></comment>
+    <uuid>81340df3-c724-49ec-96d5-d88c98c849a8</uuid>
+  </card>
+  <card>
+    <question>los zapatos deportivos</question>
+    <answer>кроссовки</answer>
+    <comment></comment>
+    <uuid>fbb68508-2d92-4878-8715-3ab230f70950</uuid>
+  </card>
+  <card>
+    <question>los pantalones</question>
+    <answer>брюки</answer>
+    <comment></comment>
+    <uuid>18afc813-43fd-40df-be2d-a99cad470bae</uuid>
+  </card>
+  <card>
+    <question>la camiseta</question>
+    <answer>нижняя рубашка</answer>
+    <comment></comment>
+    <uuid>05e3ae74-b0cd-4973-a7ea-981662c602e1</uuid>
+  </card>
+  <card>
+    <question>desordenado</question>
+    <answer>неопрятный, неаккуратный</answer>
+    <comment></comment>
+    <uuid>872ca73f-8d97-42ca-9202-e5bcc20907a0</uuid>
+  </card>
+  <card>
+    <question>la lavadora</question>
+    <answer>стиральная машина</answer>
+    <comment></comment>
+    <uuid>8c26960a-2cee-4c69-aa06-8578a62cac4c</uuid>
+  </card>
+  <card>
+    <question>el reloj mecánico</question>
+    <answer>механические часы</answer>
+    <comment></comment>
+    <uuid>24075365-e3df-4dd1-833a-b9343c657e41</uuid>
+  </card>
+  <card>
+    <question>llevar</question>
+    <answer>носить</answer>
+    <comment></comment>
+    <uuid>0a07a162-ad89-486d-9340-bfbd301b2556</uuid>
+  </card>
+  <card>
+    <question>blanco</question>
+    <answer>белый</answer>
+    <comment></comment>
+    <uuid>b55a6122-ffa4-4db5-aed7-b8ab532c004b</uuid>
+  </card>
+  <card>
+    <question>el abrigo de invierno</question>
+    <answer>зимнее пальто</answer>
+    <comment></comment>
+    <uuid>b43f0e74-442e-463a-8f55-28b749e318e5</uuid>
+  </card>
+  <card>
+    <question>amarillo</question>
+    <answer>жёлтый</answer>
+    <comment></comment>
+    <uuid>4153b0e5-89ce-44ed-a406-4b6206864e0c</uuid>
+  </card>
+  <card>
+    <question>la cremallera</question>
+    <answer>застёжка-молния</answer>
+    <comment></comment>
+    <uuid>f0dcb06d-67ff-4ded-8bac-10e778e62eef</uuid>
+  </card>
+</cards>
+</stack>

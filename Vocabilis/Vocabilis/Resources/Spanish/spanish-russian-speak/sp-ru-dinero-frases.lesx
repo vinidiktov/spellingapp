@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>52f11b48-0cd7-4fdc-944a-6970576e7e4f</uuid>
+  <title>Деньги. Обмен валюты :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2004</year>
+     <month>4</month>
+     <day>19</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde puedo cambiar dólares?</question>
+    <answer>Где я могу обменять доллары?</answer>
+    <comment></comment>
+    <uuid>5cab49c6-5749-4974-9239-ff3d810c606b</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra el banco más próximo?</question>
+    <answer>Где находится ближайший банк?</answer>
+    <comment></comment>
+    <uuid>4d5c0c70-0f57-42bb-8de8-5f64f1cc4767</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra la oficina de cambio más próxima?</question>
+    <answer>Где находится ближайший обменный пункт?</answer>
+    <comment></comment>
+    <uuid>af1bdcbb-4633-49ec-ad05-ace8f89e32c3</uuid>
+  </card>
+  <card>
+    <question>¿Dónde puedo cambiar euros?</question>
+    <answer>Где я могу обменять евро?</answer>
+    <comment></comment>
+    <uuid>4f40eaff-c5ab-491c-bb5f-f0eff9a4f2b9</uuid>
+  </card>
+  <card>
+    <question>¿Dónde puedo cambiar cheques de viaje?</question>
+    <answer>Где я могу обменять дорожные чеки?</answer>
+    <comment></comment>
+    <uuid>2adeca96-5ed9-4973-8d75-8ab8ee690448</uuid>
+  </card>
+  <card>
+    <question>Puede cambiar dólares en la oficina de cambio del hotel.</question>
+    <answer>Вы можете обменять доллары в обменном пункте гостиницы.</answer>
+    <comment></comment>
+    <uuid>b51d3552-7455-427c-9c03-9e2411a8fa41</uuid>
+  </card>
+  <card>
+    <question>Puede cambiar euros en la oficina de cambio del hotel.</question>
+    <answer>Вы можете обменять евро в обменном пункте гостиницы.</answer>
+    <comment></comment>
+    <uuid>1913add5-2672-4c84-b716-b6a51958b58b</uuid>
+  </card>
+  <card>
+    <question>Puede cambiar cheques de viaje en la oficina de cambio del hotel.</question>
+    <answer>Вы можете обменять дорожные чеки в обменном пункте гостиницы.</answer>
+    <comment></comment>
+    <uuid>bc4201c0-578f-4774-9660-d902ca4f807a</uuid>
+  </card>
+  <card>
+    <question>¿Ha llegado a mi nombre un cheque?</question>
+    <answer>На моё имя поступил чек?</answer>
+    <comment></comment>
+    <uuid>09cff6e3-b2d5-496c-a01d-7b158ce9c597</uuid>
+  </card>
+  <card>
+    <question>¿Ha llegado a mi nombre una transferencia?</question>
+    <answer>На моё имя поступил денежный перевод?</answer>
+    <comment></comment>
+    <uuid>f0a62d12-ffe2-46ba-886e-56a1c1d49302</uuid>
+  </card>
+  <card>
+    <question>¿A qué ventanilla debo dirigirme?</question>
+    <answer>К какому окну мне подойти?</answer>
+    <comment></comment>
+    <uuid>81266eea-d83f-4217-a8fa-d4808e9c3962</uuid>
+  </card>
+  <card>
+    <question>¿A qué mostrador debo dirigirme?</question>
+    <answer>К какой стойке мне подойти?</answer>
+    <comment></comment>
+    <uuid>8d29b62d-40db-4957-9370-0bf443254c96</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora funciona la oficina de cambio?</question>
+    <answer>Когда открыт (=работает) обменный пункт?</answer>
+    <comment></comment>
+    <uuid>ec893335-2ad4-4e50-b83d-5699aee748dd</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora funciona el banco?</question>
+    <answer>Когда открыт (=работает) банк?</answer>
+    <comment></comment>
+    <uuid>eee6420f-317c-4817-8fbc-9055abcd906a</uuid>
+  </card>
+  <card>
+    <question>Todos los días, a excepción de sábados y domingos.</question>
+    <answer>Ежедневно, кроме субботы и воскресенья.</answer>
+    <comment></comment>
+    <uuid>080be151-955a-4a55-b161-55f3f2bf779c</uuid>
+  </card>
+  <card>
+    <question>Tengo cheques de viaje.</question>
+    <answer>У меня дорожные чеки.</answer>
+    <comment></comment>
+    <uuid>67083ffe-acb0-4d55-b706-baf1c0320e38</uuid>
+  </card>
+  <card>
+    <question>¿Cómo está el cambio del dólar?</question>
+    <answer>Какой курс обмена доллара?</answer>
+    <comment></comment>
+    <uuid>786752e3-4dbe-4fc2-bd67-4f713b6ae1ee</uuid>
+  </card>
+  <card>
+    <question>¿Cómo está el cambio del euro?</question>
+    <answer>Какой курс обмена евро?</answer>
+    <comment></comment>
+    <uuid>bef5a598-32d0-45e9-9108-2fdbb0726265</uuid>
+  </card>
+  <card>
+    <question>Déme, por favor, su pasaporte.</question>
+    <answer>Дайте, пожалуйста, ваш паспорт.</answer>
+    <comment></comment>
+    <uuid>ea507c40-ceb1-4b60-8b98-b05925e10bb9</uuid>
+  </card>
+  <card>
+    <question>Ha llegado dinero a su nombre.</question>
+    <answer>На ваше имя поступили деньги.</answer>
+    <comment></comment>
+    <uuid>b505eb66-f69f-47ee-954e-184202f52b6b</uuid>
+  </card>
+  <card>
+    <question>Cámbieme 100 euros, por favor.</question>
+    <answer>Обменяйте (мне), пожалуйста, 100 евро.</answer>
+    <comment></comment>
+    <uuid>4e93125c-1ddc-4c95-8103-93427bc3effe</uuid>
+  </card>
+  <card>
+    <question>Quisiera cambiar dólares en euros.</question>
+    <answer>Я бы хотел(а) обменять доллары на евро.</answer>
+    <comment></comment>
+    <uuid>bb2c0f83-bd5b-493f-9f9a-238938baa6ae</uuid>
+  </card>
+  <card>
+    <question>Quisiera cambiar euros en dólares.</question>
+    <answer>Я бы хотел(а) обменять евро на доллары.</answer>
+    <comment></comment>
+    <uuid>8e1a2271-02c4-4a90-837e-f60046607290</uuid>
+  </card>
+  <card>
+    <question>¿Qué comision cobran?</question>
+    <answer>Какой размер комиссионных?</answer>
+    <comment></comment>
+    <uuid>0b3741d5-46b4-4cb0-b2cc-90ab1566f33e</uuid>
+  </card>
+  <card>
+    <question>¿Cómo está el cambio?</question>
+    <answer>Какой курс обмена?</answer>
+    <comment></comment>
+    <uuid>05b3dcba-45e2-4f3f-8671-a41c7316f1b0</uuid>
+  </card>
+  <card>
+    <question>Quisiera transferir dinero.</question>
+    <answer>Я бы хотел(а) перевести деньги.</answer>
+    <comment></comment>
+    <uuid>f0f254a6-9840-48b6-80c6-81a56ca8503f</uuid>
+  </card>
+  <card>
+    <question>Quisiera abrir una cuenta.</question>
+    <answer>Я бы хотел(а) открыть счёт.</answer>
+    <comment></comment>
+    <uuid>22d2ffe8-2020-4341-bc85-d9d24bc508f0</uuid>
+  </card>
+  <card>
+    <question>Quisiera retirar dinero.</question>
+    <answer>Я бы хотел(а) снять деньги.</answer>
+    <comment></comment>
+    <uuid>6bfed1a3-2ea8-46da-82d3-2f55c46c8e26</uuid>
+  </card>
+  <card>
+    <question>Quisiera ingresar dinero.</question>
+    <answer>Я бы хотел(а) внести деньги.</answer>
+    <comment></comment>
+    <uuid>98d13d74-1250-4547-b0f4-12d56d24eb87</uuid>
+  </card>
+  <card>
+    <question>Quisiera cobrar un cheque.</question>
+    <answer>Я бы хотел(а) обналичить чек.</answer>
+    <comment></comment>
+    <uuid>6c3819d7-a237-4b64-a0b8-c0184b5b220f</uuid>
+  </card>
+  <card>
+    <question>¡Firme aquí, por favor!</question>
+    <answer>Распишитесь здесь, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>3fdc3bde-d0a7-4448-b467-da816b2f840f</uuid>
+  </card>
+  <card>
+    <question>Necesito dinero suelto.</question>
+    <answer>Мне нужна мелочь.</answer>
+    <comment></comment>
+    <uuid>dbaf9809-3205-4644-9d84-b358f51ae35f</uuid>
+  </card>
+  <card>
+    <question>Dígame su número de cuenta, por favor.</question>
+    <answer>Назовите (мне), пожалуйста, номер вашего счета.</answer>
+    <comment></comment>
+    <uuid>fc5707c0-ba47-4d4b-a223-5ee19a2673bc</uuid>
+  </card>
+  <card>
+    <question>Denme, por favor, el resguardo de cambio.</question>
+    <answer>Дайте (мн.ч.) мне, пожалуйста, квитанцию об обмене валюты.</answer>
+    <comment></comment>
+    <uuid>43996d0f-a8d6-48e6-8a98-2e841d2bebb5</uuid>
+  </card>
+  <card>
+    <question>Cámbieme en billetes pequeños.</question>
+    <answer>Разменяйте (мне) мелкой купюрой.</answer>
+    <comment></comment>
+    <uuid>0ea9b7e7-68e4-4f38-bd0c-8797f52760c6</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7235519a-f7b4-4c30-b14d-30116b8b5463</uuid>
+  <title>Услуги в гостинице :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Please take my baggage to my room.</question>
+    <answer>Пожалуйста, отнесите мой багаж в мою комнату.</answer>
+    <comment>[pliːz teɪk mаɪ ˈbægɪʤ tə mаɪ ruːm]</comment>
+    <answer_comment>to take - относить, my - мой, моя, мое, baggage - багаж, room - комната</answer_comment>
+    
+    <uuid>543f7457-a9ae-443b-b00b-4d13764519c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take this suitcase myself.</question>
+    <answer>Я отнесу этот чемодан сам.</answer>
+    <comment>[аɪl teɪk ðɪs ˈsuːtˌkeɪs mаɪˈself]</comment>
+    <answer_comment>to take - относить, this - этот, эта, это, suitcase - чемодан, myself - сам, себя</answer_comment>
+    
+    <uuid>2db95a08-6682-4752-83ed-b40444dabaf1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take this bag myself.</question>
+    <answer>Я отнесу эту сумку сам.</answer>
+    <comment>[аɪl teɪk ðɪs bæg mаɪˈself]</comment>
+    <answer_comment>to take - относить, this - этот, эта, это, bag - сумка, myself - сам, себя</answer_comment>
+    
+    <uuid>7d49a4ce-6825-4ed6-ab5a-01552e6fad62</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please give me the key to my room.</question>
+    <answer>Пожалуйста, дайте ключ от моего номера.</answer>
+    <comment>[pliːz gɪv ˈmiː ðə kiː tə mаɪ ruːm]</comment>
+    <answer_comment>to give - давать, me - мне, меня, key - ключ, room - комната</answer_comment>
+    
+    <uuid>2561149a-4d26-4511-85d6-1d803dd49b2c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please wake me at seven a.m.</question>
+    <answer>Пожалуйста, разбудите меня в семь часов утра.</answer>
+    <comment>[pliːz weɪk ˈmiː ət ˈsevən ˌeɪˈem]</comment>
+    <answer_comment>to wake - будить, me - мне, меня, seven - семь, a.m. - до полудня</answer_comment>
+    
+    <uuid>ffa03f83-9f4d-435f-9a9b-7df6fe18fdfb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please give me an extra towel.</question>
+    <answer>Пожалуйста, дайте мне еще одно полотенце.</answer>
+    <comment>[pliːz gɪv ˈmiː ən ˈekstrə ˈtаʊəl]</comment>
+    <answer_comment>to give - давать, me - мне, меня, extra - дополнительный, towel - полотенце</answer_comment>
+    
+    <uuid>9da74b87-fcc0-4658-90b4-a4b0cd0cfd6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please give me an extra pillow.</question>
+    <answer>Пожалуйста, дайте мне еще одну подушку.</answer>
+    <comment>[pliːz gɪv ˈmiː ən ˈekstrə ˈpɪloʊ]</comment>
+    <answer_comment>to give - давать, me - мне, меня, extra - дополнительный, pillow - подушка</answer_comment>
+    
+    <uuid>1dff3622-5f47-4826-a200-62f9c3855a80</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me an ashtray, please.</question>
+    <answer>Дайте, пожалуйста, пепельницу.</answer>
+    <comment>[gɪv ˈmiː ən ˈæʃtreɪ pliːz]</comment>
+    <answer_comment>to give - давать, me - мне, меня, ashtray - пепельница</answer_comment>
+    
+    <uuid>02d1a9e5-4bb4-4e70-acac-2ae4977b8a22</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me a needle with a thread, please.</question>
+    <answer>Дайте, пожалуйста, иголку с ниткой.</answer>
+    <comment>[gɪv ˈmiː ə ˈniːdl wɪð ə θred pliːz]</comment>
+    <answer_comment>to give - давать, me - мне, меня, needle - игла, thread - нитка</answer_comment>
+    
+    <uuid>bc0605b3-0611-4130-8346-2a1c9d5e7fc4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me a bar of soap, please.</question>
+    <answer>Дайте, пожалуйста, мыло (кусок мыла).</answer>
+    <comment>[gɪv ˈmiː ə bɑːr əv soʊp pliːz]</comment>
+    <answer_comment>to give - давать, me - мне, меня, bar - кусок, soap - мыло</answer_comment>
+    
+    <uuid>95d0cc10-48bc-4378-88af-556eb507192f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I ask you to bring my breakfast to the room?</question>
+    <answer>Можно попросить принести завтрак в номер?</answer>
+    <comment>[kæn аɪ æsk jʊ tə brɪŋ mаɪ ˈbrekfəst tə ðə ruːm]</comment>
+    <answer_comment>can - мочь, to ask - просить, you - тебя, вас, to bring - приносить, my - мой, моя, мое, breakfast - завтрак, room - комната</answer_comment>
+    
+    <uuid>e176126a-e716-4743-afd8-90228d9f1830</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When is breakfast served?</question>
+    <answer>Когда у вас подают завтрак?</answer>
+    <comment>[hwen ɪz ˈbrekfəst sɜːrvd]</comment>
+    <answer_comment>when - когда, breakfast - завтрак, served - подаваемый (к столу)</answer_comment>
+    
+    <uuid>604fb472-325e-4d9c-95a9-2817fdfe8557</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When is dinner served?</question>
+    <answer>Когда у вас подают обед?</answer>
+    <comment>[hwen ɪz ˈdɪnər sɜːrvd]</comment>
+    <answer_comment>when - когда, dinner - обед, served - подаваемый (к столу)</answer_comment>
+    
+    <uuid>d9a4a46f-f00f-4cc6-b833-baa2e2767faf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When is supper served?</question>
+    <answer>Когда у вас подают ужин?</answer>
+    <comment>[hwen ɪz ˈsʌpər sɜːrvd]</comment>
+    <answer_comment>when - когда, supper - ужин, served - подаваемый (к столу)</answer_comment>
+    
+    <uuid>1be8dc0c-cb49-4a30-a28b-08829efbdd40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to order supper for two to my room.</question>
+    <answer>Я хочу заказать в номер ужин на двоих.</answer>
+    <comment>[аɪ wɑːnt tə ˈɔːrdər ˈsʌpər fər tuː tə mаɪ ruːm]</comment>
+    <answer_comment>to want - хотеть, to order - заказать, supper - ужин, two - два, room - комната</answer_comment>
+    
+    <uuid>af40f78b-1f1c-4220-b236-cbba8722c744</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to have my linen washed.</question>
+    <answer>Я хочу отдать в стирку постельное белье.</answer>
+    <comment>[аɪd lаɪk tə hæv mаɪ ˈlɪnən wɑːʃt]</comment>
+    <answer_comment>would like - хотеть, to have - иметь, linen - белье, washed - постиранный</answer_comment>
+    
+    <uuid>5a61edaf-8cda-4dab-a769-9d5a23a13f0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to have my pants pressed.</question>
+    <answer>Мне нужно погладить брюки.</answer>
+    <comment>[аɪd lаɪk tə hæv mаɪ pænts prest]</comment>
+    <answer_comment>would like - хотеть, to have - иметь, pants - брюки, pressed - поглаженный</answer_comment>
+    
+    <uuid>0508759c-961c-43a6-97da-1d111e59471c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to have my suit cleaned.</question>
+    <answer>Я хочу отдать в чистку костюм.</answer>
+    <comment>[аɪd lаɪk tə hæv mаɪ suːt kliːnd]</comment>
+    <answer_comment>would like - хотеть, to have - иметь, suit - костюм, cleaned - почищенный</answer_comment>
+    
+    <uuid>fef9711b-a10d-4290-8322-f5c16934b4ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Wash and press this shirt, please.</question>
+    <answer>Выстирайте и погладьте, пожалуйста, эту рубашку.</answer>
+    <comment>[wɑːʃ ənd pres ðɪs ʃɜːrt pliːz]</comment>
+    <answer_comment>to wash - мыть, to press - гладить, this - этот, эта, это, shirt - рубашка</answer_comment>
+    
+    <uuid>9b22007f-7c11-450b-bb5f-1edb85c68411</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s there?</question>
+    <answer>Кто там?</answer>
+    <comment>[huːz ðer]</comment>
+    <answer_comment>who - кто, there - там</answer_comment>
+    
+    <uuid>b2079118-9349-4759-ac36-458f5110e672</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Come in!</question>
+    <answer>Войдите!</answer>
+    <comment>[kʌm ɪn]</comment>
+    <answer_comment>to come in - входить</answer_comment>
+    
+    <uuid>c014a8b1-dbd1-4533-b1d2-e4b7548595e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Wait a minute, please.</question>
+    <answer>Подождите минуточку, пожалуйста.</answer>
+    <comment>[weɪt ə ˈmɪnɪt pliːz]</comment>
+    <answer_comment>to wait - ждать, minute - минута</answer_comment>
+    
+    <uuid>454b98ac-4073-49c4-b3e1-fb02a3d831a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest hairdresser?</question>
+    <answer>Где здесь поблизости парикмахерская (для женщин)?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈherˌdresər]</comment>
+    <answer_comment>where - где, the nearest - ближайший, hairdresser - парикмахерская (женская)</answer_comment>
+    
+    <uuid>4535feee-2dd9-41d1-9321-4a549f7c079d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest barber?</question>
+    <answer>Где здесь поблизости парикмахерская (для мужчин)?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈbɑːrbər]</comment>
+    <answer_comment>where - где, the nearest - ближайший, barber - парикмахерская (мужская)</answer_comment>
+    
+    <uuid>18fe52a4-c0c2-42d1-bd4a-eba5e54f0fb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the bar?</question>
+    <answer>Где находится бар?</answer>
+    <comment>[hwer ɪz ðə bɑːr]</comment>
+    <answer_comment>where - где, bar - бар</answer_comment>
+    
+    <uuid>e4914938-d2d4-4cb3-8456-1e4c8af6ca8c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the restaurant?</question>
+    <answer>Где находится ресторан?</answer>
+    <comment>[hwer ɪz ðə ˈrestəˌrɑːnt]</comment>
+    <answer_comment>where - где, restaurant - ресторан</answer_comment>
+    
+    <uuid>c46f5cc0-b27a-4857-ad94-85270499bbe0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the outlet for the shaver?</question>
+    <answer>Где находится розетка для бритвы?</answer>
+    <comment>[hwer ɪz ðiː ˈаʊtlet fər ðə ˈʃeɪvər]</comment>
+    <answer_comment>where - где, outlet - розетка, shaver - бритва</answer_comment>
+    
+    <uuid>626fa3a3-c59a-4e22-bc44-938115446c9c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The bulb in my room has burned out.</question>
+    <answer>В моем номере перегорела лампочка.</answer>
+    <comment>[ðə bʌlb ɪn mаɪ ruːm hæz bɜːrnd аʊt]</comment>
+    <answer_comment>bulb - лампочка, room - комната, to burn out - перегореть</answer_comment>
+    
+    <uuid>8e6f1b7f-a77c-4609-9186-c682bed899ad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Change the towel, please.</question>
+    <answer>Смените, пожалуйста, полотенце.</answer>
+    <comment>[ʧeɪnʤ ðə ˈtаʊəl pliːz]</comment>
+    <answer_comment>to change - менять, towel - полотенце</answer_comment>
+    
+    <uuid>9e9ea346-b8e8-4d11-9a1a-9beea1124b40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Change the bed linen, please.</question>
+    <answer>Смените, пожалуйста, постельное белье.</answer>
+    <comment>[ʧeɪnʤ ðə bed ˈlɪnən pliːz]</comment>
+    <answer_comment>to change - менять, bed - кровать, linen - белье</answer_comment>
+    
+    <uuid>062b794a-3803-4b72-acae-f06962f9d3c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Change the sheets, please.</question>
+    <answer>Перемените простыни, пожалуйста.</answer>
+    <comment>[ʧeɪnʤ ðə ʃiːts pliːz]</comment>
+    <answer_comment>to change - менять, sheet - простыня</answer_comment>
+    
+    <uuid>280bbe21-4621-4f96-a403-c7aa0d565759</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please send a technician.</question>
+    <answer>Пришлите, пожалуйста, мастера.</answer>
+    <comment>[pliːz send ə tekˈnɪʃən]</comment>
+    <answer_comment>to send - послать, technician - техник</answer_comment>
+    
+    <uuid>9cea0c2c-0a3b-41af-bd8d-45ea61e51bdf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A switch has broken in my room.</question>
+    <answer>В моем номере сломался выключатель.</answer>
+    <comment>[ə swɪʧ hæz ˈbroʊkən ɪn mаɪ ruːm]</comment>
+    <answer_comment>switch - выключатель, to break - ломать(ся), room - комната</answer_comment>
+    
+    <uuid>00fc8a4d-a165-45ee-aef7-e1253568a731</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The blinds will not turn in my room.</question>
+    <answer>В моем номере не поворачиваются жалюзи.</answer>
+    <comment>[ðə blаɪndz wɪl nɑːt tɜːrn ɪn mаɪ ruːm]</comment>
+    <answer_comment>blinds - жалюзи, to turn - поворачиваться, room - комната</answer_comment>
+    
+    <uuid>31469a4b-628e-4057-a5b3-fa9c4c025693</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The toilet is broken.</question>
+    <answer>Унитаз не работает.</answer>
+    <comment>[ðə ˈtɔɪlɪt ɪz ˈbroʊkən]</comment>
+    <answer_comment>toilet - унитаз, to break - ломать(ся)</answer_comment>
+    
+    <uuid>95c1ed8a-be16-46ce-9678-062861e19b8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is no hot water.</question>
+    <answer>Нет горячей воды.</answer>
+    <comment>[ðer ɪz noʊ hɑːt ˈwɔːtər]</comment>
+    <answer_comment>there is - есть, имеется, hot - горячий, water - вода</answer_comment>
+    
+    <uuid>340804ad-d986-45d2-b154-ab2b3257e3d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is no heat.</question>
+    <answer>Нет отопления.</answer>
+    <comment>[ðer ɪz noʊ hiːt]</comment>
+    <answer_comment>there is - есть, имеется, heat - тепло</answer_comment>
+    
+    <uuid>e062e684-6c1e-4a9c-b2c5-2a7cbebda748</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The room is dirty.</question>
+    <answer>Комната грязная.</answer>
+    <comment>[ðə ruːm ɪz ˈdɜːrtiː]</comment>
+    <answer_comment>room - комната, dirty - грязный</answer_comment>
+    
+    <uuid>c85ac357-c71b-41c1-b49e-6f3d05daf09b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The bathtub is blocked.</question>
+    <answer>Вода в ванне не стекает.</answer>
+    <comment>[ðə ˈbæθtʌb ɪz blɑːkt]</comment>
+    <answer_comment>bathtub - ванна, blocked - засорившийся</answer_comment>
+    
+    <uuid>05b04514-364f-4947-bcf4-815b1d73ac2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The shower is blocked.</question>
+    <answer>Душ засорился.</answer>
+    <comment>[ðə ˈʃаʊər ɪz blɑːkt]</comment>
+    <answer_comment>shower - душ, blocked - засорившийся</answer_comment>
+    
+    <uuid>d1003067-2d10-4e1e-b04b-a86e1ec1eb9d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sink is blocked.</question>
+    <answer>Раковина засорилась.</answer>
+    <comment>[ðə sɪŋk ɪz blɑːkt]</comment>
+    <answer_comment>sink - раковина, blocked - засорившийся</answer_comment>
+    
+    <uuid>934c8d9a-1b19-4326-8b66-62740da38f8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The toilet is blocked.</question>
+    <answer>Унитаз засорился.</answer>
+    <comment>[ðə ˈtɔɪlɪt ɪz blɑːkt]</comment>
+    <answer_comment>toilet - унитаз, blocked - засорившийся</answer_comment>
+    
+    <uuid>f04d78c9-202a-4bdc-9c60-8fba6e12c6f4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have forgotten the key to my room.</question>
+    <answer>Я забыл ключ от моего номера.</answer>
+    <comment>[аɪ hæv fərˈgɑːtn ðə kiː tə mаɪ ruːm]</comment>
+    <answer_comment>to forget - забыть, key - ключ, room - комната</answer_comment>
+    
+    <uuid>7ba2c4d0-e206-4fd5-9fdb-6e9f61abe185</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have my watch repaired?</question>
+    <answer>Где я могу починить мои часы?</answer>
+    <comment>[hwer kæn аɪ hæv mаɪ wɑːʧ rɪˈperd]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, watch - часы, repaired - отремонтированный</answer_comment>
+    
+    <uuid>a4e5cdfc-be1f-48cb-a886-d384deb0ee93</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have my electric shaver repaired?</question>
+    <answer>Где я могу починить электробритву?</answer>
+    <comment>[hwer kæn аɪ hæv mаɪ ɪˈlektrɪk ˈʃeɪvər rɪˈperd]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, electric - электрический, shaver - бритва, repaired - отремонтированный</answer_comment>
+    
+    <uuid>dfb3b16f-60da-49ee-ab10-08660748d20a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have my shoes repaired?</question>
+    <answer>Где я могу починить туфли?</answer>
+    <comment>[hwer kæn аɪ hæv mаɪ ʃuːz rɪˈperd]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, shoes - туфли, repaired - отремонтированный</answer_comment>
+    
+    <uuid>f21a18b7-54bb-4cea-816e-d815591e3ce6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please order a taxi for me for five o&apos;clock.</question>
+    <answer>Пожалуйста, закажите для меня такси на пять часов.</answer>
+    <comment>[pliːz ˈɔːrdər ə ˈtæksiː fər ˈmiː fər fаɪv əˈklɑːk]</comment>
+    <answer_comment>to order - заказать, taxi - такси, five - пять, o&apos;clock - часы</answer_comment>
+    
+    <uuid>f3350678-592c-4eba-87eb-f3560335e14f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please send somebody to take down my suitcases.</question>
+    <answer>Пожалуйста, пришлите кого-нибудь, чтобы снести мои чемоданы вниз.</answer>
+    <comment>[pliːz send ˈsʌmˌbɑːdiː tə teɪk dаʊn mаɪ ˈsuːtˌkeɪsɪz]</comment>
+    <answer_comment>to send - послать, somebody - кто-либо, to take - отнести, down - вниз, my - мой, моя, мое, suitcase - чемодан</answer_comment>
+    
+    <uuid>d1a7400d-15ba-41f6-a14b-86765d8caca2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please let me know when the taxi is here.</question>
+    <answer>Пожалуйста, предупредите меня, когда приедет такси.</answer>
+    <comment>[pliːz let ˈmiː noʊ hwen ðə ˈtæksiː ɪz hɪr]</comment>
+    <answer_comment>let - позволять, me - мне, меня, to know - знать, when - когда, taxi - такси, here - здесь</answer_comment>
+    
+    <uuid>d9a70d01-5b5f-4f27-b30c-90aca85bf1b4</uuid>
+  </card>
+</cards>
+</stack>

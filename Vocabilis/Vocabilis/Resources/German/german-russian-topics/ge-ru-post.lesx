@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6430747b-d382-4401-9852-b669504092f0</uuid>
+  <title>Почта</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Bekomme ich an diesem Schalter Briefmarken?</question>
+    <answer>Могу ли я купить почтовые марки в этом окошке?</answer>
+    <comment></comment>
+    <uuid>758e729c-e755-4bc7-a661-a78f134f6875</uuid>
+  </card>
+  <card>
+    <question>Briefe auf der Post aufliefern</question>
+    <answer>сдать письма на почте</answer>
+    <comment></comment>
+    <uuid>b962de0f-8d29-442a-ae2d-1e2a2d2b5065</uuid>
+  </card>
+  <card>
+    <question>Briefe von der Post holen</question>
+    <answer>принести письма с почты</answer>
+    <comment></comment>
+    <uuid>0ba2e987-62a5-45ef-a4ff-995b7b5c052e</uuid>
+  </card>
+  <card>
+    <question>das Paket</question>
+    <answer>посылка</answer>
+    <comment></comment>
+    <uuid>32dc32a7-fa2a-402e-b821-f6e0f0aee70d</uuid>
+  </card>
+  <card>
+    <question>Das Paket kostet sieben Mark.</question>
+    <answer>Посылка стоит семь марок.</answer>
+    <comment></comment>
+    <uuid>f0d8af7e-06d8-43d6-bfe3-cbb06aaf07b0</uuid>
+  </card>
+  <card>
+    <question>das Postfach</question>
+    <answer>почтовый ящик</answer>
+    <comment></comment>
+    <uuid>d14e892a-27a8-4769-a100-186ae5901a0a</uuid>
+  </card>
+  <card>
+    <question>das Päckchen</question>
+    <answer>бандероль</answer>
+    <comment></comment>
+    <uuid>9a2addf0-5955-40ae-ab83-adf9596efcb2</uuid>
+  </card>
+  <card>
+    <question>der Absender</question>
+    <answer>отправитель</answer>
+    <comment></comment>
+    <uuid>e11ae74a-8854-4b72-81ca-ce10036e8742</uuid>
+  </card>
+  <card>
+    <question>der Bestimungsort</question>
+    <answer>место назначения</answer>
+    <comment></comment>
+    <uuid>e66f0b33-d074-4b1e-bdcf-c7b90819ed83</uuid>
+  </card>
+  <card>
+    <question>der Brief</question>
+    <answer>письмо</answer>
+    <comment></comment>
+    <uuid>5b6face6-0a54-41f9-ac27-a50411f0a67e</uuid>
+  </card>
+  <card>
+    <question>der Briefkasten</question>
+    <answer>почтовый ящик</answer>
+    <comment></comment>
+    <uuid>48d1b508-61e2-4494-b964-124ab43ffd4b</uuid>
+  </card>
+  <card>
+    <question>der Briefmarkenautomat</question>
+    <answer>автомат для почтовых марок</answer>
+    <comment></comment>
+    <uuid>b3864956-c955-4d9f-bc27-d23401e69336</uuid>
+  </card>
+  <card>
+    <question>der Briefträger</question>
+    <answer>почтальон</answer>
+    <comment></comment>
+    <uuid>7cb07aea-d9bc-4e9a-b9a6-0d14b3ff0d0b</uuid>
+  </card>
+  <card>
+    <question>der Briefumschlag</question>
+    <answer>конверт</answer>
+    <comment></comment>
+    <uuid>f25a8dac-2afd-42ff-8e2b-14da1a26cfbd</uuid>
+  </card>
+  <card>
+    <question>der Einschreibebrief</question>
+    <answer>заказное письмо</answer>
+    <comment></comment>
+    <uuid>12ca7395-d54e-4007-aa87-6dfa34ff587c</uuid>
+  </card>
+  <card>
+    <question>der Empfanger</question>
+    <answer>получатель</answer>
+    <comment></comment>
+    <uuid>4674e18b-0dba-4cb7-83b5-f305e1032d26</uuid>
+  </card>
+  <card>
+    <question>der Schalter</question>
+    <answer>окошко</answer>
+    <comment></comment>
+    <uuid>e907f6ff-da32-4bce-9a95-f68799933647</uuid>
+  </card>
+  <card>
+    <question>die Adresse</question>
+    <answer>адрес</answer>
+    <comment></comment>
+    <uuid>df25ecf8-65fe-4f3b-b815-d7facf2b8a00</uuid>
+  </card>
+  <card>
+    <question>die Briefmarke</question>
+    <answer>почтовая марка</answer>
+    <comment></comment>
+    <uuid>20dd18bf-5815-473f-90b7-e44f0454f1b1</uuid>
+  </card>
+  <card>
+    <question>die Hausnummer</question>
+    <answer>номер дома</answer>
+    <comment></comment>
+    <uuid>75d8da2f-ecf2-4373-a535-9b36a88eb1ef</uuid>
+  </card>
+  <card>
+    <question>die Paketkarte</question>
+    <answer>квитанция на (почтовую) посылку</answer>
+    <comment></comment>
+    <uuid>03a9f71f-66aa-49ec-aa9f-cd7a8e5e0af9</uuid>
+  </card>
+  <card>
+    <question>die Post</question>
+    <answer>почта</answer>
+    <comment></comment>
+    <uuid>9d68c89f-eca7-439a-9464-51f94757e0a4</uuid>
+  </card>
+  <card>
+    <question>die Post aufmachen</question>
+    <answer>просматривать (поступающую) почту</answer>
+    <comment></comment>
+    <uuid>2a804933-0287-4ec4-9fb8-d3d862bd4a41</uuid>
+  </card>
+  <card>
+    <question>die Postamt</question>
+    <answer>почтамт</answer>
+    <comment></comment>
+    <uuid>b1bf3fb5-8b54-4152-be62-be9433f65d83</uuid>
+  </card>
+  <card>
+    <question>die Postkarte</question>
+    <answer>открытка</answer>
+    <comment></comment>
+    <uuid>235d0d19-6a44-4f6f-ba9f-4052e8989fce</uuid>
+  </card>
+  <card>
+    <question>die Postleitzahl (PLZ)</question>
+    <answer>почтовый индекс</answer>
+    <comment></comment>
+    <uuid>bf9c043f-527d-4d41-9790-bfe950ba86f9</uuid>
+  </card>
+  <card>
+    <question>die Straße</question>
+    <answer>улица</answer>
+    <comment></comment>
+    <uuid>84cb8806-9d9e-4fcf-b885-72d0667cb34d</uuid>
+  </card>
+  <card>
+    <question>Eine Briefmarke für diesen Brief nach Rußland, bitte.</question>
+    <answer>Почтовую марку для этого письма в Россию.</answer>
+    <comment></comment>
+    <uuid>a475c017-b46c-4e9e-b3ed-d63f06b89056</uuid>
+  </card>
+  <card>
+    <question>Fünf Briefmarken zu zwei Mark, bitte.</question>
+    <answer>5 почтовых марок стоимостью по две марки.</answer>
+    <comment></comment>
+    <uuid>db187162-ffa3-413a-9bf4-a5cc12ea641d</uuid>
+  </card>
+  <card>
+    <question>Haben Sie die Paketkarte ausgefüllt?</question>
+    <answer>Вы заполнили квитанцию на (почтовую) посылку?</answer>
+    <comment></comment>
+    <uuid>8d60e61a-7b92-4986-9107-abf19c5f23b4</uuid>
+  </card>
+  <card>
+    <question>Hier ist die Paketkarte.</question>
+    <answer>Вот квитанция на посылку.</answer>
+    <comment></comment>
+    <uuid>483c7b56-46c6-4de2-b56d-3445bdde0096</uuid>
+  </card>
+  <card>
+    <question>Ich habe eine Nachnahme für Sie.</question>
+    <answer>У меня для Вас почтовое отправление наложенным платежом.</answer>
+    <comment></comment>
+    <uuid>0147bb2b-f336-47d9-8f8b-d85754f801ee</uuid>
+  </card>
+  <card>
+    <question>Ich wohne in Potsdam, Königsstraße 11.</question>
+    <answer>Я живу в Потсдаме, Кенигштрассе 11.</answer>
+    <comment></comment>
+    <uuid>440ebe83-6fe6-481f-a6fa-4effeee37d9d</uuid>
+  </card>
+  <card>
+    <question>mit der Post</question>
+    <answer>по почте</answer>
+    <comment></comment>
+    <uuid>e61a8f48-290f-4d27-b05e-d63eaba91931</uuid>
+  </card>
+  <card>
+    <question>Post austragen</question>
+    <answer>разносить почту</answer>
+    <comment></comment>
+    <uuid>ee91658d-4b0d-4e94-9e83-4d077efb84f1</uuid>
+  </card>
+  <card>
+    <question>Verzeihen Sie, wo ist das Postamt?</question>
+    <answer>Извините, где почта?</answer>
+    <comment></comment>
+    <uuid>e208dde5-9835-4df3-a8d3-04a040c590c0</uuid>
+  </card>
+  <card>
+    <question>Wie lautet Ihre Adresse?</question>
+    <answer>Какой у вас адрес?</answer>
+    <comment></comment>
+    <uuid>dfc1663b-718d-4f79-ad52-171b4eb466a6</uuid>
+  </card>
+  <card>
+    <question>Zehn Briefmarken zu einer Mark, bitte.</question>
+    <answer>10 почтовых марок стоимостью по одной марке.</answer>
+    <comment></comment>
+    <uuid>9e04a4ca-baf6-4f46-8863-45aa0ea7d781</uuid>
+  </card>
+  <card>
+    <question>zur Post gehen</question>
+    <answer>идти на почту</answer>
+    <comment></comment>
+    <uuid>ccfd8753-45a1-486e-8026-cdc0a4f496bd</uuid>
+  </card>
+</cards>
+</stack>

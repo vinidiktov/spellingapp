@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>61872721-acc5-4080-9649-7672765a82ac</uuid>
+  <title>Погода</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>cloudy</question>
+    <answer>облачный</answer>
+    <comment>[ˈklаʊdɪ]</comment>
+    <answer_picture>cloudy.gif</answer_picture>
+    <uuid>b2ecccb8-1936-4e08-af64-4db49720aaa8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>drought</question>
+    <answer>засуха</answer>
+    <comment>[drаʊt]</comment>
+    <answer_picture>drought.gif</answer_picture>
+    <uuid>fbe4ddb2-c392-4a82-a81d-0aa681c192a2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cloud</question>
+    <answer>облако</answer>
+    <comment>[klаʊd]</comment>
+    <answer_picture>cloud.gif</answer_picture>
+    <uuid>12884e64-c21b-4d31-bb51-6f4b02925081</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hot</question>
+    <answer>горячий, жаркий</answer>
+    <comment>[hɒt]</comment>
+    <answer_picture>hot.gif</answer_picture>
+    <uuid>d81645b1-8602-4f61-b3ae-9401ee8438cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>icicle</question>
+    <answer>сосулька</answer>
+    <comment>[ˈаɪsɪkl]</comment>
+    <answer_picture>icicle.gif</answer_picture>
+    <uuid>22b5ebf9-582a-4ce5-8c91-6b39d6b44711</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>flood</question>
+    <answer>наводнение</answer>
+    <comment>[flʌd]</comment>
+    <answer_picture>flood.gif</answer_picture>
+    <uuid>e4d8900f-270d-47ed-8ed6-aace1ff0e3ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hail</question>
+    <answer>град</answer>
+    <comment>[heɪl]</comment>
+    <answer_picture>hail.gif</answer_picture>
+    <uuid>951fb34b-b566-4f93-9f9f-e58ad8d7777d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cold</question>
+    <answer>холодный</answer>
+    <comment>[kəʊld]</comment>
+    <answer_picture>cold.gif</answer_picture>
+    <uuid>77558525-5e99-45e2-b3dc-cf9022429330</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>fog</question>
+    <answer>туман</answer>
+    <comment>[fɒg]</comment>
+    <answer_picture>fog.gif</answer_picture>
+    <uuid>b389139c-4b1f-4b43-882a-07f023066416</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dry</question>
+    <answer>сухой</answer>
+    <comment>[drаɪ]</comment>
+    <answer_picture>dry.gif</answer_picture>
+    <uuid>daad7086-2352-4645-9657-1bb28dd1aa07</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lightning</question>
+    <answer>молния</answer>
+    <comment>[ˈlаɪtnɪŋ]</comment>
+    <answer_picture>lightning.gif</answer_picture>
+    <uuid>a1290cb0-9868-4f21-8f11-171064216fff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>parasol</question>
+    <answer>зонт от солнца</answer>
+    <comment>[ˈpærəsɒl]</comment>
+    <answer_picture>parasol.gif</answer_picture>
+    <uuid>ae7a8dc6-ffe9-44a4-9dc9-4959897e9195</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>puddle</question>
+    <answer>лужа</answer>
+    <comment>[ˈpʌdl]</comment>
+    <answer_picture>puddle.gif</answer_picture>
+    <uuid>b7dc702a-b659-451c-b82f-c2673ba2d64d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rain</question>
+    <answer>дождь</answer>
+    <comment>[reɪn]</comment>
+    <answer_picture>rain.gif</answer_picture>
+    <uuid>428464f4-13f9-4341-a5b4-2c03f7d12c74</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rainbow</question>
+    <answer>радуга</answer>
+    <comment>[ˈreɪnbəʊ]</comment>
+    <answer_picture>rainbow.gif</answer_picture>
+    <uuid>b2e93e9b-f22a-4955-b4aa-ef25b04da553</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>snow</question>
+    <answer>снег</answer>
+    <comment>[snəʊ]</comment>
+    <answer_picture>snow.gif</answer_picture>
+    <uuid>3b1ba384-b1b6-480e-8677-f0bc82d82b69</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>storm</question>
+    <answer>гроза</answer>
+    <comment>[stɔːm]</comment>
+    <answer_picture>storm.gif</answer_picture>
+    <uuid>8c80bf30-648a-4281-ad7c-da6e1fe5bb6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunlight</question>
+    <answer>солнечный свет</answer>
+    <comment>[ˈsʌnlаɪt]</comment>
+    <answer_picture>sunlight.gif</answer_picture>
+    <uuid>1c156541-52d7-420a-89a6-8821bcb51448</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunrise</question>
+    <answer>восход солнца</answer>
+    <comment>[ˈsʌnrаɪz]</comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>4d1a369f-ab3d-4e7f-a5b2-bfb0d40ec843</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>umbrella</question>
+    <answer>зонт</answer>
+    <comment>[ʌmˈbrelə]</comment>
+    <answer_picture>umbrella.gif</answer_picture>
+    <uuid>d3d5088a-bc43-4a76-b870-8d81201b2ac3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wet</question>
+    <answer>мокрый</answer>
+    <comment>[wet]</comment>
+    <answer_picture>wet.gif</answer_picture>
+    <uuid>2c64f891-8029-452f-b26d-247409ecc4af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wind</question>
+    <answer>ветер</answer>
+    <comment>[wɪnd]</comment>
+    <answer_picture>wind.gif</answer_picture>
+    <uuid>fedb7fd8-830a-4e36-8ad0-e79796a761e1</uuid>
+  </card>
+</cards>
+</stack>

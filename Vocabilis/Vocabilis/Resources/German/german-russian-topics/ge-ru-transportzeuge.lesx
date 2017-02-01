@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b482eadd-caab-4d0f-956f-57e0e46458f9</uuid>
+  <title>Транспортные средства</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Auto</question>
+    <answer>автомобиль</answer>
+    <comment></comment>
+    <uuid>3acf6a84-b316-414b-85b3-acada17e2b6b</uuid>
+  </card>
+  <card>
+    <question>das Fahrrad</question>
+    <answer>велосипед</answer>
+    <comment></comment>
+    <uuid>88de6534-3396-4552-88c1-3dc2ffec6a9f</uuid>
+  </card>
+  <card>
+    <question>das Moped</question>
+    <answer>мопед</answer>
+    <comment></comment>
+    <uuid>c4238625-8988-4bb2-9cf4-a236ce6736b9</uuid>
+  </card>
+  <card>
+    <question>das Motorrad</question>
+    <answer>мотоцикл</answer>
+    <comment></comment>
+    <uuid>90a5d8eb-bbf0-4527-ae56-0a0827f6e499</uuid>
+  </card>
+  <card>
+    <question>der Anhänger</question>
+    <answer>прицеп</answer>
+    <comment></comment>
+    <uuid>8753d02c-eb10-463a-90a4-fd8bcc8eb065</uuid>
+  </card>
+  <card>
+    <question>der Autobus</question>
+    <answer>автобус</answer>
+    <comment></comment>
+    <uuid>f2861f04-e042-4ee7-b60e-ab82c2ebc0c5</uuid>
+  </card>
+  <card>
+    <question>der Beifahrer</question>
+    <answer>второй водитель</answer>
+    <comment></comment>
+    <uuid>a7d2db04-6ed2-4641-8812-6da35d4997ba</uuid>
+  </card>
+  <card>
+    <question>der Fahrer</question>
+    <answer>водитель</answer>
+    <comment></comment>
+    <uuid>592672ea-91ba-4c3d-8aa9-ad8ae64ad4d8</uuid>
+  </card>
+  <card>
+    <question>der Fernfahrer</question>
+    <answer>водитель дальних рейсов</answer>
+    <comment></comment>
+    <uuid>693bdc0d-c986-45b1-adb2-a35bde60d680</uuid>
+  </card>
+  <card>
+    <question>der Lastkraftwagen</question>
+    <answer>грузовик</answer>
+    <comment></comment>
+    <uuid>0a61ba32-2631-4913-90ee-247d04b29894</uuid>
+  </card>
+  <card>
+    <question>der Lieferwagen</question>
+    <answer>автофургон</answer>
+    <comment></comment>
+    <uuid>b0923cd2-5fa2-4e7a-9d1f-cca5d8dbb0e3</uuid>
+  </card>
+  <card>
+    <question>der Lkw</question>
+    <answer>грузовик (сокращение)</answer>
+    <comment></comment>
+    <uuid>308aed25-4495-4998-97bf-ef58ab0f23eb</uuid>
+  </card>
+  <card>
+    <question>der Motorroller</question>
+    <answer>мотороллер</answer>
+    <comment></comment>
+    <uuid>289048b8-b6bf-4800-afcf-653da2d9db28</uuid>
+  </card>
+  <card>
+    <question>der Personenkraftwagen</question>
+    <answer>легковой автомобиль</answer>
+    <comment></comment>
+    <uuid>9cdb6c91-9ebb-414e-b036-68d8fa329321</uuid>
+  </card>
+  <card>
+    <question>der Pkw</question>
+    <answer>легковой автомобиль (сокращение)</answer>
+    <comment></comment>
+    <uuid>97b94edd-3fc7-4dab-889a-6add50a28091</uuid>
+  </card>
+  <card>
+    <question>der Traktor</question>
+    <answer>трактор</answer>
+    <comment></comment>
+    <uuid>0924043c-875c-4e00-b694-a1ec64b31fbf</uuid>
+  </card>
+  <card>
+    <question>der Kinderwagen</question>
+    <answer>детская коляска</answer>
+    <comment></comment>
+    <uuid>697a24da-ad69-4670-bf72-df843e159a26</uuid>
+  </card>
+  <card>
+    <question>der Beiwagen</question>
+    <answer>коляска мотоцикла</answer>
+    <comment></comment>
+    <uuid>f0a0fd47-ea0b-481f-9c9c-68999451a442</uuid>
+  </card>
+</cards>
+</stack>

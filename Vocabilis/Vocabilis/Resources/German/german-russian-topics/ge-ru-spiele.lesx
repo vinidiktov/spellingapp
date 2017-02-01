@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4790dd7f-41bc-4702-bdc8-61de7bda8517</uuid>
+  <title>Игры</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Dame</question>
+    <answer>шашки</answer>
+    <comment></comment>
+    <uuid>0e308c99-dc1c-4048-8fb6-de5fed37696e</uuid>
+  </card>
+  <card>
+    <question>das As</question>
+    <answer>туз</answer>
+    <comment></comment>
+    <uuid>7c9f1912-a146-464b-b6c8-e1089818acaa</uuid>
+  </card>
+  <card>
+    <question>das Computerspiel</question>
+    <answer>компьютерная игра</answer>
+    <comment></comment>
+    <uuid>45c1581d-6e6d-444a-a1b1-38b7b5e29308</uuid>
+  </card>
+  <card>
+    <question>das Kartenspiel</question>
+    <answer>карточная игра</answer>
+    <comment></comment>
+    <uuid>51225d77-6eb1-4a4c-9412-e741c3417909</uuid>
+  </card>
+  <card>
+    <question>das Kegeln</question>
+    <answer>(игра в) кегли</answer>
+    <comment></comment>
+    <uuid>15542829-739c-4b2c-9a39-ef15ae38f2ad</uuid>
+  </card>
+  <card>
+    <question>das Schachbrett</question>
+    <answer>шахматная доска</answer>
+    <comment></comment>
+    <uuid>043020b0-f363-431e-9f78-4c1bab4b5a3c</uuid>
+  </card>
+  <card>
+    <question>das Würfelspiel</question>
+    <answer>(игра в) кости</answer>
+    <comment></comment>
+    <uuid>77dfe93c-573e-44eb-b312-44e033d72a94</uuid>
+  </card>
+  <card>
+    <question>der Bube</question>
+    <answer>валет</answer>
+    <comment></comment>
+    <uuid>cd9128e8-f40e-42eb-9fed-3df36e49efef</uuid>
+  </card>
+  <card>
+    <question>der König</question>
+    <answer>король</answer>
+    <comment></comment>
+    <uuid>3ee458c2-d39a-4f1b-ac8b-24c3d5701091</uuid>
+  </card>
+  <card>
+    <question>der Skat</question>
+    <answer>скат</answer>
+    <comment></comment>
+    <uuid>958e2e2d-da2d-481b-b4b5-d42ee617ed73</uuid>
+  </card>
+  <card>
+    <question>der Spielautomat</question>
+    <answer>игровой автомат</answer>
+    <comment></comment>
+    <uuid>062335ed-d48a-4833-8d52-cf0b7b814306</uuid>
+  </card>
+  <card>
+    <question>der Würfel</question>
+    <answer>игральная кость, кубик</answer>
+    <comment></comment>
+    <uuid>30c43956-5db7-451f-818c-ef13f48e297f</uuid>
+  </card>
+  <card>
+    <question>die Dame</question>
+    <answer>дама</answer>
+    <comment></comment>
+    <uuid>8e88d898-8de8-4344-8845-47026cb3f6e9</uuid>
+  </card>
+  <card>
+    <question>die Karte</question>
+    <answer>карта</answer>
+    <comment></comment>
+    <uuid>a2dc1f89-a38a-435e-9cca-0d71fb246bb6</uuid>
+  </card>
+  <card>
+    <question>die Schachfigur</question>
+    <answer>шахматная фигура</answer>
+    <comment></comment>
+    <uuid>a1c8f23e-10e9-4724-a0d7-a6c784501477</uuid>
+  </card>
+  <card>
+    <question>die Zehn</question>
+    <answer>десятка</answer>
+    <comment></comment>
+    <uuid>653160d1-d3d5-462a-8854-8ad4fbe9de7e</uuid>
+  </card>
+  <card>
+    <question>Domino</question>
+    <answer>домино</answer>
+    <comment></comment>
+    <uuid>e9e9c814-1488-4f58-a2e3-19d5fc0a4180</uuid>
+  </card>
+  <card>
+    <question>Halma</question>
+    <answer>гальма, &quot;уголки&quot;</answer>
+    <comment></comment>
+    <uuid>c6647d4c-8358-4aac-8038-dbc40de80287</uuid>
+  </card>
+  <card>
+    <question>Herz</question>
+    <answer>черви</answer>
+    <comment></comment>
+    <uuid>d871624b-306a-4450-bfe2-512aef1be3be</uuid>
+  </card>
+  <card>
+    <question>Herz ist Trumpf.</question>
+    <answer>Черви козырь.</answer>
+    <comment></comment>
+    <uuid>b653189c-e94d-4cf8-909d-e4f372a587a3</uuid>
+  </card>
+  <card>
+    <question>Herzkönig</question>
+    <answer>червонный король</answer>
+    <comment></comment>
+    <uuid>bc85e5ee-41f1-4c3d-8d3c-a06986e6b5ca</uuid>
+  </card>
+  <card>
+    <question>Karo</question>
+    <answer>бубны</answer>
+    <comment></comment>
+    <uuid>391f8030-2c4c-45da-9a4c-bd7f51d0035e</uuid>
+  </card>
+  <card>
+    <question>Karo Bube</question>
+    <answer>бубновый валет</answer>
+    <comment></comment>
+    <uuid>83b916c0-cc44-4bd7-a0c7-bf6a95232cd4</uuid>
+  </card>
+  <card>
+    <question>Kreuz</question>
+    <answer>трефы</answer>
+    <comment></comment>
+    <uuid>32a11720-4c55-415c-9448-73812d445a1e</uuid>
+  </card>
+  <card>
+    <question>Kreuz-As</question>
+    <answer>трефовый туз</answer>
+    <comment></comment>
+    <uuid>6bdf7e12-598e-46ac-86bb-5c911dfd8daa</uuid>
+  </card>
+  <card>
+    <question>Patience</question>
+    <answer>пасьянс</answer>
+    <comment></comment>
+    <uuid>21217edd-2daa-4d66-b4d8-152d9c8feff8</uuid>
+  </card>
+  <card>
+    <question>Pik</question>
+    <answer>пики</answer>
+    <comment></comment>
+    <uuid>496470d8-7f38-4ada-9f54-17b78dec6d88</uuid>
+  </card>
+  <card>
+    <question>Piksieben</question>
+    <answer>семёрка пик</answer>
+    <comment></comment>
+    <uuid>a4d195a2-c791-4858-9e9a-fe316bc806b0</uuid>
+  </card>
+  <card>
+    <question>Schach</question>
+    <answer>шахматы</answer>
+    <comment></comment>
+    <uuid>ae98212a-5a73-4fde-b655-b5c8729daddd</uuid>
+  </card>
+  <card>
+    <question>Was ist Trumpf?</question>
+    <answer>Какой козырь?</answer>
+    <comment></comment>
+    <uuid>d665a829-155a-43db-9975-0c39cbb07562</uuid>
+  </card>
+  <card>
+    <question>Wer gibt?</question>
+    <answer>Кто сдаёт?</answer>
+    <comment></comment>
+    <uuid>4fa271ae-257f-400a-b237-e1a3b6ba2f01</uuid>
+  </card>
+  <card>
+    <question>Wer spielt aus?</question>
+    <answer>Кто ходит?</answer>
+    <comment></comment>
+    <uuid>d40ff433-df23-4f0d-b513-21f6c8d7b58f</uuid>
+  </card>
+  <card>
+    <question>Wollen wir Schach spielen?</question>
+    <answer>Сыграем в шахматы?</answer>
+    <comment></comment>
+    <uuid>dbc9e45e-5408-4eb5-ac64-b0294dfaac42</uuid>
+  </card>
+</cards>
+</stack>

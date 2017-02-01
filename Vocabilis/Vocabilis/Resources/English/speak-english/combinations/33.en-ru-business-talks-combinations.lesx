@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>63a359b3-f2d5-4ba1-8882-a9f4c3a381ab</uuid>
+  <title>Деловые переговоры :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a barter transaction</question>
+    <answer>бартерная сделка</answer>
+    <comment>[ə ˈbɑːrtər trænˈsækʃən]</comment>
+    <question_comment>barter - бартер, transaction - сделка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d2491f4-1cc7-47ff-9dbb-2aacad26cd64</uuid>
+    <examples>
+       <example>
+          <value>We propose to conclude a barter transaction.</value>
+          <translation>Мы предлагаем заключить бартерную сделку.</translation>
+          <comment>to propose - предложить, to conclude - заключить, barter - бартер, бартерный, transaction - сделка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a consignment of products</question>
+    <answer>партия продукции</answer>
+    <comment>[ə kənˈsаɪnmənt əv ˈprɑːdəkts]</comment>
+    <question_comment>consignment - партия (продукции), product - продукт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0253cd06-3bd6-481a-a761-2c5d8e9ec5c8</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to buy a consignment of your products.</value>
+          <translation>Мы бы хотели закупить партию вашей продукции.</translation>
+          <comment>would like - хотеть, to buy - купить, consignment - партия (товара), product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a manufacturing enterprise</question>
+    <answer>производственное предприятие</answer>
+    <comment>[ə ˌmænjəˈfækʧərɪŋ ˈentərˌprаɪz]</comment>
+    <question_comment>manufacturing - производственный, enterprise - предприятие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>539a0cf7-1e2d-4009-a455-3b9a9e1d333e</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to visit a manufacturing enterprise.</value>
+          <translation>Мы бы хотели посетить производственное предприятие.</translation>
+          <comment>would like - хотеть, to visit - посетить, manufacturing - производственный, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a research center</question>
+    <answer>исследовательский центр</answer>
+    <comment>[ə rɪˈsɜːrʧ ˈsentər]</comment>
+    <question_comment>research - исследование, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1e74452c-d8e2-48f1-8289-b20462a145ea</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to visit a research center.</value>
+          <translation>Мы бы хотели посетить исследовательский центр.</translation>
+          <comment>would like - хотеть, to visit - посетить, research - исследование, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>finished products</question>
+    <answer>готовая продукция</answer>
+    <comment>[ˈfɪnɪʃt ˈprɑːdəkts]</comment>
+    <question_comment>finished - готовый, законченный, to finish - заканчивать, product - продукт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7779df44-4f28-4e7e-995c-050bb2a99d6b</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to see your finished products.</value>
+          <translation>Мы бы хотели посмотреть вашу продукцию.</translation>
+          <comment>would like - хотеть, to see - видеть, your - твой, ваш, finished - готовый, законченный, product - продукт</comment>
+       </example>
+       <example>
+          <value>To what countries do you export finished products?</value>
+          <translation>В какие страны экспортируется продукция?</translation>
+          <comment>what - что, какой, country - страна, to export - экспортировать, finished - законченный, готовый, product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>forms of cooperation</question>
+    <answer>формы сотрудничества</answer>
+    <comment>[fɔːrmz əv kouˌɑːpəˈreɪʃən]</comment>
+    <question_comment>form - форма, cooperation - сотрудничество</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2d422eed-0e85-43c3-94ee-97a153c1389c</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss possible forms of cooperation.</value>
+          <translation>Мы бы хотели обсудить возможные формы сотрудничества.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, possible - возможный, form - форма, cooperation - кооперация</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>joint production</question>
+    <answer>совместное производство</answer>
+    <comment>[ʤɔɪnt prəˈdʌkʃən]</comment>
+    <question_comment>joint - совместный, production - производство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3535d2f0-9bcf-417c-9847-8cb1ac43427a</uuid>
+    <examples>
+       <example>
+          <value>We propose to conclude a contract for joint production.</value>
+          <translation>Мы предлагаем заключить контракт на совместное производство.</translation>
+          <comment>to propose - предложить, to conclude - заключить, contract - контракт, joint - совместный, production - производство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here&apos;s my card.</question>
+    <answer>Вот моя визитка.</answer>
+    <comment>[hɪrz mаɪ kɑːrd]</comment>
+    <question_comment>here - здесь, card - карточка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c41f68c1-f1ca-48f4-9cc4-7b59ab3591f5</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - здесь, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>Here is my plastic card.</value>
+          <translation>Вот моя пластиковая карточка.</translation>
+          <comment>here - здесь, my - мой, моя, plastic - пластиковый, card - карта</comment>
+       </example>
+       <example>
+          <value>Here is my card.</value>
+          <translation>Вот моя визитная карточка.</translation>
+          <comment>here - здесь, my - мой, моя, мои, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on a barter basis</question>
+    <answer>по бартеру</answer>
+    <comment>[ɑːn ə ˈbɑːrtər ˈbeɪsɪs]</comment>
+    <question_comment>barter - бартер, basis - основа, базис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82f3a587-c5c6-43ec-8754-1a416be8422b</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to buy equipment on barter basis.</value>
+          <translation>Мы бы хотели закупить оборудование по бартеру.</translation>
+          <comment>would like - хотеть, to buy - купить, equipment - оборудование, barter - бартер, basis - основа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on the invitation of Mr. Brown</question>
+    <answer>по приглашению мистера Брауна</answer>
+    <comment>[ɑːn ðiː ˌɪnvɪˈteɪʃən əv ˈmɪstər brаʊn]</comment>
+    <question_comment>invitation - приглашение, Mr. Brown - мистер Браун</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1ff6a409-9037-46e6-bb98-76266dd48b6f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come on the invitation of Mr. Brown.</value>
+          <translation>Я приехал по приглашению мистера Брауна.</translation>
+          <comment>to come - приехать, прийти, invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>We&apos;ve come on the invitation of Mr. Brown.</value>
+          <translation>Мы приехали по приглашению мистера Брауна.</translation>
+          <comment>to come - приехать, прийти, invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to see your catalog</question>
+    <answer>увидеть ваш каталог</answer>
+    <comment>[tə siː jər ˈkætˌlɔːg]</comment>
+    <question_comment>to see - видеть, catalog - каталог</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d2ad3b6c-70f1-4086-a5c9-74320074bdcb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>perspective samples</question>
+    <answer>перспективные образцы</answer>
+    <comment>[pərˈspektɪv ˈsæmplz]</comment>
+    <question_comment>perspective - перспективный, sample - образец, пример</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aba03549-d5d6-4213-bb87-205e44e5d0f6</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to see perspective samples.</value>
+          <translation>Мы бы хотели посмотреть перспективные образцы.</translation>
+          <comment>would like - хотеть, to see - видеть, perspective - перспективный, sample - образец</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>raw materials</question>
+    <answer>сырье</answer>
+    <comment>[rɔː məˈtɪriːəlz]</comment>
+    <question_comment>raw - сырой, material - материал</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba7b717e-4d9a-4d76-b486-b33bf7e2d7a8</uuid>
+    <examples>
+       <example>
+          <value>What raw materials do you use?</value>
+          <translation>Какое сырье вы используете?</translation>
+          <comment>what - что, какой, raw - сырой, material - материал, to use - использовать</comment>
+       </example>
+       <example>
+          <value>Where do raw materials come from?</value>
+          <translation>Откуда поставляется сырье?</translation>
+          <comment>where - где, raw - сырой, material - материал, to come - приходить, from - от, из</comment>
+       </example>
+       <example>
+          <value>We are interested in the composition of raw materials.</value>
+          <translation>Нас интересует состав сырья.</translation>
+          <comment>interested - заинтересованный, composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to look at some samples</question>
+    <answer>посмотреть на некоторые образцы</answer>
+    <comment>[tə lʊk ət sʌm ˈsæmplz]</comment>
+    <question_comment>some - некоторый, sample - образец, пример</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b1288296-1a94-4c91-82f6-564f823d1b95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>terms of delivery</question>
+    <answer>условия поставки</answer>
+    <comment>[tɜːrmz əv dɪˈlɪvəriː]</comment>
+    <question_comment>terms - условия, delivery - поставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>140b45c2-7538-4d69-97a5-caf0daaebd98</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss terms of delivery.</value>
+          <translation>Мы бы хотели обсудить условия поставки.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>terms of payment</question>
+    <answer>условия платежа</answer>
+    <comment>[tɜːrmz əv ˈpeɪmənt]</comment>
+    <question_comment>terms - условия, payment - платеж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba163e05-d428-4038-ab2c-faeeefa9a4de</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss terms of payment.</value>
+          <translation>Мы бы хотели обсудить условия платежа.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the average profit</question>
+    <answer>средняя прибыль</answer>
+    <comment>[ðiː ˈævərɪʤ ˈprɑːfɪt]</comment>
+    <question_comment>average - средний, profit - прибыль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ef18a343-4cb1-4e1d-bd47-7bb5b73b213a</uuid>
+    <examples>
+       <example>
+          <value>What is the average profit of this enterprise?</value>
+          <translation>Какова средняя прибыль этого предприятия?</translation>
+          <comment>what - что, какой, average - средний, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the chief engineer</question>
+    <answer>главный инженер</answer>
+    <comment>[ðə ʧiːf ˌenʤəˈnɪr]</comment>
+    <question_comment>chief - главный, engineer - инженер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90812b83-3298-49bc-97a9-ce6c547592f9</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to talk to the chief engineer.</value>
+          <translation>Мы бы хотели побеседовать с главным инженером.</translation>
+          <comment>would like - хотеть, chief - главный, engineer - инженер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the commercial director</question>
+    <answer>коммерческий директор</answer>
+    <comment>[ðə kəˈmɜːrʃəl dɪˈrektər]</comment>
+    <question_comment>commercial - коммерческий, director - директор</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0e17ad7-e274-4b5e-86b5-5804f42d4421</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to talk to the commercial director.</value>
+          <translation>Мы бы хотели побеседовать с коммерческим директором.</translation>
+          <comment>would like - хотеть, to talk - говорить, commercial - коммерческий, director - директор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the composition of raw materials</question>
+    <answer>состав сырья</answer>
+    <comment>[ðə ˌkɑːmpəˈzɪʃən əv rɔː məˈtɪriːəlz]</comment>
+    <question_comment>composition - состав, raw - сырой, material - материал</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e8a0e60-f576-42a5-b074-2bb9d281d4eb</uuid>
+    <examples>
+       <example>
+          <value>We are interested in the composition of raw materials.</value>
+          <translation>Нас интересует состав сырья.</translation>
+          <comment>interested - заинтересованный, composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the contract dates</question>
+    <answer>сроки исполнения контракта</answer>
+    <comment>[ðiː ˈkɑːntrækt deɪts]</comment>
+    <question_comment>contract - контракт, date - дата</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9781febd-8e4f-4654-8a75-9c8954a11595</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss the contract dates.</value>
+          <translation>Мы бы хотели обсудить сроки исполнения контракта.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, contract - контракт, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the director general</question>
+    <answer>генеральный директор</answer>
+    <comment>[ðə dɪˈrektər ˈʤenərəl]</comment>
+    <question_comment>director - директор, general - генеральный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b94753a8-c148-4961-97d5-6716b9c3534a</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to talk to the director general.</value>
+          <translation>Мы бы хотели побеседовать с генеральным директором.</translation>
+          <comment>would like - хотеть, director - директор, general - главный, генеральный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the expected profit</question>
+    <answer>ожидаемая прибыль</answer>
+    <comment>[ðiː ɪkˈspektɪd ˈprɑːfɪt]</comment>
+    <question_comment>expected - ожидаемый, to expect - ожидать, profit - прибыль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>af02cd56-fb5f-4e98-b05c-ffa017d2c5cd</uuid>
+    <examples>
+       <example>
+          <value>What is the expected profit of this enterprise?</value>
+          <translation>Какова ожидаемая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, expected - ожидаемый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the gross profit</question>
+    <answer>валовая прибыль</answer>
+    <comment>[ðə groʊs ˈprɑːfɪt]</comment>
+    <question_comment>gross - валовой, profit - прибыль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>614b2e74-a781-4775-b23f-4be7f1406c91</uuid>
+    <examples>
+       <example>
+          <value>What is the gross profit of this enterprise?</value>
+          <translation>Какова валовая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, gross - валовый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the list of deliveries</question>
+    <answer>номенклатура поставок</answer>
+    <comment>[ðə lɪst əv dɪˈlɪvəriːz]</comment>
+    <question_comment>list - список, перечень, delivery - поставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>03d3b452-cf18-4ded-b72b-9b4a1d8adc28</uuid>
+    <examples>
+       <example>
+          <value>We have to negotiate the list of deliveries.</value>
+          <translation>Нам нужно договориться о номенклатуре поставок.</translation>
+          <comment>to have to - быть должным, to negotiate - договориться, list - список, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the net profit</question>
+    <answer>чистая прибыль</answer>
+    <comment>[ðə net ˈprɑːfɪt]</comment>
+    <question_comment>net - чистый, нетто (о весе, доходе), profit - доход</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b209960b-846a-4e60-97a8-8f635c227fe1</uuid>
+    <examples>
+       <example>
+          <value>What is the net profit of this enterprise?</value>
+          <translation>Какова чистая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, net - чистый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the percentage of defective goods</question>
+    <answer>процент брака</answer>
+    <comment>[ðə pərˈsentɪʤ əv dɪˈfektɪv gʊdz]</comment>
+    <question_comment>percentage - процент, defective - дефективный, goods - товары</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>72bae2d5-edd3-47b1-aee6-c2b756ae1eca</uuid>
+    <examples>
+       <example>
+          <value>What is the percentage of defective goods?</value>
+          <translation>Какой процент брака?</translation>
+          <comment>what - что, какой, percentage - процент, defective - дефективный, goods - товары</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the production costs</question>
+    <answer>себестоимость продукции</answer>
+    <comment>[ðə prəˈdʌkʃən kɔːsts]</comment>
+    <question_comment>production - производство, costs - издержки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb92f144-5329-4e6e-a2e3-227ed7779898</uuid>
+    <examples>
+       <example>
+          <value>What are the production costs?</value>
+          <translation>Какова себестоимость продукции?</translation>
+          <comment>what - что, какой, production - производство, costs - издержки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the production process</question>
+    <answer>процесс производства</answer>
+    <comment>[ðə prəˈdʌkʃən ˈprɑːses]</comment>
+    <question_comment>production - производство, process - процесс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2becc39e-1fd3-432c-a9a8-db834189250a</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to see the production process.</value>
+          <translation>Мы бы хотели ознакомиться с процессом производства.</translation>
+          <comment>would like - хотеть, to see - видеть, production - производство, process - процесс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the program of the visit</question>
+    <answer>программа визита</answer>
+    <comment>[ðə ˈproʊgræm əv ðə ˈvɪzɪt]</comment>
+    <question_comment>program - программа, visit - визит</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82437f13-9aaa-4266-9c99-e2ae5de89611</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to clarify the program of our visit.</value>
+          <translation>Мы бы хотели уточнить программу нашего визита.</translation>
+          <comment>would like - хотеть, to clarify - прояснить, program - программа, our - наш, наша, наше, visit - посещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the purification works</question>
+    <answer>очистительные сооружения</answer>
+    <comment>[ðə ˌpjʊriːfɪˈkeɪʃən wɜːrks]</comment>
+    <question_comment>purification - очистка, works - завод, фабрика</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1375291e-eb1a-4fd2-865c-9b354ed9c70f</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to see the purification works.</value>
+          <translation>Мы бы хотели ознакомиться с очистительными сооружениями.</translation>
+          <comment>would like - хотеть, to see - видеть, purification - очищение, works - сооружения</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the question of our partnership</question>
+    <answer>вопрос нашего партнерства</answer>
+    <comment>[ðə ˈkwesʧən əv аʊr ˈpɑːrtnərˌʃɪp]</comment>
+    <question_comment>question - вопрос, our - наш, наша, наше, partnership - сотрудничество</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3acca3f8-8f44-4542-b381-5e912219c115</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come to discuss the question of our partnership.</value>
+          <translation>Я приехал обсудить вопрос нашего партнерства.</translation>
+          <comment>to come - приехать, прийти, to discuss - обсудить, question - вопрос, our - наш, наша, наши, partnership - парнерство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the technical director</question>
+    <answer>технический директор</answer>
+    <comment>[ðə ˈteknɪkəl dɪˈrektər]</comment>
+    <question_comment>technical - технический, director - директор</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>000c9551-9cb7-4178-9e6c-edb8f4e40e69</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to talk to the technical director.</value>
+          <translation>Мы бы хотели побеседовать с техническим директором.</translation>
+          <comment>would like - хотеть, technical - технический, director - директор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the total annual output</question>
+    <answer>общий годовой объем</answer>
+    <comment>[ðə ˈtoʊtl ˈænjuːəl ˈаʊtˌpʊt]</comment>
+    <question_comment>total - целый, весь, annual - годовой, output - выпуск (продукции)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c287f175-ca8f-405b-a591-a3be4b2cd5be</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the total annual output of the factory?</value>
+          <translation>Какой общий годовой объем выпускаемой продукции?</translation>
+          <comment>what - что, какой, total - общий, annual - годовой, output - выпуск, factory - фабрика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this enterprise</question>
+    <answer>это предприятие</answer>
+    <comment>[ðɪs ˈentərˌprаɪz]</comment>
+    <question_comment>this - этот, эта, enterprise - предприятие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91b709b6-5ae2-470b-9961-561d79910411</uuid>
+    <examples>
+       <example>
+          <value>What is the expected profit of this enterprise?</value>
+          <translation>Какова ожидаемая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, expected - ожидаемый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+       <example>
+          <value>What is the gross profit of this enterprise?</value>
+          <translation>Какова валовая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, gross - валовый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+       <example>
+          <value>What is the average profit of this enterprise?</value>
+          <translation>Какова средняя прибыль этого предприятия?</translation>
+          <comment>what - что, какой, average - средний, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+       <example>
+          <value>What is the net profit of this enterprise?</value>
+          <translation>Какова чистая прибыль этого предприятия?</translation>
+          <comment>what - что, какой, net - чистый, profit - прибыль, выгода, this - этот, эта, это, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be interested in technology</question>
+    <answer>интересоваться технологией</answer>
+    <comment>[tə biː ˈɪntərɪstɪd ɪn tekˈnɑːləʤiː]</comment>
+    <question_comment>interested - заинтересованный, technology - технология</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4bc5015a-9f17-4c32-9642-596a91207fe5</uuid>
+    <examples>
+       <example>
+          <value>We are interested in technology.</value>
+          <translation>Нас интересует технология.</translation>
+          <comment>interested - заинтересованный, technology - технология</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a consignment of products</question>
+    <answer>закупить партию продукции</answer>
+    <comment>[tə bаɪ ə kənˈsаɪnmənt əv ˈprɑːdəkts]</comment>
+    <question_comment>to buy - покупать, consignment - партия (товаров), product - продукт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c829e23e-3d6b-4be4-88fc-05ed923a3e31</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to buy a consignment of your products.</value>
+          <translation>Мы бы хотели закупить партию вашей продукции.</translation>
+          <comment>would like - хотеть, to buy - купить, consignment - партия (товара), product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a license</question>
+    <answer>купить лицензию</answer>
+    <comment>[tə bаɪ ə ˈlаɪsəns]</comment>
+    <question_comment>to buy - покупать, license - лицензия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ae8b0f2-209f-4f9b-896a-7b86c6c848f6</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to buy a license.</value>
+          <translation>Мы бы хотели купить лицензию.</translation>
+          <comment>would like - хотеть, to buy - купить, license - лицензия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy equipment</question>
+    <answer>закупить оборудование</answer>
+    <comment>[tə bаɪ ɪˈkwɪpmənt]</comment>
+    <question_comment>to buy - покупать, equipment - оборудование</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>735ad139-c4a5-4e2e-8eb2-54a53bb9e1c2</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to buy equipment on barter basis.</value>
+          <translation>Мы бы хотели закупить оборудование по бартеру.</translation>
+          <comment>would like - хотеть, to buy - купить, equipment - оборудование, barter - бартер, basis - основа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come from</question>
+    <answer>поставляться из</answer>
+    <comment>[tə kʌm frəm]</comment>
+    <question_comment>to come - приходить, from - от, из</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>14967cd3-d8ec-441c-83af-b9a084cd71cb</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come from Russia.</value>
+          <translation>Я приехал из России.</translation>
+          <comment>to come - приехать, from - из, от, Russia - Россия</comment>
+       </example>
+       <example>
+          <value>Where do raw materials come from?</value>
+          <translation>Откуда поставляется сырье?</translation>
+          <comment>where - где, raw - сырой, material - материал, to come - приходить, from - от, из</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to conclude a contract</question>
+    <answer>заключить контракт</answer>
+    <comment>[tə kənˈkluːd ə ˈkɑːntrækt]</comment>
+    <question_comment>to conclude - заключить, contract - контракт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d65cb45e-00d3-426b-b469-f25968493655</uuid>
+    <examples>
+       <example>
+          <value>We propose to conclude a contract for joint production.</value>
+          <translation>Мы предлагаем заключить контракт на совместное производство.</translation>
+          <comment>to propose - предложить, to conclude - заключить, contract - контракт, joint - совместный, production - производство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to conclude a transaction</question>
+    <answer>заключить сделку</answer>
+    <comment>[tə kənˈkluːd ə trænˈsækʃən]</comment>
+    <question_comment>to conclude - заключить, transaction - сделка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b463a67-c9b0-40f1-9df2-27c0fa27de22</uuid>
+    <examples>
+       <example>
+          <value>We propose to conclude a barter transaction.</value>
+          <translation>Мы предлагаем заключить бартерную сделку.</translation>
+          <comment>to propose - предложить, to conclude - заключить, barter - бартер, бартерный, transaction - сделка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to discuss possible forms of cooperation</question>
+    <answer>обсудить возможные формы сотрудничества</answer>
+    <comment>[tə dɪˈskʌs ˈpɑːsəbəl fɔːrmz əv kəʊˌɑːpəˈreɪʃən]</comment>
+    <question_comment>to discuss - обсуждать, possible - возможный, form - форма, cooperation - сотрудничество</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96532286-703f-483e-8d78-bfaf9ce9215f</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss possible forms of cooperation.</value>
+          <translation>Мы бы хотели обсудить возможные формы сотрудничества.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, possible - возможный, form - форма, cooperation - кооперация</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to discuss terms of delivery</question>
+    <answer>обсудить условия поставки</answer>
+    <comment>[tə dɪˈskʌs tɜːrmz əv dɪˈlɪvəriː]</comment>
+    <question_comment>to discuss - обсуждать, terms - сроки, delivery -поставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>46d7e9b5-54a7-4a16-b3b8-f0e3611c4156</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss terms of delivery.</value>
+          <translation>Мы бы хотели обсудить условия поставки.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to discuss terms of payment</question>
+    <answer>обсудить условия платежа</answer>
+    <comment>[tə dɪˈskʌs tɜːrmz əv ˈpeɪmənt]</comment>
+    <question_comment>to discuss - обсуждать, terms - сроки, payment - платеж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fe2c5e4f-57f0-4e00-afdf-1a6e9873f7ed</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss terms of payment.</value>
+          <translation>Мы бы хотели обсудить условия платежа.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, terms - условия, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to discuss the contract dates</question>
+    <answer>обсудить сроки исполнения контракта</answer>
+    <comment>[tə dɪˈskʌs ðə ˈkɑːntrækt deɪts]</comment>
+    <question_comment>to discuss - обсуждать, contract - контракт, date - дата, срок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ceae4cb-53e5-48e6-ab17-9bbc0dee4e75</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to discuss the contract dates.</value>
+          <translation>Мы бы хотели обсудить сроки исполнения контракта.</translation>
+          <comment>would like - хотеть, to discuss - обсудить, contract - контракт, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to discuss the question</question>
+    <answer>обсудить вопрос</answer>
+    <comment>[tə dɪˈskʌs ðə ˈkwesʧən]</comment>
+    <question_comment>to discuss - обсуждать, question - вопрос</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6991a9dd-480a-4984-ba8b-f164b3012af0</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come to discuss the question of our partnership.</value>
+          <translation>Я приехал обсудить вопрос нашего партнерства.</translation>
+          <comment>to come - приехать, прийти, to discuss - обсудить, question - вопрос, our - наш, наша, наши, partnership - парнерство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to export finished products</question>
+    <answer>экспортировать продукцию</answer>
+    <comment>[tə ekˈspɔːrt ˈfɪnɪʃt ˈprɑːdəkts]</comment>
+    <question_comment>to export - экспортировать, finished - готовый, законченный, to finish - заканчивать, product - продукт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>94a29756-3b64-45c5-afb2-8ec19d657837</uuid>
+    <examples>
+       <example>
+          <value>To what countries do you export finished products?</value>
+          <translation>В какие страны экспортируется продукция?</translation>
+          <comment>what - что, какой, country - страна, to export - экспортировать, finished - законченный, готовый, product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have an appointment</question>
+    <answer>иметь назначенную встречу</answer>
+    <comment>[tə hæv ən əˈpɔɪntmənt]</comment>
+    <question_comment>to have - иметь, appointment - назначенная встреча</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>25ef4025-7b48-49b8-9e43-e11181621188</uuid>
+    <examples>
+       <example>
+          <value>What number is for making an appointment with a doctor?</value>
+          <translation>По какому телефону можно записаться к врачу?</translation>
+          <comment>what - что, какой, number - номер, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>I want to make an appointment with a doctor.</value>
+          <translation>Мне нужно записаться к врачу.</translation>
+          <comment>to want - хотеть, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>Can I have an appointment?</value>
+          <translation>Я хотел бы записаться на прием.</translation>
+          <comment>can - мочь, to have - иметь, appointment - назначенная встреча</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an appointment with Mr. Black.</value>
+          <translation>Я бы хотел встретиться с мистером Блэком.</translation>
+          <comment>would like - хотеть, to make - сделать, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+       <example>
+          <value>I have an appointment with Mr. Black.</value>
+          <translation>У меня назначена встреча с мистером Блэком.</translation>
+          <comment>to have - иметь, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make an appointment</question>
+    <answer>назначить встречу</answer>
+    <comment>[tə meɪk ən əˈpɔɪntmənt]</comment>
+    <question_comment>to make - делать, appointment - назначенная встреча</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f394bb93-e3bb-4e67-ac6a-960b4688084e</uuid>
+    <examples>
+       <example>
+          <value>I want to make an appointment with a doctor.</value>
+          <translation>Мне нужно записаться к врачу.</translation>
+          <comment>to want - хотеть, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an appointment with Mr. Black.</value>
+          <translation>Я бы хотел встретиться с мистером Блэком.</translation>
+          <comment>would like - хотеть, to make - сделать, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to negotiate the list of deliveries</question>
+    <answer>договориться о номенклатуре поставок</answer>
+    <comment>[tə nɪˈgoʊʃɪˌeɪt ðə lɪst əv dɪˈlɪvəriːz]</comment>
+    <question_comment>to negotiate - вести переговоры, договариваться, list - список, перечень, delivery - поставка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>32b511a3-cc23-4ac2-a359-ebbfbe7a5b30</uuid>
+    <examples>
+       <example>
+          <value>We have to negotiate the list of deliveries.</value>
+          <translation>Нам нужно договориться о номенклатуре поставок.</translation>
+          <comment>to have to - быть должным, to negotiate - договориться, list - список, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sign the contract</question>
+    <answer>подписать контракт</answer>
+    <comment>[tə sаɪn ðə ˈkɑːntrækt]</comment>
+    <question_comment>to sign - подписать, contract - контракт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d5aaa2a7-6e30-4408-9120-9d4cabaea995</uuid>
+    <examples>
+       <example>
+          <value>When can we sign the contract?</value>
+          <translation>Когда мы можем подписать контракт?</translation>
+          <comment>when - когда, can - мочь, we - мы, to sign - подписать, contract - контракт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to visit a factory</question>
+    <answer>посетить завод</answer>
+    <comment>[tə ˈvɪzɪt ə ˈfæktəriː]</comment>
+    <question_comment>to visit - посетить, factory - завод</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>775283a0-d273-4d33-80be-6edc1aeb50fe</uuid>
+    <examples>
+       <example>
+          <value>We&apos;d like to visit a factory.</value>
+          <translation>Мы бы хотели посетить завод.</translation>
+          <comment>would like - хотеть, to visit - посетить, factory - завод, фабрика</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

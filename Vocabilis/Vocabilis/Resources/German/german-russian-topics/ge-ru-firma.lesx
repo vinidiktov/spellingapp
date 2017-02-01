@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4d600649-0301-4260-a68d-802b89c48a9c</uuid>
+  <title>Фирма</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>AG</question>
+    <answer>акционерное общество (сокр.)</answer>
+    <comment></comment>
+    <uuid>86c60eec-877c-4d63-b559-f798714a4afa</uuid>
+  </card>
+  <card>
+    <question>das Business</question>
+    <answer>бизнес</answer>
+    <comment></comment>
+    <uuid>b8670586-3a22-472e-a020-ed67791ca06d</uuid>
+  </card>
+  <card>
+    <question>das Unternehmen</question>
+    <answer>предприятие, предпринимательство</answer>
+    <comment></comment>
+    <uuid>99d4997c-5cfc-4d6b-a2ad-96d51f0e536b</uuid>
+  </card>
+  <card>
+    <question>das Verlustgeschäft</question>
+    <answer>убыточная сделка</answer>
+    <comment></comment>
+    <uuid>980cb526-2dd3-410f-8b61-167a859d0731</uuid>
+  </card>
+  <card>
+    <question>der Aktionär</question>
+    <answer>акционер</answer>
+    <comment></comment>
+    <uuid>3678581b-5f17-4223-9f64-1aef8d507c01</uuid>
+  </card>
+  <card>
+    <question>der Betrieb</question>
+    <answer>завод, предприятие</answer>
+    <comment></comment>
+    <uuid>ae214040-7bd3-4605-8645-5d56e2a3a65e</uuid>
+  </card>
+  <card>
+    <question>der Geschäftsführer</question>
+    <answer>управляющий фирмой</answer>
+    <comment></comment>
+    <uuid>63c184a2-6cee-4c6d-aa84-972ddc673b43</uuid>
+  </card>
+  <card>
+    <question>der Gesellschafter</question>
+    <answer>участник товарищества, компаньон</answer>
+    <comment></comment>
+    <uuid>cc05bcd1-67fa-4cc1-9ef5-6fedc8fd6809</uuid>
+  </card>
+  <card>
+    <question>der Inhaber</question>
+    <answer>владелец</answer>
+    <comment></comment>
+    <uuid>cd485dda-7678-4963-9d9f-1673cf0de3d6</uuid>
+  </card>
+  <card>
+    <question>der Konzern</question>
+    <answer>концерн</answer>
+    <comment></comment>
+    <uuid>d615e7f7-f9a4-4b35-9fbd-ebb9d53502eb</uuid>
+  </card>
+  <card>
+    <question>der Manager</question>
+    <answer>менеджер</answer>
+    <comment></comment>
+    <uuid>60aa2830-738d-4c83-af6d-82daade6929d</uuid>
+  </card>
+  <card>
+    <question>die Aktie</question>
+    <answer>акция</answer>
+    <comment></comment>
+    <uuid>c05018be-c633-4886-bd79-f13d3b3c11a2</uuid>
+  </card>
+  <card>
+    <question>die Aktiengesellschaft</question>
+    <answer>акционерное общество</answer>
+    <comment></comment>
+    <uuid>684c45b9-66d1-4e77-af70-3409272313f0</uuid>
+  </card>
+  <card>
+    <question>die Börse</question>
+    <answer>биржа</answer>
+    <comment></comment>
+    <uuid>dc05f38c-c1c6-4a55-a8a5-a9515fea5081</uuid>
+  </card>
+  <card>
+    <question>die Firma</question>
+    <answer>фирма</answer>
+    <comment></comment>
+    <uuid>75d94c13-25db-4877-b45e-953d43c1d213</uuid>
+  </card>
+  <card>
+    <question>die Gesellschaft mit beschränkter Haftung</question>
+    <answer>общество с ограниченной ответственностью</answer>
+    <comment></comment>
+    <uuid>04f1edf2-2e32-4221-88f0-bf2dafc9d599</uuid>
+  </card>
+  <card>
+    <question>die Investition</question>
+    <answer>инвестиция</answer>
+    <comment></comment>
+    <uuid>8dca9eb3-38a1-410f-bf65-c684092c8521</uuid>
+  </card>
+  <card>
+    <question>die Jahreshauptversammlung</question>
+    <answer>годовое собрание акционеров</answer>
+    <comment></comment>
+    <uuid>cd601380-6f87-4b86-9878-28e884411859</uuid>
+  </card>
+  <card>
+    <question>die Kapitalanlage</question>
+    <answer>капиталовложения</answer>
+    <comment></comment>
+    <uuid>c46f8a55-f266-452f-bf59-7ce8be5f5570</uuid>
+  </card>
+  <card>
+    <question>die Kommanditgesellschaft</question>
+    <answer>коммандитное товарищество</answer>
+    <comment></comment>
+    <uuid>d4414b47-3670-4fb1-b112-d6bfe2e8f220</uuid>
+  </card>
+  <card>
+    <question>einträglich</question>
+    <answer>прибыльный</answer>
+    <comment></comment>
+    <uuid>8f41f521-9325-4b63-9cf8-5743f23ffe1d</uuid>
+  </card>
+  <card>
+    <question>GmbH</question>
+    <answer>общество с ограниченной ответственностью (сокр.)</answer>
+    <comment></comment>
+    <uuid>23404fd4-23ce-464c-8390-a8da2e5f4d3a</uuid>
+  </card>
+  <card>
+    <question>KG</question>
+    <answer>коммандитное товарищество</answer>
+    <comment></comment>
+    <uuid>72997645-11d3-4d1e-ad99-e5c6e115e1b4</uuid>
+  </card>
+  <card>
+    <question>nachteilig</question>
+    <answer>убыточный</answer>
+    <comment></comment>
+    <uuid>390afbfb-f1c5-42e7-b52e-d7ea0b0555f6</uuid>
+  </card>
+</cards>
+</stack>

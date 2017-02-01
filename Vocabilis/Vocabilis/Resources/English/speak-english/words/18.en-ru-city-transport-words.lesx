@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>98fa017d-e22f-488f-8c85-6e2943298897</uuid>
+  <title>Городской транспорт :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>square</question>
+    <answer>площадь</answer>
+    <comment>[skwer]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5c4ef32-7f10-49a7-b2de-0397ed34ef9c</uuid>
+    <examples>
+       <example>
+          <value>to go to the square</value>
+          <translation>ехать до площади</translation>
+          <comment>to go (to) - ехать (до), square - площадь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>streetcar</question>
+    <answer>трамвай</answer>
+    <comment>[ˈstriːtˌkɑːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>754d8289-48dd-43c1-9405-e433d59f2952</uuid>
+    <examples>
+       <example>
+          <value>the nearest streetcar stop</value>
+          <translation>ближайшая трамвайная остановка</translation>
+          <comment>the nearest - ближайший, streetcar - трамвай, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to take a streetcar</value>
+          <translation>сесть в трамвай</translation>
+          <comment>to take - сесть в, streetcar - трамвай</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>monthly</question>
+    <answer>месячный</answer>
+    <comment>[ˈmʌnθliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5adcda0-2b75-4a06-acb4-757a69f272d2</uuid>
+    <examples>
+       <example>
+          <value>to buy a monthly ticket</value>
+          <translation>купить проездной билет на месяц</translation>
+          <comment>to buy - покупать, monthly - месячный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bus</question>
+    <answer>автобус</answer>
+    <comment>[bʌs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82222eee-941e-4ac2-b80a-b31ae5189752</uuid>
+    <examples>
+       <example>
+          <value>the nearest bus stop</value>
+          <translation>ближайшая автобусная остановка</translation>
+          <comment>the nearest - ближайший, bus - автобус, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the next bus</value>
+          <translation>следующий автобус</translation>
+          <comment>next - следующий, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to change buses</value>
+          <translation>сделать пересадку на другой автобус</translation>
+          <comment>to change - месть, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to take a bus</value>
+          <translation>сесть на автобус</translation>
+          <comment>to take - садиться в, bus - автобус</comment>
+       </example>
+       <example>
+          <value>a bus for the hotel</value>
+          <translation>автобус до гостиницы</translation>
+          <comment>bus - автобус, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>in a bus</value>
+          <translation>в автобусе</translation>
+          <comment>bus - автобус</comment>
+       </example>
+       <example>
+          <value>to be left behind by your bus</value>
+          <translation>отстать от (твоего) автобуса</translation>
+          <comment>to leave - оставлять, behind - позади, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to leave in a bus</value>
+          <translation>оставить в автобусе</translation>
+          <comment>to leave - оставлять, bus - автобус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>button</question>
+    <answer>кнопка</answer>
+    <comment>[ˈbʌtn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f9f41252-9782-4449-b8e8-990e55c6cdb6</uuid>
+    <examples>
+       <example>
+          <value>the stop button</value>
+          <translation>кнопка сигнала остановки</translation>
+          <comment>stop - остановка, button - кнопка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>vacant</question>
+    <answer>свободный</answer>
+    <comment>[ˈveɪkənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ce397782-582c-4184-b8c7-ca4c5bfe1045</uuid>
+    <examples>
+       <example>
+          <value>a vacant place</value>
+          <translation>свободное место</translation>
+          <comment>vacant - незанятый, place - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stop</question>
+    <answer>остановка, остановить</answer>
+    <comment>[stɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>08c826cc-7ee8-4833-b6fb-34e7d4333a41</uuid>
+    <examples>
+       <example>
+          <value>at the next stop</value>
+          <translation>на следующей остановке</translation>
+          <comment>next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the nearest bus stop</value>
+          <translation>ближайшая автобусная остановка</translation>
+          <comment>the nearest - ближайший, bus - автобус, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the nearest streetcar stop</value>
+          <translation>ближайшая трамвайная остановка</translation>
+          <comment>the nearest - ближайший, streetcar - трамвай, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the stop button</value>
+          <translation>кнопка сигнала остановки</translation>
+          <comment>stop - остановка, button - кнопка</comment>
+       </example>
+       <example>
+          <value>What is this stop called?</value>
+          <translation>Как называется эта остановка?</translation>
+          <comment>what - зд. как, to call - называть, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the next stop</value>
+          <translation>следующая остановка</translation>
+          <comment>next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to get off at the next stop</value>
+          <translation>выходить на следующей остановке</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to stop here</value>
+          <translation>остановить здесь</translation>
+          <comment>to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>to stop the car</value>
+          <translation>остановить машину</translation>
+          <comment>to stop - останавливать, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Zoo</question>
+    <answer>зоопарк</answer>
+    <comment>[zuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d2390035-2242-4c1b-80a0-c2027ae12d9a</uuid>
+    <examples>
+       <example>
+          <value>to go to the Zoo</value>
+          <translation>ехать к зоопарку</translation>
+          <comment>to go (to) - ехать (до), the Zoo - зоопарк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>subway</question>
+    <answer>метро</answer>
+    <comment>[ˈsʌbˌweɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>81ebe88a-91f0-4395-8485-2c88f4aa388b</uuid>
+    <examples>
+       <example>
+          <value>a map of the subway</value>
+          <translation>карта метро</translation>
+          <comment>map - карта, subway - метро (амер.)</comment>
+       </example>
+       <example>
+          <value>the nearest subway station</value>
+          <translation>ближайшая станция метро (амер.)</translation>
+          <comment>the nearest - ближайший, subway - метро, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cathedral</question>
+    <answer>собор</answer>
+    <comment>[kəˈθiːdrəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05128964-242c-4c96-8540-e7d31bc55fc3</uuid>
+    <examples>
+       <example>
+          <value>to reach the cathedral</value>
+          <translation>доехать до собора</translation>
+          <comment>to reach - доезжать до, достигать, cathedral - собор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>reach</question>
+    <answer>достигать, доезжать</answer>
+    <comment>[riːʧ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e34870ad-b5c1-4d8e-a04c-cda5a2b7f468</uuid>
+    <examples>
+       <example>
+          <value>to reach the cathedral</value>
+          <translation>доехать до собора</translation>
+          <comment>to reach - доезжать до, достигать, cathedral - собор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>university</question>
+    <answer>университет</answer>
+    <comment>[ˌjuːnəˈvɜːrsɪtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>298901e6-ee59-41e7-85cb-d4bbbbc18ddf</uuid>
+    <examples>
+       <example>
+          <value>to go to the university</value>
+          <translation>ехать до университета</translation>
+          <comment>to go (to) - ехать (до), university - университет</comment>
+       </example>
+       <example>
+          <value>to go to university</value>
+          <translation>учиться в университете</translation>
+          <comment>to go - идти, university - университет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>weekly</question>
+    <answer>недельный</answer>
+    <comment>[ˈwiːkliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3383a07-a15b-4fbd-a31b-024d92eaca3a</uuid>
+    <examples>
+       <example>
+          <value>to buy a weekly ticket</value>
+          <translation>купить проездной билет на неделю</translation>
+          <comment>to buy - покупать, weekly - недельный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>corner</question>
+    <answer>угол</answer>
+    <comment>[ˈkɔːrnər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d8f4eff2-3316-48cc-9546-a7c3bf79a005</uuid>
+    <examples>
+       <example>
+          <value>to meet you at the corner</value>
+          <translation>встретить тебя на углу</translation>
+          <comment>to meet - встречать, corner - угол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cab</question>
+    <answer>такси</answer>
+    <comment>[kæb]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d51d7ae8-1620-42c0-a460-ffbdab3db232</uuid>
+    <examples>
+       <example>
+          <value>to hail a cab</value>
+          <translation>остановить такси</translation>
+          <comment>to hail - вызвать, остановить, cab - такси</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

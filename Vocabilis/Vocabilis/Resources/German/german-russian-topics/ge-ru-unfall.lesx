@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f1ee0f79-bed0-4314-be12-f387b5c3521a</uuid>
+  <title>Авария</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Bitte, helfen Sie mir.</question>
+    <answer>Пожалуйста, помогите мне.</answer>
+    <comment></comment>
+    <uuid>0b77a3d4-1286-4e02-b10a-49974ebf0cec</uuid>
+  </card>
+  <card>
+    <question>Bitte, leisten Sie Erste Hilfe.</question>
+    <answer>Пожалуйста, окажите первую медицинскую помощь.</answer>
+    <comment></comment>
+    <uuid>27ee08d7-f307-49a9-bd24-ca66d71aa9ea</uuid>
+  </card>
+  <card>
+    <question>das Verbandszeug</question>
+    <answer>перевязочный материал</answer>
+    <comment></comment>
+    <uuid>a0371c67-4ef1-4b69-ab11-9a7f90caa82e</uuid>
+  </card>
+  <card>
+    <question>der Arzt</question>
+    <answer>врач</answer>
+    <comment></comment>
+    <uuid>e04a2f3e-a43d-4326-b5ff-c267ab665909</uuid>
+  </card>
+  <card>
+    <question>der Bagatellschaden</question>
+    <answer>мелкие повреждения</answer>
+    <comment></comment>
+    <uuid>93dc729b-117c-4632-8d49-46376b559029</uuid>
+  </card>
+  <card>
+    <question>der Blechschaden</question>
+    <answer>повреждение корпуса</answer>
+    <comment></comment>
+    <uuid>fd70fa26-d9db-4eb0-891c-d33451172a96</uuid>
+  </card>
+  <card>
+    <question>der Notruf</question>
+    <answer>экстренный вызов помощи</answer>
+    <comment></comment>
+    <uuid>ae2c9e50-8ad9-49a2-9186-1e97d6857c73</uuid>
+  </card>
+  <card>
+    <question>der Personenschaden</question>
+    <answer>телесное повреждение</answer>
+    <comment></comment>
+    <uuid>9ed0effb-85ec-4074-aa4a-bffb4bc94ae8</uuid>
+  </card>
+  <card>
+    <question>der Unfall</question>
+    <answer>несчастный случай</answer>
+    <comment></comment>
+    <uuid>4ac4f536-3b02-4ec4-b062-c02fb6eae88b</uuid>
+  </card>
+  <card>
+    <question>der Zeuge</question>
+    <answer>свидетель</answer>
+    <comment></comment>
+    <uuid>b01cd3ad-7c79-4140-8832-706c8d097e1e</uuid>
+  </card>
+  <card>
+    <question>der Zusammenstoß</question>
+    <answer>столкновение</answer>
+    <comment></comment>
+    <uuid>e3acb4f6-49bd-446e-9d98-0179b7a26cad</uuid>
+  </card>
+  <card>
+    <question>die Erste Hilfe</question>
+    <answer>первая медицинская помощь</answer>
+    <comment></comment>
+    <uuid>d449c3ed-b4ed-4c37-9af4-b4b769a96295</uuid>
+  </card>
+  <card>
+    <question>Die Poliizei muß kommen!</question>
+    <answer>Полиция должна прибыть!</answer>
+    <comment></comment>
+    <uuid>03fb4eea-3a61-45bf-9700-fc95aa0c2189</uuid>
+  </card>
+  <card>
+    <question>die Polizei</question>
+    <answer>полиция</answer>
+    <comment></comment>
+    <uuid>a934cab1-2ae3-4698-a934-9612eb6f283a</uuid>
+  </card>
+  <card>
+    <question>die Unfallursache</question>
+    <answer>причина несчастного случая</answer>
+    <comment></comment>
+    <uuid>af6fad50-37dd-4b26-9501-ae8069fc7b46</uuid>
+  </card>
+  <card>
+    <question>Ich habe keine Schuld!</question>
+    <answer>Я не виновен!</answer>
+    <comment></comment>
+    <uuid>ff61484d-6397-46ec-8eb0-4f3889a81ed7</uuid>
+  </card>
+  <card>
+    <question>Ich hatte Vorfahrt!</question>
+    <answer>У меня было право преимущественного проезда!</answer>
+    <comment></comment>
+    <uuid>03497665-d789-4026-9787-59d73ad7d545</uuid>
+  </card>
+  <card>
+    <question>Ich möchte mit Ihnen den Unfallbericht ausfüllen.</question>
+    <answer>Я хотел бы заполнить вместе с Вами акт о несчастном случае.</answer>
+    <comment></comment>
+    <uuid>2a2345db-85bf-40b7-a724-b5f9dfea5e00</uuid>
+  </card>
+  <card>
+    <question>Ihre Versicherung, bitte.</question>
+    <answer>Ваш страховой полис, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>2f875d75-5c3e-4762-8c8c-0dfab16b2af9</uuid>
+  </card>
+  <card>
+    <question>Ihren Namen und Ihre Anschrift, bitte.</question>
+    <answer>Ваша фамилия и адрес, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>fd33958c-3c5c-472a-ba6e-8bff9cab879d</uuid>
+  </card>
+  <card>
+    <question>Rufen Sie bitte die Polizei.</question>
+    <answer>Вызовите, пожалуйста, полицию.</answer>
+    <comment></comment>
+    <uuid>27023238-cb01-41bc-aefe-ede7a17f3898</uuid>
+  </card>
+  <card>
+    <question>Rufen Sie schnell einen Arzt!</question>
+    <answer>Вызовите поскорее врача!</answer>
+    <comment></comment>
+    <uuid>f2c86876-06ea-4780-a4c2-b8916170cdd5</uuid>
+  </card>
+  <card>
+    <question>Sie haben die rote Ampel nicht beachtet!</question>
+    <answer>Вы не обратили внимание на красный свет!</answer>
+    <comment></comment>
+    <uuid>796baba4-3272-429c-a88c-06a7895eea2e</uuid>
+  </card>
+  <card>
+    <question>Sie haben falsch überholt!</question>
+    <answer>Вы неправильно совершили обгон!</answer>
+    <comment></comment>
+    <uuid>f48265bd-7aab-44f0-be42-cd0d57bec513</uuid>
+  </card>
+  <card>
+    <question>Sie sind aufgefahren!</question>
+    <answer>Вы наехали!</answer>
+    <comment></comment>
+    <uuid>ac4b9b99-7a43-423e-90d7-f7e0d29cc5b8</uuid>
+  </card>
+  <card>
+    <question>Sie sind schuld!</question>
+    <answer>Вы виновны!</answer>
+    <comment></comment>
+    <uuid>6ca78d8f-77b1-47a4-ac75-1048ec59b7bd</uuid>
+  </card>
+  <card>
+    <question>Sind Personen verletzt?</question>
+    <answer>Есть ли пострадавшие?</answer>
+    <comment></comment>
+    <uuid>6222185d-8c89-4892-99b6-6970867eba2e</uuid>
+  </card>
+  <card>
+    <question>Sind Sie verletzt?</question>
+    <answer>Вы ранены?</answer>
+    <comment></comment>
+    <uuid>3dd012b9-783d-410b-a648-7f15be2161d1</uuid>
+  </card>
+  <card>
+    <question>Welche Versicherung haben Sie?</question>
+    <answer>Где и как Вы застрахованы?</answer>
+    <comment></comment>
+    <uuid>4cdc0a67-9cef-49af-96be-3529752e96be</uuid>
+  </card>
+  <card>
+    <question>Würden Sie mir Ihren Namen und Ihre Anschrift als Zeuge aufschreiben?</question>
+    <answer>Будьте добры назвать Вашу фамилию и адрес в качестве свидетеля.</answer>
+    <comment></comment>
+    <uuid>451139f0-a6d1-47ca-8d8b-fea3125e0c27</uuid>
+  </card>
+</cards>
+</stack>

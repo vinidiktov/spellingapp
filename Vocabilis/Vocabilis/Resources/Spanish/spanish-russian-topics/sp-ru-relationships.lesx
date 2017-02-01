@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7441ee45-c51c-409c-bc78-e9b9e12170a8</uuid>
+  <title>Семья</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el hermano</question>
+    <answer>брат</answer>
+    <comment></comment>
+    <uuid>bbf458e3-7ef9-4c22-8da1-b35ad276c24d</uuid>
+  </card>
+  <card>
+    <question>la hija</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <uuid>035decff-d773-49ab-8e5b-fe967d134112</uuid>
+  </card>
+  <card>
+    <question>el padre</question>
+    <answer>отец</answer>
+    <comment></comment>
+    <uuid>75952c9f-2c67-49b1-9974-24d27fa6bd97</uuid>
+  </card>
+  <card>
+    <question>el amigo</question>
+    <answer>друг</answer>
+    <comment></comment>
+    <uuid>19d154a8-066a-47dd-95fd-2bc66839a77b</uuid>
+  </card>
+  <card>
+    <question>la madre</question>
+    <answer>мать</answer>
+    <comment></comment>
+    <uuid>4980da1d-a4bb-480a-a4eb-0224a1c816c1</uuid>
+  </card>
+  <card>
+    <question>la hermana</question>
+    <answer>сестра</answer>
+    <comment></comment>
+    <uuid>e2abe404-ffa5-4015-9510-8633aab762a8</uuid>
+  </card>
+  <card>
+    <question>el hijo</question>
+    <answer>сын</answer>
+    <comment></comment>
+    <uuid>186a85e9-853e-4249-a5e7-4cb84ec4cd2a</uuid>
+  </card>
+</cards>
+</stack>

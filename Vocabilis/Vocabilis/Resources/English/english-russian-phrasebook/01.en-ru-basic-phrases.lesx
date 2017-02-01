@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>2c0ca5b5-d59f-4a68-b323-136a1ca8d13c</uuid>
+  <title>Фразы первой необходимости</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2013</year>
+     <month>3</month>
+     <day>17</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Thank you very much.</question>
+    <answer>Большое спасибо.</answer>
+    <comment>[θæŋk jʊ ˈverɪ mʌʧ]</comment>
+    <uuid>959ad68e-6b0d-4fc5-8035-2cd8eb716b4c</uuid>
+  </card>
+  <card>
+    <question>You&apos;re welcome.</question>
+    <answer>Пожалуйста (в ответ).</answer>
+    <comment>[jə ˈwelkəm]</comment>
+    <uuid>725eb107-1874-4608-b82d-2f5394e74395</uuid>
+  </card>
+  <card>
+    <question>Yes.</question>
+    <answer>Да.</answer>
+    <comment>[jes]</comment>
+    <uuid>8bad9152-c08b-4344-b969-2f4fa85584f2</uuid>
+  </card>
+  <card>
+    <question>No.</question>
+    <answer>Нет.</answer>
+    <comment>[nəʊ]</comment>
+    <uuid>893149ae-bc16-41fd-b0cc-767b40fcbc78</uuid>
+  </card>
+  <card>
+    <question>Please.</question>
+    <answer>Пожалуйста (просьба).</answer>
+    <comment>[pliːz]</comment>
+    <uuid>e69cc0dd-c7cc-425f-b2c9-b25758bf8d44</uuid>
+  </card>
+  <card>
+    <question>I understand.</question>
+    <answer>Понимаю.</answer>
+    <comment>[аɪ ˌʌndəˈstænd]</comment>
+    <uuid>40ebdfb3-dd91-4fb1-9686-cc3809fd85ed</uuid>
+  </card>
+  <card>
+    <question>I don&apos;t understand.</question>
+    <answer>Не понимаю.</answer>
+    <comment>[аɪ dəʊnt ˌʌndəˈstænd]</comment>
+    <uuid>4ff7f035-e875-479d-81fd-295795cfb482</uuid>
+  </card>
+  <card>
+    <question>That&apos;s all right.</question>
+    <answer>Ничего страшного.</answer>
+    <comment>[ðæts ɔːl rаɪt]</comment>
+    <uuid>001ac870-4247-4aeb-8e41-6ade38ddcbbf</uuid>
+  </card>
+  <card>
+    <question>How many?</question>
+    <answer>Сколько?</answer>
+    <comment>[hаʊ ˈmenɪ]</comment>
+    <uuid>14011217-c52d-4ad3-b3ef-37bd9f3f8416</uuid>
+  </card>
+  <card>
+    <question>How much?</question>
+    <answer>Сколько?</answer>
+    <comment>[hаʊ mʌʧ]</comment>
+    <uuid>f5e4b941-fc05-4cba-bc45-4afff54487ab</uuid>
+  </card>
+  <card>
+    <question>How long?</question>
+    <answer>Как долго?</answer>
+    <comment>[hаʊ lɒŋ]</comment>
+    <uuid>f56b1da2-cc02-4cdc-8032-7390a0181ac5</uuid>
+  </card>
+  <card>
+    <question>How far?</question>
+    <answer>Как далеко?</answer>
+    <comment>[hаʊ fɑː]</comment>
+    <uuid>4e5f61c2-3a0f-4b21-a653-61f685482b11</uuid>
+  </card>
+  <card>
+    <question>Whom should I ask?</question>
+    <answer>Кого спросить?</answer>
+    <comment>[huːm ʃʊd аɪ ɑːsk]</comment>
+    <uuid>f4cbe0c6-4d72-485b-951e-6f0f59b12d54</uuid>
+  </card>
+  <card>
+    <question>After you.</question>
+    <answer>После вас.</answer>
+    <comment>[ˈɑːftə jʊ]</comment>
+    <uuid>2bce8b5a-fb54-433d-969d-a3a2e89514bb</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest hotel?</question>
+    <answer>Где ближайшая гостиница?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst həʊˈtel]</comment>
+    <uuid>c9b1e1f5-e908-446b-b9c2-905713f6f01c</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest restaurant?</question>
+    <answer>Где ближайший ресторан?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst ˈrestərɔːŋ]</comment>
+    <uuid>e260a377-0bd9-4cae-9574-8624aabd3133</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest supermarket?</question>
+    <answer>Где ближайший супермаркет?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst ˈsjuːpəˌmɑːkɪt]</comment>
+    <uuid>e4bd5fd1-512e-4a77-a7b3-19c7db6dbaa9</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest bank?</question>
+    <answer>Где ближайший банк?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst bæŋk]</comment>
+    <uuid>23b05edd-1328-4a26-a206-4e5d3a49c235</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest drugstore?</question>
+    <answer>Где ближайшая аптека?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst ˈdrʌgstɔː]</comment>
+    <uuid>2149ac4f-32f4-4e47-9857-1eb4963986c8</uuid>
+  </card>
+  <card>
+    <question>Where is the nearest train station?</question>
+    <answer>Где ближайший вокзал?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst treɪn ˈsteɪʃən]</comment>
+    <uuid>156e0106-dd8e-4e0e-b80e-569b63c784ec</uuid>
+  </card>
+  <card>
+    <question>Where is the bathroom?</question>
+    <answer>Где туалет?</answer>
+    <comment>[weər ɪz ðə ˈbɑːθrʊm]</comment>
+    <uuid>9b7bb113-7bba-443a-babb-d547e49d143a</uuid>
+  </card>
+  <card>
+    <question>Who?</question>
+    <answer>Кто?</answer>
+    <comment>[huː]</comment>
+    <uuid>04e0c3af-eb3b-4a32-bea4-dc2f4bb14dbb</uuid>
+  </card>
+  <card>
+    <question>What?</question>
+    <answer>Что?</answer>
+    <comment>[wɒt]</comment>
+    <uuid>f9197b1b-5bfd-46d5-ab86-90cc1d79eae3</uuid>
+  </card>
+  <card>
+    <question>Why?</question>
+    <answer>Почему?</answer>
+    <comment>[wаɪ]</comment>
+    <uuid>4bf0e62a-3166-43b0-ae1d-68c86c8b63bc</uuid>
+  </card>
+  <card>
+    <question>Where?</question>
+    <answer>Где?</answer>
+    <comment>[weə]</comment>
+    <uuid>c662c86b-f0d3-4e93-851b-919a4873dad1</uuid>
+  </card>
+  <card>
+    <question>When?</question>
+    <answer>Когда?</answer>
+    <comment>[wen]</comment>
+    <uuid>ea16f9fd-ad49-43c7-b68d-0d7367aec5e6</uuid>
+  </card>
+  <card>
+    <question>Look!</question>
+    <answer>Смотрите!</answer>
+    <comment>[lʊk]</comment>
+    <uuid>9a9eb126-b916-423c-8cfa-75b2c69e852c</uuid>
+  </card>
+  <card>
+    <question>Does someone here speak English?</question>
+    <answer>Здесь кто-нибудь говорит по-английски?</answer>
+    <comment>[dʌz ˈsʌmwʌn hɪə spiːk ˈɪŋglɪʃ]</comment>
+    <uuid>37279640-67c6-4c38-b28b-eca2fd59d063</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7cd1d6a7-cc3d-45f3-8b9a-236a90e45b4e</uuid>
+  <title>Банк</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>abheben</question>
+    <answer>брать (деньги со счёта)</answer>
+    <comment></comment>
+    <uuid>0a3418d8-cd24-42a6-be87-59d8832b65ca</uuid>
+  </card>
+  <card>
+    <question>das Bargeld</question>
+    <answer>наличные деньги</answer>
+    <comment></comment>
+    <uuid>3f03b338-5919-401e-bcda-400b46b64925</uuid>
+  </card>
+  <card>
+    <question>das Girokonto</question>
+    <answer>текущий счёт</answer>
+    <comment></comment>
+    <uuid>7aa6ef48-924c-4a72-9f53-3de0741b27e3</uuid>
+  </card>
+  <card>
+    <question>das Kleingeld</question>
+    <answer>мелочь (деньги)</answer>
+    <comment></comment>
+    <uuid>30b6ee0e-48f2-4bc1-82fd-d03d3a8050e9</uuid>
+  </card>
+  <card>
+    <question>das Konto</question>
+    <answer>счёт в банке</answer>
+    <comment></comment>
+    <uuid>689cfdc3-f1bc-4067-a608-1924726aaa7b</uuid>
+  </card>
+  <card>
+    <question>das Sparbuch</question>
+    <answer>сберегательная книжка</answer>
+    <comment></comment>
+    <uuid>885194f2-8ada-4b62-94a6-8824a13b19bc</uuid>
+  </card>
+  <card>
+    <question>der Geldschein</question>
+    <answer>банкнота</answer>
+    <comment></comment>
+    <uuid>f01dea0a-31df-4d0b-8237-07bb2cb8df4e</uuid>
+  </card>
+  <card>
+    <question>der Kontoauszug</question>
+    <answer>выписка из счета</answer>
+    <comment></comment>
+    <uuid>db57fdf2-89ad-4b11-a756-5a63cce4505c</uuid>
+  </card>
+  <card>
+    <question>der Kontoinhaber</question>
+    <answer>владелец счета</answer>
+    <comment></comment>
+    <uuid>4cba7a6e-d00c-4f08-b3a2-c36931bec1be</uuid>
+  </card>
+  <card>
+    <question>die Bank</question>
+    <answer>банк</answer>
+    <comment></comment>
+    <uuid>54b3bdde-8587-4730-ab4e-451899bd4be7</uuid>
+  </card>
+  <card>
+    <question>die Bankleitzahl (BLZ)</question>
+    <answer>расчетный счёт банка</answer>
+    <comment></comment>
+    <uuid>d23ef6f2-8f01-4a41-a1a6-80eeb465f4b9</uuid>
+  </card>
+  <card>
+    <question>die Einzahlung</question>
+    <answer>платеж, денежный взнос</answer>
+    <comment></comment>
+    <uuid>ef57ffc7-b499-4a10-ab4e-d6c1de1da080</uuid>
+  </card>
+  <card>
+    <question>die Kontonummer</question>
+    <answer>номер счета</answer>
+    <comment></comment>
+    <uuid>88437a71-dcbe-4b99-b8dd-75d173b56369</uuid>
+  </card>
+  <card>
+    <question>die Kreissparkasse</question>
+    <answer>окружная сберкасса</answer>
+    <comment></comment>
+    <uuid>0ea75546-ab09-4c01-8262-3a0db3ded910</uuid>
+  </card>
+  <card>
+    <question>die Schalter</question>
+    <answer>окно/окошко</answer>
+    <comment></comment>
+    <uuid>bc6d22be-3eb0-4e60-aeb6-f1f784aba761</uuid>
+  </card>
+  <card>
+    <question>die Schecknummer</question>
+    <answer>номер чека</answer>
+    <comment></comment>
+    <uuid>8e8a79f2-6367-447d-9e1e-7ca04bdb0dde</uuid>
+  </card>
+  <card>
+    <question>die Sparkasse</question>
+    <answer>сберкасса</answer>
+    <comment></comment>
+    <uuid>ff1a18a9-6802-4aa6-925b-ddada548d3f6</uuid>
+  </card>
+  <card>
+    <question>die Stadtsparkasse</question>
+    <answer>городская сберкасса</answer>
+    <comment></comment>
+    <uuid>39a0d0bd-a355-4452-a668-84ef371833a0</uuid>
+  </card>
+  <card>
+    <question>die Überweisung</question>
+    <answer>перевод (денег)</answer>
+    <comment></comment>
+    <uuid>eb9a04be-c31e-4131-9f0c-b319d00a76f7</uuid>
+  </card>
+  <card>
+    <question>Ein Girokonto oder ein Sparkonto?</question>
+    <answer>Текущий счёт или сберегательный (лицевой) счёт?</answer>
+    <comment></comment>
+    <uuid>307f3446-0213-4e59-b2c8-7f9979e94792</uuid>
+  </card>
+  <card>
+    <question>einzahlen</question>
+    <answer>вносить деньги</answer>
+    <comment></comment>
+    <uuid>945272c3-d2bb-4ea1-ab74-41988ddd17ca</uuid>
+  </card>
+  <card>
+    <question>Ich möchte 1000 Mark auf dieses Konto überweisen.</question>
+    <answer>Я хотел бы перевести 1000 марок на этот счёт.</answer>
+    <comment></comment>
+    <uuid>7e7a6843-98fe-414f-afcf-a7d85eb3ef53</uuid>
+  </card>
+  <card>
+    <question>Ich möchte 1000 Mark auf mein Konto einzahlen.</question>
+    <answer>Я хотел бы внести на свой счёт 1000 марок.</answer>
+    <comment></comment>
+    <uuid>bf04d351-1e9e-473b-b929-5ca03786861c</uuid>
+  </card>
+  <card>
+    <question>Ich möchte 1000 Mark von meinem Konto abheben.</question>
+    <answer>Я хотел бы снять 1000 марок со своего счёта.</answer>
+    <comment></comment>
+    <uuid>76edfa55-b7c1-420b-b2ea-7ca53d8f7882</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Konto eröffnen.</question>
+    <answer>Я хотел бы открыть счёт.</answer>
+    <comment></comment>
+    <uuid>8c5ccd09-07a5-498c-a2f1-e8fce346273e</uuid>
+  </card>
+  <card>
+    <question>Unterschreiben Sie hier, bitte!</question>
+    <answer>Подпишите, пожалуйста, здесь.</answer>
+    <comment></comment>
+    <uuid>be1f6cc5-bbf7-4bcf-b4b4-ffcc0070cacc</uuid>
+  </card>
+  <card>
+    <question>Wie ist Ihre Kontonummer?</question>
+    <answer>Какой у вас номер счёта?</answer>
+    <comment></comment>
+    <uuid>81ac5f39-278b-442e-8d47-d4da400a22a0</uuid>
+  </card>
+  <card>
+    <question>Überweisung auf ein anderes Konto</question>
+    <answer>перевод на другой счёт</answer>
+    <comment></comment>
+    <uuid>5a410e0f-41cf-4e48-9695-f92248a60dfe</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>bd8447fc-9365-40c4-b4b3-6897e3c352ce</uuid>
+  <title>Спорт</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>pêcher (à la ligne)</question>
+    <answer>удить рыбу</answer>
+    <comment></comment>
+    <answer_picture>angle.gif</answer_picture>
+    <uuid>70782413-2773-499b-80e8-55fd3fb44fe8</uuid>
+  </card>
+  <card>
+    <question>la balle</question>
+    <answer>мяс</answer>
+    <comment></comment>
+    <answer_picture>ball.gif</answer_picture>
+    <uuid>2754272c-f0c3-42b9-bfc4-9bb9dad922e0</uuid>
+  </card>
+  <card>
+    <question>le base-ball [bezbol]</question>
+    <answer>бейсбол</answer>
+    <comment></comment>
+    <answer_picture>baseball.gif</answer_picture>
+    <uuid>f2fe34b3-1a18-4ad4-80d9-47b0bef3bc65</uuid>
+  </card>
+  <card>
+    <question>le bat [bat]</question>
+    <answer>бита</answer>
+    <comment></comment>
+    <answer_picture>bat.gif</answer_picture>
+    <uuid>75c4ea79-d91a-45c1-8a33-f3ec72407795</uuid>
+  </card>
+  <card>
+    <question>le bowling [bɔliŋ]</question>
+    <answer>боулинг</answer>
+    <comment></comment>
+    <answer_picture>bowling.gif</answer_picture>
+    <uuid>e8b68b29-3154-4c1e-a958-5fb1173c2c06</uuid>
+  </card>
+  <card>
+    <question>la boxe</question>
+    <answer>бокс</answer>
+    <comment></comment>
+    <answer_picture>boxing.gif</answer_picture>
+    <uuid>6bad1487-84fe-4b28-918f-41eae0b461db</uuid>
+  </card>
+  <card>
+    <question>attraper</question>
+    <answer>ловить</answer>
+    <comment></comment>
+    <answer_picture>catch.gif</answer_picture>
+    <uuid>661436d9-b637-4030-bb6f-5713628b9bb5</uuid>
+  </card>
+  <card>
+    <question>le cricket</question>
+    <answer>крикет</answer>
+    <comment></comment>
+    <answer_picture>cricket.gif</answer_picture>
+    <uuid>d8327f3f-7a52-4f2d-83b9-e3fe41a2763c</uuid>
+  </card>
+  <card>
+    <question>le cyclisme</question>
+    <answer>велоспорт</answer>
+    <comment></comment>
+    <answer_picture>cycling.gif</answer_picture>
+    <uuid>36b4dec9-da73-44c2-8b64-eafb64cfa3a3</uuid>
+  </card>
+  <card>
+    <question>le football [futbol] américain</question>
+    <answer>амер. американский футбол</answer>
+    <comment></comment>
+    <answer_picture>football.gif</answer_picture>
+    <uuid>3a1d6b07-774d-4ad7-82e5-6bb5e95a14ca</uuid>
+  </card>
+  <card>
+    <question>le golf [gɔlf]</question>
+    <answer>гольф</answer>
+    <comment></comment>
+    <answer_picture>golf.gif</answer_picture>
+    <uuid>60cae214-40e7-4b8e-9626-522b66b37d77</uuid>
+  </card>
+  <card>
+    <question>la gymnastique</question>
+    <answer>гимнастика</answer>
+    <comment></comment>
+    <answer_picture>gymnastics.gif</answer_picture>
+    <uuid>20a48eb4-2424-4a59-84a0-2ff12daa9f7c</uuid>
+  </card>
+  <card>
+    <question>la randonnée</question>
+    <answer>пеший туризм, пешеходная прогулка</answer>
+    <comment></comment>
+    <answer_picture>hiking.gif</answer_picture>
+    <uuid>5b5f4fc1-50f7-4d8a-9d78-bff4e80102cc</uuid>
+  </card>
+  <card>
+    <question>frapper</question>
+    <answer>ударять (по чему-л.);</answer>
+    <comment></comment>
+    <answer_picture>hit.gif</answer_picture>
+    <uuid>b8ad04c0-b21b-43c3-8e05-34e3f9de743e</uuid>
+  </card>
+  <card>
+    <question>le hockey [ɔkɛ]</question>
+    <answer>хоккей</answer>
+    <comment></comment>
+    <answer_picture>hockey.gif</answer_picture>
+    <uuid>27d8d758-5d6c-4dd2-952d-0137a56d22fd</uuid>
+  </card>
+  <card>
+    <question>sauter</question>
+    <answer>скакать</answer>
+    <comment></comment>
+    <answer_picture>hop.gif</answer_picture>
+    <uuid>79bbb42d-b642-4eeb-8d97-bf2780b67d90</uuid>
+  </card>
+  <card>
+    <question>sauter</question>
+    <answer>прыгать</answer>
+    <comment></comment>
+    <answer_picture>jump.gif</answer_picture>
+    <uuid>7a7b965d-b0d2-43df-b234-6dc2497666a3</uuid>
+  </card>
+  <card>
+    <question>donner un coup de pied</question>
+    <answer>пинать</answer>
+    <comment></comment>
+    <answer_picture>kick.gif</answer_picture>
+    <uuid>3c130c6f-5d81-4613-9388-a3330061fcc3</uuid>
+  </card>
+  <card>
+    <question>jouer au basket</question>
+    <answer>играть в баскетбол</answer>
+    <comment></comment>
+    <answer_picture>play_basketball.gif</answer_picture>
+    <uuid>8605fb79-1c29-41bb-9b71-4aea0142954e</uuid>
+  </card>
+  <card>
+    <question>la raquette</question>
+    <answer>ракетка</answer>
+    <comment></comment>
+    <answer_picture>racquet.gif</answer_picture>
+    <uuid>b96788e5-6819-4171-b56d-d629b42c60d9</uuid>
+  </card>
+  <card>
+    <question>le rugby [rygbi]</question>
+    <answer>регби</answer>
+    <comment></comment>
+    <answer_picture>rugby.gif</answer_picture>
+    <uuid>7ef438a3-1636-465b-90ed-9b1586b01a89</uuid>
+  </card>
+  <card>
+    <question>courir</question>
+    <answer>бегать</answer>
+    <comment></comment>
+    <answer_picture>run.gif</answer_picture>
+    <uuid>07b4a095-af2c-4e92-80d6-7ff6202cc113</uuid>
+  </card>
+  <card>
+    <question>skier</question>
+    <answer>ходить на лыжах</answer>
+    <comment></comment>
+    <answer_picture>ski.gif</answer_picture>
+    <uuid>adb7d0c4-ed70-40c5-b1fd-743a0904615a</uuid>
+  </card>
+  <card>
+    <question>le football [futbol]</question>
+    <answer>футбол</answer>
+    <comment></comment>
+    <answer_picture>soccer.gif</answer_picture>
+    <uuid>a0833435-27c7-4690-be1d-9000cdcfdf1d</uuid>
+  </card>
+  <card>
+    <question>nager</question>
+    <answer>плавать</answer>
+    <comment></comment>
+    <answer_picture>swim.gif</answer_picture>
+    <uuid>fafbe60c-2ad5-489f-8b81-a7932a290099</uuid>
+  </card>
+  <card>
+    <question>l&apos;équipe</question>
+    <answer>команда</answer>
+    <comment></comment>
+    <answer_picture>team.gif</answer_picture>
+    <uuid>e97bcc71-d042-459f-af6c-c938ab84dbd4</uuid>
+  </card>
+  <card>
+    <question>le tennis</question>
+    <answer>теннис</answer>
+    <comment></comment>
+    <answer_picture>tennis.gif</answer_picture>
+    <uuid>4c916190-079e-48a6-be03-ece2b6d2e5bb</uuid>
+  </card>
+  <card>
+    <question>jeter</question>
+    <answer>бросать, кидать</answer>
+    <comment></comment>
+    <answer_picture>throw.gif</answer_picture>
+    <uuid>fb3de931-4f45-4996-80e0-e54cfb3759d8</uuid>
+  </card>
+  <card>
+    <question>le trophée</question>
+    <answer>приз, награда</answer>
+    <comment></comment>
+    <answer_picture>trophy.gif</answer_picture>
+    <uuid>a7f95133-e2ac-460a-a356-a2cf4009ddb1</uuid>
+  </card>
+  <card>
+    <question>l&apos;haltérophilie</question>
+    <answer>тяжёлая атлетика</answer>
+    <comment></comment>
+    <answer_picture>weightlifting.gif</answer_picture>
+    <uuid>79dc5e9b-0c64-4820-a61a-72dbb9de9611</uuid>
+  </card>
+  <card>
+    <question>gagner</question>
+    <answer>побеждать</answer>
+    <comment></comment>
+    <answer_picture>win.gif</answer_picture>
+    <uuid>3da5a60d-6e7d-427a-8024-6c0bad1f6e9a</uuid>
+  </card>
+  <card>
+    <question>le yachting</question>
+    <answer>парусный спорт</answer>
+    <comment></comment>
+    <answer_picture>yachting.gif</answer_picture>
+    <uuid>cd61f117-20e7-4996-a2d5-db7ca8cf0ae7</uuid>
+  </card>
+  <card>
+    <question>le yoga</question>
+    <answer>йога</answer>
+    <comment></comment>
+    <answer_picture>yoga.gif</answer_picture>
+    <uuid>87835879-17ca-4a3f-8136-793fc301a2c7</uuid>
+  </card>
+</cards>
+</stack>

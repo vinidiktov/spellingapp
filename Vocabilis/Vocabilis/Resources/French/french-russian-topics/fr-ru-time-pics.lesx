@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1f67484b-96cd-4068-992f-4089a09abfb9</uuid>
+  <title>Время</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>après</question>
+    <answer>после, за</answer>
+    <comment></comment>
+    <answer_picture>after.gif</answer_picture>
+    <uuid>35d90818-c944-490b-9728-d9ea19d19787</uuid>
+  </card>
+  <card>
+    <question>l&apos;après-midi</question>
+    <answer>послеобеденное время</answer>
+    <comment></comment>
+    <answer_picture>afternoon.gif</answer_picture>
+    <uuid>60193716-814a-4369-ba9b-91cff67b2fc8</uuid>
+  </card>
+  <card>
+    <question>l&apos;automne</question>
+    <answer>осень</answer>
+    <comment></comment>
+    <answer_picture>autumn.gif</answer_picture>
+    <uuid>ec0bf063-c065-479c-bc40-2bf4933ca483</uuid>
+  </card>
+  <card>
+    <question>avant</question>
+    <answer>перед, до</answer>
+    <comment></comment>
+    <answer_picture>before.gif</answer_picture>
+    <uuid>4f0fa9bb-3755-4315-8dff-645213f2e638</uuid>
+  </card>
+  <card>
+    <question>l&apos;horloge</question>
+    <answer>часы (настольные, настенные)</answer>
+    <comment></comment>
+    <answer_picture>clock.gif</answer_picture>
+    <uuid>75f46896-d57a-4837-b557-a1bec600184e</uuid>
+  </card>
+  <card>
+    <question>les jours</question>
+    <answer>дни</answer>
+    <comment></comment>
+    <answer_picture>days.gif</answer_picture>
+    <uuid>cba46a92-bd51-4a18-852d-455d78866971</uuid>
+  </card>
+  <card>
+    <question>le journal</question>
+    <answer>дневник</answer>
+    <comment></comment>
+    <answer_picture>diary.gif</answer_picture>
+    <uuid>c6a910fe-947d-4979-a898-793aab7b5f2a</uuid>
+  </card>
+  <card>
+    <question>le soir</question>
+    <answer>вечер</answer>
+    <comment></comment>
+    <answer_picture>evening.gif</answer_picture>
+    <uuid>918e4461-0cc1-4cae-9390-ef1ae16cab3c</uuid>
+  </card>
+  <card>
+    <question>dernier</question>
+    <answer>последний</answer>
+    <comment></comment>
+    <answer_picture>last.gif</answer_picture>
+    <uuid>fe9674e5-ba18-45fa-b62f-5f5c9b347179</uuid>
+  </card>
+  <card>
+    <question>les mois</question>
+    <answer>месяцы</answer>
+    <comment></comment>
+    <answer_picture>months.gif</answer_picture>
+    <uuid>2043c134-4073-47c9-8179-0ae7577e6f58</uuid>
+  </card>
+  <card>
+    <question>le matin</question>
+    <answer>утро</answer>
+    <comment></comment>
+    <answer_picture>morning.gif</answer_picture>
+    <uuid>0bd74792-7dc8-4412-9608-7bfdf3b05fe5</uuid>
+  </card>
+  <card>
+    <question>suivant</question>
+    <answer>следующий</answer>
+    <comment></comment>
+    <answer_picture>next.gif</answer_picture>
+    <uuid>09aaeddf-569e-4c55-87e1-03e02fb74ffd</uuid>
+  </card>
+  <card>
+    <question>la nuit</question>
+    <answer>ночь</answer>
+    <comment></comment>
+    <answer_picture>night.gif</answer_picture>
+    <uuid>97b93900-6698-441f-9b96-481334f77cfa</uuid>
+  </card>
+  <card>
+    <question>le midi</question>
+    <answer>полдень</answer>
+    <comment></comment>
+    <answer_picture>noon.gif</answer_picture>
+    <uuid>e7285170-4b5b-4cde-9764-0b37196d7ae0</uuid>
+  </card>
+  <card>
+    <question>l&apos;horaire</question>
+    <answer>амер. расписание (на транспорте) (S. timetable)</answer>
+    <comment></comment>
+    <answer_picture>schedule.gif</answer_picture>
+    <uuid>aa11a589-8f2b-454f-9904-2ef74d15ff61</uuid>
+  </card>
+  <card>
+    <question>le printemps</question>
+    <answer>весна</answer>
+    <comment></comment>
+    <answer_picture>spring.gif</answer_picture>
+    <uuid>ffa012d6-785d-439a-86b0-cba7ab7f77ed</uuid>
+  </card>
+  <card>
+    <question>l&apos;été</question>
+    <answer>лето</answer>
+    <comment></comment>
+    <answer_picture>summer.gif</answer_picture>
+    <uuid>79ccf969-4932-4c45-abb8-b729df7cda0f</uuid>
+  </card>
+  <card>
+    <question>le lever du soleil</question>
+    <answer>восход солнца</answer>
+    <comment></comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>02051205-14de-4d35-b7f5-14dd82973137</uuid>
+  </card>
+  <card>
+    <question>l&apos;horaire</question>
+    <answer>брит. расписание (железнодорожное, школьное и т.п.) (S. schedule)</answer>
+    <comment></comment>
+    <answer_picture>timetable.gif</answer_picture>
+    <uuid>a4faa3a0-0c3d-47b3-9bce-26f2dc9f4738</uuid>
+  </card>
+  <card>
+    <question>attendre</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <answer_picture>wait.gif</answer_picture>
+    <uuid>68014fc5-a3b6-4aaa-91c9-c166f9d979cd</uuid>
+  </card>
+  <card>
+    <question>la montre</question>
+    <answer>часы (наручные)</answer>
+    <comment></comment>
+    <answer_picture>a_watch.gif</answer_picture>
+    <uuid>f3d96ddd-c6d1-4bcf-8560-5ae5690561cb</uuid>
+  </card>
+  <card>
+    <question>l&apos;hiver</question>
+    <answer>зима</answer>
+    <comment></comment>
+    <answer_picture>winter.gif</answer_picture>
+    <uuid>9f4b0931-eddc-4a00-ba0a-5a309e2fdc71</uuid>
+  </card>
+</cards>
+</stack>

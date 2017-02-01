@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>82738264-e5e0-45e3-9386-0f32caeb9b44</uuid>
+  <title>Концерт :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Would you like to go to a concert?</question>
+    <answer>Не хотите ли пойти на концерт?</answer>
+    <comment>[wʊd jʊ lаɪk tə goʊ tu ə ˈkɑːnsərt]</comment>
+    <answer_comment>would like - хотеть, to go - идти, concert - концерт</answer_comment>
+    
+    <uuid>0a302f2b-0054-4e67-a999-5620a05e851e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you like music?</question>
+    <answer>Вам нравится музыка?</answer>
+    <comment>[duː jʊ lаɪk ˈmjuːzɪk]</comment>
+    <answer_comment>to like - любить, нравиться, music - музыка</answer_comment>
+    
+    <uuid>4ff1759b-898e-41e4-b248-8c786a7c5f21</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you like classical music?</question>
+    <answer>Вам нравится классическая музыка?</answer>
+    <comment>[duː jʊ lаɪk ˈklæsɪkəl ˈmjuːzɪk]</comment>
+    <answer_comment>to like - любить, нравиться, classical - классический, music - музыка</answer_comment>
+    
+    <uuid>70030aa0-0956-441e-8add-61ced2da9124</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to listen to a symphonic music concert.</question>
+    <answer>Я бы хотел послушать концерт симфонической музыки.</answer>
+    <comment>[аɪd lаɪk tə ˈlɪsən tu ə sɪmˈfɑːnɪk ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>would like - хотеть, to listen - слушать, symphonic - симфонический, music - музыка, музыкальный, concert - концерт</answer_comment>
+    
+    <uuid>7c41f85e-4cbb-4483-917a-b114524c39c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to listen to a chamber music concert.</question>
+    <answer>Я бы хотел послушать концерт камерной музыки.</answer>
+    <comment>[аɪd lаɪk tə ˈlɪsən tu ə ˈʧeɪmbər ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>would like - хотеть, to listen - слушать, chamber - камерный, music - музыка, музыкальный, concert - концерт</answer_comment>
+    
+    <uuid>326d87db-c8ee-4a03-b9d0-368697c8d97f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to listen to an organ music concert.</question>
+    <answer>Я бы хотел послушать концерт органной музыки.</answer>
+    <comment>[аɪd lаɪk tə ˈlɪsən tu ən ˈɔːrgən ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>would like - хотеть, to listen - слушать, organ - органный, music - музыка, музыкальный, concert - концерт</answer_comment>
+    
+    <uuid>ffffdce4-fd94-46e9-a4d9-b643dbcf0705</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you often go to concerts?</question>
+    <answer>Вы часто ходите на концерты?</answer>
+    <comment>[duː jʊ ˈɔːfən goʊ tə ˈkɑːnsərts]</comment>
+    <answer_comment>often - часто, to go - идти, concert - концерт</answer_comment>
+    
+    <uuid>b2336842-5872-4872-816f-71ceb0ea2eae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a folk music concert.</question>
+    <answer>Это концерт народной музыки.</answer>
+    <comment>[ðɪs ɪz ə foʊk ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>this - это, этот, эта, folk - народный, music - музыка, concert - концерт</answer_comment>
+    
+    <uuid>2e1fa164-6cf6-491f-a1c5-58c690616a94</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a jazz music concert.</question>
+    <answer>Это концерт джазовой музыки.</answer>
+    <comment>[ðɪs ɪz ə ʤæz ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>this - это, этот, эта, jazz - джаз, music - музыка, concert - концерт</answer_comment>
+    
+    <uuid>729a7fc9-39dc-496e-9998-7eb6cf364ee5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a pop music concert.</question>
+    <answer>Это концерт эстрадной музыки.</answer>
+    <comment>[ðɪs ɪz ə pɑːp ˈmjuːzɪk ˈkɑːnsərt]</comment>
+    <answer_comment>this - это, этот, эта, pop - популярный, music - музыка, concert - концерт</answer_comment>
+    
+    <uuid>4b1475ab-cbe4-4402-bc15-9933d3bf6f39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time does the concert begin?</question>
+    <answer>В какое время начинается концерт?</answer>
+    <comment>[hwʌt tаɪm dʌz ðə ˈkɑːnsərt bɪˈgɪn]</comment>
+    <answer_comment>what - какой, time - время, concert - концерт, to begin - начаться</answer_comment>
+    
+    <uuid>f59396b6-f931-4b62-a91c-5f064473513c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you prefer sitting down or upstairs?</question>
+    <answer>Вы любите сидеть в партере или на балконе?</answer>
+    <comment>[duː jʊ prɪˈfɜːr ˈsɪtɪŋ dаʊn ər ˈʌpˈsterz]</comment>
+    <answer_comment>to prefer - предпочитать, sitting - сидение, down - вниз, внизу, or - или, upstairs - наверх, наверху</answer_comment>
+    
+    <uuid>34acd373-c3bc-4f2d-86eb-d4db5a83378d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who is the conductor?</question>
+    <answer>Кто дирижер?</answer>
+    <comment>[huː ɪz ðə kənˈdʌktər]</comment>
+    <answer_comment>who - кто, conductor - дирижер</answer_comment>
+    
+    <uuid>0f9a4d87-107e-406a-94d9-7c29827e377a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s giving the concert?</question>
+    <answer>Кто дает концерт?</answer>
+    <comment>[huːz ˈgɪvɪŋ ðə ˈkɑːnsərt]</comment>
+    <answer_comment>who - кто, giving - дающий, concert - концерт</answer_comment>
+    
+    <uuid>11d2fb41-3269-49a2-ae3e-1516c0ffb17c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s on the program?</question>
+    <answer>Что в программе?</answer>
+    <comment>[hwʌts ɑːn ðə ˈproʊgræm]</comment>
+    <answer_comment>what - что, program - программа</answer_comment>
+    
+    <uuid>856e87be-558d-4171-adbf-02a5a99a32dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the concert hall?</question>
+    <answer>Где находится концертный зал?</answer>
+    <comment>[hwer ɪz ðə ˈkɑːnsərt hɔːl]</comment>
+    <answer_comment>where - где, concert - концерт, hall - зал</answer_comment>
+    
+    <uuid>b243401f-e2e1-4615-9e9b-5721e789dabd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the conservatory?</question>
+    <answer>Где находится консерватория?</answer>
+    <comment>[hwer ɪz ðə kənˈsɜːrvəˌtɔːriː]</comment>
+    <answer_comment>where - где, conservatory - консерватория</answer_comment>
+    
+    <uuid>52778424-70ff-4bd9-946f-68ebe6966401</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much does one ticket cost?</question>
+    <answer>Сколько стоит билет?</answer>
+    <comment>[hаʊ mʌʧ dʌz wʌn ˈtɪkɪt kɔːst]</comment>
+    <answer_comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</answer_comment>
+    
+    <uuid>0e16c029-e7ec-4aa4-9143-ada6b39602ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who conducts today?</question>
+    <answer>Кто сегодня дирижирует?</answer>
+    <comment>[huː kənˈdʌkts təˈdeɪ]</comment>
+    <answer_comment>who - кто, to conduct - дирижировать, today - сегодня</answer_comment>
+    
+    <uuid>5eee9e55-2089-4501-b8ab-ed882955e34f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s conducting?</question>
+    <answer>Кто дирижирует?</answer>
+    <comment>[huːz kənˈdʌkɪŋ]</comment>
+    <answer_comment>who - кто, conducting - дирижирующий</answer_comment>
+    
+    <uuid>3d618406-55ef-4225-b28e-664ab5511b8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s the soloist?</question>
+    <answer>Кто солист?</answer>
+    <comment>[huːz ðə ˈsoʊloʊɪst]</comment>
+    <answer_comment>who - кто, soloist - солист</answer_comment>
+    
+    <uuid>344548c2-f33d-4b4a-8ba8-43a3cf0b9abf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s the performer?</question>
+    <answer>Кто исполнитель?</answer>
+    <comment>[huːz ðə pərˈfɔːrmə]</comment>
+    <answer_comment>who - кто, performer - исполнитель</answer_comment>
+    
+    <uuid>13e866a0-ecd6-498c-b713-f8b750e33a56</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s the master of ceremonies?</question>
+    <answer>Кто ведет программу?</answer>
+    <comment>[huːz ðə ˈmæstər əv ˈserəˌmoʊniːz]</comment>
+    <answer_comment>who - кто, master - хозяин, мастер, ceremony - церемония</answer_comment>
+    
+    <uuid>5ef5a1cf-79b1-4182-8e4a-52dff21bb070</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s the accompanist?</question>
+    <answer>Кто аккомпанирует?</answer>
+    <comment>[huːz ðiː əˈkʌmpənɪst]</comment>
+    <answer_comment>who - кто, accompanist - аккомпаниатор</answer_comment>
+    
+    <uuid>930f3fc4-980c-4a73-8d4f-5c1d2cf1e4af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What kind of voice does the singer have?</question>
+    <answer>Какой голос у певца (певицы)?</answer>
+    <comment>[hwʌt kаɪnd əv vɔɪs dʌz ðə ˈsɪŋər hæv]</comment>
+    <answer_comment>what - что, какой, kind - вид, voice - голос, singer - певец, to have - иметь</answer_comment>
+    
+    <uuid>8f16e671-cac3-4b38-89e1-f386b1daaa01</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s soprano.</question>
+    <answer>Это сопрано.</answer>
+    <comment>[its səˈprænoʊ]</comment>
+    <answer_comment>it - это, soprano - сопрано</answer_comment>
+    
+    <uuid>c1c6c30a-8d08-4ea1-bfb9-9a23c4b4abbf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s mezzo-soprano.</question>
+    <answer>Это меццо-сопрано.</answer>
+    <comment>[its ˈmetsoʊ səˈprænoʊ]</comment>
+    <answer_comment>it - это, mezzo-soprano - меццо-сопрано</answer_comment>
+    
+    <uuid>4fce6e7a-9d34-4b38-beeb-39af6dfe6530</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s contralto.</question>
+    <answer>Это контральто.</answer>
+    <comment>[its kənˈtræltoʊ]</comment>
+    <answer_comment>it - это, contralto - контральто</answer_comment>
+    
+    <uuid>c8eccb32-8452-4850-899e-97ec468496ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s tenor.</question>
+    <answer>Это тенор.</answer>
+    <comment>[its ˈtenər]</comment>
+    <answer_comment>it - это, tenor - тенор</answer_comment>
+    
+    <uuid>bf460bd5-cc32-4bd9-bd04-880755dfad50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s baritone.</question>
+    <answer>Это баритон.</answer>
+    <comment>[its ˈbærɪˌtoʊn]</comment>
+    <answer_comment>it - это, baritone - баритон</answer_comment>
+    
+    <uuid>6a157a57-51ea-432e-8334-fc6da9013324</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>She&apos;s in good voice today.</question>
+    <answer>Она сегодня в голосе.</answer>
+    <comment>[ʃiz ɪn gʊd vɔɪs təˈdeɪ]</comment>
+    <answer_comment>she - она, good - хороший, voice - голос, today - сегодня</answer_comment>
+    
+    <uuid>ae6e0168-72cb-4da4-aa5a-78953e29a6c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>She&apos;s in bad voice today.</question>
+    <answer>Она сегодня не в голосе.</answer>
+    <comment>[ʃiz ɪn bæd vɔɪs təˈdeɪ]</comment>
+    <answer_comment>she - она, bad - плохой, voice - голос, today - сегодня</answer_comment>
+    
+    <uuid>95a29cf9-f61f-40ef-9300-e47881737e3f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Did you like the concert?</question>
+    <answer>Вам понравился концерт?</answer>
+    <comment>[dɪd jʊ lаɪk ðə ˈkɑːnsərt]</comment>
+    <answer_comment>to like - любить, нравиться, concert - концерт</answer_comment>
+    
+    <uuid>c01e3df9-38d9-4434-94f1-b3ab3d9a3c1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I liked the concert.</question>
+    <answer>Мне понравился концерт.</answer>
+    <comment>[аɪ lаɪkt ðə ˈkɑːnsərt]</comment>
+    <answer_comment>to like - любить, нравиться, concert - концерт</answer_comment>
+    
+    <uuid>bd2c15c3-0daa-4c3d-805b-2d237d06b1f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The concert was a great success.</question>
+    <answer>Концерт имел большой успех.</answer>
+    <comment>[ðə ˈkɑːnsərt wʌz ə greɪt səkˈses]</comment>
+    <answer_comment>concert - концерт, was - был, было, была, great - большой, success - успех</answer_comment>
+    
+    <uuid>3b9fbde7-0fbe-4b63-a447-b634956dd4b2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What items got encores?</question>
+    <answer>Что исполняли на бис?</answer>
+    <comment>[hwʌt ˈаɪtəmz gɑːt ˈɑːŋkɔːrz]</comment>
+    <answer_comment>what - какой, item - номер (программы), to get - получить, encore - вызов на &apos;бис&apos;</answer_comment>
+    
+    <uuid>781f473d-2fe6-4f5e-a74c-e055ec33aae9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I didn&apos;t enjoy the concert.</question>
+    <answer>Концерт мне не понравился.</answer>
+    <comment>[аɪ ˈdidənt enˈʤɔɪ ðə ˈkɑːnsərt]</comment>
+    <answer_comment>to enjoy - наслаждаться, concert - концерт</answer_comment>
+    
+    <uuid>47023cb2-9a39-4611-834a-defa83cd8906</uuid>
+  </card>
+</cards>
+</stack>

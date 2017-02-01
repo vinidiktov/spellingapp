@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a3513156-9949-4f4a-8ec9-e0b644005591</uuid>
+  <title>Путешествия</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>llegar</question>
+    <answer>прибывать, приезжать</answer>
+    <comment></comment>
+    <uuid>1e4e11ec-a173-498e-b628-0ab1c3226266</uuid>
+  </card>
+  <card>
+    <question>la mochila</question>
+    <answer>рюкзак (туристический)</answer>
+    <comment></comment>
+    <uuid>792e85ab-a054-4c79-844d-492382199943</uuid>
+  </card>
+  <card>
+    <question>el botones</question>
+    <answer>амер. коридорный, посыльный (в гостинице)</answer>
+    <comment></comment>
+    <uuid>8ff530d5-a08f-450f-b553-7279421aa13d</uuid>
+  </card>
+  <card>
+    <question>la bicicleta</question>
+    <answer>велосипед</answer>
+    <comment></comment>
+    <uuid>b393ac27-cfb5-4995-8a11-aa3db4f2faa8</uuid>
+  </card>
+  <card>
+    <question>el autobús</question>
+    <answer>автобус</answer>
+    <comment></comment>
+    <uuid>6d4acf5e-f17b-4d65-9ef5-a354abaed0cd</uuid>
+  </card>
+  <card>
+    <question>la parada de autobús</question>
+    <answer>автобусная остановка</answer>
+    <comment></comment>
+    <uuid>c655a23c-408e-4332-a7ee-ab308eaa01b6</uuid>
+  </card>
+  <card>
+    <question>la terminal de autobuses</question>
+    <answer>автовокзал</answer>
+    <comment></comment>
+    <uuid>e41e2e74-71cf-446b-8103-a0c1f3a6dd78</uuid>
+  </card>
+  <card>
+    <question>el coche</question>
+    <answer>машина</answer>
+    <comment></comment>
+    <uuid>39f9b14d-679a-4e6f-bb3d-a74278306788</uuid>
+  </card>
+  <card>
+    <question>registrarse</question>
+    <answer>регистрироваться (в гостинице)</answer>
+    <comment></comment>
+    <uuid>326a0eb1-b40c-4767-8d9b-b3343c12b410</uuid>
+  </card>
+  <card>
+    <question>dejar</question>
+    <answer>расплатиться и освободить номер в гостинице</answer>
+    <comment></comment>
+    <uuid>ff9d8089-2a4f-4f0f-a775-1864ed6d767a</uuid>
+  </card>
+  <card>
+    <question>la aduana</question>
+    <answer>таможня</answer>
+    <comment></comment>
+    <uuid>38510252-acdb-4eae-976d-0f5b2b37f952</uuid>
+  </card>
+  <card>
+    <question>el portero</question>
+    <answer>амер. привратник, швейцар</answer>
+    <comment></comment>
+    <uuid>c9392911-a226-4576-ba66-5f359c67b63f</uuid>
+  </card>
+  <card>
+    <question>conducir</question>
+    <answer>вести (машину), ехать</answer>
+    <comment></comment>
+    <uuid>0bcb743d-a467-4a70-9384-4f2e6c623624</uuid>
+  </card>
+  <card>
+    <question>el este</question>
+    <answer>восток</answer>
+    <comment></comment>
+    <uuid>c1073c7c-b2f5-42f1-a1dc-9a86c12bfd16</uuid>
+  </card>
+  <card>
+    <question>rápido</question>
+    <answer>быстрый, быстро</answer>
+    <comment></comment>
+    <uuid>005a6851-bebf-4ece-b097-01695a79a1de</uuid>
+  </card>
+  <card>
+    <question>volar</question>
+    <answer>летать</answer>
+    <comment></comment>
+    <uuid>ba69f3cb-8668-471c-96a5-7823a9a3a172</uuid>
+  </card>
+  <card>
+    <question>el invitado</question>
+    <answer>гость</answer>
+    <comment></comment>
+    <uuid>8cf65101-95c9-4fcb-84fd-de360e14a3f4</uuid>
+  </card>
+  <card>
+    <question>la carretera</question>
+    <answer>шоссе</answer>
+    <comment></comment>
+    <uuid>73a3a855-5e16-425b-80b0-479bbe9a0f9d</uuid>
+  </card>
+  <card>
+    <question>el vestíbulo del hotel</question>
+    <answer>вестибюль гостиницы</answer>
+    <comment></comment>
+    <uuid>64bda8b4-cece-48a4-b34c-b8d18ef409dc</uuid>
+  </card>
+  <card>
+    <question>la habitación de hotel</question>
+    <answer>номер в гостинице</answer>
+    <comment></comment>
+    <uuid>b8b310f3-78c1-4fdc-bddc-5a2a907dee58</uuid>
+  </card>
+  <card>
+    <question>el ama de llaves</question>
+    <answer>домашняя работница</answer>
+    <comment></comment>
+    <uuid>998dc68c-9e40-4e19-a6bd-8c162eff6a93</uuid>
+  </card>
+  <card>
+    <question>dejar</question>
+    <answer>покидать, уезжать из</answer>
+    <comment></comment>
+    <uuid>3619065e-2795-484a-82d6-65d590a2d9f5</uuid>
+  </card>
+  <card>
+    <question>la moto</question>
+    <answer>мотоцикл</answer>
+    <comment></comment>
+    <uuid>dca5076b-4437-4804-9f0c-2f47a1d269c6</uuid>
+  </card>
+  <card>
+    <question>el norte</question>
+    <answer>север</answer>
+    <comment></comment>
+    <uuid>2e0181e5-a375-4ccd-8185-ee009cf9c26a</uuid>
+  </card>
+  <card>
+    <question>empacar su maleta</question>
+    <answer>упаковывать (ваш) чемодан</answer>
+    <comment></comment>
+    <uuid>b42b6926-25d9-4b7d-ba65-a3f488eb17b1</uuid>
+  </card>
+  <card>
+    <question>el pasaporte</question>
+    <answer>паспорт</answer>
+    <comment></comment>
+    <uuid>bb470853-155c-410c-a3d9-54dd3b25aefe</uuid>
+  </card>
+  <card>
+    <question>el avión</question>
+    <answer>самолёт</answer>
+    <comment></comment>
+    <uuid>7ce584fc-ee53-4eb2-8140-16696fe7fae7</uuid>
+  </card>
+  <card>
+    <question>la estación de ferrocarril</question>
+    <answer>железнодорожный вокзал</answer>
+    <comment></comment>
+    <uuid>f8c58510-d495-4042-987c-f248e7b9a625</uuid>
+  </card>
+  <card>
+    <question>la recepcionista</question>
+    <answer>администратор (в гостинице)</answer>
+    <comment></comment>
+    <uuid>d793d629-584c-4f89-9aea-383d2745dfb7</uuid>
+  </card>
+  <card>
+    <question>ir en bicicleta</question>
+    <answer>ездить на велосипеде</answer>
+    <comment></comment>
+    <uuid>1889755e-90ea-4bca-8692-b1c82b25ea0d</uuid>
+  </card>
+  <card>
+    <question>andar en moto</question>
+    <answer>ездить на мотоцикле</answer>
+    <comment></comment>
+    <uuid>7e54d233-36db-4e46-84c9-9ace79deee54</uuid>
+  </card>
+  <card>
+    <question>el servicio de habitaciones</question>
+    <answer>подача еды и напитков в номера</answer>
+    <comment></comment>
+    <uuid>07951842-5994-4176-bb12-1d438cb8af7f</uuid>
+  </card>
+  <card>
+    <question>el barco de vela</question>
+    <answer>парусное судно, парусная шлюпка</answer>
+    <comment></comment>
+    <uuid>23f4057c-6fbb-4910-941d-5076f0a4c951</uuid>
+  </card>
+  <card>
+    <question>el horario</question>
+    <answer>амер. расписание (транспорта) (S. timetable)</answer>
+    <comment></comment>
+    <uuid>72ff5393-40d0-4279-9fcf-54a502e57550</uuid>
+  </card>
+  <card>
+    <question>la nave</question>
+    <answer>корабль</answer>
+    <comment></comment>
+    <uuid>037f7fd9-d09a-4574-9c86-93b33cdb8ac6</uuid>
+  </card>
+  <card>
+    <question>el turismo</question>
+    <answer>осмотр достопримечательностей</answer>
+    <comment></comment>
+    <uuid>e5191537-ef78-4ddb-a54e-6a189f199eae</uuid>
+  </card>
+  <card>
+    <question>el letrero</question>
+    <answer>вывеска; указатель</answer>
+    <comment></comment>
+    <uuid>c65a1c64-bab1-4119-8dbf-edac9d0f7043</uuid>
+  </card>
+  <card>
+    <question>lento</question>
+    <answer>медленный</answer>
+    <comment></comment>
+    <uuid>c974ed6d-fba7-4a21-9e7a-d131e6684f64</uuid>
+  </card>
+  <card>
+    <question>la jabonera</question>
+    <answer>мыльница</answer>
+    <comment></comment>
+    <uuid>a3c57787-2570-458a-b112-c0dc17544103</uuid>
+  </card>
+  <card>
+    <question>el sur</question>
+    <answer>юг</answer>
+    <comment></comment>
+    <uuid>604740df-ff36-435a-b2a4-64faa0760ed8</uuid>
+  </card>
+  <card>
+    <question>la estación</question>
+    <answer>вокзал, станция</answer>
+    <comment></comment>
+    <uuid>12eceb7c-42ac-4799-b28b-932298f6e90d</uuid>
+  </card>
+  <card>
+    <question>alojarse en un hotel</question>
+    <answer>остановиться в гостинице</answer>
+    <comment></comment>
+    <uuid>74c44942-fdab-4585-b324-d6d2b6a3bf22</uuid>
+  </card>
+  <card>
+    <question>la calle</question>
+    <answer>улица</answer>
+    <comment></comment>
+    <uuid>97d755c3-60cb-4b0d-9411-ec7e1d6d607a</uuid>
+  </card>
+  <card>
+    <question>la maleta</question>
+    <answer>чемодан</answer>
+    <comment></comment>
+    <uuid>fe8d7d84-75ee-4957-8d97-b927845f2115</uuid>
+  </card>
+  <card>
+    <question>el taxi</question>
+    <answer>такси</answer>
+    <comment></comment>
+    <uuid>b56d9eb9-40fb-4256-9698-e7b32be8198c</uuid>
+  </card>
+  <card>
+    <question>el billete</question>
+    <answer>билет</answer>
+    <comment></comment>
+    <uuid>c297c776-ddf3-48d0-8159-6e180ed7be85</uuid>
+  </card>
+  <card>
+    <question>la grúa</question>
+    <answer>тягач</answer>
+    <comment></comment>
+    <uuid>00d10309-b97d-4e96-bf9f-ccbcdc8cb133</uuid>
+  </card>
+  <card>
+    <question>el atasco de tráfico</question>
+    <answer>пробка (на дороге)</answer>
+    <comment></comment>
+    <uuid>0cecb21e-0fd7-498c-9457-ef96811b6e43</uuid>
+  </card>
+  <card>
+    <question>el tren</question>
+    <answer>поезд</answer>
+    <comment></comment>
+    <uuid>db23f067-0b52-46c6-9d93-be7cbe1fa8d1</uuid>
+  </card>
+  <card>
+    <question>viajar</question>
+    <answer>путешествовать</answer>
+    <comment></comment>
+    <uuid>099330f4-a614-4f2c-8f3f-4dbdcbed5b65</uuid>
+  </card>
+  <card>
+    <question>esperar</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <uuid>e3877a75-bfc9-451f-9768-1007fcf9d541</uuid>
+  </card>
+  <card>
+    <question>caminar</question>
+    <answer>гулять, ходить</answer>
+    <comment></comment>
+    <uuid>9dc93f0c-c1f5-4086-97ce-168d92d35c7a</uuid>
+  </card>
+  <card>
+    <question>vagar</question>
+    <answer>блуждать</answer>
+    <comment></comment>
+    <uuid>8c4aaca1-3892-4940-8476-e47e6e0f96d4</uuid>
+  </card>
+  <card>
+    <question>el oeste</question>
+    <answer>запад</answer>
+    <comment></comment>
+    <uuid>68923461-7151-4d50-8423-1025c9048f89</uuid>
+  </card>
+</cards>
+</stack>

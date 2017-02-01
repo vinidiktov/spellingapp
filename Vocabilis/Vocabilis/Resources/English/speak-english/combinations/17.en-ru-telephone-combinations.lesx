@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>35627f6c-4557-447f-9083-ebaf8327be2b</uuid>
+  <title>Телефон :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>9</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a card for a cellphone</question>
+    <answer>карточка для сотового телефона</answer>
+    <comment>[ə kɑːrd fər ə sel foʊn]</comment>
+    <question_comment>card - карточка, cell - сотовый, phone - телефон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>641da841-bb57-4553-8bd4-4cadd0510147</uuid>
+    <examples>
+       <example>
+          <value>I want to buy a card for using a cellphone.</value>
+          <translation>Мне нужна карточка для пользования мобильным телефоном.</translation>
+          <comment>to want - хотеть, to buy - купить, card - карта, using - использование, cellphone - сотовый телефон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>about six dollars</question>
+    <answer>около 6 долларов</answer>
+    <comment>[əˈbаʊt sɪks ˈdɑːlərz]</comment>
+    <question_comment>about - примерно, six - шесть, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e3d61233-2bce-405a-9a71-52b5c88fe930</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s about six dollars for a three minute call.</value>
+          <translation>Это будет стоить около 6 долларов за трехминутный звонок.</translation>
+          <comment>about - примерно, около, six - шесть, dollar - доллар, three - три, minute - минута, call - звонок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the area code</question>
+    <answer>код города</answer>
+    <comment>[ðə ˈeriːə koʊd]</comment>
+    <question_comment>area - территория, площадь, code - код</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e57930b1-924b-4ed3-bad4-63fa40a5bcb9</uuid>
+    <examples>
+       <example>
+          <value>The area code is 231.</value>
+          <translation>Код (города) 231.</translation>
+          <comment>area - территория, пространство, code - код</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the moment</question>
+    <answer>в настоящий момент</answer>
+    <comment>[ət ðə ˈmoʊmənt]</comment>
+    <question_comment>moment - момент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>29184cb9-08ca-49d7-b701-731b6eac8f51</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s out at the moment.</value>
+          <translation>Его сейчас нет.</translation>
+          <comment>out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>I&apos;m afraid Mr. Jones is out at the moment.</value>
+          <translation>Боюсь, мистер Джонс сейчас отсутствует.</translation>
+          <comment>afraid - боязливый, опасающийся, Mr. Jones - мистер Джонс, out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>Just a moment, please!</value>
+          <translation>Одну секунду...</translation>
+          <comment>just - только, совсем, moment - момент</comment>
+       </example>
+       <example>
+          <value>Sorry, it&apos;s out of stock at the moment.</value>
+          <translation>К сожалению, в настоящий момент у нас этого нет в продаже.</translation>
+          <comment>sorry - прости(те), out of stock - не имеющийся в наличии, moment - момент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a call to Moscow</question>
+    <answer>звонок в Москву</answer>
+    <comment>[ə kɔːl tə ˈmɑːskaʊ</comment>
+    <question_comment>call - звонок, Moscow - Москва</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e2f2c477-065f-417e-9838-cc1b7af256db</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the phone rate for calls to Moscow, please?</value>
+          <translation>Скажите, пожалуйста, каков тариф звонков в Москву?</translation>
+          <comment>what - что, какой, phone - телефон, rate - показатель, call - звонок, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in ten minutes</question>
+    <answer>через 10 минут</answer>
+    <comment>[ɪn ten ˈmɪnɪts]</comment>
+    <question_comment>ten - десять, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3067a468-9c86-4dd5-b0b7-7ee08f3bb9d5</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll call you back in ten minutes.</value>
+          <translation>Я перезвоню вам через 10 минут.</translation>
+          <comment>to call - звонить, back - обратно, ten - десять, minute - минут</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a long-distance call</question>
+    <answer>междугородний звонок</answer>
+    <comment>[ə lɔːŋ ˈdɪstəns kɔːl]</comment>
+    <question_comment>long - далекий, distance - дистанция, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>da5a4fdd-23ba-404e-ac29-cb406628a400</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to make a long-distance call.</value>
+          <translation>Я бы хотел сделать междугородний звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cellphone</question>
+    <answer>сотовый телефон</answer>
+    <comment>[sel foʊn]</comment>
+    <question_comment>cell - сотовый, phone - телефон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e316ba48-d33c-4096-8b75-3ff42e4c5e2d</uuid>
+    <examples>
+       <example>
+          <value>I want to buy a card for using a cellphone.</value>
+          <translation>Мне нужна карточка для пользования мобильным телефоном.</translation>
+          <comment>to want - хотеть, to buy - купить, card - карта, using - использование, cellphone - сотовый телефон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my telephone number</question>
+    <answer>мой номер телефона</answer>
+    <comment>[mаɪ ˈteləˌfoʊn ˈnʌmbər]</comment>
+    <question_comment>my - мой, моя, telephone - телефон, number - номер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>147efa54-dc61-492f-b2c2-77a276dfd71f</uuid>
+    <examples>
+       <example>
+          <value>My telephone number is 12345.</value>
+          <translation>Мой номер телефона 12345.</translation>
+          <comment>telephone - телефон, number - номер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>no reply at this number</question>
+    <answer>нет ответа по этому номеру</answer>
+    <comment>[noʊ riːˈplаɪ ət ðɪs ˈnʌmbər]</comment>
+    <question_comment>no - никакой, reply - ответ, this - этот, эта, number - номер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ff698a79-d688-4769-af18-5683119d5748</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a phone call</question>
+    <answer>звонок (по телефону)</answer>
+    <comment>[ə foʊn kɔːl]</comment>
+    <question_comment>phone - телефонный, телефон, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33119cd8-8249-42c5-9480-0f4d28d458b4</uuid>
+    <examples>
+       <example>
+          <value>I want to make a phone call.</value>
+          <translation>Мне нужно позвонить.</translation>
+          <comment>to want - хотеть, to make - сделать, phone - телефон, call - звонок</comment>
+       </example>
+       <example>
+          <value>What&apos;s the phone rate for calls to Moscow, please?</value>
+          <translation>Скажите, пожалуйста, каков тариф звонков в Москву?</translation>
+          <comment>what - что, какой, phone - телефон, rate - показатель, call - звонок, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the phone rate</question>
+    <answer>тариф звонков</answer>
+    <comment>[ðə foʊn reɪt]</comment>
+    <question_comment>phone - телефонный, телефон, rate - тариф</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae93d988-9b99-4668-ba54-37597db2cbe0</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the phone rate for calls to Moscow, please?</value>
+          <translation>Скажите, пожалуйста, каков тариф звонков в Москву?</translation>
+          <comment>what - что, какой, phone - телефон, rate - показатель, call - звонок, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a telephone card</question>
+    <answer>телефонная карта</answer>
+    <comment>[ə ˈteləˌfoʊn kɑːrd]</comment>
+    <question_comment>phone - телефонный, телефон, card - карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa143f0d-6b34-4356-964d-181d498268df</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a telephone card?</value>
+          <translation>Где можно купить телефонную карту?</translation>
+          <comment>where - где, can - мочь, to buy - купить, telephone - телефонный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a three minute call</question>
+    <answer>трехминутный звонок</answer>
+    <comment>[ə θriː ˈmɪnɪt kɔːl]</comment>
+    <question_comment>three - три, minute - минута, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f46ae84a-5575-4486-8f09-876d6fb4e101</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s about six dollars for a three minute call.</value>
+          <translation>Это будет стоить около 6 долларов за трехминутный звонок.</translation>
+          <comment>about - примерно, около, six - шесть, dollar - доллар, three - три, minute - минута, call - звонок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to ask somebody to call</question>
+    <answer>попросить кого-л. позвонить</answer>
+    <comment>[tə æsk ˈsʌmˌbɑːdiː tə kɔːl]</comment>
+    <question_comment>to ask - просить, somebody - кто-либо, to call - звонить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>15292729-7b80-4213-a85f-4ecd19e413b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Don&apos;t be afraid.</question>
+    <answer>Не бойся.</answer>
+    <comment>[doʊnt biː əˈfreɪd]</comment>
+    <question_comment>afraid - испуганный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a0c8e51b-bef2-4b37-a39c-c09d9baff5bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be at home</question>
+    <answer>быть дома</answer>
+    <comment>[tə biː ət hoʊm]</comment>
+    <question_comment>home - дом</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68fc2cbf-b799-4ac8-9b9d-f9ab30b36ffc</uuid>
+    <examples>
+       <example>
+          <value>Can you give me a ride home?</value>
+          <translation>Отвезите меня, пожалуйста, домой.</translation>
+          <comment>can - мочь, to give - дать, me - мне, меня, ride - поездка, home - дом, домой</comment>
+       </example>
+       <example>
+          <value>When will he be at home?</value>
+          <translation>Когда он будет дома?</translation>
+          <comment>when - когда, he - он, to be - быть, home - дом</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be at the place</question>
+    <answer>быть на месте</answer>
+    <comment>[tə biː ət ðə pleɪs]</comment>
+    <question_comment>place - место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7db3389e-bc5c-4e00-a5bd-427fee2cb055</uuid>
+    <examples>
+       <example>
+          <value>May I invite you to my place?</value>
+          <translation>Разрешите пригласить вас к себе?</translation>
+          <comment>may - мочь, to invite - пригласить, you - тебя, вас, place - место</comment>
+       </example>
+       <example>
+          <value>Would you care to come to my place and have a drink?</value>
+          <translation>Не хотите зайти ко мне и выпить?</translation>
+          <comment>to care - питать интерес, to come - приходить, place - место, to have - иметь, drink - питье</comment>
+       </example>
+       <example>
+          <value>Sorry, this is my place.</value>
+          <translation>Извините, это мое место.</translation>
+          <comment>sorry - сожалеющий, this - это, этот, эта, place - место</comment>
+       </example>
+       <example>
+          <value>This place is occupied.</value>
+          <translation>Это место занято.</translation>
+          <comment>this - этот, эта, это, place - место, occupied - занятый</comment>
+       </example>
+       <example>
+          <value>May I trade places with you?</value>
+          <translation>Можно поменяться с вами местами?</translation>
+          <comment>may - мочь, to trade - обменяться, place - место, you - вам, вас</comment>
+       </example>
+       <example>
+          <value>Would you mind if we trade places?</value>
+          <translation>Можем ли мы поменяться местами?</translation>
+          <comment>to mind - возражать, if - если, we - мы, to trade - обменяться, place - место</comment>
+       </example>
+       <example>
+          <value>When will he be at the place?</value>
+          <translation>Когда он будет на месте?</translation>
+          <comment>when - когда, he - он, to be - быть, place - место</comment>
+       </example>
+       <example>
+          <value>Is this place vacant?</value>
+          <translation>Это место свободно?</translation>
+          <comment>this - этот, эта, это, place - место, vacant - свободный</comment>
+       </example>
+       <example>
+          <value>Please show us our places.</value>
+          <translation>Подскажите, пожалуйста, наши места.</translation>
+          <comment>to show - показать, us - нам, нас, our - наш, наша, наше, наши, place - место</comment>
+       </example>
+       <example>
+          <value>Not very far, places in the middle, please.</value>
+          <translation>Не очень далеко, средние места, пожалуйста.</translation>
+          <comment>very - очень, far - далекий, place - место, middle - середина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be back in an hour</question>
+    <answer>вернуться через час</answer>
+    <comment>[tə biː bæk ɪn ən аʊr]</comment>
+    <question_comment>back - обратно, hour - час</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96ba0948-23f9-40ad-98c0-2718999aa51d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a busy line</question>
+    <answer>занятая линия</answer>
+    <comment>[ə ˈbɪziː lаɪn]</comment>
+    <question_comment>busy - занятый, line - линия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>48616e95-332f-443c-b9fb-5944dd3c4946</uuid>
+    <examples>
+       <example>
+          <value>The line&apos;s busy.</value>
+          <translation>Линия занята.</translation>
+          <comment>line - линия, busy - занятый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>We got cut off.</question>
+    <answer>Нас разъдинили.</answer>
+    <comment>[wiː gɑːt kʌt ɔːf]</comment>
+    <question_comment>to get cut off - разъединиться, to cut off - отрезать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5033b254-2a91-43fb-9afd-bcb83db1442e</uuid>
+    <examples>
+       <example>
+          <value>I got cut off.</value>
+          <translation>Меня разъединили.</translation>
+          <comment>to get - становиться, cut off - отрезанный, оборванный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;s out.</question>
+    <answer>Его нет на месте.</answer>
+    <comment>[hiːz аʊt]</comment>
+    <question_comment>out - вне, снаружи</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3bee6d71-f146-4a42-b024-9887ee9fae7c</uuid>
+    <examples>
+       <example>
+          <value>May I carry out cash payment?</value>
+          <translation>Могу я совершить наличный платеж?</translation>
+          <comment>may - мочь, to carry out - выполнить, cash - наличный, payment - платеж</comment>
+       </example>
+       <example>
+          <value>May I carry out non-cash payment?</value>
+          <translation>Могу я совершить безналичный платеж?</translation>
+          <comment>may - мочь, to carry out - выполнить, non-cash - безналичный, payment - платеж</comment>
+       </example>
+       <example>
+          <value>Write out the amount in full.</value>
+          <translation>Пишите сумму полностью.</translation>
+          <comment>to write out - выписать, amount - количество, full - полный</comment>
+       </example>
+       <example>
+          <value>Fill out this registration form, please.</value>
+          <translation>Заполните, пожалуйста, анкету.</translation>
+          <comment>to fill out - заполнить, this - этот, эта, это, registration - регистрация, form - бланк, форма</comment>
+       </example>
+       <example>
+          <value>The bulb in my room has burned out.</value>
+          <translation>В моем номере перегорела лампочка.</translation>
+          <comment>bulb - лампочка, room - комната, to burn out - перегореть</comment>
+       </example>
+       <example>
+          <value>Write out the receipt, please.</value>
+          <translation>Выпишите, пожалуйста, квитанцию.</translation>
+          <comment>to write out - выписать, receipt - квитанция</comment>
+       </example>
+       <example>
+          <value>He&apos;s out at the moment.</value>
+          <translation>Его сейчас нет.</translation>
+          <comment>out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>I&apos;m afraid Mr. Jones is out at the moment.</value>
+          <translation>Боюсь, мистер Джонс сейчас отсутствует.</translation>
+          <comment>afraid - боязливый, опасающийся, Mr. Jones - мистер Джонс, out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>The phone is out of order.</value>
+          <translation>Телефон не работает.</translation>
+          <comment>phone - телефон, out - вне, из, order - порядок</comment>
+       </example>
+       <example>
+          <value>The filling fell out.</value>
+          <translation>У меня выпала пломба.</translation>
+          <comment>filling - пломба, to fall out - выпадать</comment>
+       </example>
+       <example>
+          <value>I don&apos;t want it pulled out.</value>
+          <translation>Я не хотел бы его вырывать.</translation>
+          <comment>to want - хотеть, it - это, pulled out - вырванный, вытащенный</comment>
+       </example>
+       <example>
+          <value>The house is sold out.</value>
+          <translation>Все билеты проданы.</translation>
+          <comment>house - дом, sold out - распроданный</comment>
+       </example>
+       <example>
+          <value>Sorry, it&apos;s out of stock at the moment.</value>
+          <translation>К сожалению, в настоящий момент у нас этого нет в продаже.</translation>
+          <comment>sorry - прости(те), out of stock - не имеющийся в наличии, moment - момент</comment>
+       </example>
+       <example>
+          <value>They snatched out my bag.</value>
+          <translation>Они выхватили мою сумку.</translation>
+          <comment>they - они, to snatch out - выхватить, my - мой, моя, мое, bag - сумка</comment>
+       </example>
+       <example>
+          <value>Look out!</value>
+          <translation>Осторожно!</translation>
+          <comment>to look out - быть настороже</comment>
+       </example>
+       <example>
+          <value>Today a storm has broken out.</value>
+          <translation>Сегодня разыгрался шторм.</translation>
+          <comment>today - сегодня, storm - буря, to break out - разразиться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The phone is out of order.</question>
+    <answer>Телефон не работает.</answer>
+    <comment>[ðə foʊn ɪz аʊt əv ˈɔːrdər]</comment>
+    <question_comment>out of order - не в порядке, сломанный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>89e313b9-4e3a-46db-818d-011b7ff94870</uuid>
+    <examples>
+       <example>
+          <value>The phone is out of order.</value>
+          <translation>Телефон не работает.</translation>
+          <comment>phone - телефон, out - вне, из, order - порядок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a valid number</question>
+    <answer>существующий номер</answer>
+    <comment>[ə ˈvælɪd ˈnʌmbər]</comment>
+    <question_comment>valid - действительный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>818e592b-ef2d-400a-9020-c91df0909f5b</uuid>
+    <examples>
+       <example>
+          <value>This number in no longer valid.</value>
+          <translation>Этот номер сменился.</translation>
+          <comment>this - этот, эта, это, number - номер, longer - дольше, больше, valid - действительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to wait for a call</question>
+    <answer>ждать звонка</answer>
+    <comment>[tə weɪt fər ə kɔːl]</comment>
+    <question_comment>to wait - ожидать, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ee6f693-c7ed-4e9a-b401-d44cd75676f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a telephone card</question>
+    <answer>купить телефонную карту</answer>
+    <comment>[tə bаɪ ə ˈteləˌfoʊn kɑːrd]</comment>
+    <question_comment>to buy - покупать, telephone - телефон, card - карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>35386a97-5732-4c56-aa0a-cac4aa0431bf</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a telephone card?</value>
+          <translation>Где можно купить телефонную карту?</translation>
+          <comment>where - где, can - мочь, to buy - купить, telephone - телефонный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call again</question>
+    <answer>снова позвонить</answer>
+    <comment>[tə kɔːl əˈgen]</comment>
+    <question_comment>to call - звонить, again - снова</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ed9b1be1-d406-478d-8780-c0c8db829ed2</uuid>
+    <examples>
+       <example>
+          <value>Please call again later.</value>
+          <translation>Пожалуйста, перезвоните позже.</translation>
+          <comment>to call - звонить, again - снова, later - позже</comment>
+       </example>
+       <example>
+          <value>I&apos;ll call again.</value>
+          <translation>Я перезвоню.</translation>
+          <comment>to call - звонить, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call again later</question>
+    <answer>перезвонить позже</answer>
+    <comment>[tə kɔːl əˈgen ˈleɪtər]</comment>
+    <question_comment>to call - звонить, again - снова, later - позже</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>583d6ec6-ba6e-4384-b222-3a64e44a0a54</uuid>
+    <examples>
+       <example>
+          <value>Please call again later.</value>
+          <translation>Пожалуйста, перезвоните позже.</translation>
+          <comment>to call - звонить, again - снова, later - позже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call back in an hour</question>
+    <answer>перезвонить через час</answer>
+    <comment>[tə kɔːl bæk ɪn ən аʊr]</comment>
+    <question_comment>to call - звонить, back - обратно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1e3b660b-df80-4537-828d-fb2cb517756f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call later</question>
+    <answer>позвонить позже</answer>
+    <comment>[tə kɔːl ˈleɪtər]</comment>
+    <question_comment>to call - звонить, later - позже</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>804cee26-eea3-4385-a322-871a0aa0566d</uuid>
+    <examples>
+       <example>
+          <value>Please call again later.</value>
+          <translation>Пожалуйста, перезвоните позже.</translation>
+          <comment>to call - звонить, again - снова, later - позже</comment>
+       </example>
+       <example>
+          <value>I&apos;ll call later.</value>
+          <translation>Я позвоню попозже.</translation>
+          <comment>to call - звонить, later - позже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get the wrong number</question>
+    <answer>ошибиться номером</answer>
+    <comment>[tə get ðə rɔːŋ ˈnʌmbər]</comment>
+    <question_comment>to get - получить, wrong - неправильный, number - номер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2f134106-4b24-4741-b184-047db33095f3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I got through to her.</question>
+    <answer>Я до нее дозвонился.</answer>
+    <comment>[аɪ gɑːt θruː tə hɜːr]</comment>
+    <question_comment>to get - добраться, достать, through - через, сквозь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>de8c2c31-d0db-468c-af79-cd43bdb8ca48</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a word with</question>
+    <answer>переговорить с</answer>
+    <comment>[tə hæv ə wɜːrd wɪð]</comment>
+    <question_comment>to have - иметь, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2f22b555-28cd-497d-b34a-740a48f690e3</uuid>
+    <examples>
+       <example>
+          <value>I only know a few words.</value>
+          <translation>Я знаю лишь несколько слов.</translation>
+          <comment>only - только, to know - знать, a few - несколько, word - слово</comment>
+       </example>
+       <example>
+          <value>What&apos;s the Russian word for &quot;hot&quot;?</value>
+          <translation>Что значит по-русски &quot;hot&quot;?</translation>
+          <comment>what - что, какой, Russian - русский, word - слово</comment>
+       </example>
+       <example>
+          <value>What does this word mean?</value>
+          <translation>Что означает это слово?</translation>
+          <comment>what - что, this - этот, эта, word - слово, to mean - значить</comment>
+       </example>
+       <example>
+          <value>I can&apos;t remember the Russian word for &quot;grass&quot;.</value>
+          <translation>Я не могу вспомнить, как по-русски будет &quot;grass&quot;.</translation>
+          <comment>to remember - вспомнить, Russian - русский, word - слово</comment>
+       </example>
+       <example>
+          <value>Let&apos;s look up this word in my dictionary.</value>
+          <translation>Давай поищем это слово в моем словаре.</translation>
+          <comment>let&apos;s - давай(те), to look up - посмотреть (в словаре), this - этот, эта, это, word - слово, dictionary - словарь</comment>
+       </example>
+       <example>
+          <value>How is this word read?</value>
+          <translation>Как читается это слово?</translation>
+          <comment>how - как, this - этот, эта, это, word - слово, to read - читать</comment>
+       </example>
+       <example>
+          <value>How is the word translated?</value>
+          <translation>Как переводится это слово?</translation>
+          <comment>how - как, word - слово, to translate - перевести</comment>
+       </example>
+       <example>
+          <value>This is a slang word.</value>
+          <translation>Это жаргонное слово.</translation>
+          <comment>this - этот, эта, это, slang - жаргонный, word - слово</comment>
+       </example>
+       <example>
+          <value>How much is it per word?</value>
+          <translation>Сколько стоит слово?</translation>
+          <comment>how - как, much - много, it - это, per word - за одно слово</comment>
+       </example>
+       <example>
+          <value>May I have a word with Mr. Brown?</value>
+          <translation>Можно переговорить с мистером Брауном?</translation>
+          <comment>may - мочь, to have - иметь, word - слово, Mr. Brown - мистер Браун</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you hold on?</question>
+    <answer>Одну минуточку. (тел.)</answer>
+    <comment>[kæn jʊ hoʊld ɑːn]</comment>
+    <question_comment>can - мочь, to hold on - оставаться на линии</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8cc16a6-db3f-43b6-919e-538131be555c</uuid>
+    <examples>
+       <example>
+          <value>Hold on, please.</value>
+          <translation>Одну минуточку.</translation>
+          <comment>to hold on - оставаться на линии</comment>
+       </example>
+       <example>
+          <value>Hold the line, please.</value>
+          <translation>Подождите, пожалуйста.</translation>
+          <comment>to hold - держать, line - линия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to hold the line</question>
+    <answer>оставаться на линии</answer>
+    <comment>[tə hoʊld ðə lаɪn]</comment>
+    <question_comment>to hold - держать, line - линия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6a0f9187-800c-4a59-b805-4b143b843b42</uuid>
+    <examples>
+       <example>
+          <value>Hold the line, please.</value>
+          <translation>Подождите, пожалуйста.</translation>
+          <comment>to hold - держать, line - линия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to keep you waiting</question>
+    <answer>заставить тебя ждать</answer>
+    <comment>[tə kiːp jʊ ˈweɪtiːŋ]</comment>
+    <question_comment>to keep - сохранять, waiting - ожидающий, to wait - ждать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4257bb29-09a6-485a-99a0-d87a81742092</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make a call</question>
+    <answer>сделать звонок</answer>
+    <comment>[tə meɪk ə kɔːl]</comment>
+    <question_comment>to make - делать, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d9d2c6d6-3c42-480d-9074-c3b7d236d016</uuid>
+    <examples>
+       <example>
+          <value>I want to make a phone call.</value>
+          <translation>Мне нужно позвонить.</translation>
+          <comment>to want - хотеть, to make - сделать, phone - телефон, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make a long-distance call.</value>
+          <translation>Я бы хотел сделать междугородний звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an international call.</value>
+          <translation>Я бы хотел сделать международный звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, international - международный, call - звонок</comment>
+       </example>
+       <example>
+          <value>Where can I make a call from?</value>
+          <translation>Откуда можно позвонить?</translation>
+          <comment>where - где, can - мочь, to make - сделать, call - звонок, from - от, из</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make a long-distance call</question>
+    <answer>сделать междугородний звонок</answer>
+    <comment>[tə meɪk ə lɔːŋ ˈdɪstəns kɔːl]</comment>
+    <question_comment>to make - делать, long - длинный, distance - расстояние, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e3bb0e11-b655-420a-8bd4-6d8bc509932f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to make a long-distance call.</value>
+          <translation>Я бы хотел сделать междугородний звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make an international call</question>
+    <answer>сделать международный звонок</answer>
+    <comment>[tə meɪk ən ˌɪntərˈnæʃənl kɔːl]</comment>
+    <question_comment>to make - делать, international - международный, call - звонок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ca3eb29a-80c3-49e6-811b-6f7a96d28b4e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to make an international call.</value>
+          <translation>Я бы хотел сделать международный звонок.</translation>
+          <comment>would like - хотеть, to make - сделать, international - международный, call - звонок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to put somebody on the line</question>
+    <answer>соединять с кем-либо</answer>
+    <comment>[tə pʊt ˈsʌmˌbɑːdiː ɑːn ðə lаɪn]</comment>
+    <question_comment>to put - класть, ставить, somebody - кто-либо, line - линия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90db948d-ec8b-470e-aaa4-e7fc1aa3a10a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak louder</question>
+    <answer>говорить громче</answer>
+    <comment>[tə spiːk ˈlаʊdə]</comment>
+    <question_comment>to speak - говорить, louder - громче</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b4dd931e-69bc-4309-b833-df081cce0d61</uuid>
+    <examples>
+       <example>
+          <value>Could you speak louder?</value>
+          <translation>Не могли бы вы говорить громче?</translation>
+          <comment>could - мог, могла, могли, to speak - говорить, louder - громче</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak more slowly</question>
+    <answer>говорить медленнее</answer>
+    <comment>[tə spiːk mɔːr ˈsloʊli]</comment>
+    <question_comment>to speak - говорить, more - более, slowly - медленно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1f7144a-c4be-4c8f-8a72-0419ee93f30b</uuid>
+    <examples>
+       <example>
+          <value>Could you speak more slowly?</value>
+          <translation>Не могли бы вы говорить медленнее?</translation>
+          <comment>could - мог, могла, могли, to speak - говорить, more - больше, slowly - медленно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak Russian</question>
+    <answer>говорить по-русски</answer>
+    <comment>[tə spiːk ˈrʌʃən]</comment>
+    <question_comment>to speak - говорить, Russian - русский, по-русски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c1e2555-b38e-48b9-8daf-8b1314cc9bdd</uuid>
+    <examples>
+       <example>
+          <value>Can you speak Russian?</value>
+          <translation>Вы можете говорить по-русски?</translation>
+          <comment>to speak - говорить, Russian - по-русски</comment>
+       </example>
+       <example>
+          <value>I can&apos;t speak Russian.</value>
+          <translation>Я не говорю по-русски.</translation>
+          <comment>to speak - говорить, Russian - по-русски.</comment>
+       </example>
+       <example>
+          <value>You already speak Russian well.</value>
+          <translation>Вы уже хорошо говорите по-русски.</translation>
+          <comment>you - ты, вы, already - уже, to speak - говорить, Russian - по-русски, well - хорошо</comment>
+       </example>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>Do you speak Russian?</value>
+          <translation>Вы говорите по-русски?</translation>
+          <comment>to speak - говорить, Russian - по-русски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak to Mr. Brown</question>
+    <answer>поговорить с мистером Брауном</answer>
+    <comment>[tə spiːk tə ˈmɪstər brаʊn]</comment>
+    <question_comment>to speak - говорить, Mr. Brown - мистер Браун</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d4612eb8-a13f-4c6c-8527-b2ee464105cb</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to speak to Mr. Brown.</value>
+          <translation>Я бы хотел поговорить с мистером Брауном.</translation>
+          <comment>would like - хотеть, to speak - говорить, Mr. Brown - мистер Браун</comment>
+       </example>
+       <example>
+          <value>Hello! Can I speak to Mr. Brown?</value>
+          <translation>Алло! Могу я поговорить с мистером Брауном?</translation>
+          <comment>hello - привет, здравствуй(те), can - мочь, to speak - говорить, Mr. Brown - мистер Браун</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to spell it</question>
+    <answer>произнести это по буквам</answer>
+    <comment>[tə spel ɪt]</comment>
+    <question_comment>to spell - произнести по буквам, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d6a47d17-027a-4554-9e8c-e2b3f7c0b689</uuid>
+    <examples>
+       <example>
+          <value>How do you spell it?</value>
+          <translation>Как это пишется?</translation>
+          <comment>how - как, you - ты, вы, to spell - писать, it - это</comment>
+       </example>
+       <example>
+          <value>Could you spell it?</value>
+          <translation>Не могли бы вы произнести это по буквам?</translation>
+          <comment>could - мог, могла, могли, to spell - произнести по буквам, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take a message</question>
+    <answer>принять сообщение</answer>
+    <comment>[tə teɪk ə ˈmesɪʤ]</comment>
+    <question_comment>to take - взять, message - сообщение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7dfe8dff-f157-487c-97ba-19daed79b804</uuid>
+    <examples>
+       <example>
+          <value>Would you take a message, please?</value>
+          <translation>Вы не передадите ему сообщение?</translation>
+          <comment>to take - брать, взять, message - сообщение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to use your telephone</question>
+    <answer>воспользоваться вашим телефоном</answer>
+    <comment>[tə juːz jər ˈteləˌfoʊn]</comment>
+    <question_comment>to use - использовать, your - твой, ваш, telephone - телефон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8ed3c498-2efc-4848-9210-2dce8b43aef1</uuid>
+    <examples>
+       <example>
+          <value>May I use your telephone?</value>
+          <translation>Можно воспользоваться вашим телефоном?</translation>
+          <comment>may - мочь, to use - использовать, your - твой, ваш, telephone - телефон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to want to buy</question>
+    <answer>хотеть купить</answer>
+    <comment>[tə wɑːnt tə bаɪ]</comment>
+    <question_comment>to want - хотеть, to buy - купить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4083d23b-0533-4a81-aa12-a97a0cca4a8b</uuid>
+    <examples>
+       <example>
+          <value>I want to buy an insurance policy for the car.</value>
+          <translation>Я хочу оформить страховку на машину.</translation>
+          <comment>to want - хотеть, to buy - купить, insurance - страховка, policy - полис, car - машина</comment>
+       </example>
+       <example>
+          <value>I want to buy a card for using a cellphone.</value>
+          <translation>Мне нужна карточка для пользования мобильным телефоном.</translation>
+          <comment>to want - хотеть, to buy - купить, card - карта, using - использование, cellphone - сотовый телефон</comment>
+       </example>
+       <example>
+          <value>I want to buy gifts.</value>
+          <translation>Я хочу купить подарки.</translation>
+          <comment>to want - хотеть, to buy - купить, gift - подарок</comment>
+       </example>
+       <example>
+          <value>I want to buy a tie.</value>
+          <translation>Мне нужно купить галстук.</translation>
+          <comment>to want - хотеть, to buy - купить, tie - галстук</comment>
+       </example>
+       <example>
+          <value>I want to buy cigars.</value>
+          <translation>Я хочу купить сигары.</translation>
+          <comment>to want - хотеть, to buy - купить, cigar - сигара</comment>
+       </example>
+       <example>
+          <value>I want to buy cigarettes with menthol.</value>
+          <translation>Я хочу купить сигареты с ментолом.</translation>
+          <comment>to want - хотеть, to buy - купить, cigarette - сигарета, menthol - ментол</comment>
+       </example>
+       <example>
+          <value>I want to buy pipe tobacco.</value>
+          <translation>Я хочу купить трубочный табак.</translation>
+          <comment>to want - хотеть, to buy - купить, pipe - трубка, tobacco - табак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wrong number</question>
+    <answer>неправильный номер</answer>
+    <comment>[rɔːŋ ˈnʌmbər]</comment>
+    <question_comment>wrong - неправильный, number - номер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>63fa7825-bb5f-475c-b496-f32d14dad49c</uuid>
+    <examples>
+       <example>
+          <value>You&apos;ve got the wrong number.</value>
+          <translation>Вы ошиблись номером.</translation>
+          <comment>to get - получать, достать, wrong - неправильный, number - номер</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

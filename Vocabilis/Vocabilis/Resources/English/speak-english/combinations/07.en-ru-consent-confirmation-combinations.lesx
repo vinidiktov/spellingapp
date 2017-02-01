@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6bf078e8-75af-4d48-8051-035056ccd15b</uuid>
+  <title>Согласие. Подтверждение :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a good idea</question>
+    <answer>хорошая идея</answer>
+    <comment>[ə gʊd аɪˈdɪə]</comment>
+    <question_comment>good - хороший, idea - идея</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>df8bc29d-6970-47e7-bc5b-cf8adee39e8b</uuid>
+    <examples>
+       <example>
+          <value>That&apos;s a good idea.</value>
+          <translation>Это хорошая идея.</translation>
+          <comment>that - это, то, good - хороший, idea - идея</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in that</question>
+    <answer>в том</answer>
+    <comment>[ɪn ðæt]</comment>
+    <question_comment>that - то, это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>220c09fa-18ac-4c68-90de-56eb362f21ef</uuid>
+    <examples>
+       <example>
+          <value>That&apos;s too bad.</value>
+          <translation>Жаль.</translation>
+          <comment>that - это, то, too - слишком, bad - плохой</comment>
+       </example>
+       <example>
+          <value>I&apos;m sorry to hear that.</value>
+          <translation>Мне очень жаль.</translation>
+          <comment>sorry - огорченный, to hear - слышать, that - это, то,</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right.</value>
+          <translation>Не за что.</translation>
+          <comment>that - это, all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s very kind of you.</value>
+          <translation>Очень любезно с вашей стороны.</translation>
+          <comment>that - это, very - очень, kind - любезный, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Don&apos;t worry about that.</value>
+          <translation>Не волнуйтесь об этом.</translation>
+          <comment>to worry - волноваться, about -о (чем-л.), that - это, то</comment>
+       </example>
+       <example>
+          <value>Sorry, I didn&apos;t quite get that.</value>
+          <translation>Извините, я не совсем понял.</translation>
+          <comment>sorry - сожалеющий, quite - абсолютно, совсем, to get - уловить, понять, that - то, это</comment>
+       </example>
+       <example>
+          <value>It&apos;s a pity that...</value>
+          <translation>Очень жаль, что...</translation>
+          <comment>pity - печальный факт, that - что</comment>
+       </example>
+       <example>
+          <value>That way, please.</value>
+          <translation>Сюда, пожалуйста.</translation>
+          <comment>that - тот, этот, way - путь, дорога</comment>
+       </example>
+       <example>
+          <value>Will that time suit you?</value>
+          <translation>Это время вам подходит?</translation>
+          <comment>that - то, это, time - время, to suit - подходить, you - тебе, вам</comment>
+       </example>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+       <example>
+          <value>What&apos;s that called in Russian?</value>
+          <translation>Как это называется по-русски?</translation>
+          <comment>what - что, какой, that - это, этот, эта, called - называемый, Russian - русский</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right! You may pass on.</value>
+          <translation>Все в порядке! Вы можете проходить.</translation>
+          <comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</comment>
+       </example>
+       <example>
+          <value>Yes, that&apos;s true.</value>
+          <translation>Да, верно.</translation>
+          <comment>that - это, то, true - верный</comment>
+       </example>
+       <example>
+          <value>We&apos;re sure of that.</value>
+          <translation>Мы уверены в этом.</translation>
+          <comment>we - мы, sure - уверенный, that - это, то</comment>
+       </example>
+       <example>
+          <value>I&apos;m sure of that.</value>
+          <translation>Я в этом уверен.</translation>
+          <comment>sure - уверенный, that - это, то</comment>
+       </example>
+       <example>
+          <value>I&apos;m absolutely certain of that.</value>
+          <translation>Я в этом абсолютно уверен.</translation>
+          <comment>absolutely - абсолютно, certain - несомненный, уверенный, that - это, то</comment>
+       </example>
+       <example>
+          <value>Good. That&apos;s it.</value>
+          <translation>Хорошо. Это как раз то, что нам нужно.</translation>
+          <comment>good - хороший, that - это, то, it - это</comment>
+       </example>
+       <example>
+          <value>That&apos;s the point.</value>
+          <translation>Именно так.</translation>
+          <comment>that - это, то, point - главное, суть</comment>
+       </example>
+       <example>
+          <value>That&apos;s fine.</value>
+          <translation>Хорошо.</translation>
+          <comment>that - это, то, fine - замечательный</comment>
+       </example>
+       <example>
+          <value>That&apos;s clear.</value>
+          <translation>Понятно.</translation>
+          <comment>that - это, то, clear - ясный, понятный</comment>
+       </example>
+       <example>
+          <value>That&apos;s right.</value>
+          <translation>Верно.</translation>
+          <comment>that - это, то, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s true.</value>
+          <translation>Это правда; Это так.</translation>
+          <comment>that - это, то, true - верный</comment>
+       </example>
+       <example>
+          <value>That&apos;s allright.</value>
+          <translation>Все в порядке.</translation>
+          <comment>that - это, то, all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s a good idea.</value>
+          <translation>Это хорошая идея.</translation>
+          <comment>that - это, то, good - хороший, idea - идея</comment>
+       </example>
+       <example>
+          <value>There&apos;s something in that.</value>
+          <translation>В этом что-то есть.</translation>
+          <comment>there&apos;s - есть, имеется, something - что-то, that - это, то</comment>
+       </example>
+       <example>
+          <value>That&apos;s a mistake.</value>
+          <translation>Это ошибка.</translation>
+          <comment>that - это, то, mistake - ошибка</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t say that.</value>
+          <translation>Я этого не говорил.</translation>
+          <comment>to say - сказать, that - это, то</comment>
+       </example>
+       <example>
+          <value>I object to that.</value>
+          <translation>Я против этого.</translation>
+          <comment>to object - протестовать, that - это, то</comment>
+       </example>
+       <example>
+          <value>That isn&apos;t true.</value>
+          <translation>Это неправда.</translation>
+          <comment>that - это, то, true - верный</comment>
+       </example>
+       <example>
+          <value>It seems to me that you are not right.</value>
+          <translation>Мне кажется, что вы неправы.</translation>
+          <comment>to seem - казаться, me - мне, меня, that - что, you - ты, вы, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s not the question.</value>
+          <translation>Не в этом дело.</translation>
+          <comment>that - это, то, question - вопрос</comment>
+       </example>
+       <example>
+          <value>That&apos;s fine. I&apos;ll take it.</value>
+          <translation>Хорошо. Я беру его (номер).</translation>
+          <comment>that - это, fine - замечательный, to take - брать, it - это</comment>
+       </example>
+       <example>
+          <value>I think that&apos;s my seat.</value>
+          <translation>Мне кажется, это мое место.</translation>
+          <comment>to think - думать, that - что, это, этот, эта, seat - место</comment>
+       </example>
+       <example>
+          <value>I think that the accumulator is dead.</value>
+          <translation>Я думаю, что аккумулятор сел.</translation>
+          <comment>to think - думать, that - что, accumulator - аккумулятор, dead - мертвый</comment>
+       </example>
+       <example>
+          <value>I think that the gearbox is broken.</value>
+          <translation>Я думаю, что коробка передач вышла из строя.</translation>
+          <comment>to think - думать, that - что, gearbox - коробка передач, broken - сломанный</comment>
+       </example>
+       <example>
+          <value>Please tell him that John Smith called.</value>
+          <translation>Передайте ему, пожалуйста, что звонил Джон Смит.</translation>
+          <comment>to tell - сказать, him - ему, его, that - что, John Smith - Джон Смит, to call - звонить</comment>
+       </example>
+       <example>
+          <value>Please tell him that I&apos;m waiting for his call.</value>
+          <translation>Пожалуйста, передайте ему, что я ожидаю его звонка.</translation>
+          <comment>to tell - сказать, him - ему, его, that - что, waiting - ожадающий, his - его, call - звонок</comment>
+       </example>
+       <example>
+          <value>Does this tooth hurt you when I touch it like that?</value>
+          <translation>Этот зуб беспокоит вас, когда я притрагиваюсь к нему?</translation>
+          <comment>this - этот, эта, это, tooth - зуб, to hurt - болеть, you - вас, вам, тебе, тебя, when - когда, to touch - прикасаться, it - это, like - как, наподобии, that - это</comment>
+       </example>
+       <example>
+          <value>That&apos;s the best film I&apos;ve seen this year.</value>
+          <translation>Это лучший фильм, который я видел в этом году.</translation>
+          <comment>that - то, это, best - лучший, film - фильм, to see - видеть, this - этот, эта, это, year - год</comment>
+       </example>
+       <example>
+          <value>Can I look at that blue blouse?</value>
+          <translation>Могу взглянуть на ту голубую блузку?</translation>
+          <comment>can - мочь, to look (at) - взглянуть (на), that - тот, та, то, blue - голубой, blouse - блузка</comment>
+       </example>
+       <example>
+          <value>Please show me that black belt.</value>
+          <translation>Пожалуйста, покажите мне тот черный пояс.</translation>
+          <comment>to show - показать, me - мне, меня, that - тот, та, то, black - черный, belt - пояс, ремень</comment>
+       </example>
+       <example>
+          <value>It&apos;s the process of collecting itself that matters.</value>
+          <translation>Именно сам процесс коллекционирования меня увлекает.</translation>
+          <comment>process - процесс, collecting - коллекционирование, itself - сам, себя, that - что, to matter - иметь значение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the same opinion</question>
+    <answer>такое же мнение</answer>
+    <comment>[ðə seɪm əˈpɪnjən]</comment>
+    <question_comment>the same - тот же самый, opinion - мнение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2c85c814-d726-4f9c-b2fa-3b9c9d928d18</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m of the same opinion.</value>
+          <translation>Я того же мнения.</translation>
+          <comment>the same - такой же, тот же, opinion - мнение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make use of something</question>
+    <answer>воспользоваться чем-либо</answer>
+    <comment>[tə meɪk juːs əv ˈsʌmθɪŋ]</comment>
+    <question_comment>to make use of - воспользоваться, make - делать, use - использование, something - что-либо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>19ca031a-82e2-44f5-beae-8cda0ca87e8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to suit you</question>
+    <answer>устраивать вас, подходить вам</answer>
+    <comment>[tə suːt jʊ]</comment>
+    <question_comment>to suit - подходить, устраивать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aab7dc59-dab7-454b-a9cc-9ae117e88c1c</uuid>
+    <examples>
+       <example>
+          <value>Will that time suit you?</value>
+          <translation>Это время вам подходит?</translation>
+          <comment>that - то, это, time - время, to suit - подходить, you - тебе, вам</comment>
+       </example>
+       <example>
+          <value>Your suggestion suits us.</value>
+          <translation>Ваше предложение подходит нам.</translation>
+          <comment>suggestion - предложение, to suit - подходить, us - нам, нас</comment>
+       </example>
+       <example>
+          <value>It suits me.</value>
+          <translation>Это меня устраивает.</translation>
+          <comment>it - это, to suit - подходить, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>Sorry, it doesn&apos;t suit me.</value>
+          <translation>Этот номер мне не подходит.</translation>
+          <comment>sorry - сожалеющий, to suit - подходить, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>This room suits me perfectly well.</value>
+          <translation>Этот номер мне подходит.</translation>
+          <comment>this -этот, эта, это, room - комната, to suit - подходить, me - мне, меня, perfectly - совершенно, well - хорошо</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to have my suit cleaned.</value>
+          <translation>Я хочу отдать в чистку костюм.</translation>
+          <comment>would like - хотеть, to have - иметь, suit - костюм, cleaned - почищенный</comment>
+       </example>
+       <example>
+          <value>I need a swimming suit.</value>
+          <translation>Мне нужен купальник.</translation>
+          <comment>need - нуждаться, swimming - плавательный, suit - костюм</comment>
+       </example>
+       <example>
+          <value>This color doesn&apos;t suit me.</value>
+          <translation>Этот цвет мне не идет.</translation>
+          <comment>this - этот, эта, это, color - цвет, to suit - подходить, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>Would you advise me what suits me more?</value>
+          <translation>Посоветуйте, что мне больше подходит.</translation>
+          <comment>to advise - советовать, me - мне, меня, what - что, to suit - подходить, more - больше</comment>
+       </example>
+       <example>
+          <value>I can&apos;t find anything to suit me.</value>
+          <translation>Я не могу найти ничего подходящего для меня.</translation>
+          <comment>to find - найти, anything - что-нибудь, to suit - подходить, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be sure of it</question>
+    <answer>быть в этом уверенным</answer>
+    <comment>[tə biː ʃʊr əv ɪt]</comment>
+    <question_comment>sure - уверенный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>66b73845-76b5-4a70-8dc3-dc3e80447662</uuid>
+    <examples>
+       <example>
+          <value>We&apos;re sure of that.</value>
+          <translation>Мы уверены в этом.</translation>
+          <comment>we - мы, sure - уверенный, that - это, то</comment>
+       </example>
+       <example>
+          <value>I&apos;m sure of that.</value>
+          <translation>Я в этом уверен.</translation>
+          <comment>sure - уверенный, that - это, то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>absolutely certain</question>
+    <answer>абсолютно уверенный</answer>
+    <comment>[ˌæbsəˈluːtliː ˈsɜːrtn]</comment>
+    <question_comment>absolutely - абсолютно, certain - уверенный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>60f7f6f9-27dd-4797-b33c-f41331223597</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m absolutely certain of that.</value>
+          <translation>Я в этом абсолютно уверен.</translation>
+          <comment>absolutely - абсолютно, certain - несомненный, уверенный, that - это, то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be certain of something</question>
+    <answer>быть в чем-либо уверенным</answer>
+    <comment>[tə biː ˈsɜːrtn əv ˈsʌmθɪŋ]</comment>
+    <question_comment>certain - уверенный, something - что-либо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7f08219-4621-4fd6-bce0-2739a51cab57</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be against it</question>
+    <answer>быть против этого</answer>
+    <comment>[tə biː əˈgenst ɪt]</comment>
+    <question_comment>against - против, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b568eb6b-cf0d-4618-918a-3bd425e1c3c1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m not against it.</value>
+          <translation>Я не против этого.</translation>
+          <comment>against - против, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clear instructions</question>
+    <answer>ясные (понятные) инструкции</answer>
+    <comment>[klɪr ɪnˈstrʌkʃənz]</comment>
+    <question_comment>clear - ясный, понятный, instruction - инструкция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c641666e-7aab-4235-bcaf-5f4a739a2a19</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the correct answer</question>
+    <answer>правильный (right) ответ</answer>
+    <comment>[ðə kəˈrekt ˈænsər]</comment>
+    <question_comment>correct - правильный, корректный, answer - ответ</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7d49c3a1-8230-410c-af65-a47690b45f5e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the right answer</question>
+    <answer>правильный (correct) ответ</answer>
+    <comment>[ðə rаɪt ˈænsər]</comment>
+    <question_comment>right - правильный, answer - ответ</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a50c0b35-33be-4c01-b3ef-68a2dbc08010</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a true story</question>
+    <answer>правдивая история</answer>
+    <comment>[ə truː ˈstɔːriː]</comment>
+    <question_comment>true - правдивый, story - история</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ace8a2a6-83b2-458f-a3aa-6746a3ae258b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to doubt it</question>
+    <answer>сомневаться в этом</answer>
+    <comment>[tə dаʊt ɪt]</comment>
+    <question_comment>to doubt - сомневаться в, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7febac3f-61bc-41c4-b8ac-2392d408a6b7</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t doubt it.</value>
+          <translation>Я в этом и не сомневаюсь.</translation>
+          <comment>to doubt - сомневаться, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stand to reason</question>
+    <answer>быть само собой разумеющимся</answer>
+    <comment>[tə stænd tə ˈriːzən]</comment>
+    <question_comment>to stand - стоять, reason - причина, основание</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba132d39-2125-4ba9-89a9-37abb6926241</uuid>
+    <examples>
+       <example>
+          <value>It stands to reason.</value>
+          <translation>Само собой разумеется.</translation>
+          <comment>to stand - стоять, reason - причина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>with you</question>
+    <answer>с вами, с тобой</answer>
+    <comment>[wɪð jʊ]</comment>
+    <question_comment>with - с (кем-л.), you - тебя, тебе</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3b04611b-fe96-4a40-8197-4302ba907fb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to accept your invitation</question>
+    <answer>принять ваше приглашение</answer>
+    <comment>[tə əkˈsept jər ˌɪnvɪˈteɪʃən]</comment>
+    <question_comment>accept - принимать, your - твой, ваш, invitation - приглашение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e0b302bd-9f2e-4a82-9650-096e94bcbad0</uuid>
+    <examples>
+       <example>
+          <value>I regret to be unable to accept your invitation.</value>
+          <translation>К сожалению, я не могу принять ваше приглашение.</translation>
+          <comment>to regret - сожалеть, to be - быть, unable - неспособный, to accept - принимать, your - твой, ваш, invitation - приглашение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a helpful suggestion</question>
+    <answer>полезное предложение</answer>
+    <comment>[ə ˈhelpfəl səgˈʤesʧən]</comment>
+    <question_comment>helpful - полезный, suggestion - предложение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b5d841a9-4899-4386-b848-ee864a61bd47</uuid>
+  </card>
+</cards>
+</stack>

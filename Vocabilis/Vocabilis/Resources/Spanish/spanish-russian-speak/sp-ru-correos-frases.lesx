@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5191ef08-8c5a-4f28-ba06-d81c5a9b4855</uuid>
+  <title>Почта, телеграф :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>14</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde se encuentra la oficina de correos?</question>
+    <answer>Где находится почта?</answer>
+    <comment></comment>
+    <uuid>9adddabf-f722-4bb2-83e1-ab19214d97b5</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se encuentra telégrafos?</question>
+    <answer>Где находится телеграф?</answer>
+    <comment></comment>
+    <uuid>f511a563-6c98-4dab-80df-62815a673c03</uuid>
+  </card>
+  <card>
+    <question>¿Qué horario tienen en correos?</question>
+    <answer>В какие часы работает почта? (=Какое расписание имеют на почте?)</answer>
+    <comment></comment>
+    <uuid>f37d04ba-2455-4c9a-a7c5-760c7a1fb74e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el buzón de correos?</question>
+    <answer>Где почтовый ящик?</answer>
+    <comment></comment>
+    <uuid>ea447d61-6e0f-48d5-b654-ce83927f1d50</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la ventanilla para enviar telegramas?</question>
+    <answer>Где принимают телеграмы? (=Какое окошко, чтобы отправить ...)</answer>
+    <comment></comment>
+    <uuid>8e199931-b883-48d8-a75e-749b503dce51</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la ventanilla para enviar paquetes postales?</question>
+    <answer>Где принимают бандероли? (=Какое окошко, чтобы отправить ...)</answer>
+    <comment></comment>
+    <uuid>73288455-a97e-48f3-a679-224f2144f18c</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la ventanilla para enviar cartas sertificadas?</question>
+    <answer>Где принимают заказные письма? (=Какое окошко, чтобы отправить ...)</answer>
+    <comment></comment>
+    <uuid>69975b77-4804-48d2-a413-58c733490255</uuid>
+  </card>
+  <card>
+    <question>¿Dónde están los impresos?</question>
+    <answer>Где бланки?</answer>
+    <comment></comment>
+    <uuid>401aa041-2512-4ace-aa7c-e1a0e791369b</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, papel de cartas.</question>
+    <answer>Дайте мне, пожалуйста, почтовую бумагу.</answer>
+    <comment></comment>
+    <uuid>9e7ad9a4-885e-4fa4-ac4a-70cdcc0b46cc</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, un sobre.</question>
+    <answer>Дайте мне, пожалуйста, конверт.</answer>
+    <comment></comment>
+    <uuid>8f9c87c8-9e27-4739-96a5-ddb4a84393ec</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, un sello.</question>
+    <answer>Дайте мне, пожалуйста, марку.</answer>
+    <comment></comment>
+    <uuid>32877c0a-a11e-4c4a-a801-cbb65e00f350</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, un impreso para telegramas.</question>
+    <answer>Дайте мне, пожалуйста, бланк телеграммы.</answer>
+    <comment></comment>
+    <uuid>88b56923-74c9-403b-84c9-7f8ad9d74c77</uuid>
+  </card>
+  <card>
+    <question>Quisiera enviar una carta sertificada.</question>
+    <answer>Я хотел(а) бы отправить заказное письмо.</answer>
+    <comment></comment>
+    <uuid>c3a4c5fa-bc7f-4ed9-a874-b3f0daef3983</uuid>
+  </card>
+  <card>
+    <question>Quisiera enviar un paquete postal.</question>
+    <answer>Я хотел(а) бы отправить посылку (бандероль).</answer>
+    <comment></comment>
+    <uuid>d01e8848-7443-4aa2-8afc-aac6696a0983</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale el franqueo para enviar una carta a Rusia?</question>
+    <answer>Сколько стоит марка (franqueo) для письма в Россию?</answer>
+    <comment></comment>
+    <uuid>59ff3eb2-f512-41a2-9309-5dd7332d9fe7</uuid>
+  </card>
+  <card>
+    <question>Quisiera enviar un telegrama urgente a Moscú.</question>
+    <answer>Я хочу послать срочную телеграму в Москву. (=Я хотел(а) бы)</answer>
+    <comment></comment>
+    <uuid>d41d87fe-5357-47e2-a023-54b61ca124f1</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto es?</question>
+    <answer>Сколько с меня?</answer>
+    <comment></comment>
+    <uuid>85f73b7d-3c3e-4c8a-87c3-79594c684c6e</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo llegará?</question>
+    <answer>Когда он(а) придёт?</answer>
+    <comment></comment>
+    <uuid>9b83d9d2-46d2-462d-997f-d3fd8be2d913</uuid>
+  </card>
+  <card>
+    <question>¿Dónde están los apartados de correos?</question>
+    <answer>Где я могу получить письмо до востребования? (=Где отдел писем до востребования?)</answer>
+    <comment></comment>
+    <uuid>955942ab-4492-47c7-b480-08db4f1495a7</uuid>
+  </card>
+  <card>
+    <question>¿Hay alguna carta para mí?</question>
+    <answer>Есть ли письмо для меня? (=Есть какое-нибудь письмо для меня?)</answer>
+    <comment></comment>
+    <uuid>1271b4f0-b4d4-4661-9cf8-1dd44da90694</uuid>
+  </card>
+  <card>
+    <question>Aquí tiene mi pasaporte.</question>
+    <answer>Вот мой паспорт. (=Здесь держите ...)</answer>
+    <comment></comment>
+    <uuid>075d16f1-5640-42a4-8499-f668f76073e6</uuid>
+  </card>
+  <card>
+    <question>Por favor, envíe mis cartas a la siguiente dirección.</question>
+    <answer>Перешлите, пожалуйста, мои письма по (следующему) адресу.</answer>
+    <comment></comment>
+    <uuid>475db805-17ea-44b1-aa0f-516d65991686</uuid>
+  </card>
+  <card>
+    <question>La oficina de correos próxima se encuentra ...</question>
+    <answer>Ближайшая почта находится ...</answer>
+    <comment></comment>
+    <uuid>eaef34f3-ccc6-4028-b27a-3f6a24a1dd1e</uuid>
+  </card>
+  <card>
+    <question>La oficina de correos está abierta de ... a ...</question>
+    <answer>Почта работает (открыта) с ... до ...</answer>
+    <comment></comment>
+    <uuid>0f92a81e-0dca-4c9d-8bf6-d1a516630365</uuid>
+  </card>
+  <card>
+    <question>¿Desea despachar una carta?</question>
+    <answer>Вы хотите отправить письмо?</answer>
+    <comment></comment>
+    <uuid>8977927f-c92a-4c2f-bf8f-f8b39b608eb2</uuid>
+  </card>
+  <card>
+    <question>¿Desea poner un telegrama?</question>
+    <answer>Вы хотите отправить телеграму?</answer>
+    <comment></comment>
+    <uuid>39b76d21-0b50-4f45-b618-ad42e43099b1</uuid>
+  </card>
+  <card>
+    <question>¿Desea enviar un paquete postal?</question>
+    <answer>Вы хотите отправить бандероль?</answer>
+    <comment></comment>
+    <uuid>a26a80ea-6f0b-40ea-b231-b09a8fbe3f92</uuid>
+  </card>
+  <card>
+    <question>¿Le ayudo a rellenar el impreso?</question>
+    <answer>Вам помочь заполнить бланк?</answer>
+    <comment></comment>
+    <uuid>d0094104-3c78-4438-8871-940171e5ba9e</uuid>
+  </card>
+  <card>
+    <question>El impreso se llena con letra latina.</question>
+    <answer>Бланк заполняется латинскими буквами.</answer>
+    <comment></comment>
+    <uuid>fcd97aa8-f599-4b74-905d-18b2b8add31e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede recibir las cartas a lista de correo?</question>
+    <answer>Где можно получить письма до востребования?</answer>
+    <comment></comment>
+    <uuid>399b6460-e502-4beb-9bc8-0c5cb3c60d52</uuid>
+  </card>
+  <card>
+    <question>Le ha llegado un giro.</question>
+    <answer>На ваше имя пришел почтовый перевод. (=Вам пришёл ...)</answer>
+    <comment></comment>
+    <uuid>0fa4f52c-f8e2-4b0d-ac97-a0fb9777c8ab</uuid>
+  </card>
+  <card>
+    <question>El paquete postal puede despacharlo aquí.</question>
+    <answer>Бандероль можно отправить (её) здесь.</answer>
+    <comment></comment>
+    <uuid>753c558c-50ee-4310-ba0c-84f20852445b</uuid>
+  </card>
+  <card>
+    <question>El telegrama llegará dentro de ... horas.</question>
+    <answer>Телеграма придёт через ... часов.</answer>
+    <comment></comment>
+    <uuid>15e3d927-eb1d-4b13-b234-301b857755eb</uuid>
+  </card>
+  <card>
+    <question>Hay cartas para usted.</question>
+    <answer>Для вас есть письма. (=Есть письма для Вас.)</answer>
+    <comment></comment>
+    <uuid>bcba0a7b-fa72-4bcc-9310-f58ba11d2a5b</uuid>
+  </card>
+  <card>
+    <question>Las cartas a lista de correo puede recibirlas aquí.</question>
+    <answer>Письма до востребования можете получить (их) здесь.</answer>
+    <comment></comment>
+    <uuid>c479aaf5-de83-4527-9274-7f6ffc953b59</uuid>
+  </card>
+  <card>
+    <question>El sello de una carta al extranjero cuesta ...</question>
+    <answer>Марка для международного письма стоит ...</answer>
+    <comment></comment>
+    <uuid>2a6c58bb-34f1-4afc-ba59-347aee6868ee</uuid>
+  </card>
+  <card>
+    <question>Puede enviar un telegrama con respuesta pagada.</question>
+    <answer>Вы можете послать телеграмму с оплаченным ответом.</answer>
+    <comment></comment>
+    <uuid>70afd944-9f63-4b52-b75d-b31f92cbfdb1</uuid>
+  </card>
+</cards>
+</stack>

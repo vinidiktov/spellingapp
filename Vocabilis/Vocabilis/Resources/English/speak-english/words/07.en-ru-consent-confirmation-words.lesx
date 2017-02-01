@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>27a61a91-41c5-4e82-b220-5ef6b4c312e3</uuid>
+  <title>Согласие, Подтверждение :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>use</question>
+    <answer>использовать</answer>
+    <comment>![juːz]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>037eebff-4c1e-4482-b6df-c9349d70c3bf</uuid>
+    <examples>
+       <example>
+          <value>to make use of something</value>
+          <translation>воспользоваться чем-либо</translation>
+          <comment>to make use of - воспользоваться, make - делать, use - использование, something - что-либо</comment>
+       </example>
+       <example>
+          <value>to use your telephone</value>
+          <translation>воспользоваться вашим телефоном</translation>
+          <comment>to use - использовать, your - твой, ваш, telephone - телефон</comment>
+       </example>
+       <example>
+          <value>to use this credit card for the payment</value>
+          <translation>использовать эту кредитную карту для оплаты</translation>
+          <comment>to use - использовать, this - этот, эта, credit - кредитный, card - карта, payment - платеж</comment>
+       </example>
+       <example>
+          <value>for external use only</value>
+          <translation>лекарство только для наружного применения</translation>
+          <comment>external - внешний, use - применение, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sure</question>
+    <answer>уверенный</answer>
+    <comment>[ʃʊr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>93e5ebf6-b6b7-4e95-b994-655cb3f34e04</uuid>
+    <examples>
+       <example>
+          <value>to be sure of it</value>
+          <translation>быть в этом уверенным</translation>
+          <comment>sure - уверенный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>helpful</question>
+    <answer>полезный</answer>
+    <comment>[ˈhelpfəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb13f10a-b548-444f-869f-c8f1b6dcef18</uuid>
+    <examples>
+       <example>
+          <value>a helpful suggestion</value>
+          <translation>полезное предложение</translation>
+          <comment>helpful - полезный, suggestion - предложение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>absolutely</question>
+    <answer>абсолютно</answer>
+    <comment>[ˌæbsəˈluːtliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ce4cf607-f2ac-4fb5-8225-80f4505cafaa</uuid>
+    <examples>
+       <example>
+          <value>absolutely certain</value>
+          <translation>абсолютно уверенный</translation>
+          <comment>absolutely - абсолютно, certain - уверенный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>certain</question>
+    <answer>уверенный</answer>
+    <comment>[ˈsɜːrtn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c8f8e5ca-2235-40f8-9aef-b920bc646272</uuid>
+    <examples>
+       <example>
+          <value>absolutely certain</value>
+          <translation>абсолютно уверенный</translation>
+          <comment>absolutely - абсолютно, certain - уверенный</comment>
+       </example>
+       <example>
+          <value>to be certain of something</value>
+          <translation>быть в чем-либо уверенным</translation>
+          <comment>certain - уверенный, something - что-либо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clear</question>
+    <answer>ясный</answer>
+    <comment>[klɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2a93aba9-6a21-44e0-b9d0-4fc8727d33cf</uuid>
+    <examples>
+       <example>
+          <value>clear instructions</value>
+          <translation>ясные (понятные) инструкции</translation>
+          <comment>clear - ясный, понятный, instruction - инструкция</comment>
+       </example>
+       <example>
+          <value>a clear sky</value>
+          <translation>ясное небо</translation>
+          <comment>clear - ясный, sky - небо</comment>
+       </example>
+       <example>
+          <value>to get clearer</value>
+          <translation>проясняться</translation>
+          <comment>to get - становиться, clearer - яснее, clear - ясный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>instruction</question>
+    <answer>инструкция</answer>
+    <comment>[ɪnˈstrʌkʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf2c2649-7a1f-4c3f-a8e9-9ce6960c1171</uuid>
+    <examples>
+       <example>
+          <value>clear instructions</value>
+          <translation>ясные (понятные) инструкции</translation>
+          <comment>clear - ясный, понятный, instruction - инструкция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>idea</question>
+    <answer>идея</answer>
+    <comment>[аɪˈdɪə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9af64cd2-b48c-4bd8-a8f3-b3fea8c703fc</uuid>
+    <examples>
+       <example>
+          <value>a good idea</value>
+          <translation>хорошая идея</translation>
+          <comment>good - хороший, idea - идея</comment>
+       </example>
+       <example>
+          <value>to have no idea</value>
+          <translation>не иметь понятия</translation>
+          <comment>to have - иметь, idea - мысль, идея</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>against</question>
+    <answer>против</answer>
+    <comment>[əˈgenst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>775c72e4-8db6-48c9-a958-4228592e2c65</uuid>
+    <examples>
+       <example>
+          <value>to be against it</value>
+          <translation>быть против этого</translation>
+          <comment>against - против, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>reason</question>
+    <answer>причина</answer>
+    <comment>[ˈriːzən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0d84d2a7-9de9-44ab-9361-8d9e376778cd</uuid>
+    <examples>
+       <example>
+          <value>to stand to reason</value>
+          <translation>быть само собой разумеющимся</translation>
+          <comment>to stand - стоять, reason - причина, основание</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>doubt</question>
+    <answer>сомневаться</answer>
+    <comment>[dаʊt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d95af53d-5abd-4e6f-a244-7aade0c7f7c0</uuid>
+    <examples>
+       <example>
+          <value>to doubt it</value>
+          <translation>сомневаться в этом</translation>
+          <comment>to doubt - сомневаться в, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>something</question>
+    <answer>что-либо</answer>
+    <comment>[ˈsʌmθɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3a6f9622-b1b1-4dec-b2e1-c37fe8de589b</uuid>
+    <examples>
+       <example>
+          <value>to make use of something</value>
+          <translation>воспользоваться чем-либо</translation>
+          <comment>to make use of - воспользоваться, make - делать, use - использование, something - что-либо</comment>
+       </example>
+       <example>
+          <value>to be certain of something</value>
+          <translation>быть в чем-либо уверенным</translation>
+          <comment>certain - уверенный, something - что-либо</comment>
+       </example>
+       <example>
+          <value>to be wrong about something</value>
+          <translation>ошибаться в чем-либо</translation>
+          <comment>wrong - неправильный, ошибочный, something - что-либо</comment>
+       </example>
+       <example>
+          <value>to feel like eating something</value>
+          <translation>хотеть съесть что-нибудь</translation>
+          <comment>to feel like - хотеть, something - что-нибудь, to eat - есть, кушать</comment>
+       </example>
+       <example>
+          <value>to give something to drink</value>
+          <translation>дать что-нибудь попить</translation>
+          <comment>to give - дать, something - что-либо, to drink - пить</comment>
+       </example>
+       <example>
+          <value>Something is wrong with my car.</value>
+          <translation>В машине что-то забарахлило.</translation>
+          <comment>something - что-то, wrong - неисправный, car - машина</comment>
+       </example>
+       <example>
+          <value>to show something else</value>
+          <translation>показать что-нибудь другое</translation>
+          <comment>to show - показать, something - что-нибудь, else - еще</comment>
+       </example>
+       <example>
+          <value>to want something for a gift</value>
+          <translation>хотеть что-нибудь в качестве подарка</translation>
+          <comment>to want - хотеть, something - что-нибудь, gift - подарок</comment>
+       </example>
+       <example>
+          <value>something for insect bites</value>
+          <translation>что-нибудь от укусов насекомых</translation>
+          <comment>something - что-нибудь, insect - насекомое, bite - укус</comment>
+       </example>
+       <example>
+          <value>something for nausea</value>
+          <translation>что-нибудь от тошноты</translation>
+          <comment>something - что-нибудь, nausea - тошнота</comment>
+       </example>
+       <example>
+          <value>something for sunburn</value>
+          <translation>что-нибудь от солнечного ожога</translation>
+          <comment>something - что-нибудь, sunburn - солнечный ожог</comment>
+       </example>
+       <example>
+          <value>something for travel sickness</value>
+          <translation>что-нибудь от морской болезни</translation>
+          <comment>something - что-нибудь, travel - путешествие, sickness - болезнь</comment>
+       </example>
+       <example>
+          <value>something for upset stomach</value>
+          <translation>что-нибудь от расстройства желудка</translation>
+          <comment>something - что-нибудь, upset - растроенный, stomach - желудок</comment>
+       </example>
+       <example>
+          <value>to give something for a cold</value>
+          <translation>давать что-нибудь от насморка</translation>
+          <comment>to give - давать, something - что-нибудь, cold - простуда</comment>
+       </example>
+       <example>
+          <value>to give something for a cough</value>
+          <translation>давать что-нибудь от кашля</translation>
+          <comment>to give - давать, something - что-нибудь, cough - кашель</comment>
+       </example>
+       <example>
+          <value>to give something for a headache</value>
+          <translation>давать что-нибудь от головной боли</translation>
+          <comment>to give - давать, something - что-нибудь, headache - головная боль</comment>
+       </example>
+       <example>
+          <value>to give something for stomach aches</value>
+          <translation>давать что-нибудь от болей в желудке</translation>
+          <comment>to give - давать, something - что-нибудь, stomach - желудок, ache - боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>suggestion</question>
+    <answer>предложение</answer>
+    <comment>[səgˈʤesʧən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2f0d0346-c2dc-4f04-954f-d459c8b1144c</uuid>
+    <examples>
+       <example>
+          <value>a helpful suggestion</value>
+          <translation>полезное предложение</translation>
+          <comment>helpful - полезный, suggestion - предложение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>suit</question>
+    <answer>костюм</answer>
+    <comment>[suːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1e31caae-1edd-44e0-9c46-41fa94be1a6e</uuid>
+    <examples>
+       <example>
+          <value>to suit you</value>
+          <translation>устраивать вас, подходить вам</translation>
+          <comment>to suit - подходить, устраивать</comment>
+       </example>
+       <example>
+          <value>to have my suit cleaned</value>
+          <translation>отдать в чистку костюм</translation>
+          <comment>to have - иметь, suit - костюм, cleaned - очищенный, to clean - очищать</comment>
+       </example>
+       <example>
+          <value>a swimming suit</value>
+          <translation>купальник</translation>
+          <comment>swimming - плаванье, suit - костюм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>answer</question>
+    <answer>ответ</answer>
+    <comment>[ˈænsər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5e4b47de-1a35-4ac3-aba7-661f7c35dacb</uuid>
+    <examples>
+       <example>
+          <value>the correct answer</value>
+          <translation>правильный (right) ответ</translation>
+          <comment>correct - правильный, корректный, answer - ответ</comment>
+       </example>
+       <example>
+          <value>the right answer</value>
+          <translation>правильный (correct) ответ</translation>
+          <comment>right - правильный, answer - ответ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>opinion</question>
+    <answer>мнение</answer>
+    <comment>[əˈpɪnjən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3a6a056f-c1cc-49f8-a21d-87324ccad3f1</uuid>
+    <examples>
+       <example>
+          <value>the same opinion</value>
+          <translation>такое же мнение</translation>
+          <comment>the same - тот же самый, opinion - мнение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>story</question>
+    <answer>история</answer>
+    <comment>[ˈstɔːriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5fc36d0-c8df-49ed-96c1-34e1163e3bb8</uuid>
+    <examples>
+       <example>
+          <value>a true story</value>
+          <translation>правдивая история</translation>
+          <comment>true - правдивый, story - история</comment>
+       </example>
+       <example>
+          <value>a love story</value>
+          <translation>любовная история</translation>
+          <comment>love - любовь, story - история</comment>
+       </example>
+       <example>
+          <value>to see a love story</value>
+          <translation>посмотреть любовную историю</translation>
+          <comment>to see - видеть, love - любовь, story - история</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>true</question>
+    <answer>правдивый</answer>
+    <comment>[truː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>86224dc8-7a26-4a93-8b84-da896f716f58</uuid>
+    <examples>
+       <example>
+          <value>a true story</value>
+          <translation>правдивая история</translation>
+          <comment>true - правдивый, story - история</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>correct</question>
+    <answer>правильный</answer>
+    <comment>[kəˈrekt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c3963c89-528a-4597-afd4-737c96d0bb6b</uuid>
+    <examples>
+       <example>
+          <value>the correct answer</value>
+          <translation>правильный (right) ответ</translation>
+          <comment>correct - правильный, корректный, answer - ответ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stand</question>
+    <answer>стоять</answer>
+    <comment>[stænd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>592bcf24-9087-42cf-b4f2-fb07047e77b0</uuid>
+    <examples>
+       <example>
+          <value>to stand to reason</value>
+          <translation>быть само собой разумеющимся</translation>
+          <comment>to stand - стоять, reason - причина, основание</comment>
+       </example>
+       <example>
+          <value>a taxi stand</value>
+          <translation>стоянка такси</translation>
+          <comment>taxi - такси, stand - стоянка</comment>
+       </example>
+       <example>
+          <value>to stand cold well</value>
+          <translation>хорошо переносить холод</translation>
+          <comment>to stand - переносить, выдерживать, cold - холод, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to stand heat badly</value>
+          <translation>хорошо переносить жару</translation>
+          <comment>to stand - переносить, выдерживать, heat - жар, badly - плохо</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

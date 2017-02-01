@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0feec0d0-363b-486c-8f91-f475d883b588</uuid>
+  <title>Покупки :: Книги, журналы, газеты :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>22</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde está la librería más próxima?</question>
+    <answer>Где ближайший книжный магазин?</answer>
+    <comment></comment>
+    <uuid>b61ada18-db00-4b8c-b0eb-c1a89360d161</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el puesto de periódicos más próximo?</question>
+    <answer>Где ближайший газетный киоск?</answer>
+    <comment></comment>
+    <uuid>5926ee3a-9de9-4c80-98fc-c79397587b90</uuid>
+  </card>
+  <card>
+    <question>Deme un plano de la ciudad.</question>
+    <answer>Дайте мне план города.</answer>
+    <comment></comment>
+    <uuid>295fdf27-24e1-4ec4-94f8-91a290887928</uuid>
+  </card>
+  <card>
+    <question>Deme una guía de la ciudad.</question>
+    <answer>Дайте мне путеводитель по городу.</answer>
+    <comment></comment>
+    <uuid>3cc3b641-d091-45a5-b4fb-2f4e8a80c90f</uuid>
+  </card>
+  <card>
+    <question>Deme el libro ...</question>
+    <answer>Дайте мне книгу ...</answer>
+    <comment></comment>
+    <uuid>17b21559-8bf6-4f60-b247-8ebd6add6f0c</uuid>
+  </card>
+  <card>
+    <question>Deme postales.</question>
+    <answer>Дайте мне открытки.</answer>
+    <comment></comment>
+    <uuid>68884872-cd5b-479d-82b9-9f67e992c912</uuid>
+  </card>
+  <card>
+    <question>Deme diapositivas.</question>
+    <answer>Дайте мне диапозитивы.</answer>
+    <comment></comment>
+    <uuid>ff05b965-dde6-4ba7-8b83-2e87d0bcab07</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes planos de Madrid?</question>
+    <answer>У вас (мн.ч.) есть карта Мадрида? (=планы Мадрида)</answer>
+    <comment></comment>
+    <uuid>072b8bcf-13e4-4748-a45f-1a3f9f777269</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes planos de Barcelona?</question>
+    <answer>У вас (мн.ч.) есть карта Барселоны? (=планы Барселоны)</answer>
+    <comment></comment>
+    <uuid>af97fd1d-7543-406c-b647-6de8bdc8f538</uuid>
+  </card>
+  <card>
+    <question>Necesito postales con vistas de ...</question>
+    <answer>Мне нужны открытки с видами ...</answer>
+    <comment></comment>
+    <uuid>89d5356e-ab57-4ac4-9c04-13b7ae25a371</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de libros de medicina?</question>
+    <answer>Где отдел книг по медицине?</answer>
+    <comment></comment>
+    <uuid>416ad5d3-2276-4b72-a817-9d57c907a311</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de libros de arte?</question>
+    <answer>Где отдел книг по искусству?</answer>
+    <comment></comment>
+    <uuid>2f6b5529-8f9e-4f60-a551-a64f876d25f9</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la sección de libros técnicos?</question>
+    <answer>Где отдел технической книги?</answer>
+    <comment></comment>
+    <uuid>16553620-c703-4ab4-a11c-71c4e3dd0ab6</uuid>
+  </card>
+  <card>
+    <question>Me interesaría ver libros de literatura contemporánea.</question>
+    <answer>Меня интересует современная литература. (=Мне интересно было бы посмотреть книги по ...)</answer>
+    <comment></comment>
+    <uuid>590ee253-0fc7-48c6-b300-a614b4e538a4</uuid>
+  </card>
+  <card>
+    <question>Me interesaría ver libros de poesía.</question>
+    <answer>Меня интересует поэзия. (=Мне интересно было бы посмотреть книги по ...)</answer>
+    <comment></comment>
+    <uuid>97880824-2247-4a27-8042-61af28f2f733</uuid>
+  </card>
+  <card>
+    <question>Me interesaría ver libros de literatura clásica española.</question>
+    <answer>Меня интересуют произведения испанских классиков. (=Мне интересно было бы посмотреть книги по литературе классической ...)</answer>
+    <comment></comment>
+    <uuid>2d83b02e-5515-4852-b9dd-0dbeafbbd611</uuid>
+  </card>
+  <card>
+    <question>Me interesaría ver diccionarios.</question>
+    <answer>Меня интересуют словари. (=Мне интересно было бы посмотреть словари.)</answer>
+    <comment></comment>
+    <uuid>0e320ed6-95ac-482e-a85c-bb8cc6dc6700</uuid>
+  </card>
+  <card>
+    <question>Me interesaría ver manuales de lengua ...</question>
+    <answer>Меня интересуют учебники по ... языку. (=Мне интересно было бы посмотреть ...)</answer>
+    <comment></comment>
+    <uuid>e402ebee-4bf4-40d7-a827-5e4aa79c03db</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes cassettes para el estudio de la lengua española?</question>
+    <answer>У вас (мн.ч.) есть кассеты для изучения испанского языка?</answer>
+    <comment></comment>
+    <uuid>1021a336-6eb9-4ca9-b7d1-ca632dc6f132</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes cassettes para el estudio de la lengua inglesa?</question>
+    <answer>У вас (мн.ч.) есть кассеты для изучения английского языка?</answer>
+    <comment></comment>
+    <uuid>5ceaaa2c-0681-4205-bf98-cd159cd08fa6</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes libros de escritores rusos en lengua rusa?</question>
+    <answer>У вас (мн.ч.) есть книги руских писателей на русском языке?</answer>
+    <comment></comment>
+    <uuid>a207e958-3b27-4f8b-8596-2b458fdebcae</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay una tienda de libros de segunda mano?</question>
+    <answer>Где (есть) букинистический магазин?</answer>
+    <comment></comment>
+    <uuid>2f2c1e64-5b21-4714-8002-04c5f2b09fea</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes periódicos en ruso?</question>
+    <answer>У вас (мн.ч.) есть газеты на русском языке?</answer>
+    <comment></comment>
+    <uuid>b58d11a6-0d82-4041-811e-ffc4ef1239a6</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes revistas en ruso?</question>
+    <answer>У вас (мн.ч.) есть журналы на русском языке?</answer>
+    <comment></comment>
+    <uuid>0e97dc11-52a0-446d-988a-fc3914058a18</uuid>
+  </card>
+  <card>
+    <question>Deme este periódico.</question>
+    <answer>Дайте мне эту газету.</answer>
+    <comment></comment>
+    <uuid>0b44a329-fbaf-4bdf-a8ae-102720d3db1f</uuid>
+  </card>
+  <card>
+    <question>Deme esta revista.</question>
+    <answer>Дайте мне этот журнал.</answer>
+    <comment></comment>
+    <uuid>61e1dce7-9e7c-4ae6-aa20-880ab56ea3aa</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto es?</question>
+    <answer>Сколько стоит?</answer>
+    <comment></comment>
+    <uuid>6b31112c-f671-4096-96ac-00e5bc98035c</uuid>
+  </card>
+  <card>
+    <question>¿Quiere ver un álbum de reproducciones?</question>
+    <answer>Вы хотите посмотреть альбом репродукций?</answer>
+    <comment></comment>
+    <uuid>45d260f2-3007-46a0-b18c-b850bce9fb92</uuid>
+  </card>
+  <card>
+    <question>¿Quiere ver una collección de sellos?</question>
+    <answer>Вы хотите посмотреть коллекцию марок?</answer>
+    <comment></comment>
+    <uuid>f37b7136-f945-4689-a97f-46fed4671fcd</uuid>
+  </card>
+  <card>
+    <question>¿Quiere ver una collección de postales?</question>
+    <answer>Вы хотите посмотреть коллекцию открыток?</answer>
+    <comment></comment>
+    <uuid>545d5efb-8dff-4b6c-8582-4d7416387657</uuid>
+  </card>
+  <card>
+    <question>¿Quiere ver una revista de modas?</question>
+    <answer>Вы хотите посмотреть журнал мод?</answer>
+    <comment></comment>
+    <uuid>deede9ed-f885-49d2-9c3f-c8325625926d</uuid>
+  </card>
+  <card>
+    <question>¿Quiere ver este libro?</question>
+    <answer>Вы хотите посмотреть эту книгу?</answer>
+    <comment></comment>
+    <uuid>72d845c5-5b82-43d4-b08a-1ccaf1c7f418</uuid>
+  </card>
+  <card>
+    <question>Necesito el último número.</question>
+    <answer>Мне нужен последний номер.</answer>
+    <comment></comment>
+    <uuid>57a8c577-2040-47d2-b0fa-648c5576cc73</uuid>
+  </card>
+  <card>
+    <question>¿Qué libros en español le interesan?</question>
+    <answer>Какие книги на испанском языке Вас интересуют?</answer>
+    <comment></comment>
+    <uuid>7b269b19-af94-4725-8c79-fb0788008356</uuid>
+  </card>
+  <card>
+    <question>¿Qué libros en inglés le interesan?</question>
+    <answer>Какие книги на английском языке Вас интересуют?</answer>
+    <comment></comment>
+    <uuid>30e675bb-1b7c-492c-be55-9c0aed37f32d</uuid>
+  </card>
+  <card>
+    <question>¿Le interesa la poesía rusa?</question>
+    <answer>Вас интересует русская поэзия?</answer>
+    <comment></comment>
+    <uuid>6b0850a6-23ae-4d53-ae9e-cb484bf23b41</uuid>
+  </card>
+  <card>
+    <question>¿Le interesa la prosa rusa?</question>
+    <answer>Вас интересует русская проза?</answer>
+    <comment></comment>
+    <uuid>ea26ded4-feea-4c83-9829-5a3096e2321a</uuid>
+  </card>
+  <card>
+    <question>¿Quién es su escritor predilecto?</question>
+    <answer>Кто Ваш любимый писатель?</answer>
+    <comment></comment>
+    <uuid>dd2f52ed-4bc2-4886-b1a9-06a75e4fffc8</uuid>
+  </card>
+  <card>
+    <question>¿Quién es tu escritor predilecto?</question>
+    <answer>Кто твой любимый писатель?</answer>
+    <comment></comment>
+    <uuid>45d6f83d-8405-45a9-b707-b16cd94d1fb9</uuid>
+  </card>
+  <card>
+    <question>Me interesan obras clásicas.</question>
+    <answer>Меня интересуют произведения классиков.</answer>
+    <comment></comment>
+    <uuid>ef0df0a1-ed41-4d37-a2ea-2a2e14e6ec9c</uuid>
+  </card>
+  <card>
+    <question>Me interesa la prosa moderna.</question>
+    <answer>Меня интересует современная проза.</answer>
+    <comment></comment>
+    <uuid>36f27c04-1fca-4ccb-ad3e-4b4164723818</uuid>
+  </card>
+  <card>
+    <question>Me interesa la poesía.</question>
+    <answer>Меня интересует поэзия.</answer>
+    <comment></comment>
+    <uuid>ae45f392-a88a-4d59-8785-c31d8ca9487c</uuid>
+  </card>
+  <card>
+    <question>Me interesan manuales de ...</question>
+    <answer>Меня интересуют учебники ... языка.</answer>
+    <comment></comment>
+    <uuid>8bfc8034-0184-4d21-9e0e-fb93d12c0ffd</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>14164483-b4f9-45e3-8e56-6550c9a1dccb</uuid>
+  <title>Инструменты</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el arte</question>
+    <answer>искусство</answer>
+    <comment></comment>
+    <uuid>da9f1c2e-97b9-4030-9225-fd82ce51b8c4</uuid>
+  </card>
+  <card>
+    <question>el hacha</question>
+    <answer>топор</answer>
+    <comment></comment>
+    <uuid>2aadbd07-d662-4738-81ca-41ccc0b86d79</uuid>
+  </card>
+  <card>
+    <question>el bar</question>
+    <answer>бар</answer>
+    <comment></comment>
+    <uuid>89ba9a51-f941-4add-a568-c5f77d2e5f81</uuid>
+  </card>
+  <card>
+    <question>el sitio de la construcción</question>
+    <answer>стройка, стройплощадка</answer>
+    <comment></comment>
+    <uuid>e277f7ef-02b9-48f5-925f-9a7736910dcb</uuid>
+  </card>
+  <card>
+    <question>la taladradora</question>
+    <answer>дрель</answer>
+    <comment></comment>
+    <uuid>5d61eefe-8fac-46f1-a041-b890481a29af</uuid>
+  </card>
+  <card>
+    <question>el extintor</question>
+    <answer>огнетушитель</answer>
+    <comment></comment>
+    <uuid>a8070b10-1ea0-4494-9737-d48e5d172311</uuid>
+  </card>
+  <card>
+    <question>la linterna</question>
+    <answer>фонарик</answer>
+    <comment></comment>
+    <uuid>fc5649d6-5243-44cc-a16a-48a74864d9b3</uuid>
+  </card>
+  <card>
+    <question>el martillo</question>
+    <answer>молоток</answer>
+    <comment></comment>
+    <uuid>93378961-8861-4aa7-acdc-158143c50ef5</uuid>
+  </card>
+  <card>
+    <question>la bisagra</question>
+    <answer>петля (дверная)</answer>
+    <comment></comment>
+    <uuid>b3b140b0-e8a3-4859-9d6b-75822fa1749a</uuid>
+  </card>
+  <card>
+    <question>la manguera</question>
+    <answer>шланг</answer>
+    <comment></comment>
+    <uuid>ef75d767-9613-485f-a153-dbed0c42e0b5</uuid>
+  </card>
+  <card>
+    <question>el cuchillo</question>
+    <answer>нож</answer>
+    <comment></comment>
+    <uuid>2c50dfcd-3704-4e03-8a38-2e8f4e949c4a</uuid>
+  </card>
+  <card>
+    <question>la escalera</question>
+    <answer>лестница</answer>
+    <comment></comment>
+    <uuid>8f1acb93-eeee-48f7-8902-a7ad0afb8c67</uuid>
+  </card>
+  <card>
+    <question>el encendedor</question>
+    <answer>зажигалка</answer>
+    <comment></comment>
+    <uuid>6838da3f-9370-4f26-9ae0-87e50f34a2f8</uuid>
+  </card>
+  <card>
+    <question>la cinta métrica</question>
+    <answer>мерная лента</answer>
+    <comment></comment>
+    <uuid>b7b1641d-1208-462c-aa20-0c3dbd2b951c</uuid>
+  </card>
+  <card>
+    <question>la medicina</question>
+    <answer>медицина</answer>
+    <comment></comment>
+    <uuid>eabe0943-a81d-41a7-9165-7712761c8ce5</uuid>
+  </card>
+  <card>
+    <question>las tenazas</question>
+    <answer>клещи, щипцы</answer>
+    <comment></comment>
+    <uuid>846ee2e2-14c8-47b6-bad0-5aaeaa9738e0</uuid>
+  </card>
+  <card>
+    <question>los alicates</question>
+    <answer>плоскогубцы</answer>
+    <comment></comment>
+    <uuid>b6555af0-b564-497e-a541-03e2d7cb43d6</uuid>
+  </card>
+  <card>
+    <question>la cuerda</question>
+    <answer>верёвка</answer>
+    <comment></comment>
+    <uuid>87470967-ac8a-44fe-ad70-214d0be04b05</uuid>
+  </card>
+  <card>
+    <question>la sierra</question>
+    <answer>пила (инструмент)</answer>
+    <comment></comment>
+    <uuid>48614c32-d2ce-409f-adc1-f0c65bfece79</uuid>
+  </card>
+  <card>
+    <question>la balanza</question>
+    <answer>весы</answer>
+    <comment></comment>
+    <uuid>cc6d253c-b43f-4f57-8fe7-ce2a6ec26e94</uuid>
+  </card>
+  <card>
+    <question>el destornillador</question>
+    <answer>отвёртка</answer>
+    <comment></comment>
+    <uuid>a129ded5-dc90-4274-af94-0267837feb51</uuid>
+  </card>
+  <card>
+    <question>esculpir</question>
+    <answer>ваять, лепить, высекать</answer>
+    <comment></comment>
+    <uuid>8d25dcab-f373-4cce-8ccb-b0b5f6bf3502</uuid>
+  </card>
+  <card>
+    <question>la escuadra</question>
+    <answer>угольник</answer>
+    <comment></comment>
+    <uuid>029cfa01-f468-47a6-a581-3204df8ed808</uuid>
+  </card>
+  <card>
+    <question>la cinta métrica</question>
+    <answer>рулетка, мерная лента</answer>
+    <comment></comment>
+    <uuid>50daa3dc-abbd-4d67-8c58-0a8c9b50f8cd</uuid>
+  </card>
+  <card>
+    <question>la caja de herramientas</question>
+    <answer>инструментальный ящик</answer>
+    <comment></comment>
+    <uuid>4dfbc834-4357-4946-b7ec-43e546cb4273</uuid>
+  </card>
+  <card>
+    <question>la carretilla</question>
+    <answer>тачка</answer>
+    <comment></comment>
+    <uuid>f94d90fd-5d0f-4709-9c24-c98270c67bbe</uuid>
+  </card>
+  <card>
+    <question>la llave inglesa</question>
+    <answer>гаечный ключ</answer>
+    <comment></comment>
+    <uuid>9de28a5a-c78c-44d6-976d-11e88edaef41</uuid>
+  </card>
+</cards>
+</stack>

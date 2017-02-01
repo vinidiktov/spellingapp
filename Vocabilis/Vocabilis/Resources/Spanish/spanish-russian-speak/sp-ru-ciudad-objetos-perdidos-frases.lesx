@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6e33fd8d-b95a-4cfc-9d13-3ce144bb846a</uuid>
+  <title>В городе :: Бюро находок :: Фразы</title>
+  <author>Морено Маньюэко</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>14</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde se encuentra la oficina de objetos perdidos?</question>
+    <answer>Где находится бюро находок?</answer>
+    <comment></comment>
+    <uuid>34b47dc3-c718-4d46-9eae-ddaa0d731a98</uuid>
+  </card>
+  <card>
+    <question>¿Cómo puedo telefonear a la oficina de objetos perdidos?</question>
+    <answer>Как можно (=я могу) позвонить в бюро находок?</answer>
+    <comment></comment>
+    <uuid>2c7adbbd-d9bf-4f3c-a67b-7c582638a2bd</uuid>
+  </card>
+  <card>
+    <question>He perdido el paraguas.</question>
+    <answer>Я потерял(а) зонтик.</answer>
+    <comment></comment>
+    <uuid>5b6e364c-750b-4b3b-8221-61f71fcf75a3</uuid>
+  </card>
+  <card>
+    <question>He perdido la cartera.</question>
+    <answer>Я потерял(а) бумажник.</answer>
+    <comment></comment>
+    <uuid>6568856e-d223-48b1-bd26-490d67afb5c1</uuid>
+  </card>
+  <card>
+    <question>He perdido el bolso.</question>
+    <answer>Я потерял(а) сумку.</answer>
+    <comment></comment>
+    <uuid>230aa6e1-611f-46b2-99f6-86016d4b80f7</uuid>
+  </card>
+  <card>
+    <question>He perdido los documentos y el dinero.</question>
+    <answer>Я потерял(а) документы и деньги.</answer>
+    <comment></comment>
+    <uuid>cb2a9a83-e9fa-42cc-9df3-cf0adf8ee949</uuid>
+  </card>
+  <card>
+    <question>He perdido la cámara de fotos.</question>
+    <answer>Я потерял(а) фотоаппарат.</answer>
+    <comment></comment>
+    <uuid>fd88f5d0-1a15-41fb-a3a5-1c3fa16c4c44</uuid>
+  </card>
+  <card>
+    <question>He olvidado el bolso en la estación.</question>
+    <answer>Я забыл(а) сумку на вокзале.</answer>
+    <comment></comment>
+    <uuid>d7aa08a3-657d-49c0-93e9-d4b0356ea9ec</uuid>
+  </card>
+  <card>
+    <question>He olvidado el bolso en el taxi.</question>
+    <answer>Я забыл(а) сумку в такси.</answer>
+    <comment></comment>
+    <uuid>80e13401-f8c2-46bc-aa95-865b0337290e</uuid>
+  </card>
+  <card>
+    <question>He olvidado el bolso en el autobús.</question>
+    <answer>Я забыл(а) сумку в автобусе.</answer>
+    <comment></comment>
+    <uuid>fbc66b57-0c1d-4e06-b2c5-5867bd9df7c2</uuid>
+  </card>
+  <card>
+    <question>He olvidado el bolso en el metro.</question>
+    <answer>Я забыл(а) сумку в метро.</answer>
+    <comment></comment>
+    <uuid>dc053121-1598-4f5f-8c34-7545c96134f8</uuid>
+  </card>
+  <card>
+    <question>He olvidado el paraguas en la estación.</question>
+    <answer>Я забыл(а) зонтик на вокзале.</answer>
+    <comment></comment>
+    <uuid>34d9e511-f351-43fc-a0f2-8f23bb0fde05</uuid>
+  </card>
+  <card>
+    <question>He olvidado el paraguas en el taxi.</question>
+    <answer>Я забыл(а) зонтик в такси.</answer>
+    <comment></comment>
+    <uuid>625ff05c-bf33-411f-b101-13f112a2f235</uuid>
+  </card>
+  <card>
+    <question>He olvidado el paraguas en el autobús.</question>
+    <answer>Я забыл(а) зонтик в автобусе.</answer>
+    <comment></comment>
+    <uuid>48198fa9-5a59-4bc7-802e-8902288f86d8</uuid>
+  </card>
+  <card>
+    <question>He olvidado el paraguas en el metro.</question>
+    <answer>Я забыл(а) зонтик в метро.</answer>
+    <comment></comment>
+    <uuid>9c6c5177-c0d5-4ecd-a271-7bfe82384ebe</uuid>
+  </card>
+  <card>
+    <question>Si lo encuentran, por favor, llámenme al teléfono ...</question>
+    <answer>Если вещь найдется, позвоните мне, пожалуйста, по телефону ... (=Если вы (мн.ч.) его/её найдете, ...)</answer>
+    <comment></comment>
+    <uuid>0f34bb5a-bb35-4900-889d-708be34f6744</uuid>
+  </card>
+  <card>
+    <question>¿Podría llamar a la oficina de objetos perdidos?</question>
+    <answer>Вы можете позвонить в бюро находок? (=Могли бы Вы ...)</answer>
+    <comment></comment>
+    <uuid>bc2ad21b-c062-4406-9b07-20ab293f6324</uuid>
+  </card>
+  <card>
+    <question>¿Qué llevaba en su maleta?</question>
+    <answer>Что было в вашем чемодане? (=Что вы несли...)</answer>
+    <comment></comment>
+    <uuid>73df3552-7d17-4d28-9f22-aade70789a0e</uuid>
+  </card>
+  <card>
+    <question>¿Qué llevaba en su bolso?</question>
+    <answer>Что было в вашей сумке? (=Что вы несли...)</answer>
+    <comment></comment>
+    <uuid>fe9f5cca-94eb-44a1-8661-140de355db48</uuid>
+  </card>
+  <card>
+    <question>¿De qué marca es su aparato?</question>
+    <answer>Какой марки ваш фотоаппарат?</answer>
+    <comment></comment>
+    <uuid>b6202984-66a4-4e75-b24f-599783b942eb</uuid>
+  </card>
+  <card>
+    <question>¿De qué color es su paraguas?</question>
+    <answer>Какого цвета ваш зонт?</answer>
+    <comment></comment>
+    <uuid>56ed3163-bf1d-4adc-b651-b4872e319999</uuid>
+  </card>
+  <card>
+    <question>¿De qué color es su gabardina?</question>
+    <answer>Какого цвета ваш плащ?</answer>
+    <comment></comment>
+    <uuid>e1f8750c-bda3-46c4-8e7d-dd50eda9c54c</uuid>
+  </card>
+  <card>
+    <question>¿De qué color es su abrigo?</question>
+    <answer>Какого цвета вашу пальто?</answer>
+    <comment></comment>
+    <uuid>b39b5442-6a4d-42a6-9825-17dc5eb7ed50</uuid>
+  </card>
+  <card>
+    <question>¿De qué color es su maleta?</question>
+    <answer>Какого цвета ваш чемодан?</answer>
+    <comment></comment>
+    <uuid>6afae9b9-be26-4a00-a720-2af0a47af34f</uuid>
+  </card>
+</cards>
+</stack>

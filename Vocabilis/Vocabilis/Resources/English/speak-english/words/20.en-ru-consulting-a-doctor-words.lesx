@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>09bb0cd4-20a5-47ec-9c6b-a90c18f5947b</uuid>
+  <title>У врача :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>heart</question>
+    <answer>сердце</answer>
+    <comment>[hɑːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ed45dbe5-f07f-4dc5-8067-95025f876ef1</uuid>
+    <examples>
+       <example>
+          <value>to have a heart trouble</value>
+          <translation>иметь боли в сердце</translation>
+          <comment>to have - иметь, heart - сердце, trouble - проблема</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stomachache</question>
+    <answer>боль в желудке</answer>
+    <comment>[ˈstʌmək eɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>270d9ff8-d7ba-406c-9fff-68e72e9d227f</uuid>
+    <examples>
+       <example>
+          <value>to have a stomachache</value>
+          <translation>иметь боли в желудке</translation>
+          <comment>to have - иметь, stomachache - боль в желудке</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>clinic</question>
+    <answer>клиника</answer>
+    <comment>[ˈklɪnɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa601c5b-5683-48c3-8b89-cc47cd8307e1</uuid>
+    <examples>
+       <example>
+          <value>the nearest clinic</value>
+          <translation>ближайшая поликлиника</translation>
+          <comment>the nearest - ближайший, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>a good dental clinic</value>
+          <translation>хорошая стоматология</translation>
+          <comment>good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>to recommend a good dental clinic</value>
+          <translation>порекомендовать хорошую стоматологию</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>appointment</question>
+    <answer>назначенная встреча</answer>
+    <comment>[əˈpɔɪntmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b9c2e56d-8879-4d6c-af2e-a4274684c3df</uuid>
+    <examples>
+       <example>
+          <value>to make an appointment with a doctor</value>
+          <translation>записаться к врачу</translation>
+          <comment>to make - сделать, appointment - условленная встреча, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to have an appointment</value>
+          <translation>записаться на прием</translation>
+          <comment>to have - иметь, appointment - назначенная встреча</comment>
+       </example>
+       <example>
+          <value>to make an appointment</value>
+          <translation>назначить встречу</translation>
+          <comment>to make - делать, appointment - назначенная встреча</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>toothache</question>
+    <answer>зубная боль</answer>
+    <comment>[ˈtuːθeɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>882feb95-689f-4c91-82ff-1ebaaae8ef27</uuid>
+    <examples>
+       <example>
+          <value>to have a toothache</value>
+          <translation>иметь зубную боль</translation>
+          <comment>to have - иметь, toothache - зубная боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pale</question>
+    <answer>бледный</answer>
+    <comment>[peɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cbc9009a-4b0d-48e3-9266-77a468848901</uuid>
+    <examples>
+       <example>
+          <value>to look pale</value>
+          <translation>выглядеть бледным</translation>
+          <comment>to look - выглядеть, pale - бледный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>arm</question>
+    <answer>рука</answer>
+    <comment>[ɑːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc7684c1-f7a8-470c-844c-b8b79619ce03</uuid>
+    <examples>
+       <example>
+          <value>to dislocate your arm</value>
+          <translation>вывихнуть себе (=тебе) руку</translation>
+          <comment>to dislocate - вывихнуть, arm - рука</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>group</question>
+    <answer>группа</answer>
+    <comment>[gruːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6e388697-cc40-4887-b798-62663cc79f66</uuid>
+    <examples>
+       <example>
+          <value>blood group</value>
+          <translation>группа крови</translation>
+          <comment>blood - кровь, group - группа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>doctor</question>
+    <answer>доктор</answer>
+    <comment>[ˈdɑːktər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f11dd13c-745f-439d-bf32-6454d7acecfd</uuid>
+    <examples>
+       <example>
+          <value>a doctor in the hotel</value>
+          <translation>врач в гостинице</translation>
+          <comment>doctor - врач, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to need a doctor</value>
+          <translation>нуждаться во враче</translation>
+          <comment>to need - нуждаться, doctor - врач</comment>
+       </example>
+       <example>
+          <value>the number for house calling a doctor</value>
+          <translation>номер телефона для вызова врача на дом</translation>
+          <comment>number - номер, house - дом, to call - вызывать, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to call somebody a doctor</value>
+          <translation>вызвать кому-либо врача</translation>
+          <comment>to call - вызывать, doctor - врач, somebody - кто-либо</comment>
+       </example>
+       <example>
+          <value>to go to see a doctor</value>
+          <translation>обратиться к врачу</translation>
+          <comment>to go - идти, to see - видеть, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to make an appointment with a doctor</value>
+          <translation>записаться к врачу</translation>
+          <comment>to make - сделать, appointment - условленная встреча, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to call a doctor</value>
+          <translation>вызвать врача</translation>
+          <comment>to call - звонить, вызывать, doctor - врач</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hospital</question>
+    <answer>больница</answer>
+    <comment>[ˈhɑːspɪtl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb9055f8-129f-44e2-b91b-e0964adf4bad</uuid>
+    <examples>
+       <example>
+          <value>the nearest hospital</value>
+          <translation>ближайшая больница</translation>
+          <comment>the nearest - ближайший, hospital - больница</comment>
+       </example>
+       <example>
+          <value>to work at a hospital</value>
+          <translation>работать в больнице</translation>
+          <comment>to work - работать, hospital - больница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chest</question>
+    <answer>грудная клетка</answer>
+    <comment>[ʧest]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>83eb110f-7017-4b6a-8c00-bfecf0f3b65f</uuid>
+    <examples>
+       <example>
+          <value>to have a pain in your chest</value>
+          <translation>иметь боль в (твоей) грудной клетке</translation>
+          <comment>to have - иметь, pain - боль, chest - грудная клетка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sick</question>
+    <answer>больной</answer>
+    <comment>[sɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e93409da-66c8-41e0-a808-e81bd92c750a</uuid>
+    <examples>
+       <example>
+          <value>to feel sick</value>
+          <translation>чувствовать себя нездоровым</translation>
+          <comment>to feel - чувствовать, sick - нездоровый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pill</question>
+    <answer>таблетка</answer>
+    <comment>[pɪl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>23ea54bb-a53d-42cb-80d3-808d38787dd3</uuid>
+    <examples>
+       <example>
+          <value>a prescription for some pills</value>
+          <translation>рецепт на таблетки</translation>
+          <comment>prescription - рецепт, some - некоторое количество, pill - таблетка</comment>
+       </example>
+       <example>
+          <value>sleeping pills</value>
+          <translation>снотворное</translation>
+          <comment>sleeping - спящий, pill - таблетка</comment>
+       </example>
+       <example>
+          <value>to have sleeping pills</value>
+          <translation>иметь снотворное</translation>
+          <comment>to have - иметь, sleeping - спящий, pill - таблетка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>today</question>
+    <answer>сегодня</answer>
+    <comment>[təˈdeɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1da159f-f439-473e-bebf-105696d336f2</uuid>
+    <examples>
+       <example>
+          <value>to be better today</value>
+          <translation>чувствовать себя лучше сегодня</translation>
+          <comment>better - лучше, good - хороший, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to dance today</value>
+          <translation>танцевать сегодня</translation>
+          <comment>to dance - танцевать, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to have tickets for today</value>
+          <translation>иметь билеты на сегодня</translation>
+          <comment>to have - иметь, ticket - билет, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to play today</value>
+          <translation>играть сегодня</translation>
+          <comment>to play - играть, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to sing today</value>
+          <translation>петь сегодня</translation>
+          <comment>to sing - петь, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to conduct today</value>
+          <translation>дирижировать сегодня</translation>
+          <comment>to conduct - дирижировать, today - сегодня</comment>
+       </example>
+       <example>
+          <value>the weather forecast for today</value>
+          <translation>прогноз погоды на сегодня</translation>
+          <comment>weather - погода, forecast - прогноз, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>headache</question>
+    <answer>головная боль</answer>
+    <comment>[ˈhedˌeɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c58cfa10-0ebe-49f6-9166-ad280455ab67</uuid>
+    <examples>
+       <example>
+          <value>to have a headache</value>
+          <translation>иметь головную боль</translation>
+          <comment>to have - иметь, headache - головная боль</comment>
+       </example>
+       <example>
+          <value>to give something for a headache</value>
+          <translation>давать что-нибудь от головной боли</translation>
+          <comment>to give - давать, something - что-нибудь, headache - головная боль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>complaint</question>
+    <answer>жалоба</answer>
+    <comment>[kəmˈpleɪnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1aa88c54-b41c-4abb-9330-c72c3dffd1db</uuid>
+    <examples>
+       <example>
+          <value>What are your complaints?</value>
+          <translation>На что жалуетесь?</translation>
+          <comment>what - какой, your - твой, ваш, complaint - жалоба</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fever</question>
+    <answer>температура</answer>
+    <comment>[ˈfiːvər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8cf5cd25-c452-4f07-b86c-77917a57d1cd</uuid>
+    <examples>
+       <example>
+          <value>to have a fever</value>
+          <translation>иметь температуру</translation>
+          <comment>to have - иметь, fever - температура</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pain</question>
+    <answer>боль</answer>
+    <comment>[peɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3db06a7f-550c-4055-afd4-5b806ee47bc2</uuid>
+    <examples>
+       <example>
+          <value>to have a pain</value>
+          <translation>иметь боль</translation>
+          <comment>to have - иметь, pain - боль</comment>
+       </example>
+       <example>
+          <value>to have a pain in your back</value>
+          <translation>иметь боль в (твоей) спине</translation>
+          <comment>to have - иметь, pain - боль, back - спина</comment>
+       </example>
+       <example>
+          <value>to have a pain in your chest</value>
+          <translation>иметь боль в (твоей) грудной клетке</translation>
+          <comment>to have - иметь, pain - боль, chest - грудная клетка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>worse</question>
+    <answer>хуже</answer>
+    <comment>[wɜːrs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>197709d8-a9f2-4eb2-9442-8f600e72a526</uuid>
+    <examples>
+       <example>
+          <value>to feel worse</value>
+          <translation>чувствовать себя хуже</translation>
+          <comment>to feel - чувствовать, worse - хуже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>leg</question>
+    <answer>нога</answer>
+    <comment>[leg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c183acc1-2420-407b-a21e-7033efe12f3d</uuid>
+    <examples>
+       <example>
+          <value>to break my leg</value>
+          <translation>сломать себе (=мне) ногу</translation>
+          <comment>to break - ломать, my - мой, моя, leg - нога</comment>
+       </example>
+       <example>
+          <value>to dislocate your leg</value>
+          <translation>вывихнуть себе (=тебе) ногу</translation>
+          <comment>to dislocate - вывихнуть, leg - нога</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dentist</question>
+    <answer>стоматолог</answer>
+    <comment>[ˈdentɪst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b6fcd0f8-d23e-4674-b9d5-bf090a916c53</uuid>
+    <examples>
+       <example>
+          <value>to go to a dentist</value>
+          <translation>пойти к зубному</translation>
+          <comment>to go - идти, dentist - зубной врач</comment>
+       </example>
+       <example>
+          <value>a good dentist</value>
+          <translation>хороший зубной врач</translation>
+          <comment>good - хороший, dentist - зубной врач</comment>
+       </example>
+       <example>
+          <value>to recommend a good dentist</value>
+          <translation>порекомендовать хорошего зубного врача</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dentist - зубной врач</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>trouble</question>
+    <answer>проблема, беспокойство</answer>
+    <comment>[ˈtrʌbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f34f7791-47f3-4bdb-b425-24960709571e</uuid>
+    <examples>
+       <example>
+          <value>to have a heart trouble</value>
+          <translation>иметь боли в сердце</translation>
+          <comment>to have - иметь, heart - сердце, trouble - проблема</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>blood</question>
+    <answer>кровь</answer>
+    <comment>[blʌd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f14c8e13-6107-4a68-9227-d4529f7a8e72</uuid>
+    <examples>
+       <example>
+          <value>blood group</value>
+          <translation>группа крови</translation>
+          <comment>blood - кровь, group - группа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>consult</question>
+    <answer>консультироваться</answer>
+    <comment>[kənˈsʌlt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4b902097-8d31-4e5d-872a-b593ccaf15f2</uuid>
+    <examples>
+       <example>
+          <value>to consult a physician</value>
+          <translation>проконсультироваться с терапевтом</translation>
+          <comment>to consult - консультироваться, physician - терапевт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nothing</question>
+    <answer>ничего</answer>
+    <comment>[ˈnʌθɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7f38f8de-bcfc-4302-80fd-52325eea2558</uuid>
+    <examples>
+       <example>
+          <value>nothing serious</value>
+          <translation>ничего серьезного</translation>
+          <comment>nothing - ничего, serious - серьезный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>surgeon</question>
+    <answer>хирург</answer>
+    <comment>[ˈsɜːrʤən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>397a0844-6572-4ecb-9203-bbaa666b1c89</uuid>
+    <examples>
+       <example>
+          <value>to go to a surgeon</value>
+          <translation>обратиться к хирургу</translation>
+          <comment>to go (to) - обратиться (к), surgeon - хирург</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>physician</question>
+    <answer>терапевт</answer>
+    <comment>[fɪˈzɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9d2d2fe4-d91b-456c-ac42-34e0fe20fea1</uuid>
+    <examples>
+       <example>
+          <value>to consult a physician</value>
+          <translation>проконсультироваться с терапевтом</translation>
+          <comment>to consult - консультироваться, physician - терапевт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>prescription</question>
+    <answer>рецепт</answer>
+    <comment>[prɪˈskrɪpʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0442ca5c-3ab4-431d-ad40-3ec24f1f2624</uuid>
+    <examples>
+       <example>
+          <value>a prescription for some pills</value>
+          <translation>рецепт на таблетки</translation>
+          <comment>prescription - рецепт, some - некоторое количество, pill - таблетка</comment>
+       </example>
+       <example>
+          <value>to give a prescription</value>
+          <translation>выписать рецепт</translation>
+          <comment>to give - дать, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>to fill this prescription</value>
+          <translation>сделать лекарство по этому рецепту</translation>
+          <comment>to fill - исполнять, this - этот, эта, prescription - рецепт</comment>
+       </example>
+       <example>
+          <value>without a prescription</value>
+          <translation>без рецепта</translation>
+          <comment>without - без, prescription - рецепт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>medical</question>
+    <answer>медицинский</answer>
+    <comment>[ˈmedɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>667de1de-7774-47e5-9898-4b349cbd507a</uuid>
+    <examples>
+       <example>
+          <value>to have medical insurance</value>
+          <translation>иметь медстраховку</translation>
+          <comment>to have - иметь, medical - медицинский, insurance - страховка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nauseous</question>
+    <answer>тошнотворный</answer>
+    <comment>[ˈnɔːʃəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>86678167-50d0-4cea-8fc7-e0c1dcb244fa</uuid>
+    <examples>
+       <example>
+          <value>to feel nauseous</value>
+          <translation>чувствовать тошноту</translation>
+          <comment>to feel - чувствовать, nauseous - тошнотворный, отвратительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>examine</question>
+    <answer>осматривать</answer>
+    <comment>[ɪgˈzæmɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2b4919d0-e04d-4228-8e9d-e1beffd160cc</uuid>
+    <examples>
+       <example>
+          <value>to let somebody examine you</value>
+          <translation>позволить кому-либо осмотреть тебя</translation>
+          <comment>to let - позволять, somebody - кто-либо, to examine - осмотреть</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>calling</question>
+    <answer>вызов</answer>
+    <comment>[ˈkɔːlɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>319c5d89-3a66-4f22-a190-d34cbc9ee269</uuid>
+    <examples>
+       <example>
+          <value>house calling</value>
+          <translation>вызов на дом</translation>
+          <comment>house - дом, calling - вызов, to call - вызывать</comment>
+       </example>
+       <example>
+          <value>the number for house calling a doctor</value>
+          <translation>номер телефона для вызова врача на дом</translation>
+          <comment>number - номер, house - дом, to call - вызывать, doctor - врач</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ambulance</question>
+    <answer>скорая помощь</answer>
+    <comment>[ˈæmbjələns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0c85ae73-7d98-4fa5-962f-96dae31e6673</uuid>
+    <examples>
+       <example>
+          <value>to call an ambulance</value>
+          <translation>вызвать скорую</translation>
+          <comment>to call - звонить, ambulance - скорая помощь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>serious</question>
+    <answer>серьезный</answer>
+    <comment>[ˈsɪriːəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>401a38b0-0c04-49f9-b322-813943b7868f</uuid>
+    <examples>
+       <example>
+          <value>nothing serious</value>
+          <translation>ничего серьезного</translation>
+          <comment>nothing - ничего, serious - серьезный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tongue</question>
+    <answer>язык</answer>
+    <comment>[tʌŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6814d8d3-a4f0-4b9d-97e5-69efa3bec64f</uuid>
+    <examples>
+       <example>
+          <value>to show your tongue</value>
+          <translation>показать язык</translation>
+          <comment>to show - показать, your - твой, ваш, tongue - язык</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dislocate</question>
+    <answer>вывихнуть</answer>
+    <comment>[ˈdɪsloʊˌkeɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efd54b3e-026a-4d09-aa34-6528d27aeac2</uuid>
+    <examples>
+       <example>
+          <value>to dislocate your arm</value>
+          <translation>вывихнуть себе (=тебе) руку</translation>
+          <comment>to dislocate - вывихнуть, arm - рука</comment>
+       </example>
+       <example>
+          <value>to dislocate your leg</value>
+          <translation>вывихнуть себе (=тебе) ногу</translation>
+          <comment>to dislocate - вывихнуть, leg - нога</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mouth</question>
+    <answer>рот</answer>
+    <comment>[ˈmаʊθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4565f210-d3cb-4968-98e8-b3fb9b67bd79</uuid>
+    <examples>
+       <example>
+          <value>to open your mouth</value>
+          <translation>открыть рот</translation>
+          <comment>to open - открыть, your - твой, ваш, mouth - рот</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>meal</question>
+    <answer>еда, прием пищи</answer>
+    <comment>[miːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a8de5861-8b43-40c6-82eb-3aad5220ee3c</uuid>
+    <examples>
+       <example>
+          <value>after meals</value>
+          <translation>после еды</translation>
+          <comment>after - после, meal - еда, принятие пищи</comment>
+       </example>
+       <example>
+          <value>before meals</value>
+          <translation>перед едой</translation>
+          <comment>before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

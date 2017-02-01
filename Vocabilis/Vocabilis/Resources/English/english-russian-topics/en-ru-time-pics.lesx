@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>f6390247-f451-47b3-83f3-92a857bf20b0</uuid>
+  <title>Время</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>afternoon</question>
+    <answer>послеобеденное время</answer>
+    <comment>[ˈɑːftəˈnuːn]</comment>
+    <answer_picture>afternoon.gif</answer_picture>
+    <uuid>284d7dd0-eb8d-4d19-94e3-d54c33c67ec9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>evening</question>
+    <answer>вечер</answer>
+    <comment>[ˈiːvnɪŋ]</comment>
+    <answer_picture>evening.gif</answer_picture>
+    <uuid>54d27de6-c0d4-4691-b214-dd7a821d02e9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>autumn</question>
+    <answer>осень</answer>
+    <comment>[ˈɔːtəm]</comment>
+    <answer_picture>autumn.gif</answer_picture>
+    <uuid>1014afd8-ea80-4bb7-9f59-817b32f5f918</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>before</question>
+    <answer>перед, до</answer>
+    <comment>[bɪˈfɔː]</comment>
+    <answer_picture>before.gif</answer_picture>
+    <uuid>bcade4be-9f47-4966-a12a-361720de54f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>months</question>
+    <answer>месяцы</answer>
+    <comment>[mʌnθs]</comment>
+    <answer_picture>months.gif</answer_picture>
+    <uuid>1dec7a55-a2c1-4441-acb6-4b0ec8f9b4e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>clock</question>
+    <answer>часы (настольные, настенные)</answer>
+    <comment>[klɒk]</comment>
+    <answer_picture>clock.gif</answer_picture>
+    <uuid>609422c1-aaac-44bc-ac12-259e667b4196</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>last</question>
+    <answer>последний</answer>
+    <comment>[lɑːst]</comment>
+    <answer_picture>last.gif</answer_picture>
+    <uuid>1b95c2b9-e855-4ade-9913-1a0236d02d14</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>after</question>
+    <answer>после, за</answer>
+    <comment>[ˈɑːftə]</comment>
+    <answer_picture>after.gif</answer_picture>
+    <uuid>6bfc904d-43e2-435e-9cd2-5424833e4a7a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>diary</question>
+    <answer>дневник</answer>
+    <comment>[ˈdаɪərɪ]</comment>
+    <answer_picture>diary.gif</answer_picture>
+    <uuid>c89a22b9-1d24-4940-82b4-c73be79adc6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>days</question>
+    <answer>дни</answer>
+    <comment>[ˈdeɪz]</comment>
+    <answer_picture>days.gif</answer_picture>
+    <uuid>104eb850-c3d9-435b-9791-0ee702573010</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>morning</question>
+    <answer>утро</answer>
+    <comment>[ˈmɔːnɪŋ]</comment>
+    <answer_picture>morning.gif</answer_picture>
+    <uuid>d5e61e99-27bd-40eb-b00c-22c2380447cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>next</question>
+    <answer>следующий</answer>
+    <comment>[nekst]</comment>
+    <answer_picture>next.gif</answer_picture>
+    <uuid>e2db0aef-73d5-4111-aef1-5fc19af91acf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>night</question>
+    <answer>ночь</answer>
+    <comment>[nаɪt]</comment>
+    <answer_picture>night.gif</answer_picture>
+    <uuid>a7289cf6-5aa1-4a0b-b4a0-0d129ba0391d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>noon</question>
+    <answer>полдень</answer>
+    <comment>[nuːn]</comment>
+    <answer_picture>noon.gif</answer_picture>
+    <uuid>e8bedb31-0ca3-4b87-97e7-5f39182d3f1d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>schedule</question>
+    <answer>амер. расписание (на транспорте) (S. timetable)</answer>
+    <comment>[ˈʃedjuːl]</comment>
+    <answer_picture>schedule.gif</answer_picture>
+    <uuid>6f4d8705-79cb-468a-90e1-cd16027340dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>spring</question>
+    <answer>весна</answer>
+    <comment>[sprɪŋ]</comment>
+    <answer_picture>spring.gif</answer_picture>
+    <uuid>23dccc96-370f-454e-a913-2bc400abd94b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>summer</question>
+    <answer>лето</answer>
+    <comment>[ˈsʌmə]</comment>
+    <answer_picture>summer.gif</answer_picture>
+    <uuid>a68a387d-0fd2-420d-b856-965869d96f8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunrise</question>
+    <answer>восход солнца</answer>
+    <comment>[ˈsʌnrаɪz]</comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>3487b880-0415-4ab9-a4ec-b2b432823c48</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>timetable</question>
+    <answer>брит. расписание (железнодорожное, школьное и т.п.) (S. schedule)</answer>
+    <comment>[ˈtаɪmˌteɪbl]</comment>
+    <answer_picture>timetable.gif</answer_picture>
+    <uuid>8f2757ba-f4d6-4b50-b501-b4a24b4ba642</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wait</question>
+    <answer>ждать</answer>
+    <comment>[weɪt]</comment>
+    <answer_picture>wait.gif</answer_picture>
+    <uuid>e52f5945-f6b9-41fb-ac9d-20d83c9ff38b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a watch</question>
+    <answer>часы (наручные)</answer>
+    <comment>[ə wɒʧ]</comment>
+    <answer_picture>a_watch.gif</answer_picture>
+    <uuid>2b36503a-903b-4078-bb2f-089b62473fae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>winter</question>
+    <answer>зима</answer>
+    <comment>[ˈwɪntə]</comment>
+    <answer_picture>winter.gif</answer_picture>
+    <uuid>d4698f3f-a62a-4cc2-873d-058a42cbcf98</uuid>
+  </card>
+</cards>
+</stack>

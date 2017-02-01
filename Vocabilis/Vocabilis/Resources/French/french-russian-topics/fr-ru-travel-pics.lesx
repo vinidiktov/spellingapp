@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d70c9dd8-e573-42c5-90ff-68d318dcb02b</uuid>
+  <title>Поездки и путешествия</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>arriver</question>
+    <answer>прибывать, приезжать</answer>
+    <comment></comment>
+    <answer_picture>arrive.gif</answer_picture>
+    <uuid>818af85d-7c0a-4152-9c35-7878f70b672e</uuid>
+  </card>
+  <card>
+    <question>le sac à dos</question>
+    <answer>рюкзак (туристический)</answer>
+    <comment></comment>
+    <answer_picture>backpack.gif</answer_picture>
+    <uuid>f847118f-c26a-47fc-8c12-f6311aca1a60</uuid>
+  </card>
+  <card>
+    <question>le groom</question>
+    <answer>амер. коридорный, посыльный (в гостинице)</answer>
+    <comment></comment>
+    <answer_picture>bellhop.gif</answer_picture>
+    <uuid>0fbb64fa-13b3-45f2-bba7-60e0e9b9d9c6</uuid>
+  </card>
+  <card>
+    <question>le vélo</question>
+    <answer>велосипед</answer>
+    <comment></comment>
+    <answer_picture>bicycle.gif</answer_picture>
+    <uuid>907885e1-af23-48de-be15-4f9fdae1326a</uuid>
+  </card>
+  <card>
+    <question>le bus</question>
+    <answer>автобус</answer>
+    <comment></comment>
+    <answer_picture>bus.gif</answer_picture>
+    <uuid>0d0f5056-438d-4f40-9175-8c575f8383b2</uuid>
+  </card>
+  <card>
+    <question>l&apos;arrêt de bus</question>
+    <answer>автобусная остановка</answer>
+    <comment></comment>
+    <answer_picture>bus_stop.gif</answer_picture>
+    <uuid>1568954f-5455-4676-8ba4-124d4d5e3171</uuid>
+  </card>
+  <card>
+    <question>la gare routière</question>
+    <answer>автовокзал</answer>
+    <comment></comment>
+    <answer_picture>bus_terminal.gif</answer_picture>
+    <uuid>f3490f10-f239-4e8c-9364-8abee83a853f</uuid>
+  </card>
+  <card>
+    <question>la voiture</question>
+    <answer>машина</answer>
+    <comment></comment>
+    <answer_picture>car.gif</answer_picture>
+    <uuid>31f1830d-53ce-4324-9de9-e4669bdbfbb5</uuid>
+  </card>
+  <card>
+    <question>enregistrer</question>
+    <answer>регистрироваться (в гостинице)</answer>
+    <comment></comment>
+    <answer_picture>check_in.gif</answer_picture>
+    <uuid>16e4b848-ade3-49a0-b63d-67060bdbee2a</uuid>
+  </card>
+  <card>
+    <question>libérer sa chambre</question>
+    <answer>расплатиться и освободить номер в гостинице</answer>
+    <comment></comment>
+    <answer_picture>check_out.gif</answer_picture>
+    <uuid>555ca4f7-c6d5-4e30-831f-18af537bfed9</uuid>
+  </card>
+  <card>
+    <question>la douane</question>
+    <answer>таможня</answer>
+    <comment></comment>
+    <answer_picture>customs.gif</answer_picture>
+    <uuid>67bf872d-4773-485f-8d08-d56355da6d49</uuid>
+  </card>
+  <card>
+    <question>le portier</question>
+    <answer>амер. привратник, швейцар</answer>
+    <comment></comment>
+    <answer_picture>doorman.gif</answer_picture>
+    <uuid>bfcbf417-9466-42dd-bfdb-dc0228d12b46</uuid>
+  </card>
+  <card>
+    <question>conduire</question>
+    <answer>вести (машину), ехать</answer>
+    <comment></comment>
+    <answer_picture>drive.gif</answer_picture>
+    <uuid>91d8e887-2486-4706-9ca5-56a5d2776bf1</uuid>
+  </card>
+  <card>
+    <question>l&apos;est</question>
+    <answer>восток</answer>
+    <comment></comment>
+    <answer_picture>east.gif</answer_picture>
+    <uuid>87361442-2481-4632-a41c-d143ceac45ae</uuid>
+  </card>
+  <card>
+    <question>rapide</question>
+    <answer>быстрый, быстро</answer>
+    <comment></comment>
+    <answer_picture>fast.gif</answer_picture>
+    <uuid>4f31a78f-26b7-449f-8d6a-c34b37d5ce58</uuid>
+  </card>
+  <card>
+    <question>voler</question>
+    <answer>летать</answer>
+    <comment></comment>
+    <answer_picture>to_fly.gif</answer_picture>
+    <uuid>f552e481-41a6-4d43-8870-aa9e30b30abd</uuid>
+  </card>
+  <card>
+    <question>l&apos;hôte</question>
+    <answer>гость</answer>
+    <comment></comment>
+    <answer_picture>guest.gif</answer_picture>
+    <uuid>c1d43e77-8751-4ea5-bb9a-298f1c183352</uuid>
+  </card>
+  <card>
+    <question>l&apos;autoroute</question>
+    <answer>шоссе</answer>
+    <comment></comment>
+    <answer_picture>highway.gif</answer_picture>
+    <uuid>a2c75fe1-2da9-4008-bca3-6c73bb425031</uuid>
+  </card>
+  <card>
+    <question>le hall de l&apos;hôtel</question>
+    <answer>вестибюль гостиницы</answer>
+    <comment></comment>
+    <answer_picture>hotel_lobby.gif</answer_picture>
+    <uuid>ce0188a7-5e97-4cef-ad98-51a6d0f4aff7</uuid>
+  </card>
+  <card>
+    <question>la chambre d&apos;hôtel</question>
+    <answer>номер в гостинице</answer>
+    <comment></comment>
+    <answer_picture>hotel_room.gif</answer_picture>
+    <uuid>647cb93a-b591-4721-9825-09bd830b3928</uuid>
+  </card>
+  <card>
+    <question>la gouvernante</question>
+    <answer>домашняя работница</answer>
+    <comment></comment>
+    <answer_picture>housekeeper.gif</answer_picture>
+    <uuid>d0682691-d8cd-4f12-aa95-d4445b4566cd</uuid>
+  </card>
+  <card>
+    <question>partir</question>
+    <answer>покидать, уезжать из</answer>
+    <comment></comment>
+    <answer_picture>leave.gif</answer_picture>
+    <uuid>d36f7788-d04a-40d3-9212-718e297243ec</uuid>
+  </card>
+  <card>
+    <question>la moto</question>
+    <answer>мотоцикл</answer>
+    <comment></comment>
+    <answer_picture>motorbike.gif</answer_picture>
+    <uuid>de6fa302-65f7-475e-8ade-23c096388b20</uuid>
+  </card>
+  <card>
+    <question>le nord</question>
+    <answer>север</answer>
+    <comment></comment>
+    <answer_picture>north.gif</answer_picture>
+    <uuid>e009725a-3092-4492-a9bf-033c4de40741</uuid>
+  </card>
+  <card>
+    <question>emballer votre valise</question>
+    <answer>упаковывать (ваш) чемодан</answer>
+    <comment></comment>
+    <answer_picture>pack_your_suitcase.gif</answer_picture>
+    <uuid>63358590-bd1e-4122-95d2-e7647e4f1c67</uuid>
+  </card>
+  <card>
+    <question>le passeport</question>
+    <answer>паспорт</answer>
+    <comment></comment>
+    <answer_picture>passport.gif</answer_picture>
+    <uuid>928e0737-59a2-4874-9590-b34b4272468f</uuid>
+  </card>
+  <card>
+    <question>l&apos;avion</question>
+    <answer>самолёт</answer>
+    <comment></comment>
+    <answer_picture>plane.gif</answer_picture>
+    <uuid>8d32d4a5-329a-4adc-b4e0-c15434962e43</uuid>
+  </card>
+  <card>
+    <question>la gare</question>
+    <answer>железнодорожный вокзал</answer>
+    <comment></comment>
+    <answer_picture>railroad_station.gif</answer_picture>
+    <uuid>9ba8114c-abb9-486b-b89a-a27ae32275c9</uuid>
+  </card>
+  <card>
+    <question>le réceptionniste</question>
+    <answer>администратор (в гостинице)</answer>
+    <comment></comment>
+    <answer_picture>receptionist.gif</answer_picture>
+    <uuid>64004970-50aa-46c4-b9ea-d41a07244aec</uuid>
+  </card>
+  <card>
+    <question>faire du vélo</question>
+    <answer>ездить на велосипеде</answer>
+    <comment></comment>
+    <answer_picture>ride_a_bicycle.gif</answer_picture>
+    <uuid>4d64c87b-9e0a-472c-a0d6-389a3f66692e</uuid>
+  </card>
+  <card>
+    <question>conduire une moto</question>
+    <answer>ездить на мотоцикле</answer>
+    <comment></comment>
+    <answer_picture>ride_a_motorbike.gif</answer_picture>
+    <uuid>3c698bfa-866a-47da-bded-47f793d35d91</uuid>
+  </card>
+  <card>
+    <question>le service de chambre</question>
+    <answer>подача еды и напитков в номера</answer>
+    <comment></comment>
+    <answer_picture>room_service.gif</answer_picture>
+    <uuid>779236fa-1430-4b5c-9dbb-b1aa3faf1c00</uuid>
+  </card>
+  <card>
+    <question>le voilier</question>
+    <answer>парусное судно, парусная шлюпка</answer>
+    <comment></comment>
+    <answer_picture>sailboat.gif</answer_picture>
+    <uuid>d0854023-15d5-45fd-8a37-c379186cb434</uuid>
+  </card>
+  <card>
+    <question>l&apos;horaire</question>
+    <answer>амер. расписание (транспорта) (S. timetable)</answer>
+    <comment></comment>
+    <answer_picture>schedule.gif</answer_picture>
+    <uuid>9d15885b-45b1-4098-b911-ed3bc704e4fb</uuid>
+  </card>
+  <card>
+    <question>le navire</question>
+    <answer>корабль</answer>
+    <comment></comment>
+    <answer_picture>ship.gif</answer_picture>
+    <uuid>44fdb351-258d-46b9-b6d4-c378148bbf06</uuid>
+  </card>
+  <card>
+    <question>le tourisme</question>
+    <answer>осмотр достопримечательностей</answer>
+    <comment></comment>
+    <answer_picture>sightseeing.gif</answer_picture>
+    <uuid>b74abfb5-eda2-4825-be1a-16ea071040cd</uuid>
+  </card>
+  <card>
+    <question>l&apos;enseigne</question>
+    <answer>вывеска; указатель</answer>
+    <comment></comment>
+    <answer_picture>signboard.gif</answer_picture>
+    <uuid>b984eff4-e999-4ed2-9ef9-fc9129e6e214</uuid>
+  </card>
+  <card>
+    <question>lent</question>
+    <answer>медленный</answer>
+    <comment></comment>
+    <answer_picture>slow.gif</answer_picture>
+    <uuid>79e110eb-265f-4b83-ae0c-2f484d460d68</uuid>
+  </card>
+  <card>
+    <question>porte-savon</question>
+    <answer>мыльница</answer>
+    <comment></comment>
+    <answer_picture>soapdish.gif</answer_picture>
+    <uuid>c6dab661-9d40-488e-8d9c-8dc38a0a1975</uuid>
+  </card>
+  <card>
+    <question>le sud</question>
+    <answer>юг</answer>
+    <comment></comment>
+    <answer_picture>south.gif</answer_picture>
+    <uuid>9ce23fc8-cdb1-4581-a37f-a6b04e03e514</uuid>
+  </card>
+  <card>
+    <question>la station</question>
+    <answer>вокзал, станция</answer>
+    <comment></comment>
+    <answer_picture>station.gif</answer_picture>
+    <uuid>1961493b-c0b6-43af-8331-9d502ea32034</uuid>
+  </card>
+  <card>
+    <question>descendre dans un hôtel</question>
+    <answer>остановиться в гостинице</answer>
+    <comment></comment>
+    <answer_picture>stay_in_a_hotel.gif</answer_picture>
+    <uuid>b0e10a96-2b83-40be-970b-62e088827166</uuid>
+  </card>
+  <card>
+    <question>la rue</question>
+    <answer>улица</answer>
+    <comment></comment>
+    <answer_picture>street.gif</answer_picture>
+    <uuid>d4ab09d2-ae2b-4568-b408-d0828017648b</uuid>
+  </card>
+  <card>
+    <question>la valise</question>
+    <answer>чемодан</answer>
+    <comment></comment>
+    <answer_picture>suitcase.gif</answer_picture>
+    <uuid>5138539f-9a4f-4ff3-b9b6-623628c4f25e</uuid>
+  </card>
+  <card>
+    <question>le taxi</question>
+    <answer>такси</answer>
+    <comment></comment>
+    <answer_picture>taxi.gif</answer_picture>
+    <uuid>8b06d453-09d2-4dd3-9d47-c690f8c5896e</uuid>
+  </card>
+  <card>
+    <question>le billet</question>
+    <answer>билет</answer>
+    <comment></comment>
+    <answer_picture>ticket.gif</answer_picture>
+    <uuid>3e386a77-6df5-4c19-993f-ab8e087c8242</uuid>
+  </card>
+  <card>
+    <question>la dépanneuse</question>
+    <answer>тягач</answer>
+    <comment></comment>
+    <answer_picture>towtruck.gif</answer_picture>
+    <uuid>548958c5-6f7d-4c54-a022-c206f6883187</uuid>
+  </card>
+  <card>
+    <question>l&apos;embouteillage</question>
+    <answer>&quot;пробка&quot; (на дороге)</answer>
+    <comment></comment>
+    <answer_picture>traffic_jam.gif</answer_picture>
+    <uuid>0fa673a8-d967-467c-bef7-344829755255</uuid>
+  </card>
+  <card>
+    <question>le train</question>
+    <answer>поезд</answer>
+    <comment></comment>
+    <answer_picture>train.gif</answer_picture>
+    <uuid>f244df13-b0bb-43de-adf4-93b3c7ccca97</uuid>
+  </card>
+  <card>
+    <question>voyager</question>
+    <answer>путешествовать</answer>
+    <comment></comment>
+    <answer_picture>travel.gif</answer_picture>
+    <uuid>a6497727-b2bf-413c-b962-ba4d71d88eb5</uuid>
+  </card>
+  <card>
+    <question>attendre</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <answer_picture>wait.gif</answer_picture>
+    <uuid>ca8f8184-f2a2-4479-9175-7a0d05c3181e</uuid>
+  </card>
+  <card>
+    <question>marcher</question>
+    <answer>гулять, ходить</answer>
+    <comment></comment>
+    <answer_picture>walk.gif</answer_picture>
+    <uuid>b60d2034-8610-4765-9af4-df6f15ce37c7</uuid>
+  </card>
+  <card>
+    <question>errer</question>
+    <answer>блуждать</answer>
+    <comment></comment>
+    <answer_picture>wander.gif</answer_picture>
+    <uuid>3529ad42-8d70-43b3-8cd5-401db6e19def</uuid>
+  </card>
+  <card>
+    <question>l&apos;ouest</question>
+    <answer>запад</answer>
+    <comment></comment>
+    <answer_picture>west.gif</answer_picture>
+    <uuid>53f51156-f2dc-446b-8bc1-cf2d7bd75a25</uuid>
+  </card>
+</cards>
+</stack>

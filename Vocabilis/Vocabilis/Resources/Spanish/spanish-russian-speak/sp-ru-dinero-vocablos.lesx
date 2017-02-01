@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>963dd4a0-59e0-44bf-ac75-101141d6dfd8</uuid>
+  <title>Деньги. Обмен валюты :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>11</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>encontrarse</question>
+    <answer>находиться</answer>
+    <comment></comment>
+    <uuid>05ad4caa-ddc0-419e-b525-370fdbabb3c2</uuid>
+  </card>
+  <card>
+    <question>se encuentra</question>
+    <answer>находится</answer>
+    <comment></comment>
+    <uuid>b7383457-0f57-4ce5-85ab-082765a34d1b</uuid>
+  </card>
+  <card>
+    <question>banco</question>
+    <answer>банк</answer>
+    <comment>m</comment>
+    <uuid>b8437284-adc1-4457-87c8-1add622024f5</uuid>
+  </card>
+  <card>
+    <question>más próximo</question>
+    <answer>ближайший</answer>
+    <comment></comment>
+    <uuid>a522310c-0c12-40a7-a9c6-706ef9e9e0e9</uuid>
+  </card>
+  <card>
+    <question>oficina de cambio</question>
+    <answer>обменный пункт</answer>
+    <comment>f</comment>
+    <uuid>8c342f3d-5e8f-4412-8716-fdcefab0730a</uuid>
+  </card>
+  <card>
+    <question>horario</question>
+    <answer>расписание, часы работы</answer>
+    <comment></comment>
+    <uuid>3e0fa68c-914c-4a91-bc67-8d163f86262d</uuid>
+  </card>
+  <card>
+    <question>trabajo</question>
+    <answer>работа</answer>
+    <comment>m</comment>
+    <uuid>6dccc25b-c798-4cd4-9760-6c75d3d71652</uuid>
+  </card>
+  <card>
+    <question>llegar</question>
+    <answer>прибывать, приходить</answer>
+    <comment></comment>
+    <uuid>4201ba9c-bb4f-4ec7-9c35-cf98e1dc1c53</uuid>
+  </card>
+  <card>
+    <question>ha llegado</question>
+    <answer>пришли (деньги)</answer>
+    <comment></comment>
+    <uuid>ed0ea1f4-d418-40ca-b3d7-944705019509</uuid>
+  </card>
+  <card>
+    <question>nombre</question>
+    <answer>имя</answer>
+    <comment>m</comment>
+    <uuid>abae12c9-2f3c-46de-9c27-d8dc3a149879</uuid>
+  </card>
+  <card>
+    <question>cheque</question>
+    <answer>чек</answer>
+    <comment>m</comment>
+    <uuid>b6659c69-826f-4a39-9aa0-d00e548e6d76</uuid>
+  </card>
+  <card>
+    <question>transferencia</question>
+    <answer>денежный перевод</answer>
+    <comment>f</comment>
+    <uuid>c33706ef-92f7-41c0-9c93-8cfa3ff1874b</uuid>
+  </card>
+  <card>
+    <question>cheques de viaje</question>
+    <answer>дорожные чеки</answer>
+    <comment>m</comment>
+    <uuid>f8d4f29f-268d-4a1e-9773-7496fc5e99cf</uuid>
+  </card>
+  <card>
+    <question>ventanilla</question>
+    <answer>окно</answer>
+    <comment>f</comment>
+    <uuid>2e0a5063-94d0-46cc-9537-35e6b78b0a3d</uuid>
+  </card>
+  <card>
+    <question>mostrador</question>
+    <answer>стойка</answer>
+    <comment>m</comment>
+    <uuid>6ec4c8c6-35df-4193-913a-b1ac62e6ad2d</uuid>
+  </card>
+  <card>
+    <question>dirigirse</question>
+    <answer>направляться</answer>
+    <comment></comment>
+    <uuid>1d69c735-62c7-4525-b6b5-4b5e3bc06284</uuid>
+  </card>
+  <card>
+    <question>cambio</question>
+    <answer>курс обмена</answer>
+    <comment>m</comment>
+    <uuid>e2518244-a9f6-43ee-a9aa-018124daa450</uuid>
+  </card>
+  <card>
+    <question>peseta</question>
+    <answer>песета</answer>
+    <comment>f</comment>
+    <uuid>a67b5bd2-22e1-41f3-ac38-807d4873e96f</uuid>
+  </card>
+  <card>
+    <question>dólar</question>
+    <answer>доллар</answer>
+    <comment>m</comment>
+    <uuid>0dae794d-8482-4d82-a128-3f6e6fe2148b</uuid>
+  </card>
+  <card>
+    <question>peso</question>
+    <answer>песо</answer>
+    <comment>m</comment>
+    <uuid>e1b1edaa-6318-49ad-9409-a34aed912bc0</uuid>
+  </card>
+  <card>
+    <question>porcentaje</question>
+    <answer>процент</answer>
+    <comment>m</comment>
+    <uuid>e214e674-6fcc-4fec-8da0-44611af0e103</uuid>
+  </card>
+  <card>
+    <question>comisión</question>
+    <answer>комиссионные</answer>
+    <comment>f</comment>
+    <uuid>86677bb4-bedb-4fa4-9f7b-12070c0627b1</uuid>
+  </card>
+  <card>
+    <question>descontar</question>
+    <answer>вычитать</answer>
+    <comment></comment>
+    <uuid>993ae47e-2510-481f-97ee-e6bcddcfdc5b</uuid>
+  </card>
+  <card>
+    <question>descuentan</question>
+    <answer>(Вы) вычитаете (мн.ч.); (они) вычитают</answer>
+    <comment></comment>
+    <uuid>0821687b-4767-4033-bc37-d791a74e1b95</uuid>
+  </card>
+  <card>
+    <question>descuento</question>
+    <answer>(я) вычитаю</answer>
+    <comment></comment>
+    <uuid>2622fdf7-e0a0-442d-92fa-f72978897337</uuid>
+  </card>
+  <card>
+    <question>descuantas</question>
+    <answer>(ты) вычитаешь</answer>
+    <comment></comment>
+    <uuid>221dfc20-c94d-4dcd-baa3-c25b3c470f79</uuid>
+  </card>
+  <card>
+    <question>descuenta</question>
+    <answer>(Вы) вычитаете; (он, она) вычитает</answer>
+    <comment></comment>
+    <uuid>ea26e784-92b1-46ae-806f-71083b7c272f</uuid>
+  </card>
+  <card>
+    <question>descontamos</question>
+    <answer>(мы) вычитаем</answer>
+    <comment></comment>
+    <uuid>6064beef-5f5c-4c0b-83d0-b5dfde002153</uuid>
+  </card>
+  <card>
+    <question>denme</question>
+    <answer>дайте мне (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>704b5243-dc0f-41e8-8cb6-98d407a0f84f</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>d8b04ba3-fbb2-4a33-b029-5a11ce5654ab</uuid>
+  </card>
+  <card>
+    <question>firmar</question>
+    <answer>расписываться</answer>
+    <comment></comment>
+    <uuid>57e5c474-97f4-47b5-bd21-c91e9de87098</uuid>
+  </card>
+  <card>
+    <question>firme</question>
+    <answer>распишитесь</answer>
+    <comment></comment>
+    <uuid>412e8dc8-71ea-47ed-905a-4ec9e7c56fcb</uuid>
+  </card>
+  <card>
+    <question>resguardo de cambio</question>
+    <answer>квитанцию об обмене валюты</answer>
+    <comment>m</comment>
+    <uuid>ad73aeb3-28a1-4312-957b-60bae88274ac</uuid>
+  </card>
+  <card>
+    <question>cámbieme</question>
+    <answer>обменяйте мне</answer>
+    <comment></comment>
+    <uuid>1cd7fe93-8413-44f5-afdf-2ccb1b60f8ea</uuid>
+  </card>
+  <card>
+    <question>cambiar</question>
+    <answer>обменивать</answer>
+    <comment></comment>
+    <uuid>feb5bb64-6e66-4e5e-8272-53b84c80b40a</uuid>
+  </card>
+  <card>
+    <question>cambio</question>
+    <answer>(я) обмениваю</answer>
+    <comment></comment>
+    <uuid>cb7bfed6-76fe-4e17-b7d7-8534024d9034</uuid>
+  </card>
+  <card>
+    <question>cambias</question>
+    <answer>(ты) обмениваешь</answer>
+    <comment></comment>
+    <uuid>475e6e4f-fe55-4f6a-b49f-79e0f699a219</uuid>
+  </card>
+  <card>
+    <question>cambia</question>
+    <answer>(Вы) обмениваете; (он, она) обменивает</answer>
+    <comment></comment>
+    <uuid>08c1177f-55f2-4779-bbc9-47c2b2a8396d</uuid>
+  </card>
+  <card>
+    <question>cambiamos</question>
+    <answer>(мы) обмениваем</answer>
+    <comment></comment>
+    <uuid>2d301a60-2c71-438f-8405-14c2f2764abf</uuid>
+  </card>
+  <card>
+    <question>cambian</question>
+    <answer>(Вы) обмениваете (мн.ч.); (они) обменивают</answer>
+    <comment></comment>
+    <uuid>bfbf87a9-f3dc-4f04-b980-257d303fb7f0</uuid>
+  </card>
+  <card>
+    <question>billetes pequeños</question>
+    <answer>мелкие купюры</answer>
+    <comment></comment>
+    <uuid>591741d7-85e4-4d00-9302-c5b349dd9b63</uuid>
+  </card>
+  <card>
+    <question>funcionar</question>
+    <answer>работать, функционировать</answer>
+    <comment></comment>
+    <uuid>f4a2e8ee-b901-4ea9-89e9-01294129994d</uuid>
+  </card>
+  <card>
+    <question>funciona</question>
+    <answer>работает, функционирует</answer>
+    <comment></comment>
+    <uuid>a6e7f164-ac0f-4221-91f9-91cf0bd01bf1</uuid>
+  </card>
+  <card>
+    <question>quisiera</question>
+    <answer>(я) хотел(а) бы</answer>
+    <comment></comment>
+    <uuid>bae801fc-9233-4a26-920c-531fd4aa8eb3</uuid>
+  </card>
+  <card>
+    <question>cobrar</question>
+    <answer>собирать, взимать</answer>
+    <comment></comment>
+    <uuid>950299e1-bd96-4e67-9a67-fd595795fe90</uuid>
+  </card>
+  <card>
+    <question>transferir</question>
+    <answer>переводить</answer>
+    <comment></comment>
+    <uuid>2167fe35-a82f-4369-8e4e-c35618a08328</uuid>
+  </card>
+  <card>
+    <question>abrir</question>
+    <answer>открыть</answer>
+    <comment></comment>
+    <uuid>c9a20504-9103-4215-b5c7-ddcd785dadfd</uuid>
+  </card>
+  <card>
+    <question>cuenta</question>
+    <answer>счёт</answer>
+    <comment>f</comment>
+    <uuid>fea543ab-a93f-47ea-83d6-5a9e2befdb8f</uuid>
+  </card>
+  <card>
+    <question>retirar</question>
+    <answer>снимать (деньги)</answer>
+    <comment></comment>
+    <uuid>c15c55ed-d762-4947-8bd5-694e13930d2a</uuid>
+  </card>
+  <card>
+    <question>ingresar</question>
+    <answer>класть (на счёт)</answer>
+    <comment></comment>
+    <uuid>809e6227-14fa-4f0d-bf7e-9575670c16ab</uuid>
+  </card>
+  <card>
+    <question>cobrar un cheque</question>
+    <answer>обналичить чек</answer>
+    <comment></comment>
+    <uuid>a6f30374-fb79-4ffd-9f76-e72cf18875cb</uuid>
+  </card>
+  <card>
+    <question>número</question>
+    <answer>номер</answer>
+    <comment>m</comment>
+    <uuid>e828bcee-a4ca-4400-8463-b36213ba7f08</uuid>
+  </card>
+</cards>
+</stack>

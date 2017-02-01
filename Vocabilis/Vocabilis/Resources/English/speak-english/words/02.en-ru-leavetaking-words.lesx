@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>17af6787-ae1e-4b74-a8f4-8d9cdb8055d6</uuid>
+  <title>Прощание :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>again</question>
+    <answer>снова</answer>
+    <comment>[əˈgen]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9a2ea22f-6f93-4f44-b32d-d296f205b0a6</uuid>
+    <examples>
+       <example>
+          <value>to meet again</value>
+          <translation>встретиться снова</translation>
+          <comment>to meet - встречаться, again - снова</comment>
+       </example>
+       <example>
+          <value>to see somebody again</value>
+          <translation>снова увидеть кого-л.</translation>
+          <comment>to see - увидеть, видеть, somebody - кто-либо, again - снова</comment>
+       </example>
+       <example>
+          <value>to come again</value>
+          <translation>приходить еще</translation>
+          <comment>to come - приходить, again - снова, еще</comment>
+       </example>
+       <example>
+          <value>to say it again</value>
+          <translation>сказать это еще раз</translation>
+          <comment>to say - сказать, it - это, again - снова</comment>
+       </example>
+       <example>
+          <value>to call again</value>
+          <translation>снова позвонить</translation>
+          <comment>to call - звонить, again - снова</comment>
+       </example>
+       <example>
+          <value>to call again later</value>
+          <translation>перезвонить позже</translation>
+          <comment>to call - звонить, again - снова, later - позже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>attention</question>
+    <answer>внимание</answer>
+    <comment>[əˈtenʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f218ae54-ff6d-456f-bc06-22b86c508430</uuid>
+    <examples>
+       <example>
+          <value>your attention</value>
+          <translation>ваше внимание</translation>
+          <comment>your - твой, ваш, attention - внимание</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>somebody</question>
+    <answer>кто-либо</answer>
+    <comment>[ˈsʌmˌbɑːdiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee72c5fd-8b6a-452a-862d-4cd1d4e2f276</uuid>
+    <examples>
+       <example>
+          <value>to see somebody again</value>
+          <translation>снова увидеть кого-л.</translation>
+          <comment>to see - увидеть, видеть, somebody - кто-либо, again - снова</comment>
+       </example>
+       <example>
+          <value>to ask somebody for a dance</value>
+          <translation>пригласить кого-л. на танец</translation>
+          <comment>to ask - просить, somebody - кто-либо, dance - танец</comment>
+       </example>
+       <example>
+          <value>to come and see somebody</value>
+          <translation>навестить кого-л.</translation>
+          <comment>to come - приходить, to see - видеть, somebody - кто-либо</comment>
+       </example>
+       <example>
+          <value>to invite somebody to a museum</value>
+          <translation>пригласить кого-л. в музей</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, museum - музей</comment>
+       </example>
+       <example>
+          <value>to invite somebody to a restaurant</value>
+          <translation>пригласить кого-л. в ресторан</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, restaurant - ресторан</comment>
+       </example>
+       <example>
+          <value>to invite somebody to lunch</value>
+          <translation>пригласить кого-л. на обед</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, lunch - обед</comment>
+       </example>
+       <example>
+          <value>to invite somebody to your place</value>
+          <translation>пригласить кого-л. к себе (=тебе) домой</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, place - место</comment>
+       </example>
+       <example>
+          <value>to invite somebody to the movies</value>
+          <translation>пригласить кого-л. в кино</translation>
+          <comment>to invite - приглашать, somebody - кто-либо, movie - кинофильм</comment>
+       </example>
+       <example>
+          <value>to keep somebody company</value>
+          <translation>составить кому-л. компанию</translation>
+          <comment>to keep - поддержать, хранить, somebody - кто-либо, company - компания</comment>
+       </example>
+       <example>
+          <value>to offer somebody a cup of coffee</value>
+          <translation>предложить кому-л. чашку кофе</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, cup - чашка, coffee - кофе</comment>
+       </example>
+       <example>
+          <value>to offer somebody a glass of wine</value>
+          <translation>предложить кому-л. бокал вина</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, glass - бокал, wine - вино</comment>
+       </example>
+       <example>
+          <value>to offer somebody an ice cream</value>
+          <translation>предложить кому-л. мороженое</translation>
+          <comment>to offer - предлагать, somebody - кто-либо, ice cream - мороженое</comment>
+       </example>
+       <example>
+          <value>to let somebody know</value>
+          <translation>предупредить кого-либо</translation>
+          <comment>to let - позволять, somebody - кто-либо, to know - знать</comment>
+       </example>
+       <example>
+          <value>to send somebody</value>
+          <translation>прислать кого-либо</translation>
+          <comment>to send - послать, somebody - кто-нибудь</comment>
+       </example>
+       <example>
+          <value>to ask somebody to call</value>
+          <translation>попросить кого-л. позвонить</translation>
+          <comment>to ask - просить, somebody - кто-либо, to call - звонить</comment>
+       </example>
+       <example>
+          <value>to put somebody on the line</value>
+          <translation>соединять с кем-либо</translation>
+          <comment>to put - класть, ставить, somebody - кто-либо, line - линия</comment>
+       </example>
+       <example>
+          <value>to get somebody a taxi</value>
+          <translation>вызвать кому-либо такси</translation>
+          <comment>to get - доставать, получать, somebody - кто-либо, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to call somebody a doctor</value>
+          <translation>вызвать кому-либо врача</translation>
+          <comment>to call - вызывать, doctor - врач, somebody - кто-либо</comment>
+       </example>
+       <example>
+          <value>to let somebody examine you</value>
+          <translation>позволить кому-либо осмотреть тебя</translation>
+          <comment>to let - позволять, somebody - кто-либо, to examine - осмотреть</comment>
+       </example>
+       <example>
+          <value>to leave somebody alone</value>
+          <translation>оставить кого-либо в покое</translation>
+          <comment>to leave - оставлять, somebody - кто-либо, alone - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>help</question>
+    <answer>помощь, помогать</answer>
+    <comment>[help]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8c7754c3-0033-40d3-a944-cad7d0fb0a15</uuid>
+    <examples>
+       <example>
+          <value>to need your help</value>
+          <translation>нуждаться в твоей помощи</translation>
+          <comment>to need - нуждаться в, your - твой, ваш, help - помощь</comment>
+       </example>
+       <example>
+          <value>Thanks for your help.</value>
+          <translation>Спасибо за (твою) помощь.</translation>
+          <comment>to thank - благодарить, your - твой, ваш, help - помощь</comment>
+       </example>
+       <example>
+          <value>Are you being helped?</value>
+          <translation>Вас обслуживают?</translation>
+          <comment>to help - помогать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>advice</question>
+    <answer>совет</answer>
+    <comment>[ædˈvаɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c7c442c9-f404-4777-b9e5-2cdc33253ac4</uuid>
+    <examples>
+       <example>
+          <value>good advice</value>
+          <translation>хороший совет</translation>
+          <comment>good - хороший, advice - совет</comment>
+       </example>
+       <example>
+          <value>his advice</value>
+          <translation>его совет</translation>
+          <comment>your - твой, ваш, advice - совет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>regard</question>
+    <answer>приветствие</answer>
+    <comment>[rɪˈgɑːrd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8d9cf687-0c34-4a16-83e1-bd37b01a501b</uuid>
+    <examples>
+       <example>
+          <value>my regards</value>
+          <translation>мой привет</translation>
+          <comment>my - мой, моя, regards - поклон, приветствие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>back</question>
+    <answer>обратно</answer>
+    <comment>[bæk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8407c722-2a72-4d51-ba5e-970525d81777</uuid>
+    <examples>
+       <example>
+          <value>He&apos;ll come back.</value>
+          <translation>Он вернется.</translation>
+          <comment>to come - приезжать, прибывать, back - обратно</comment>
+       </example>
+       <example>
+          <value>to sign on the back</value>
+          <translation>расписаться на обратной стороне</translation>
+          <comment>to sign - подписать, back - обратная сторона</comment>
+       </example>
+       <example>
+          <value>a room at the back</value>
+          <translation>номер с окнами во двор</translation>
+          <comment>room - комната, номер (в гостинице), the back - задняя часть</comment>
+       </example>
+       <example>
+          <value>to be back in an hour</value>
+          <translation>вернуться через час</translation>
+          <comment>back - обратно, hour - час</comment>
+       </example>
+       <example>
+          <value>to call back in an hour</value>
+          <translation>перезвонить через час</translation>
+          <comment>to call - звонить, back - обратно</comment>
+       </example>
+       <example>
+          <value>I&apos;ll be back soon.</value>
+          <translation>Я скоро вернусь.</translation>
+          <comment>back - обратно, soon - скоро</comment>
+       </example>
+       <example>
+          <value>to have a pain in your back</value>
+          <translation>иметь боль в (твоей) спине</translation>
+          <comment>to have - иметь, pain - боль, back - спина</comment>
+       </example>
+       <example>
+          <value>to sit in the back rows</value>
+          <translation>сидеть на задних рядах</translation>
+          <comment>to sit - сидеть, back - задний, row - ряд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>accept</question>
+    <answer>принимать</answer>
+    <comment>[əkˈsept]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6e7e5d25-9c75-48ca-b81f-f89e9dbe81b9</uuid>
+    <examples>
+       <example>
+          <value>to accept his invitation</value>
+          <translation>принять его приглашение</translation>
+          <comment>to accept - принимать, his - его, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>to accept your invitation</value>
+          <translation>принять ваше приглашение</translation>
+          <comment>to accept - принимать, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>to accept my invitation</value>
+          <translation>принять мое приглашение</translation>
+          <comment>to accept - принимать, my - мой, моя, мое, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>to be unable to accept</value>
+          <translation>не мочь принять</translation>
+          <comment>unable - неспособный, accept - принять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>late</question>
+    <answer>поздний</answer>
+    <comment>[leɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cdf210d9-5be7-451b-a9a8-7e6c1177709e</uuid>
+    <examples>
+       <example>
+          <value>to get late</value>
+          <translation>становиться поздно</translation>
+          <comment>to get - становиться, late - поздний</comment>
+       </example>
+       <example>
+          <value>too late</value>
+          <translation>слишком поздно</translation>
+          <comment>too - слишком, late- поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to be late</value>
+          <translation>опаздывать</translation>
+          <comment>late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to be ten minutes late</value>
+          <translation>опаздывать на 10 минут</translation>
+          <comment>ten - десять, minute - минута, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to be five minutes late</value>
+          <translation>опаздывать на 5 минут</translation>
+          <comment>five - пять, minute - минута, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to be an hour late</value>
+          <translation>опаздывать на один час</translation>
+          <comment>hour - час, late - поздний</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>need</question>
+    <answer>нуждаться</answer>
+    <comment>[niːd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1b883f7a-3513-4754-8e9a-c52034623c6f</uuid>
+    <examples>
+       <example>
+          <value>to need your help</value>
+          <translation>нуждаться в твоей помощи</translation>
+          <comment>to need - нуждаться в, your - твой, ваш, help - помощь</comment>
+       </example>
+       <example>
+          <value>to need a dictionary</value>
+          <translation>нуждаться в словаре</translation>
+          <comment>to need - нуждаться в, dictionary - словарь</comment>
+       </example>
+       <example>
+          <value>to need an interpreter</value>
+          <translation>нуждаться в переводчике</translation>
+          <comment>to need - нуждаться в, interpreter - переводчик</comment>
+       </example>
+       <example>
+          <value>to need a fork</value>
+          <translation>нуждаться в вилке</translation>
+          <comment>to need - нуждаться в, fork - вилка</comment>
+       </example>
+       <example>
+          <value>to need a knife</value>
+          <translation>нуждаться в ноже</translation>
+          <comment>to need - нуждаться в, knife - нож</comment>
+       </example>
+       <example>
+          <value>to need a napkin</value>
+          <translation>нуждаться в салфетке</translation>
+          <comment>to need - нуждаться, napkin - салфетка</comment>
+       </example>
+       <example>
+          <value>to need a table for four</value>
+          <translation>нуждаться в столике на четверых</translation>
+          <comment>to need - нуждаться, table - стол, four - четыре</comment>
+       </example>
+       <example>
+          <value>to need a garage</value>
+          <translation>нуждаться в гараже</translation>
+          <comment>need - нуждаться, garage - гараж</comment>
+       </example>
+       <example>
+          <value>to need a tow truck</value>
+          <translation>нуждаться в эвакуаторе</translation>
+          <comment>need - нуждаться, tow - буксир, truck - грузовик</comment>
+       </example>
+       <example>
+          <value>to need a doctor</value>
+          <translation>нуждаться во враче</translation>
+          <comment>to need - нуждаться, doctor - врач</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>say</question>
+    <answer>говорить, сказать</answer>
+    <comment>[seɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1927b578-30a8-47f7-8ff1-be9baee1be25</uuid>
+    <examples>
+       <example>
+          <value>to say goodbye</value>
+          <translation>попрощаться</translation>
+          <comment>to say - говорить, сказать, goodbye - до свидания</comment>
+       </example>
+       <example>
+          <value>to say hello</value>
+          <translation>передать привет, поздороваться</translation>
+          <comment>to say - говорить, сказать, hello - привет</comment>
+       </example>
+       <example>
+          <value>to say it again</value>
+          <translation>сказать это еще раз</translation>
+          <comment>to say - сказать, it - это, again - снова</comment>
+       </example>
+       <example>
+          <value>to say that</value>
+          <translation>сказать то</translation>
+          <comment>to say - говорить, сказать, that - то, это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>journey</question>
+    <answer>путешествие</answer>
+    <comment>[ˈʤɜːrniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>11ef5ee2-5edc-44c5-976f-5debd2641e7b</uuid>
+    <examples>
+       <example>
+          <value>a good journey</value>
+          <translation>хорошее путешествие</translation>
+          <comment>good - хороший, journey - путешествие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>moving</question>
+    <answer>двигающийся</answer>
+    <comment>[ˈmuːvɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd266048-c53a-4811-8b35-b39ced946b26</uuid>
+    <examples>
+       <example>
+          <value>to get moving</value>
+          <translation>выдвигаться</translation>
+          <comment>to get - становиться, moving - двигающийся</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>goodbye</question>
+    <answer>до свидания</answer>
+    <comment>[ˌgʊdˈbаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5d0b41f-a076-4a75-8373-548cbb9b0786</uuid>
+    <examples>
+       <example>
+          <value>to say goodbye</value>
+          <translation>попрощаться</translation>
+          <comment>to say - говорить, сказать, goodbye - до свидания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>invitation</question>
+    <answer>приглашение</answer>
+    <comment>[ˌɪnvɪˈteɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42112914-68d4-4de0-baf2-5143d18fb6e6</uuid>
+    <examples>
+       <example>
+          <value>to accept his invitation</value>
+          <translation>принять его приглашение</translation>
+          <comment>to accept - принимать, his - его, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>to accept your invitation</value>
+          <translation>принять ваше приглашение</translation>
+          <comment>to accept - принимать, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>to accept my invitation</value>
+          <translation>принять мое приглашение</translation>
+          <comment>to accept - принимать, my - мой, моя, мое, invitation - приглашение</comment>
+       </example>
+       <example>
+          <value>on the invitation of Mr. Brown</value>
+          <translation>по приглашению мистера Брауна</translation>
+          <comment>invitation - приглашение, Mr. Brown - мистер Браун</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>go</question>
+    <answer>идти</answer>
+    <comment>[goʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>65a63456-2935-4301-bd92-24f2d5a43592</uuid>
+    <examples>
+       <example>
+          <value>to go home</value>
+          <translation>идти домой</translation>
+          <comment>to go - идти, home - домой</comment>
+       </example>
+       <example>
+          <value>to go to the concert</value>
+          <translation>идти на концерт</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to go to the theater</value>
+          <translation>идти в театр</translation>
+          <comment>to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>to go to the center</value>
+          <translation>ехать до центра</translation>
+          <comment>to go (to) - ехать (до), center - центр</comment>
+       </example>
+       <example>
+          <value>to go to the square</value>
+          <translation>ехать до площади</translation>
+          <comment>to go (to) - ехать (до), square - площадь</comment>
+       </example>
+       <example>
+          <value>to go to the university</value>
+          <translation>ехать до университета</translation>
+          <comment>to go (to) - ехать (до), university - университет</comment>
+       </example>
+       <example>
+          <value>to go to the Zoo</value>
+          <translation>ехать к зоопарку</translation>
+          <comment>to go (to) - ехать (до), the Zoo - зоопарк</comment>
+       </example>
+       <example>
+          <value>to go straight ahead</value>
+          <translation>ехать прямо</translation>
+          <comment>to go - идти, ехать, straight ahead - прямо</comment>
+       </example>
+       <example>
+          <value>to go to the stadium</value>
+          <translation>доехать до стадиона</translation>
+          <comment>to go - идти, ехать, stadium - стадион</comment>
+       </example>
+       <example>
+          <value>to go to a dentist</value>
+          <translation>пойти к зубному</translation>
+          <comment>to go - идти, dentist - зубной врач</comment>
+       </example>
+       <example>
+          <value>to go to a surgeon</value>
+          <translation>обратиться к хирургу</translation>
+          <comment>to go (to) - обратиться (к), surgeon - хирург</comment>
+       </example>
+       <example>
+          <value>to go to see a doctor</value>
+          <translation>обратиться к врачу</translation>
+          <comment>to go - идти, to see - видеть, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to go to the Drama Theater</value>
+          <translation>пойти в драматический театр</translation>
+          <comment>to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>to go to the Opera House</value>
+          <translation>пойти в оперный театр</translation>
+          <comment>to go - идти, the Opera House - оперный театр</comment>
+       </example>
+       <example>
+          <value>to go to the Operetta House</value>
+          <translation>пойти в театр оперетты</translation>
+          <comment>to go - идти, the Operetta House - театр оперетты</comment>
+       </example>
+       <example>
+          <value>to go to the Puppet Theater</value>
+          <translation>пойти в кукольный театр</translation>
+          <comment>to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+       <example>
+          <value>to go to the Young Spectator Theater</value>
+          <translation>пойти в театр юного зрителя</translation>
+          <comment>to go - идти, the Young Spectator Theater - театр юного зрителя</comment>
+       </example>
+       <example>
+          <value>to go to the movies</value>
+          <translation>пойти в кино</translation>
+          <comment>to go - идти, movie - кино</comment>
+       </example>
+       <example>
+          <value>to want to go to the movies</value>
+          <translation>хотеть пойти в кино</translation>
+          <comment>to want - хотеть, to go - ехать, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>to go to concerts</value>
+          <translation>ходить на концерты</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to go to a concert</value>
+          <translation>пойти на концерт</translation>
+          <comment>to go - идти, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to go for stockings</value>
+          <translation>пойти за колготками</translation>
+          <comment>to go - идти, stockings - колготки</comment>
+       </example>
+       <example>
+          <value>to go shopping</value>
+          <translation>пойти за покупками</translation>
+          <comment>to go - идти, shopping - покупки</comment>
+       </example>
+       <example>
+          <value>to go for a walk</value>
+          <translation>пойти на прогулку</translation>
+          <comment>to go - идти, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>to go karaoke singing</value>
+          <translation>идти петь караоке</translation>
+          <comment>to go - идти, karaoke - караоке, singing - пение, to sing - петь</comment>
+       </example>
+       <example>
+          <value>to go on a hike</value>
+          <translation>пойти в поход</translation>
+          <comment>to go - идти, hike - поход</comment>
+       </example>
+       <example>
+          <value>to go to a night club</value>
+          <translation>пойти в ночной клуб</translation>
+          <comment>to go - идти, night - ночной, club - клуб</comment>
+       </example>
+       <example>
+          <value>to go to the beach</value>
+          <translation>ходить на пляж</translation>
+          <comment>to go - идти, beach - пляж</comment>
+       </example>
+       <example>
+          <value>to go to the disco</value>
+          <translation>пойти на дискотеку</translation>
+          <comment>to go - идти, disco - дискотека</comment>
+       </example>
+       <example>
+          <value>to go to an academy</value>
+          <translation>учиться в академии</translation>
+          <comment>to go - идти, academy - академия</comment>
+       </example>
+       <example>
+          <value>to go to college</value>
+          <translation>учиться в колледже</translation>
+          <comment>to go - идти, college - колледж</comment>
+       </example>
+       <example>
+          <value>to go to university</value>
+          <translation>учиться в университете</translation>
+          <comment>to go - идти, university - университет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>home</question>
+    <answer>дом, домой</answer>
+    <comment>[hoʊm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68fc6253-bceb-4d75-9e3b-73376da6a086</uuid>
+    <examples>
+       <example>
+          <value>to go home</value>
+          <translation>идти домой</translation>
+          <comment>to go - идти, home - домой</comment>
+       </example>
+       <example>
+          <value>to give a ride home</value>
+          <translation>отвезти домой</translation>
+          <comment>to give - давать, ride - поездка, home - дом</comment>
+       </example>
+       <example>
+          <value>to be at home</value>
+          <translation>быть дома</translation>
+          <comment>home - дом</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hurry</question>
+    <answer>спешить</answer>
+    <comment>[ˈhɜːriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>914ab18d-9dea-4829-8226-4d9bde4e01bd</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m in a hurry</value>
+          <translation>Я спешу.</translation>
+          <comment>hurry - спешка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>come</question>
+    <answer>приходить, приезжать</answer>
+    <comment>[kʌm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>202f54c1-30fb-4b17-bc0a-279935288b8c</uuid>
+    <examples>
+       <example>
+          <value>He&apos;ll come back.</value>
+          <translation>Он вернется.</translation>
+          <comment>to come - приезжать, прибывать, back - обратно</comment>
+       </example>
+       <example>
+          <value>to come again</value>
+          <translation>приходить еще</translation>
+          <comment>to come - приходить, again - снова, еще</comment>
+       </example>
+       <example>
+          <value>to come and see somebody</value>
+          <translation>навестить кого-л.</translation>
+          <comment>to come - приходить, to see - видеть, somebody - кто-либо</comment>
+       </example>
+       <example>
+          <value>I&apos;ll come by tomorrow.</value>
+          <translation>Я забегу (к тебе) завтра.</translation>
+          <comment>to come by - забежать, заскочить (к кому-либо), tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to come for a walk</value>
+          <translation>пойти прогуляться (с кем-либо)</translation>
+          <comment>to come - приходить, walk - прогулка</comment>
+       </example>
+       <example>
+          <value>Come in, John.</value>
+          <translation>Заходи, Джон.</translation>
+          <comment>to come in - заходить</comment>
+       </example>
+       <example>
+          <value>to come over on Friday evening</value>
+          <translation>зайти (к кому-либо домой) в пятницу вечером</translation>
+          <comment>to come over - приходить в гости к кому-либо домой</comment>
+       </example>
+       <example>
+          <value>to come next time</value>
+          <translation>прийти в следующий раз</translation>
+          <comment>to come - прийти, next - следующий, time - раз</comment>
+       </example>
+       <example>
+          <value>to come to the movies</value>
+          <translation>прийти в кино</translation>
+          <comment>to come - приходить, movie - кино</comment>
+       </example>
+       <example>
+          <value>to come from Russia</value>
+          <translation>приехать из России</translation>
+          <comment>to come - приехать, Russia - Россия</comment>
+       </example>
+       <example>
+          <value>to come from</value>
+          <translation>поставляться из</translation>
+          <comment>to come - приходить, from - от, из</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hello</question>
+    <answer>привет</answer>
+    <comment>[heˈloʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20673478-9436-4fe1-bf93-2cbec818fc65</uuid>
+    <examples>
+       <example>
+          <value>to say hello</value>
+          <translation>передать привет, поздороваться</translation>
+          <comment>to say - говорить, сказать, hello - привет</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>722a7cf8-3ca0-468c-8501-1b87962d31cd</uuid>
+  <title>Цвета</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>beige</question>
+    <answer>бежевый</answer>
+    <comment></comment>
+    <answer_picture>beige.gif</answer_picture>
+    <uuid>d8633ac1-dac6-4af7-8d3e-2b093f26e6d2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>noir</question>
+    <answer>чёрный</answer>
+    <comment></comment>
+    <answer_picture>black.gif</answer_picture>
+    <uuid>a27dd8a9-9d8f-436d-b4bf-ccde9c086fb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bleu</question>
+    <answer>синий, голубой</answer>
+    <comment></comment>
+    <answer_picture>blue.gif</answer_picture>
+    <uuid>3053b864-920d-48e7-b1b9-2a411d864832</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>brun</question>
+    <answer>коричневый</answer>
+    <comment></comment>
+    <answer_picture>brown.gif</answer_picture>
+    <uuid>6f4ee77c-bcd4-4070-943b-05072e7e6ad0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>à carreaux</question>
+    <answer>клетчатый, в клеточку</answer>
+    <comment></comment>
+    <answer_picture>checkered.gif</answer_picture>
+    <uuid>24519d10-4d6f-4d93-a6dd-a6103951590b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cramoisi</question>
+    <answer>малиновый</answer>
+    <comment></comment>
+    <answer_picture>crimson.gif</answer_picture>
+    <uuid>900b5175-5636-4698-9ce9-2b77fc7e396a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>vert</question>
+    <answer>зелёный</answer>
+    <comment></comment>
+    <answer_picture>green.gif</answer_picture>
+    <uuid>acbf054d-2c51-4291-bcbd-e88fc6b6cd49</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>gris</question>
+    <answer>серый</answer>
+    <comment></comment>
+    <answer_picture>grey.gif</answer_picture>
+    <uuid>9069aa85-7ccf-46fa-af0b-10907dbc9413</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bleu clair</question>
+    <answer>голубой</answer>
+    <comment></comment>
+    <answer_picture>light_blue.gif</answer_picture>
+    <uuid>010f5da5-db54-4b56-8510-475e7092a9c5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bordeaux</question>
+    <answer>красно-коричневый</answer>
+    <comment></comment>
+    <answer_picture>maroon.gif</answer_picture>
+    <uuid>8c37e101-8a83-44a5-9f78-2e2235004699</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le moniteur</question>
+    <answer>монитор</answer>
+    <comment></comment>
+    <answer_picture>monitor.gif</answer_picture>
+    <uuid>0b5f1757-ec54-457b-a43a-4ffad333b3d1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>orange</question>
+    <answer>оранжевый</answer>
+    <comment></comment>
+    <answer_picture>orange.gif</answer_picture>
+    <uuid>9b3ab390-00ed-4e54-94fd-26fa49cd495f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le tableau</question>
+    <answer>картина</answer>
+    <comment></comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>fb7e6853-93fe-49db-8834-4576967610d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rose</question>
+    <answer>розовый</answer>
+    <comment></comment>
+    <answer_picture>pink.gif</answer_picture>
+    <uuid>be4300f0-bcaf-4054-b0e6-db968542cba7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;imprimante</question>
+    <answer>принтер</answer>
+    <comment></comment>
+    <answer_picture>printer.gif</answer_picture>
+    <uuid>36dc7743-aa44-4f86-962e-38750afb10a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>violet</question>
+    <answer>фиолетовый</answer>
+    <comment></comment>
+    <answer_picture>purple.gif</answer_picture>
+    <uuid>b2f7d0a8-ddba-40dc-80fc-bada83d243eb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;arc-en-ciel [ark-]</question>
+    <answer>радуга</answer>
+    <comment></comment>
+    <answer_picture>rainbow.gif</answer_picture>
+    <uuid>5ec799b2-3dac-49a9-b00e-fe44bf45b228</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rouge</question>
+    <answer>красный</answer>
+    <comment></comment>
+    <answer_picture>red.gif</answer_picture>
+    <uuid>3f2a772c-a4a8-4d7b-aa9b-2aee5354d51d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tacheté</question>
+    <answer>пятнистый, крапчатый</answer>
+    <comment></comment>
+    <answer_picture>spotted.gif</answer_picture>
+    <uuid>5eb11457-dbb9-4f82-8478-53189c412976</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le  timbre</question>
+    <answer>марка</answer>
+    <comment></comment>
+    <answer_picture>stamp.gif</answer_picture>
+    <uuid>c078697e-5537-4d2d-8eb8-4e8534933a86</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rayé</question>
+    <answer>полосатый</answer>
+    <comment></comment>
+    <answer_picture>striped.gif</answer_picture>
+    <uuid>17835eb4-64e0-46fe-8d17-aa5cade52992</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>blanc</question>
+    <answer>белый</answer>
+    <comment></comment>
+    <answer_picture>white.gif</answer_picture>
+    <uuid>a794e408-b05e-4ab5-9473-36f6347596ac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>jaune</question>
+    <answer>жёлтый</answer>
+    <comment></comment>
+    <answer_picture>yellow.gif</answer_picture>
+    <uuid>cb3bb483-37d0-4d8e-ba5e-03c7c4a4bec3</uuid>
+  </card>
+</cards>
+</stack>

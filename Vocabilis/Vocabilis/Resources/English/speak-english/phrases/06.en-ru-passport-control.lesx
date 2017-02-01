@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>cc87736d-0882-491b-9a1c-b426e3ae10f1</uuid>
+  <title>Паспортный контроль :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>3</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Where is the passport control?</question>
+    <answer>Где паспортный контроль?</answer>
+    <comment>[hwer ɪz ðə ˈpæspɔːrt kənˈtroʊl]</comment>
+    <answer_comment>where - где, passport - паспорт, control - контроль</answer_comment>
+    
+    <uuid>e35914e8-179e-4509-b0a1-cfda8aadacb5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Your passport, please.</question>
+    <answer>Пожалуйста, ваш паспорт.</answer>
+    <comment>[jər ˈpæspɔːrt pliːz]</comment>
+    <answer_comment>your - твой, ваш, passport - паспорт</answer_comment>
+    
+    <uuid>6a0e42e8-11b2-451a-9d9f-fde00699a8da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Show me your passport, please.</question>
+    <answer>Покажите, пожалуйста, ваш паспорт.</answer>
+    <comment>[ʃoʊ ˈmiː jər ˈpæspɔːrt pliːz]</comment>
+    <answer_comment>to show - показывать, me - мне, меня, your - твой, ваш, passport - паспорт</answer_comment>
+    
+    <uuid>e6d691ed-a95b-4176-9663-100d8052b17d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my passport.</question>
+    <answer>Вот мой паспорт.</answer>
+    <comment>[hɪr ɪz mаɪ ˈpæspɔːrt]</comment>
+    <answer_comment>here - здесь, my - мой, моя, passport - паспорт</answer_comment>
+    
+    <uuid>be67e0d0-1805-4f49-86cc-0f195a21f12c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my wife&apos;s passport.</question>
+    <answer>Вот паспорт моей жены.</answer>
+    <comment>[hɪr ɪz mаɪ wаɪfs ˈpæspɔːrt]</comment>
+    <answer_comment>here - здесь, my - мой, моя, wife - жена, passport - паспорт</answer_comment>
+    
+    <uuid>3e080ffa-37c3-411d-8afc-3edf2f67b190</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here are our passports.</question>
+    <answer>Вот наши паспорта.</answer>
+    <comment>[hɪr ɑːr аʊr ˈpæspɔːrts]</comment>
+    <answer_comment>here - здесь, our - наш, наши, passport - паспорт</answer_comment>
+    
+    <uuid>c2727990-3ee1-4c2d-ae80-14e8cc041691</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the purpose of your visit?</question>
+    <answer>Какова цель вашего прибытия?</answer>
+    <comment>[hwʌt ɪz ðə ˈpɜːrpəs əv jər ˈvɪzɪt]</comment>
+    <answer_comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение</answer_comment>
+    
+    <uuid>4c670c4b-a34e-4a54-9bce-14625485308c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is the purpose of your visit to this country?</question>
+    <answer>Какова цель вашего прибытия в страну?</answer>
+    <comment>[hwʌt ɪz ðə ˈpɜːrpəs əv jər ˈvɪzɪt tə ðɪs ˈkʌntriː]</comment>
+    <answer_comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение, this - этот, эта, country - страна</answer_comment>
+    
+    <uuid>d10fbb46-7172-4d72-bf82-e24e95fc2a4d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The purpose of my visit is tourism.</question>
+    <answer>Цель моей поездки - туризм.</answer>
+    <comment>[ðə ˈpɜːrpəs əv mаɪ ˈvɪzɪt ɪz ˈturɪzm]</comment>
+    <answer_comment>purpose - цель, my - мой, моя, visit - визит, посещение, tourism - туризм</answer_comment>
+    
+    <uuid>960ebacf-e832-4255-8c43-bbec17011bd3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The purpose of my visit is business.</question>
+    <answer>Цель моей поездки - бизнес.</answer>
+    <comment>[ðə ˈpɜːrpəs əv mаɪ ˈvɪzɪt ɪz ˈbɪznɪs]</comment>
+    <answer_comment>purpose - цель, my - мой, моя, visit - визит, посещение, business - бизнес</answer_comment>
+    
+    <uuid>5b232c55-6b48-41ed-888c-9d39d462b6fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The purpose of my visit is personal.</question>
+    <answer>Цель моей поездки - личная.</answer>
+    <comment>[ðə ˈpɜːrpəs əv mаɪ ˈvɪzɪt ɪz ˈpɜːrsənl]</comment>
+    <answer_comment>purpose - цель, my - мой, моя, visit - визит, посещение, personal - личный</answer_comment>
+    
+    <uuid>a0e7661a-4e38-4ba1-9eb2-c8f2fb2b48db</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long do you intend to stay?</question>
+    <answer>Как долго вы предполагаете здесь находиться?</answer>
+    <comment>[hаʊ lɔːŋ duː jʊ ɪnˈtend tə steɪ]</comment>
+    <answer_comment>how - како, long - долго, to intend - намереваться, to stay - пребывать, оставаться</answer_comment>
+    
+    <uuid>dd577cc2-7950-4380-a0bd-abb8ca3c0bc2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m going to stay in the country for several days.</question>
+    <answer>Я собираюсь пробыть в стране несколько дней.</answer>
+    <comment>[аɪm ˈgoʊɪŋ tə steɪ ɪn ðə ˈkʌntriː fər ˈsevərəl ˈdeɪz]</comment>
+    <answer_comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, day - день</answer_comment>
+    
+    <uuid>a79f2316-cb23-4df3-86d5-50df42bd0c50</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m going to stay in the country for a week.</question>
+    <answer>Я собираюсь пробыть в стране неделю.</answer>
+    <comment>[аɪm ˈgoʊɪŋ tə steɪ ɪn ðə ˈkʌntriː fər ə wiːk]</comment>
+    <answer_comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</answer_comment>
+    
+    <uuid>cfa43dc9-8b04-40e9-9470-c9d133694cf1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m going to stay in the country for a month.</question>
+    <answer>Я собираюсь пробыть в стране месяц.</answer>
+    <comment>[аɪm ˈgoʊɪŋ tə steɪ ɪn ðə ˈkʌntriː fər ə mʌnθ]</comment>
+    <answer_comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, month - месяц</answer_comment>
+    
+    <uuid>b8684ca7-be70-4444-b0fd-27417ed51c40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll stay at a hotel.</question>
+    <answer>Я остановлюсь в гостинице.</answer>
+    <comment>[аɪl steɪ ət ə hoʊˈtel]</comment>
+    <answer_comment>to stay - оставаться, hotel - гостиница</answer_comment>
+    
+    <uuid>2b322c85-772b-4323-9e73-206343b5ffb7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll stay at my relatives&apos;.</question>
+    <answer>Я остановлюсь у родственников.</answer>
+    <comment>[аɪl steɪ ət mаɪ ˈrelətɪvz]</comment>
+    <answer_comment>to stay - оставаться, relative - родственник</answer_comment>
+    
+    <uuid>4686cb80-91f2-49bc-8b8c-b0f4e98b42d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The relative who has invited me is my uncle.</question>
+    <answer>Родственник, который пригласил меня, это мой дядя.</answer>
+    <comment>[ðə ˈrelətɪv huː hæz ɪnˈvаɪtɪd ˈmiː ɪz mаɪ ˈʌŋkəl]</comment>
+    <answer_comment>relative - родственник, to invite - приглашать, me - мне, меня, uncle - дядя</answer_comment>
+    
+    <uuid>33af1feb-24c0-418d-a4d4-5f1c1dab10d7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a single-entry visa for twelve days.</question>
+    <answer>У меня однократная виза на 12 дней.</answer>
+    <comment>[аɪ hæv ə ˈsɪŋgəl ˈentriː ˈviːzə fər twelv ˈdeɪz]</comment>
+    <answer_comment>to have - иметь, single - отдельный, единичный, entry - вход, въезд, visa - виза, twelve - двенадцать, day - день</answer_comment>
+    
+    <uuid>356b96da-17eb-4196-a72c-1eeed9bd9f6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a multiple-entry visa for this year.</question>
+    <answer>У меня многократная виза на этот год.</answer>
+    <comment>[аɪ hæv ə ˈmʌltəpəl ˈentriː ˈviːzə fər ðɪs jɪr]</comment>
+    <answer_comment>to have - иметь, multiple - множественный, entry - вход, въезд, visa - виза, this - этот, эта, year - год</answer_comment>
+    
+    <uuid>ffb95a73-f82f-4b86-b5fd-6fe4b255dc30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have a visa up to the second of April.</question>
+    <answer>У меня виза до второго апреля.</answer>
+    <comment>[аɪ hæv ə ˈviːzə ʌp tə ðə ˈsekənd əv ˈeɪprəl]</comment>
+    <answer_comment>to have - иметь, visa - виза, the second - второй, April - апрель</answer_comment>
+    
+    <uuid>629fece7-1765-4127-b54f-c545ed9ba725</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The child is entered in my passport.</question>
+    <answer>Ребенок вписан в мой паспорт.</answer>
+    <comment>[ðə ʧаɪld ɪz ˈentərd ɪn mаɪ ˈpæspɔːrt]</comment>
+    <answer_comment>child - ребенок, entered - внесенный, записанный, passport - паспорт</answer_comment>
+    
+    <uuid>5f956313-4f1c-4a1d-b875-d1aadd926452</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The child is entered in my wife&apos;s passport.</question>
+    <answer>Ребенок вписан в паспорт моей жены.</answer>
+    <comment>[ðə ʧаɪld ɪz ˈentərd ɪn mаɪ wаɪfs ˈpæspɔːrt]</comment>
+    <answer_comment>child - ребенок, entered - внесенный, записанный, wife - жена, passport - паспорт</answer_comment>
+    
+    <uuid>e0401da1-e5d0-4271-b0eb-dfd11bbf30e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m just passing your country.</question>
+    <answer>Я в вашей стране только проездом.</answer>
+    <comment>[аɪm ʤʌst ˈpæsɪŋ jər ˈkʌntriː]</comment>
+    <answer_comment>just - только, просто, passing - проезжающий, your - твой, ваш, country - страна</answer_comment>
+    
+    <uuid>fa760f83-6711-4d7b-bc67-591ebbd15153</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s all right! You may pass on.</question>
+    <answer>Все в порядке! Вы можете проходить.</answer>
+    <comment>[ðæts ɔːl rаɪt jʊ meɪ pæs ɑːn]</comment>
+    <answer_comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</answer_comment>
+    
+    <uuid>25d4ad21-3981-4b07-8631-b8dff06d3a8d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Pass along, please.</question>
+    <answer>Проходите, пожалуйста.</answer>
+    <comment>[pæs əˈlɔːŋ pliːz]</comment>
+    <answer_comment>to pass - проходить, along - дальше</answer_comment>
+    
+    <uuid>8b947d01-6baa-49ed-bcad-f6c0e36a8454</uuid>
+  </card>
+</cards>
+</stack>

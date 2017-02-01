@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>35e5ba06-cb1e-4102-915a-044387ffc841</uuid>
+  <title>Городской транспорт :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a map of the subway</question>
+    <answer>карта метро</answer>
+    <comment>[ə mæp əv ðə ˈsʌbˌweɪ]</comment>
+    <question_comment>map - карта, subway - метро (амер.)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7ee2d09e-3f5e-4258-9937-43d1cc2e5ecd</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a map of the subway?</value>
+          <translation>Где я могу купить карту метро?</translation>
+          <comment>where - где, can - мочь, to buy - купить, map - карта, subway - метро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the next stop</question>
+    <answer>на следующей остановке</answer>
+    <comment>[ət ðə nekst stɑːp]</comment>
+    <question_comment>next - следующий, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>460a32a4-ebef-4c6e-94bb-4efed331df5b</uuid>
+    <examples>
+       <example>
+          <value>Are you getting off at the next stop?</value>
+          <translation>Вы выходите на следующей остановке?</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the city center</question>
+    <answer>центр города</answer>
+    <comment>[ðə ˈsɪtiː ˈsentər]</comment>
+    <question_comment>city - город, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a8118a67-b788-46f7-817f-7dd2497724be</uuid>
+    <examples>
+       <example>
+          <value>Which bus should I take to the city center?</value>
+          <translation>На каком автобусе можно доехать до центра?</translation>
+          <comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which streetcar should I take to the city center?</value>
+          <translation>На каком трамвае можно доехать до центра?</translation>
+          <comment>which - какой, который, streetcar - трамвай, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>I want to have a ride through the city center.</value>
+          <translation>Я хочу проехаться по центру города.</translation>
+          <comment>to want - хотеть, to have - иметь, ride - поездка, through - через, сквозь, city - город, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest bus stop</question>
+    <answer>ближайшая автобусная остановка</answer>
+    <comment>[ðə ˈnɪrɪst bʌs stɑːp]</comment>
+    <question_comment>the nearest - ближайший, bus - автобус, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9644be75-bd99-4cf2-9375-83180fc63c67</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest bus stop?</value>
+          <translation>Где ближайшая автобусная остановка?</translation>
+          <comment>where - где, the nearest - ближайший, bus - автобус, stop - остановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest streetcar stop</question>
+    <answer>ближайшая трамвайная остановка</answer>
+    <comment>[ðə ˈnɪrɪst ˈstriːtˌkɑːr stɑːp]</comment>
+    <question_comment>the nearest - ближайший, streetcar - трамвай, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6352df81-03e4-41e3-a64a-aae58cfa9edb</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest streetcar stop?</value>
+          <translation>Где ближайшая трамвайная остановка?</translation>
+          <comment>where - где, the nearest - ближайший, streetcar - трамвай, stop - остановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest subway station</question>
+    <answer>ближайшая станция метро (амер.)</answer>
+    <comment>[ðə ˈnɪrɪst ˈsʌbˌweɪ ˈsteɪʃən]</comment>
+    <question_comment>the nearest - ближайший, subway - метро, station - станция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7b76319b-2f14-4db5-a167-b905ba35e437</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest subway station?</value>
+          <translation>Где ближайшая станция метро? (Амер.)</translation>
+          <comment>where - где, the nearest - ближайший, subway - метро, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the next bus</question>
+    <answer>следующий автобус</answer>
+    <comment>[ðə nekst bʌs]</comment>
+    <question_comment>next - следующий, bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f24f62ea-9f01-469b-8fcc-a407efdc5738</uuid>
+    <examples>
+       <example>
+          <value>When is the next bus?</value>
+          <translation>Когда следующий автобус?</translation>
+          <comment>when - когда, next - следующий, bus - автобус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the next station</question>
+    <answer>следующая станция</answer>
+    <comment>[ðə nekst ˈsteɪʃən]</comment>
+    <question_comment>next - следующий, station - станция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>919e73db-8265-4732-b2f0-9542905a6868</uuid>
+    <examples>
+       <example>
+          <value>Could you tell me which is the next station?</value>
+          <translation>Не подскажите, какая следующая станция?</translation>
+          <comment>could - мог, могла, могли, to tell - говорить, сказать, me - мне, меня, which - который, какой, next - следующий, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the stop button</question>
+    <answer>кнопка сигнала остановки</answer>
+    <comment>[ðə stɑːp ˈbʌtn]</comment>
+    <question_comment>stop - остановка, button - кнопка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6a356939-2c42-40e2-8c09-ae08948ea3b4</uuid>
+    <examples>
+       <example>
+          <value>Where is the stop button?</value>
+          <translation>Где кнопка сигнала остановки?</translation>
+          <comment>where - где, stop - остановка, button - кнопка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to arrive at the theater</question>
+    <answer>подъехать к театру</answer>
+    <comment>[tə əˈrаɪv ət ðə ˈθɪətər]</comment>
+    <question_comment>to arrive - прибывать, подъезжать, theater - театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3829017a-eb6f-44cb-a092-de482d48b81f</uuid>
+    <examples>
+       <example>
+          <value>Will you please let me know when we arrive at the theater?</value>
+          <translation>Скажите, пожалуйста, когда будет театр.</translation>
+          <comment>let - позволить, me - мне, меня, to know - знать, when - когда, to arrive - прибывать, theater - театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is this stop called?</question>
+    <answer>Как называется эта остановка?</answer>
+    <comment>[hwʌt ɪz ðɪs stɑːp kɔːld]</comment>
+    <question_comment>what - зд. как, to call - называть, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c97f3fad-b988-4df0-9bb4-1386b6c2638c</uuid>
+    <examples>
+       <example>
+          <value>What is this stop called?</value>
+          <translation>Как называется эта остановка?</translation>
+          <comment>what - что, какой, this - этот, это, эта, stop - остановка, called - называемый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a vacant place</question>
+    <answer>свободное место</answer>
+    <comment>[ə ˈveɪkənt pleɪs]</comment>
+    <question_comment>vacant - незанятый, place - место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7798fbc5-ba72-44ed-be7e-41b727cad434</uuid>
+    <examples>
+       <example>
+          <value>Is this place vacant?</value>
+          <translation>Это место свободно?</translation>
+          <comment>this - этот, эта, это, place - место, vacant - свободный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a valid ticket</question>
+    <answer>действительный билет</answer>
+    <comment>[ə ˈvælɪd ˈtɪkɪt]</comment>
+    <question_comment>valid - действительный, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6cf52e4-7d95-4356-8a44-b005d9b48448</uuid>
+    <examples>
+       <example>
+          <value>What time is my ticket valid for?</value>
+          <translation>Какое время действителен мой билет?</translation>
+          <comment>what - что, какой, time - время, my - мой, моя, мое, ticket - билет, valid - действительный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a day ticket</question>
+    <answer>купить проездной билет на сутки</answer>
+    <comment>[tə bаɪ ə deɪ ˈtɪkɪt]</comment>
+    <question_comment>to buy - покупать, day - день, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>151c347d-a983-4cff-af53-ee8c9bbb3c61</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a day ticket?</value>
+          <translation>Можно купить проездной билет на сутки?</translation>
+          <comment>can - мочь, to buy - купить, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a map</question>
+    <answer>купить карту</answer>
+    <comment>[tə bаɪ ə mæp]</comment>
+    <question_comment>to buy - покупать, map - карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>10539ad9-f623-4501-b075-0ddc1ab2d0d6</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a map of the car roads?</value>
+          <translation>Где я могу купить карту автодорог?</translation>
+          <comment>where - где, can - мочь, to buy - купить, map - карта, car - машина, road - дорога</comment>
+       </example>
+       <example>
+          <value>Where can I buy a map of the subway?</value>
+          <translation>Где я могу купить карту метро?</translation>
+          <comment>where - где, can - мочь, to buy - купить, map - карта, subway - метро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a monthly ticket</question>
+    <answer>купить проездной билет на месяц</answer>
+    <comment>[tə bаɪ ə ˈmʌnθliː ˈtɪkɪt]</comment>
+    <question_comment>to buy - покупать, monthly - месячный, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20c23797-3d97-496c-bdf6-85f7a7bda232</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a monthly ticket?</value>
+          <translation>Можно купить проездной билет на месяц?</translation>
+          <comment>can - мочь, to buy - купить, monthly -месячный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a three day ticket</question>
+    <answer>купить проездной билет на три дня</answer>
+    <comment>[tə bаɪ ə θriː ˈdeɪ ˈtɪkɪt]</comment>
+    <question_comment>to buy - покупать, three - три, day - день, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>85208a6d-def5-41a4-927b-9b28fea913c2</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a weekly ticket</question>
+    <answer>купить проездной билет на неделю</answer>
+    <comment>[tə bаɪ ə ˈwiːkliː ˈtɪkɪt]</comment>
+    <question_comment>to buy - покупать, weekly - недельный, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>60826d6b-a98d-42b6-a2b2-62b8b0d17146</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a weekly ticket?</value>
+          <translation>Можно купить проездной билет на неделю?</translation>
+          <comment>can - мочь, to buy - купить, weekly -недельный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the next stop</question>
+    <answer>следующая остановка</answer>
+    <comment>[ðə nekst stɑːp]</comment>
+    <question_comment>next - следующий, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9a07883f-2538-4bea-8e19-cc289b444f5e</uuid>
+    <examples>
+       <example>
+          <value>Are you getting off at the next stop?</value>
+          <translation>Вы выходите на следующей остановке?</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get off at the next stop</question>
+    <answer>выходить на следующей остановке</answer>
+    <comment>[tə get ɔːf ət ðə nekst stɑːp]</comment>
+    <question_comment>to get off - выходить, next - следующий, stop - остановка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>350b4718-5110-44bc-9682-105b1cb14b45</uuid>
+    <examples>
+       <example>
+          <value>Are you getting off at the next stop?</value>
+          <translation>Вы выходите на следующей остановке?</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the center</question>
+    <answer>ехать до центра</answer>
+    <comment>[tə goʊ tə ðə ˈsentər]</comment>
+    <question_comment>to go (to) - ехать (до), center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>216d173c-6386-4b5b-baee-59cbedbb32c5</uuid>
+    <examples>
+       <example>
+          <value>Which streetcar goes to the center?</value>
+          <translation>Какой трамвай идет в центр?</translation>
+          <comment>which - какой, который, streetcar - трамвай, to go - ехать, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the square</question>
+    <answer>ехать до площади</answer>
+    <comment>[tə goʊ tə ðə skwer]</comment>
+    <question_comment>to go (to) - ехать (до), square - площадь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>20a53a28-779a-4367-850d-aaee6708f845</uuid>
+    <examples>
+       <example>
+          <value>Excuse me. Does this bus go to the square?</value>
+          <translation>Извините. Этот автобус идет до площади?</translation>
+          <comment>to excuse - извинять, me - ине, меня, this - этот, эта, это, bus - автобус, to go - ехать, square - площадь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the university</question>
+    <answer>ехать до университета</answer>
+    <comment>[tə goʊ tə ðə ˌjuːnəˈvɜːrsɪtiː]</comment>
+    <question_comment>to go (to) - ехать (до), university - университет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>938ddf7f-fbdb-46da-aab3-e708bbf72885</uuid>
+    <examples>
+       <example>
+          <value>Which bus goes to the university?</value>
+          <translation>Какой автобус идет к университету?</translation>
+          <comment>which - какой, который, bus - автобус, to go - ехать, university - университет</comment>
+       </example>
+       <example>
+          <value>I go to university.</value>
+          <translation>Я учусь в университете.</translation>
+          <comment>to go - идти, university - университет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the Zoo</question>
+    <answer>ехать к зоопарку</answer>
+    <comment>[tə goʊ tə ðə zuː]</comment>
+    <question_comment>to go (to) - ехать (до), the Zoo - зоопарк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>16eb2c26-0add-44a4-b278-f76022e67897</uuid>
+    <examples>
+       <example>
+          <value>Excuse me, does this bus go to the Zoo?</value>
+          <translation>Простите, этот автобус идет к зоопарку?</translation>
+          <comment>to excuse - извинять, me - мне, меня, this - этот, это, эта, bus - автобус, to go - ехать, Zoo - зоопарк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change buses</question>
+    <answer>сделать пересадку на другой автобус</answer>
+    <comment>[tə ʧeɪnʤ ˈbʌsɪz]</comment>
+    <question_comment>to change - месть, bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>71124471-896c-40f1-972d-37b8eb322962</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to let you know</question>
+    <answer>дать тебе знать</answer>
+    <comment>[tə let jʊ noʊ]</comment>
+    <question_comment>to let - позволять, to know - знать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1a2391e7-ffc7-4f86-96aa-29eee100ca11</uuid>
+    <examples>
+       <example>
+          <value>Please let me know when the taxi is here.</value>
+          <translation>Пожалуйста, предупредите меня, когда приедет такси.</translation>
+          <comment>let - позволять, me - мне, меня, to know - знать, when - когда, taxi - такси, here - здесь</comment>
+       </example>
+       <example>
+          <value>Please let me know when we are in Moscow.</value>
+          <translation>Пожалуйста, предупредите меня, когда будет Москва.</translation>
+          <comment>let - позволять, to know - знать, when - когда, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>Would you let me know before we get to Moscow.</value>
+          <translation>Скажите мне, пожалуйста, когда мы будем подъезжать к Москве.</translation>
+          <comment>let - позволять, to know - знать, before - перед (чем-л.), we - мы, to get (to) - добраться (до), Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>Will you please let me know when we arrive at the theater?</value>
+          <translation>Скажите, пожалуйста, когда будет театр.</translation>
+          <comment>let - позволить, me - мне, меня, to know - знать, when - когда, to arrive - прибывать, theater - театр</comment>
+       </example>
+       <example>
+          <value>If you need any help, just let me know.</value>
+          <translation>Если вам будет нужна помощь, то дайте мне знать.</translation>
+          <comment>if - если, you - ты, вы, need - нуждаться, any - какой-либо, help - помощь, just - просто, let - позволить, me - мне, меня, to know - знать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to let me pass</question>
+    <answer>разрешить мне пройти</answer>
+    <comment>[tə let ˈmiː pæs]</comment>
+    <question_comment>to let - позволить, разрешить, to pass - пройти</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>15b78c07-2849-4cae-8d38-0057093313a9</uuid>
+    <examples>
+       <example>
+          <value>Let me pass.</value>
+          <translation>Разрешите пройти.</translation>
+          <comment>let - позволять, me - мне, меня, to pass - пройти</comment>
+       </example>
+       <example>
+          <value>Sorry, let me pass.</value>
+          <translation>Простите, разрешите пройти.</translation>
+          <comment>sorry - прости(те), let - позволять, me - мне, меня, to pass - пройти</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to reach the cathedral</question>
+    <answer>доехать до собора</answer>
+    <comment>[tə riːʧ ðə kəˈθiːdrəl]</comment>
+    <question_comment>to reach - доезжать до, достигать, cathedral - собор</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>17bb43af-f028-4c19-b27f-488129377161</uuid>
+    <examples>
+       <example>
+          <value>How can I reach the cathedral?</value>
+          <translation>Как мне доехать до собора?</translation>
+          <comment>how - как, can - мочь, to reach - добраться, cathedral - собор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take a bus</question>
+    <answer>сесть на автобус</answer>
+    <comment>[tə teɪk ə bʌs]</comment>
+    <question_comment>to take - садиться в, bus - автобус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a803311a-8485-4de0-95b8-9169df34f95d</uuid>
+    <examples>
+       <example>
+          <value>Which bus should I take to the city center?</value>
+          <translation>На каком автобусе можно доехать до центра?</translation>
+          <comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a bus for the hotel</question>
+    <answer>автобус до гостиницы</answer>
+    <comment>[ə bʌs fər ðə hoʊˈtel]</comment>
+    <question_comment>bus - автобус, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>278f480f-9e8c-491c-91c3-2ea998c3e693</uuid>
+    <examples>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take a line</question>
+    <answer>сесть на маршрут</answer>
+    <comment>[tə teɪk ə lаɪn]</comment>
+    <question_comment>to take - сесть в, line - маршрут</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1586fd2a-52fa-4c4c-b86f-ad37a122e62f</uuid>
+    <examples>
+       <example>
+          <value>Which line should I take to the airport?</value>
+          <translation>На каком маршруте я доеду до аэропорта?</translation>
+          <comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take a streetcar</question>
+    <answer>сесть в трамвай</answer>
+    <comment>[tə teɪk ə ˈstriːtˌkɑːr]</comment>
+    <question_comment>to take - сесть в, streetcar - трамвай</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7052937d-8aad-4fca-9f8e-5c32dbaacca3</uuid>
+    <examples>
+       <example>
+          <value>Which streetcar should I take to the city center?</value>
+          <translation>На каком трамвае можно доехать до центра?</translation>
+          <comment>which - какой, который, streetcar - трамвай, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to the airport</question>
+    <answer>до аэропорта</answer>
+    <comment>[tə ðə ˈerˌpɔːrt]</comment>
+    <question_comment>airport - аэропорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c8af2c69-546a-436d-8134-012cc0f716a7</uuid>
+    <examples>
+       <example>
+          <value>What airport does my plane take off from?</value>
+          <translation>Из какого аэропорта отправляется мой самолет?</translation>
+          <comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</comment>
+       </example>
+       <example>
+          <value>Where is the police service of the airport?</value>
+          <translation>Где находится полицейская служба аэропорта?</translation>
+          <comment>where - где, police - полицейский, service - служба, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Where is the information service of the airport?</value>
+          <translation>Где находится справочная служба аэропорта?</translation>
+          <comment>where - где, information - информация, service - служба, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Can I rent a car directly at the airport?</value>
+          <translation>Могу я взять напрокат машину прямо в аэропорту?</translation>
+          <comment>can - мочь, to rent - арендовать, car - машина, directly - прямо, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Which line should I take to the airport?</value>
+          <translation>На каком маршруте я доеду до аэропорта?</translation>
+          <comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Please take me to the airport.</value>
+          <translation>Пожалуйста, отвезите меня в аэропорт.</translation>
+          <comment>to take - отвозить, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>What&apos;s the fare to the airport?</value>
+          <translation>Сколько стоит доехать до аэропорта?</translation>
+          <comment>what - что, какой, fare - плата, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to the hotel</question>
+    <answer>до гостиницы</answer>
+    <comment>[tə ðə hoʊˈtel]</comment>
+    <question_comment>to - до, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12709b88-c4ea-4113-af5c-3c43143008e5</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay at a hotel.</value>
+          <translation>Я остановлюсь в гостинице.</translation>
+          <comment>to stay - оставаться, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>I need hotel accommodation in the center.</value>
+          <translation>Мне нужен номер в гостинице в центре.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, center - центр</comment>
+       </example>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+       <example>
+          <value>Where is the nearest hotel?</value>
+          <translation>Где ближайшая гостиница?</translation>
+          <comment>where - где, the nearest - ближайший, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a luggage office in the hotel?</value>
+          <translation>Есть ли в гостинице камера хранения?</translation>
+          <comment>there is - есть, имеется, luggage - багаж, office - офис, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a fitness-hall in the hotel?</value>
+          <translation>Есть ли в гостинице фитнес-зал?</translation>
+          <comment>there is - есть, имеется, fitness - фитнес, hall - зал, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in the hotel?</value>
+          <translation>Есть ли в гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a sauna in the hotel?</value>
+          <translation>Есть ли в гостинице сауна?</translation>
+          <comment>there is - есть, имеется, sauna - сауна, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many stops are there to the hotel?</value>
+          <translation>Сколько остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many more stops to the hotel?</value>
+          <translation>Сколько еще остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, more - еще, больше, stop - остановка, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a doctor in the hotel?</value>
+          <translation>В гостинице есть врач?</translation>
+          <comment>there is - есть, имеется, doctor - врач, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a billiard room in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бильярдная?</translation>
+          <comment>there is - есть, имеется, billiard - бильярд, room - комната, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to the theater</question>
+    <answer>до театра</answer>
+    <comment>[tə ðə ˈθɪətər]</comment>
+    <question_comment>to - до, theater - театр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4661512d-090b-4009-8846-a90c7fed143a</uuid>
+    <examples>
+       <example>
+          <value>Would you like to go to the theater?</value>
+          <translation>Позвольте пригласить вас в театр.</translation>
+          <comment>to like - хотеть, любить, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>How many stops are there to the theater?</value>
+          <translation>Сколько остановок до театра?</translation>
+          <comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, theater - театр</comment>
+       </example>
+       <example>
+          <value>How many more stops to the theater?</value>
+          <translation>Сколько еще остановок до театра?</translation>
+          <comment>how - сколько, many - много, more - еще, больше, stop - остановка, theater - театр</comment>
+       </example>
+       <example>
+          <value>Will you please let me know when we arrive at the theater?</value>
+          <translation>Скажите, пожалуйста, когда будет театр.</translation>
+          <comment>let - позволить, me - мне, меня, to know - знать, when - когда, to arrive - прибывать, theater - театр</comment>
+       </example>
+       <example>
+          <value>I would like to go to the theater.</value>
+          <translation>Я бы хотел сходить в театр.</translation>
+          <comment>would like - хотеть, to go - идти, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Drama Theater.</value>
+          <translation>Я бы хотел пойти в драматический театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Drama Theater - драматический театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Young Spectator Theater.</value>
+          <translation>Я бы хотел пойти в театр юного зрителя.</translation>
+          <comment>would like - хотеть, to go - идти, young - молодой, spectator - зритель, theater - театр</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to go to the Puppet Theater.</value>
+          <translation>Я бы хотел пойти в кукольный театр.</translation>
+          <comment>would like - хотеть, to go - идти, the Puppet Theater - кукольный театр</comment>
+       </example>
+       <example>
+          <value>Is there a movie theater nearby?</value>
+          <translation>Есть здесь поблизости кинотеатр?</translation>
+          <comment>there is - есть, имеется, movie - кино, theater - театр, nearby - рядом</comment>
+       </example>
+       <example>
+          <value>Where is the nearest movie theater with a continuous show?</value>
+          <translation>Где кинотеатр с непрерывным показом фильмов?</translation>
+          <comment>where - где, the nearest - ближайший, movie - кино, theater - театр, continuous - непрерывный, show - показ</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>487a9276-a1ab-4eb3-bfad-2db55b626235</uuid>
+  <title>Мебель</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>chest of drawers</question>
+    <answer>комод</answer>
+    <comment>[ʧest ɒv drɔːz]</comment>
+    <answer_picture>chest_of_drawers.gif</answer_picture>
+    <uuid>0482ed83-aa20-49b4-a2c5-311ce702f20f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>carpet</question>
+    <answer>ковёр</answer>
+    <comment>[ˈkɑːpɪt]</comment>
+    <answer_picture>carpet.gif</answer_picture>
+    <uuid>0fc8cf88-e606-45a1-848f-32de6bdc801d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bathtub</question>
+    <answer>ванна</answer>
+    <comment>[ˈbɑːθtʌb]</comment>
+    <answer_picture>bathtub.gif</answer_picture>
+    <uuid>b7b54e1a-89c1-49a3-9131-02eff42b2c1a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>clock</question>
+    <answer>часы (настенные, настольные)</answer>
+    <comment>[klɒk]</comment>
+    <answer_picture>clock.gif</answer_picture>
+    <uuid>9c626224-d4ce-4425-a4ee-7eb2d5a6e229</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>armchair</question>
+    <answer>кресло</answer>
+    <comment>[ˈɑːmˈʧeə]</comment>
+    <answer_picture>armchair.gif</answer_picture>
+    <uuid>207700b7-c804-4c89-9505-d34210496c2c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>chair</question>
+    <answer>стул</answer>
+    <comment>[ʧeə]</comment>
+    <answer_picture>chair.gif</answer_picture>
+    <uuid>c249cd89-119d-446f-a566-ef892e1786ba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bed</question>
+    <answer>кровать</answer>
+    <comment>[bed]</comment>
+    <answer_picture>bed.gif</answer_picture>
+    <uuid>0ed3715a-e77e-46dd-8510-9a5181896933</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lamp</question>
+    <answer>лампа</answer>
+    <comment>[læmp]</comment>
+    <answer_picture>lamp.gif</answer_picture>
+    <uuid>a7eb2740-f412-4782-8cc0-b59b0ef4eb40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>door</question>
+    <answer>дверь</answer>
+    <comment>[dɔː]</comment>
+    <answer_picture>door.gif</answer_picture>
+    <uuid>387c3ea6-1d3d-4fbe-98a0-6078af857fe2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>desk</question>
+    <answer>письменный стол</answer>
+    <comment>[desk]</comment>
+    <answer_picture>desk.gif</answer_picture>
+    <uuid>f384f9cd-4b61-497b-8c0d-94b16a37de85</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>lie</question>
+    <answer>лежать</answer>
+    <comment>[lаɪ]</comment>
+    <answer_picture>lie.gif</answer_picture>
+    <uuid>ef6e12f3-e247-4bd3-9805-629e2bc55cf1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>light</question>
+    <answer>свет</answer>
+    <comment>[lаɪt]</comment>
+    <answer_picture>light.gif</answer_picture>
+    <uuid>71577f01-73c0-451c-b912-b026f6c5beb3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mirror</question>
+    <answer>зеркало</answer>
+    <comment>[ˈmɪrə]</comment>
+    <answer_picture>mirror.gif</answer_picture>
+    <uuid>3191ee69-8686-4547-a779-a8428992ce1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>picture</question>
+    <answer>картина</answer>
+    <comment>[ˈpɪkʧə]</comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>f6b7a28e-5b94-430e-ac96-6af9eeafa911</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>radio</question>
+    <answer>радио, радиоприёмник</answer>
+    <comment>[ˈreɪdɪəʊ]</comment>
+    <answer_picture>radio.gif</answer_picture>
+    <uuid>29a84e69-a987-45cc-8dae-9ebb0076cf0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>remote</question>
+    <answer>пульт дистанционного управления</answer>
+    <comment>[rɪˈməʊt]</comment>
+    <answer_picture>remote.gif</answer_picture>
+    <uuid>fe0add82-33ef-4135-9203-0976ab82d90b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sewing machine</question>
+    <answer>швейная машина</answer>
+    <comment>[ˈsəʊɪŋ məˈʃiːn]</comment>
+    <answer_picture>sewing_machine.gif</answer_picture>
+    <uuid>a83b77cd-7f90-4c7a-984a-525ea682c5fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shower</question>
+    <answer>душ</answer>
+    <comment>[ˈʃəʊə]</comment>
+    <answer_picture>shower.gif</answer_picture>
+    <uuid>79ba79a9-2417-4e56-bc9d-95f75fea17f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sink</question>
+    <answer>раковина</answer>
+    <comment>[sɪŋk]</comment>
+    <answer_picture>sink.gif</answer_picture>
+    <uuid>791cbd9a-de7c-4001-bf4c-306df69b6162</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sit</question>
+    <answer>сидеть</answer>
+    <comment>[sɪt]</comment>
+    <answer_picture>sit.gif</answer_picture>
+    <uuid>9999f3df-9d15-4c50-8075-0fe3f0aebe1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sofa</question>
+    <answer>диван</answer>
+    <comment>[ˈsəʊfə]</comment>
+    <answer_picture>sofa.gif</answer_picture>
+    <uuid>30a55e4c-203d-4d6e-abc7-929f8d12b20b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>speakers</question>
+    <answer>громкоговорители, колонки</answer>
+    <comment>[ˈspiːkəz]</comment>
+    <answer_picture>speakers.gif</answer_picture>
+    <uuid>01946bf1-9384-439f-9a8e-a6854d394bb9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>stereo</question>
+    <answer>стереосистема</answer>
+    <comment>[ˈstɪərɪəʊ]</comment>
+    <answer_picture>stereo.gif</answer_picture>
+    <uuid>fe8c289a-38d7-4b95-8518-a76537e75071</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>table</question>
+    <answer>стол</answer>
+    <comment>[ˈteɪbl]</comment>
+    <answer_picture>table.gif</answer_picture>
+    <uuid>5c86d720-8718-4aa9-824b-7e69cd1a87de</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>television</question>
+    <answer>телевизор</answer>
+    <comment>[ˈtelɪˌvɪʒən]</comment>
+    <answer_picture>television.gif</answer_picture>
+    <uuid>61c08d8c-d140-4346-98bc-2713f3ae4121</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>vase</question>
+    <answer>ваза</answer>
+    <comment>[vɑːz]</comment>
+    <answer_picture>vase.gif</answer_picture>
+    <uuid>128aaeb9-e5f8-46e4-8651-ac63d86017bb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>vcr</question>
+    <answer>видеомагнитофон</answer>
+    <comment>[ˌviːsiː&apos;ɑː]</comment>
+    <answer_picture>vcr.gif</answer_picture>
+    <uuid>81098c25-e939-43d9-b79c-856c16c3e31b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wardrobe</question>
+    <answer>гардероб, шкаф</answer>
+    <comment>[ˈwɔːdrəʊb]</comment>
+    <answer_picture>wardrobe.gif</answer_picture>
+    <uuid>e007e4cc-0a56-4d8a-b7e2-eeb2bcc7c021</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wash</question>
+    <answer>мыть, мыться</answer>
+    <comment>[wɒʃ]</comment>
+    <answer_picture>wash.gif</answer_picture>
+    <uuid>60e04a0d-a900-4d71-94bf-33cad9e378c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>window</question>
+    <answer>окно</answer>
+    <comment>[ˈwɪndəʊ]</comment>
+    <answer_picture>window.gif</answer_picture>
+    <uuid>5ce2daaf-2c54-4d2d-86cd-b7dc428bda22</uuid>
+  </card>
+</cards>
+</stack>

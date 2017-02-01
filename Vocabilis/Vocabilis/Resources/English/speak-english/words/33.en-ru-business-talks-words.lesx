@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5d89b32b-f428-4c0b-8d4f-d4d45c1e10e1</uuid>
+  <title>Деловые переговоры :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>barter</question>
+    <answer>бартер</answer>
+    <comment>[ˈbɑːrtər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0029bfbb-19d9-416b-8b86-96870bde32bf</uuid>
+    <examples>
+       <example>
+          <value>a barter transaction</value>
+          <translation>бартерная сделка</translation>
+          <comment>barter - бартер, transaction - сделка</comment>
+       </example>
+       <example>
+          <value>on a barter basis</value>
+          <translation>по бартеру</translation>
+          <comment>barter - бартер, basis - основа, базис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>conclude</question>
+    <answer>заключить</answer>
+    <comment>[kənˈkluːd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e71df432-ba6d-45a1-ae0a-e7c6fdf6db16</uuid>
+    <examples>
+       <example>
+          <value>to conclude a contract</value>
+          <translation>заключить контракт</translation>
+          <comment>to conclude - заключить, contract - контракт</comment>
+       </example>
+       <example>
+          <value>to conclude a transaction</value>
+          <translation>заключить сделку</translation>
+          <comment>to conclude - заключить, transaction - сделка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>partnership</question>
+    <answer>сотрудничество</answer>
+    <comment>[ˈpɑːrtnərˌʃɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1de4292-4bfb-47aa-9d4c-0af6af0f11f8</uuid>
+    <examples>
+       <example>
+          <value>the question of our partnership</value>
+          <translation>вопрос нашего партнерства</translation>
+          <comment>question - вопрос, our - наш, наша, наше, partnership - сотрудничество</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sample</question>
+    <answer>образец, пример</answer>
+    <comment>[ˈsæmpl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>89246dc4-1965-4465-978f-6be678a44ba6</uuid>
+    <examples>
+       <example>
+          <value>perspective samples</value>
+          <translation>перспективные образцы</translation>
+          <comment>perspective - перспективный, sample - образец, пример</comment>
+       </example>
+       <example>
+          <value>to look at some samples</value>
+          <translation>посмотреть на некоторые образцы</translation>
+          <comment>some - некоторый, sample - образец, пример</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>raw</question>
+    <answer>сырой</answer>
+    <comment>[rɔː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dd246054-4d41-4f14-807e-350f7b25d9d8</uuid>
+    <examples>
+       <example>
+          <value>raw materials</value>
+          <translation>сырье</translation>
+          <comment>raw - сырой, material - материал</comment>
+       </example>
+       <example>
+          <value>the composition of raw materials</value>
+          <translation>состав сырья</translation>
+          <comment>composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>export</question>
+    <answer>экспортировать</answer>
+    <comment>[ekˈspɔːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3d96e73a-5a18-4ece-b053-ae54100ae010</uuid>
+    <examples>
+       <example>
+          <value>to export finished products</value>
+          <translation>экспортировать продукцию</translation>
+          <comment>to export - экспортировать, finished - готовый, законченный, to finish - заканчивать, product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perspective</question>
+    <answer>перспективный</answer>
+    <comment>[pərˈspektɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e998b4a0-19b6-4e14-9dcf-d2287417d7c5</uuid>
+    <examples>
+       <example>
+          <value>perspective samples</value>
+          <translation>перспективные образцы</translation>
+          <comment>perspective - перспективный, sample - образец, пример</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>total</question>
+    <answer>целый, весь</answer>
+    <comment>[ˈtoʊtl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e8dcc58-b752-42fc-aa21-4999b4efc6ce</uuid>
+    <examples>
+       <example>
+          <value>the total annual output</value>
+          <translation>общий годовой объем</translation>
+          <comment>total - целый, весь, annual - годовой, output - выпуск (продукции)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>technology</question>
+    <answer>технология</answer>
+    <comment>[tekˈnɑːləʤiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>429bb185-ec9a-43d7-93a4-6e22f73428f3</uuid>
+    <examples>
+       <example>
+          <value>to be interested in technology</value>
+          <translation>интересоваться технологией</translation>
+          <comment>interested - заинтересованный, technology - технология</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gross</question>
+    <answer>валовой</answer>
+    <comment>[groʊs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f4555e04-3f8a-4d8d-b8fa-c6032f237196</uuid>
+    <examples>
+       <example>
+          <value>the gross profit</value>
+          <translation>валовая прибыль</translation>
+          <comment>gross - валовой, profit - прибыль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>defective</question>
+    <answer>дефективный</answer>
+    <comment>[dɪˈfektɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05578f7f-b276-4399-8c3c-9a55013085d4</uuid>
+    <examples>
+       <example>
+          <value>the percentage of defective goods</value>
+          <translation>процент брака</translation>
+          <comment>percentage - процент, defective - дефективный, goods - товары</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>basis</question>
+    <answer>основа</answer>
+    <comment>[ˈbeɪsɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8c0f5d5c-43f4-4a31-8a1e-36232020150d</uuid>
+    <examples>
+       <example>
+          <value>on a barter basis</value>
+          <translation>по бартеру</translation>
+          <comment>barter - бартер, basis - основа, базис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>profit</question>
+    <answer>прибыль</answer>
+    <comment>[ˈprɑːfɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6bc7a3db-3829-403f-91df-84f749b35d32</uuid>
+    <examples>
+       <example>
+          <value>the average profit</value>
+          <translation>средняя прибыль</translation>
+          <comment>average - средний, profit - прибыль</comment>
+       </example>
+       <example>
+          <value>the expected profit</value>
+          <translation>ожидаемая прибыль</translation>
+          <comment>expected - ожидаемый, to expect - ожидать, profit - прибыль</comment>
+       </example>
+       <example>
+          <value>the gross profit</value>
+          <translation>валовая прибыль</translation>
+          <comment>gross - валовой, profit - прибыль</comment>
+       </example>
+       <example>
+          <value>the net profit</value>
+          <translation>чистая прибыль</translation>
+          <comment>net - чистый, нетто (о весе, доходе), profit - доход</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>question</question>
+    <answer>вопрос</answer>
+    <comment>[ˈkwesʧən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5ca4da40-5705-4d22-98cf-2e6f01d4c27e</uuid>
+    <examples>
+       <example>
+          <value>the question of our partnership</value>
+          <translation>вопрос нашего партнерства</translation>
+          <comment>question - вопрос, our - наш, наша, наше, partnership - сотрудничество</comment>
+       </example>
+       <example>
+          <value>to discuss the question</value>
+          <translation>обсудить вопрос</translation>
+          <comment>to discuss - обсуждать, question - вопрос</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>discuss</question>
+    <answer>обсуждать</answer>
+    <comment>[dɪˈskʌs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4496a65-46c8-4e97-8e81-935b9ac94240</uuid>
+    <examples>
+       <example>
+          <value>to discuss possible forms of cooperation</value>
+          <translation>обсудить возможные формы сотрудничества</translation>
+          <comment>to discuss - обсуждать, possible - возможный, form - форма, cooperation - сотрудничество</comment>
+       </example>
+       <example>
+          <value>to discuss terms of delivery</value>
+          <translation>обсудить условия поставки</translation>
+          <comment>to discuss - обсуждать, terms - сроки, delivery -поставка</comment>
+       </example>
+       <example>
+          <value>to discuss terms of payment</value>
+          <translation>обсудить условия платежа</translation>
+          <comment>to discuss - обсуждать, terms - сроки, payment - платеж</comment>
+       </example>
+       <example>
+          <value>to discuss the contract dates</value>
+          <translation>обсудить сроки исполнения контракта</translation>
+          <comment>to discuss - обсуждать, contract - контракт, date - дата, срок</comment>
+       </example>
+       <example>
+          <value>to discuss the question</value>
+          <translation>обсудить вопрос</translation>
+          <comment>to discuss - обсуждать, question - вопрос</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>equipment</question>
+    <answer>оборудование</answer>
+    <comment>[ɪˈkwɪpmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>065f8249-f847-4967-a333-e6a31980ac4c</uuid>
+    <examples>
+       <example>
+          <value>to buy equipment</value>
+          <translation>закупить оборудование</translation>
+          <comment>to buy - покупать, equipment - оборудование</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cooperation</question>
+    <answer>сотрудничество</answer>
+    <comment>[kəʊˌɑːpəˈreɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1a72f346-221e-49ab-b243-17eb66f47e05</uuid>
+    <examples>
+       <example>
+          <value>forms of cooperation</value>
+          <translation>формы сотрудничества</translation>
+          <comment>form - форма, cooperation - сотрудничество</comment>
+       </example>
+       <example>
+          <value>to discuss possible forms of cooperation</value>
+          <translation>обсудить возможные формы сотрудничества</translation>
+          <comment>to discuss - обсуждать, possible - возможный, form - форма, cooperation - сотрудничество</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>net</question>
+    <answer>чистый, нетто (о весе, доходе)</answer>
+    <comment>[net]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62939084-319b-477b-963b-b1ebfac3c8f5</uuid>
+    <examples>
+       <example>
+          <value>the net profit</value>
+          <translation>чистая прибыль</translation>
+          <comment>net - чистый, нетто (о весе, доходе), profit - доход</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>composition</question>
+    <answer>состав</answer>
+    <comment>[ˌkɑːmpəˈzɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>360952cb-5317-43b2-b96e-f442d6b8ecd2</uuid>
+    <examples>
+       <example>
+          <value>the composition of raw materials</value>
+          <translation>состав сырья</translation>
+          <comment>composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>product</question>
+    <answer>продукт</answer>
+    <comment>[ˈprɑːdəkt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1d4d258-8542-43a9-9d65-c1da9e00fac6</uuid>
+    <examples>
+       <example>
+          <value>a consignment of products</value>
+          <translation>партия продукции</translation>
+          <comment>consignment - партия (продукции), product - продукт</comment>
+       </example>
+       <example>
+          <value>finished products</value>
+          <translation>готовая продукция</translation>
+          <comment>finished - готовый, законченный, to finish - заканчивать, product - продукт</comment>
+       </example>
+       <example>
+          <value>to buy a consignment of products</value>
+          <translation>закупить партию продукции</translation>
+          <comment>to buy - покупать, consignment - партия (товаров), product - продукт</comment>
+       </example>
+       <example>
+          <value>to export finished products</value>
+          <translation>экспортировать продукцию</translation>
+          <comment>to export - экспортировать, finished - готовый, законченный, to finish - заканчивать, product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>material</question>
+    <answer>материал</answer>
+    <comment>[məˈtɪriːəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d2cec087-9dc9-4c4c-9142-d947e5e699c6</uuid>
+    <examples>
+       <example>
+          <value>raw materials</value>
+          <translation>сырье</translation>
+          <comment>raw - сырой, material - материал</comment>
+       </example>
+       <example>
+          <value>the composition of raw materials</value>
+          <translation>состав сырья</translation>
+          <comment>composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>possible</question>
+    <answer>возможный</answer>
+    <comment>[ˈpɑːsəbəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3cc06312-6777-46d1-b5d9-13644efc2362</uuid>
+    <examples>
+       <example>
+          <value>to discuss possible forms of cooperation</value>
+          <translation>обсудить возможные формы сотрудничества</translation>
+          <comment>to discuss - обсуждать, possible - возможный, form - форма, cooperation - сотрудничество</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>negotiate</question>
+    <answer>вести переговоры</answer>
+    <comment>[nɪˈgoʊʃɪˌeɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>894c66b9-8420-42f7-8a96-b08dd735792f</uuid>
+    <examples>
+       <example>
+          <value>to negotiate the list of deliveries</value>
+          <translation>договориться о номенклатуре поставок</translation>
+          <comment>to negotiate - вести переговоры, договариваться, list - список, перечень, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>director</question>
+    <answer>директор</answer>
+    <comment>[dɪˈrektər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf0af9fc-87ca-4363-8968-3a664f48e04a</uuid>
+    <examples>
+       <example>
+          <value>the commercial director</value>
+          <translation>коммерческий директор</translation>
+          <comment>commercial - коммерческий, director - директор</comment>
+       </example>
+       <example>
+          <value>the director general</value>
+          <translation>генеральный директор</translation>
+          <comment>director - директор, general - генеральный</comment>
+       </example>
+       <example>
+          <value>the technical director</value>
+          <translation>технический директор</translation>
+          <comment>technical - технический, director - директор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>joint</question>
+    <answer>совместный</answer>
+    <comment>[ʤɔɪnt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f1bc51a-69df-437d-8276-0032b2087dd6</uuid>
+    <examples>
+       <example>
+          <value>joint production</value>
+          <translation>совместное производство</translation>
+          <comment>joint - совместный, production - производство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>catalog</question>
+    <answer>каталог</answer>
+    <comment>[ˈkætˌlɔːg]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eaed963d-153f-44f1-9774-ceede790a85f</uuid>
+    <examples>
+       <example>
+          <value>to see your catalog</value>
+          <translation>увидеть ваш каталог</translation>
+          <comment>to see - видеть, catalog - каталог</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>goods</question>
+    <answer>товары</answer>
+    <comment>[gʊdz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a1c63e41-dae5-4345-a24f-a4b1ac6f3272</uuid>
+    <examples>
+       <example>
+          <value>the percentage of defective goods</value>
+          <translation>процент брака</translation>
+          <comment>percentage - процент, defective - дефективный, goods - товары</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>consignment</question>
+    <answer>партия (продукции)</answer>
+    <comment>[kənˈsаɪnmənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>41eed8bb-c0fc-47af-a986-cf6bd38c11cc</uuid>
+    <examples>
+       <example>
+          <value>a consignment of products</value>
+          <translation>партия продукции</translation>
+          <comment>consignment - партия (продукции), product - продукт</comment>
+       </example>
+       <example>
+          <value>to buy a consignment of products</value>
+          <translation>закупить партию продукции</translation>
+          <comment>to buy - покупать, consignment - партия (товаров), product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>manufacturing</question>
+    <answer>производственный</answer>
+    <comment>[ˌmænjəˈfækʧərɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cfb56e81-935d-4327-b996-e8e863114364</uuid>
+    <examples>
+       <example>
+          <value>a manufacturing enterprise</value>
+          <translation>производственное предприятие</translation>
+          <comment>manufacturing - производственный, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>percentage</question>
+    <answer>процент</answer>
+    <comment>[pərˈsentɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>18fa69ca-93af-4a48-8a26-f3411abeac6b</uuid>
+    <examples>
+       <example>
+          <value>the percentage of defective goods</value>
+          <translation>процент брака</translation>
+          <comment>percentage - процент, defective - дефективный, goods - товары</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>term</question>
+    <answer>условие</answer>
+    <comment>[tɜːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>936f4d9c-6485-46ff-aa0d-c565613e7a8a</uuid>
+    <examples>
+       <example>
+          <value>terms of delivery</value>
+          <translation>условия поставки</translation>
+          <comment>terms - условия, delivery - поставка</comment>
+       </example>
+       <example>
+          <value>terms of payment</value>
+          <translation>условия платежа</translation>
+          <comment>terms - условия, payment - платеж</comment>
+       </example>
+       <example>
+          <value>to discuss terms of delivery</value>
+          <translation>обсудить условия поставки</translation>
+          <comment>to discuss - обсуждать, terms - сроки, delivery -поставка</comment>
+       </example>
+       <example>
+          <value>to discuss terms of payment</value>
+          <translation>обсудить условия платежа</translation>
+          <comment>to discuss - обсуждать, terms - сроки, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>transaction</question>
+    <answer>сделка</answer>
+    <comment>[trænˈsækʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49ba2958-7314-4257-9411-645e5702cfcb</uuid>
+    <examples>
+       <example>
+          <value>a barter transaction</value>
+          <translation>бартерная сделка</translation>
+          <comment>barter - бартер, transaction - сделка</comment>
+       </example>
+       <example>
+          <value>to conclude a transaction</value>
+          <translation>заключить сделку</translation>
+          <comment>to conclude - заключить, transaction - сделка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>license</question>
+    <answer>лицензия</answer>
+    <comment>[ˈlаɪsəns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34acdde5-3a08-4862-9d6f-5eeed87ec318</uuid>
+    <examples>
+       <example>
+          <value>to buy a license</value>
+          <translation>купить лицензию</translation>
+          <comment>to buy - покупать, license - лицензия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>technical</question>
+    <answer>технический</answer>
+    <comment>[ˈteknɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5fc89841-b67c-4b0d-b199-9dc746914084</uuid>
+    <examples>
+       <example>
+          <value>the technical director</value>
+          <translation>технический директор</translation>
+          <comment>technical - технический, director - директор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>annual</question>
+    <answer>годовой</answer>
+    <comment>[ˈænjuːəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c400b697-de2e-459c-a1a6-0a924b458c98</uuid>
+    <examples>
+       <example>
+          <value>the total annual output</value>
+          <translation>общий годовой объем</translation>
+          <comment>total - целый, весь, annual - годовой, output - выпуск (продукции)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>list</question>
+    <answer>список</answer>
+    <comment>[lɪst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c0d9bd4-dc85-4c3f-9a81-5a611d9b4032</uuid>
+    <examples>
+       <example>
+          <value>the list of deliveries</value>
+          <translation>номенклатура поставок</translation>
+          <comment>list - список, перечень, delivery - поставка</comment>
+       </example>
+       <example>
+          <value>to negotiate the list of deliveries</value>
+          <translation>договориться о номенклатуре поставок</translation>
+          <comment>to negotiate - вести переговоры, договариваться, list - список, перечень, delivery - поставка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>finished</question>
+    <answer>готовый, законченный</answer>
+    <comment>[ˈfɪnɪʃt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a1b86786-a917-4a6a-bcc2-d32aa56a6ae5</uuid>
+    <examples>
+       <example>
+          <value>finished products</value>
+          <translation>готовая продукция</translation>
+          <comment>finished - готовый, законченный, to finish - заканчивать, product - продукт</comment>
+       </example>
+       <example>
+          <value>to export finished products</value>
+          <translation>экспортировать продукцию</translation>
+          <comment>to export - экспортировать, finished - готовый, законченный, to finish - заканчивать, product - продукт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>contract</question>
+    <answer>контракт</answer>
+    <comment>![ˈkɑːntrækt]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>442d8d41-8552-4688-a83f-517f55468ad0</uuid>
+    <examples>
+       <example>
+          <value>the contract dates</value>
+          <translation>сроки исполнения контракта</translation>
+          <comment>contract - контракт, date - дата</comment>
+       </example>
+       <example>
+          <value>to conclude a contract</value>
+          <translation>заключить контракт</translation>
+          <comment>to conclude - заключить, contract - контракт</comment>
+       </example>
+       <example>
+          <value>to discuss the contract dates</value>
+          <translation>обсудить сроки исполнения контракта</translation>
+          <comment>to discuss - обсуждать, contract - контракт, date - дата, срок</comment>
+       </example>
+       <example>
+          <value>to sign the contract</value>
+          <translation>подписать контракт</translation>
+          <comment>to sign - подписать, contract - контракт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>purification</question>
+    <answer>очистка</answer>
+    <comment>[ˌpjʊriːfɪˈkeɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9bacffc4-ad20-4cbe-b216-74f1c7984179</uuid>
+    <examples>
+       <example>
+          <value>the purification works</value>
+          <translation>очистительные сооружения</translation>
+          <comment>purification - очистка, works - завод, фабрика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chief</question>
+    <answer>главный</answer>
+    <comment>[ʧiːf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cefbeb56-680e-46cc-8e0c-c7a3d7e43b1c</uuid>
+    <examples>
+       <example>
+          <value>the chief engineer</value>
+          <translation>главный инженер</translation>
+          <comment>chief - главный, engineer - инженер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>enterprise</question>
+    <answer>предприятие</answer>
+    <comment>[ˈentərˌprаɪz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b44e0286-3da2-470b-9687-b82cbc91dd91</uuid>
+    <examples>
+       <example>
+          <value>a manufacturing enterprise</value>
+          <translation>производственное предприятие</translation>
+          <comment>manufacturing - производственный, enterprise - предприятие</comment>
+       </example>
+       <example>
+          <value>this enterprise</value>
+          <translation>это предприятие</translation>
+          <comment>this - этот, эта, enterprise - предприятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>output</question>
+    <answer>выпуск (продукции)</answer>
+    <comment>[ˈаʊtˌpʊt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa6124ba-8c77-48d5-9eae-cc4b09b37dd1</uuid>
+    <examples>
+       <example>
+          <value>the total annual output</value>
+          <translation>общий годовой объем</translation>
+          <comment>total - целый, весь, annual - годовой, output - выпуск (продукции)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>works</question>
+    <answer>завод, фабрика</answer>
+    <comment>[wɜːrks]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4e6087e8-8172-46ad-bc1c-6a4f02d46ad3</uuid>
+    <examples>
+       <example>
+          <value>the purification works</value>
+          <translation>очистительные сооружения</translation>
+          <comment>purification - очистка, works - завод, фабрика</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

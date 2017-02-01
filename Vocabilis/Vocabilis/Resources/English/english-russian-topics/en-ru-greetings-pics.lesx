@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>54696c61-0f7c-4f79-b437-1a087b165ac4</uuid>
+  <title>Приветствие</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>hello</question>
+    <answer>здравствуй(те)</answer>
+    <comment>[ˈheˈləʊ]</comment>
+    <answer_picture>hello.gif</answer_picture>
+    <uuid>df11f5b6-0106-4668-80e4-5fe2920a6195</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shake hands</question>
+    <answer>здороваться за руку</answer>
+    <comment>[ʃeɪk hændz]</comment>
+    <answer_picture>shake_hands.gif</answer_picture>
+    <uuid>6ead3ec2-8593-46cb-9827-b48b5d5ba731</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hug</question>
+    <answer>обнимать(ся)</answer>
+    <comment>[hʌg]</comment>
+    <answer_picture>hug.gif</answer_picture>
+    <uuid>3bbd3ca9-bd0d-48d0-a409-ac6cfb78e6d2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wave</question>
+    <answer>махать</answer>
+    <comment>[weɪv]</comment>
+    <answer_picture>wave.gif</answer_picture>
+    <uuid>04c7aa4c-5604-413a-a67d-2eede17024be</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>goodbye</question>
+    <answer>до свидания</answer>
+    <comment>[gʊdˈbаɪ]</comment>
+    <answer_picture>goodbye.gif</answer_picture>
+    <uuid>aaf568f1-a2c2-4782-b227-6525f83f3b09</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>kiss</question>
+    <answer>целовать(ся)</answer>
+    <comment>[kɪs]</comment>
+    <answer_picture>kiss.gif</answer_picture>
+    <uuid>f7d462ab-11df-4a6d-a569-4658622ed837</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c32707f8-ec23-4087-984e-01298d6f8d54</uuid>
+  <title>Профсоюз</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>DAG</question>
+    <answer>немецкий профсоюз служащих (сокр.)</answer>
+    <comment></comment>
+    <uuid>d3e3b2b0-6e34-4df6-96fe-ae6fe785580f</uuid>
+  </card>
+  <card>
+    <question>das Büro</question>
+    <answer>бюро, контора</answer>
+    <comment></comment>
+    <uuid>0a744ca9-2a4f-4081-8c85-2f510d2349b3</uuid>
+  </card>
+  <card>
+    <question>das Fax</question>
+    <answer>факс</answer>
+    <comment></comment>
+    <uuid>e9d79678-a4aa-4f2e-b754-85dc4cf64480</uuid>
+  </card>
+  <card>
+    <question>das Gewerkschaftsmitglied</question>
+    <answer>член профсоюза</answer>
+    <comment></comment>
+    <uuid>69d3f175-d39e-44c7-9164-f94b7197be60</uuid>
+  </card>
+  <card>
+    <question>das Streikgeld</question>
+    <answer>забастовочные деньги</answer>
+    <comment></comment>
+    <uuid>5f2a88c4-764f-44d9-be9a-6c280d335fe0</uuid>
+  </card>
+  <card>
+    <question>den Betriebsrat wählen</question>
+    <answer>выбирать совет предприятия</answer>
+    <comment></comment>
+    <uuid>c61ed3af-e284-4b67-8827-cbc5bb46d3e9</uuid>
+  </card>
+  <card>
+    <question>der Anrufbeantworter</question>
+    <answer>телефонный автоответчик</answer>
+    <comment></comment>
+    <uuid>0bf58702-6dd2-47d1-8a2b-ad665d01d234</uuid>
+  </card>
+  <card>
+    <question>der Betriebsrat</question>
+    <answer>совет предприятия</answer>
+    <comment></comment>
+    <uuid>e7d2f67e-a68d-43df-bd5a-58af3dd596bf</uuid>
+  </card>
+  <card>
+    <question>der Büroangestellte</question>
+    <answer>служащий</answer>
+    <comment></comment>
+    <uuid>47280ad0-04e7-493b-98b4-054397d6eec4</uuid>
+  </card>
+  <card>
+    <question>der Deutsche Gewerkschaftsbund</question>
+    <answer>Объединение Немецких Профсоюзов</answer>
+    <comment></comment>
+    <uuid>18b5713c-17ee-4471-8ccb-926b416b574a</uuid>
+  </card>
+  <card>
+    <question>der Fotokopierer</question>
+    <answer>копировальная машина, ксерокс</answer>
+    <comment></comment>
+    <uuid>a59f4553-fc5e-41d7-ae71-171d81934c02</uuid>
+  </card>
+  <card>
+    <question>der Funktionär</question>
+    <answer>деятель, работник</answer>
+    <comment></comment>
+    <uuid>f8c00d68-9fad-4b69-a66c-5688f7a5bea1</uuid>
+  </card>
+  <card>
+    <question>der Gewerkschaftsfunktionär</question>
+    <answer>профсоюзный работник</answer>
+    <comment></comment>
+    <uuid>af48c8d0-058c-4565-b23d-294d45b34509</uuid>
+  </card>
+  <card>
+    <question>der Mitgliedsbeitrag</question>
+    <answer>членский взнос</answer>
+    <comment></comment>
+    <uuid>1f081bb5-f612-4acb-8dcb-2193526e1159</uuid>
+  </card>
+  <card>
+    <question>der Schreibtisch</question>
+    <answer>письменный стол</answer>
+    <comment></comment>
+    <uuid>ec531a8e-e721-4a5e-909b-418e1bb3c332</uuid>
+  </card>
+  <card>
+    <question>der Streik</question>
+    <answer>забастовка</answer>
+    <comment></comment>
+    <uuid>0ec7c8f2-10b3-45fe-9126-6ca1695fdd32</uuid>
+  </card>
+  <card>
+    <question>der Warnstreik</question>
+    <answer>предупредительная забастовка</answer>
+    <comment></comment>
+    <uuid>23b9c7c8-5e39-41a1-8437-0e619a33da6c</uuid>
+  </card>
+  <card>
+    <question>DGB</question>
+    <answer>Объединение Немецких Профсоюзов (сокр.)</answer>
+    <comment></comment>
+    <uuid>9ec21678-281b-489a-acd7-cba639ff3380</uuid>
+  </card>
+  <card>
+    <question>die Arbeitszeit</question>
+    <answer>рабочее время</answer>
+    <comment></comment>
+    <uuid>70931295-dea7-4763-b73a-4dbda0bd26f9</uuid>
+  </card>
+  <card>
+    <question>die Arbeitszeitverkürzung</question>
+    <answer>сокращение рабочего времени</answer>
+    <comment></comment>
+    <uuid>6c815742-641d-4176-aea7-9e7f42415161</uuid>
+  </card>
+  <card>
+    <question>die Aussperrung</question>
+    <answer>увольнение, отстранение от работы</answer>
+    <comment></comment>
+    <uuid>5b0e02d7-d6f5-4b08-b539-4c7a122c7600</uuid>
+  </card>
+  <card>
+    <question>die Büroangestellte</question>
+    <answer>служащая</answer>
+    <comment></comment>
+    <uuid>55b0f8c3-fabd-4646-b11f-d868c57d6735</uuid>
+  </card>
+  <card>
+    <question>die Deutsche Angestelltengewerkschaft</question>
+    <answer>немецкий профсоюз служащих</answer>
+    <comment></comment>
+    <uuid>3e5ebaf5-eddd-42b6-81c2-3cae64858fe7</uuid>
+  </card>
+  <card>
+    <question>die elektronische Datenverarbeitung</question>
+    <answer>электронная обработка данных</answer>
+    <comment></comment>
+    <uuid>0e7d0dac-5804-4f6c-9140-bc41b918cace</uuid>
+  </card>
+  <card>
+    <question>die Gewerkschaft</question>
+    <answer>профсоюз</answer>
+    <comment></comment>
+    <uuid>b55e71ea-26ec-431d-bc1c-6282e31669ec</uuid>
+  </card>
+  <card>
+    <question>die Industriegewerkschaft</question>
+    <answer>профсоюз промышленности</answer>
+    <comment></comment>
+    <uuid>48861e6c-939d-40bb-b525-1c18e22a77d3</uuid>
+  </card>
+  <card>
+    <question>die Lohnerhöhung</question>
+    <answer>повышение заработной платы</answer>
+    <comment></comment>
+    <uuid>64c2b1ce-3257-4469-aa2b-d055af9769c8</uuid>
+  </card>
+  <card>
+    <question>die Mitbestimmung</question>
+    <answer>соучастие трудящихся в принятии решения</answer>
+    <comment></comment>
+    <uuid>b2e64bf3-d5cc-4c29-a87b-0c52de3ad716</uuid>
+  </card>
+  <card>
+    <question>die Personalversammlung</question>
+    <answer>общее собрание трудового коллектива</answer>
+    <comment></comment>
+    <uuid>0ca4388f-a899-483e-866e-1fd84bb927d1</uuid>
+  </card>
+  <card>
+    <question>die Sekretärin</question>
+    <answer>секретарь, секретарша</answer>
+    <comment></comment>
+    <uuid>1fecd2b8-c317-482f-818e-bbc1fb3fb53f</uuid>
+  </card>
+  <card>
+    <question>die Tarifverhandlung</question>
+    <answer>переговоры о тарифах</answer>
+    <comment></comment>
+    <uuid>5fde80b3-3b4f-4caf-bed9-9427b5c52d5c</uuid>
+  </card>
+  <card>
+    <question>die Verwaltung</question>
+    <answer>управление</answer>
+    <comment></comment>
+    <uuid>7d3403b6-c52e-40d5-8fce-037acab0b024</uuid>
+  </card>
+  <card>
+    <question>EDV</question>
+    <answer>электронная обработка данных (сокр.)</answer>
+    <comment></comment>
+    <uuid>13971872-acab-4111-87f4-d5b5c32dcc7b</uuid>
+  </card>
+  <card>
+    <question>Ich arbeite als Sekretärin.</question>
+    <answer>Я работаю секретарем.</answer>
+    <comment></comment>
+    <uuid>df71c8bd-e824-4cac-95a2-0bc9d58e64ac</uuid>
+  </card>
+  <card>
+    <question>Ich arbeite im Büro.</question>
+    <answer>Я работаю в бюро.</answer>
+    <comment></comment>
+    <uuid>de5d99e8-fe1e-47dc-ab78-63d94ff5eeae</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Mitglied werden.</question>
+    <answer>Я хотел бы стать членом профсоюза.</answer>
+    <comment></comment>
+    <uuid>532617ba-71f3-4d08-92a4-74e467d2e3f5</uuid>
+  </card>
+  <card>
+    <question>Wenden Sie sich an den Betriebsrat.</question>
+    <answer>Обратитесь в совет предприятия.</answer>
+    <comment></comment>
+    <uuid>188e2b9c-6b69-4308-9596-d1b4eb5fde78</uuid>
+  </card>
+</cards>
+</stack>

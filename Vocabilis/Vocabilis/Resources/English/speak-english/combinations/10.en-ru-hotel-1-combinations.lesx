@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ac04ccac-69ca-47c1-b645-983ee1ef17bb</uuid>
+  <title>В гостинице. Прибытие и отъезд :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a double room</question>
+    <answer>номер на двоих</answer>
+    <comment>[ə ˈdʌbəl ruːm]</comment>
+    <question_comment>double - двойной, room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ef18e505-2446-4fb6-a061-0909c834af9b</uuid>
+    <examples>
+       <example>
+          <value>I need a double room.</value>
+          <translation>Мне нужна комната на двоих.</translation>
+          <comment>need - нуждаться, double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a double room.</value>
+          <translation>Я хотел бы получить двухместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, double - двойной, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a fitness hall</question>
+    <answer>фитнес-зал</answer>
+    <comment>[ə ˈfɪtnəs hɔːl]</comment>
+    <question_comment>fitness - фитнес, hall - зал</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eaa33baf-92e5-4f20-9aa0-cc1868b05d5e</uuid>
+    <examples>
+       <example>
+          <value>Is there a fitness-hall in the hotel?</value>
+          <translation>Есть ли в гостинице фитнес-зал?</translation>
+          <comment>there is - есть, имеется, fitness - фитнес, hall - зал, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a luggage office</question>
+    <answer>камера хранения</answer>
+    <comment>[ə ˈlʌgɪʤ ˈɔːfɪs]</comment>
+    <question_comment>luggage - багаж, office - офис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd371002-cfa1-45b2-9c15-6a57c8641c28</uuid>
+    <examples>
+       <example>
+          <value>Is there a luggage office in the hotel?</value>
+          <translation>Есть ли в гостинице камера хранения?</translation>
+          <comment>there is - есть, имеется, luggage - багаж, office - офис, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Where is the luggage office?</value>
+          <translation>Где камера хранения?</translation>
+          <comment>where - где, luggage - багаж, office - офис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a not too expensive room</question>
+    <answer>не слишком дорогой номер</answer>
+    <comment>[ə nɑːt tuː ɪkˈspensɪv ruːm]</comment>
+    <question_comment>too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba8e29f0-3b7c-4564-8f9c-37754e3a6235</uuid>
+    <examples>
+       <example>
+          <value>I need a not too expensive room.</value>
+          <translation>Мне нужен не слишком дорогой номер.</translation>
+          <comment>need - нуждаться, too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room at the back</question>
+    <answer>номер с окнами во двор</answer>
+    <comment>[ə ruːm ət ðə bæk]</comment>
+    <question_comment>room - комната, номер (в гостинице), the back - задняя часть</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02a14bf4-3a94-4d5e-a683-23c9db158bf3</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room at the back.</value>
+          <translation>Я бы хотел номер с окнами во двор.</translation>
+          <comment>would like - хотеть, room - комната, back - задняя сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room at the front</question>
+    <answer>номер с окнами на улицу</answer>
+    <comment>[ə ruːm ət ðə frʌnt]</comment>
+    <question_comment>room - комната, номер (в гостинице), the front - передняя часть</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c31571ff-a7dc-46d8-b4fc-d39902bf9ec9</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room at the front.</value>
+          <translation>Я бы хотел номер с окнами на улицу.</translation>
+          <comment>would like - хотеть, room - комната, front - передняя сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room on the bottom floors</question>
+    <answer>номер на нижних этажах</answer>
+    <comment>[ə ruːm ɑːn ðə ˈbɑːtəm flɔːrz]</comment>
+    <question_comment>room - комната, номер (в гостинице), bottom - низ, нижний, floor - пол, этаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>200075dc-43ea-4584-98b1-5e918ca0fc9a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room on one of the bottom floors.</value>
+          <translation>Я хотел бы номер на нижних этажах.</translation>
+          <comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room on the top floors</question>
+    <answer>номер на верних этажах</answer>
+    <comment>[ə ruːm ɑːn ðə tɑːp flɔːrz]</comment>
+    <question_comment>room - комната, номер (в гостинице), top - верх, верхний, floor - пол, этаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec299a07-c93c-46e1-8ef9-7a79eea87567</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room on the top floors.</value>
+          <translation>Я хотел бы номер на верних этажах.</translation>
+          <comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room with a balcony</question>
+    <answer>номер с балконом</answer>
+    <comment>[ə ruːm wɪð ə ˈbælkəniː]</comment>
+    <question_comment>room - комната, номер (в гостинице), balcony - балкон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84308463-b972-4ed3-81dd-c4dc2a40ab3a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room with a balcony.</value>
+          <translation>Я хотел бы номер с балконом.</translation>
+          <comment>would like - хотеть, room - комната, balcony - балкон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room with a bath</question>
+    <answer>номер с ванной</answer>
+    <comment>[ə ruːm wɪð ə bæθ]</comment>
+    <question_comment>room - комната, номер (в гостинице), bath - ванна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f215e88a-8a7a-4a5a-8e23-21048c005d8d</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room with a bath.</value>
+          <translation>Я хотел бы номер с ванной.</translation>
+          <comment>would like - хотеть, room - комната, bath - ванна</comment>
+       </example>
+       <example>
+          <value>Is there a bath in the room?</value>
+          <translation>Есть ли в номере ванна?</translation>
+          <comment>there is - есть, имеется, bath - ванна, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room with a better view</question>
+    <answer>номер с лучшим видом</answer>
+    <comment>[ə ruːm wɪð ə ˈbetər vjuː]</comment>
+    <question_comment>room - комната, номер (в гостинице), view - вид, better - более хороший, лучший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>81cd55b3-2282-46a6-b0e4-c2c357bcb5de</uuid>
+    <examples>
+       <example>
+          <value>Do you have a room with a better view?</value>
+          <translation>Есть ли у вас номер с лучшим видом?</translation>
+          <comment>to have - иметь, room - комната, better - лучший, view - вид</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room with a shower</question>
+    <answer>номер с душем</answer>
+    <comment>[ə ruːm wɪð ə ˈʃаʊər]</comment>
+    <question_comment>room - комната, номер (в гостинице), shower - душ</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33cb8946-29a6-4f62-a97c-187c79521f74</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room with a shower.</value>
+          <translation>Я хотел бы номер с душем.</translation>
+          <comment>would like - хотеть, room - комната, shower - душ</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a room with a view of the river</question>
+    <answer>номер с видом на реку</answer>
+    <comment>[ə ruːm wɪð ə vjuː əv ðə ˈrɪvər]</comment>
+    <question_comment>room - комната, номер (в гостинице), river - река</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>61632345-813d-4d3b-808d-65428c9096b3</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room with a view of the river.</value>
+          <translation>Я хотел бы номер с видом на реку.</translation>
+          <comment>would like - хотеть, room - комната, view - вид, river - река</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a single room</question>
+    <answer>номер на одного</answer>
+    <comment>[ə ˈsɪŋgəl ruːm]</comment>
+    <question_comment>single - одиночный, отдельный, room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>74febed1-b05c-456f-adb7-3b471be7ad83</uuid>
+    <examples>
+       <example>
+          <value>I need a single room.</value>
+          <translation>Мне нужна комната на одного.</translation>
+          <comment>need - нуждаться, single - отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a single room.</value>
+          <translation>Я хотел бы получить одноместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a swimming pool</question>
+    <answer>бассейн</answer>
+    <comment>[ə ˈswɪmɪŋ puːl]</comment>
+    <question_comment>swimming - плавающий, плавательный, to swim - плавать, pool - бассейн</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee365c11-bfc3-4216-8f97-b2d8e6582f1c</uuid>
+    <examples>
+       <example>
+          <value>Is there a swimming pool in the hotel?</value>
+          <translation>Есть ли в гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hotel accommodation</question>
+    <answer>номер в гостинице</answer>
+    <comment>[hoʊˈtel əˌkɑːməˈdeɪʃən]</comment>
+    <question_comment>accommodation - жилье, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>35985887-546c-4b14-8953-e18528d1ee97</uuid>
+    <examples>
+       <example>
+          <value>I need hotel accommodation in the center.</value>
+          <translation>Мне нужен номер в гостинице в центре.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>how much</question>
+    <answer>сколько (стоит)</answer>
+    <comment>[hаʊ mʌʧ]</comment>
+    <question_comment>how - как, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7be9a7a-8443-47ec-aebb-1bded6eadc1c</uuid>
+    <examples>
+       <example>
+          <value>How much commission do you charge?</value>
+          <translation>Сколько вы берете за обмен?</translation>
+          <comment>how - как, much - много, commission - комиссия, to charge - взимать (деньги)</comment>
+       </example>
+       <example>
+          <value>How much is the room?</value>
+          <translation>Сколько стоит номер?</translation>
+          <comment>how - как, much - много, room - комната</comment>
+       </example>
+       <example>
+          <value>How much is the rent of an appartment?</value>
+          <translation>Сколько стоит аренда квартиры?</translation>
+          <comment>how - как, much - много, rent - аренда, appartment - апартаменты, квартира</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a house?</value>
+          <translation>Сколько стоит аренда дома?</translation>
+          <comment>how - как, much - много, rent - аренда, house - дом</comment>
+       </example>
+       <example>
+          <value>How much is the rent for a night?</value>
+          <translation>Сколько стоят сутки?</translation>
+          <comment>how - как, much - много, rent - аренда, night - ночь</comment>
+       </example>
+       <example>
+          <value>How much is the rent with breakfast?</value>
+          <translation>Сколько стоит аренда с завтраком?</translation>
+          <comment>how - как, much - много, rent - аренда, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>How much is a one-way ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы в один конец?</translation>
+          <comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How much is a round-trip ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы и обратно?</translation>
+          <comment>how - как, much - много, round - круглый, trip - поездка, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How much is a ticket for a child of seven?</value>
+          <translation>Сколько стоит билет на ребенка семи лет?</translation>
+          <comment>how - как, much - много, ticket - билет, child - ребенок, seven - семь</comment>
+       </example>
+       <example>
+          <value>How much should I pay for the excess baggage?</value>
+          <translation>Сколько мне нужно доплатить за перевес багажа?</translation>
+          <comment>how - сколько, much - много, should - должен, должна, должны, to pay - платить, excess - избыточный, baggage - вес</comment>
+       </example>
+       <example>
+          <value>How much is a sleeping car ticket?</value>
+          <translation>Сколько стоит билет в спальный вагон?</translation>
+          <comment>how - сколько, much - много, sleeping - спащий, спальный, car - вагон, ticket - билет</comment>
+       </example>
+       <example>
+          <value>How much is the ticket for a five year old child?</value>
+          <translation>Сколько стоит билет на пятилетнего ребенка?</translation>
+          <comment>how - сколько, much - много, ticket - билет, five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a car per day?</value>
+          <translation>Сколько стоит аренда машины в день?</translation>
+          <comment>how - как, much - много, rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>How much will it cost?</value>
+          <translation>Сколько это будет стоить?</translation>
+          <comment>how - как, much - много, it - это, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much do I pay?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, to pay - платить</comment>
+       </example>
+       <example>
+          <value>How much is it per word?</value>
+          <translation>Сколько стоит слово?</translation>
+          <comment>how - как, much - много, it - это, per word - за одно слово</comment>
+       </example>
+       <example>
+          <value>How much will the ride cost?</value>
+          <translation>Сколько будет стоить эта поездка?</translation>
+          <comment>how - как, much - много, ride - поездка, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much do I owe you?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, to owe - быть должным, you - тебе, вам</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит один билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much are seats in the balcony?</value>
+          <translation>Сколько стоят билеты на балкон?</translation>
+          <comment>how - как, much - много, seat - место, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>How much do the tickets cost?</value>
+          <translation>Сколько стоят билеты?</translation>
+          <comment>how - как, much - много, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does this book cost?</value>
+          <translation>Сколько стоит эта книга?</translation>
+          <comment>how - как, much - много, this - этот, эта, это, book - книга, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does it cost?</value>
+          <translation>Сколько это стоит?</translation>
+          <comment>how - как, much - много, it - это, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much is this?</value>
+          <translation>Сколько это стоит?</translation>
+          <comment>how - как, much - много, this - это</comment>
+       </example>
+       <example>
+          <value>How much must I pay?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, must - быть должным, to pay - платить</comment>
+       </example>
+       <example>
+          <value>How much is for all?</value>
+          <translation>Сколько с меня за все?</translation>
+          <comment>how - как, much - много, all - все</comment>
+       </example>
+       <example>
+          <value>How much is all in all?</value>
+          <translation>Сколько стоит это вместе?</translation>
+          <comment>how - как, much - много, all - все, всё</comment>
+       </example>
+       <example>
+          <value>How much is bicycle rent for five days?</value>
+          <translation>Сколько стоит аренда велосипеда на пять дней?</translation>
+          <comment>how - как, much - много, bicycle - велосипед, rent - арендная плата, five - пять, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to live in the center</question>
+    <answer>жить в центре</answer>
+    <comment>[tə lɪv ɪn ðə ˈsentər]</comment>
+    <question_comment>to live - жить, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1f4c41fa-534c-4f2f-9a07-df1e46482b4e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the hotel</question>
+    <answer>в гостинице</answer>
+    <comment>[ɪn ðə hoʊˈtel]</comment>
+    <question_comment>in - в, внутри, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fba69527-0c2f-45bd-9edc-7c615d7f7825</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay at a hotel.</value>
+          <translation>Я остановлюсь в гостинице.</translation>
+          <comment>to stay - оставаться, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>I need hotel accommodation in the center.</value>
+          <translation>Мне нужен номер в гостинице в центре.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, center - центр</comment>
+       </example>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+       <example>
+          <value>Where is the nearest hotel?</value>
+          <translation>Где ближайшая гостиница?</translation>
+          <comment>where - где, the nearest - ближайший, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a luggage office in the hotel?</value>
+          <translation>Есть ли в гостинице камера хранения?</translation>
+          <comment>there is - есть, имеется, luggage - багаж, office - офис, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a fitness-hall in the hotel?</value>
+          <translation>Есть ли в гостинице фитнес-зал?</translation>
+          <comment>there is - есть, имеется, fitness - фитнес, hall - зал, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in the hotel?</value>
+          <translation>Есть ли в гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a sauna in the hotel?</value>
+          <translation>Есть ли в гостинице сауна?</translation>
+          <comment>there is - есть, имеется, sauna - сауна, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many stops are there to the hotel?</value>
+          <translation>Сколько остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many more stops to the hotel?</value>
+          <translation>Сколько еще остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, more - еще, больше, stop - остановка, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a doctor in the hotel?</value>
+          <translation>В гостинице есть врач?</translation>
+          <comment>there is - есть, имеется, doctor - врач, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a billiard room in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бильярдная?</translation>
+          <comment>there is - есть, имеется, billiard - бильярд, room - комната, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in the room</question>
+    <answer>в комнате</answer>
+    <comment>[ɪn ðə ruːm]</comment>
+    <question_comment>room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b61014fc-5bd6-43a1-a720-aa823366d057</uuid>
+    <examples>
+       <example>
+          <value>I have reserved a room beforehand.</value>
+          <translation>Я забронировал заранее номер.</translation>
+          <comment>to reserve - забронировать, room - комната, номер, beforehand - заранее</comment>
+       </example>
+       <example>
+          <value>We&apos;ve reserved two rooms.</value>
+          <translation>У нас заказаны два номера.</translation>
+          <comment>to reserve - зарезервировать, two - два, room - комната</comment>
+       </example>
+       <example>
+          <value>I need a single room.</value>
+          <translation>Мне нужна комната на одного.</translation>
+          <comment>need - нуждаться, single - отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I need a double room.</value>
+          <translation>Мне нужна комната на двоих.</translation>
+          <comment>need - нуждаться, double - двойной, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I need a not too expensive room.</value>
+          <translation>Мне нужен не слишком дорогой номер.</translation>
+          <comment>need - нуждаться, too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a single room.</value>
+          <translation>Я хотел бы получить одноместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a double room.</value>
+          <translation>Я хотел бы получить двухместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, double - двойной, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a bath.</value>
+          <translation>Я хотел бы номер с ванной.</translation>
+          <comment>would like - хотеть, room - комната, bath - ванна</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a shower.</value>
+          <translation>Я хотел бы номер с душем.</translation>
+          <comment>would like - хотеть, room - комната, shower - душ</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a balcony.</value>
+          <translation>Я хотел бы номер с балконом.</translation>
+          <comment>would like - хотеть, room - комната, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a view of the river.</value>
+          <translation>Я хотел бы номер с видом на реку.</translation>
+          <comment>would like - хотеть, room - комната, view - вид, river - река</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the front.</value>
+          <translation>Я бы хотел номер с окнами на улицу.</translation>
+          <comment>would like - хотеть, room - комната, front - передняя сторона</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the back.</value>
+          <translation>Я бы хотел номер с окнами во двор.</translation>
+          <comment>would like - хотеть, room - комната, back - задняя сторона</comment>
+       </example>
+       <example>
+          <value>Do you have a room with a better view?</value>
+          <translation>Есть ли у вас номер с лучшим видом?</translation>
+          <comment>to have - иметь, room - комната, better - лучший, view - вид</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on the top floors.</value>
+          <translation>Я хотел бы номер на верних этажах.</translation>
+          <comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on one of the bottom floors.</value>
+          <translation>Я хотел бы номер на нижних этажах.</translation>
+          <comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>What&apos;s my room number?</value>
+          <translation>Какой мой номер?</translation>
+          <comment>what - какой, что, my - мой, моя, room - комната, number - номер</comment>
+       </example>
+       <example>
+          <value>Is there a conditioner in the room?</value>
+          <translation>Есть ли в номере кондиционер?</translation>
+          <comment>there is - есть, имеется, conditioner - кондиционер, room - комната</comment>
+       </example>
+       <example>
+          <value>Is there a bath in the room?</value>
+          <translation>Есть ли в номере ванна?</translation>
+          <comment>there is - есть, имеется, bath - ванна, room - комната</comment>
+       </example>
+       <example>
+          <value>Is there a toilet in the room?</value>
+          <translation>Есть ли в номере туалет?</translation>
+          <comment>there is - есть, имеется, room - комната</comment>
+       </example>
+       <example>
+          <value>Is there a telephone in the room?</value>
+          <translation>Есть ли в номере телефон?</translation>
+          <comment>there is - есть, имеется, telephone - телефон, room - комната</comment>
+       </example>
+       <example>
+          <value>Is there a TV set in the room?</value>
+          <translation>Есть ли в номере телевизор?</translation>
+          <comment>there is - есть, имеется, TV set - телевизор, room - комната</comment>
+       </example>
+       <example>
+          <value>Is there a refrigerator in the room?</value>
+          <translation>Есть ли в номере холодильник?</translation>
+          <comment>there is - есть, имеется, refrigerator - холодильник, room - комната</comment>
+       </example>
+       <example>
+          <value>How much is the room?</value>
+          <translation>Сколько стоит номер?</translation>
+          <comment>how - как, much - много, room - комната</comment>
+       </example>
+       <example>
+          <value>Can I look at the room?</value>
+          <translation>Могу я посмотреть номер?</translation>
+          <comment>can - мочь, to look - посмотреть, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I don&apos;t like the room.</value>
+          <translation>Мне не нравится номер.</translation>
+          <comment>to like - любить, нравиться, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>This room suits me perfectly well.</value>
+          <translation>Этот номер мне подходит.</translation>
+          <comment>this -этот, эта, это, room - комната, to suit - подходить, me - мне, меня, perfectly - совершенно, well - хорошо</comment>
+       </example>
+       <example>
+          <value>Please take my baggage to my room.</value>
+          <translation>Пожалуйста, отнесите мой багаж в мою комнату.</translation>
+          <comment>to take - относить, my - мой, моя, мое, baggage - багаж, room - комната</comment>
+       </example>
+       <example>
+          <value>Please give me the key to my room.</value>
+          <translation>Пожалуйста, дайте ключ от моего номера.</translation>
+          <comment>to give - давать, me - мне, меня, key - ключ, room - комната</comment>
+       </example>
+       <example>
+          <value>Can I ask you to bring my breakfast to the room?</value>
+          <translation>Можно попросить принести завтрак в номер?</translation>
+          <comment>can - мочь, to ask - просить, you - тебя, вас, to bring - приносить, my - мой, моя, мое, breakfast - завтрак, room - комната</comment>
+       </example>
+       <example>
+          <value>I want to order supper for two to my room.</value>
+          <translation>Я хочу заказать в номер ужин на двоих.</translation>
+          <comment>to want - хотеть, to order - заказать, supper - ужин, two - два, room - комната</comment>
+       </example>
+       <example>
+          <value>The bulb in my room has burned out.</value>
+          <translation>В моем номере перегорела лампочка.</translation>
+          <comment>bulb - лампочка, room - комната, to burn out - перегореть</comment>
+       </example>
+       <example>
+          <value>A switch has broken in my room.</value>
+          <translation>В моем номере сломался выключатель.</translation>
+          <comment>switch - выключатель, to break - ломать(ся), room - комната</comment>
+       </example>
+       <example>
+          <value>The blinds will not turn in my room.</value>
+          <translation>В моем номере не поворачиваются жалюзи.</translation>
+          <comment>blinds - жалюзи, to turn - поворачиваться, room - комната</comment>
+       </example>
+       <example>
+          <value>The room is dirty.</value>
+          <translation>Комната грязная.</translation>
+          <comment>room - комната, dirty - грязный</comment>
+       </example>
+       <example>
+          <value>I have forgotten the key to my room.</value>
+          <translation>Я забыл ключ от моего номера.</translation>
+          <comment>to forget - забыть, key - ключ, room - комната</comment>
+       </example>
+       <example>
+          <value>Where is the waiting room?</value>
+          <translation>Где зал ожидания?</translation>
+          <comment>where - где, waiting - ожидание, room - комната</comment>
+       </example>
+       <example>
+          <value>Where is the smoking room here?</value>
+          <translation>Где здесь курительная комната?</translation>
+          <comment>where - где, smoking - курящий, курительный, room - комната, here - здесь</comment>
+       </example>
+       <example>
+          <value>There&apos;s a fitting room over there.</value>
+          <translation>Вон там есть примерочная.</translation>
+          <comment>there&apos;s - есть, имеется, fitting room - примерочная, over there - вон там</comment>
+       </example>
+       <example>
+          <value>Where is the fitting room?</value>
+          <translation>Где находится примерочная?</translation>
+          <comment>where - где, fitting room - примерочная</comment>
+       </example>
+       <example>
+          <value>Is there a billiard room in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бильярдная?</translation>
+          <comment>there is - есть, имеется, billiard - бильярд, room - комната, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>near the railroad station</question>
+    <answer>возле ж/д вокзала</answer>
+    <comment>[nɪr ðə ˈreɪlˌroʊd ˈsteɪʃən]</comment>
+    <question_comment>near - возле, рядом, railroad - железная дорога, station - станция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9aca449b-d2ad-4478-8eef-436cfc985b55</uuid>
+    <examples>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perfectly well</question>
+    <answer>очень хорошо</answer>
+    <comment>[ˈpɜːrfɪktliː wel]</comment>
+    <question_comment>perfectly - совершенно, вполне, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cd36e9c3-1951-4289-8316-61346b1fe0a1</uuid>
+    <examples>
+       <example>
+          <value>This room suits me perfectly well.</value>
+          <translation>Этот номер мне подходит.</translation>
+          <comment>this -этот, эта, это, room - комната, to suit - подходить, me - мне, меня, perfectly - совершенно, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the room number</question>
+    <answer>номер комнаты</answer>
+    <comment>[ðə ruːm ˈnʌmbər]</comment>
+    <question_comment>room - комната, номер (в гостинице), number - номер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2df38836-356f-417c-ba5f-fa9a50289c88</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s my room number?</value>
+          <translation>Какой мой номер?</translation>
+          <comment>what - какой, что, my - мой, моя, room - комната, number - номер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest hotel</question>
+    <answer>ближайшая гостиница</answer>
+    <comment>[ðə ˈnɪrrɪst hoʊˈtel]</comment>
+    <question_comment>the nearest - ближайший, near - рядом с, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f877d3b8-fd3b-4b8b-ae9f-184c24ca6cf6</uuid>
+    <examples>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+       <example>
+          <value>Where is the nearest hotel?</value>
+          <translation>Где ближайшая гостиница?</translation>
+          <comment>where - где, the nearest - ближайший, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the registration form</question>
+    <answer>анкета</answer>
+    <comment>[ðə ˌreʤɪˈstreɪʃən fɔːrm]</comment>
+    <question_comment>registration - регистрация, form - форма (для заполнения)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>72ba43c0-ac76-42c5-83a7-5666571cc2e4</uuid>
+    <examples>
+       <example>
+          <value>Fill out this registration form, please.</value>
+          <translation>Заполните, пожалуйста, анкету.</translation>
+          <comment>to fill out - заполнить, this - этот, эта, это, registration - регистрация, form - бланк, форма</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rent for a night</question>
+    <answer>стоимость суток</answer>
+    <comment>[ðə rent fər ə nаɪt]</comment>
+    <question_comment>rent - арендная плата, аренда, night - ночь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c0163d38-77f0-48db-acdc-9293e880a283</uuid>
+    <examples>
+       <example>
+          <value>How much is the rent for a night?</value>
+          <translation>Сколько стоят сутки?</translation>
+          <comment>how - как, much - много, rent - аренда, night - ночь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rent of a house</question>
+    <answer>аренда дома</answer>
+    <comment>[ðə rent əv ə ˌhæʊs]</comment>
+    <question_comment>rent - аренда, house - дом</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b1f43c71-1ac8-4f8c-8dc0-5a7c03114647</uuid>
+    <examples>
+       <example>
+          <value>How much is the rent of a house?</value>
+          <translation>Сколько стоит аренда дома?</translation>
+          <comment>how - как, much - много, rent - аренда, house - дом</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rent of an appartment</question>
+    <answer>аренда квартиры</answer>
+    <comment>[ðə rent əv ən əˈpɑːrtmənt]</comment>
+    <question_comment>rent - аренда, appartment - квартира</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>94c6b3c8-f0c9-4b04-8795-620cfdde3033</uuid>
+    <examples>
+       <example>
+          <value>How much is the rent of an appartment?</value>
+          <translation>Сколько стоит аренда квартиры?</translation>
+          <comment>how - как, much - много, rent - аренда, appartment - апартаменты, квартира</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rent with breakfast</question>
+    <answer>аренда с завтраком</answer>
+    <comment>[ðə rent wɪð ˈbrekfəst]</comment>
+    <question_comment>rent - аренда, breakfast - завтрак</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>13b31e20-b6e8-47ed-8dd4-3f17528bf5a8</uuid>
+    <examples>
+       <example>
+          <value>How much is the rent with breakfast?</value>
+          <translation>Сколько стоит аренда с завтраком?</translation>
+          <comment>how - как, much - много, rent - аренда, breakfast - завтрак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this evening</question>
+    <answer>сегодня вечером</answer>
+    <comment>[ðɪs ˈiːvnɪŋ]</comment>
+    <question_comment>this - этот, эта, это, evening - вечер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>76f11cba-266d-4fc8-a0af-e2fbd93b5351</uuid>
+    <examples>
+       <example>
+          <value>Can&apos;t you spend this evening with us?</value>
+          <translation>Не можете ли вы сегодня провести вечер с нами?</translation>
+          <comment>to spend - тратить, провести, this - этот, эта, evening - вечер, with - с (кем-л.), us - нам, нас</comment>
+       </example>
+       <example>
+          <value>I&apos;m leaving this evening.</value>
+          <translation>Я уезжаю сегодня вечером.</translation>
+          <comment>to leave - оставлять, уезжать, this - этот, эта, это, evening - вечер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a quiet room</question>
+    <answer>тихий номер</answer>
+    <comment>[ə ˈkwаɪɪt ruːm]</comment>
+    <question_comment>quiet - тихий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc3cc620-14ec-462f-bb20-2e95af771cfc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay at a hotel</question>
+    <answer>остановиться в гостинице</answer>
+    <comment>[tə steɪ ət ə hoʊˈtel]</comment>
+    <question_comment>to stay - остановиться, остаться, hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>958bc818-e1ec-415d-bbe7-56b852911151</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay at a hotel.</value>
+          <translation>Я остановлюсь в гостинице.</translation>
+          <comment>to stay - оставаться, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay overnight</question>
+    <answer>остановиться на сутки</answer>
+    <comment>[tə steɪ ˈoʊvərˈnаɪt]</comment>
+    <question_comment>to stay - остановиться, остаться, overnight - ночной, only - только</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>60919e8a-3a2f-45d4-8fbc-bc84a084cbfe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>overnight only</question>
+    <answer>только на сутки</answer>
+    <comment>[ˈoʊvərˈnаɪt ˈoʊnliː]</comment>
+    <question_comment>overnight - на ночь, only - только</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7628eb8-66af-46b8-abc0-9e3dda26355a</uuid>
+    <examples>
+       <example>
+          <value>We&apos;ll be staying overnight only.</value>
+          <translation>Мы пробудем только сутки.</translation>
+          <comment>to stay - остановиться, пребывать, overnight - ночной, only - только</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very pleasant</question>
+    <answer>очень приятный</answer>
+    <comment>[ˈveriː ˈplezənt]</comment>
+    <question_comment>very - очень, pleasant - приятный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>401ab973-56c9-4620-8f6e-ccbef6ee3e7b</uuid>
+    <examples>
+       <example>
+          <value>Our stay here was very pleasant.</value>
+          <translation>Здесь было очень приятно.</translation>
+          <comment>our - наш, наша, наше, stay - пребывание, here - здесь, was - был, была, было, very - очень, pleasant - полезный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to exchange currency</question>
+    <answer>обменять валюту</answer>
+    <comment>[tə ɪksˈʧeɪnʤ ˈkɜːrənsiː]</comment>
+    <question_comment>to exchange - обменять, currency - валюта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e642ba7a-ec80-4137-9f98-48dbed468d28</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest currency exchange office?</value>
+          <translation>Где находится ближайший пункт обмена валюты?</translation>
+          <comment>where - где, the nearest - ближайший, currency - валюта, exchange - обмен, office - офис</comment>
+       </example>
+       <example>
+          <value>Where can I exchange currency?</value>
+          <translation>Где я могу обменять валюту?</translation>
+          <comment>where - где, can - мочь, to exchange - обменять, currency - валюта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a reservation</question>
+    <answer>иметь заказанным номер</answer>
+    <comment>[tə hæv ə ˌrezərˈveɪʃən]</comment>
+    <question_comment>to have - иметь, reservation - бронь, заказ (номера)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>26fdada8-8386-4301-9f3f-f6cae9216993</uuid>
+    <examples>
+       <example>
+          <value>I have a reservation.</value>
+          <translation>У меня заказан номер.</translation>
+          <comment>to have - иметь, reservation - бронь, заказ</comment>
+       </example>
+       <example>
+          <value>Here is my reservation.</value>
+          <translation>Вот моя плацкарта.</translation>
+          <comment>here - здесь, reservation - бронь, резервирование</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have any vacancies</question>
+    <answer>иметь свободные места</answer>
+    <comment>[tə hæv ˈeniː ˈveɪkəniːz]</comment>
+    <question_comment>to have - иметь, vacancy - свободное место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1da14f4e-e779-43fa-b679-19de00da9e7e</uuid>
+    <examples>
+       <example>
+          <value>Do you have any vacancies?</value>
+          <translation>У вас есть свободные номера?</translation>
+          <comment>to have - иметь, any - любой, vacancy - вакансия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have anything better</question>
+    <answer>иметь что-нибудь получше</answer>
+    <comment>[tə hæv ˈenɪˌθɪŋ ˈbetər]</comment>
+    <question_comment>to have - иметь, anything - что-нибудь, better - лучше</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>656f4ad3-c00c-4e12-b408-33ed1b28c6e3</uuid>
+    <examples>
+       <example>
+          <value>Do you have anything better?</value>
+          <translation>У вас есть что-нибудь получше?</translation>
+          <comment>to have - иметь, anything - что-нибудь, better - лучше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have anything cheaper</question>
+    <answer>иметь что-нибудь подешевле</answer>
+    <comment>[tə hæv ˈenɪˌθɪŋ ˈʧiːpə]</comment>
+    <question_comment>to have - иметь, anything - что-нибудь, cheaper - дешевле</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf46b4f6-1004-487e-be98-552e783461f6</uuid>
+    <examples>
+       <example>
+          <value>Do you have anything cheaper?</value>
+          <translation>У вас есть что-нибудь подешевле?</translation>
+          <comment>to have - иметь, anything - что-нибудь, cheaper - дешевле</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have anything larger</question>
+    <answer>иметь что-нибудь побольше</answer>
+    <comment>[tə hæv ˈenɪˌθɪŋ ˈlɑːrʤə]</comment>
+    <question_comment>to have - иметь, anything - что-нибудь, larger - больше</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>08cc29e7-f64d-457b-b917-5a00aa9c76b8</uuid>
+    <examples>
+       <example>
+          <value>Do you have anything larger?</value>
+          <translation>У вас есть что-нибудь побольше?</translation>
+          <comment>to have - иметь, anything - что-нибудь, larger - больше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like the room.</question>
+    <answer>Номер мне нравится.</answer>
+    <comment>[аɪ lаɪk ðə ruːm]</comment>
+    <question_comment>to like - любить, нравиться, room - номер, комната (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9d03df51-3f97-4e22-b002-505f2a181bf7</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to receive a single room.</value>
+          <translation>Я хотел бы получить одноместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to receive a double room.</value>
+          <translation>Я хотел бы получить двухместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, double - двойной, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a bath.</value>
+          <translation>Я хотел бы номер с ванной.</translation>
+          <comment>would like - хотеть, room - комната, bath - ванна</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a shower.</value>
+          <translation>Я хотел бы номер с душем.</translation>
+          <comment>would like - хотеть, room - комната, shower - душ</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a balcony.</value>
+          <translation>Я хотел бы номер с балконом.</translation>
+          <comment>would like - хотеть, room - комната, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room with a view of the river.</value>
+          <translation>Я хотел бы номер с видом на реку.</translation>
+          <comment>would like - хотеть, room - комната, view - вид, river - река</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the front.</value>
+          <translation>Я бы хотел номер с окнами на улицу.</translation>
+          <comment>would like - хотеть, room - комната, front - передняя сторона</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room at the back.</value>
+          <translation>Я бы хотел номер с окнами во двор.</translation>
+          <comment>would like - хотеть, room - комната, back - задняя сторона</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on the top floors.</value>
+          <translation>Я хотел бы номер на верних этажах.</translation>
+          <comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I&apos;d like a room on one of the bottom floors.</value>
+          <translation>Я хотел бы номер на нижних этажах.</translation>
+          <comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I don&apos;t like the room.</value>
+          <translation>Мне не нравится номер.</translation>
+          <comment>to like - любить, нравиться, room - комната, номер (в гостинице)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to look at the room</question>
+    <answer>посмотреть номер</answer>
+    <comment>[tə lʊk ət ðə ruːm]</comment>
+    <question_comment>to look (at) - посмотреть (на), room - номер, комната (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62dbd041-6cf0-47c8-9c87-a50c36330531</uuid>
+    <examples>
+       <example>
+          <value>Can I look at the room?</value>
+          <translation>Могу я посмотреть номер?</translation>
+          <comment>can - мочь, to look - посмотреть, room - комната, номер (в гостинице)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to park my car</question>
+    <answer>поставить мою машину</answer>
+    <comment>[tə pɑːrk mаɪ kɑːr]</comment>
+    <question_comment>to park - парковать, ставить, my - мой, моя, мое, car - машина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4f973025-662e-44e4-89d1-dac462143d89</uuid>
+    <examples>
+       <example>
+          <value>Where can I park my car?</value>
+          <translation>Гдк я могу поставить свою машину?</translation>
+          <comment>where - где, can - мочь, to park - ставить, парковать, my - мой, моя, мои, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay by credit card</question>
+    <answer>заплатить кредитной карточкой</answer>
+    <comment>[tə peɪ bаɪ ˈkredɪt kɑːrd]</comment>
+    <question_comment>to pay - платить, credit card - кредитная карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>81af8431-2752-4a53-9bf7-5b7ef815a2e9</uuid>
+    <examples>
+       <example>
+          <value>Can I pay by credit card?</value>
+          <translation>Могу я заплатить кредитной карточкой?</translation>
+          <comment>can - мочь, to pay - платить, credit - кредитный, card - карта</comment>
+       </example>
+       <example>
+          <value>Can I pay by credit card?</value>
+          <translation>Можно оплатить покупки кредитной картой?</translation>
+          <comment>can - мочь, to pay - платить, credit - кредитный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay in cash</question>
+    <answer>заплатить наличными</answer>
+    <comment>[tə peɪ ɪn kæʃ]</comment>
+    <question_comment>to pay - платить, cash - наличные средства</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>43920014-c56d-441b-8813-258303d6eff8</uuid>
+    <examples>
+       <example>
+          <value>I pay in cash.</value>
+          <translation>Я заплачу наличными.</translation>
+          <comment>to pay - платить, cash - наличные деньги</comment>
+       </example>
+       <example>
+          <value>Please pay the bill at the cash register.</value>
+          <translation>Заплатите в кассу по этому чеку.</translation>
+          <comment>to pay - платить, bill - счет, cash register - касса</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to pay in cash.</value>
+          <translation>Мне бы хотелось заплатить наличными.</translation>
+          <comment>would like - хотеть, to pay - платить, cash - наличные деньги</comment>
+       </example>
+       <example>
+          <value>Can I pay in cash?</value>
+          <translation>Могу я оплатить наличными?</translation>
+          <comment>can - мочь, to pay - платить, cash - наличные деньги</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay with traveller&apos;s checks</question>
+    <answer>заплатить дорожными чеками</answer>
+    <comment>[tə peɪ wɪð ˈtrævələrz ʧeks]</comment>
+    <question_comment>to pay - платить, traveller&apos;s check - дорожный чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>41c6c3a9-2621-4995-8d70-b89f7a1735df</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to prepare the bill</question>
+    <answer>приготовить счет</answer>
+    <comment>[tə prɪˈper ðə bɪl]</comment>
+    <question_comment>to prepare - подготовить, bill - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f2fa512c-a73c-40c3-b1ac-6532d24651d2</uuid>
+    <examples>
+       <example>
+          <value>Prepare the bill, please.</value>
+          <translation>Приготовьте, пожалуйста, счет.</translation>
+          <comment>to prepare - подготовить, bill - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive a double room</question>
+    <answer>получить двухместный номер</answer>
+    <comment>[tə rɪˈsiːv ə ˈdʌbəl ruːm]</comment>
+    <question_comment>to receive - получить, double - двойной, room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb3e0984-7d7d-4aa1-9cc4-80a2daff837f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to receive a double room.</value>
+          <translation>Я хотел бы получить двухместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, double - двойной, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive a single room</question>
+    <answer>получить одноместный номер</answer>
+    <comment>[tə rɪˈsiːv ə ˈsɪŋgəl ruːm]</comment>
+    <question_comment>to receive - получить, single - единичный, отдельный, room - комната, номер (в гостинице)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f98b467d-358f-4540-b46a-671ece94a727</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to receive a single room.</value>
+          <translation>Я хотел бы получить одноместный номер.</translation>
+          <comment>would like - хотеть, to receive - получить, single - отдельный, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to rent a car</question>
+    <answer>арендовать автомобиль</answer>
+    <comment>[tə rent ə kɑːr]</comment>
+    <question_comment>to rent - арендовать, car- машина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba3fd838-a394-44bd-9d44-85f0f1c08d6d</uuid>
+    <examples>
+       <example>
+          <value>Where can I rent a car?</value>
+          <translation>Где я могу арендовать автомобиль?</translation>
+          <comment>where - где, can - мочь, to rent - арендовать, car - машина</comment>
+       </example>
+       <example>
+          <value>Can I rent a car directly at the airport?</value>
+          <translation>Могу я взять напрокат машину прямо в аэропорту?</translation>
+          <comment>can - мочь, to rent - арендовать, car - машина, directly - прямо, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>I want to rent a car for three days.</value>
+          <translation>Я хочу арендовать машину на три дня.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a car per day?</value>
+          <translation>Сколько стоит аренда машины в день?</translation>
+          <comment>how - как, much - много, rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>I want to rent a car with a camping trailer.</value>
+          <translation>Я хочу арендовать машину с жилым прицепом.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, camping - кемпинг, trailer - прицеп</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to reserve a room beforehand</question>
+    <answer>забронировать заранее номер</answer>
+    <comment>[tə rɪˈzɜːrv ə ruːm bɪˈfɔːrˌhænd]</comment>
+    <question_comment>to reserve - забронировать, room - комната, номер (в гостинице), beforehand - заранее</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>52bae4c0-e1b0-4c92-877f-9d233d7ec08a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay for a day</question>
+    <answer>оставаться на день</answer>
+    <comment>[tə steɪ fər ə deɪ]</comment>
+    <question_comment>to stay - оставаться, day -день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ccbdf9ac-29b0-477c-9f10-0949c59cf217</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for several days.</value>
+          <translation>Я собираюсь пробыть в стране несколько дней.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a day.</value>
+          <translation>Я пробуду здесь один день.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for some days.</value>
+          <translation>Я пробуду здесь несколько дней.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, some - некоторый, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay for a week</question>
+    <answer>оставаться на неделю</answer>
+    <comment>[tə steɪ fər ə wiːk]</comment>
+    <question_comment>to stay - оставаться, week - неделя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2928354d-6596-4f01-afb0-11c33080bc21</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for a week.</value>
+          <translation>Я собираюсь пробыть в стране неделю.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a week.</value>
+          <translation>Я пробуду здесь неделю.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>Stay in bed for a week.</value>
+          <translation>Оставайтесь в постели неделю.</translation>
+          <comment>to stay - оставаться, bed - кровать, for - в течение, week - неделя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay for some days</question>
+    <answer>оставаться на несколько дней</answer>
+    <comment>[tə steɪ fər sʌm ˈdeɪz]</comment>
+    <question_comment>to stay - оставаться, some - несколько, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91ceaf38-3da7-4160-9196-9cae2c13247d</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay here for some days.</value>
+          <translation>Я пробуду здесь несколько дней.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, some - некоторый, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tomorrow morning</question>
+    <answer>завтра утром</answer>
+    <comment>[təˈmɔːroʊ ˈmɔːrnɪŋ]</comment>
+    <question_comment>tomorrow - завтра, morning - утро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e61162e4-5cd7-40e5-b9aa-d4eac1b6b835</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m leaving tomorrow morning.</value>
+          <translation>Я уезжаю завтра утром.</translation>
+          <comment>to leave - оставлять, уезжать, tomorrow - завтра, morning - утро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>what time</question>
+    <answer>в какое время</answer>
+    <comment>[hwʌt tаɪm]</comment>
+    <question_comment>what - что, какой, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>714b62a7-57e7-488d-a069-a05b40ae26b9</uuid>
+    <examples>
+       <example>
+          <value>What time is breakfast served?</value>
+          <translation>В какое время завтрак?</translation>
+          <comment>what - что, какой, time - время, breakfast - завтрак, served - подаваемый</comment>
+       </example>
+       <example>
+          <value>What time do I check in?</value>
+          <translation>Во сколько регистрация?</translation>
+          <comment>what - какой, time - время, to check in - регистрироваться (в аэропорту)</comment>
+       </example>
+       <example>
+          <value>What time does the post office open?</value>
+          <translation>Когда открывается почта?</translation>
+          <comment>what - что, какой, time - время, post - почта, office - офис, to open - открываться</comment>
+       </example>
+       <example>
+          <value>What time does the post office close?</value>
+          <translation>Когда закрывается почта?</translation>
+          <comment>what - что, какой, time - время, post - почта, office - офис, to close - закрываться</comment>
+       </example>
+       <example>
+          <value>What time is my ticket valid for?</value>
+          <translation>Какое время действителен мой билет?</translation>
+          <comment>what - что, какой, time - время, my - мой, моя, мое, ticket - билет, valid - действительный</comment>
+       </example>
+       <example>
+          <value>What time does the show start?</value>
+          <translation>Когда начинается спектакль?</translation>
+          <comment>what - что, какой, time - время, show - представление, шоу, to start - начинать(ся)</comment>
+       </example>
+       <example>
+          <value>What time is the show over?</value>
+          <translation>Когда заканчивается спектакль?</translation>
+          <comment>what - что, какой, time - время, show - представление, шоу, over - закончившийся</comment>
+       </example>
+       <example>
+          <value>What time is the next feature?</value>
+          <translation>Когда следующий сеанс?</translation>
+          <comment>what - что, какой, time - время, next - следующий, feature - показ (на экране)</comment>
+       </example>
+       <example>
+          <value>What time do you prefer?</value>
+          <translation>Какое время вы предпочитаете?</translation>
+          <comment>what - что, какой, time - время, to prefer - предпочитать</comment>
+       </example>
+       <example>
+          <value>What time does the concert begin?</value>
+          <translation>В какое время начинается концерт?</translation>
+          <comment>what - какой, time - время, concert - концерт, to begin - начаться</comment>
+       </example>
+       <example>
+          <value>What time do you open?</value>
+          <translation>В котором часу вы открываетесь?</translation>
+          <comment>what - какой, time - время, to open - открываться</comment>
+       </example>
+       <example>
+          <value>What time do you close?</value>
+          <translation>В котором часу вы закрываетесь?</translation>
+          <comment>what - какой, time - время, to close - закрываться</comment>
+       </example>
+       <example>
+          <value>What time does the store open?</value>
+          <translation>В котором часу открывается магазин?</translation>
+          <comment>what - какой, time - время, store - магазин, to open - открываться</comment>
+       </example>
+       <example>
+          <value>What time does the store close?</value>
+          <translation>В котором часу закрывается магазин?</translation>
+          <comment>what - какой, time - время, store - магазин, to close - закрываться</comment>
+       </example>
+       <example>
+          <value>What time does the drugstore open?</value>
+          <translation>В какое время открывается аптека?</translation>
+          <comment>what - какой, time - время, drugstore - аптека, to open - открываться</comment>
+       </example>
+       <example>
+          <value>What time does the drugstore close?</value>
+          <translation>В какое время закрывается аптека?</translation>
+          <comment>what - какой, time - время, drugstore - аптека, to close - закрываться</comment>
+       </example>
+       <example>
+          <value>What time is it?</value>
+          <translation>Который час?</translation>
+          <comment>what - что, какой, time - время</comment>
+       </example>
+       <example>
+          <value>I don&apos;t know what time it is.</value>
+          <translation>Я не знаю, который час.</translation>
+          <comment>to know - знать, what - что, какой, time - время</comment>
+       </example>
+       <example>
+          <value>When? What time?</value>
+          <translation>Когда? В какое время?</translation>
+          <comment>when - когда, what - какой, что, time - время</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

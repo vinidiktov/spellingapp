@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>fb82f9cf-877a-4baf-9fc2-0092fe614e97</uuid>
+  <title>Расположение предметов</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>beside</question>
+    <answer>рядом с</answer>
+    <comment>[bɪˈsаɪd]</comment>
+    <answer_picture>beside.gif</answer_picture>
+    <uuid>c622e0d0-89d8-4e76-9fec-a5d42acd7bf0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>between</question>
+    <answer>между</answer>
+    <comment>[bɪˈtwiːn]</comment>
+    <answer_picture>between.gif</answer_picture>
+    <uuid>a3bc7b95-a22b-43aa-a17b-d1100213be49</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in front of</question>
+    <answer>перед</answer>
+    <comment>[ɪn frʌnt ɒv]</comment>
+    <answer_picture>in_front_of.gif</answer_picture>
+    <uuid>60945275-84f5-4e2a-a4ea-46f39c58b816</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>above</question>
+    <answer>над</answer>
+    <comment>[əˈbʌv]</comment>
+    <answer_picture>above.gif</answer_picture>
+    <uuid>4f6d92da-b6d7-443d-905a-9ec57df8a325</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>behind</question>
+    <answer>позади</answer>
+    <comment>[bɪˈhаɪnd]</comment>
+    <answer_picture>behind.gif</answer_picture>
+    <uuid>9d140d43-0a6a-4725-8b5a-3da75f77a8d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>far</question>
+    <answer>далеко</answer>
+    <comment>[fɑː]</comment>
+    <answer_picture>far.gif</answer_picture>
+    <uuid>b2e5ff6b-4de8-4023-b129-33eca6d191c5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>edge</question>
+    <answer>край</answer>
+    <comment>[eʤ]</comment>
+    <answer_picture>edge.gif</answer_picture>
+    <uuid>a19479bf-5a04-4071-bc97-78bbeae48876</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in</question>
+    <answer>в, внутри</answer>
+    <comment>[ɪn]</comment>
+    <answer_picture>in.gif</answer_picture>
+    <uuid>132d166c-7f2c-4c6e-88de-6ff5a17a0519</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bottom</question>
+    <answer>дно, низ</answer>
+    <comment>[ˈbɒtəm]</comment>
+    <answer_picture>bottom.gif</answer_picture>
+    <uuid>6498a3e2-0393-41f9-a843-b9a8b6d95035</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>across</question>
+    <answer>поперёк</answer>
+    <comment>[əˈkrɒs]</comment>
+    <answer_picture>across.gif</answer_picture>
+    <uuid>e5567d55-3f06-42c5-8115-56dc9e9af886</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>map</question>
+    <answer>карта (географическая)</answer>
+    <comment>[mæp]</comment>
+    <answer_picture>map.gif</answer_picture>
+    <uuid>75ea35e1-cf0a-406c-9e4c-722df7f20b1e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>middle</question>
+    <answer>середина, центр</answer>
+    <comment>[ˈmɪdl]</comment>
+    <answer_picture>middle.gif</answer_picture>
+    <uuid>d0f38659-937e-42d8-b2c2-47fee9a2042f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>near</question>
+    <answer>близко</answer>
+    <comment>[nɪə]</comment>
+    <answer_picture>near.gif</answer_picture>
+    <uuid>9e642b2d-c19c-4f3b-94af-ad90bce2d98a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>on</question>
+    <answer>на</answer>
+    <comment>[ɒn]</comment>
+    <answer_picture>on.gif</answer_picture>
+    <uuid>968f2811-546b-45fa-9ade-9d93f6044462</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>place</question>
+    <answer>место</answer>
+    <comment>[pleɪs]</comment>
+    <answer_picture>place.gif</answer_picture>
+    <uuid>169371e3-5d25-4c9e-8658-2da2f8d070fc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>side</question>
+    <answer>сторона, бок</answer>
+    <comment>[sаɪd]</comment>
+    <answer_picture>side.gif</answer_picture>
+    <uuid>22952447-e74c-424e-a264-94d4a1f897c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>top</question>
+    <answer>верх</answer>
+    <comment>[tɒp]</comment>
+    <answer_picture>top.gif</answer_picture>
+    <uuid>73e80b96-0d57-4d2c-8a06-2cf07678048e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>under</question>
+    <answer>под</answer>
+    <comment>[ˈʌndə]</comment>
+    <answer_picture>under.gif</answer_picture>
+    <uuid>5f829e97-124c-456e-97d1-2414d861ac3f</uuid>
+  </card>
+</cards>
+</stack>

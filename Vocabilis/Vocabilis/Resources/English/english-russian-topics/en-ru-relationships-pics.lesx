@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e2f60d40-9cdb-497b-b724-37caa864ec4b</uuid>
+  <title>Родственники</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>sister</question>
+    <answer>сестра</answer>
+    <comment>[ˈsɪstə]</comment>
+    <answer_picture>sister.gif</answer_picture>
+    <uuid>c7c1fd0a-674c-4049-8519-a308a9589f60</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>daughter</question>
+    <answer>дочь</answer>
+    <comment>[ˈdɔːtə]</comment>
+    <answer_picture>daughter.gif</answer_picture>
+    <uuid>5ef202c4-83e1-4a31-b0b4-f072b55afbb1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>brother</question>
+    <answer>брат</answer>
+    <comment>[ˈbrʌðə]</comment>
+    <answer_picture>brother.gif</answer_picture>
+    <uuid>95e3c858-9400-4360-93e2-76e72bfc739e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mother</question>
+    <answer>мать</answer>
+    <comment>[ˈmʌðə]</comment>
+    <answer_picture>mother.gif</answer_picture>
+    <uuid>c3a3ab2c-8933-4309-93d3-952b0ad691cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>father</question>
+    <answer>отец</answer>
+    <comment>[ˈfɑːðə]</comment>
+    <answer_picture>father.gif</answer_picture>
+    <uuid>fabe1cd0-268a-4551-823d-da7300a6ed89</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>friend</question>
+    <answer>друг</answer>
+    <comment>[frend]</comment>
+    <answer_picture>friend.gif</answer_picture>
+    <uuid>864eb190-6c4a-4fc4-918d-f40de76acd54</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>son</question>
+    <answer>сын</answer>
+    <comment>[sʌn]</comment>
+    <answer_picture>son.gif</answer_picture>
+    <uuid>633ace20-4b97-4e06-a604-6e5277544ddc</uuid>
+  </card>
+</cards>
+</stack>

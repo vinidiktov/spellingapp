@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d08c134e-5d80-423d-b88d-6b16a236c8a9</uuid>
+  <title>Одежда</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>jean jacket</question>
+    <answer>джинсовая куртка</answer>
+    <comment>[ʤiːn ˈʤækɪt]</comment>
+    <answer_picture>jean_jacket.gif</answer_picture>
+    <question_audio>3</question_audio>
+    <answer_audio>4</answer_audio>
+    <question_comment>5</question_comment>
+    <answer_comment>6</answer_comment>
+    <part_of_speech>7</part_of_speech>
+    <uuid>2a259ebb-61b2-49a2-9436-9842f6699c91</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>wear</question>
+    <answer>носить</answer>
+    <comment>[weə]</comment>
+    <answer_picture>wear.gif</answer_picture>
+    <uuid>fbb9819f-4f1e-4bd5-83bd-76b5fdc3ec98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tidy</question>
+    <answer>опрятный, аккуратный</answer>
+    <comment>[ˈtаɪdɪ]</comment>
+    <answer_picture>tidy.gif</answer_picture>
+    <uuid>86cddbb3-3fc1-464a-be8a-d9f1ba707c8c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>white</question>
+    <answer>белый</answer>
+    <comment>[wаɪt]</comment>
+    <answer_picture>white.gif</answer_picture>
+    <uuid>7bdde571-4757-4bfc-9ac7-09e3f2817b92</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>button</question>
+    <answer>кнопка</answer>
+    <comment>[ˈbʌtn]</comment>
+    <answer_picture>button.gif</answer_picture>
+    <uuid>5f677aae-43d4-406b-91f8-580c10999d2d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>striped</question>
+    <answer>полосатый</answer>
+    <comment>[strаɪpt]</comment>
+    <answer_picture>striped.gif</answer_picture>
+    <uuid>2c249122-83c9-46e8-9526-5ead1a31b18b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>suit</question>
+    <answer>костюм</answer>
+    <comment>[sjuːt]</comment>
+    <answer_picture>suit.gif</answer_picture>
+    <uuid>e521ecff-651f-4274-90d0-fe25a8a44bee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>green</question>
+    <answer>зелёный</answer>
+    <comment>[griːn]</comment>
+    <answer_picture>green.gif</answer_picture>
+    <uuid>705fc67a-a713-4e4f-b4cd-08b52729163e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>orange</question>
+    <answer>оранжевый</answer>
+    <comment>[ˈɒrɪnʤ]</comment>
+    <answer_picture>orange.gif</answer_picture>
+    <uuid>3fedff44-c363-44fc-b63e-b55c9d69881a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>checkered</question>
+    <answer>клетчатый, в клетку</answer>
+    <comment>[ˈʧekəd]</comment>
+    <answer_picture>checkered.gif</answer_picture>
+    <uuid>f115333a-3f4d-42e1-afb2-626a4c2edbe1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>untidy</question>
+    <answer>неопрятный, неаккуратный</answer>
+    <comment>[ʌnˈtаɪdɪ]</comment>
+    <answer_picture>untidy.gif</answer_picture>
+    <uuid>1e4bf0c9-0777-443b-a96c-8b12befc679d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>red</question>
+    <answer>красный</answer>
+    <comment>[red]</comment>
+    <answer_picture>red.gif</answer_picture>
+    <uuid>fbd5bc09-d116-4782-87b3-942590470f39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pink</question>
+    <answer>розовый</answer>
+    <comment>[pɪŋk]</comment>
+    <answer_picture>pink.gif</answer_picture>
+    <uuid>9fc347a8-1bcf-4816-beda-01d4068094a4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pocket</question>
+    <answer>карман</answer>
+    <comment>[ˈpɒkɪt]</comment>
+    <answer_picture>pocket.gif</answer_picture>
+    <uuid>46a944f9-b0fc-4d1b-9ada-e3b8effcc0c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>informal</question>
+    <answer>обычный (об одежде), неофициальный</answer>
+    <comment>[ɪnˈfɔːml]</comment>
+    <answer_picture>informal.gif</answer_picture>
+    <uuid>3940b9bd-0b32-4e14-803d-142bf7e0d69f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>skirt</question>
+    <answer>юбка</answer>
+    <comment>[skɜːt]</comment>
+    <answer_picture>skirt.gif</answer_picture>
+    <uuid>bf74eda1-6b42-41f5-ba32-26b3afa42ebd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>put on</question>
+    <answer>надевать</answer>
+    <comment>[pʊt ɒn]</comment>
+    <answer_picture>put_on.gif</answer_picture>
+    <uuid>73fd882a-b89e-445a-bb9b-750c39343898</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>collar</question>
+    <answer>воротник</answer>
+    <comment>[ˈkɒlə]</comment>
+    <answer_picture>collar.gif</answer_picture>
+    <uuid>583b48d1-0de3-48f3-adad-898570481579</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>belt</question>
+    <answer>ремень, пояс</answer>
+    <comment>[belt]</comment>
+    <answer_picture>belt.gif</answer_picture>
+    <uuid>3e102993-e8a0-48a6-a2a1-5018424291a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>coat</question>
+    <answer>пальто</answer>
+    <comment>[kəʊt]</comment>
+    <answer_picture>coat.gif</answer_picture>
+    <uuid>d222b249-e557-42e6-8727-3cfd2ec67119</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>handbag</question>
+    <answer>дамская сумочка</answer>
+    <comment>[ˈhændbæg]</comment>
+    <answer_picture>handbag.gif</answer_picture>
+    <uuid>9114604b-9dee-4568-9d22-92b09618e737</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>purple</question>
+    <answer>фиолетовый</answer>
+    <comment>[ˈpɜːpl]</comment>
+    <answer_picture>purple.gif</answer_picture>
+    <uuid>9564bfdf-da91-4323-8206-e5c2e6853ec0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>undershirt</question>
+    <answer>нижняя рубашка</answer>
+    <comment>[ˈʌndəʃɜːt]</comment>
+    <answer_picture>undershirt.gif</answer_picture>
+    <uuid>905741b0-9a75-4013-b800-9e753bdf8ba4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>blouse</question>
+    <answer>блузка, кофточка</answer>
+    <comment>[blаʊz]</comment>
+    <answer_picture>blouse.gif</answer_picture>
+    <uuid>08b0da50-ba4c-4eb3-881c-a200bb059900</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>jacket</question>
+    <answer>куртка</answer>
+    <comment>[ˈʤækɪt]</comment>
+    <answer_picture>jacket.gif</answer_picture>
+    <uuid>0702dcf5-f948-4ddd-ac5e-9d1f58c7995f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>socks</question>
+    <answer>носки</answer>
+    <comment>[sɒks]</comment>
+    <answer_picture>socks.gif</answer_picture>
+    <uuid>a078b3e4-61da-4cf6-a1c4-b1f1442db21f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dress</question>
+    <answer>платье</answer>
+    <comment>[dres]</comment>
+    <answer_picture>dress.gif</answer_picture>
+    <uuid>49558b12-4978-4426-a225-bac189991c80</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>formal</question>
+    <answer>официальный</answer>
+    <comment>[ˈfɔːməl]</comment>
+    <answer_picture>formal.gif</answer_picture>
+    <uuid>a377374b-59e1-4623-a6fc-ec45a89f7da5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>glasses</question>
+    <answer>очки</answer>
+    <comment>[ˈglɑːsɪz]</comment>
+    <answer_picture>glasses.gif</answer_picture>
+    <uuid>2da7c1e3-06f5-405f-9744-eedc1f204137</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shorts</question>
+    <answer>шорты</answer>
+    <comment>[ʃɔːts]</comment>
+    <answer_picture>shorts.gif</answer_picture>
+    <uuid>960b3b45-0f49-4e81-86af-cb1fc7525d6f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>mechanical watch</question>
+    <answer>механические часы</answer>
+    <comment>[mɪˈkænɪkəl wɒʧ]</comment>
+    <answer_picture>mechanical_watch.gif</answer_picture>
+    <uuid>4089dbe8-c227-4050-b14f-2849c7450a25</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>zipper</question>
+    <answer>застёжка-молния</answer>
+    <comment>[ˈzɪpə]</comment>
+    <answer_picture>zipper.gif</answer_picture>
+    <uuid>208135e7-48bb-40bc-88bf-907eb0961922</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shoes</question>
+    <answer>туфли</answer>
+    <comment>[ʃuːz]</comment>
+    <answer_picture>shoes.gif</answer_picture>
+    <uuid>ed890100-9938-4127-a5cb-6e7bc8a218a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>trousers</question>
+    <answer>брюки</answer>
+    <comment>[ˈtrаʊzəz]</comment>
+    <answer_picture>trousers.gif</answer_picture>
+    <uuid>8a7e0eba-361c-4f40-a6f7-f09b5710702d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>jeans</question>
+    <answer>джинсы</answer>
+    <comment>[ʤiːnz]</comment>
+    <answer_picture>jeans.gif</answer_picture>
+    <uuid>3ad30009-2ac5-40bb-a5db-005dc0fdfa32</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>scarf</question>
+    <answer>шарф</answer>
+    <comment>[skɑːf]</comment>
+    <answer_picture>scarf.gif</answer_picture>
+    <uuid>35dd5298-9c92-43bf-8cfd-87945fd05682</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>blue</question>
+    <answer>синий, голубой</answer>
+    <comment>[bluː]</comment>
+    <answer_picture>blue.gif</answer_picture>
+    <uuid>73980eb1-cb9f-4075-b5c4-45902937ee9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yellow</question>
+    <answer>жёлтый</answer>
+    <comment>[ˈjeləʊ]</comment>
+    <answer_picture>yellow.gif</answer_picture>
+    <uuid>ae7619c1-a2e8-4613-af30-0f5f7776ae3a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>earrings</question>
+    <answer>серёжки</answer>
+    <comment>[ˈɪərɪŋz]</comment>
+    <answer_picture>earrings.gif</answer_picture>
+    <uuid>0cd5822b-3d02-4ffe-8dbd-7f8cf3ebcdb0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>necklace</question>
+    <answer>ожерелье</answer>
+    <comment>[ˈneklɪs]</comment>
+    <answer_picture>necklace.gif</answer_picture>
+    <uuid>342e62f2-15fc-4886-b720-066b32df9ffa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>winter coat</question>
+    <answer>зимнее пальто</answer>
+    <comment>[ˈwɪntə kəʊt]</comment>
+    <answer_picture>winter_coat.gif</answer_picture>
+    <uuid>2ac17ca2-4856-41d3-b63e-603c7aeaffbd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>grey</question>
+    <answer>серый</answer>
+    <comment>[greɪ]</comment>
+    <answer_picture>grey.gif</answer_picture>
+    <uuid>ac3bf2cb-0c98-495d-b5c9-59f3575673a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>ring</question>
+    <answer>кольцо</answer>
+    <comment>[rɪŋ]</comment>
+    <answer_picture>ring.gif</answer_picture>
+    <uuid>b54f7756-41cb-4de4-8630-a0a401988078</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bracelet</question>
+    <answer>браслет</answer>
+    <comment>[ˈbreɪslɪt]</comment>
+    <answer_picture>bracelet.gif</answer_picture>
+    <uuid>2a09ec6c-3753-49a4-a058-f359497ce58e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>black</question>
+    <answer>чёрный</answer>
+    <comment>[blæk]</comment>
+    <answer_picture>black.gif</answer_picture>
+    <uuid>45d106cb-aaeb-40e2-b2b2-f67d4adb9943</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>shirt</question>
+    <answer>рубашка</answer>
+    <comment>[ʃɜːt]</comment>
+    <answer_picture>shirt.gif</answer_picture>
+    <uuid>abc98e0d-54cc-470a-bb7d-2212e84e9c8f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>take off</question>
+    <answer>снимать</answer>
+    <comment>[teɪk ɒf]</comment>
+    <answer_picture>take_off.gif</answer_picture>
+    <uuid>b10b246d-7e42-488f-b58f-4c0ba9e3ae0f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sunglasses</question>
+    <answer>солцезащитные очки</answer>
+    <comment>[sʌn ˈglɑːsɪz]</comment>
+    <answer_picture>sunglasses.gif</answer_picture>
+    <uuid>53cb877f-ea5f-44aa-bdf6-ec8a76197f9b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>brown</question>
+    <answer>коричневый</answer>
+    <comment>[brаʊn]</comment>
+    <answer_picture>brown.gif</answer_picture>
+    <uuid>88f41da4-d3e5-48d3-92ed-4850afb49457</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>iron</question>
+    <answer>утюг</answer>
+    <comment>[ˈаɪən]</comment>
+    <answer_picture>iron.gif</answer_picture>
+    <uuid>8390b800-de30-45cd-85e3-4b45225a577a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>spotted</question>
+    <answer>пятнистый, крапчатый</answer>
+    <comment>[ˈspɒtɪd]</comment>
+    <answer_picture>spotted.gif</answer_picture>
+    <uuid>54cf28d0-a913-4609-ba9e-10fe1bc3a76c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>maroon</question>
+    <answer>красно-коричневый</answer>
+    <comment>[məˈruːn]</comment>
+    <answer_picture>maroon.gif</answer_picture>
+    <uuid>46b48f59-e95a-46b4-bace-5df84afc5750</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>trainers</question>
+    <answer>кроссовки</answer>
+    <comment>[ˈtreɪnəz]</comment>
+    <answer_picture>trainers.gif</answer_picture>
+    <uuid>34ed06b1-a6a8-4d96-8b92-65a44e4df3f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>hat</question>
+    <answer>шляпа</answer>
+    <comment>[hæt]</comment>
+    <answer_picture>hat.gif</answer_picture>
+    <uuid>fa518b46-2cc8-4ce0-b368-32d7168f23f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tie</question>
+    <answer>галстук</answer>
+    <comment>[tаɪ]</comment>
+    <answer_picture>tie.gif</answer_picture>
+    <uuid>cb9c0f82-7a70-4c72-acd6-769c85e885e2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>washer</question>
+    <answer>стиральная машина</answer>
+    <comment>[ˈwɒʃə]</comment>
+    <answer_picture>washer.gif</answer_picture>
+    <uuid>86eaa7e8-968a-4b44-b586-c032813697b0</uuid>
+  </card>
+</cards>
+</stack>

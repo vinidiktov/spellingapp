@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>63ef3816-a9ff-4305-9f06-213c7dcf5ee6</uuid>
+  <title>Местоимения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>they</question>
+    <answer>они</answer>
+    <comment>[ðeɪ]</comment>
+    <answer_picture>they.gif</answer_picture>
+    <uuid>89ba5655-7b5f-4d2e-b382-bc9dfaea4ef7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>he</question>
+    <answer>он</answer>
+    <comment>[hiː]</comment>
+    <answer_picture>he.gif</answer_picture>
+    <uuid>6094c73b-18ee-490a-9426-0e4be5cfa9d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I</question>
+    <answer>я</answer>
+    <comment>[аɪ]</comment>
+    <answer_picture>i.gif</answer_picture>
+    <uuid>c7937a1a-4df2-47b5-95d6-43a2ee07634e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>she</question>
+    <answer>она</answer>
+    <comment>[ʃiː]</comment>
+    <answer_picture>she.gif</answer_picture>
+    <uuid>3771a3c8-3d0f-43da-a035-02629e5c105a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>you</question>
+    <answer>ты, вы</answer>
+    <comment>[jʊ]</comment>
+    <answer_picture>you.gif</answer_picture>
+    <uuid>53170ee9-fc3e-4626-bf9d-8658e565b55e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>we</question>
+    <answer>мы</answer>
+    <comment>[wi]</comment>
+    <answer_picture>we.gif</answer_picture>
+    <uuid>144ae74f-e63e-4179-9081-0176a94f8a11</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>it</question>
+    <answer>оно</answer>
+    <comment>[ɪt]</comment>
+    <answer_picture>it.gif</answer_picture>
+    <uuid>1d40b67f-167d-46e0-ad80-4693e800cbd6</uuid>
+  </card>
+</cards>
+</stack>

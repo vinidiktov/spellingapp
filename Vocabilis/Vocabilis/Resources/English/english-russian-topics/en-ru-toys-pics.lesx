@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>76ac3ec2-6d75-431f-be8d-ea8eab3dcb0d</uuid>
+  <title>Игрушки, игры</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>car</question>
+    <answer>машина, машинка</answer>
+    <comment>[kɑː]</comment>
+    <answer_picture>car.gif</answer_picture>
+    <uuid>85250d35-8a05-40c7-87d1-c6664134d12a</uuid>
+    <examples>
+       <example>
+          <value>he needs a car to get to work</value>
+          <translation></translation>
+          <comment></comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>paper plane</question>
+    <answer>бумажный самолётик</answer>
+    <comment>[ˈpeɪpə pleɪn]</comment>
+    <answer_picture>paper_plane.gif</answer_picture>
+    <uuid>e553b943-e645-4fda-bceb-91eb04cc8f06</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>board game</question>
+    <answer>настольная игра</answer>
+    <comment>[bɔːd geɪm]</comment>
+    <answer_picture>boardgame.gif</answer_picture>
+    <uuid>a7c75f5a-40cb-4e52-838d-d9acaa8e8da0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>video game</question>
+    <answer>видеоигровое устройство</answer>
+    <comment>[ˈvɪdɪəʊ geɪm]</comment>
+    <answer_picture>videogame.gif</answer_picture>
+    <uuid>49a96ec0-fc35-4552-83e7-af374867717b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>dice</question>
+    <answer>игральные кости</answer>
+    <comment>[dаɪs]</comment>
+    <answer_picture>dice.gif</answer_picture>
+    <uuid>3792fb37-514a-40e0-a87b-e099d0069c23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cards</question>
+    <answer>карты (игральные)</answer>
+    <comment>[kɑːdz]</comment>
+    <answer_picture>cards.gif</answer_picture>
+    <uuid>a3b8b3ec-61f7-4079-bbdb-e985d8f77d82</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>doll</question>
+    <answer>кукла</answer>
+    <comment>[dɒl]</comment>
+    <answer_picture>doll.gif</answer_picture>
+    <uuid>deeeea9a-1842-4550-a2ee-e1001ff599a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>puzzle</question>
+    <answer>головоломка, ребус, мозаика</answer>
+    <comment>[ˈpʌzl]</comment>
+    <answer_picture>puzzle.gif</answer_picture>
+    <uuid>05da120b-6e26-495a-af32-e4503c67513f</uuid>
+  </card>
+</cards>
+</stack>

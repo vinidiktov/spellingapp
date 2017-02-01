@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>10f1b27f-cb73-4c49-8eaa-c34a79fea959</uuid>
+  <title>Телефон :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>15</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Cómo podría llamar a ...?</question>
+    <answer>Как позвонить в ...? (=Как я мог(ла) бы ... ?)</answer>
+    <comment></comment>
+    <uuid>46c52dfa-71d3-431c-9a8a-1dd30866182a</uuid>
+  </card>
+  <card>
+    <question>¿Cómo podría llamar a Barcelona?</question>
+    <answer>Как позвонить в Барселону? (=Как я мог(ла) бы ... ?)</answer>
+    <comment></comment>
+    <uuid>f80c7075-3905-4fe4-8301-1fc0368a3014</uuid>
+  </card>
+  <card>
+    <question>¿Cómo podría llamar a Moscú?</question>
+    <answer>Как позвонить в Москву? (=Как я мог(ла) бы ... ?)</answer>
+    <comment></comment>
+    <uuid>58616d2b-622c-4295-962b-9d67c8aa8386</uuid>
+  </card>
+  <card>
+    <question>¿Cómo podría llamar a la centralita del hotel?</question>
+    <answer>Как позвонить в справочное бюро гостиницы? (=Как я мог(ла) бы ... ?)</answer>
+    <comment></comment>
+    <uuid>329198b3-c3e0-4408-acc3-f892a3ce561c</uuid>
+  </card>
+  <card>
+    <question>¿Es ahí la centralita internacional?</question>
+    <answer>Это (здесь) международная станция?</answer>
+    <comment></comment>
+    <uuid>d37066ca-403d-447c-b266-c1c198e53e56</uuid>
+  </card>
+  <card>
+    <question>Dígame, por favor, el prefijo de Rusia.</question>
+    <answer>Скажите (мне), пожалуйста, код России.</answer>
+    <comment></comment>
+    <uuid>d016879b-22c1-4468-b29d-18e6eac5748f</uuid>
+  </card>
+  <card>
+    <question>Dígame, por favor, el prefijo de la ciudad ...</question>
+    <answer>Скажите (мне), пожалуйста, код города ...</answer>
+    <comment></comment>
+    <uuid>f8d82076-7bdc-4bc9-b7e3-3424105d3959</uuid>
+  </card>
+  <card>
+    <question>Quisiera reservar una llamada con Moscú.</question>
+    <answer>Я хочу заказать разговор с Москвой. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>6a19625b-bd80-450d-b05a-86fa03a97b54</uuid>
+  </card>
+  <card>
+    <question>Quisiera reservar una llamada con Barcelona.</question>
+    <answer>Я хочу заказать разговор с Барселоной. (=Я хотел(а) бы ...)</answer>
+    <comment></comment>
+    <uuid>663eb3ab-54aa-4e0f-8cef-eb51254ad88d</uuid>
+  </card>
+  <card>
+    <question>para las diez de la mañana</question>
+    <answer>на 10 часов утра</answer>
+    <comment></comment>
+    <uuid>6a978de7-9420-4934-9955-8eed5404f9c4</uuid>
+  </card>
+  <card>
+    <question>para las once de la mañana</question>
+    <answer>на 11 часов утра</answer>
+    <comment></comment>
+    <uuid>b6729e46-b23d-45ab-af9e-0d305be10ee0</uuid>
+  </card>
+  <card>
+    <question>para las nueve de la mañana</question>
+    <answer>на 9 часов утра</answer>
+    <comment></comment>
+    <uuid>6ee1ff8a-382a-46df-b208-016fddbfea79</uuid>
+  </card>
+  <card>
+    <question>para las ocho de la mañana</question>
+    <answer>на 8 часов утра</answer>
+    <comment></comment>
+    <uuid>23f80b59-d08c-45eb-bf7f-7f1b069b602f</uuid>
+  </card>
+  <card>
+    <question>para las diez de la tarde</question>
+    <answer>на 10 часов вечера</answer>
+    <comment></comment>
+    <uuid>b46200c9-c1f6-4269-a3e4-c9aeb4761668</uuid>
+  </card>
+  <card>
+    <question>para las once de la tarde</question>
+    <answer>на 11 часов вечера</answer>
+    <comment></comment>
+    <uuid>f358ed84-1a4d-4418-adeb-eaa62d459805</uuid>
+  </card>
+  <card>
+    <question>para las nueve de la tarde</question>
+    <answer>на 9 часов вечера</answer>
+    <comment></comment>
+    <uuid>4984cd7e-2b12-4c5f-94a1-bd47e4ca8e27</uuid>
+  </card>
+  <card>
+    <question>para las ocho de la tarde</question>
+    <answer>на 8 часов вечера</answer>
+    <comment></comment>
+    <uuid>3af5c2cf-1e23-4725-9472-90cb2e61aba3</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale el minuto?</question>
+    <answer>Сколько стоит минута? (стоить = valer)</answer>
+    <comment></comment>
+    <uuid>890c3fe2-026c-42c1-a860-60843299c84b</uuid>
+  </card>
+  <card>
+    <question>Mi teléfono es ...</question>
+    <answer>Мой номер ...</answer>
+    <comment></comment>
+    <uuid>87a58ff7-9934-48b5-a75b-68cbc59289f4</uuid>
+  </card>
+  <card>
+    <question>Póngame con la extensión ...</question>
+    <answer>Дайте мне добавочный ..</answer>
+    <comment></comment>
+    <uuid>5c8bd8e8-ccb6-4fa3-981a-0d246c9f0f47</uuid>
+  </card>
+  <card>
+    <question>La línea está ocupada.</question>
+    <answer>Линия занята.</answer>
+    <comment></comment>
+    <uuid>6b6971c2-1f61-4e34-a451-840971c4aa78</uuid>
+  </card>
+  <card>
+    <question>Anule la llamada.</question>
+    <answer>Отмените разговор.</answer>
+    <comment></comment>
+    <uuid>398d295f-55c5-4235-a27a-c93759ad1f8d</uuid>
+  </card>
+  <card>
+    <question>Se ha cortado la comunicación.</question>
+    <answer>Нас разъединили. (=Прервалась связь.)</answer>
+    <comment></comment>
+    <uuid>cc7a670f-6600-4fde-b522-06d8ca2fec34</uuid>
+  </card>
+  <card>
+    <question>Me han dado un número equivocado.</question>
+    <answer>Меня неправильно соединили. (=Мне дали неправильный номер.)</answer>
+    <comment></comment>
+    <uuid>04081cab-23e8-4d54-a290-35e687729914</uuid>
+  </card>
+  <card>
+    <question>Quisiera hablar con ...</question>
+    <answer>Я хотел(а) бы поговорить с ...</answer>
+    <comment></comment>
+    <uuid>02c19cd3-d860-4337-a47d-9c1cbdc48e38</uuid>
+  </card>
+  <card>
+    <question>¡Hola! ... al habla.</question>
+    <answer>Алло! Это говорит ...</answer>
+    <comment></comment>
+    <uuid>22d71b5d-1e36-43e1-936a-12d5eb83ff5c</uuid>
+  </card>
+  <card>
+    <question>¿Cón quién hablo?</question>
+    <answer>Кто у телефона? (=С кем я разговариваю?)</answer>
+    <comment></comment>
+    <uuid>e09fd3ce-ff25-4dcb-8c16-7277b6cab977</uuid>
+  </card>
+  <card>
+    <question>Repita, por favor.</question>
+    <answer>Будьте любезны, повторите. (=Повторите, пожалуйста.)</answer>
+    <comment></comment>
+    <uuid>0def7363-3133-45cd-a738-76db99d8d0eb</uuid>
+  </card>
+  <card>
+    <question>Hable más alto.</question>
+    <answer>Говорите громче.</answer>
+    <comment></comment>
+    <uuid>1be647fb-bef6-479a-a378-03da88b9026e</uuid>
+  </card>
+  <card>
+    <question>Se oye muy mal.</question>
+    <answer>Вас плохо слышно. (=Слышно очень плохо.)</answer>
+    <comment></comment>
+    <uuid>6cb8bb6c-2177-4dd8-a644-5219cc136bd6</uuid>
+  </card>
+  <card>
+    <question>Por favor, vuelva a llamarme.</question>
+    <answer>Перезвоните, пожалуйста. (=Пожалуйста, перезвоните мне.)</answer>
+    <comment></comment>
+    <uuid>828ca7db-85ff-4841-a1fa-790eab3eef3f</uuid>
+  </card>
+  <card>
+    <question>Se ha equivocado usted de número.</question>
+    <answer>Вы ошиблись номером.</answer>
+    <comment></comment>
+    <uuid>e4df38c9-ead8-4cfa-85bd-b136a38d1a15</uuid>
+  </card>
+  <card>
+    <question>Perdone, ¿es este el número ...?</question>
+    <answer>Извините, это номер ...?</answer>
+    <comment></comment>
+    <uuid>5420bbeb-1b33-4c57-81c2-bca6fd95cb9c</uuid>
+  </card>
+  <card>
+    <question>Llame al señor ...</question>
+    <answer>Попросите к телефону господина ... (=Позовите господина ...)</answer>
+    <comment></comment>
+    <uuid>834a8447-2643-47fc-8cca-ab70283ccbf7</uuid>
+  </card>
+  <card>
+    <question>Llame a la señora ...</question>
+    <answer>Попросите к телефону госпожу ... (=Позовите госпожу ...)</answer>
+    <comment></comment>
+    <uuid>90141e7f-27a7-4cfe-a405-9e38f5d825b6</uuid>
+  </card>
+  <card>
+    <question>Llamaré más tarde.</question>
+    <answer>Я позвоню позже.</answer>
+    <comment></comment>
+    <uuid>08de3da2-9149-4445-8f94-41bdd9e1b8f9</uuid>
+  </card>
+  <card>
+    <question>Dígale al señor ... que me llame.</question>
+    <answer>Попросите господина ... позвонить мне. (=Скажите ему господину ..., чтобы мне позвонил)</answer>
+    <comment></comment>
+    <uuid>f2b4b2fe-7b7e-4989-818f-0d5983d4236f</uuid>
+  </card>
+  <card>
+    <question>Apunte mi teléfono.</question>
+    <answer>Запишите мой телефон.</answer>
+    <comment></comment>
+    <uuid>ae3e6012-3507-450a-a34b-af37258d8c50</uuid>
+  </card>
+  <card>
+    <question>Lo siento, el no está.</question>
+    <answer>Извините, его сейчас нет. (=Мне жаль, его нет.)</answer>
+    <comment></comment>
+    <uuid>4e4b8b8e-a455-416d-a88d-a135e5850c5e</uuid>
+  </card>
+  <card>
+    <question>Lo siento, ella no está.</question>
+    <answer>Извините, её сейчас нет. (=Мне жаль, её нет.)</answer>
+    <comment></comment>
+    <uuid>8aec3f30-ffaf-44db-83ae-18351879082a</uuid>
+  </card>
+  <card>
+    <question>Ahora, quiere que le de algún recado?</question>
+    <answer>Что передать? (=Сейчас, хотите, чтобы я ему/ей передал какое-нибудь сообщение?)</answer>
+    <comment></comment>
+    <uuid>6d4ed284-986c-432b-8fbe-0bf2981b0f9f</uuid>
+  </card>
+  <card>
+    <question>Llame, por favor, a las ...</question>
+    <answer>Позвоните, пожалуйста, в ... часов.</answer>
+    <comment></comment>
+    <uuid>d01a21f3-3bc4-4b40-b59a-f9bccc740140</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay un automático?</question>
+    <answer>Где (здесь) телефон-автомат?</answer>
+    <comment></comment>
+    <uuid>02067695-9638-41ff-b6bb-7edc955efd74</uuid>
+  </card>
+  <card>
+    <question>El automático próximo se encuentra ...</question>
+    <answer>Ближайший телефон-автомат находится ...</answer>
+    <comment></comment>
+    <uuid>7aee11cf-ebd5-4c5f-8e3a-381e370e6b4d</uuid>
+  </card>
+  <card>
+    <question>¿Qué hay que hacer para llamar desde un automático?</question>
+    <answer>Как позвонить по телефону-автомату? (=Что нужно сделать, чтобы позвонить с ...)</answer>
+    <comment></comment>
+    <uuid>8b92acab-1444-4302-9c75-b0d71338e263</uuid>
+  </card>
+  <card>
+    <question>¿Puedo utilizar su teléfono?</question>
+    <answer>Можно от вас позвонить? (=Могу я воспользоваться Вашим телефоном?)</answer>
+    <comment></comment>
+    <uuid>8cffeaa5-ddde-4291-9bb5-6feb87a41cf1</uuid>
+  </card>
+  <card>
+    <question>Por favor, deme cambio para el teléfono.</question>
+    <answer>Разменяйте мне мелочь для телефона, пожалуйста. (=Пожалуйста, дайте мне мелочь для телефона.)</answer>
+    <comment></comment>
+    <uuid>d3dc0c39-6680-4ac0-a256-e00a40d29d34</uuid>
+  </card>
+  <card>
+    <question>¿Desea usted encargar una conferencia con Madrid?</question>
+    <answer>Вы хотите (=желаете) заказать разговор с Мадридом?</answer>
+    <comment></comment>
+    <uuid>d9d04249-6e37-4af2-a04f-f4282d815e48</uuid>
+  </card>
+  <card>
+    <question>¿Desea usted encargar una conferencia con Moscú?</question>
+    <answer>Вы хотите (=желаете) заказать разговор с Москвой?</answer>
+    <comment></comment>
+    <uuid>cf3c17b6-3bed-4e67-94f1-2f18beb378ef</uuid>
+  </card>
+  <card>
+    <question>¿Desea usted encargar una conferencia con Londres?</question>
+    <answer>Вы хотите (=желаете) заказать разговор с Лондоном?</answer>
+    <comment></comment>
+    <uuid>8799ea54-607e-43a7-8cd7-d7000b524001</uuid>
+  </card>
+  <card>
+    <question>¿Cuántos minutos piensa hablar?</question>
+    <answer>Сколько минут вы будете говорить? (=Сколько минут вы думаете говорить?)</answer>
+    <comment></comment>
+    <uuid>4740f416-1b41-44ef-9323-f5aa6068eaab</uuid>
+  </card>
+  <card>
+    <question>El número en Moscú es ...</question>
+    <answer>Номер в Москве ...</answer>
+    <comment></comment>
+    <uuid>767fa4f3-92cf-4ff7-9b49-8fa23804fcc4</uuid>
+  </card>
+  <card>
+    <question>El número en Madrid es ...</question>
+    <answer>Номер в Мадриде ...</answer>
+    <comment></comment>
+    <uuid>6fb9c175-5ee7-407c-95d4-7bb7adbd7bc4</uuid>
+  </card>
+  <card>
+    <question>El número en Londres es ...</question>
+    <answer>Номер в Лондоне ...</answer>
+    <comment></comment>
+    <uuid>b3e9ecaa-dc1b-4fb1-aa0c-e85ad381fd0c</uuid>
+  </card>
+  <card>
+    <question>El número no contesta.</question>
+    <answer>Номер не отвечает.</answer>
+    <comment></comment>
+    <uuid>1926e16e-19f9-43bc-af3c-efc27f310613</uuid>
+  </card>
+  <card>
+    <question>Retiro el encargo.</question>
+    <answer>Я снимаю заказ.</answer>
+    <comment></comment>
+    <uuid>89b4a385-30a4-423f-8513-c8ae1fb3741a</uuid>
+  </card>
+  <card>
+    <question>¿Oye bien?</question>
+    <answer>Вы хорошо слышите?</answer>
+    <comment></comment>
+    <uuid>80d70798-f7a9-4919-8ed4-62d0c6c6bf14</uuid>
+  </card>
+  <card>
+    <question>Al aparato.</question>
+    <answer>Слушаю вас. (=У аппарата.)</answer>
+    <comment></comment>
+    <uuid>ae523ac2-e609-445b-8de2-856320a02702</uuid>
+  </card>
+  <card>
+    <question>Nos han interrumpido.</question>
+    <answer>Нас прервали.</answer>
+    <comment></comment>
+    <uuid>dcf4f692-c27e-4f4b-8d9b-304bbeea303f</uuid>
+  </card>
+  <card>
+    <question>Enlace, por favor, otra vez con ..</question>
+    <answer>Соедините, пожалуйста, еще раз с ...</answer>
+    <comment></comment>
+    <uuid>2569b225-6595-42e1-9700-5e567e3ab854</uuid>
+  </card>
+  <card>
+    <question>Diga, por favor, que ha llamado Ivanov.</question>
+    <answer>Передайте (=скажите), пожалуйста, что звонил Иванов.</answer>
+    <comment></comment>
+    <uuid>6b336ccb-51df-49cb-ac5d-b596c8de952f</uuid>
+  </card>
+  <card>
+    <question>Espere un poco.</question>
+    <answer>Подождите немного.</answer>
+    <comment></comment>
+    <uuid>1a3d5694-f5f1-4f83-90d1-d2b46095b2d4</uuid>
+  </card>
+  <card>
+    <question>El teléfono no funciona.</question>
+    <answer>Телефон не работает.</answer>
+    <comment></comment>
+    <uuid>3ac2162e-62d4-4868-bb69-5a279ad56dc6</uuid>
+  </card>
+  <card>
+    <question>No suena el timbre.</question>
+    <answer>Нет гудка. (=Не звенит гудок.)</answer>
+    <comment></comment>
+    <uuid>d1b3a362-bde0-4a4a-a996-acfd8c5e04a8</uuid>
+  </card>
+  <card>
+    <question>Le llaman por teléfono.</question>
+    <answer>Вас просят к телефону.</answer>
+    <comment></comment>
+    <uuid>7869f71d-dbef-4e5d-b25d-6c6aacbeb579</uuid>
+  </card>
+  <card>
+    <question>Llamaré despues de las tres.</question>
+    <answer>Я позвоню после трёх (часов).</answer>
+    <comment></comment>
+    <uuid>cccdd7ac-07a3-450c-8670-034c87f002fd</uuid>
+  </card>
+  <card>
+    <question>¿Qué número tiene?</question>
+    <answer>Какой ваш номер?</answer>
+    <comment></comment>
+    <uuid>f8086006-73d7-4759-bd21-7729a18295e4</uuid>
+  </card>
+  <card>
+    <question>Esperaré su llamada.</question>
+    <answer>Буду ждать вашего звонка.</answer>
+    <comment></comment>
+    <uuid>d11948cd-414d-4bfb-8616-75dca3be9acc</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b4540696-5bf9-46d2-ad8c-098cc42cddd0</uuid>
+  <title>Поездка на поезде :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Where is the ticket office for long-distance trains?</question>
+    <answer>Где находится касса продажи билетов на поезда дальнего следования?</answer>
+    <comment>[hwer ɪz ðə ˈtɪkɪt ˈɔːfɪs fər lɔːŋ ˈdɪstəns treɪnz]</comment>
+    <answer_comment>where - где, ticket - билет, office - офис, long - длинный, distance - расстояние, train - поезд</answer_comment>
+    
+    <uuid>dd805cee-5fc1-442e-b790-be660d12cb74</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where are the ticket windows for suburban trains?</question>
+    <answer>Где находятся кассы пригородных поездов?</answer>
+    <comment>[hwer ɑːr ðə ˈtɪkɪt ˈwɪndoʊz fər səˈbɜːrbən treɪnz]</comment>
+    <answer_comment>where - где, ticket - билет, window - окно, suburban - пригородный, train - поезд</answer_comment>
+    
+    <uuid>e1dd8ace-aa2c-49ee-bc61-cabb2b9760b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I get the tickets?</question>
+    <answer>Где можно купить билеты?</answer>
+    <comment>[hwer kæn аɪ get ðə ˈtɪkɪts]</comment>
+    <answer_comment>where - где, can - мочь, to get - достать, приобрести, ticket - билет</answer_comment>
+    
+    <uuid>640f1188-7a59-415d-86ae-c934536a6820</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You can get the tickets at ticket office number three.</question>
+    <answer>Вы можете купить билеты в кассе 3.</answer>
+    <comment>[jʊ kən get ðə ˈtɪkɪts ət ˈtɪkɪt ˈɔːfɪs ˈnʌmbər θriː]</comment>
+    <answer_comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</answer_comment>
+    
+    <uuid>d8b61968-2d80-48b2-96a4-d2372702247c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>One ticket to Moscow.</question>
+    <answer>Один билет до Москвы.</answer>
+    <comment>[wʌn ˈtɪkɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>one - один, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>cca45cb8-123d-46e4-be7b-58877b77691b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A round-trip ticket to Moscow.</question>
+    <answer>Один билет до Москвы и обратно.</answer>
+    <comment>[ə rаʊnd trɪp ˈtɪkɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>round - круглый, trip - поездка, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>552bd1af-48d0-414b-90b3-b08f0bc2e3a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want two tickets to Moscow.</question>
+    <answer>Мне нужно два билета до Москвы.</answer>
+    <comment>[аɪ wɑːnt tuː ˈtɪkɪts tə ˈmɑːskаʊ]</comment>
+    <answer_comment>to want - хотеть, two - два, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>9f5ff797-1a67-4cd9-85c8-29dea0d62dd0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want my tickets in a fast train.</question>
+    <answer>Мне нужны билеты на скорый поезд.</answer>
+    <comment>[аɪ wɑːnt mаɪ ˈtɪkɪts ɪn ə fæst treɪn]</comment>
+    <answer_comment>to want - хотеть, ticket - билет, fast - быстрый, скорый, train - поезд</answer_comment>
+    
+    <uuid>887eae4b-f304-471e-8b52-5d57f2b36eef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want my tickets in a smoking car.</question>
+    <answer>Мне нужны билеты в вагоне для курящих.</answer>
+    <comment>[аɪ wɑːnt mаɪ ˈtɪkɪts ɪn ə ˈsmoʊkɪŋ kɑːr]</comment>
+    <answer_comment>to want - хотеть, ticket - билет, smoking - курение, car - вагон</answer_comment>
+    
+    <uuid>fb99ee6b-1632-4d49-bea0-ffb9217d18a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want my tickets in a non-smoking car.</question>
+    <answer>Мне нужны билеты в вагоне для некурящих.</answer>
+    <comment>[аɪ wɑːnt mаɪ ˈtɪkɪts ɪn ə nɑːn ˈsmoʊkɪŋ kɑːr]</comment>
+    <answer_comment>to want - хотеть, ticket - билет, smoking - курение, car - вагон</answer_comment>
+    
+    <uuid>b50f6c9c-ae0f-4a3e-b98a-e618a338b442</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is a sleeping car ticket?</question>
+    <answer>Сколько стоит билет в спальный вагон?</answer>
+    <comment>[hаʊ mʌʧ ɪz ə ˈsliːpɪŋ kɑːr ˈtɪkɪt]</comment>
+    <answer_comment>how - сколько, much - много, sleeping - спащий, спальный, car - вагон, ticket - билет</answer_comment>
+    
+    <uuid>c06329fb-1659-400e-b63b-33afa0239916</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want a one-way ticket.</question>
+    <answer>Мне нужен билет в один конец.</answer>
+    <comment>[аɪ wɑːnt ə wʌn weɪ ˈtɪkɪt]</comment>
+    <answer_comment>to want - хотеть, ticket - билет, one - один, way - путь</answer_comment>
+    
+    <uuid>03e3080a-a814-400d-8a15-fb3327833c30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want a round-trip ticket.</question>
+    <answer>Мне нужен билет туда и обратно.</answer>
+    <comment>[аɪ wɑːnt ə rаʊnd trɪp ˈtɪkɪt]</comment>
+    <answer_comment>to want - хотеть, ticket - билет, round - круглый, trip - поездка</answer_comment>
+    
+    <uuid>5d0b5b51-6c23-4f7d-9066-ebfff7060d2d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is the ticket for a five year old child?</question>
+    <answer>Сколько стоит билет на пятилетнего ребенка?</answer>
+    <comment>[hаʊ mʌʧ ɪz ðə ˈtɪkɪt fər ə fаɪv jɪr oʊld ʧаɪld]</comment>
+    <answer_comment>how - сколько, much - много, ticket - билет, five - пять, year - год, old - старый, child - ребенок</answer_comment>
+    
+    <uuid>1367feba-0d98-44dd-b681-b1779a9cdaa2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long does it take to get to Moscow?</question>
+    <answer>Сколько времени требуется, чтобы доехать до Москвы?</answer>
+    <comment>[hаʊ lɔːŋ dʌz ɪt teɪk tə get tə ˈmɑːskаʊ]</comment>
+    <answer_comment>how - как, long - долго, to take - брать, to get - добираться, Moscow - Москва</answer_comment>
+    
+    <uuid>d16c0316-dc6e-4267-af51-221e21a11a19</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long is the trip?</question>
+    <answer>Сколько длится поездка?</answer>
+    <comment>[hаʊ lɔːŋ ɪz ðə trɪp]</comment>
+    <answer_comment>how - как, long - долго, trip - поездка</answer_comment>
+    
+    <uuid>6a620b39-447f-4364-8288-7ec37af02dc5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the train for Moscow leave?</question>
+    <answer>Когда отправляется поезд до Москвы?</answer>
+    <comment>[hwen dʌz ðə treɪn fər ˈmɑːskаʊ liːv]</comment>
+    <answer_comment>when - когда, train - поезд, Moscow - Москва, to leave - отправляться</answer_comment>
+    
+    <uuid>4d9f6c78-e2be-4e07-862b-e562b33a5cc0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The train leaves at seven p.m. from platform number three.</question>
+    <answer>Поезд отправляется в 7 вечера с платформы №3.</answer>
+    <comment>[ðə treɪn liːvz ət ˈsevən ˌpiːˈem frəm ˈplætfɔːrm ˈnʌmbər θriː]</comment>
+    <answer_comment>train - поезд, to leave - отправляться, seven - семь, p.m. - после полудня, from - от, из, platform - платформа, number - номер, three - три</answer_comment>
+    
+    <uuid>c086cef5-fc1f-421f-8999-520dbaf8b2ab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the train from Moscow arrive?</question>
+    <answer>Когда прибывает поезд из Москвы?</answer>
+    <comment>[hwen dʌz ðə treɪn frəm ˈmɑːskаʊ əˈrаɪv]</comment>
+    <answer_comment>when - когда, train - поезд, from - от, из, Moscow - Москва, to arrive - прибыть</answer_comment>
+    
+    <uuid>91648e82-b661-4e8a-b94a-c8ebbaff61e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When do we get to Moscow?</question>
+    <answer>Когда мы прибываем в Москву?</answer>
+    <comment>[hwen duː wiː get tə ˈmɑːskаʊ]</comment>
+    <answer_comment>when - когда, to get (to) - добраться (до), Moscow - Москва</answer_comment>
+    
+    <uuid>4c774d21-940c-4b59-9322-e1248a10423d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The train is thirty minutes late.</question>
+    <answer>Поезд опаздывает на 30 минут.</answer>
+    <comment>[ðə treɪn ɪz ˈθɜːrtiː ˈmɪnɪts leɪt]</comment>
+    <answer_comment>train - поезд, thirty - тридцать, minute - минута, late - поздний</answer_comment>
+    
+    <uuid>a53f285c-1650-4be6-ad71-130cbfde0950</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the information desk?</question>
+    <answer>Где справочное бюро?</answer>
+    <comment>[hwer ɪz ðiː ˌɪnfərˈmeɪʃən desk]</comment>
+    <answer_comment>where - где, information - информация, desk - стол</answer_comment>
+    
+    <uuid>be160628-8b29-45a5-a83b-6af29af88a2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the train timetable?</question>
+    <answer>Где расписание поездов?</answer>
+    <comment>[hwer ɪz ðə treɪn ˈtаɪmˌteɪbl]</comment>
+    <answer_comment>where - где, train - поезд, timetable - расписание</answer_comment>
+    
+    <uuid>3914c03e-5f33-4d84-8031-aaa579ff7275</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the departures board?</question>
+    <answer>Где табло &quot;отправление&quot;?</answer>
+    <comment>[hwer ɪz ðə dɪˈpɑːrʧərz bɔːrd]</comment>
+    <answer_comment>where - где, departure - отъезд, отбытие, board - панель, табло</answer_comment>
+    
+    <uuid>ab678588-560a-478a-9d46-f90e956ec8aa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the arrivals board?</question>
+    <answer>Где табло &quot;прибытие&quot;?</answer>
+    <comment>[hwer ɪz ðiː əˈrаɪvəlz bɔːrd]</comment>
+    <answer_comment>where - где, arrival - прибытие, board - панель, табло</answer_comment>
+    
+    <uuid>533187a5-8280-41f8-94bc-441a274305d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the waiting room?</question>
+    <answer>Где зал ожидания?</answer>
+    <comment>[hwer ɪz ðə ˈweɪtiːŋ ruːm]</comment>
+    <answer_comment>where - где, waiting - ожидание, room - комната</answer_comment>
+    
+    <uuid>4307fbef-69c8-4909-adc0-23a40b4c6c1a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the luggage office?</question>
+    <answer>Где камера хранения?</answer>
+    <comment>[hwer ɪz ðə ˈlʌgɪʤ ˈɔːfɪs]</comment>
+    <answer_comment>where - где, luggage - багаж, office - офис</answer_comment>
+    
+    <uuid>84f17bf1-06de-4941-91d8-1a5e351bef9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the buffet?</question>
+    <answer>Где находится буфет?</answer>
+    <comment>[hwer ɪz ðə bəˈfeɪ]</comment>
+    <answer_comment>where - где, buffet - буфет</answer_comment>
+    
+    <uuid>66c52c9b-aa70-40db-91be-a9b3f9608890</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the restroom?</question>
+    <answer>Где находится туалет?</answer>
+    <comment>[hwer ɪz ðə rest ruːm]</comment>
+    <answer_comment>where - где, restroom - туалет</answer_comment>
+    
+    <uuid>bb67d551-bfd0-4597-a9fa-5a492230cdc2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the lost-and-found office?</question>
+    <answer>Где находится бюро находок?</answer>
+    <comment>[hwer ɪz ðə lɔːst ənd fаʊnd ˈɔːfɪs]</comment>
+    <answer_comment>where - где, lost - потерянный, found - найденный, office - офис</answer_comment>
+    
+    <uuid>67dca776-d261-4426-8c81-ea8804c36414</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I check my baggage?</question>
+    <answer>Где принимают вещи в багаж?</answer>
+    <comment>[hwer kæn аɪ ʧek mаɪ ˈbægɪʤ]</comment>
+    <answer_comment>where - где, to check - зарегистрировать (багаж), baggage - багаж</answer_comment>
+    
+    <uuid>1d76e522-3322-4b7a-8d2c-86dd526b7bc1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the train number 232?</question>
+    <answer>Где поезд номер 232?</answer>
+    <comment>[hwer ɪz ðə treɪn ˈnʌmbər (---)]</comment>
+    <answer_comment>where - где, train - поезд, number - номер</answer_comment>
+    
+    <uuid>f9503c0e-522b-4442-8a08-4a99706c7623</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>At what platform does the train from Moscow arrive?</question>
+    <answer>На какую платформу прибывает поезд из Москвы?</answer>
+    <comment>[ət hwʌt ˈplætfɔːrm dʌz ðə treɪn frəm ˈmɑːskаʊ əˈrаɪv]</comment>
+    <answer_comment>what - какой, platform - платформа, train - поезд, from - от, из, Moscow - Москва, to arrive - прибывать</answer_comment>
+    
+    <uuid>f05857d3-02f9-4cea-b2fc-0b1b1f91d150</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What platform does the train to Moscow leave from?</question>
+    <answer>С какой платформы отправляется поезд до Москвы?</answer>
+    <comment>[hwʌt ˈplætfɔːrm dʌz ðə treɪn tə ˈmɑːskаʊ liːv frəm]</comment>
+    <answer_comment>what - какой, platform - платформа, train - поезд, Moscow - Москва, to leave - отправляется</answer_comment>
+    
+    <uuid>b5160506-82fb-472f-8a2e-51e790356008</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is boarding already announced?</question>
+    <answer>Посадку уже объявили?</answer>
+    <comment>[ɪz ˈbɔːrdɪŋ ɔːlˈrediː əˈnаʊnst]</comment>
+    <answer_comment>boarding - посадка, already - уже, announced - объявленный</answer_comment>
+    
+    <uuid>1de92849-03ba-4dc5-814a-b2c3abb48e0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I board the train?</question>
+    <answer>Уже можно сесть в поезд?</answer>
+    <comment>[meɪ аɪ bɔːrd ðə treɪn]</comment>
+    <answer_comment>may - мочь, to board - сесть (на борт), train - поезд</answer_comment>
+    
+    <uuid>470bae5e-a041-46ab-b83f-7d60559aa256</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my ticket.</question>
+    <answer>Вот мой билет.</answer>
+    <comment>[hɪr ɪz mаɪ ˈtɪkɪt]</comment>
+    <answer_comment>here - здесь, my - мой, моя, мои, ticket - билет</answer_comment>
+    
+    <uuid>73b68163-a7b0-4031-a59f-015826ed1d0b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is compartment number ten?</question>
+    <answer>Где купе номер 10?</answer>
+    <comment>[hwer ɪz kəmˈpɑːrtmənt ˈnʌmbər ten]</comment>
+    <answer_comment>where - где, compartment - купе, number - номер, ten - десять</answer_comment>
+    
+    <uuid>5349676a-70a1-42ea-8597-02ded374115e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is my berth?</question>
+    <answer>Где моя полка?</answer>
+    <comment>[hwer ɪz mаɪ bɜːrθ]</comment>
+    <answer_comment>where - где, my - мой, моя, мои, berth - полка</answer_comment>
+    
+    <uuid>f19a1554-85b1-4aa6-804e-25fde8d379f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a lower berth.</question>
+    <answer>Я бы хотел нижнюю полку.</answer>
+    <comment>[аɪd lаɪk ə ˈlɔʊər bɜːrθ]</comment>
+    <answer_comment>would like - хотеть, lower - нижний, berth - полка</answer_comment>
+    
+    <uuid>a8219acb-e28e-488e-8910-1096e186bdd5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like an upper berth.</question>
+    <answer>Я бы хотел верхнюю полку.</answer>
+    <comment>[аɪd lаɪk ən ˈʌpər bɜːrθ]</comment>
+    <answer_comment>would like - хотеть, upper - верхний, berth - полка</answer_comment>
+    
+    <uuid>87bbfd1d-bda1-42f5-81b4-38d9a47aad77</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the baggage car?</question>
+    <answer>Где багажный вагон?</answer>
+    <comment>[hwer ɪz ðə ˈbægɪʤ kɑːr]</comment>
+    <answer_comment>where - где, baggage - багаж, car - вагон</answer_comment>
+    
+    <uuid>450c64ea-24df-4032-9f70-f6669c89e184</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the dining car?</question>
+    <answer>Где вагон-ресторан?</answer>
+    <comment>[hwer ɪz ðə ˈdаɪnɪŋ kɑːr]</comment>
+    <answer_comment>where - где, dining - обедающий, обеденный, car - вагон</answer_comment>
+    
+    <uuid>6a0969a2-e186-4164-9ae8-469d726bf325</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the snack bar?</question>
+    <answer>Где буфет?</answer>
+    <comment>[hwer ɪz ðə snæk bɑːr]</comment>
+    <answer_comment>where - где, snack - закуска, bar - бар</answer_comment>
+    
+    <uuid>c5a44969-8ed4-427c-a5e6-77a07215fd7f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, this is my place.</question>
+    <answer>Извините, это мое место.</answer>
+    <comment>[ˈsɑːriː ðɪs ɪz mаɪ pleɪs]</comment>
+    <answer_comment>sorry - сожалеющий, this - это, этот, эта, place - место</answer_comment>
+    
+    <uuid>5988f36b-68d9-47b8-8aa7-239b57e9823a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I think that&apos;s my seat.</question>
+    <answer>Мне кажется, это мое место.</answer>
+    <comment>[аɪ θɪŋk ðæts mаɪ siːt]</comment>
+    <answer_comment>to think - думать, that - что, это, этот, эта, seat - место</answer_comment>
+    
+    <uuid>2d106fce-f707-4c8b-93be-6720cfb92097</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my reservation.</question>
+    <answer>Вот моя плацкарта.</answer>
+    <comment>[hɪr ɪz mаɪ ˌrezərˈveɪʃən]</comment>
+    <answer_comment>here - здесь, reservation - бронь, резервирование</answer_comment>
+    
+    <uuid>d4ce3b16-70f3-44b7-8ef4-f65ad011f0b5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This place is occupied.</question>
+    <answer>Это место занято.</answer>
+    <comment>[ðɪs pleɪs ɪz ˈɑːkjəpаɪd]</comment>
+    <answer_comment>this - этот, эта, это, place - место, occupied - занятый</answer_comment>
+    
+    <uuid>1cb7e48d-8038-4d04-8bcf-8eacb859325d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I trade places with you?</question>
+    <answer>Можно поменяться с вами местами?</answer>
+    <comment>[meɪ аɪ treɪd ˈpleɪsɪz wɪð jʊ]</comment>
+    <answer_comment>may - мочь, to trade - обменяться, place - место, you - вам, вас</answer_comment>
+    
+    <uuid>ac6bf771-f607-47e2-8629-68b03a7cc375</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you mind if we trade places?</question>
+    <answer>Можем ли мы поменяться местами?</answer>
+    <comment>[wʊd jʊ mаɪnd ɪf wiː treɪd ˈpleɪsɪz]</comment>
+    <answer_comment>to mind - возражать, if - если, we - мы, to trade - обменяться, place - место</answer_comment>
+    
+    <uuid>b6f46a9d-cd86-493f-8bdd-ea896c4e96c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Open the window, please.</question>
+    <answer>Откройте, пожалуйста, окно.</answer>
+    <comment>[ˈoʊpən ðə ˈwɪndoʊ pliːz]</comment>
+    <answer_comment>to open - открыть, window - окно</answer_comment>
+    
+    <uuid>ddcec4c5-2869-41fb-ae50-77b7d97f504b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Close the window, please.</question>
+    <answer>Закройте, пожалуйста, окно.</answer>
+    <comment>[kloʊs ðə ˈwɪndoʊ pliːz]</comment>
+    <answer_comment>to close - закрыть, window - окно</answer_comment>
+    
+    <uuid>6c374452-10eb-4a54-9100-224ff866b16f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you mind my opening the window?</question>
+    <answer>Не возражаете, если я открою окно?</answer>
+    <comment>[wʊd jʊ mаɪnd mаɪ ˈoʊpənɪŋ ðə ˈwɪndoʊ]</comment>
+    <answer_comment>to mind - возражать, my - мой, моя, мое, opening - открытие, window - окно</answer_comment>
+    
+    <uuid>2a500cca-37eb-43bd-956c-08511ed06ef2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I open the window?</question>
+    <answer>Можно мне открыть окно?</answer>
+    <comment>[meɪ аɪ ˈoʊpən ðə ˈwɪndoʊ]</comment>
+    <answer_comment>may - мочь, to open - открыть, window - окно</answer_comment>
+    
+    <uuid>4300d84d-5cab-4a91-b20d-02a0ba57fe97</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I close the window?</question>
+    <answer>Можно мне закрыть окно?</answer>
+    <comment>[meɪ аɪ kloʊz ðə ˈwɪndoʊ]</comment>
+    <answer_comment>may - мочь, to close - закрыть, window - окно</answer_comment>
+    
+    <uuid>c95f3f29-d8df-4774-ae46-803b82a1bc41</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I turn off the light?</question>
+    <answer>Можно выключить свет?</answer>
+    <comment>[meɪ аɪ tɜːrn ɔːf ðə lаɪt]</comment>
+    <answer_comment>may - мочь, to turn off - выключать, light - свет</answer_comment>
+    
+    <uuid>8ce4268e-da6e-4517-91ae-3d6aa6734bb3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I turn on the light?</question>
+    <answer>Можно включить свет?</answer>
+    <comment>[meɪ аɪ tɜːrn ɑːn ðə lаɪt]</comment>
+    <answer_comment>may - мочь, to turn on - включать, light - свет</answer_comment>
+    
+    <uuid>f6609302-de14-4048-bad8-282c662367dc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long does the train stay at this station?</question>
+    <answer>Как долго поезд стоит на этой станции?</answer>
+    <comment>[hаʊ lɔːŋ dʌz ðə treɪn steɪ ət ðɪs ˈsteɪʃən]</comment>
+    <answer_comment>how - как, long - долго, train - поезд, to stay - останавливаться, this - этот, эта, это, station - станция</answer_comment>
+    
+    <uuid>0f552c18-1c13-4238-b8c3-2670f7ab8473</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long does the train stop here?</question>
+    <answer>Сколько поезд стоит здесь?</answer>
+    <comment>[hаʊ lɔːŋ dʌz ðə treɪn stɑːp hɪr]</comment>
+    <answer_comment>how - как, long - долго, train - поезд, to stop - останавливаться, here - здесь</answer_comment>
+    
+    <uuid>b9f4e378-6119-42e3-9ca0-897b2cba1132</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the emergency brake?</question>
+    <answer>Где стоп-кран?</answer>
+    <comment>[hwer ɪz ðiː ɪˈmɜːrʤənsiː breɪk]</comment>
+    <answer_comment>where - где, emergency - экстренный случай, brake - тормоз</answer_comment>
+    
+    <uuid>9a1f6cf4-2e4d-4ee1-ab86-9d937ca96b9f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you wake me at seven o&apos;clock?</question>
+    <answer>Разбудите, меня, пожалуйста, в семь часов.</answer>
+    <comment>[wʊd jʊ weɪk ˈmiː ət ˈsevən əˈklɑːk]</comment>
+    <answer_comment>to wake - будить, me - мне, меня, seven - семь, o&apos;clock- часы</answer_comment>
+    
+    <uuid>87417aa9-148a-49a4-b349-a1469e447911</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please let me know when we are in Moscow.</question>
+    <answer>Пожалуйста, предупредите меня, когда будет Москва.</answer>
+    <comment>[pliːz let ˈmiː noʊ hwen wiː ɑːr ɪn ˈmɑːskаʊ]</comment>
+    <answer_comment>let - позволять, to know - знать, when - когда, Moscow - Москва</answer_comment>
+    
+    <uuid>4027656c-432d-473a-9444-31d4aa5456fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you let me know before we get to Moscow?</question>
+    <answer>Скажите мне, пожалуйста, когда мы будем подъезжать к Москве.</answer>
+    <comment>[wʊd jʊ let ˈmiː noʊ bɪˈfɔːr wiː get tə ˈmɑːskаʊ]</comment>
+    <answer_comment>let - позволять, to know - знать, before - перед (чем-л.), we - мы, to get (to) - добраться (до), Moscow - Москва</answer_comment>
+    
+    <uuid>fbe77217-c7eb-4076-9d90-09fb9f6c8865</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What town is this?</question>
+    <answer>Какой это город?</answer>
+    <comment>[hwʌt tаʊn ɪz ðɪs]</comment>
+    <answer_comment>what - какой, что, town - город, this - этот, эта, это</answer_comment>
+    
+    <uuid>bc18651e-4390-496b-89d0-e50feeb3e6c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you bring us some tea?</question>
+    <answer>Можете ли вы принести нам чай?</answer>
+    <comment>[kʊd jʊ brɪŋ ʌs sʌm tiː]</comment>
+    <answer_comment>could - мог, могли, to bring - принести, us - нам, нас, some - некоторое количество, tea - чай</answer_comment>
+    
+    <uuid>2e3eece9-c01d-4e31-ab93-f39568026f45</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I receive my baggage?</question>
+    <answer>Где мне можно получить багаж?</answer>
+    <comment>[hwer kæn аɪ rɪˈsiːv mаɪ ˈbægɪʤ]</comment>
+    <answer_comment>where - где, can - мочь, to receive - получить, my - мой, моя, baggage - багаж</answer_comment>
+    
+    <uuid>78b305bf-b25a-406f-8391-a9da6d424d5c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have lost a suitcase.</question>
+    <answer>Я потерял чемодан.</answer>
+    <comment>[аɪ hæv lɔːst ə ˈsuːtˌkeɪs]</comment>
+    <answer_comment>to loose - потерять, suitcase - чемодан</answer_comment>
+    
+    <uuid>d6ab18d7-cf16-4d77-9d49-304ba0c64f76</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve been left behind by the train.</question>
+    <answer>Я отстал от поезда.</answer>
+    <comment>[аɪv bɪn left bɪˈhаɪnd bаɪ ðə treɪn]</comment>
+    <answer_comment>to leave behind by - отстать от, train - поезд</answer_comment>
+    
+    <uuid>0042a2ae-5994-4a44-b2cc-ec2b3b5bc096</uuid>
+  </card>
+</cards>
+</stack>

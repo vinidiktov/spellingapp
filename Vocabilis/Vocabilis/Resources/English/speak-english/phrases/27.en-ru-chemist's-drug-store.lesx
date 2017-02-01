@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7fcbb599-5d68-436c-8fc5-44f14cbfbdb6</uuid>
+  <title>В аптеке</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Where is the nearest drugstore here?</question>
+    <answer>Где здесь ближайшая аптека?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈdrʌgˌstɔːr hɪr]</comment>
+    <answer_comment>where - где, the nearest - ближайший, drugstore - аптека, here - здесь</answer_comment>
+    
+    <uuid>1b4a38dc-f42d-4e12-9eb6-0105ac1dc866</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the chemist&apos;s shop open here?</question>
+    <answer>Скажите, пожалуйста, где здесь дежурная аптека?</answer>
+    <comment>[hwer ɪz ðə ˈkemɪsts ʃɑːp ˈoʊpən hɪr]</comment>
+    <answer_comment>where - где, chemist&apos;s shop - аптека, open - открытый, here - здесь</answer_comment>
+    
+    <uuid>a4adc52b-dc8c-4cf5-a037-3c427e1ef01e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where&apos;s the all-night drugstore?</question>
+    <answer>Где круглосуточная аптека?</answer>
+    <comment>[hwerz ðiː ˈɔːlˈnаɪt ˈdrʌgˌstɔːr]</comment>
+    <answer_comment>where - где, all-night - ночной, drugstore - аптека</answer_comment>
+    
+    <uuid>399170e0-bdc3-4c8d-bac3-2fff2b8d0d73</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time does the drugstore open?</question>
+    <answer>В какое время открывается аптека?</answer>
+    <comment>[hwʌt tаɪm dʌz ðə ˈdrʌgˌstɔːr ˈoʊpən]</comment>
+    <answer_comment>what - какой, time - время, drugstore - аптека, to open - открываться</answer_comment>
+    
+    <uuid>a429d3f1-21e9-4f0b-b760-b7e8956f2bae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time does the drugstore close?</question>
+    <answer>В какое время закрывается аптека?</answer>
+    <comment>[hwʌt tаɪm dʌz ðə ˈdrʌgˌstɔːr kloʊz]</comment>
+    <answer_comment>what - какой, time - время, drugstore - аптека, to close - закрываться</answer_comment>
+    
+    <uuid>f40dac6d-9a2b-4a7c-a3c5-7b8b50bc6a2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you fill this prescription?</question>
+    <answer>Вы можете сделать лекарство по этому рецепту?</answer>
+    <comment>[kæn jʊ fɪl ðɪs prɪˈskrɪpʃən]</comment>
+    <answer_comment>can - мочь, to fill - исполнить, this - этот, эта, это, prescription - рецепт</answer_comment>
+    
+    <uuid>d6fc4031-ce44-477d-a290-350167ee1945</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Does it take much time to make it?</question>
+    <answer>Изготовление займет много времени?</answer>
+    <comment>[dʌz ɪt teɪk mʌʧ tаɪm tə meɪk ɪt]</comment>
+    <answer_comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</answer_comment>
+    
+    <uuid>b0387193-b482-42a7-ab98-44735a5bc310</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like this prescription filled.</question>
+    <answer>Мне нужно лекарство по этому рецепту.</answer>
+    <comment>[аɪd lаɪk ðɪs prɪˈskrɪpʃən fɪld]</comment>
+    <answer_comment>would like - хотеть, this - этот, эта, это, prescription - рецепт, filled - исполненный</answer_comment>
+    
+    <uuid>c89fcd7f-2cc0-415d-8828-55e32a25851a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will it be ready?</question>
+    <answer>Когда оно будет готово?</answer>
+    <comment>[hwen wɪl ɪt biː ˈrediː]</comment>
+    <answer_comment>when - когда, it - это, to be - быть, ready - готовый</answer_comment>
+    
+    <uuid>bab2b208-3234-4ff8-99fd-bc36cc41a2e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I get it without a prescription?</question>
+    <answer>Можно получить это без рецепта?</answer>
+    <comment>[kæn аɪ get ɪt wɪðˈаʊt ə prɪˈskrɪpʃən]</comment>
+    <answer_comment>can - мочь, to get - получить, it - это, without - без, prescription - рецепт</answer_comment>
+    
+    <uuid>993782c5-6b68-49ff-8311-0d1080b44e0e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Shall I wait?</question>
+    <answer>Мне подождать?</answer>
+    <comment>[ʃæl аɪ weɪt]</comment>
+    <answer_comment>to wait - ждать</answer_comment>
+    
+    <uuid>c05144da-842e-4b87-8c80-e347eff6cf98</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have cough drops?</question>
+    <answer>У вас есть таблетки от кашля?</answer>
+    <comment>[duː jʊ hæv kɔːf drɑːps]</comment>
+    <answer_comment>to have - иметь, cough - кашель, drop - драже, леденец</answer_comment>
+    
+    <uuid>3552c4a6-5def-48ef-8ef0-27d1443cba90</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have laxative?</question>
+    <answer>У вас есть слабительное?</answer>
+    <comment>[duː jʊ hæv ˈlæksətɪv]</comment>
+    <answer_comment>to have - иметь, laxative - слабительное</answer_comment>
+    
+    <uuid>c9aded37-c569-444c-a345-793a330e3be9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have sleeping pills?</question>
+    <answer>У вас есть снотворное?</answer>
+    <comment>[duː jʊ hæv ˈsliːpɪŋ pɪlz]</comment>
+    <answer_comment>to have - иметь, sleeping - спящий, pills - таблетки</answer_comment>
+    
+    <uuid>db519164-39de-4292-a82a-865e0a522fd8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have tranquillizers?</question>
+    <answer>У вас есть успокоительное?</answer>
+    <comment>[duː jʊ hæv ˈtræŋkwɪˌlаɪzərz]</comment>
+    <answer_comment>to have - иметь, tranquillizer - успокоительное</answer_comment>
+    
+    <uuid>7e7ccbec-1954-47de-ae64-594c8b16b845</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me multivitamins, please.</question>
+    <answer>Дайте мне, пожалуйста, поливитамины.</answer>
+    <comment>[gɪv ˈmiː ˌmʌltɪˈvаɪtəmɪnz pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, multivitamins - поливитамины</answer_comment>
+    
+    <uuid>e6db23da-baa8-405d-8d56-b92896d20c87</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me multiminerals, please.</question>
+    <answer>Дайте мне, пожалуйста, мультиминералы.</answer>
+    <comment>[gɪv ˈmiː ˌmʌltɪˈmɪnərəlz pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, multiminerals - мультиминералы</answer_comment>
+    
+    <uuid>1383fd55-8866-4b9d-b7c2-b6bd3edbc7d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me a sedative, please.</question>
+    <answer>Дайте мне, пожалуйста, болеутоляющее.</answer>
+    <comment>[gɪv ˈmiː ə ˈsedətɪv pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, sedative - болеутоляющее</answer_comment>
+    
+    <uuid>e82bec77-0fa0-400e-a5b7-13f7b2525c21</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me a remedy for weight loss, please.</question>
+    <answer>Дайте мне, пожалуйста, средство для похудения.</answer>
+    <comment>[gɪv ˈmiː ə ˈremɪdiː fər weɪt lɔːs pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, remedy - средство, лекарство, weight - вес, loss - потеря</answer_comment>
+    
+    <uuid>93083d75-aa3d-4f0f-ad73-ec1ccc7c17c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me something for a cough, please.</question>
+    <answer>Дайте мне, пожалуйста, что-нибудь от кашля.</answer>
+    <comment>[gɪv ˈmiː ˈsʌmθɪŋ fər ə kɔːf pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, something - что-нибудь, cough - кашель</answer_comment>
+    
+    <uuid>734e457f-a897-431e-9e72-cc37778c2650</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me something for a cold, please.</question>
+    <answer>Дайте мне, пожалуйста, что-нибудь от насморка.</answer>
+    <comment>[gɪv ˈmiː ˈsʌmθɪŋ fər ə koʊld pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, something - что-нибудь, cold - простуда</answer_comment>
+    
+    <uuid>78ee7fe6-2548-4e37-8a7a-28ed961a75a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me something for a headache, please.</question>
+    <answer>Дайте мне, пожалуйста, что-нибудь от головной боли.</answer>
+    <comment>[gɪv ˈmiː ˈsʌmθɪŋ fər ə ˈhedˌeɪk pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, something - что-нибудь, headache - головная боль</answer_comment>
+    
+    <uuid>21288410-bff3-4dca-98c2-4cfdda1042a3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me something for stomach aches, please.</question>
+    <answer>Дайте мне, пожалуйста, что-нибудь от болей в желудке.</answer>
+    <comment>[gɪv ˈmiː ˈsʌmθɪŋ fər ˈstʌmək eɪks pliːz]</comment>
+    <answer_comment>to give - дать, me - мне, меня, something - что-нибудь, stomach - желудок, ache - боль</answer_comment>
+    
+    <uuid>b9affbbe-0648-4152-9dad-0bed96d70422</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like something for insect bites.</question>
+    <answer>Я бы хотел что-нибудь от укусов насекомых.</answer>
+    <comment>[аɪd lаɪk ˈsʌmθɪŋ fər ˈɪnsekt bаɪts]</comment>
+    <answer_comment>would like - хотеть, something - что-нибудь, insect - насекомое, bite - укус</answer_comment>
+    
+    <uuid>d3435b6b-c207-4cb5-acb0-ed94b5af3c9f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like something for nausea.</question>
+    <answer>Я бы хотел что-нибудь от тошноты.</answer>
+    <comment>[аɪd lаɪk ˈsʌmθɪŋ fər ˈnɔːziːə]</comment>
+    <answer_comment>would like - хотеть, something - что-нибудь, nausea - тошнота, морская болезнь</answer_comment>
+    
+    <uuid>6ed02126-ecc2-4934-a7b6-2418de731b51</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like something for sunburn.</question>
+    <answer>Я бы хотел что-нибудь от солнечного ожога.</answer>
+    <comment>[аɪd lаɪk ˈsʌmθɪŋ fər ˈsʌnˌbɜːrn]</comment>
+    <answer_comment>would like - хотеть, something - что-нибудь, sunburn - солнечный ожог</answer_comment>
+    
+    <uuid>a8e18744-3e72-4037-9fc7-f24988ace351</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like something for travel sickness.</question>
+    <answer>Я бы хотел что-нибудь от морской болезни.</answer>
+    <comment>[аɪd lаɪk ˈsʌmθɪŋ fər ˈtrævəl ˈsɪknes]</comment>
+    <answer_comment>would like - хотеть, something - что-нибудь, travel - путешествие, sickness - болезнь</answer_comment>
+    
+    <uuid>5f43f975-ece5-4008-8d26-beb03e0b586e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like something for upset stomach.</question>
+    <answer>Я бы хотел что-нибудь от расстройства желудка.</answer>
+    <comment>[аɪd lаɪk ˈsʌmθɪŋ fər ʌpˈset ˈstʌmək]</comment>
+    <answer_comment>would like - хотеть, something - что-нибудь, upset - расстроенный, stomach - желудок</answer_comment>
+    
+    <uuid>c56b593d-9ed5-47a0-85e5-bc78c5fcd877</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How should I take this medicine?</question>
+    <answer>Как мне принимать это лекарство?</answer>
+    <comment>[hаʊ ʃʊd аɪ teɪk ðɪs ˈmedɪsən]</comment>
+    <answer_comment>how - как, should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство</answer_comment>
+    
+    <uuid>3c89dde1-c844-43f1-938f-1d8dfdc1c9e2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Should I take this medicine before meals?</question>
+    <answer>Мне принимать это лекарство перед едой?</answer>
+    <comment>[ʃʊd аɪ teɪk ðɪs ˈmedɪsən bɪˈfɔːr miːlz]</comment>
+    <answer_comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, before - до, перед, meal - еда, прием пищи</answer_comment>
+    
+    <uuid>44a3ef33-8520-4489-acb7-25766e5e52ab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Should I take this medicine after meals?</question>
+    <answer>Мне принимать это лекарство после еды?</answer>
+    <comment>[ʃʊd аɪ teɪk ðɪs ˈmedɪsən ˈæftər miːlz]</comment>
+    <answer_comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, after - после, meal - еда, прием пищи</answer_comment>
+    
+    <uuid>41f0fdee-d7cc-457b-a654-931fe28a757e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many times a day?</question>
+    <answer>Сколько раз в день?</answer>
+    <comment>[hаʊ ˈmeniː tаɪmz ə deɪ]</comment>
+    <answer_comment>how - как, many - много, time - раз, day - день</answer_comment>
+    
+    <uuid>b19bf61d-41ab-4546-a18e-9190400b8ab5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many pills?</question>
+    <answer>По скольку таблеток?</answer>
+    <comment>[hаʊ ˈmeniː pɪlz]</comment>
+    <answer_comment>how - как, many - много, pills - таблетки</answer_comment>
+    
+    <uuid>32c7ef7a-8926-490c-ae7e-b9a6c67ea808</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How many drops?</question>
+    <answer>По скольку капель?</answer>
+    <comment>[hаʊ ˈmeniː drɑːps]</comment>
+    <answer_comment>how - как, many - много, drops - капли</answer_comment>
+    
+    <uuid>e3bc82ec-877c-4b57-a934-d8b3aed54ed8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is a good analgesic.</question>
+    <answer>Это хорошее болеутоляющее.</answer>
+    <comment>[ðɪs ɪz ə gʊd ˌænlˈʤiːzɪk]</comment>
+    <answer_comment>this - это, этот, эта, good - хороший, analgesic - болеутоляющее</answer_comment>
+    
+    <uuid>e1e2310b-5617-4990-889c-296c9540d490</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This medicine is for external use only.</question>
+    <answer>Это лекарство только для наружного применения.</answer>
+    <comment>[ðɪs ˈmedɪsən ɪz fər ɪkˈstɜːrnl juːs ˈoʊnliː]</comment>
+    <answer_comment>this - это, этот, эта, medicine - лекарство, external - внешний, use - использование, only - только</answer_comment>
+    
+    <uuid>8d3514b7-9f1a-4b23-a5b9-0a8c631d6921</uuid>
+  </card>
+</cards>
+</stack>

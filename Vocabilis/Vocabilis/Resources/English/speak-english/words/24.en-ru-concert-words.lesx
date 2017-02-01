@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a218af60-dd7d-4056-89ea-744651dc26fc</uuid>
+  <title>На концерте :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>ceremony</question>
+    <answer>церемония</answer>
+    <comment>[ˈserəˌmoʊniː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>78d7ce9f-0833-41c4-8b9b-5181cb6dfbc4</uuid>
+    <examples>
+       <example>
+          <value>the master of ceremonies</value>
+          <translation>ведущий программы</translation>
+          <comment>master - мастер, ceremony - церемония</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>symphonic</question>
+    <answer>симфонический</answer>
+    <comment>[sɪmˈfɑːnɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4affee56-3970-473d-bc57-fb9880c2eb23</uuid>
+    <examples>
+       <example>
+          <value>a symphonic music concert</value>
+          <translation>концерт симфонической музыки</translation>
+          <comment>symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a symphonic music concert</value>
+          <translation>послушать концерт симфонической музыки</translation>
+          <comment>to listen - слушать, symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>classical</question>
+    <answer>классический</answer>
+    <comment>[ˈklæsɪkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>86b57193-9c80-4f95-b8af-a2404465eb99</uuid>
+    <examples>
+       <example>
+          <value>classical music</value>
+          <translation>классическая музыка</translation>
+          <comment>classical - классический, music - музыка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>organ</question>
+    <answer>орган, органный</answer>
+    <comment>[ˈɔːrgən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2aa1c4bd-c174-4bbe-82bf-70337860275c</uuid>
+    <examples>
+       <example>
+          <value>an organ music concert</value>
+          <translation>концерт органной музыки</translation>
+          <comment>organ - орган, органный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to an organ music concert</value>
+          <translation>послушать концерт органной музыки</translation>
+          <comment>to listen - слушать, organ - органный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sitting</question>
+    <answer>сидение</answer>
+    <comment>[ˈsɪtɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>510b9640-a9f4-4679-a6d2-2563c57f03ea</uuid>
+    <examples>
+       <example>
+          <value>to prefer sitting down</value>
+          <translation>предпочитать сидеть в партере</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, down - вниз, внизу</comment>
+       </example>
+       <example>
+          <value>to prefer sitting upstairs</value>
+          <translation>предпочитать сидеть на балконе</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, upstairs - наверху</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>jazz</question>
+    <answer>джаз</answer>
+    <comment>[ʤæz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0106ad73-6c54-44cd-8efd-53cfeb4ad897</uuid>
+    <examples>
+       <example>
+          <value>a jazz music concert</value>
+          <translation>концерт джазовой музыки</translation>
+          <comment>jazz - джаз, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>success</question>
+    <answer>успех</answer>
+    <comment>[səkˈses]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd1f10a2-e328-460f-a9cd-a30bcc55afd1</uuid>
+    <examples>
+       <example>
+          <value>to be a great success</value>
+          <translation>быть очень успешным (о концерте)</translation>
+          <comment>great - великий, success - успех</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pop</question>
+    <answer>популярный</answer>
+    <comment>[pɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d88eef72-c28a-43b0-b3db-28a251837740</uuid>
+    <examples>
+       <example>
+          <value>a pop music concert</value>
+          <translation>концерт эстрадной музыки</translation>
+          <comment>pop - популярный, эстрадный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>upstairs</question>
+    <answer>наверху</answer>
+    <comment>[ˈʌpˈsterz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>449e4c6b-0ca1-4b84-8111-6f44d27cd710</uuid>
+    <examples>
+       <example>
+          <value>to prefer sitting upstairs</value>
+          <translation>предпочитать сидеть на балконе</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, upstairs - наверху</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>chamber</question>
+    <answer>камерный</answer>
+    <comment>[ˈʧeɪmbər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>83f76561-916e-438b-8437-b5362598feef</uuid>
+    <examples>
+       <example>
+          <value>a chamber music concert</value>
+          <translation>концерт камерной музыки</translation>
+          <comment>chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a chamber music concert</value>
+          <translation>послушать концерт камерной музыки</translation>
+          <comment>to listen - слушать, chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>music</question>
+    <answer>музыка</answer>
+    <comment>[ˈmjuːzɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>038add13-6cdd-46c3-9dc8-f8fae28e694c</uuid>
+    <examples>
+       <example>
+          <value>a chamber music concert</value>
+          <translation>концерт камерной музыки</translation>
+          <comment>chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a folk music concert</value>
+          <translation>концерт народной музыки</translation>
+          <comment>folk - народ, народный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a jazz music concert</value>
+          <translation>концерт джазовой музыки</translation>
+          <comment>jazz - джаз, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a pop music concert</value>
+          <translation>концерт эстрадной музыки</translation>
+          <comment>pop - популярный, эстрадный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>a symphonic music concert</value>
+          <translation>концерт симфонической музыки</translation>
+          <comment>symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>an organ music concert</value>
+          <translation>концерт органной музыки</translation>
+          <comment>organ - орган, органный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>classical music</value>
+          <translation>классическая музыка</translation>
+          <comment>classical - классический, music - музыка</comment>
+       </example>
+       <example>
+          <value>to like music</value>
+          <translation>любить музыку</translation>
+          <comment>to like - любить, нравиться, music - музыка</comment>
+       </example>
+       <example>
+          <value>to listen to a chamber music concert</value>
+          <translation>послушать концерт камерной музыки</translation>
+          <comment>to listen - слушать, chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a symphonic music concert</value>
+          <translation>послушать концерт симфонической музыки</translation>
+          <comment>to listen - слушать, symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to an organ music concert</value>
+          <translation>послушать концерт органной музыки</translation>
+          <comment>to listen - слушать, organ - органный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>modern music</value>
+          <translation>современная музыка</translation>
+          <comment>modern - современный, music - музыка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>encore</question>
+    <answer>вызов на &quot;бис&quot;</answer>
+    <comment>[ˈɑːŋkɔːr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9c4bc68-0a1d-403e-8927-9ecab570e19a</uuid>
+    <examples>
+       <example>
+          <value>to get encores</value>
+          <translation>исполняться на бис</translation>
+          <comment>to get - получить, encore - вызов на &apos;бис&apos;</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>conduct</question>
+    <answer>дирижировать</answer>
+    <comment>![kənˈdʌkt]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5770f519-2b96-4f10-abfe-eb4c288523b7</uuid>
+    <examples>
+       <example>
+          <value>to conduct today</value>
+          <translation>дирижировать сегодня</translation>
+          <comment>to conduct - дирижировать, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>master</question>
+    <answer>мастер</answer>
+    <comment>[ˈmæstər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9c924264-d6b6-4389-b136-140199bdd38c</uuid>
+    <examples>
+       <example>
+          <value>the master of ceremonies</value>
+          <translation>ведущий программы</translation>
+          <comment>master - мастер, ceremony - церемония</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>voice</question>
+    <answer>голос</answer>
+    <comment>[vɔɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f203ab1a-2280-4a5f-8b01-dac46697aef2</uuid>
+    <examples>
+       <example>
+          <value>to be in bad voice</value>
+          <translation>быть не в голосе</translation>
+          <comment>bad - плохой, voice - голос</comment>
+       </example>
+       <example>
+          <value>to be in good voice</value>
+          <translation>быть в голосе</translation>
+          <comment>good - хороший, voice - голос</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>folk</question>
+    <answer>народный</answer>
+    <comment>[foʊk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>390ad8e7-1aa9-4e80-93eb-786856feb77c</uuid>
+    <examples>
+       <example>
+          <value>a folk music concert</value>
+          <translation>концерт народной музыки</translation>
+          <comment>folk - народ, народный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>listen</question>
+    <answer>слушать</answer>
+    <comment>[ˈlɪsən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b30c6673-e9b0-40af-a684-506754135a30</uuid>
+    <examples>
+       <example>
+          <value>to listen to a chamber music concert</value>
+          <translation>послушать концерт камерной музыки</translation>
+          <comment>to listen - слушать, chamber - камерный, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to a symphonic music concert</value>
+          <translation>послушать концерт симфонической музыки</translation>
+          <comment>to listen - слушать, symphonic - симфонический, music - музыка, concert - концерт</comment>
+       </example>
+       <example>
+          <value>to listen to an organ music concert</value>
+          <translation>послушать концерт органной музыки</translation>
+          <comment>to listen - слушать, organ - органный, music - музыка, concert - концерт</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

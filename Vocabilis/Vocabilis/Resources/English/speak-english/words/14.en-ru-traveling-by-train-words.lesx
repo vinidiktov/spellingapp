@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dbe8ed30-c57c-4d71-aac6-f5011fbc9291</uuid>
+  <title>В поезде :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>upper</question>
+    <answer>верхний</answer>
+    <comment>[ˈʌpər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d674cf62-9ec9-436c-af1c-ff860cfb6f53</uuid>
+    <examples>
+       <example>
+          <value>an upper berth</value>
+          <translation>верхняя полка</translation>
+          <comment>upper - верхний, berth - полка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>dine</question>
+    <answer>обедать</answer>
+    <comment>[dаɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>17fb5679-f9a8-40af-b45b-0b1b4296dad2</uuid>
+    <examples>
+       <example>
+          <value>the dining car</value>
+          <translation>вагон-ресторан</translation>
+          <comment>to dine - обедать, car - вагон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>old</question>
+    <answer>старый</answer>
+    <comment>[oʊld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc2eef67-b3a3-422a-a8c7-04a68973816e</uuid>
+    <examples>
+       <example>
+          <value>a five year old child</value>
+          <translation>пятилетний ребенок</translation>
+          <comment>five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>suburban</question>
+    <answer>пригородный</answer>
+    <comment>[səˈbɜːrbən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0b6abfa4-8e28-4018-9051-7c9dd2d1c9d8</uuid>
+    <examples>
+       <example>
+          <value>a suburban train</value>
+          <translation>пригородный поезд</translation>
+          <comment>suburban - пригородный, train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>trade</question>
+    <answer>обмениваться</answer>
+    <comment>[treɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7247c0e2-90e5-4e37-ae93-0b5002d77df0</uuid>
+    <examples>
+       <example>
+          <value>to trade places</value>
+          <translation>поменяться местами</translation>
+          <comment>to trade - обмениваться, place - место</comment>
+       </example>
+       <example>
+          <value>Mr. Brown&apos;s trade</value>
+          <translation>профессия мистера Брауна</translation>
+          <comment>trade - занятие, ремесло, профессия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sleep</question>
+    <answer>спать</answer>
+    <comment>[sliːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>af554f97-0364-4ad5-ab5a-60eb6bcdd886</uuid>
+    <examples>
+       <example>
+          <value>a sleeping car</value>
+          <translation>спальный вагон</translation>
+          <comment>to sleep - спать, car - вагон</comment>
+       </example>
+       <example>
+          <value>to sleep enough</value>
+          <translation>спать достаточно</translation>
+          <comment>to sleep - спать, enough - достаточно</comment>
+       </example>
+       <example>
+          <value>sleeping pills</value>
+          <translation>снотворное</translation>
+          <comment>sleeping - спящий, pill - таблетка</comment>
+       </example>
+       <example>
+          <value>to have sleeping pills</value>
+          <translation>иметь снотворное</translation>
+          <comment>to have - иметь, sleeping - спящий, pill - таблетка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>close</question>
+    <answer>закрывать</answer>
+    <comment>![kloʊz]!</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5ff0bd29-6cca-4855-bd87-7f3bd37c93a4</uuid>
+    <examples>
+       <example>
+          <value>to close the window</value>
+          <translation>закрыть окно</translation>
+          <comment>to close - закрыть, window - окно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>snack</question>
+    <answer>закуска</answer>
+    <comment>[snæk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0c41afa-41e0-4fa2-aa36-c5fcb856e739</uuid>
+    <examples>
+       <example>
+          <value>a snack bar</value>
+          <translation>буфет</translation>
+          <comment>snack - закуска, bar - бар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>occupy</question>
+    <answer>занимать</answer>
+    <comment>[ˈɑːkjəpаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>185f0e37-3882-4319-af8e-1b950f2920ea</uuid>
+    <examples>
+       <example>
+          <value>to occupy seats</value>
+          <translation>занимать сидения</translation>
+          <comment>to occupy - занимать, a seat - место, сидение</comment>
+       </example>
+       <example>
+          <value>to occupy a place</value>
+          <translation>занять место</translation>
+          <comment>to occupy - занимать, place - место</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>platform</question>
+    <answer>платформа</answer>
+    <comment>[ˈplætfɔːrm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6fedb5c-060f-4520-af10-a9b64a981068</uuid>
+    <examples>
+       <example>
+          <value>platform number three</value>
+          <translation>платформа №3</translation>
+          <comment>platform - платформа, number - номер, three - три</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>behind</question>
+    <answer>позади</answer>
+    <comment>[bɪˈhаɪnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b142dc6d-79da-44b7-bae3-9cdd593db172</uuid>
+    <examples>
+       <example>
+          <value>to be left behind by the train</value>
+          <translation>отстать от поезда</translation>
+          <comment>to leave - оставлять, покидать, left - оставленный, behind - позади, train - поезд</comment>
+       </example>
+       <example>
+          <value>to be left behind by your bus</value>
+          <translation>отстать от (твоего) автобуса</translation>
+          <comment>to leave - оставлять, behind - позади, bus - автобус</comment>
+       </example>
+       <example>
+          <value>to be left behind by your ship</value>
+          <translation>отстать от (твоего) теплохода</translation>
+          <comment>to leave - оставлять, behind - позади, ship - теплоход</comment>
+       </example>
+       <example>
+          <value>to be left behind by your train</value>
+          <translation>отстать от (твоего) поезда</translation>
+          <comment>to leave - оставлять, behind - позади, train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>timetable</question>
+    <answer>расписание</answer>
+    <comment>[ˈtаɪmˌteɪbl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2602f200-c31c-41d9-aa99-329acee62c11</uuid>
+    <examples>
+       <example>
+          <value>a train timetable</value>
+          <translation>расписание поездов</translation>
+          <comment>train - поезд, timetable - расписание</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>announce</question>
+    <answer>объявлять</answer>
+    <comment>[əˈnаʊns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>82d9a59c-b30f-4999-8a32-720d5aa838a5</uuid>
+    <examples>
+       <example>
+          <value>to announce boarding</value>
+          <translation>объявить посадку</translation>
+          <comment>to announce - объявлять, boarding - посадка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>emergency</question>
+    <answer>экстренный выход</answer>
+    <comment>[ɪˈmɜːrʤənsiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1cf043be-cd9d-46e3-871e-2af86f2885f8</uuid>
+    <examples>
+       <example>
+          <value>the emergency brake</value>
+          <translation>стоп-кран</translation>
+          <comment>emergency - авария, экстренный случай, brake - тормоз</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>found</question>
+    <answer>найденный</answer>
+    <comment>[fаʊnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>18a959ee-cb4a-4671-bd00-2c760738aa5e</uuid>
+    <examples>
+       <example>
+          <value>the lost-and-found office</value>
+          <translation>бюро находок</translation>
+          <comment>lost - утерянный, found - найденный, office - офис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>berth</question>
+    <answer>полка</answer>
+    <comment>[bɜːrθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e41bc1ef-df94-4e57-9ff5-e6d2d878fd3e</uuid>
+    <examples>
+       <example>
+          <value>a lower berth</value>
+          <translation>нижняя полка</translation>
+          <comment>low - нижний, berth - полка</comment>
+       </example>
+       <example>
+          <value>an upper berth</value>
+          <translation>верхняя полка</translation>
+          <comment>upper - верхний, berth - полка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>train</question>
+    <answer>поезд</answer>
+    <comment>[treɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c9277732-92a2-40b0-89f7-cfb1a7e44955</uuid>
+    <examples>
+       <example>
+          <value>a fast train</value>
+          <translation>скорый поезд</translation>
+          <comment>fast - быстрый, train - поезд</comment>
+       </example>
+       <example>
+          <value>a long-distance train</value>
+          <translation>поезд дальнего следования</translation>
+          <comment>long - длинный, distance - расстояние, train - поезд</comment>
+       </example>
+       <example>
+          <value>a suburban train</value>
+          <translation>пригородный поезд</translation>
+          <comment>suburban - пригородный, train - поезд</comment>
+       </example>
+       <example>
+          <value>to board the train</value>
+          <translation>сесть в поезд</translation>
+          <comment>to board - сесть (на борт), train - поезд</comment>
+       </example>
+       <example>
+          <value>to be left behind by the train</value>
+          <translation>отстать от поезда</translation>
+          <comment>to leave - оставлять, покидать, left - оставленный, behind - позади, train - поезд</comment>
+       </example>
+       <example>
+          <value>a train for Moscow</value>
+          <translation>поезд до Москвы</translation>
+          <comment>train - поезд, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a train from Moscow</value>
+          <translation>поезд из Москвы</translation>
+          <comment>train - поезд, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a train timetable</value>
+          <translation>расписание поездов</translation>
+          <comment>train - поезд, timetable - расписание</comment>
+       </example>
+       <example>
+          <value>to be left behind by your train</value>
+          <translation>отстать от (твоего) поезда</translation>
+          <comment>to leave - оставлять, behind - позади, train - поезд</comment>
+       </example>
+       <example>
+          <value>to miss the train</value>
+          <translation>опоздать на поезд</translation>
+          <comment>to miss - опоздать, пропустить, train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>desk</question>
+    <answer>стол</answer>
+    <comment>[desk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>db029faf-4658-45d7-af9a-41051b17c47b</uuid>
+    <examples>
+       <example>
+          <value>the information desk</value>
+          <translation>справочное бюро</translation>
+          <comment>information - информация, desk - стол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>distance</question>
+    <answer>расстояние</answer>
+    <comment>[ˈdɪstəns]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>64f39f7f-bb5c-46d5-9216-8d101eae995e</uuid>
+    <examples>
+       <example>
+          <value>a long-distance train</value>
+          <translation>поезд дальнего следования</translation>
+          <comment>long - длинный, distance - расстояние, train - поезд</comment>
+       </example>
+       <example>
+          <value>a long-distance call</value>
+          <translation>междугородний звонок</translation>
+          <comment>long - далекий, distance - дистанция, call - звонок</comment>
+       </example>
+       <example>
+          <value>to make a long-distance call</value>
+          <translation>сделать междугородний звонок</translation>
+          <comment>to make - делать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+       <example>
+          <value>to sit some distance from the screen</value>
+          <translation>сидеть не очень близко от экрана</translation>
+          <comment>to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lower</question>
+    <answer>нижний</answer>
+    <comment>[ˈlɔʊər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f3e14b3-d86e-401e-a1d7-19a11f9efa0f</uuid>
+    <examples>
+       <example>
+          <value>a lower berth</value>
+          <translation>нижняя полка</translation>
+          <comment>low - нижний, berth - полка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thirty</question>
+    <answer>тридцать</answer>
+    <comment>[ˈθɜːrtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2ea18eb5-533e-4e1a-853a-a5c815c8bc08</uuid>
+    <examples>
+       <example>
+          <value>thirty minutes</value>
+          <translation>30 минут</translation>
+          <comment>thirty - тридцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>thirty five</value>
+          <translation>тридцать пять</translation>
+          <comment>thirty - тридцать, five - пять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>light</question>
+    <answer>легкий</answer>
+    <comment>[lаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>19bbc77e-cfe3-4e87-9ce2-90fdc4b8f3a3</uuid>
+    <examples>
+       <example>
+          <value>to turn off the light</value>
+          <translation>выключить свет</translation>
+          <comment>to turn off - выключить, light - свет</comment>
+       </example>
+       <example>
+          <value>to turn on the light</value>
+          <translation>включить свет</translation>
+          <comment>to turn on - включить, light - свет</comment>
+       </example>
+       <example>
+          <value>too light</value>
+          <translation>слишком светлый</translation>
+          <comment>too - слишком, light - светлый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>turn</question>
+    <answer>повернуть</answer>
+    <comment>[tɜːrn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7d374846-bd36-4a91-8d99-145e6e937f62</uuid>
+    <examples>
+       <example>
+          <value>to turn off the light</value>
+          <translation>выключить свет</translation>
+          <comment>to turn off - выключить, light - свет</comment>
+       </example>
+       <example>
+          <value>to turn on the light</value>
+          <translation>включить свет</translation>
+          <comment>to turn on - включить, light - свет</comment>
+       </example>
+       <example>
+          <value>to turn left</value>
+          <translation>повернуть налево</translation>
+          <comment>to turn - повернуть, left - левый</comment>
+       </example>
+       <example>
+          <value>to turn right</value>
+          <translation>повернуть направо</translation>
+          <comment>to turn - повернуть, right - правый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>smoke</question>
+    <answer>курить</answer>
+    <comment>[smoʊk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12fbf784-8818-471d-ba31-4a7e06243850</uuid>
+    <examples>
+       <example>
+          <value>a non-smoking car</value>
+          <translation>вагон для некурящих</translation>
+          <comment>smoking - курящий, to smoke - курить, car - вагон</comment>
+       </example>
+       <example>
+          <value>a smoking car</value>
+          <translation>вагон для курящих</translation>
+          <comment>smoking - курящий, to smoke - курить, car - вагон</comment>
+       </example>
+       <example>
+          <value>the smoking room</value>
+          <translation>курительная комната</translation>
+          <comment>smoking - курящий, room - комната</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>brake</question>
+    <answer>тормоз</answer>
+    <comment>[breɪk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b6baab77-8e86-40c9-a12d-04ab7dd4fe2d</uuid>
+    <examples>
+       <example>
+          <value>the emergency brake</value>
+          <translation>стоп-кран</translation>
+          <comment>emergency - авария, экстренный случай, brake - тормоз</comment>
+       </example>
+       <example>
+          <value>to repair the brakes</value>
+          <translation>отремонтировать тормоз</translation>
+          <comment>to repair - ремонтировать, brake - тормоз</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

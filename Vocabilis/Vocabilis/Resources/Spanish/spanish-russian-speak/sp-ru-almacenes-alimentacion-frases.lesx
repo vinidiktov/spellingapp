@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c162fb70-859b-4358-99b2-86404d4bebea</uuid>
+  <title>Покупки :: Продовольственный магазин :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>20</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Por favor, deme una barra de pan.</question>
+    <answer>Мне, пожалуйста, батон хлеба. (=Пожалуйста, дайте мне ...)</answer>
+    <comment></comment>
+    <uuid>c92b6205-c217-4b6e-923f-ce973146f68e</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de queso.</question>
+    <answer>Дайте (мне), пожалуйста, полкило сыра.</answer>
+    <comment></comment>
+    <uuid>dd7e445f-b3fe-4a1a-a476-2ee016ab4a49</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de jamón.</question>
+    <answer>Дайте (мне), пожалуйста, полкило ветчины.</answer>
+    <comment></comment>
+    <uuid>37b399a0-67f5-43a5-8af4-e39315f7aca0</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de naranjas.</question>
+    <answer>Дайте (мне), пожалуйста, полкило апельсинов.</answer>
+    <comment></comment>
+    <uuid>3e73069b-4908-4785-83ef-23594850c44b</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de manzanas.</question>
+    <answer>Дайте (мне), пожалуйста, полкило яблок.</answer>
+    <comment></comment>
+    <uuid>1b672a93-a245-4983-a80f-46c5873b56af</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de tomates.</question>
+    <answer>Дайте (мне), пожалуйста, полкило помидоров.</answer>
+    <comment></comment>
+    <uuid>7137bbdc-de6b-42ef-9a50-5eee859f8134</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, medio kilo de pepinos.</question>
+    <answer>Дайте (мне), пожалуйста, полкило огурцов.</answer>
+    <comment></comment>
+    <uuid>f9030328-0287-4807-8715-3a8a12a7867b</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, un paquete de café.</question>
+    <answer>Дайте (мне), пожалуйста, пачку кофе.</answer>
+    <comment></comment>
+    <uuid>3f825170-31a1-4a4c-9efe-009152bee638</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, un paquete de té.</question>
+    <answer>Дайте (мне), пожалуйста, пачку чая.</answer>
+    <comment></comment>
+    <uuid>e5b52cdc-7144-4503-9c02-f042e0b49e24</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, 200 gramos de queso.</question>
+    <answer>Дайте (мне), пожалуйста, 200 граммов сыра.</answer>
+    <comment></comment>
+    <uuid>367f3f85-6d63-4c07-960b-20a57959f0fa</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, 250 gramos de jamón.</question>
+    <answer>Дайте (мне), пожалуйста, 250 граммов ветчины.</answer>
+    <comment></comment>
+    <uuid>0ee16409-bb72-4b55-88cb-a81a6eef6702</uuid>
+  </card>
+  <card>
+    <question>Péseme, por favor, un kilo de naranjas.</question>
+    <answer>Взвесьте (мне), пожалуйста, килограмм апельсинов.</answer>
+    <comment></comment>
+    <uuid>e52dbbce-1e27-44d7-8b91-ef094d7183ea</uuid>
+  </card>
+  <card>
+    <question>Péseme, por favor, un kilo de manzanas.</question>
+    <answer>Взвесьте (мне), пожалуйста, килограмм яблок.</answer>
+    <comment></comment>
+    <uuid>7190f783-1365-4b44-a6ab-ce91a3f38991</uuid>
+  </card>
+  <card>
+    <question>Péseme, por favor, un kilo de tomates.</question>
+    <answer>Взвесьте (мне), пожалуйста, килограмм помидоров.</answer>
+    <comment></comment>
+    <uuid>48da83f1-c771-426b-b27e-ae03a21626b2</uuid>
+  </card>
+  <card>
+    <question>Péseme, por favor, un kilo de pepinos.</question>
+    <answer>Взвесьте (мне), пожалуйста, килограмм огурцов.</answer>
+    <comment></comment>
+    <uuid>19b369c6-ceb7-47c7-8c59-ba84e6b0b556</uuid>
+  </card>
+  <card>
+    <question>Péseme, por favor, tres limones.</question>
+    <answer>Взвесьте (мне), пожалуйста, три лимона.</answer>
+    <comment></comment>
+    <uuid>c2337395-b55e-4bfe-9ffe-b851854a86c0</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, ...</question>
+    <answer>Дайте (мне), пожалуйста, ...</answer>
+    <comment></comment>
+    <uuid>9bec2e76-08ab-431a-8848-3ec23296ef47</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes ...?</question>
+    <answer>У вас (мн.ч.) есть ...?</answer>
+    <comment></comment>
+    <uuid>24ec337f-8ff3-495e-88fb-bf50ba8b4f35</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes aceitunas?</question>
+    <answer>У вас (мн.ч.) есть маслины?</answer>
+    <comment></comment>
+    <uuid>90d7f11a-bfeb-41cb-ba32-b74ab3af47f7</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes sardinas?</question>
+    <answer>У вас (мн.ч.) есть сардины?</answer>
+    <comment></comment>
+    <uuid>f26b4de4-15a2-45a4-a00b-7ef9651050a6</uuid>
+  </card>
+  <card>
+    <question>¿Tienen ustedes carne?</question>
+    <answer>У вас (мн.ч.) есть мясо?</answer>
+    <comment></comment>
+    <uuid>4f5ecc14-674f-4119-9477-a7f4029bf1f7</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de leche.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку молока.</answer>
+    <comment></comment>
+    <uuid>3829a7af-dd58-44eb-9c4b-b67bbff60503</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de zumo.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку сока.</answer>
+    <comment></comment>
+    <uuid>9fe4a9d0-2930-4326-bc12-0e9f18e649f4</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de vino.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку вина.</answer>
+    <comment></comment>
+    <uuid>df2528ec-b7ae-45aa-8104-fbcade9c0ebb</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de agua mineral.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку минеральной воды.</answer>
+    <comment></comment>
+    <uuid>c6be935a-831c-4868-baa6-63c1db8f356f</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de coca-cola.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку кока-колы.</answer>
+    <comment></comment>
+    <uuid>82858008-531c-4137-9c56-080d0365cd62</uuid>
+  </card>
+  <card>
+    <question>Deme, por favor, una botella de cerveza.</question>
+    <answer>(Дайте) Мне, пожалуйста, бутылку пива.</answer>
+    <comment></comment>
+    <uuid>d51df604-eac3-4d4e-b60f-4c3770dd8ab5</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar manzanas.</question>
+    <answer>Я бы хотел(а) купить яблок.</answer>
+    <comment></comment>
+    <uuid>d02404bc-ab92-400e-8526-ab8476478bb3</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar bombones.</question>
+    <answer>Я бы хотел(а) купить шоколадные конфеты.</answer>
+    <comment></comment>
+    <uuid>e2b36fb8-5990-4139-b69e-510b3b733de2</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar chocolate.</question>
+    <answer>Я бы хотел(а) купить шоколад.</answer>
+    <comment></comment>
+    <uuid>0dee8688-ef26-4de1-b0a5-929496011f19</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar pasteles.</question>
+    <answer>Я бы хотел(а) купить пирожные.</answer>
+    <comment></comment>
+    <uuid>920a9019-62e7-4e12-9520-c2cc63136991</uuid>
+  </card>
+  <card>
+    <question>Quisiera comprar galletas.</question>
+    <answer>Я бы хотел(а) купить сухое печенье.</answer>
+    <comment></comment>
+    <uuid>a9973496-fe5f-4e38-9713-8b305815fd6d</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la caja?</question>
+    <answer>Где касса?</answer>
+    <comment></comment>
+    <uuid>a6c9ac3c-5bec-446b-93c1-500e4b273e9e</uuid>
+  </card>
+</cards>
+</stack>

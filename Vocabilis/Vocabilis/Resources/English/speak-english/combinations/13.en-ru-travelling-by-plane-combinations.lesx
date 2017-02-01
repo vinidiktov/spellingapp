@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c5cd43d4-3b21-400d-b949-d375618b8773</uuid>
+  <title>Путешествие на самолете :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>9</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a child of seven</question>
+    <answer>ребенок семи лет</answer>
+    <comment>[ə ʧаɪld əv ˈsevən]</comment>
+    <question_comment>child - ребенок, seven - семь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f570a976-da60-4c2e-ada2-2f9da446c9be</uuid>
+    <examples>
+       <example>
+          <value>How much is a ticket for a child of seven?</value>
+          <translation>Сколько стоит билет на ребенка семи лет?</translation>
+          <comment>how - как, much - много, ticket - билет, child - ребенок, seven - семь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a direct flight</question>
+    <answer>прямой рейс</answer>
+    <comment>[ə dɪˈrekt flаɪt]</comment>
+    <question_comment>direct - прямой, flight - рейс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f08cf82f-b8cb-4f29-bb58-935239c4b911</uuid>
+    <examples>
+       <example>
+          <value>Is this a direct flight?</value>
+          <translation>Это прямой рейс?</translation>
+          <comment>this - это, этот, эта, direct - прямой, flight - рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a fixed date</question>
+    <answer>фиксированная дата</answer>
+    <comment>[ə fɪkst deɪt]</comment>
+    <question_comment>fixed - фиксированный, date - дата</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>be5c4312-3c48-4822-9ba7-8a0088d6fa4b</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a ticket with a fixed date?</value>
+          <translation>Могу ли я купить билет с фиксированной датой?</translation>
+          <comment>can - мочь, to buy - купить, ticket - билет, fixed - фиксированный, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a nonstop flight</question>
+    <answer>беспересадочный рейс</answer>
+    <comment>[ə nɑːn stɑːp flаɪt]</comment>
+    <question_comment>nonstop - безостановочный, flight - полет, рейс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>efef1d3f-48d0-4f9a-80e2-5f1200f45c87</uuid>
+    <examples>
+       <example>
+          <value>Is this a nonstop flight?</value>
+          <translation>Это беспересадочный рейс?</translation>
+          <comment>this - это, этот, эта, nonstop - беспересадочный, flight - рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a one-way ticket</question>
+    <answer>билет в один конец</answer>
+    <comment>[ə wʌn weɪ ˈtɪkɪt]</comment>
+    <question_comment>one - один, way - путь, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>679b3318-f851-4a98-9aa7-e4a65695962d</uuid>
+    <examples>
+       <example>
+          <value>How much is a one-way ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы в один конец?</translation>
+          <comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I want a one-way ticket.</value>
+          <translation>Мне нужен билет в один конец.</translation>
+          <comment>to want - хотеть, ticket - билет, one - один, way - путь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a plan of the city</question>
+    <answer>план города</answer>
+    <comment>[ə plæn əv ðə ˈsɪtiː]</comment>
+    <question_comment>plan - план, city - город</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c60cf19f-e7fb-40ea-8fda-4bea451d00a5</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a plan of the city?</value>
+          <translation>Где мне купить план города?</translation>
+          <comment>where - где, can - мочь, to buy - купить, plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>Give me a plan of the city, please.</value>
+          <translation>Дайте, пожалуйста, план города.</translation>
+          <comment>to give - давать, me - мне, меня, plan - план, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a round-trip ticket</question>
+    <answer>билет в оба конца</answer>
+    <comment>[ə rаʊnd trɪp ˈtɪkɪt]</comment>
+    <question_comment>round - круговой, trip - поездка, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c996732b-55a0-4fe4-acdf-84006a486986</uuid>
+    <examples>
+       <example>
+          <value>How much is a round-trip ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы и обратно?</translation>
+          <comment>how - как, much - много, round - круглый, trip - поездка, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>A round-trip ticket to Moscow.</value>
+          <translation>Один билет до Москвы и обратно.</translation>
+          <comment>round - круглый, trip - поездка, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I want a round-trip ticket.</value>
+          <translation>Мне нужен билет туда и обратно.</translation>
+          <comment>to want - хотеть, ticket - билет, round - круглый, trip - поездка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a ticket for a child</question>
+    <answer>детский билет</answer>
+    <comment>[ə ˈtɪkɪt fər ə ʧаɪld]</comment>
+    <question_comment>ticket - билет, child - ребенок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>40e7c599-3227-416d-9f5e-c1bb3d385643</uuid>
+    <examples>
+       <example>
+          <value>How much is a ticket for a child of seven?</value>
+          <translation>Сколько стоит билет на ребенка семи лет?</translation>
+          <comment>how - как, much - много, ticket - билет, child - ребенок, seven - семь</comment>
+       </example>
+       <example>
+          <value>How much is the ticket for a five year old child?</value>
+          <translation>Сколько стоит билет на пятилетнего ребенка?</translation>
+          <comment>how - сколько, much - много, ticket - билет, five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>air tickets</question>
+    <answer>билеты на самолет</answer>
+    <comment>[er ˈtɪkɪts]</comment>
+    <question_comment>air - воздушный, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96c27183-eed9-4374-a10a-d896a0c86a13</uuid>
+    <examples>
+       <example>
+          <value>Where can I book my air tickets?</value>
+          <translation>Где я могу заказать билеты на самолет?</translation>
+          <comment>where - где, can - мочь, to book - забронировать, заказать, my - мой, моя, мои, air - воздушный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>My air ticket has been stolen.</value>
+          <translation>Украден мой билет на самолет.</translation>
+          <comment>my - мой, моя, мое, air - воздух, ticket - билет, stolen - украденный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>directly at the airport</question>
+    <answer>прямо в аэропорту</answer>
+    <comment>[dɪˈrektliː ət ðiː ˈerˌpɔːrt]</comment>
+    <question_comment>directly - прямо, airport - аэропорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3e478363-2550-4401-a4c0-3890008cfc49</uuid>
+    <examples>
+       <example>
+          <value>Can I rent a car directly at the airport?</value>
+          <translation>Могу я взять напрокат машину прямо в аэропорту?</translation>
+          <comment>can - мочь, to rent - арендовать, car - машина, directly - прямо, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>economy class ticket</question>
+    <answer>билет в эконом классе</answer>
+    <comment>[ɪˈkɑːnəmiː klæs ˈtɪkɪt]</comment>
+    <question_comment>economy - экономичный, class - класс, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7659ebf0-4f1c-4cf4-bbe8-12a936ab831e</uuid>
+    <examples>
+       <example>
+          <value>I want one economy class ticket.</value>
+          <translation>Мне нужен один билет в эконом классе.</translation>
+          <comment>to want - хотеть, one - один, economy - экономичный, class - класс, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>excess baggage</question>
+    <answer>перевес багажа</answer>
+    <comment>[ɪkˈses ˈbægɪʤ]</comment>
+    <question_comment>excess - избыточный, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c2ceac41-b6f4-40a0-abd2-53d1205506e8</uuid>
+    <examples>
+       <example>
+          <value>What excess baggage do I have?</value>
+          <translation>Какой у меня перевес багажа?</translation>
+          <comment>what - какой, что, excess - избыточный, baggage - багаж, to have - иметь</comment>
+       </example>
+       <example>
+          <value>How much should I pay for the excess baggage?</value>
+          <translation>Сколько мне нужно доплатить за перевес багажа?</translation>
+          <comment>how - сколько, much - много, should - должен, должна, должны, to pay - платить, excess - избыточный, baggage - вес</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifteen minutes</question>
+    <answer>пятнадцать минут</answer>
+    <comment>[ˈfɪfˈtiːn ˈmɪnɪts]</comment>
+    <question_comment>fifteen - пятнадцать, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e631d97e-f934-4b9a-a020-7f38b965ae5c</uuid>
+    <examples>
+       <example>
+          <value>The plane to Moscow is fifteen minutes late.</value>
+          <translation>Самолет до Москвы опаздывает на 15 минут.</translation>
+          <comment>plane - самолет, Moscow - Москва, fifteen - пятнадцать, minute - минута, late - опоздавший</comment>
+       </example>
+       <example>
+          <value>fifteen minutes to nine</value>
+          <translation>без пятнадцати девять</translation>
+          <comment>fifteen - пятнадцать, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>first class ticket</question>
+    <answer>билет в первом классе</answer>
+    <comment>[fɜːrst klæs ˈtɪkɪt]</comment>
+    <question_comment>first - первый, class - класс, ticket билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7e9f27a-890e-4b39-863c-94c2a02afd40</uuid>
+    <examples>
+       <example>
+          <value>I want one first class ticket.</value>
+          <translation>Мне нужен один билет в первом классе.</translation>
+          <comment>to want - хотеть, one - один, firs - первый, class - класс, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>flight to Moscow</question>
+    <answer>полет до Москвы</answer>
+    <comment>[flаɪt tə ˈmɑːskoʊ]</comment>
+    <question_comment>flight - полет, Moscow - Москва</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>57e8c0cd-72bc-404c-a062-3b1239129c10</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>in twenty minutes</question>
+    <answer>через двадцать минут</answer>
+    <comment>[ɪn ˈtwentiː ˈmɪnɪts]</comment>
+    <question_comment>twenty - двадцать, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>203cbd05-4865-462a-a9c0-0eb8f8cefd10</uuid>
+    <examples>
+       <example>
+          <value>The plane will land in twenty minutes.</value>
+          <translation>Самолет прибудет через 20 минут.</translation>
+          <comment>plane - самолет, to land - приземлиться, twenty - двадцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>twenty five minutes after eight</value>
+          <translation>двадцать пять минут девятого</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes to nine</value>
+          <translation>без двадцати пяти девять</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my application</question>
+    <answer>мое заявление</answer>
+    <comment>[mаɪ ˌæpləˈkeɪʃən]</comment>
+    <question_comment>appilcation - заявление</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3e3b5bd-8b1e-47d3-b9b8-559eb16b2fa0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>number five</question>
+    <answer>номер пять</answer>
+    <comment>[ˈnʌmbər fаɪv]</comment>
+    <question_comment>number - номер, five - пять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6825075f-257f-4404-ac3e-ce8a0a2d6945</uuid>
+    <examples>
+       <example>
+          <value>At counter number five.</value>
+          <translation>У пятого окошка.</translation>
+          <comment>counter - окошко (кассы), number - номер, five - пять</comment>
+       </example>
+       <example>
+          <value>At ticket office number five.</value>
+          <translation>В билетной кассе номер пять.</translation>
+          <comment>ticket - билет, office - офис, number - номер, five - пять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>one ticket to Moscow</question>
+    <answer>один билет до Москвы</answer>
+    <comment>[wʌn ˈtɪkɪt tə ˈmɑːskaʊ]</comment>
+    <question_comment>one - один, ticket - билет, Moscow - Москва</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc74440f-1723-4d9b-b0b4-d49a167392fb</uuid>
+    <examples>
+       <example>
+          <value>I want to reserve one ticket to Moscow.</value>
+          <translation>Я хочу забронировать один билет до Москвы.</translation>
+          <comment>to want - хотеть, to reserve - резервировать, one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How much is a one-way ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы в один конец?</translation>
+          <comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>One ticket to Moscow.</value>
+          <translation>Один билет до Москвы.</translation>
+          <comment>one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>passengers of the flight</question>
+    <answer>пассажиры рейса</answer>
+    <comment>[ˈpæsənʤərz əv ðə flаɪt]</comment>
+    <question_comment>passenger - пассажир, flight - рейс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7d1b38d-fe4c-470b-a446-4fcd9c3c79b7</uuid>
+    <examples>
+       <example>
+          <value>Where do passengers of flight 232 receive baggage?</value>
+          <translation>Где пассажиры рейса 232 получают багаж?</translation>
+          <comment>where - где, passenger - пассажир, flight - рейс, to receive - получать, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a plane to Moscow</question>
+    <answer>самолет до Москвы</answer>
+    <comment>[ə pleɪn tə ˈmɑːskaʊ]</comment>
+    <question_comment>plane - самолет, Moscow - Москва</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fbe7386a-7964-4753-84ff-ce375f7aea7b</uuid>
+    <examples>
+       <example>
+          <value>The plane to Moscow is fifteen minutes late.</value>
+          <translation>Самолет до Москвы опаздывает на 15 минут.</translation>
+          <comment>plane - самолет, Moscow - Москва, fifteen - пятнадцать, minute - минута, late - опоздавший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the arrivals board</question>
+    <answer>табло прилета</answer>
+    <comment>[ðə əˈrаɪvəlz bɔːrd]</comment>
+    <question_comment>arrival - прибытие, board - доска (объявлений)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fcdc1b1c-4ebe-4ba0-aa99-2852226ae4e6</uuid>
+    <examples>
+       <example>
+          <value>Where is the arrivals board?</value>
+          <translation>Где находится табло прилета?</translation>
+          <comment>where - где, arrival - прибытие, board - табло</comment>
+       </example>
+       <example>
+          <value>Where is the arrivals board?</value>
+          <translation>Где табло &quot;прибытие&quot;?</translation>
+          <comment>where - где, arrival - прибытие, board - панель, табло</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the departures board</question>
+    <answer>табло вылета</answer>
+    <comment>[ðə dɪˈpɑːrʧərz bɔːrd]</comment>
+    <question_comment>departure - отъезд, отбытие, board - доска (объявлений)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a7f3f74c-45ab-45be-8642-7b973fb418b1</uuid>
+    <examples>
+       <example>
+          <value>Where is the departures board?</value>
+          <translation>Где находится табло вылета?</translation>
+          <comment>where - где, departure - отправление, board - табло</comment>
+       </example>
+       <example>
+          <value>Where is the departures board?</value>
+          <translation>Где табло &quot;отправление&quot;?</translation>
+          <comment>where - где, departure - отъезд, отбытие, board - панель, табло</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the duty-free shop</question>
+    <answer>магазин duty-free</answer>
+    <comment>[ðə ˈduːtɪˈfriː ʃɑːp]</comment>
+    <question_comment>duty-free - беспошлинный, shop - магазин</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c2bfe74f-f88a-41f0-b02f-48064eaca855</uuid>
+    <examples>
+       <example>
+          <value>Where is the duty-free shop?</value>
+          <translation>Где находится магазин duty-free?</translation>
+          <comment>where - где, duty-free - дьютифри, shop - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the gate for this flight</question>
+    <answer>выход для посадки на этот рейс</answer>
+    <comment>[ðə geɪt fər ðɪs flаɪt]</comment>
+    <question_comment>gate - ворота, выход, flight - рейс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>08815795-6b0b-40be-8d20-7992b35f74a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the information service</question>
+    <answer>справочная служба</answer>
+    <comment>[ðə ˌɪnfərˈmeɪʃən ˈsɜːrvɪs]</comment>
+    <question_comment>information - информация, service - служба</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2b4cc10f-d125-4161-9af1-9904890ca8ba</uuid>
+    <examples>
+       <example>
+          <value>Where is the information service of the airport?</value>
+          <translation>Где находится справочная служба аэропорта?</translation>
+          <comment>where - где, information - информация, service - служба, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the loss of baggage</question>
+    <answer>пропажа багажа</answer>
+    <comment>[ðə lɔːs əv ˈbægɪʤ]</comment>
+    <question_comment>loss - пропажа, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bacb114f-ce31-4435-824d-0de9b4aef46b</uuid>
+    <examples>
+       <example>
+          <value>Here is my appilcation concerning the loss of baggage.</value>
+          <translation>Вот мое заявление о пропаже багажа.</translation>
+          <comment>here - здесь, appilcation - заявление, concerning - касающийся, loss - потеря, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the lost baggage</question>
+    <answer>утерянный багаж</answer>
+    <comment>[ðə lɔːst ˈbægɪʤ]</comment>
+    <question_comment>lost - утерянный, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97b19bb6-742c-4d2b-bfb8-226a76c22d72</uuid>
+    <examples>
+       <example>
+          <value>Where can I apply for the lost baggage?</value>
+          <translation>Куда я могу обратиться по поводу пропажи багажа?</translation>
+          <comment>where - где, can - мочь, to apply - подавать заявление, lost - утерянный, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose baggage</question>
+    <answer>потерять багаж</answer>
+    <comment>[tə luːz ˈbægɪʤ]</comment>
+    <question_comment>to lose - терять, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e7c35ec-1e16-440e-ad00-49a30b806081</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the next flight</question>
+    <answer>следующий рейс</answer>
+    <comment>[ðə nekst flаɪt]</comment>
+    <question_comment>next - следующий, flight - рейс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1a4186d6-d4d2-4658-9516-d76d16a279cd</uuid>
+    <examples>
+       <example>
+          <value>When is the next flight to London?</value>
+          <translation>Когда следующий рейс на Лондон?</translation>
+          <comment>when - когда, next - следующий, flight - рейс, London - Лондон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the police service</question>
+    <answer>полицейская служба</answer>
+    <comment>[ðə pəˈliːs ˈsɜːrvɪs]</comment>
+    <question_comment>police - полиция, service - служба</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97e1332a-4b66-4af7-9645-e0ca26ded615</uuid>
+    <examples>
+       <example>
+          <value>Where is the police service of the airport?</value>
+          <translation>Где находится полицейская служба аэропорта?</translation>
+          <comment>where - где, police - полицейский, service - служба, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>these things</question>
+    <answer>эти вещи</answer>
+    <comment>[ðiːz θɪŋz]</comment>
+    <question_comment>these - эти, thing - вещь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>463a1675-b40f-4552-9c19-be4086d4d41b</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to register these things as baggage.</value>
+          <translation>Эти вещи я сдаю в багаж.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to register - зарегистрировать, these - эти, thing - вещь, as - в качестве, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a ticket office</question>
+    <answer>билетная касса</answer>
+    <comment>[ə ˈtɪkɪt ˈɔːfɪs]</comment>
+    <question_comment>ticket - билет, office - офис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96f6ed2a-1f10-4301-858d-8a65d5fbe311</uuid>
+    <examples>
+       <example>
+          <value>At ticket office number five.</value>
+          <translation>В билетной кассе номер пять.</translation>
+          <comment>ticket - билет, office - офис, number - номер, five - пять</comment>
+       </example>
+       <example>
+          <value>Where is the ticket office for long-distance trains?</value>
+          <translation>Где находится касса продажи билетов на поезда дальнего следования?</translation>
+          <comment>where - где, ticket - билет, office - офис, long - длинный, distance - расстояние, train - поезд</comment>
+       </example>
+       <example>
+          <value>You can get the tickets at ticket office number three.</value>
+          <translation>Вы можете купить билеты в кассе 3.</translation>
+          <comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to apply for the lost baggage</question>
+    <answer>обратиться по поводу пропажи багажа</answer>
+    <comment>[tə əˈplаɪ fər ðə lɔːst ˈbægɪʤ]</comment>
+    <question_comment>to apply (for) - подавать заявление (на), lost - потерянный, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7a95ea88-8c82-409a-acc2-5d1148cc930b</uuid>
+    <examples>
+       <example>
+          <value>Where can I apply for the lost baggage?</value>
+          <translation>Куда я могу обратиться по поводу пропажи багажа?</translation>
+          <comment>where - где, can - мочь, to apply - подавать заявление, lost - утерянный, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to arrive in New York</question>
+    <answer>прибывать в Нью-Йорк</answer>
+    <comment>[tə əˈrаɪv ɪn nuː jɔːrk]</comment>
+    <question_comment>to arrive - прибывать, New York - Нью-Йорк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c789e573-7809-4bd2-830e-2760053648c9</uuid>
+    <examples>
+       <example>
+          <value>When does the plane arrive in New York?</value>
+          <translation>Когда самолет прибывает в Нью-Йорк?</translation>
+          <comment>when - когда, plane - самолет, to arrive - прибывать, New York - Нью-Йорк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>My baggage is insured.</question>
+    <answer>Мой багаж застрахован.</answer>
+    <comment>[mаɪ ˈbægɪʤ ɪz ˈɪnˈʃʊrd]</comment>
+    <question_comment>baggage - багаж, to insure - страховать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c1e0a0f-e07b-4504-b664-8638c9f7c86e</uuid>
+    <examples>
+       <example>
+          <value>Can I insure my baggage?</value>
+          <translation>Могу ли я застраховать свой багаж?</translation>
+          <comment>can - мочь, to insure - застраховать, my - мой, моя, мое, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>My baggage was insured.</value>
+          <translation>Мой багаж был застрахован.</translation>
+          <comment>baggage - багаж, was - был, была, было, insured - застрахованный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be late</question>
+    <answer>опаздывать</answer>
+    <comment>[tə biː leɪt]</comment>
+    <question_comment>late - поздний, опоздавший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ceadacd4-c7e3-42ef-a2db-329388f99ddc</uuid>
+    <examples>
+       <example>
+          <value>It’s getting late.</value>
+          <translation>Становится поздно.</translation>
+          <comment>to get - становиться, late - поздний</comment>
+       </example>
+       <example>
+          <value>It’s too late, I have to go.</value>
+          <translation>Уже слишком поздно, мне нужно идти.</translation>
+          <comment>too - слишком, late - поздний, have to - быть должным, to go - идти</comment>
+       </example>
+       <example>
+          <value>The plane to Moscow is fifteen minutes late.</value>
+          <translation>Самолет до Москвы опаздывает на 15 минут.</translation>
+          <comment>plane - самолет, Moscow - Москва, fifteen - пятнадцать, minute - минута, late - опоздавший</comment>
+       </example>
+       <example>
+          <value>The train is thirty minutes late.</value>
+          <translation>Поезд опаздывает на 30 минут.</translation>
+          <comment>train - поезд, thirty - тридцать, minute - минута, late - поздний</comment>
+       </example>
+       <example>
+          <value>Can you drive faster? I&apos;m getting late.</value>
+          <translation>Не могли бы вы ехать быстрее? Я опаздываю.</translation>
+          <comment>can - мочь, to drive - ехать, faster - быстрее, to get - становиться, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>I&apos;m half an hour late.</value>
+          <translation>Я опаздываю на полчаса.</translation>
+          <comment>half - половина, hour - час, late - поздний</comment>
+       </example>
+       <example>
+          <value>late in the evening</value>
+          <translation>поздно вечером</translation>
+          <comment>late - поздний, evening - вечер</comment>
+       </example>
+       <example>
+          <value>I&apos;m sorry, I&apos;m late.</value>
+          <translation>Простите за опоздание.</translation>
+          <comment>sorry - прости(те), late - опоздавший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to book tickets</question>
+    <answer>заказать билеты</answer>
+    <comment>[tə bʊk ˈtɪkɪts]</comment>
+    <question_comment>to book - заказывать, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d1c283c-4d75-496c-8d58-07c428df534e</uuid>
+    <examples>
+       <example>
+          <value>Where can I book my air tickets?</value>
+          <translation>Где я могу заказать билеты на самолет?</translation>
+          <comment>where - где, can - мочь, to book - забронировать, заказать, my - мой, моя, мои, air - воздушный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a plan of the city</question>
+    <answer>купить план города</answer>
+    <comment>[tə bаɪ ə plæn əv ðə ˈsɪtiː]</comment>
+    <question_comment>to buy - покупать, plan - план, city - город</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>24fe2939-6aaa-4e9e-bdf1-7b1661595788</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a plan of the city?</value>
+          <translation>Где мне купить план города?</translation>
+          <comment>where - где, can - мочь, to buy - купить, plan - план, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a ticket</question>
+    <answer>купить билет</answer>
+    <comment>[tə bаɪ ə ˈtɪkɪt]</comment>
+    <question_comment>to buy - покупать, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c7443bce-e513-4ac8-b286-6defa73235f6</uuid>
+    <examples>
+       <example>
+          <value>Can I buy a ticket with a fixed date?</value>
+          <translation>Могу ли я купить билет с фиксированной датой?</translation>
+          <comment>can - мочь, to buy - купить, ticket - билет, fixed - фиксированный, date - дата</comment>
+       </example>
+       <example>
+          <value>Can I buy a day ticket?</value>
+          <translation>Можно купить проездной билет на сутки?</translation>
+          <comment>can - мочь, to buy - купить, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Can I buy a weekly ticket?</value>
+          <translation>Можно купить проездной билет на неделю?</translation>
+          <comment>can - мочь, to buy - купить, weekly -недельный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Can I buy a monthly ticket?</value>
+          <translation>Можно купить проездной билет на месяц?</translation>
+          <comment>can - мочь, to buy - купить, monthly -месячный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Where can I buy tickets for the current show?</value>
+          <translation>Где купить билеты на текущий сеанс?</translation>
+          <comment>where - где, can - мочь, to buy - купить, ticket - билет, current - текущий, show - представление</comment>
+       </example>
+       <example>
+          <value>Where can I buy tickets for the evening show?</value>
+          <translation>Где купить билеты на вечерний сеанс?</translation>
+          <comment>where - где, can - мочь, to buy - купить, ticket - билет, evening - вечер, вечерний, show - представление</comment>
+       </example>
+       <example>
+          <value>Where can I buy tickets for tomorrow?</value>
+          <translation>Где купить билеты на завтра?</translation>
+          <comment>where - где, can - мочь, to buy - купить, ticket - билет, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to check in passengers</question>
+    <answer>регистрировать пассажиров</answer>
+    <comment>[tə ʧek ɪn ˈpæsənʤərz]</comment>
+    <question_comment>to check in - регистрировать, passenger - пассажир</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c86e65ce-8a32-4dff-9d37-ecacc79832c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>the check-in time</question>
+    <answer>время регистрации</answer>
+    <comment>[ðə ʧek ɪn tаɪm]</comment>
+    <question_comment>check-in регистрация, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5471e64c-e55f-4d02-83c2-a30cc2acc401</uuid>
+    <examples>
+       <example>
+          <value>What time do I check in?</value>
+          <translation>Во сколько регистрация?</translation>
+          <comment>what - какой, time - время, to check in - регистрироваться (в аэропорту)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fasten the belt</question>
+    <answer>пристегнуть ремни</answer>
+    <comment>[tə ˈfæsən ðə belt]</comment>
+    <question_comment>to fasten - пристегнуть, belt - ремень</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a1ec3639-88f6-41c0-9548-07a2a1ac3f8c</uuid>
+    <examples>
+       <example>
+          <value>Help me to fasten the belt, please.</value>
+          <translation>Помогите мне, пожалуйста, пристегнуть ремни.</translation>
+          <comment>to help - помочь, me - мне, меня, to fasten - пристегнуть, belt - ремень, пояс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to find my suitcase</question>
+    <answer>найти свой (=мой) чемодан</answer>
+    <comment>[tə fаɪnd mаɪ ˈsuːtˌkeɪs]</comment>
+    <question_comment>to find - находить, my - мой, suitcase - чемодан</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9034a38f-2a56-4514-8155-18d840d9e637</uuid>
+    <examples>
+       <example>
+          <value>I can&apos;t find my suitcase.</value>
+          <translation>Я не нахожу своего чемодана.</translation>
+          <comment>can - мочь, to find - найти, my - мой, моя, мое, suitcase - чемодан</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fly to London</question>
+    <answer>лететь в Лондон</answer>
+    <comment>[tə flаɪ tə ˈlʌndən]</comment>
+    <question_comment>to fly - лететь, London - Лондон</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51363321-ae89-484d-8180-64abd17d7125</uuid>
+    <examples>
+       <example>
+          <value>On what days do the planes to London fly?</value>
+          <translation>По каким дням летают самолеты до Лондона?</translation>
+          <comment>what - что, какой, day - день, plane - самолет, London - Лондон, to fly - лететь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give something to drink</question>
+    <answer>дать что-нибудь попить</answer>
+    <comment>[tə gɪv ˈsʌmθɪŋ tə drɪŋk]</comment>
+    <question_comment>to give - дать, something - что-либо, to drink - пить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9eb0ab55-bbb7-41e3-a9e4-84bf0b79e470</uuid>
+    <examples>
+       <example>
+          <value>Please give me something to drink.</value>
+          <translation>Пожалуйста, дайте что-нибудь попить.</translation>
+          <comment>to give - дать, me - мне, меня, something - что-нибудь, to drink - пить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to insure your baggage</question>
+    <answer>застраховать свой (=твой) багаж</answer>
+    <comment>[tə ˈɪnˈʃʊr jər ˈbægɪʤ]</comment>
+    <question_comment>to insure - страховать, your - твой, ваш, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bba6b06f-92bc-4ec5-9c31-31a62380643a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay for the excess baggage</question>
+    <answer>доплатить за перевес багажа</answer>
+    <comment>[tə peɪ fər ðə ɪkˈses ˈbægɪʤ]</comment>
+    <question_comment>to pay - платить, excess - избыточный, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5b83bfc7-954c-4ce3-ace1-4b8a8075395b</uuid>
+    <examples>
+       <example>
+          <value>How much should I pay for the excess baggage?</value>
+          <translation>Сколько мне нужно доплатить за перевес багажа?</translation>
+          <comment>how - сколько, much - много, should - должен, должна, должны, to pay - платить, excess - избыточный, baggage - вес</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay ten dollars</question>
+    <answer>доплатить 10 долларов</answer>
+    <comment>[tə peɪ ten ˈdɑːlərz]</comment>
+    <question_comment>to pay - платить, ten - десять, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>16454f0b-6afe-4bc1-ab7f-7805d86ef860</uuid>
+    <examples>
+       <example>
+          <value>You will have to pay ten dollars.</value>
+          <translation>Вам следует доплатить 10$.</translation>
+          <comment>you - ты, вы, to have to - быть должным, to pay - платить, ten - десять, dollar - долларов</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive baggage</question>
+    <answer>получать багаж</answer>
+    <comment>[tə rɪˈsiːv ˈbægɪʤ]</comment>
+    <question_comment>to receive - получать, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cdcfd926-e9b0-4692-8c28-dd038a2aa92c</uuid>
+    <examples>
+       <example>
+          <value>Where do passengers of flight 232 receive baggage?</value>
+          <translation>Где пассажиры рейса 232 получают багаж?</translation>
+          <comment>where - где, passenger - пассажир, flight - рейс, to receive - получать, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>Where can I receive my baggage?</value>
+          <translation>Где мне можно получить багаж?</translation>
+          <comment>where - где, can - мочь, to receive - получить, my - мой, моя, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to register as baggage</question>
+    <answer>сдать в багаж</answer>
+    <comment>[tə ˈreʤɪstər æz ˈbægɪʤ]</comment>
+    <question_comment>to register - регистрировать, as - в качестве, baggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2fd345a3-f770-4628-9ae6-d8893ea8d4ab</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to register these things as baggage.</value>
+          <translation>Эти вещи я сдаю в багаж.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to register - зарегистрировать, these - эти, thing - вещь, as - в качестве, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to rent a car</question>
+    <answer>взять напрокат машину</answer>
+    <comment>[tə rent ə kɑːr]</comment>
+    <question_comment>to rent - взять напрокат, car - машина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e9129f7f-260c-4c5a-b7d1-27f0b8811270</uuid>
+    <examples>
+       <example>
+          <value>Where can I rent a car?</value>
+          <translation>Где я могу арендовать автомобиль?</translation>
+          <comment>where - где, can - мочь, to rent - арендовать, car - машина</comment>
+       </example>
+       <example>
+          <value>Can I rent a car directly at the airport?</value>
+          <translation>Могу я взять напрокат машину прямо в аэропорту?</translation>
+          <comment>can - мочь, to rent - арендовать, car - машина, directly - прямо, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>I want to rent a car for three days.</value>
+          <translation>Я хочу арендовать машину на три дня.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a car per day?</value>
+          <translation>Сколько стоит аренда машины в день?</translation>
+          <comment>how - как, much - много, rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>I want to rent a car with a camping trailer.</value>
+          <translation>Я хочу арендовать машину с жилым прицепом.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, camping - кемпинг, trailer - прицеп</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to reserve one ticket</question>
+    <answer>забронировать один билет</answer>
+    <comment>[tə rɪˈzɜːrv wʌn ˈtɪkɪt]</comment>
+    <question_comment>to reserve - забронировать, one - один, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4a3c56dc-9e79-4a5b-b393-fbd7bec617e6</uuid>
+    <examples>
+       <example>
+          <value>I want to reserve one ticket to Moscow.</value>
+          <translation>Я хочу забронировать один билет до Москвы.</translation>
+          <comment>to want - хотеть, to reserve - резервировать, one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It takes off at five p.m.</question>
+    <answer>Он взлетает в пять часов вечера.</answer>
+    <comment>[ɪt teɪks ɔːf ət fаɪv ˌpiːˈem]</comment>
+    <question_comment>to take off - взлетать, five - пять, p.m. - после полудня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7e25a549-0169-41f5-89fc-33a6126f3bd2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take this bag</question>
+    <answer>взять эту сумку</answer>
+    <comment>[tə teɪk ðɪs bæg]</comment>
+    <question_comment>to take - взять, this - этот, эта, bag - сумка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>79eb9c3d-6bb3-4f79-a74b-222c21acfaa1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll take this bag myself.</value>
+          <translation>Я отнесу эту сумку сам.</translation>
+          <comment>to take - относить, this - этот, эта, это, bag - сумка, myself - сам, себя</comment>
+       </example>
+       <example>
+          <value>I want to take this bag with me.</value>
+          <translation>Эту сумку я хочу взять с собой.</translation>
+          <comment>to want - хотеть, to take - взять, this - этот, эта, это, bag - сумка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take with me</question>
+    <answer>взять с собой</answer>
+    <comment>[tə teɪk wɪð ˈmiː]</comment>
+    <question_comment>to take - взять, with - с (кем-л.), me - мне, меня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cbe547d1-bff9-4fd3-966c-6a526abdcf10</uuid>
+    <examples>
+       <example>
+          <value>Take your seat, please.</value>
+          <translation>Садитесь, пожалуйста.</translation>
+          <comment>to take - брать, your - твой, ваш, seat - место</comment>
+       </example>
+       <example>
+          <value>That&apos;s fine. I&apos;ll take it.</value>
+          <translation>Хорошо. Я беру его (номер).</translation>
+          <comment>that - это, fine - замечательный, to take - брать, it - это</comment>
+       </example>
+       <example>
+          <value>Please take my baggage to my room.</value>
+          <translation>Пожалуйста, отнесите мой багаж в мою комнату.</translation>
+          <comment>to take - относить, my - мой, моя, мое, baggage - багаж, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this suitcase myself.</value>
+          <translation>Я отнесу этот чемодан сам.</translation>
+          <comment>to take - относить, this - этот, эта, это, suitcase - чемодан, myself - сам, себя</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this bag myself.</value>
+          <translation>Я отнесу эту сумку сам.</translation>
+          <comment>to take - относить, this - этот, эта, это, bag - сумка, myself - сам, себя</comment>
+       </example>
+       <example>
+          <value>Please send somebody to take down my suitcases.</value>
+          <translation>Пожалуйста, пришлите кого-нибудь, чтобы снести мои чемоданы вниз.</translation>
+          <comment>to send - послать, somebody - кто-либо, to take - отнести, down - вниз, my - мой, моя, мое, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this orange juice.</value>
+          <translation>Я возьму этот апельсиновый сок.</translation>
+          <comment>to take - брать, this - этот, эта, это, orange - апельсиновый, juice - сок</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take an omelet with bacon.</value>
+          <translation>Я возьму омлет с беконом.</translation>
+          <comment>to take - брать, omelet - омлет, bacon - бекон</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take the same.</value>
+          <translation>Я закажу то же самое.</translation>
+          <comment>to take - взять, the same - то же самое</comment>
+       </example>
+       <example>
+          <value>What airport does my plane take off from?</value>
+          <translation>Из какого аэропорта отправляется мой самолет?</translation>
+          <comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</comment>
+       </example>
+       <example>
+          <value>When does flight number 232 take off?</value>
+          <translation>Когда отправляется рейс номер 232?</translation>
+          <comment>when - когда, flight - рейс, number - номер, to take off - отправляться, взлетать</comment>
+       </example>
+       <example>
+          <value>I want to take this bag with me.</value>
+          <translation>Эту сумку я хочу взять с собой.</translation>
+          <comment>to want - хотеть, to take - взять, this - этот, эта, это, bag - сумка</comment>
+       </example>
+       <example>
+          <value>How long does it take to get to Moscow?</value>
+          <translation>Сколько времени требуется, чтобы доехать до Москвы?</translation>
+          <comment>how - как, long - долго, to take - брать, to get - добираться, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How long will it take?</value>
+          <translation>Сколько времени это займет?</translation>
+          <comment>how - как, long - долго, to take - взять, брать, занимать</comment>
+       </example>
+       <example>
+          <value>Can you take my car on a tow?</value>
+          <translation>Можете вы взять мою машину на буксир?</translation>
+          <comment>can - мочь, to take - взять, car - машина, tow - буксир</comment>
+       </example>
+       <example>
+          <value>How long will the repair take?</value>
+          <translation>Сколько времени нужно на ремонт?</translation>
+          <comment>how - как, long - долго, repair - ремонт, to take - брать, взять</comment>
+       </example>
+       <example>
+          <value>How long will a telegram to London take?</value>
+          <translation>Сколько идет телеграмма до Лондона?</translation>
+          <comment>how - как, long - долго, telegram - телеграмма, London - Лондон, to take - взять, брать</comment>
+       </example>
+       <example>
+          <value>Would you take a message, please?</value>
+          <translation>Вы не передадите ему сообщение?</translation>
+          <comment>to take - брать, взять, message - сообщение</comment>
+       </example>
+       <example>
+          <value>Wait, please, I&apos;ll take a pen.</value>
+          <translation>Подождите, пожалуйста, я возьму ручку.</translation>
+          <comment>to wait - ждать, to take - брать, взять, pen - ручка</comment>
+       </example>
+       <example>
+          <value>Which bus should I take to the city center?</value>
+          <translation>На каком автобусе можно доехать до центра?</translation>
+          <comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which streetcar should I take to the city center?</value>
+          <translation>На каком трамвае можно доехать до центра?</translation>
+          <comment>which - какой, который, streetcar - трамвай, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which line should I take to the airport?</value>
+          <translation>На каком маршруте я доеду до аэропорта?</translation>
+          <comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Take me to this address.</value>
+          <translation>Отвезите меня по этому адресу.</translation>
+          <comment>to take - отвозить, me - мне, меня, this - этот, эта, это, address - адрес</comment>
+       </example>
+       <example>
+          <value>Please take me to the railroad station.</value>
+          <translation>Пожалуйста, отвезите меня на вокзал.</translation>
+          <comment>to take - отвозить, railroad - железная дорога, station - станция</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the airport.</value>
+          <translation>Пожалуйста, отвезите меня в аэропорт.</translation>
+          <comment>to take - отвозить, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Could you take my luggage, please?</value>
+          <translation>Возьмите, пожалуйста, мой багаж.</translation>
+          <comment>could - мог, могла, могли, to take - брать, взять, my - мой, моя, мое, luggage - багаж</comment>
+       </example>
+       <example>
+          <value>How long will it take to go to the stadium?</value>
+          <translation>Сколько ехать до стадиона?</translation>
+          <comment>how - как, long - долго, to take - брать, занимать, to go - ехать, stadium - стадион</comment>
+       </example>
+       <example>
+          <value>Take it three times a day after meals.</value>
+          <translation>Принимайте три раза в день после еды.</translation>
+          <comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</comment>
+       </example>
+       <example>
+          <value>Do you want to take it?</value>
+          <translation>Будете брать?</translation>
+          <comment>to want - хотеть, to take - взять, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take it.</value>
+          <translation>Я возьму это.</translation>
+          <comment>to take - брать, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take three oranges.</value>
+          <translation>Я возьму три апельсина.</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>Does it take much time to make it?</value>
+          <translation>Изготовление займет много времени?</translation>
+          <comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</comment>
+       </example>
+       <example>
+          <value>How should I take this medicine?</value>
+          <translation>Как мне принимать это лекарство?</translation>
+          <comment>how - как, should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine before meals?</value>
+          <translation>Мне принимать это лекарство перед едой?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine after meals?</value>
+          <translation>Мне принимать это лекарство после еды?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, after - после, meal - еда, прием пищи</comment>
+       </example>
+       <example>
+          <value>I&apos;d take a ride around the city on a bicycle.</value>
+          <translation>Я бы покатался по городу на велосипеде.</translation>
+          <comment>to take - взять, брать, ride - поездка, around - вокруг, по, city - город, bicycle - велосипед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to tip up the seat</question>
+    <answer>откинуть кресло</answer>
+    <comment>[tə tɪp ʌp ðə siːt]</comment>
+    <question_comment>to tip up - опрокидывать, seat - сиденье</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5a0f868-fc3a-40fb-8c95-5333a9b19559</uuid>
+    <examples>
+       <example>
+          <value>Help me to tip up the seat, please.</value>
+          <translation>Помогите мне, пожалуйста, откинуть кресло.</translation>
+          <comment>to help - помочь, me - мне, меня, to tip up - откидывать назад (кресло), seat - сиденье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to want to reserve</question>
+    <answer>хотеть забронировать</answer>
+    <comment>[tə wɑːnt tə rɪˈzɜːrv]</comment>
+    <question_comment>to want - хотеть, to reserve - забронировать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>868a21a1-27f4-445c-81ea-510bd2553373</uuid>
+    <examples>
+       <example>
+          <value>I want to reserve one ticket to Moscow.</value>
+          <translation>Я хочу забронировать один билет до Москвы.</translation>
+          <comment>to want - хотеть, to reserve - резервировать, one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>two tickets</question>
+    <answer>два билета</answer>
+    <comment>[tuː ˈtɪkɪts]</comment>
+    <question_comment>two - два, ticket - билет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4a1a4992-7fa8-4f79-b8c8-0ed17de173c9</uuid>
+    <examples>
+       <example>
+          <value>Two tickets to Moscow.</value>
+          <translation>Два билета до Москвы.</translation>
+          <comment>two - два, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I want two tickets to Moscow.</value>
+          <translation>Мне нужно два билета до Москвы.</translation>
+          <comment>to want - хотеть, two - два, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to reserve two tickets for Saturday evening.</value>
+          <translation>Я хочу заказать два билета на вечерний сеанс в субботу.</translation>
+          <comment>would like - хотеть, to reserve - зарезервировать, забронировать, two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+       <example>
+          <value>Give me two tickets for tonight&apos;s performance.</value>
+          <translation>Дайте два билета на сегодняшний вечерний спектакль.</translation>
+          <comment>to give - давать, me - мне, меня, two - два, ticket - билет, tonight - сегодня вечером, performance - представление</comment>
+       </example>
+       <example>
+          <value>Give me two tickets in the stalls, please.</value>
+          <translation>Дайте, пожалуйста, два билета в партер.</translation>
+          <comment>to give - давать, me - мне, меня, ticket - билет, stalls - партер (в театре)</comment>
+       </example>
+       <example>
+          <value>I want two tickets for this show.</value>
+          <translation>Мне нужно два билета на этот сеанс.</translation>
+          <comment>to want - хотеть, two - два, ticket - билет, this - этот, эта, это, show - представление</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

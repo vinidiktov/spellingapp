@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c8936f22-22ce-4620-b31a-d932bf93a7f7</uuid>
+  <title>Школа</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>preguntar</question>
+    <answer>спрашивать</answer>
+    <comment></comment>
+    <uuid>e344d0c8-4aac-4f55-84e6-9984a69fcfad</uuid>
+  </card>
+  <card>
+    <question>la pizarra</question>
+    <answer>классная доска</answer>
+    <comment></comment>
+    <uuid>0cb5ee53-0cec-49f6-9766-c3d93c06aba6</uuid>
+  </card>
+  <card>
+    <question>el libro</question>
+    <answer>книга</answer>
+    <comment></comment>
+    <uuid>89d067de-58f5-4cd4-9844-429de588970b</uuid>
+  </card>
+  <card>
+    <question>la mochila</question>
+    <answer>ранец, школьная сумка</answer>
+    <comment></comment>
+    <uuid>7c99b7c4-a3bf-4ce4-a32b-70f70c77c34d</uuid>
+  </card>
+  <card>
+    <question>aburrido</question>
+    <answer>скучный</answer>
+    <comment></comment>
+    <uuid>a22b0f53-5f6b-4ba2-971f-661b134d6814</uuid>
+  </card>
+  <card>
+    <question>el autobús</question>
+    <answer>автобус</answer>
+    <comment></comment>
+    <uuid>cc87de47-0a39-4211-af13-7f2e04d84acd</uuid>
+  </card>
+  <card>
+    <question>la calculadora</question>
+    <answer>калькулятор</answer>
+    <comment></comment>
+    <uuid>55eb379c-4e9a-46f7-8d99-58d5559b363e</uuid>
+  </card>
+  <card>
+    <question>la clase</question>
+    <answer>урок, занятие</answer>
+    <comment></comment>
+    <uuid>04d21273-b6db-4912-b0f3-90af2e496e0e</uuid>
+  </card>
+  <card>
+    <question>corregir</question>
+    <answer>правильный (S. right)</answer>
+    <comment></comment>
+    <uuid>a38bcd4c-7ca1-49c9-84f7-55dde9551111</uuid>
+  </card>
+  <card>
+    <question>el cruce</question>
+    <answer>пешеходный переход</answer>
+    <comment></comment>
+    <uuid>32461297-946f-4843-a73c-4635e9e710af</uuid>
+  </card>
+  <card>
+    <question>el escritorio</question>
+    <answer>парта, письменный стол</answer>
+    <comment></comment>
+    <uuid>1f4521a1-607e-458d-bf35-820e1fcaa664</uuid>
+  </card>
+  <card>
+    <question>difícil</question>
+    <answer>трудный</answer>
+    <comment></comment>
+    <uuid>8afcf5c7-1be1-40a2-8cb7-182bb0576d01</uuid>
+  </card>
+  <card>
+    <question>discutir</question>
+    <answer>обсуждать</answer>
+    <comment></comment>
+    <uuid>a000b990-04e4-4825-9a29-84e184baad6f</uuid>
+  </card>
+  <card>
+    <question>fácil</question>
+    <answer>лёгкий, нетрудный</answer>
+    <comment></comment>
+    <uuid>fcd4956e-fa98-44db-a3eb-9cb6ce9c7e7c</uuid>
+  </card>
+  <card>
+    <question>borrar</question>
+    <answer>стирать</answer>
+    <comment></comment>
+    <uuid>2c6357e7-b4d6-462f-88a0-ce9f7afcc9a6</uuid>
+  </card>
+  <card>
+    <question>la goma de borrar</question>
+    <answer>ластик, резинка</answer>
+    <comment></comment>
+    <uuid>0f87a0cc-8866-4f42-93ac-dfe1dc25f6a9</uuid>
+  </card>
+  <card>
+    <question>reprobar</question>
+    <answer>не сдать (экзамен)</answer>
+    <comment></comment>
+    <uuid>760d9ade-8704-45a8-9f06-37095d0342fc</uuid>
+  </card>
+  <card>
+    <question>incorrecto</question>
+    <answer>неправильный (S. wrong)</answer>
+    <comment></comment>
+    <uuid>7f4e4fb8-4f16-47c8-ad5e-3de87e0a038b</uuid>
+  </card>
+  <card>
+    <question>interesante</question>
+    <answer>интересный</answer>
+    <comment></comment>
+    <uuid>3ca7e2b5-e945-4521-b7ca-1a5babe7808b</uuid>
+  </card>
+  <card>
+    <question>perezoso</question>
+    <answer>ленивый</answer>
+    <comment></comment>
+    <uuid>a247476f-a9f6-4703-b828-2e4edd2cf610</uuid>
+  </card>
+  <card>
+    <question>las matemáticas</question>
+    <answer>математика</answer>
+    <comment></comment>
+    <uuid>523ed26e-3705-4f9a-bc09-ffd588a1befa</uuid>
+  </card>
+  <card>
+    <question>el papel</question>
+    <answer>бумага</answer>
+    <comment></comment>
+    <uuid>d24f75e9-46e1-4daa-88c2-af72fdad3783</uuid>
+  </card>
+  <card>
+    <question>aprobar</question>
+    <answer>успешно сдать (экзамен)</answer>
+    <comment></comment>
+    <uuid>20eeaf72-cd4c-4c9b-9da1-c7b2cc9f21b4</uuid>
+  </card>
+  <card>
+    <question>la pluma</question>
+    <answer>ручка (которой пишут)</answer>
+    <comment></comment>
+    <uuid>5055136f-bdfe-486b-b670-e5451c689e76</uuid>
+  </card>
+  <card>
+    <question>el lápiz</question>
+    <answer>карандаш</answer>
+    <comment></comment>
+    <uuid>5ca4f98e-dd2e-414c-87b2-ec3dd368badf</uuid>
+  </card>
+  <card>
+    <question>la escuela</question>
+    <answer>школа</answer>
+    <comment></comment>
+    <uuid>0febc4a4-5f73-4f80-a2bb-8a511109b9c5</uuid>
+  </card>
+  <card>
+    <question>el estudiante</question>
+    <answer>ученик, студент</answer>
+    <comment></comment>
+    <uuid>b1bbb48f-b873-4a6a-af48-5770776334ea</uuid>
+  </card>
+  <card>
+    <question>estudiar</question>
+    <answer>учить(ся), изучать</answer>
+    <comment></comment>
+    <uuid>4fcd89cd-af34-4a3e-8152-48d6f7dcca2a</uuid>
+  </card>
+  <card>
+    <question>enseñar</question>
+    <answer>обучать</answer>
+    <comment></comment>
+    <uuid>2be96861-560b-4058-a866-26f3b0911827</uuid>
+  </card>
+  <card>
+    <question>el profesor</question>
+    <answer>учитель</answer>
+    <comment></comment>
+    <uuid>2cd65c6c-9018-4d56-bce2-14849b88768b</uuid>
+  </card>
+  <card>
+    <question>la prueba</question>
+    <answer>контрольная работа, тест</answer>
+    <comment></comment>
+    <uuid>3ea42cb4-afd3-4cab-974d-a4187c701e1e</uuid>
+  </card>
+  <card>
+    <question>la universidad</question>
+    <answer>университет</answer>
+    <comment></comment>
+    <uuid>bcf054c3-3451-4fa4-946a-92a7f2fb895f</uuid>
+  </card>
+</cards>
+</stack>

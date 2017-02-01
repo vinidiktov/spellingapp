@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ee0a53e8-8432-44a4-ab59-c3f01cc0d0a9</uuid>
+  <title>Отказ. Отрицание :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>it seems</question>
+    <answer>кажется</answer>
+    <comment>[ɪt siːmz]</comment>
+    <question_comment>to seem - казаться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>748c8981-9b53-4cf5-af07-6649bea44d6e</uuid>
+    <examples>
+       <example>
+          <value>It seems to me that you are not right.</value>
+          <translation>Мне кажется, что вы неправы.</translation>
+          <comment>to seem - казаться, me - мне, меня, that - что, you - ты, вы, right - правильный</comment>
+       </example>
+       <example>
+          <value>It seems to fit well.</value>
+          <translation>Кажется, это подойдет.</translation>
+          <comment>to seem - казаться, to fit - подходить, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>much sense</question>
+    <answer>большой смысл</answer>
+    <comment>[mʌʧ sens]</comment>
+    <question_comment>much - много, sense - смысл</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec5562c6-f3b5-46a7-bd17-71e32e428f35</uuid>
+    <examples>
+       <example>
+          <value>I can&apos;t see much sense in it.</value>
+          <translation>Я не вижу в этом смысла.</translation>
+          <comment>can - мочь, to see - видеть, much - много, sense - смысл</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to accept my invitation</question>
+    <answer>принять мое приглашение</answer>
+    <comment>[tə əkˈsept mаɪ ˌɪnvɪˈteɪʃən]</comment>
+    <question_comment>to accept - принимать, my - мой, моя, мое, invitation - приглашение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c63d8682-42b4-4207-a7ba-f7ed9e4cfe30</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s a mistake.</question>
+    <answer>Это ошибка.</answer>
+    <comment>[ðæts ə mɪˈsteɪk]</comment>
+    <question_comment>that - то, тот, mistake - ошибка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fd473062-699f-444e-a5fd-17005d75fbba</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+       <example>
+          <value>That&apos;s a mistake.</value>
+          <translation>Это ошибка.</translation>
+          <comment>that - это, то, mistake - ошибка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a big mistake</question>
+    <answer>большая ошибка</answer>
+    <comment>[ə bɪg mɪˈsteɪk]</comment>
+    <question_comment>big - большой, mistake - ошибка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>03694db0-3e8a-46ba-bce9-d5fdd26d2e65</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be unable to accept</question>
+    <answer>не мочь принять</answer>
+    <comment>[tə biː ənˈeɪbəl tə əkˈsept]</comment>
+    <question_comment>unable - неспособный, accept - принять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>882e4ff3-4c4b-4cca-b1db-0aca4621622f</uuid>
+    <examples>
+       <example>
+          <value>I regret to be unable to accept your invitation.</value>
+          <translation>К сожалению, я не могу принять ваше приглашение.</translation>
+          <comment>to regret - сожалеть, to be - быть, unable - неспособный, to accept - принимать, your - твой, ваш, invitation - приглашение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be wrong about something</question>
+    <answer>ошибаться в чем-либо</answer>
+    <comment>[tə biː rɔːŋ əˈbаʊt ˈsʌmθɪŋ]</comment>
+    <question_comment>wrong - неправильный, ошибочный, something - что-либо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>93e41d71-049a-4d7f-95a1-213a1e8cd95c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have no idea</question>
+    <answer>не иметь понятия</answer>
+    <comment>[tə hæv noʊ аɪˈdɪə]</comment>
+    <question_comment>to have - иметь, idea - мысль, идея</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a1f16339-6579-456e-9644-8cb26bf58a92</uuid>
+    <examples>
+       <example>
+          <value>I have no idea.</value>
+          <translation>Не знаю.</translation>
+          <comment>to have - иметь, idea - мысль, идея</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know exactly</question>
+    <answer>знать точно</answer>
+    <comment>[tə noʊ ɪgˈzæktliː]</comment>
+    <question_comment>to know - знать, exactly - точно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ce62ba0f-4fc9-47b6-a36d-fb2ff91eec4b</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t know exactly.</value>
+          <translation>Я точно не знаю.</translation>
+          <comment>to know - знать, exactly - точно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know his name</question>
+    <answer>знать его имя</answer>
+    <comment>[tə noʊ hɪz neɪm]</comment>
+    <question_comment>to know - знать, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b88a116-3f23-4c82-a8b8-c821e6a15b02</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to object strongly</question>
+    <answer>быть категорически против</answer>
+    <comment>[tə əbˈʤekt ˈstrɔːŋli]</comment>
+    <question_comment>to object - возражать, протестовать, strongly - сильно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>038d557d-a050-4029-bf57-2aeef67b371e</uuid>
+    <examples>
+       <example>
+          <value>I strongly object.</value>
+          <translation>Я категорически против.</translation>
+          <comment>strongly - сильно, to object - протестовать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to object to that</question>
+    <answer>возражать против этого</answer>
+    <comment>[tə əbˈʤekt tə ðæt]</comment>
+    <question_comment>to object - возражать, протестовать, that - то, это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eab69e5b-fe4a-4adf-9585-f7a5a36d4177</uuid>
+    <examples>
+       <example>
+          <value>I object to that.</value>
+          <translation>Я против этого.</translation>
+          <comment>to object - протестовать, that - это, то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to say that</question>
+    <answer>сказать то</answer>
+    <comment>[tə seɪ ðæt]</comment>
+    <question_comment>to say - говорить, сказать, that - то, это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5ce9e5a-6a33-46b3-9415-4a94cbb2ac99</uuid>
+    <examples>
+       <example>
+          <value>I didn&apos;t say that.</value>
+          <translation>Я этого не говорил.</translation>
+          <comment>to say - сказать, that - это, то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to see much sense in it</question>
+    <answer>видеть в этом смысл</answer>
+    <comment>[tə siː mʌʧ sens ɪn ɪt]</comment>
+    <question_comment>to see - видеть, much - много, sense - смысл</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf7a6e67-03bc-427c-83e6-a3ac7304dd42</uuid>
+    <examples>
+       <example>
+          <value>I can&apos;t see much sense in it.</value>
+          <translation>Я не вижу в этом смысла.</translation>
+          <comment>can - мочь, to see - видеть, much - много, sense - смысл</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to think so</question>
+    <answer>думать так</answer>
+    <comment>[tə θɪŋk soʊ]</comment>
+    <question_comment>to think - думать, so - так</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>028ce596-f8a3-44a3-b679-062cad9795e8</uuid>
+    <examples>
+       <example>
+          <value>I think so.</value>
+          <translation>Думаю, что так.</translation>
+          <comment>to think - думать, so - так</comment>
+       </example>
+       <example>
+          <value>I don&apos;t think so.</value>
+          <translation>Я так не думаю.</translation>
+          <comment>to think - думать, so - так</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

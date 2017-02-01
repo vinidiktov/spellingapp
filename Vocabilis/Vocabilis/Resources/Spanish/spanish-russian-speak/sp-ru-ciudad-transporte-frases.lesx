@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>9eba24f4-b56c-4342-a4ec-325a36a56c62</uuid>
+  <title>В городе :: Транспорт :: Фразы</title>
+  <author></author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>¿Dónde está la parada del autobús número ... ?</question>
+    <answer>Где остановка автобуса номер ...?</answer>
+    <comment></comment>
+    <uuid>94df9b58-7bac-4fee-bd97-d3aa7eca8300</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la estación de metro más próxima?</question>
+    <answer>Где ближайшая станция метро?</answer>
+    <comment></comment>
+    <uuid>f64dedee-6b52-40c1-bfe2-755fe7e90bae</uuid>
+  </card>
+  <card>
+    <question>¿Qué estación es esta?</question>
+    <answer>Какая это станция?</answer>
+    <comment></comment>
+    <uuid>2ef91442-d804-4ea4-bd7d-54f387b3a5ab</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se pueden comprar los billetes para el autobús?</question>
+    <answer>Где можно купить билеты на автобус?</answer>
+    <comment></comment>
+    <uuid>48548396-f091-49d6-81ee-e7217988e0c7</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se pueden comprar los billetes para el metro?</question>
+    <answer>Где можно купить билеты на метро?</answer>
+    <comment></comment>
+    <uuid>8320c6d8-7eed-4181-ba54-a9c294d6fab3</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale el billete de autobús?</question>
+    <answer>Сколько стоит проезд (=билет) в автобусе?</answer>
+    <comment></comment>
+    <uuid>7a9eb858-3145-45d6-8f35-945535ca4d38</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto vale el billete de metro?</question>
+    <answer>Сколько стоит проезд (=билет) в метро?</answer>
+    <comment></comment>
+    <uuid>f64d605b-f307-4016-ac24-8408e82e5b10</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas paradas hay hasta el museo ... ?</question>
+    <answer>Сколько остановок до музея ... ?</answer>
+    <comment></comment>
+    <uuid>2a04e59f-16e0-4278-bb9c-981771d3a5b8</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas paradas hay hasta el teatro ... ?</question>
+    <answer>Сколько остановок до театра ... ?</answer>
+    <comment></comment>
+    <uuid>5a7916d1-5d9a-430f-b151-3f2298e14b31</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas paradas hay hasta la calle ... ?</question>
+    <answer>Сколько остановок до улицы ... ?</answer>
+    <comment></comment>
+    <uuid>9b9476e2-3524-4aa5-91bf-0c15cd0b1f75</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas estaciones hay hasta el museo ... ?</question>
+    <answer>Сколько станций до музея ... ?</answer>
+    <comment></comment>
+    <uuid>fb51d1fa-7a12-4e18-99ab-d232c2874eae</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas estaciones hay hasta el teatro ... ?</question>
+    <answer>Сколько станций до театра ... ?</answer>
+    <comment></comment>
+    <uuid>6c0c003f-5c38-46b0-aeaa-759141418fdd</uuid>
+  </card>
+  <card>
+    <question>¿Cuántas estaciones hay hasta la calle ... ?</question>
+    <answer>Сколько станций до улицы ... ?</answer>
+    <comment></comment>
+    <uuid>a6217a44-9fd3-4f30-99a5-96910bbf1488</uuid>
+  </card>
+  <card>
+    <question>¿Pasa este autobús por la calle ... ?</question>
+    <answer>Идёт ли этот автобус до улицы ...?</answer>
+    <comment></comment>
+    <uuid>5bd3b34f-9c7f-4710-bf6a-83f9d147ab3b</uuid>
+  </card>
+  <card>
+    <question>¿Pasa este autobús por la plaza ... ?</question>
+    <answer>Идёт ли этот автобус до площади ...?</answer>
+    <comment></comment>
+    <uuid>4e43fa5e-a7f0-494f-a82d-2fd6f6d6bdb0</uuid>
+  </card>
+  <card>
+    <question>¿Pasa este autobús por el museo ... ?</question>
+    <answer>Идёт ли этот автобус до музея ...?</answer>
+    <comment></comment>
+    <uuid>11a0d4a6-e8b3-407a-948a-dc489352387a</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, dígame en qué autobús puedo ir al centro?</question>
+    <answer>Скажите, пожалуйста, каким автобусом я могу доехать до центра?</answer>
+    <comment></comment>
+    <uuid>5027b7c9-575b-48d7-b20d-31f713ed12eb</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, dígame en qué autobús puedo ir al hotel ... ?</question>
+    <answer>Скажите, пожалуйста, каким автобусом я могу доехать до гостиницы ... ?</answer>
+    <comment></comment>
+    <uuid>179d22f3-afda-408d-860b-4037ebc4fba8</uuid>
+  </card>
+  <card>
+    <question>¿Por favor, dígame en qué autobús puedo ir a la estación ... ?</question>
+    <answer>Скажите, пожалуйста, каким автобусом я могу доехать до станции ... ?</answer>
+    <comment></comment>
+    <uuid>7cd9a075-666e-41a2-852b-e98e6c61ae6a</uuid>
+  </card>
+  <card>
+    <question>¿Con qué frecuencia pasa el autobús por aquí?</question>
+    <answer>Как часто здесь ходят автобусы (=ходит автобус)?</answer>
+    <comment></comment>
+    <uuid>1ccf9ca3-2e9a-489e-832a-117e1507f898</uuid>
+  </card>
+  <card>
+    <question>Cada diez minutos.</question>
+    <answer>Через (=каждые) десять минут.</answer>
+    <comment></comment>
+    <uuid>ac5541e5-faa2-4530-a1e7-3dff5abc78c1</uuid>
+  </card>
+  <card>
+    <question>Cada quince minutos.</question>
+    <answer>Через (=каждые) пятнадцать минут.</answer>
+    <comment></comment>
+    <uuid>8b24a92b-59ef-43df-95d2-f94e99669833</uuid>
+  </card>
+  <card>
+    <question>Cada cinco minutos.</question>
+    <answer>Через (=каждые) пять минут.</answer>
+    <comment></comment>
+    <uuid>a17d349d-6b3a-4240-a002-3d8894d2ddbe</uuid>
+  </card>
+  <card>
+    <question>¿En qué dirección debo ir hacia el centro?</question>
+    <answer>В какую сторону (я должен) ехать до центра?</answer>
+    <comment></comment>
+    <uuid>36310ec4-09c0-4de7-a7ab-2fdf56f43747</uuid>
+  </card>
+  <card>
+    <question>¿En qué dirección debo ir hacia la calle ... ?</question>
+    <answer>В какую сторону (я должен) ехать до улицы ... ?</answer>
+    <comment></comment>
+    <uuid>dee016a0-fa88-4195-9235-9cc641ec2a66</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la siguiente parada?</question>
+    <answer>Какая следующая остановка?</answer>
+    <comment></comment>
+    <uuid>c748c1ad-2eb9-46a6-82d1-bfd1332196a4</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la siguiente estación?</question>
+    <answer>Какая следующая станция?</answer>
+    <comment></comment>
+    <uuid>a8f0081a-fa0b-4f04-8a9c-f7df80db1567</uuid>
+  </card>
+  <card>
+    <question>¿Dónde debemos hacer trasbordo?</question>
+    <answer>Где нам нужно сделать пересадку?</answer>
+    <comment></comment>
+    <uuid>3e559ced-a72f-4411-b0b8-0820923838b4</uuid>
+  </card>
+  <card>
+    <question>Ustedes deben hacer trasbordo en la parada ...</question>
+    <answer>Вы (мн.ч.) должны сделать пересадку на остановке ...</answer>
+    <comment></comment>
+    <uuid>7cfe7247-bad2-44ed-aadb-cb3c663b4c46</uuid>
+  </card>
+  <card>
+    <question>Ustedes deben hacer trasbordo en la estación ...</question>
+    <answer>Вы (мн.ч.) должны сделать пересадку на станции ...</answer>
+    <comment></comment>
+    <uuid>2c03ade3-a5c2-40ae-9ef8-0a491ecb9f37</uuid>
+  </card>
+  <card>
+    <question>¿Dónde debo bajarme?</question>
+    <answer>Где мне нужно выйти?</answer>
+    <comment></comment>
+    <uuid>1840ef2c-f00e-4be3-b7ed-6f781b381755</uuid>
+  </card>
+  <card>
+    <question>Por favor, avíseme cuándo debo bajarme.</question>
+    <answer>Предупредите (меня), пожалуйста, когда мне (нужно) выходить.</answer>
+    <comment></comment>
+    <uuid>25a710d3-5f4e-42ac-9968-5878ed56285c</uuid>
+  </card>
+  <card>
+    <question>Debe usted bajarse en la parada siguiente.</question>
+    <answer>Вам (нужно) выходить на следующей остановке. (=остановке следующей)</answer>
+    <comment></comment>
+    <uuid>0877dff7-6df6-48d3-8993-da60d164a8da</uuid>
+  </card>
+  <card>
+    <question>He perdido el billete.</question>
+    <answer>Я потерял билет.</answer>
+    <comment></comment>
+    <uuid>a846d2cb-17e1-43e8-81d4-b909998e7f28</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto debo pagar?</question>
+    <answer>Сколько я должен заплатить?</answer>
+    <comment></comment>
+    <uuid>161fa404-ca61-4c25-aa16-95c22723af5c</uuid>
+  </card>
+  <card>
+    <question>¿Se baja usted en la siguiente?</question>
+    <answer>Вы на следующей выходите?</answer>
+    <comment></comment>
+    <uuid>a00bb808-a750-486a-9449-469148b147f2</uuid>
+  </card>
+  <card>
+    <question>Perdone, permítame pasar.</question>
+    <answer>Извините, разрешите (мне) пройти.</answer>
+    <comment></comment>
+    <uuid>1fd6b356-0995-4012-b42e-f828ae682d41</uuid>
+  </card>
+  <card>
+    <question>Perdone, permítame salir.</question>
+    <answer>Извините, разрешите (мне) выйти.</answer>
+    <comment></comment>
+    <uuid>854f0399-2c8f-439b-bb82-e17a040eeaa0</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se puede comprar un plano del metro?</question>
+    <answer>Где можно купить план метро?</answer>
+    <comment></comment>
+    <uuid>7e50d037-21fd-4afb-85d0-6777897dd52d</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la boca del metro?</question>
+    <answer>Где вход в метро?</answer>
+    <comment></comment>
+    <uuid>abe438ed-ef35-45b4-adbb-1656d1a416c3</uuid>
+  </card>
+  <card>
+    <question>¿Cómo puedo llegar a la estación ... ?</question>
+    <answer>Как (я могу) доехать (llegar) до станции ... ?</answer>
+    <comment></comment>
+    <uuid>367bec28-becf-4d9c-ae47-cf62c2788909</uuid>
+  </card>
+  <card>
+    <question>Debe usted hacer trasbordo a la línea ... en la estación ...</question>
+    <answer>Вам нужно сделать пересадку на ... линию на станции ...</answer>
+    <comment></comment>
+    <uuid>78ff325f-4c3e-4b36-a14e-ef2c398dda5e</uuid>
+  </card>
+  <card>
+    <question>¿Cuál es la siguiente estación?</question>
+    <answer>Какая следующая станция?</answer>
+    <comment></comment>
+    <uuid>dc80317a-0c2e-487d-b9a0-9caf5322e2c4</uuid>
+  </card>
+  <card>
+    <question>La siguiente estación es ...</question>
+    <answer>Следующая станция ...</answer>
+    <comment></comment>
+    <uuid>6c5fd1ee-44cb-4a36-b242-c446701bf360</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la parada de taxi?</question>
+    <answer>Где стоянка такси?</answer>
+    <comment></comment>
+    <uuid>c4d9b07e-2c36-4c75-ba6c-522a331a2b53</uuid>
+  </card>
+  <card>
+    <question>¿Está usted libre?</question>
+    <answer>Вы свободны?</answer>
+    <comment></comment>
+    <uuid>747b2c69-f1e7-4ec1-be56-dbe043b6184c</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, al hotel ...</question>
+    <answer>Отвезите меня, пожалуйста, в гостиницу ...</answer>
+    <comment></comment>
+    <uuid>df87f2b8-12e5-4f0c-9dc4-af63c814d309</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, a la estación ...</question>
+    <answer>Отвезите меня, пожалуйста, на вокзал ...</answer>
+    <comment></comment>
+    <uuid>9b46886f-beed-45c4-8a58-11e87db2a0d4</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, al aeropuerto.</question>
+    <answer>Отвезите меня, пожалуйста, в аэропорт.</answer>
+    <comment></comment>
+    <uuid>6d6c4429-19a6-477d-9243-28dedf4e21aa</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, al centro.</question>
+    <answer>Отвезите меня, пожалуйста, в центр.</answer>
+    <comment></comment>
+    <uuid>43b82ba8-3e99-4d68-afbe-b2f4f3725d90</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, a la calle ...</question>
+    <answer>Отвезите меня, пожалуйста, на улицу ...</answer>
+    <comment></comment>
+    <uuid>9803847f-7590-4b13-b8c7-2453a0403b61</uuid>
+  </card>
+  <card>
+    <question>Lléveme, por favor, a esta dirección.</question>
+    <answer>Отвезите меня, пожалуйста, по этому адресу.</answer>
+    <comment></comment>
+    <uuid>0927b29c-3e76-4d6f-8e63-04c88fad8a15</uuid>
+  </card>
+  <card>
+    <question>Tengo mucha prisa.</question>
+    <answer>Я (очень) тороплюсь.</answer>
+    <comment></comment>
+    <uuid>1bf98c6f-8c9f-4c13-8958-0fe36d18c5d0</uuid>
+  </card>
+  <card>
+    <question>Por favor, espéreme unos minutos.</question>
+    <answer>Подождите меня несколько минут, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>6eefaeca-2a89-4ea3-acfb-f97e12033e64</uuid>
+  </card>
+  <card>
+    <question>Deténgase aquí, por favor.</question>
+    <answer>Остановитесь здесь, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>43d508cc-0902-4bd2-ab63-260a822ab3e0</uuid>
+  </card>
+  <card>
+    <question>¿Cuánto es?</question>
+    <answer>Сколько с меня?</answer>
+    <comment></comment>
+    <uuid>d65753d1-8372-4669-be01-db8983f7e6bd</uuid>
+  </card>
+  <card>
+    <question>Son ... pesetas.</question>
+    <answer>С вас ... песет.</answer>
+    <comment></comment>
+    <uuid>83a72088-5341-46e7-a06f-a40a2f4eefea</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>29bc976e-fbe3-41ab-8aa3-4537287f8235</uuid>
+  <title>Частотный португальский 1</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2015</year>
+     <month>4</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>por</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>de</question>
+    <answer>из (Москвы и т.п.), от (друга и т.п.)</answer>
+    <comment></comment>
+    <uuid>96eb7e3c-dab7-458a-a227-6e2bc36e7642</uuid>
+  </card>
+  <card>
+    <question>a</question>
+    <answer>определенный артикль женского рода</answer>
+    <comment></comment>
+    <uuid>4ca6db37-18ef-4293-a714-103d7dbe67c5</uuid>
+  </card>
+  <card>
+    <question>o</question>
+    <answer>определенный артикль мужского рода</answer>
+    <comment></comment>
+    <uuid>87e3276e-7e33-4f6f-9ee2-522fff36c340</uuid>
+  </card>
+  <card>
+    <question>em</question>
+    <answer>в (внутри)</answer>
+    <comment></comment>
+    <uuid>963267c3-9a37-435c-be83-39a47d4df1a8</uuid>
+  </card>
+  <card>
+    <question>e</question>
+    <answer>и</answer>
+    <comment></comment>
+    <uuid>6b7d0ec8-10ef-487a-8658-2382fedce052</uuid>
+  </card>
+  <card>
+    <question>que</question>
+    <answer>что; который</answer>
+    <comment></comment>
+    <uuid>5dda33ae-421b-4065-8957-8ed505b537f7</uuid>
+  </card>
+  <card>
+    <question>ser</question>
+    <answer>быть</answer>
+    <comment></comment>
+    <uuid>d5925d33-1c9f-468e-b7ec-303a5ed97566</uuid>
+  </card>
+  <card>
+    <question>por</question>
+    <answer>по (шоссе, миру)</answer>
+    <comment></comment>
+    <uuid>92a2d4e8-131d-4e8a-a2fd-0798784769ff</uuid>
+  </card>
+  <card>
+    <question>para</question>
+    <answer>для</answer>
+    <comment></comment>
+    <uuid>c21ad7a5-613b-4591-bc18-2747a274ba4d</uuid>
+  </card>
+  <card>
+    <question>um</question>
+    <answer>один</answer>
+    <comment></comment>
+    <uuid>1192f9e4-2b7d-4189-9e21-d39ba4fd694a</uuid>
+  </card>
+  <card>
+    <question>com</question>
+    <answer>с</answer>
+    <comment></comment>
+    <uuid>f62f15f0-9340-4a6d-b0ad-6740cf2b06a1</uuid>
+  </card>
+  <card>
+    <question>uma</question>
+    <answer>одна</answer>
+    <comment></comment>
+    <uuid>ef9e6081-1f6c-432b-945b-1a156cf3a678</uuid>
+  </card>
+  <card>
+    <question>não</question>
+    <answer>нет, не</answer>
+    <comment></comment>
+    <uuid>851d752c-d1fc-48a8-920b-df54a2a11242</uuid>
+  </card>
+  <card>
+    <question>se</question>
+    <answer>если</answer>
+    <comment></comment>
+    <uuid>ad432b14-a0f2-4987-8030-356c66c2898b</uuid>
+  </card>
+  <card>
+    <question>ter</question>
+    <answer>иметь</answer>
+    <comment></comment>
+    <uuid>86c8ddaf-4267-44bc-8dab-b1ee97dbd3f6</uuid>
+  </card>
+  <card>
+    <question>ir</question>
+    <answer>идти, ехать</answer>
+    <comment></comment>
+    <uuid>bcd35a70-0256-4c8b-a032-ea55a4a266d4</uuid>
+  </card>
+  <card>
+    <question>como</question>
+    <answer>как</answer>
+    <comment></comment>
+    <uuid>1238549d-035f-433b-85f8-95acf69314db</uuid>
+  </card>
+  <card>
+    <question>mais</question>
+    <answer>более</answer>
+    <comment></comment>
+    <uuid>831d5501-e604-4c9e-9078-a3af6ae6ed0b</uuid>
+  </card>
+  <card>
+    <question>ou</question>
+    <answer>или</answer>
+    <comment></comment>
+    <uuid>92d8e961-8edd-4468-a884-62f27f5c3326</uuid>
+  </card>
+  <card>
+    <question>poder</question>
+    <answer>мочь, смочь; уметь</answer>
+    <comment></comment>
+    <uuid>9447ee61-a89e-4ef1-8c78-954ee1a18f2f</uuid>
+  </card>
+  <card>
+    <question>estar</question>
+    <answer>быть, находиться</answer>
+    <comment></comment>
+    <uuid>1c6a8a79-2cf8-401f-9b04-f036e68fbc8f</uuid>
+  </card>
+  <card>
+    <question>sua</question>
+    <answer>твоя, ваша, его, их</answer>
+    <comment></comment>
+    <uuid>5c2e9509-9c22-4438-8af4-eed2b196713a</uuid>
+  </card>
+  <card>
+    <question>seu</question>
+    <answer>твой, ваш, его, их</answer>
+    <comment></comment>
+    <uuid>d488605c-c0d3-479b-a353-ce1c0d7eec06</uuid>
+  </card>
+  <card>
+    <question>fazer</question>
+    <answer>делать</answer>
+    <comment></comment>
+    <uuid>1d9524bb-c594-424f-8bf0-4fbab3971598</uuid>
+  </card>
+  <card>
+    <question>mas</question>
+    <answer>но</answer>
+    <comment></comment>
+    <uuid>f8e6fa39-0965-4d7b-a163-3f51e5f3b454</uuid>
+  </card>
+  <card>
+    <question>todo</question>
+    <answer>весь</answer>
+    <comment></comment>
+    <uuid>4d70465b-6345-42c6-ad23-a345e7c95d72</uuid>
+  </card>
+  <card>
+    <question>outro</question>
+    <answer>другой</answer>
+    <comment></comment>
+    <uuid>feca1dd2-7cec-4fb6-9045-05f2eb5a40e1</uuid>
+  </card>
+  <card>
+    <question>ele</question>
+    <answer>он</answer>
+    <comment></comment>
+    <uuid>73ddb43c-d3cc-4e1a-895f-9383efd8a251</uuid>
+  </card>
+  <card>
+    <question>o ano</question>
+    <answer>год</answer>
+    <comment></comment>
+    <uuid>f7fbed97-e314-4f3c-9ad8-adae07d79668</uuid>
+  </card>
+  <card>
+    <question>sobre</question>
+    <answer>на (столе и т.п.)</answer>
+    <comment></comment>
+    <uuid>0a21d588-3cba-468b-8c04-a4c444141c22</uuid>
+  </card>
+  <card>
+    <question>muito</question>
+    <answer>много; очень</answer>
+    <comment></comment>
+    <uuid>04082b03-6224-41fa-bc2c-b1d8ab2c5f27</uuid>
+  </card>
+  <card>
+    <question>mesmo</question>
+    <answer>тот же</answer>
+    <comment></comment>
+    <uuid>0430b454-d874-4c86-a621-1781e8980d11</uuid>
+  </card>
+  <card>
+    <question>dever</question>
+    <answer>быть должным</answer>
+    <comment></comment>
+    <uuid>bb488f93-b3dc-4c63-bf60-9fcb61a99d11</uuid>
+  </card>
+  <card>
+    <question>haver</question>
+    <answer>иметься</answer>
+    <comment></comment>
+    <uuid>b52b4058-ce42-4a82-a015-4d7febd332a4</uuid>
+  </card>
+  <card>
+    <question>dizer</question>
+    <answer>говорить, сказать</answer>
+    <comment></comment>
+    <uuid>5675eb35-8945-44a6-a826-ededb6c79541</uuid>
+  </card>
+  <card>
+    <question>entre</question>
+    <answer>между</answer>
+    <comment></comment>
+    <uuid>79f0a8b7-cc51-48ba-a95c-d7fba660b940</uuid>
+  </card>
+  <card>
+    <question>ver</question>
+    <answer>видеть</answer>
+    <comment></comment>
+    <uuid>b47a080a-a924-471a-bb4d-12de025335bf</uuid>
+  </card>
+  <card>
+    <question>eu</question>
+    <answer>я</answer>
+    <comment></comment>
+    <uuid>a977e708-6fdb-43a6-92a3-cfc6e919f3e2</uuid>
+  </card>
+  <card>
+    <question>o dia</question>
+    <answer>день</answer>
+    <comment></comment>
+    <uuid>e787ba48-60e6-4a80-ace3-32472889717d</uuid>
+  </card>
+  <card>
+    <question>quando</question>
+    <answer>когда</answer>
+    <comment></comment>
+    <uuid>3920d27a-fb7b-4e11-9424-17e5fc6ec8ea</uuid>
+  </card>
+  <card>
+    <question>este</question>
+    <answer>этот</answer>
+    <comment></comment>
+    <uuid>89465ec5-d163-4e57-a510-71a4799c612d</uuid>
+  </card>
+  <card>
+    <question>novo</question>
+    <answer>новый</answer>
+    <comment></comment>
+    <uuid>166bea0a-ca86-41d8-9a8e-606c9e4567d7</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>2bb171dd-507e-476c-a3ce-005ac829df7a</uuid>
+  </card>
+  <card>
+    <question>já</question>
+    <answer>уже</answer>
+    <comment></comment>
+    <uuid>2cc1a435-03af-43a3-b6c6-c95f7c1b7812</uuid>
+  </card>
+  <card>
+    <question>também</question>
+    <answer>также</answer>
+    <comment></comment>
+    <uuid>53946fa6-0e89-4a79-93b2-c944aed4b8a5</uuid>
+  </card>
+  <card>
+    <question>ainda</question>
+    <answer>все еще, до сих пор</answer>
+    <comment></comment>
+    <uuid>0c256a20-f716-4340-84be-faca7ef28215</uuid>
+  </card>
+  <card>
+    <question>esta</question>
+    <answer>эта</answer>
+    <comment></comment>
+    <uuid>e23047c8-b91f-4caf-af37-116a06b1a320</uuid>
+  </card>
+  <card>
+    <question>sem</question>
+    <answer>без</answer>
+    <comment></comment>
+    <uuid>d670289c-6368-41fc-80c4-d4bbb486ae55</uuid>
+  </card>
+  <card>
+    <question>a pessoa</question>
+    <answer>человек</answer>
+    <comment></comment>
+    <uuid>835c9834-c5c2-4347-8cfc-c8af50a85207</uuid>
+  </card>
+  <card>
+    <question>a vez</question>
+    <answer>раз</answer>
+    <comment></comment>
+    <uuid>e27c2ec0-7d91-4463-8c14-3c402177b4f5</uuid>
+  </card>
+  <card>
+    <question>primeiro</question>
+    <answer>первый</answer>
+    <comment></comment>
+    <uuid>7b5d9448-14dc-48f0-b3fa-e87af479b3ae</uuid>
+  </card>
+  <card>
+    <question>isso</question>
+    <answer>этот, тот</answer>
+    <comment></comment>
+    <uuid>1d500a82-e222-4f1c-8e1b-9229240a9ca4</uuid>
+  </card>
+  <card>
+    <question>bem</question>
+    <answer>хорошо</answer>
+    <comment></comment>
+    <uuid>0809e4bc-eddc-4d24-aa3e-f78030e0b9e5</uuid>
+  </card>
+  <card>
+    <question>dois</question>
+    <answer>два</answer>
+    <comment></comment>
+    <uuid>2d09a9f1-5fd4-4a75-8489-d205e258585a</uuid>
+  </card>
+  <card>
+    <question>o trabalho</question>
+    <answer>работа</answer>
+    <comment></comment>
+    <uuid>96af6a7a-e9f0-4333-bcdf-d929972261ae</uuid>
+  </card>
+  <card>
+    <question>saber</question>
+    <answer>знать</answer>
+    <comment></comment>
+    <uuid>4c55d4d7-1421-44cf-97d8-b5d36f5b2677</uuid>
+  </card>
+  <card>
+    <question>a forma</question>
+    <answer>форма</answer>
+    <comment></comment>
+    <uuid>806bb98a-0e5d-4d98-8801-00153557c27d</uuid>
+  </card>
+  <card>
+    <question>o tempo</question>
+    <answer>1. время 2. погода</answer>
+    <comment></comment>
+    <uuid>e918aaad-7989-4a77-b569-47b635185a96</uuid>
+  </card>
+  <card>
+    <question>grande</question>
+    <answer>большой</answer>
+    <comment></comment>
+    <uuid>01579260-d6a8-42ab-8b19-7cbef293c111</uuid>
+  </card>
+  <card>
+    <question>a parte</question>
+    <answer>часть</answer>
+    <comment></comment>
+    <uuid>670bf596-a1a2-42bc-869d-2f5d2ec5d82c</uuid>
+  </card>
+  <card>
+    <question>querer</question>
+    <answer>хотеть</answer>
+    <comment></comment>
+    <uuid>cf995415-a086-4952-9258-18244e5b7655</uuid>
+  </card>
+  <card>
+    <question>até</question>
+    <answer>до (утра), до (Москвы)</answer>
+    <comment></comment>
+    <uuid>a31e410b-1e74-4f77-8797-3a9afc9ee2d9</uuid>
+  </card>
+  <card>
+    <question>ficar</question>
+    <answer>оставаться</answer>
+    <comment></comment>
+    <uuid>fcbde3b4-5e1b-4c3f-b5ce-dca26d70224b</uuid>
+  </card>
+  <card>
+    <question>direito</question>
+    <answer>правый</answer>
+    <comment></comment>
+    <uuid>d893862e-6d35-4247-ac3b-62a9a84a2287</uuid>
+  </card>
+  <card>
+    <question>o caso</question>
+    <answer>случай</answer>
+    <comment></comment>
+    <uuid>87f7c650-134e-4f64-b3b0-6f68ef5c9453</uuid>
+  </card>
+  <card>
+    <question>assim</question>
+    <answer>так, таким образом</answer>
+    <comment></comment>
+    <uuid>717ecc29-aeab-4323-9945-f5d472caa3d1</uuid>
+  </card>
+  <card>
+    <question>qual</question>
+    <answer>который, какой</answer>
+    <comment></comment>
+    <uuid>c875edae-8a90-4f94-8a01-5b56ae0bbc0e</uuid>
+  </card>
+  <card>
+    <question>essa</question>
+    <answer>та</answer>
+    <comment></comment>
+    <uuid>098b69e0-5993-4edd-b1b2-913a9fa6d9c4</uuid>
+  </card>
+  <card>
+    <question>esse</question>
+    <answer>тот</answer>
+    <comment></comment>
+    <uuid>6362547a-8716-45ba-b177-d9259affe7aa</uuid>
+  </card>
+  <card>
+    <question>ela</question>
+    <answer>она</answer>
+    <comment></comment>
+    <uuid>ba9cf5d9-43dd-4f6d-813a-6489b86e94a8</uuid>
+  </card>
+  <card>
+    <question>porque</question>
+    <answer>потому что</answer>
+    <comment></comment>
+    <uuid>8310037b-9795-4188-abe3-614e7ccbc7c8</uuid>
+  </card>
+  <card>
+    <question>só</question>
+    <answer>только</answer>
+    <comment></comment>
+    <uuid>7cd60cd9-aebb-4cf3-940c-551341a7358b</uuid>
+  </card>
+  <card>
+    <question>cada</question>
+    <answer>каждый</answer>
+    <comment></comment>
+    <uuid>a407863e-4293-4c78-bbd5-d91917396c9a</uuid>
+  </card>
+  <card>
+    <question>qualquer</question>
+    <answer>любой</answer>
+    <comment></comment>
+    <uuid>0d052ec3-311a-4ed8-b4d7-c88d61a19e16</uuid>
+  </card>
+  <card>
+    <question>a vida</question>
+    <answer>жизнь</answer>
+    <comment></comment>
+    <uuid>f5d312a9-2524-4581-8c83-9ae079a71fc3</uuid>
+  </card>
+  <card>
+    <question>me</question>
+    <answer>меня</answer>
+    <comment></comment>
+    <uuid>996abbc5-f711-43c8-825c-69813004625e</uuid>
+  </card>
+  <card>
+    <question>o estado</question>
+    <answer>1. государство 2. состояние (здоровья и т.п.)</answer>
+    <comment></comment>
+    <uuid>a2f4813c-0ef5-4cb9-9709-e8ef15028da6</uuid>
+  </card>
+  <card>
+    <question>onde</question>
+    <answer>где</answer>
+    <comment></comment>
+    <uuid>22f31185-0cf9-4d17-8457-18da5a42c283</uuid>
+  </card>
+  <card>
+    <question>o país</question>
+    <answer>страна</answer>
+    <comment></comment>
+    <uuid>7148c290-ddcb-4e1b-bbde-9f1c0ddc6883</uuid>
+  </card>
+  <card>
+    <question>o artigo</question>
+    <answer>статья</answer>
+    <comment></comment>
+    <uuid>ba079051-a26e-4082-904e-12ff56527ceb</uuid>
+  </card>
+  <card>
+    <question>social</question>
+    <answer>социальный</answer>
+    <comment></comment>
+    <uuid>92b53fbd-4cff-45dc-a909-2ceed54a1ee0</uuid>
+  </card>
+  <card>
+    <question>o mundo</question>
+    <answer>мир, свет</answer>
+    <comment></comment>
+    <uuid>811a1db4-fafd-4827-b49e-c95310ad4035</uuid>
+  </card>
+  <card>
+    <question>passar</question>
+    <answer>проходить, проезжать</answer>
+    <comment></comment>
+    <uuid>93087b5c-e21f-4388-9094-b58c14d98d8a</uuid>
+  </card>
+  <card>
+    <question>o governo</question>
+    <answer>правительство</answer>
+    <comment></comment>
+    <uuid>35ce43b0-6e9c-405e-85a2-56a58e2e88ce</uuid>
+  </card>
+  <card>
+    <question>público</question>
+    <answer>общественный</answer>
+    <comment></comment>
+    <uuid>5e1c305d-930f-446e-b401-77f3b33cf56e</uuid>
+  </card>
+  <card>
+    <question>segundo</question>
+    <answer>второй</answer>
+    <comment></comment>
+    <uuid>c10008b0-0b6a-448e-b20f-844f93081af9</uuid>
+  </card>
+  <card>
+    <question>sempre</question>
+    <answer>всегда</answer>
+    <comment></comment>
+    <uuid>d033b24f-b1ce-4e44-a5be-7de3142f4621</uuid>
+  </card>
+  <card>
+    <question>algum</question>
+    <answer>какой-нибудь</answer>
+    <comment></comment>
+    <uuid>c63fb5ac-a6e7-44f2-9f61-35ca2856abf4</uuid>
+  </card>
+  <card>
+    <question>depois</question>
+    <answer>потом, после</answer>
+    <comment></comment>
+    <uuid>bae4c284-bbd1-4e9d-8173-5276bcdf91b7</uuid>
+  </card>
+  <card>
+    <question>nacional</question>
+    <answer>национальный</answer>
+    <comment></comment>
+    <uuid>c81eef12-d82b-4194-8284-1dfd0e4c5984</uuid>
+  </card>
+  <card>
+    <question>bom</question>
+    <answer>хороший</answer>
+    <comment></comment>
+    <uuid>64907118-bcc3-4787-b237-ae15b0254536</uuid>
+  </card>
+  <card>
+    <question>você</question>
+    <answer>ты, вы (ед. число) (в Бразилии)</answer>
+    <comment></comment>
+    <uuid>95dd4aaa-ccf7-4d4b-b174-a7eba1ceb38b</uuid>
+  </card>
+  <card>
+    <question>apenas</question>
+    <answer>только, лишь</answer>
+    <comment></comment>
+    <uuid>e54f8367-7cf5-4b69-8462-a6cbdbb27db0</uuid>
+  </card>
+  <card>
+    <question>maior</question>
+    <answer>больший (сравнит. степень от &quot;большой&quot;)</answer>
+    <comment></comment>
+    <uuid>ccdd086c-fd31-4221-b0d3-a98b011c3674</uuid>
+  </card>
+  <card>
+    <question>o sistema</question>
+    <answer>система</answer>
+    <comment></comment>
+    <uuid>d79a6b30-6c0c-473f-8845-5a0372548b39</uuid>
+  </card>
+  <card>
+    <question>o processo</question>
+    <answer>процесс</answer>
+    <comment></comment>
+    <uuid>b3fb2e47-6865-409e-821a-7e1621fdc13a</uuid>
+  </card>
+  <card>
+    <question>quem</question>
+    <answer>кто, кого</answer>
+    <comment></comment>
+    <uuid>3959f297-5390-4415-a17a-f34c2f14e8bb</uuid>
+  </card>
+  <card>
+    <question>a empresa</question>
+    <answer>компания, фирма</answer>
+    <comment></comment>
+    <uuid>5e6235bc-81dc-4f2a-9475-93a04aa3ef9f</uuid>
+  </card>
+  <card>
+    <question>Brasil</question>
+    <answer>Бразилия</answer>
+    <comment></comment>
+    <uuid>250582b9-8937-4023-aba8-28aa5fbfac8b</uuid>
+  </card>
+  <card>
+    <question>a coisa</question>
+    <answer>вещь</answer>
+    <comment></comment>
+    <uuid>8070db45-6741-46d8-8cb8-5a06f9e02710</uuid>
+  </card>
+</cards>
+</stack>

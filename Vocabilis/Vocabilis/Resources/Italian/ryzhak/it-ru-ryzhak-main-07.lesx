@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>88c70311-f009-4bd0-b495-a90615e4036f</uuid>
+  <title>Рыжак. Основной урок 7</title>
+  <author>Екатерина Андреева</author>
+  <date>
+     <year>2016</year>
+     <month>10</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>ita</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>sapere</question>
+    <answer>знать, уметь</answer>
+    <comment></comment>
+    <uuid>10f3ef7b-736d-43b2-aacb-9d817e802e10</uuid>
+  </card>
+  <card>
+    <question>so</question>
+    <answer>я знаю</answer>
+    <comment></comment>
+    <uuid>63e9d3ee-e989-43b2-ba38-51ee232ee843</uuid>
+  </card>
+  <card>
+    <question>sai</question>
+    <answer>ты знаешь</answer>
+    <comment></comment>
+    <uuid>477b201f-3a64-4462-9ce0-f2fdf0a95f14</uuid>
+  </card>
+  <card>
+    <question>sa</question>
+    <answer>он, она знает, Вы знаете</answer>
+    <comment></comment>
+    <uuid>9797115f-dd53-4b04-9f81-41299847c0eb</uuid>
+  </card>
+  <card>
+    <question>sappiamo</question>
+    <answer>мы знаем</answer>
+    <comment></comment>
+    <uuid>2519bf88-8cd4-4c56-b2dc-6526eb24dfe4</uuid>
+  </card>
+  <card>
+    <question>sapete</question>
+    <answer>вы знаете</answer>
+    <comment></comment>
+    <uuid>5e24b1ff-4be4-4aa1-8d1e-02e7f825f534</uuid>
+  </card>
+  <card>
+    <question>sanno</question>
+    <answer>они знают</answer>
+    <comment></comment>
+    <uuid>6a0d0392-f07c-4701-a026-5bc49a0d6dc6</uuid>
+  </card>
+  <card>
+    <question>conòscere</question>
+    <answer>знать кого-либо, что-либо</answer>
+    <comment></comment>
+    <uuid>3477b1f0-5d76-43c6-b392-3fcde737309b</uuid>
+  </card>
+  <card>
+    <question>conosco</question>
+    <answer>я знаю</answer>
+    <comment></comment>
+    <uuid>255a521d-4022-4aa4-8c1a-bb0b814ffafa</uuid>
+  </card>
+  <card>
+    <question>conosci</question>
+    <answer>ты знаешь</answer>
+    <comment></comment>
+    <uuid>09b4baa5-2d04-4c97-9662-8f82135b086e</uuid>
+  </card>
+  <card>
+    <question>conosce</question>
+    <answer>он, она знает, Вы знаете</answer>
+    <comment></comment>
+    <uuid>ebeecf5e-e242-467b-bc61-254932f9907e</uuid>
+  </card>
+  <card>
+    <question>conosciamo</question>
+    <answer>мы знаем</answer>
+    <comment></comment>
+    <uuid>9bcf53be-555d-4bda-8b2c-20ba65034bf1</uuid>
+  </card>
+  <card>
+    <question>conoscete</question>
+    <answer>вы знаете</answer>
+    <comment></comment>
+    <uuid>8a17474f-cf09-45bd-a19c-839e7ea35355</uuid>
+  </card>
+  <card>
+    <question>conòscono</question>
+    <answer>они знают</answer>
+    <comment></comment>
+    <uuid>9d899b02-afb2-49e6-9513-dc62bf413573</uuid>
+  </card>
+  <card>
+    <question>bisogna</question>
+    <answer>нужно</answer>
+    <comment></comment>
+    <uuid>3314ee4d-0c08-4468-a19f-058dceeebac1</uuid>
+  </card>
+  <card>
+    <question>dispiace</question>
+    <answer>жаль</answer>
+    <comment></comment>
+    <uuid>87a8a248-0e78-432d-b83b-29548ba6dcc3</uuid>
+  </card>
+  <card>
+    <question>occorre</question>
+    <answer>нужно</answer>
+    <comment></comment>
+    <uuid>aaa4837e-5c7c-4569-a66b-8c291bbca7e9</uuid>
+  </card>
+  <card>
+    <question>succede</question>
+    <answer>бывает, случается</answer>
+    <comment></comment>
+    <uuid>72c6caa7-54b8-41b2-9ca7-578db299f512</uuid>
+  </card>
+  <card>
+    <question>piove</question>
+    <answer>идёт дождь</answer>
+    <comment></comment>
+    <uuid>3d462cb8-4bd4-46b9-8c81-219c40a8f361</uuid>
+  </card>
+  <card>
+    <question>nèvica</question>
+    <answer>идёт снег</answer>
+    <comment></comment>
+    <uuid>9d7559b0-293a-4697-8193-cf6b54a5cf61</uuid>
+  </card>
+  <card>
+    <question>la pioggia</question>
+    <answer>дождь</answer>
+    <comment></comment>
+    <uuid>a6d4d974-3cd5-4c8f-b2ac-77a1f6ea461f</uuid>
+  </card>
+  <card>
+    <question>la neve</question>
+    <answer>снег</answer>
+    <comment></comment>
+    <uuid>26d9483f-b1ac-4fed-ae45-084cde22a9ce</uuid>
+  </card>
+  <card>
+    <question>fa freddo</question>
+    <answer>холодно</answer>
+    <comment></comment>
+    <uuid>9fa75ee2-d128-4166-9df8-ae988fe63cdc</uuid>
+  </card>
+  <card>
+    <question>fa caldo</question>
+    <answer>жарко</answer>
+    <comment></comment>
+    <uuid>8da18ec7-b9b7-48dc-bc0f-f1f71b176695</uuid>
+  </card>
+  <card>
+    <question>Fa bel tempo.</question>
+    <answer>Погода хорошая.</answer>
+    <comment></comment>
+    <uuid>a58e403e-e212-4263-814a-f6b5ed21f910</uuid>
+  </card>
+  <card>
+    <question>Fa brutto tempo.</question>
+    <answer>Погода плохая.</answer>
+    <comment></comment>
+    <uuid>b7b235ba-3677-4b9f-b294-781851f1c1f5</uuid>
+  </card>
+  <card>
+    <question>quest&apos;anno</question>
+    <answer>в этом году</answer>
+    <comment></comment>
+    <uuid>1b41e26f-9785-458c-88ed-c0e085d401a2</uuid>
+  </card>
+  <card>
+    <question>tornare</question>
+    <answer>возвращаться</answer>
+    <comment></comment>
+    <uuid>d430f88f-20b6-41a7-ada1-7e3cbcda2164</uuid>
+  </card>
+  <card>
+    <question>dopo</question>
+    <answer>после</answer>
+    <comment></comment>
+    <uuid>492fc25a-fde9-4b8d-b6ce-7e311008d8fe</uuid>
+  </card>
+  <card>
+    <question>vacanze</question>
+    <answer>каникулы</answer>
+    <comment></comment>
+    <question_comment>f, pl</question_comment>
+    <uuid>60d1f84b-90ff-4684-893b-e55fdc79bb90</uuid>
+  </card>
+  <card>
+    <question>insegnante</question>
+    <answer>учитель</answer>
+    <comment></comment>
+    <question_comment>m, f</question_comment>
+    <uuid>ee7584a9-c60e-4594-9bf7-85cb4ad90c3c</uuid>
+  </card>
+  <card>
+    <question>benvenuti</question>
+    <answer>добро пожаловать</answer>
+    <comment></comment>
+    <uuid>a0f4780c-f3b0-47b9-a09b-da9a08bcd4a5</uuid>
+  </card>
+  <card>
+    <question>sòlido</question>
+    <answer>обычный</answer>
+    <comment></comment>
+    <uuid>7c60dfbd-2995-46a4-a4f7-d33b8945d88b</uuid>
+  </card>
+  <card>
+    <question>coro</question>
+    <answer>хор</answer>
+    <comment></comment>
+    <uuid>448f88b3-939d-4873-9722-a44f6beeb842</uuid>
+  </card>
+  <card>
+    <question>quanti ne abbiamo oggi</question>
+    <answer>какое сегодня число</answer>
+    <comment></comment>
+    <uuid>44609832-7f5b-47e4-84c8-dd2691cdb176</uuid>
+  </card>
+  <card>
+    <question>chiedere</question>
+    <answer>спрашивать</answer>
+    <comment></comment>
+    <uuid>f17937a9-3b7e-4a0f-9734-ae7a152b662b</uuid>
+  </card>
+  <card>
+    <question>risposta</question>
+    <answer>ответ</answer>
+    <comment></comment>
+    <uuid>38858a0c-6866-494a-9ddf-7dc957b4a0e0</uuid>
+  </card>
+  <card>
+    <question>sospirare</question>
+    <answer>вздыхать</answer>
+    <comment></comment>
+    <uuid>e4cd7ead-6345-4bbe-a35f-a53d57a95a15</uuid>
+  </card>
+  <card>
+    <question>breve</question>
+    <answer>короткий</answer>
+    <comment></comment>
+    <uuid>7dd7dbcb-d762-4bc2-94f9-b1114727435c</uuid>
+  </card>
+  <card>
+    <question>fare i bagni</question>
+    <answer>купаться</answer>
+    <comment></comment>
+    <uuid>98f26231-cd53-4f45-b90c-7dd2aa2e81f6</uuid>
+  </card>
+  <card>
+    <question>prèndere il sole</question>
+    <answer>загорать</answer>
+    <comment></comment>
+    <uuid>6a860e04-c013-44f9-8e22-fff12c38618f</uuid>
+  </card>
+  <card>
+    <question>giocare</question>
+    <answer>играть</answer>
+    <comment></comment>
+    <uuid>cd97498a-787a-40a2-8f19-b68521a76812</uuid>
+  </card>
+  <card>
+    <question>giocare al pallone</question>
+    <answer>играть в футбол</answer>
+    <comment></comment>
+    <uuid>8febbc65-4cd1-4c84-828d-d7866fe482e5</uuid>
+  </card>
+  <card>
+    <question>mese</question>
+    <answer>месяц</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>cec09355-5a06-450f-860f-1609712ab726</uuid>
+  </card>
+  <card>
+    <question>durare</question>
+    <answer>длиться</answer>
+    <comment></comment>
+    <uuid>91b3617e-5f3a-47c1-85b9-92cec29802ab</uuid>
+  </card>
+  <card>
+    <question>giusto</question>
+    <answer>правильный</answer>
+    <comment></comment>
+    <uuid>e520c186-0611-4d11-bb5f-212c1bf88d24</uuid>
+  </card>
+  <card>
+    <question>entro il quale</question>
+    <answer>в течение которого</answer>
+    <comment></comment>
+    <uuid>f603a4c4-488b-4f25-b5ff-8b864f6540b5</uuid>
+  </card>
+  <card>
+    <question>giro</question>
+    <answer>оборот, круг</answer>
+    <comment></comment>
+    <uuid>b230d277-d327-4d9e-888f-217621e36801</uuid>
+  </card>
+  <card>
+    <question>stagione</question>
+    <answer>сезон, время года</answer>
+    <comment></comment>
+    <question_comment>f</question_comment>
+    <uuid>d20701f9-8e48-4cd8-8bc4-04c0e675ca21</uuid>
+  </card>
+  <card>
+    <question>sicuramente</question>
+    <answer>конечно</answer>
+    <comment></comment>
+    <uuid>16285161-c7d1-4770-8ba3-f867ab459832</uuid>
+  </card>
+  <card>
+    <question>festeggiare</question>
+    <answer>праздновать</answer>
+    <comment></comment>
+    <uuid>bdc29438-52bd-41b3-8b7d-26c90bce7800</uuid>
+  </card>
+  <card>
+    <question>Capodanno</question>
+    <answer>Новый год</answer>
+    <comment></comment>
+    <uuid>d85b47f2-a844-4cd1-aab3-28aecb8cb5fc</uuid>
+  </card>
+  <card>
+    <question>clima</question>
+    <answer>климат</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>5f22bce6-83c3-4a68-9b9f-c69fca712478</uuid>
+  </card>
+  <card>
+    <question>mite</question>
+    <answer>мягкий (о климате, о характере)</answer>
+    <comment></comment>
+    <uuid>1bb139b5-f227-44eb-9014-365d84b44a65</uuid>
+  </card>
+  <card>
+    <question>vento</question>
+    <answer>ветер</answer>
+    <comment></comment>
+    <uuid>234de0e9-f5f3-40a3-831f-da400d25aa46</uuid>
+  </card>
+  <card>
+    <question>comùnque</question>
+    <answer>тем не менее</answer>
+    <comment></comment>
+    <uuid>68f377e9-e5f8-4acc-b8c7-36ed8472235a</uuid>
+  </card>
+  <card>
+    <question>qualche volta</question>
+    <answer>иногда</answer>
+    <comment></comment>
+    <uuid>dc790130-9cb8-4ff9-bf5f-e5ba7ccc1fab</uuid>
+  </card>
+  <card>
+    <question>estate</question>
+    <answer>лето</answer>
+    <comment></comment>
+    <question_comment>f</question_comment>
+    <uuid>95dfb5c8-5d64-432a-bc3c-094af5260829</uuid>
+  </card>
+  <card>
+    <question>autunno</question>
+    <answer>осень</answer>
+    <comment></comment>
+    <uuid>41a4340a-393e-46fd-8340-1a7c4bffb640</uuid>
+  </card>
+  <card>
+    <question>primavera</question>
+    <answer>весна</answer>
+    <comment></comment>
+    <uuid>269ca2c2-cf29-4319-b534-dc49924ee138</uuid>
+  </card>
+  <card>
+    <question>inverno</question>
+    <answer>зима</answer>
+    <comment></comment>
+    <uuid>773e6df5-0c45-4efd-b775-2c614ee4af51</uuid>
+  </card>
+  <card>
+    <question>gennàio</question>
+    <answer>январь</answer>
+    <comment></comment>
+    <uuid>5b741011-c7a3-4c14-9433-5ffb93e8446a</uuid>
+  </card>
+  <card>
+    <question>febbràio</question>
+    <answer>февраль</answer>
+    <comment></comment>
+    <uuid>8f6de4e5-c991-4421-9fb5-833bf8c0e57a</uuid>
+  </card>
+  <card>
+    <question>marzo</question>
+    <answer>март</answer>
+    <comment></comment>
+    <uuid>3f184938-da18-4081-8b7f-1b3f00c7c63e</uuid>
+  </card>
+  <card>
+    <question>aprile</question>
+    <answer>апрель</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>301d59bb-823d-4de5-92ac-b55d7eb5819e</uuid>
+  </card>
+  <card>
+    <question>màggio</question>
+    <answer>май</answer>
+    <comment></comment>
+    <uuid>57dec96f-e1b7-4d74-ac8b-4f614f9d1910</uuid>
+  </card>
+  <card>
+    <question>giugno</question>
+    <answer>июнь</answer>
+    <comment></comment>
+    <uuid>c75f1214-cbc8-4bc2-a2b3-02c97fdae54c</uuid>
+  </card>
+  <card>
+    <question>luglio</question>
+    <answer>июль</answer>
+    <comment></comment>
+    <uuid>9ea9b5c4-7363-4bfc-aa2d-28151f2914f8</uuid>
+  </card>
+  <card>
+    <question>agosto</question>
+    <answer>август</answer>
+    <comment></comment>
+    <uuid>5d53b318-4616-4efc-8e2f-a69f55c8f445</uuid>
+  </card>
+  <card>
+    <question>settembre</question>
+    <answer>сентябрь</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>c62b0670-ddd7-432b-a759-dce241c4852d</uuid>
+  </card>
+  <card>
+    <question>ottobre</question>
+    <answer>октябрь</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>e0b43c4e-1492-40a0-8164-e3bc1bbf9522</uuid>
+  </card>
+  <card>
+    <question>novembre</question>
+    <answer>ноябрь</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>c8ef0ba1-05a8-41e4-a5cf-5d53fd72c5c8</uuid>
+  </card>
+  <card>
+    <question>dicembre</question>
+    <answer>декабрь</answer>
+    <comment></comment>
+    <question_comment>m</question_comment>
+    <uuid>094c9055-e829-4fa4-aaa9-5728a9a34571</uuid>
+  </card>
+  <card>
+    <question>invernale</question>
+    <answer>зимний</answer>
+    <comment></comment>
+    <uuid>9508d4ee-b99b-4938-8866-a9e530131dc1</uuid>
+  </card>
+  <card>
+    <question>primaverile</question>
+    <answer>весна</answer>
+    <comment></comment>
+    <uuid>34165b5a-08cc-453e-abd9-5abebd17b9e4</uuid>
+  </card>
+  <card>
+    <question>autunnale</question>
+    <answer>осенний</answer>
+    <comment></comment>
+    <uuid>672cfbd0-85b6-4ce3-926d-5d379031a301</uuid>
+  </card>
+  <card>
+    <question>estivo</question>
+    <answer>летний</answer>
+    <comment></comment>
+    <uuid>b7411bed-849e-4f50-88ee-f7d9fac2b282</uuid>
+  </card>
+  <card>
+    <question>Che giorno è oggi?</question>
+    <answer>Какой сегодня день недели.</answer>
+    <comment></comment>
+    <uuid>17318da6-7d44-4470-8d86-c1780393269f</uuid>
+  </card>
+  <card>
+    <question>Oggi è sabato.</question>
+    <answer>Сегодня суббота.</answer>
+    <comment></comment>
+    <uuid>65a7379f-0b21-49d2-b7ba-0fa9acad49ec</uuid>
+  </card>
+  <card>
+    <question>stesso</question>
+    <answer>такой же, тот же самый</answer>
+    <comment></comment>
+    <uuid>24a352bb-1410-4a87-b147-9db5c9a21e90</uuid>
+  </card>
+  <card>
+    <question>lo stesso</question>
+    <answer>все равно</answer>
+    <comment></comment>
+    <uuid>833eca00-eea5-408a-8503-31a5f4ae68d7</uuid>
+  </card>
+  <card>
+    <question>scuola</question>
+    <answer>школа</answer>
+    <comment></comment>
+    <uuid>b457eec9-0cb7-4e74-b848-8b4904cca7f9</uuid>
+  </card>
+  <card>
+    <question>insegnare</question>
+    <answer>преподавать</answer>
+    <comment></comment>
+    <uuid>78cd5bba-5780-425e-a41c-4b6d504135da</uuid>
+  </card>
+  <card>
+    <question>vita</question>
+    <answer>жизнь</answer>
+    <comment></comment>
+    <uuid>b5606dc0-479f-40eb-8906-0d7ec42fa044</uuid>
+  </card>
+  <card>
+    <question>possìbile</question>
+    <answer>возможно</answer>
+    <comment></comment>
+    <uuid>a6290ea7-037a-4d00-bfbf-b9498f12d6d1</uuid>
+  </card>
+  <card>
+    <question>fare amicìzia</question>
+    <answer>дружить</answer>
+    <comment></comment>
+    <uuid>e0552ea5-31e6-4e43-b8b6-fdb7e70ae41a</uuid>
+  </card>
+</cards>
+</stack>

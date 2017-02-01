@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7df69592-4e5f-47de-bbbd-d851af368434</uuid>
+  <title>Производство</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>automatisch</question>
+    <answer>автоматический</answer>
+    <comment></comment>
+    <uuid>9d33d19a-2a05-4ebb-9cee-b8ab61e87ca9</uuid>
+  </card>
+  <card>
+    <question>das Fabrikgebäude</question>
+    <answer>здание фабрики</answer>
+    <comment></comment>
+    <uuid>e76e8482-b20f-4ca6-9699-0a29b6373f07</uuid>
+  </card>
+  <card>
+    <question>das Fließband</question>
+    <answer>конвейер</answer>
+    <comment></comment>
+    <uuid>3b3e8b26-4c86-468b-bbd2-88ee297d8645</uuid>
+  </card>
+  <card>
+    <question>das Produkt</question>
+    <answer>продукт</answer>
+    <comment></comment>
+    <uuid>6dede437-bcd9-49d2-9055-8a1a04e99093</uuid>
+  </card>
+  <card>
+    <question>das Werkstück</question>
+    <answer>обрабатываемая деталь</answer>
+    <comment></comment>
+    <uuid>4fd3614a-24d2-405f-bf50-27ddfe7ad54e</uuid>
+  </card>
+  <card>
+    <question>das Werkzeug</question>
+    <answer>инструмент</answer>
+    <comment></comment>
+    <uuid>e0e87212-94ff-418b-bbb0-8026f89e5bf3</uuid>
+  </card>
+  <card>
+    <question>der Bohrer</question>
+    <answer>дрель</answer>
+    <comment></comment>
+    <uuid>d7ad8dcf-1bcc-43a6-a5f1-629035ac0cd8</uuid>
+  </card>
+  <card>
+    <question>der Gabelstapler</question>
+    <answer>вилочный погрузчик</answer>
+    <comment></comment>
+    <uuid>b1ba9459-6714-4f6a-86be-683d1cc85c00</uuid>
+  </card>
+  <card>
+    <question>der Hammer</question>
+    <answer>молоток</answer>
+    <comment></comment>
+    <uuid>402adbb5-602b-4654-ac3a-f72ceaa62f7c</uuid>
+  </card>
+  <card>
+    <question>der Hobel</question>
+    <answer>рубанок</answer>
+    <comment></comment>
+    <uuid>2b299919-a8be-4262-9283-5f371a1bb60d</uuid>
+  </card>
+  <card>
+    <question>der Pinsel</question>
+    <answer>кисть, кисточка</answer>
+    <comment></comment>
+    <uuid>05153b01-507a-4e82-96b0-bcb0ee923a2f</uuid>
+  </card>
+  <card>
+    <question>der Schraubenschlüssel</question>
+    <answer>гаечный ключ</answer>
+    <comment></comment>
+    <uuid>2dcc567e-10dc-4160-9d9f-497a2e6b6b6c</uuid>
+  </card>
+  <card>
+    <question>der Schraubenzieher</question>
+    <answer>отвертка</answer>
+    <comment></comment>
+    <uuid>ee025f73-31d0-4cf7-a3b9-1e9746171be7</uuid>
+  </card>
+  <card>
+    <question>die Akkordarbeit</question>
+    <answer>сдельная работа</answer>
+    <comment></comment>
+    <uuid>5949766f-bf98-4bd3-9781-dad9c620b7ee</uuid>
+  </card>
+  <card>
+    <question>die Automatisierung</question>
+    <answer>автоматизация</answer>
+    <comment></comment>
+    <uuid>1afe2055-9de1-4934-93c0-ffd67c994073</uuid>
+  </card>
+  <card>
+    <question>die Bedienungskraft</question>
+    <answer>оператор у станка</answer>
+    <comment></comment>
+    <uuid>beb99eb2-d155-486d-84d2-5ad8b05ced16</uuid>
+  </card>
+  <card>
+    <question>die Bohrmaschine</question>
+    <answer>сверлильный станок</answer>
+    <comment></comment>
+    <uuid>5d39b129-23b0-48a5-a756-b8308b2ab60b</uuid>
+  </card>
+  <card>
+    <question>die Drehmaschine</question>
+    <answer>токарный станок</answer>
+    <comment></comment>
+    <uuid>68416f32-4e50-4e3f-84ee-33fb2f411bde</uuid>
+  </card>
+  <card>
+    <question>die Entwicklung</question>
+    <answer>разработка</answer>
+    <comment></comment>
+    <uuid>7a291e08-df96-486c-9af7-d65172218791</uuid>
+  </card>
+  <card>
+    <question>die Fertigung</question>
+    <answer>изготовление</answer>
+    <comment></comment>
+    <uuid>cb99bfd1-e6fa-4ec4-94c6-73b8d8ac458a</uuid>
+  </card>
+  <card>
+    <question>die Forschung</question>
+    <answer>исследование</answer>
+    <comment></comment>
+    <uuid>6f218329-708e-4db7-a01b-b8e15a9b5f6e</uuid>
+  </card>
+  <card>
+    <question>die Garantie</question>
+    <answer>гарантия</answer>
+    <comment></comment>
+    <uuid>ab2a6ce5-9ade-4f44-a4f8-2ee0370f4954</uuid>
+  </card>
+  <card>
+    <question>die Kelle</question>
+    <answer>мастерок, кельма</answer>
+    <comment></comment>
+    <uuid>d2e21747-29d4-4829-81ee-7e8ecce4e6b8</uuid>
+  </card>
+  <card>
+    <question>die Kneifzange</question>
+    <answer>кусачки, клещи, щипцы</answer>
+    <comment></comment>
+    <uuid>e78df4b9-7a60-4def-b71d-9a5ee935f17f</uuid>
+  </card>
+  <card>
+    <question>die Kontrolle</question>
+    <answer>контроль</answer>
+    <comment></comment>
+    <uuid>25258f6c-8f23-4ff4-86cd-fcb5bd28a8b7</uuid>
+  </card>
+  <card>
+    <question>die Maschine</question>
+    <answer>машина</answer>
+    <comment></comment>
+    <uuid>73d36e69-dd3b-497b-85ba-dc097a0263a8</uuid>
+  </card>
+  <card>
+    <question>die Maschinenteile</question>
+    <answer>детали машин</answer>
+    <comment></comment>
+    <uuid>f3527392-c43d-4372-a050-0e1164eb69f3</uuid>
+  </card>
+  <card>
+    <question>die Meisterschaft</question>
+    <answer>мастерство</answer>
+    <comment></comment>
+    <uuid>efb25388-ea6b-43d6-b849-1286b8214a20</uuid>
+  </card>
+  <card>
+    <question>die Produktion</question>
+    <answer>продукция, производство</answer>
+    <comment></comment>
+    <uuid>9655165c-afdf-4c8a-9e95-434267ca7770</uuid>
+  </card>
+  <card>
+    <question>die Qualifikation</question>
+    <answer>квалификация</answer>
+    <comment></comment>
+    <uuid>b405b3e4-5b06-4171-8098-a0fa3cc15010</uuid>
+  </card>
+  <card>
+    <question>die Qualität</question>
+    <answer>качество</answer>
+    <comment></comment>
+    <uuid>b751b8b5-3b06-4298-a980-7fba4a9af926</uuid>
+  </card>
+  <card>
+    <question>die Schaufel</question>
+    <answer>лопата</answer>
+    <comment></comment>
+    <uuid>a3c06689-4d8c-49a8-a90e-ae1c1821213f</uuid>
+  </card>
+  <card>
+    <question>die Schere</question>
+    <answer>ножницы</answer>
+    <comment></comment>
+    <uuid>184a96b8-3948-419a-b056-f97df59faa4f</uuid>
+  </card>
+  <card>
+    <question>die Säge</question>
+    <answer>пила</answer>
+    <comment></comment>
+    <uuid>3083fe05-86a4-464e-b361-5710b7a669b3</uuid>
+  </card>
+  <card>
+    <question>die Werkstatt</question>
+    <answer>мастерская</answer>
+    <comment></comment>
+    <uuid>40229c6f-fe33-43fc-ab84-0931b7f286a6</uuid>
+  </card>
+  <card>
+    <question>die Werkzeugmaschine</question>
+    <answer>станок</answer>
+    <comment></comment>
+    <uuid>7da05b63-5e9a-4cc4-89ae-30e54fd3a25b</uuid>
+  </card>
+  <card>
+    <question>die Zange</question>
+    <answer>щипцы</answer>
+    <comment></comment>
+    <uuid>660766ff-b77c-4ca0-b8c1-a8315e880ba6</uuid>
+  </card>
+  <card>
+    <question>feilen</question>
+    <answer>пилить напильником</answer>
+    <comment></comment>
+    <uuid>ec65df80-77e7-4e62-85e9-f04cda9f8fd7</uuid>
+  </card>
+  <card>
+    <question>sägen</question>
+    <answer>пилить пилой</answer>
+    <comment></comment>
+    <uuid>82e25517-78ae-4e7e-b22a-1fd9e4accae5</uuid>
+  </card>
+</cards>
+</stack>

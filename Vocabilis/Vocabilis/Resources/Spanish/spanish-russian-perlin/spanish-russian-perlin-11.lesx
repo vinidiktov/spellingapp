@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>050eb499-5d11-4929-b447-53054e6a7c85</uuid>
+  <title>К учебнику Оскара Перлина 11</title>
+  <author>Оскар Перлин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>conocido</question>
+    <answer>знакомый, известный</answer>
+    <comment></comment>
+    <uuid>744928db-a855-4af8-bdd7-ca9349c00676</uuid>
+  </card>
+  <card>
+    <question>pasear</question>
+    <answer>гулять</answer>
+    <comment></comment>
+    <uuid>bc10e4ce-65c3-434a-9b30-ef2e823b852b</uuid>
+  </card>
+  <card>
+    <question>bolso</question>
+    <answer>сумка</answer>
+    <comment>(m)</comment>
+    <uuid>79f5e886-adc9-4df5-abf4-f0ed25e5ca7e</uuid>
+  </card>
+  <card>
+    <question>hallar</question>
+    <answer>находить; найти</answer>
+    <comment></comment>
+    <uuid>cb99fa87-8107-45a9-a6e2-1856d0043406</uuid>
+  </card>
+  <card>
+    <question>periodismo</question>
+    <answer>журналистика</answer>
+    <comment>(m)</comment>
+    <uuid>c727a48e-fc8b-42fe-9bc6-d1e5a76a8ed4</uuid>
+  </card>
+  <card>
+    <question>morboso</question>
+    <answer>больной, болезненный</answer>
+    <comment></comment>
+    <uuid>217714d4-31f7-4081-a19d-dcf147e52edd</uuid>
+  </card>
+  <card>
+    <question>serio</question>
+    <answer>серьезный</answer>
+    <comment></comment>
+    <uuid>d81f398b-c632-4855-b8cf-2befa1ba62f6</uuid>
+  </card>
+  <card>
+    <question>arcipreste</question>
+    <answer>протопресвитер</answer>
+    <comment></comment>
+    <uuid>9a9ce1b0-3a86-49fd-81eb-87e15e265821</uuid>
+  </card>
+  <card>
+    <question>tomate</question>
+    <answer>помидор</answer>
+    <comment>(m)</comment>
+    <uuid>177684af-4d96-4281-b289-7f210c8d71dc</uuid>
+  </card>
+  <card>
+    <question>disparar</question>
+    <answer>стрелять; выпалить</answer>
+    <comment></comment>
+    <uuid>2833ee02-641e-44bc-bbfc-baf415605eb9</uuid>
+  </card>
+  <card>
+    <question>ahogar</question>
+    <answer>душить, задушить</answer>
+    <comment></comment>
+    <uuid>db3ea28f-6fcd-4bba-8b73-de21955e8a72</uuid>
+  </card>
+  <card>
+    <question>servicio</question>
+    <answer>служба; услуга; обслуживание</answer>
+    <comment>(m)</comment>
+    <uuid>9ebca1e0-820d-42fc-817f-18329119ab3f</uuid>
+  </card>
+  <card>
+    <question>cuarto</question>
+    <answer>четверть; комната</answer>
+    <comment>(m)</comment>
+    <uuid>1f388689-dbc1-48ff-807d-16fd3f420a90</uuid>
+  </card>
+  <card>
+    <question>mirada</question>
+    <answer>взгляд, взор</answer>
+    <comment>(f)</comment>
+    <uuid>999f44e4-cf26-458e-a42f-f69841398e4a</uuid>
+  </card>
+  <card>
+    <question>por la mañana</question>
+    <answer>утром</answer>
+    <comment></comment>
+    <uuid>930b271a-df9a-4e46-9df4-e5a2725075b4</uuid>
+  </card>
+  <card>
+    <question>menos</question>
+    <answer>меньше</answer>
+    <comment></comment>
+    <uuid>61f03a92-0035-4c71-852c-1b52082e8a85</uuid>
+  </card>
+  <card>
+    <question>librería</question>
+    <answer>книжный магазин</answer>
+    <comment>(f)</comment>
+    <uuid>44a1ec35-ab89-4449-853e-3c0e5800d982</uuid>
+  </card>
+  <card>
+    <question>cálculo</question>
+    <answer>вычисление; расчет</answer>
+    <comment>(m)</comment>
+    <uuid>55ef4621-efa7-4a61-b764-7c900de556ee</uuid>
+  </card>
+  <card>
+    <question>mes</question>
+    <answer>месяц</answer>
+    <comment>(m)</comment>
+    <uuid>fc42b7e9-4b44-49d5-86a4-8e1d5a7d6880</uuid>
+  </card>
+  <card>
+    <question>tantos</question>
+    <answer>столько</answer>
+    <comment></comment>
+    <uuid>d5020f2f-b0f6-4e8f-b50a-dad1c3101e61</uuid>
+  </card>
+  <card>
+    <question>convertirse</question>
+    <answer>изменяться, превращаться</answer>
+    <comment></comment>
+    <uuid>e2ceea23-7526-4158-9d69-b615ad4db748</uuid>
+  </card>
+  <card>
+    <question>pagar</question>
+    <answer>платить</answer>
+    <comment></comment>
+    <uuid>f1d05a83-462d-4a5e-80d4-b822e69b42ef</uuid>
+  </card>
+  <card>
+    <question>pertenecer</question>
+    <answer>принадлежать</answer>
+    <comment></comment>
+    <uuid>8d543c7b-b003-44a2-a86c-fc9a269187da</uuid>
+  </card>
+  <card>
+    <question>correr</question>
+    <answer>бег, течение (времени)</answer>
+    <comment>(m)</comment>
+    <uuid>04de4826-c8f5-41c9-aee9-db59de054161</uuid>
+  </card>
+  <card>
+    <question>orden</question>
+    <answer>приказ</answer>
+    <comment>(f)</comment>
+    <uuid>5e89d9be-407c-49b3-af6c-8f4c6d38765f</uuid>
+  </card>
+  <card>
+    <question>labor</question>
+    <answer>работа, труд, дело</answer>
+    <comment>(f)</comment>
+    <uuid>e51f15a8-82bb-44af-aa7d-e918bc781359</uuid>
+  </card>
+  <card>
+    <question>comparecer</question>
+    <answer>появляться, приходить</answer>
+    <comment></comment>
+    <uuid>7f5419f9-1aa9-40ec-87e7-24b6d739e8f2</uuid>
+  </card>
+  <card>
+    <question>tener</question>
+    <answer>иметь</answer>
+    <comment></comment>
+    <uuid>c6313539-4fe0-49d6-a5b6-a5df0d6bbe7e</uuid>
+  </card>
+  <card>
+    <question>ambiente</question>
+    <answer>обстановка; атмосфера</answer>
+    <comment></comment>
+    <uuid>725852b3-729b-4d89-ba92-c4fb52e16d0c</uuid>
+  </card>
+  <card>
+    <question>felicidad</question>
+    <answer>счастье, удача</answer>
+    <comment>(f)</comment>
+    <uuid>605a0ea3-53a4-4ba3-b40d-72f8145158bd</uuid>
+  </card>
+  <card>
+    <question>fábrica</question>
+    <answer>фабрика</answer>
+    <comment>(f)</comment>
+    <uuid>02b07bc9-1e32-42a6-ade1-dc7fef94cf73</uuid>
+  </card>
+  <card>
+    <question>gallo</question>
+    <answer>петух</answer>
+    <comment>(m)</comment>
+    <uuid>c1701cb3-f9f2-4ea3-81a8-30bd032edab5</uuid>
+  </card>
+  <card>
+    <question>noviazgo</question>
+    <answer>помолвка, обручение</answer>
+    <comment>(m)</comment>
+    <uuid>bb44fa32-22a3-4725-82fc-bd901614d11c</uuid>
+  </card>
+  <card>
+    <question>ya ... ya</question>
+    <answer>или.. .или</answer>
+    <comment></comment>
+    <uuid>62366457-3565-4730-aad6-2e7261d70581</uuid>
+  </card>
+  <card>
+    <question>casarse</question>
+    <answer>жениться; выходить замуж</answer>
+    <comment></comment>
+    <uuid>d74ab666-0090-47b7-8167-395b5b39957a</uuid>
+  </card>
+  <card>
+    <question>virginal</question>
+    <answer>девичий</answer>
+    <comment></comment>
+    <uuid>f320f8b9-0a8b-4c0a-a3ed-be781d018991</uuid>
+  </card>
+  <card>
+    <question>sí</question>
+    <answer>да</answer>
+    <comment></comment>
+    <uuid>7f7402e1-f4c0-42a2-bf02-5a99a3beab04</uuid>
+  </card>
+  <card>
+    <question>gato</question>
+    <answer>кот</answer>
+    <comment>(m)</comment>
+    <uuid>cd80a8f1-1af4-4e51-bc47-15fbc2f464bf</uuid>
+  </card>
+  <card>
+    <question>anciano</question>
+    <answer>старик</answer>
+    <comment></comment>
+    <uuid>3b528d7e-4b76-4b7b-9390-5b029afbc059</uuid>
+  </card>
+  <card>
+    <question>imponente</question>
+    <answer>внушительный, величественный</answer>
+    <comment></comment>
+    <uuid>b334d851-21e5-45ae-a926-aaeca0da0d25</uuid>
+  </card>
+  <card>
+    <question>presidium</question>
+    <answer>президиум</answer>
+    <comment>(m)</comment>
+    <uuid>90c73a9d-70d3-42bc-a393-0513001d62b2</uuid>
+  </card>
+  <card>
+    <question>morder</question>
+    <answer>кусать, впиваться</answer>
+    <comment></comment>
+    <uuid>f2166edb-15dd-4f08-980e-088a66181949</uuid>
+  </card>
+  <card>
+    <question>materia</question>
+    <answer>содержание</answer>
+    <comment>(f)</comment>
+    <uuid>79a7a31a-8fc4-406f-b8b2-d5acb663a625</uuid>
+  </card>
+  <card>
+    <question>encanto</question>
+    <answer>прелесть, волшебство</answer>
+    <comment>(m)</comment>
+    <uuid>140cb9cb-2ec3-4cb1-a51f-d9f95d68c698</uuid>
+  </card>
+  <card>
+    <question>paludismo</question>
+    <answer>малярия</answer>
+    <comment>(m)</comment>
+    <uuid>da1aea91-2992-4ba4-b907-6fce9860c865</uuid>
+  </card>
+  <card>
+    <question>chino</question>
+    <answer>китайский</answer>
+    <comment></comment>
+    <uuid>311700bd-ecd3-42aa-8098-9ff5c3e43262</uuid>
+  </card>
+  <card>
+    <question>batallón</question>
+    <answer>батальон</answer>
+    <comment>(m)</comment>
+    <uuid>771c11ce-1d78-4868-86d7-6d43494d075f</uuid>
+  </card>
+  <card>
+    <question>ir</question>
+    <answer>идти</answer>
+    <comment></comment>
+    <uuid>d1704fb7-27fc-49ce-988b-a09418971c24</uuid>
+  </card>
+  <card>
+    <question>declarar</question>
+    <answer>объявлять</answer>
+    <comment></comment>
+    <uuid>a1f36953-e808-4dfe-b4c0-206a4ea737e5</uuid>
+  </card>
+  <card>
+    <question>agarrarse</question>
+    <answer>схватиться</answer>
+    <comment></comment>
+    <uuid>c8917485-6890-4268-af14-e916845ec03a</uuid>
+  </card>
+  <card>
+    <question>sonrisa</question>
+    <answer>улыбка</answer>
+    <comment>(f)</comment>
+    <uuid>1107805f-f428-45f1-a765-91df52a53ed6</uuid>
+  </card>
+  <card>
+    <question>español</question>
+    <answer>испанец</answer>
+    <comment>(m)</comment>
+    <uuid>3d10f18f-d702-4b27-84a9-9ef663b2c80f</uuid>
+  </card>
+  <card>
+    <question>perro</question>
+    <answer>собака</answer>
+    <comment>(m)</comment>
+    <uuid>03c65010-2c87-4734-8702-d918a7635841</uuid>
+  </card>
+  <card>
+    <question>tristez</question>
+    <answer>печаль, тоска</answer>
+    <comment>(f)</comment>
+    <uuid>ee512f56-b7df-4950-927e-0d6814407abd</uuid>
+  </card>
+  <card>
+    <question>risa</question>
+    <answer>смех</answer>
+    <comment>(f)</comment>
+    <uuid>5b5a3a33-ce1e-4fa0-88c2-88f74dfff4cd</uuid>
+  </card>
+  <card>
+    <question>hay que</question>
+    <answer>нужно; надо</answer>
+    <comment></comment>
+    <uuid>a0acc3b7-d31c-4f95-b7ce-b2f569909412</uuid>
+  </card>
+  <card>
+    <question>así</question>
+    <answer>так, таким образом</answer>
+    <comment></comment>
+    <uuid>dad2a674-4222-4e52-8280-bc6820702f01</uuid>
+  </card>
+  <card>
+    <question>goce</question>
+    <answer>наслаждение, удовольствие</answer>
+    <comment>(m)</comment>
+    <uuid>922319d8-bd6b-4839-98c3-9a0d74a7cee4</uuid>
+  </card>
+  <card>
+    <question>reverendo</question>
+    <answer>уважаемый, достойный</answer>
+    <comment></comment>
+    <uuid>47335be4-c1c4-42ab-aca3-adb2f0e0a4ea</uuid>
+  </card>
+  <card>
+    <question>comprender</question>
+    <answer>понимать, понять</answer>
+    <comment></comment>
+    <uuid>6e2e570a-4e92-462c-aa5f-8f1b2bffb24e</uuid>
+  </card>
+  <card>
+    <question>mesa de noche</question>
+    <answer>тумбочка; (ночной столик)</answer>
+    <comment></comment>
+    <uuid>3bc8fd37-36ba-4458-a11a-04c0f201ab92</uuid>
+  </card>
+  <card>
+    <question>cómo no</question>
+    <answer>конечно, безусловно</answer>
+    <comment></comment>
+    <uuid>6f88ac5a-d3ec-467e-be1d-108e76519743</uuid>
+  </card>
+  <card>
+    <question>dolor</question>
+    <answer>боль</answer>
+    <comment>(m)</comment>
+    <uuid>ff201912-b451-4162-b1d9-10b787a844bb</uuid>
+  </card>
+  <card>
+    <question>salir</question>
+    <answer>выходить</answer>
+    <comment></comment>
+    <uuid>b4ac8032-903d-4e15-a8c7-add2c34d6dd8</uuid>
+  </card>
+  <card>
+    <question>tres</question>
+    <answer>три</answer>
+    <comment></comment>
+    <uuid>2f39b119-cd66-485e-b9b4-c4e3be8226c2</uuid>
+  </card>
+  <card>
+    <question>señor</question>
+    <answer>господин</answer>
+    <comment>(m)</comment>
+    <uuid>703ca869-99e2-412d-8547-53282b8a375f</uuid>
+  </card>
+  <card>
+    <question>acompañado</question>
+    <answer>сопровождаемый, в сопровождении</answer>
+    <comment></comment>
+    <uuid>5c04c87e-9ff7-4456-bf22-398adfa739d6</uuid>
+  </card>
+  <card>
+    <question>cada</question>
+    <answer>каждый, любой, всякий</answer>
+    <comment></comment>
+    <uuid>dec4b732-3814-4575-ae32-9836f4c202cf</uuid>
+  </card>
+  <card>
+    <question>el mismo</question>
+    <answer>тот же, тот самый, такой же самый</answer>
+    <comment></comment>
+    <uuid>0163f760-0c3f-416f-ae1b-62d4b32eaa42</uuid>
+  </card>
+  <card>
+    <question>ubre</question>
+    <answer>вымя</answer>
+    <comment>(f)</comment>
+    <uuid>c96fe0f8-ac08-41f9-a9a8-6ef1b0811ae6</uuid>
+  </card>
+  <card>
+    <question>otoñal</question>
+    <answer>осенний; перен.: старший</answer>
+    <comment></comment>
+    <uuid>74eda2a8-99cd-4db6-bdd9-fd8da83c2df6</uuid>
+  </card>
+  <card>
+    <question>charol</question>
+    <answer>лак; лакированная кожа</answer>
+    <comment>(m)</comment>
+    <uuid>f2b44289-1ded-4fd6-ba1b-a0ca6141522d</uuid>
+  </card>
+  <card>
+    <question>préstamo</question>
+    <answer>заем</answer>
+    <comment>(m)</comment>
+    <uuid>ee1cc757-8e89-4e41-9cae-2a6fe746cc3e</uuid>
+  </card>
+  <card>
+    <question>costurera</question>
+    <answer>портниха</answer>
+    <comment>(f)</comment>
+    <uuid>b7a5a5e3-5e77-4f78-8599-be53d99f2c11</uuid>
+  </card>
+  <card>
+    <question>sin partido</question>
+    <answer>беспартийный</answer>
+    <comment></comment>
+    <uuid>d9001647-22cd-433b-b24f-e4193622b235</uuid>
+  </card>
+  <card>
+    <question>descubrir</question>
+    <answer>открывать; делать открытие</answer>
+    <comment></comment>
+    <uuid>29713839-8e57-499a-8a17-81d8cf4941b8</uuid>
+  </card>
+  <card>
+    <question>infundir</question>
+    <answer>внушать</answer>
+    <comment></comment>
+    <uuid>0267d4e7-d67e-4317-be6b-798d9042d742</uuid>
+  </card>
+  <card>
+    <question>cumplido</question>
+    <answer>широкий, просторный (о одежде)</answer>
+    <comment></comment>
+    <uuid>a2dde0a1-bb9f-4815-b07d-f3373a847e76</uuid>
+  </card>
+  <card>
+    <question>hechura</question>
+    <answer>изготовление, форма</answer>
+    <comment>(f)</comment>
+    <uuid>0f1caf12-b277-4d77-a1f8-0648077efef4</uuid>
+  </card>
+  <card>
+    <question>hay (haber)</question>
+    <answer>находится; имеется</answer>
+    <comment></comment>
+    <uuid>b3aa0eb9-6da7-4151-8a6f-4656650d4fec</uuid>
+  </card>
+  <card>
+    <question>declaración</question>
+    <answer>признание</answer>
+    <comment>(f)</comment>
+    <uuid>a7866bdb-d905-4485-9f1f-7217d3730483</uuid>
+  </card>
+  <card>
+    <question>cinco</question>
+    <answer>пять</answer>
+    <comment></comment>
+    <uuid>c9039e52-277c-42f6-964a-07ae577382a0</uuid>
+  </card>
+  <card>
+    <question>santo</question>
+    <answer>святой</answer>
+    <comment></comment>
+    <uuid>1beee1ac-b3df-47dd-8263-e219f088281c</uuid>
+  </card>
+  <card>
+    <question>haber</question>
+    <answer>находиться, быть</answer>
+    <comment></comment>
+    <uuid>16f21e9b-9edc-4d9a-aba8-a3b6dfed9502</uuid>
+  </card>
+  <card>
+    <question>odiar</question>
+    <answer>ненавидеть</answer>
+    <comment></comment>
+    <uuid>d5f7fbb1-a702-4019-b96e-933b0718737c</uuid>
+  </card>
+  <card>
+    <question>indudablemente</question>
+    <answer>несомненно</answer>
+    <comment></comment>
+    <uuid>2aacacda-bfb2-44ab-a309-72b123287a3e</uuid>
+  </card>
+  <card>
+    <question>lobo</question>
+    <answer>волк</answer>
+    <comment></comment>
+    <uuid>c4273704-85ad-40e2-a632-69bbe8386510</uuid>
+  </card>
+  <card>
+    <question>ciencia</question>
+    <answer>знание, наука</answer>
+    <comment>(f)</comment>
+    <uuid>5562de23-951c-4398-b53a-78497ec42445</uuid>
+  </card>
+  <card>
+    <question>taller</question>
+    <answer>мастерская</answer>
+    <comment>(m)</comment>
+    <uuid>1a6fe284-4427-4ba9-87db-91415f31c409</uuid>
+  </card>
+  <card>
+    <question>butaca</question>
+    <answer>кресло</answer>
+    <comment>(f)</comment>
+    <uuid>442b5d29-6ee1-44bd-99af-08f58f8fc4af</uuid>
+  </card>
+  <card>
+    <question>solemne</question>
+    <answer>торжественный</answer>
+    <comment></comment>
+    <uuid>8999dbd3-1aad-4463-a08b-97a371048d2b</uuid>
+  </card>
+  <card>
+    <question>sorprendido</question>
+    <answer>удивленный; пораженный</answer>
+    <comment></comment>
+    <uuid>a01171a8-e303-4a06-9d65-42e8fe8d9def</uuid>
+  </card>
+  <card>
+    <question>seco</question>
+    <answer>сухой, высохший</answer>
+    <comment></comment>
+    <uuid>6c1b6a10-3d0d-4530-bb09-3b124ca662a0</uuid>
+  </card>
+  <card>
+    <question>buzón</question>
+    <answer>почтовый ящик</answer>
+    <comment></comment>
+    <uuid>d1839f9a-0a83-4a58-99ce-491e478c2503</uuid>
+  </card>
+  <card>
+    <question>ingeniero</question>
+    <answer>инженер</answer>
+    <comment>(m)</comment>
+    <uuid>c2adb64f-90f8-4646-b773-2e1ef8e74406</uuid>
+  </card>
+  <card>
+    <question>ardiente</question>
+    <answer>жгучий, пламенный</answer>
+    <comment></comment>
+    <uuid>c87003ab-3f1e-4b5f-ba84-393a302cf3a0</uuid>
+  </card>
+  <card>
+    <question>primera</question>
+    <answer>первая</answer>
+    <comment>(f)</comment>
+    <uuid>bbb549b8-1bc6-46f8-aef0-a597fcb792ae</uuid>
+  </card>
+  <card>
+    <question>sin</question>
+    <answer>без</answer>
+    <comment></comment>
+    <uuid>d43f8553-24d3-45a0-87e0-2cd87cc77b40</uuid>
+  </card>
+  <card>
+    <question>susurrar</question>
+    <answer>шептать</answer>
+    <comment></comment>
+    <uuid>de8523c4-4ebd-41b6-914b-9d54b216a11f</uuid>
+  </card>
+  <card>
+    <question>el bien</question>
+    <answer>добро</answer>
+    <comment></comment>
+    <uuid>7fe78ae1-a7d4-476e-a3d6-2e7c726ad597</uuid>
+  </card>
+</cards>
+</stack>

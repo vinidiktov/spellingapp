@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b8582380-b199-46c6-8654-02d9cb1df046</uuid>
+  <title>Театр, кино, концерт, цирк :: Слова 2</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>30</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>aria</question>
+    <answer>ария</answer>
+    <comment>f</comment>
+    <uuid>81058f4d-cae2-47e6-9af6-2fd333f569c5</uuid>
+  </card>
+  <card>
+    <question>artista</question>
+    <answer>артист(ка)</answer>
+    <comment>m, f</comment>
+    <uuid>4ca6a260-e410-4f58-b614-045661f680a4</uuid>
+  </card>
+  <card>
+    <question>bailarina</question>
+    <answer>балерина</answer>
+    <comment>f</comment>
+    <uuid>692f8740-aeb1-4479-983e-b836bce5cb04</uuid>
+  </card>
+  <card>
+    <question>guardarropa</question>
+    <answer>гардероб</answer>
+    <comment>f</comment>
+    <uuid>0927088d-5276-4d7a-9f7c-cb7a6a5754b0</uuid>
+  </card>
+  <card>
+    <question>voz</question>
+    <answer>голос</answer>
+    <comment>f</comment>
+    <uuid>d1142a8b-135c-403f-aec4-cd35c6cc3272</uuid>
+  </card>
+  <card>
+    <question>director de orquesta</question>
+    <answer>дирижёр</answer>
+    <comment>m</comment>
+    <uuid>6484cddf-673a-4b1c-ab9c-de325aec27e0</uuid>
+  </card>
+  <card>
+    <question>jazz</question>
+    <answer>джаз</answer>
+    <comment>m</comment>
+    <uuid>96b669be-4a55-4520-a8b1-b85ff8e94d94</uuid>
+  </card>
+  <card>
+    <question>dramaturgo</question>
+    <answer>драматург</answer>
+    <comment>m</comment>
+    <uuid>2a81196d-e9f6-40ec-89a3-d88ead459d2f</uuid>
+  </card>
+  <card>
+    <question>domador</question>
+    <answer>дрессировщик</answer>
+    <comment>m</comment>
+    <uuid>028fe54b-d299-45a3-ab4a-a33e88449ebe</uuid>
+  </card>
+  <card>
+    <question>sala</question>
+    <answer>зал</answer>
+    <comment>f</comment>
+    <uuid>ee928dfd-a06d-4994-affa-c57a78d08097</uuid>
+  </card>
+  <card>
+    <question>interpretación</question>
+    <answer>игра (актера)</answer>
+    <comment>f</comment>
+    <uuid>b9bc989e-571f-4d29-b68a-1b980c951a47</uuid>
+  </card>
+  <card>
+    <question>ilusionista</question>
+    <answer>фокусник, иллюзионист</answer>
+    <comment>m, f</comment>
+    <uuid>6c656b73-2a79-4868-b273-513a9cf0b450</uuid>
+  </card>
+  <card>
+    <question>intérprete de papel principal</question>
+    <answer>исполнитель главной роли</answer>
+    <comment>m, f</comment>
+    <uuid>f1144e3b-4aa7-4704-8053-a2188ddef909</uuid>
+  </card>
+  <card>
+    <question>taquilla</question>
+    <answer>билетная касса</answer>
+    <comment>f</comment>
+    <uuid>d6614c82-a664-4e72-9917-25a8b77c7fe7</uuid>
+  </card>
+  <card>
+    <question>actor de cine</question>
+    <answer>киноактёр</answer>
+    <comment>m</comment>
+    <uuid>db3bf70e-cc12-44b2-abe3-999e3508aa1e</uuid>
+  </card>
+  <card>
+    <question>actriz de cine</question>
+    <answer>киноактриса</answer>
+    <comment>f</comment>
+    <uuid>c97fa6c7-8d9a-4649-a315-2330106c1540</uuid>
+  </card>
+  <card>
+    <question>documental</question>
+    <answer>киножурнал, документальный фильм</answer>
+    <comment>m</comment>
+    <uuid>be673567-35c1-4d08-876d-ac54e36e4c3b</uuid>
+  </card>
+  <card>
+    <question>estudios cinematográficos</question>
+    <answer>киностудия</answer>
+    <comment>m, pl</comment>
+    <uuid>1aae49e9-1307-49ac-a8e4-b004688906ec</uuid>
+  </card>
+  <card>
+    <question>festival cinematográfico</question>
+    <answer>кинофестиваль</answer>
+    <comment>m</comment>
+    <uuid>04c9e3be-5f5b-4203-9d9a-3a9784c4e79c</uuid>
+  </card>
+  <card>
+    <question>payaso</question>
+    <answer>клоун</answer>
+    <comment>m</comment>
+    <uuid>7ec4c9eb-d702-489c-a1ac-b794b0a9f0e2</uuid>
+  </card>
+  <card>
+    <question>libreto</question>
+    <answer>либретто</answer>
+    <comment>m</comment>
+    <uuid>3e0f4950-2a18-4cd2-96e8-600ba45810aa</uuid>
+  </card>
+  <card>
+    <question>músico</question>
+    <answer>музыкант</answer>
+    <comment>m</comment>
+    <uuid>24d95009-0042-41fb-bfd3-7201b6b185aa</uuid>
+  </card>
+  <card>
+    <question>cámara</question>
+    <answer>оператор</answer>
+    <comment>m</comment>
+    <uuid>12ce86c3-a281-42fa-8d93-8d50f0271be7</uuid>
+  </card>
+  <card>
+    <question>opereta</question>
+    <answer>оперетта</answer>
+    <comment>f</comment>
+    <uuid>fdc41a48-728a-4793-bb2a-7ccbf604f24b</uuid>
+  </card>
+  <card>
+    <question>cantante</question>
+    <answer>певец, певица</answer>
+    <comment>m, f</comment>
+    <uuid>283418bf-9869-458a-8241-5117258ff02c</uuid>
+  </card>
+  <card>
+    <question>canción</question>
+    <answer>песня</answer>
+    <comment>f</comment>
+    <uuid>7c17bae6-305b-4693-accc-cedece7665b3</uuid>
+  </card>
+  <card>
+    <question>dirección</question>
+    <answer>постановка</answer>
+    <comment>f</comment>
+    <uuid>75dffa0a-303b-4c18-a57b-7e2526c12ffc</uuid>
+  </card>
+  <card>
+    <question>estreno</question>
+    <answer>премьера</answer>
+    <comment>m</comment>
+    <uuid>f4a2ecf7-1370-4b89-9346-dacc00cbb982</uuid>
+  </card>
+  <card>
+    <question>pieza</question>
+    <answer>пьеса (музыкальная; театральная)</answer>
+    <comment>f</comment>
+    <uuid>e469b001-4c13-4c87-95f6-bbb5b30c46eb</uuid>
+  </card>
+  <card>
+    <question>solista</question>
+    <answer>солист</answer>
+    <comment>m, f</comment>
+    <uuid>f763340b-27c4-4fa3-a6d3-785113b12027</uuid>
+  </card>
+  <card>
+    <question>guionista</question>
+    <answer>сценарист</answer>
+    <comment>m, f</comment>
+    <uuid>060e614e-11fc-4902-a357-236ca6718525</uuid>
+  </card>
+  <card>
+    <question>baile</question>
+    <answer>танец</answer>
+    <comment>m</comment>
+    <uuid>6b6012c7-5729-4c6c-b94e-de5276aacd6d</uuid>
+  </card>
+  <card>
+    <question>bailarín</question>
+    <answer>танцовщик, артист балета</answer>
+    <comment>m</comment>
+    <uuid>a5870cac-2e6c-4b55-a030-105f122a662f</uuid>
+  </card>
+  <card>
+    <question>teatro de ópera y ballet</question>
+    <answer>театр оперы и балета</answer>
+    <comment>m</comment>
+    <uuid>6191f374-6166-490e-a336-0829219fd12d</uuid>
+  </card>
+  <card>
+    <question>teatro de marionetas</question>
+    <answer>кукольный театр</answer>
+    <comment>m</comment>
+    <uuid>af2a25a1-8c4e-4af8-a63f-619d7dccfcdb</uuid>
+  </card>
+  <card>
+    <question>teatro de opereta</question>
+    <answer>театр оперетты</answer>
+    <comment>m</comment>
+    <uuid>1577d045-1812-4ed3-bc12-ad228ad34d76</uuid>
+  </card>
+  <card>
+    <question>teatro de variedades</question>
+    <answer>театр эстрады</answer>
+    <comment>m</comment>
+    <uuid>573d9623-fddb-4088-abeb-9ddc8df4b58f</uuid>
+  </card>
+  <card>
+    <question>película de argumento</question>
+    <answer>художественный фильм</answer>
+    <comment>f</comment>
+    <uuid>ff81cd75-543d-4d0d-85bf-9c1a1aac8344</uuid>
+  </card>
+  <card>
+    <question>argumento</question>
+    <answer>сценарий, киносценарий</answer>
+    <comment>m</comment>
+    <uuid>387c1735-abc5-40ea-9e7a-895f39bf822b</uuid>
+  </card>
+  <card>
+    <question>pelicúla de divulgación científica</question>
+    <answer>научно-популярный фильм</answer>
+    <comment>f</comment>
+    <uuid>3c9b686a-f626-4564-9be6-1288c41ce17c</uuid>
+  </card>
+  <card>
+    <question>divulgación</question>
+    <answer>популяризация, распространение</answer>
+    <comment>f</comment>
+    <uuid>f9006b6e-83f2-4ec6-ac4c-d39e7f969f7b</uuid>
+  </card>
+  <card>
+    <question>dibujos animados</question>
+    <answer>мультфильм</answer>
+    <comment>m, pl</comment>
+    <uuid>b42fc8f3-702a-427c-8c55-5393a1c173c3</uuid>
+  </card>
+  <card>
+    <question>película doblada</question>
+    <answer>дублированный фильм</answer>
+    <comment>f</comment>
+    <uuid>089b54ca-4c18-4fa5-ab3f-71d6bfd7ad53</uuid>
+  </card>
+  <card>
+    <question>coro</question>
+    <answer>хор</answer>
+    <comment>m</comment>
+    <uuid>5d9b6660-8ceb-44f6-9d3a-7784b7dd51be</uuid>
+  </card>
+  <card>
+    <question>coreógrafo</question>
+    <answer>хореограф</answer>
+    <comment>m</comment>
+    <uuid>0e337fbb-e614-426b-8417-7b38036fb416</uuid>
+  </card>
+  <card>
+    <question>decorador</question>
+    <answer>художник-декоратор</answer>
+    <comment>m</comment>
+    <uuid>8132e94c-adc3-4642-8fde-8f5cf3fde453</uuid>
+  </card>
+  <card>
+    <question>pantalla</question>
+    <answer>экран</answer>
+    <comment>f</comment>
+    <uuid>5ac1e752-b0ab-4dfe-a970-2f2e2199aa74</uuid>
+  </card>
+  <card>
+    <question>acompañamiento</question>
+    <answer>аккомпанемент, сопровождение</answer>
+    <comment>m</comment>
+    <uuid>ffc12f6a-a010-4a49-866b-116dfb70651d</uuid>
+  </card>
+  <card>
+    <question>acróbata</question>
+    <answer>акробат</answer>
+    <comment>m, f</comment>
+    <uuid>e73dc360-debe-485c-be30-8fcc456b813c</uuid>
+  </card>
+  <card>
+    <question>conjunto</question>
+    <answer>ансамбль</answer>
+    <comment>m</comment>
+    <uuid>805fc4a1-4477-4fec-a25e-356536419473</uuid>
+  </card>
+  <card>
+    <question>aplausos</question>
+    <answer>аплодисменты</answer>
+    <comment>m, pl</comment>
+    <uuid>5800949c-bf6f-46fd-a446-47b18c005c0e</uuid>
+  </card>
+  <card>
+    <question>cartel</question>
+    <answer>афиша</answer>
+    <comment>m</comment>
+    <uuid>86f381c9-1108-4bec-b2a5-a4f94069780f</uuid>
+  </card>
+  <card>
+    <question>galería</question>
+    <answer>балкон</answer>
+    <comment>f</comment>
+    <uuid>7c639836-2d4d-47bc-9920-430c5d4ddd59</uuid>
+  </card>
+  <card>
+    <question>barítono</question>
+    <answer>баритон</answer>
+    <comment>m</comment>
+    <uuid>b331bd40-1f4b-4224-a6e5-70f73626ff54</uuid>
+  </card>
+  <card>
+    <question>bajo</question>
+    <answer>бас</answer>
+    <comment>m</comment>
+    <uuid>ed14e6ef-852a-4c8c-9b54-dd09a00eb5f9</uuid>
+  </card>
+  <card>
+    <question>violoncelo</question>
+    <answer>виолончель</answer>
+    <comment>m</comment>
+    <uuid>a688ba8c-63d4-4670-8327-a37adfbfbb8b</uuid>
+  </card>
+  <card>
+    <question>virtuoso</question>
+    <answer>виртуоз</answer>
+    <comment>m</comment>
+    <uuid>d377f592-1180-4c9d-9cd6-56ec00a16346</uuid>
+  </card>
+  <card>
+    <question>decoración</question>
+    <answer>декорация</answer>
+    <comment>f</comment>
+    <uuid>a7f21759-66fb-4a1a-9872-624df9ee024d</uuid>
+  </card>
+  <card>
+    <question>drama</question>
+    <answer>драма</answer>
+    <comment>m</comment>
+    <uuid>83be6452-728c-4b82-889b-ada0d1e98917</uuid>
+  </card>
+  <card>
+    <question>teatro dramárico</question>
+    <answer>драматический театр</answer>
+    <comment>m</comment>
+    <uuid>c411fcab-2d99-4695-bdd4-16a2421564b7</uuid>
+  </card>
+  <card>
+    <question>duo</question>
+    <answer>дуэт</answer>
+    <comment>m</comment>
+    <uuid>03bfcd2e-4d31-4495-a25c-0a12a5a2d94b</uuid>
+  </card>
+  <card>
+    <question>malabarista</question>
+    <answer>жонглёр</answer>
+    <comment>m, f</comment>
+    <uuid>c20a8efc-1ac9-4a50-a697-3600431ae7b3</uuid>
+  </card>
+  <card>
+    <question>telón</question>
+    <answer>занавес</answer>
+    <comment>m</comment>
+    <uuid>1c1b5d3f-f086-4933-bfe9-269e9b324ca0</uuid>
+  </card>
+  <card>
+    <question>timbre</question>
+    <answer>звонок</answer>
+    <comment>m</comment>
+    <uuid>c2d829bf-e912-470f-bbb8-85d3bd145707</uuid>
+  </card>
+  <card>
+    <question>espectador</question>
+    <answer>зритель</answer>
+    <comment>m</comment>
+    <uuid>24a76179-dca5-4ae1-9993-1f9d615a3638</uuid>
+  </card>
+  <card>
+    <question>sala de espectáculos</question>
+    <answer>зрительный зал</answer>
+    <comment>f</comment>
+    <uuid>a60f3871-f11e-40bb-970c-d1f68d7a106d</uuid>
+  </card>
+  <card>
+    <question>arte</question>
+    <answer>искусство</answer>
+    <comment></comment>
+    <uuid>d5a89f33-1e48-4204-9e76-258bde3103c2</uuid>
+  </card>
+  <card>
+    <question>corrida</question>
+    <answer>коррида</answer>
+    <comment>f</comment>
+    <uuid>2fc26ddd-5aed-4d84-8067-4c388083011f</uuid>
+  </card>
+  <card>
+    <question>estrella del cine</question>
+    <answer>кинозвезда</answer>
+    <comment>f</comment>
+    <uuid>4b70ff0e-6143-480a-b617-f9b37c4ffb54</uuid>
+  </card>
+  <card>
+    <question>pase de la película</question>
+    <answer>киносеанс</answer>
+    <comment></comment>
+    <uuid>f1f26369-9b8f-464a-ba37-0031051e4b1e</uuid>
+  </card>
+  <card>
+    <question>conservatorio</question>
+    <answer>консерватория</answer>
+    <comment>m</comment>
+    <uuid>df0cfa84-b2bc-49f1-b2da-ff00c6c50169</uuid>
+  </card>
+  <card>
+    <question>sala de conciertos</question>
+    <answer>концертный зал</answer>
+    <comment>f</comment>
+    <uuid>deb50b54-379d-4c2f-aad9-fba2593039f4</uuid>
+  </card>
+  <card>
+    <question>música de jazz</question>
+    <answer>джазовая музыка</answer>
+    <comment>f</comment>
+    <uuid>4aaf53e1-9c0c-48d7-a0af-a49b86beddf4</uuid>
+  </card>
+  <card>
+    <question>música de cámara</question>
+    <answer>камерная музыка</answer>
+    <comment>f</comment>
+    <uuid>3957a9d3-8c8d-47bd-a8d8-872216cf0d99</uuid>
+  </card>
+  <card>
+    <question>música popular</question>
+    <answer>народная музыка</answer>
+    <comment>f</comment>
+    <uuid>a09f709a-b16c-4acb-8392-e2f2045b06e3</uuid>
+  </card>
+  <card>
+    <question>música rock</question>
+    <answer>рок-музыка</answer>
+    <comment>f</comment>
+    <uuid>083355c9-8ef1-43a9-9c8c-b22c574264b6</uuid>
+  </card>
+  <card>
+    <question>música sinfónica</question>
+    <answer>симфоническая музыка</answer>
+    <comment>f</comment>
+    <uuid>dbc32651-292f-49aa-8082-ca90f94190c6</uuid>
+  </card>
+  <card>
+    <question>musical</question>
+    <answer>мюзикл</answer>
+    <comment></comment>
+    <uuid>bb6ced14-02a1-41ec-87ec-f365899c3b79</uuid>
+  </card>
+  <card>
+    <question>apertura de la temporada</question>
+    <answer>открытие сезона</answer>
+    <comment>f</comment>
+    <uuid>ac353e71-f77d-4180-804e-febb2b45883a</uuid>
+  </card>
+  <card>
+    <question>pianista</question>
+    <answer>пианист(ка)</answer>
+    <comment>m, f</comment>
+    <uuid>f29abd49-cc64-4a75-895a-d6ed5e22d6ff</uuid>
+  </card>
+  <card>
+    <question>representación</question>
+    <answer>представление</answer>
+    <comment>f</comment>
+    <uuid>fb0aa129-f6bb-4dc9-961d-14904442405d</uuid>
+  </card>
+  <card>
+    <question>poner en escena</question>
+    <answer>представлять пьесу</answer>
+    <comment></comment>
+    <uuid>c11fcb6f-3f51-4dbd-a569-a6c4be66057d</uuid>
+  </card>
+  <card>
+    <question>productor</question>
+    <answer>продюсер</answer>
+    <comment>m</comment>
+    <uuid>33c0de82-a9e2-4e58-8b4f-0091c4990643</uuid>
+  </card>
+  <card>
+    <question>público</question>
+    <answer>публика</answer>
+    <comment>m</comment>
+    <uuid>4c83abcb-a234-4d61-b2ea-be561008a6fa</uuid>
+  </card>
+  <card>
+    <question>revista</question>
+    <answer>ревю</answer>
+    <comment>f</comment>
+    <uuid>593b183a-f3fe-4426-9082-6b0c596474dc</uuid>
+  </card>
+  <card>
+    <question>piano de cola</question>
+    <answer>рояль</answer>
+    <comment>m</comment>
+    <uuid>ef63534e-2234-44c4-8037-f15a44b22f1d</uuid>
+  </card>
+  <card>
+    <question>fila</question>
+    <answer>ряд</answer>
+    <comment>f</comment>
+    <uuid>5e785b84-8583-4de1-82fd-53824147d9fd</uuid>
+  </card>
+  <card>
+    <question>sinfonía</question>
+    <answer>симфония</answer>
+    <comment>f</comment>
+    <uuid>7e88f175-cbb0-4f4c-a519-9ea951c1899a</uuid>
+  </card>
+  <card>
+    <question>violín</question>
+    <answer>скрипка</answer>
+    <comment>m</comment>
+    <uuid>02e36fc3-bce7-41c4-8122-6aa418fe824d</uuid>
+  </card>
+  <card>
+    <question>violinista</question>
+    <answer>скрипач(ка)</answer>
+    <comment>m, f</comment>
+    <uuid>cb243355-ab42-4a75-8281-d1882a1d2b80</uuid>
+  </card>
+  <card>
+    <question>solo</question>
+    <answer>соло</answer>
+    <comment>m</comment>
+    <uuid>57886634-8a78-4cc2-99c1-070f9885eaf3</uuid>
+  </card>
+  <card>
+    <question>sonata</question>
+    <answer>соната</answer>
+    <comment>f</comment>
+    <uuid>0fb16a7a-b86b-4bdc-828d-65778f45e3cb</uuid>
+  </card>
+  <card>
+    <question>soprano</question>
+    <answer>сопрано</answer>
+    <comment>m</comment>
+    <uuid>eba07c9e-f9d0-44bc-80db-2e948cdcdc4b</uuid>
+  </card>
+  <card>
+    <question>reparto</question>
+    <answer>состав исполнителей</answer>
+    <comment>m</comment>
+    <uuid>5c7c6df1-059e-4f80-a9ef-8ef79cb4dd20</uuid>
+  </card>
+  <card>
+    <question>componer música</question>
+    <answer>сочинять музыку</answer>
+    <comment></comment>
+    <uuid>f6384b99-ded5-4ba4-8285-bca5a4072c44</uuid>
+  </card>
+  <card>
+    <question>guión</question>
+    <answer>сценарий</answer>
+    <comment>m</comment>
+    <uuid>366a4866-239f-45d0-b0db-851c9c2c1fa0</uuid>
+  </card>
+  <card>
+    <question>tenor</question>
+    <answer>тенор</answer>
+    <comment>m</comment>
+    <uuid>07a0c6a8-8eb9-4bd9-b342-a614369df9dc</uuid>
+  </card>
+  <card>
+    <question>tragedia</question>
+    <answer>трагедия</answer>
+    <comment>f</comment>
+    <uuid>b53f91fb-fdd6-42b3-a4a9-09cf3ec2abb2</uuid>
+  </card>
+  <card>
+    <question>compañía teatral</question>
+    <answer>труппа</answer>
+    <comment>f</comment>
+    <uuid>58214348-0ca7-44e6-a547-75fcd6b9ef1b</uuid>
+  </card>
+  <card>
+    <question>obertura</question>
+    <answer>увертюра</answer>
+    <comment>f</comment>
+    <uuid>d425c61a-ec9a-46c0-8827-853149fa6f1c</uuid>
+  </card>
+  <card>
+    <question>filarmónica</question>
+    <answer>филармония</answer>
+    <comment>f</comment>
+    <uuid>14d3264b-0eee-45f9-b506-8ac6457565b9</uuid>
+  </card>
+  <card>
+    <question>flauta</question>
+    <answer>флейта</answer>
+    <comment>f</comment>
+    <uuid>2b39130a-d08d-45bd-a3f3-9c32a89d8d47</uuid>
+  </card>
+  <card>
+    <question>juego de manos</question>
+    <answer>фокус</answer>
+    <comment>m</comment>
+    <uuid>b8cf7b80-a742-44cb-87d3-0d7af333a854</uuid>
+  </card>
+  <card>
+    <question>truco</question>
+    <answer>трюк (кино, театр)</answer>
+    <comment>m</comment>
+    <uuid>96d8936c-6773-454e-9e3f-0b5d498515b2</uuid>
+  </card>
+  <card>
+    <question>variedades</question>
+    <answer>эстрада</answer>
+    <comment>f, pl</comment>
+    <uuid>9998ee6a-b7f8-4b3f-9493-bebaee989e7f</uuid>
+  </card>
+</cards>
+</stack>

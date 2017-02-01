@@ -1,0 +1,6059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>cd59749f-e7bb-4e56-8f83-0ca81f0a7e48</uuid>
+  <title>Moment Mal</title>
+  <author>Stanislav Lupinskiy</author>
+  <date>
+     <year>2003</year>
+     <month>7</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>true</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>true</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>sprechen (sprach, gesprochen)</question>
+    <answer>говорить</answer>
+    <comment></comment>
+    <uuid>9ed7b722-397f-48bd-8e11-73741da7dda1</uuid>
+  </card>
+  <card>
+    <question>die Sache</question>
+    <answer>объект, вещь</answer>
+    <comment>Sachen</comment>
+    <uuid>bb8effde-c43d-4c35-a58e-baa04a442796</uuid>
+  </card>
+  <card>
+    <question>ich</question>
+    <answer>я</answer>
+    <comment></comment>
+    <uuid>93571132-8bff-403d-8674-f63adc3490e5</uuid>
+  </card>
+  <card>
+    <question>die Stellung</question>
+    <answer>позиция, положение</answer>
+    <comment>Stellungen</comment>
+    <uuid>9eead063-8438-42a4-bde3-959e22c9b259</uuid>
+  </card>
+  <card>
+    <question>gut</question>
+    <answer>хорошо</answer>
+    <comment></comment>
+    <uuid>5a0c2ad3-9dbc-40f2-af05-623948e51949</uuid>
+  </card>
+  <card>
+    <question>die Stadt</question>
+    <answer>город</answer>
+    <comment>Städte</comment>
+    <uuid>5b04a4a1-8f79-466c-a417-0ba11f655c75</uuid>
+  </card>
+  <card>
+    <question>was?</question>
+    <answer>что?</answer>
+    <comment></comment>
+    <uuid>db891520-2803-4558-b83a-682bcf7ee274</uuid>
+  </card>
+  <card>
+    <question>Sie</question>
+    <answer>Вы</answer>
+    <comment></comment>
+    <uuid>23e8e6ff-312f-4a01-b8bd-07ea700aada1</uuid>
+  </card>
+  <card>
+    <question>und</question>
+    <answer>и</answer>
+    <comment></comment>
+    <uuid>ddf14e48-62f5-404a-8b64-949b9edc5ecc</uuid>
+  </card>
+  <card>
+    <question>der Tag</question>
+    <answer>день</answer>
+    <comment>Tage</comment>
+    <uuid>3016f9a8-e787-490e-94a0-dcedf26e5e84</uuid>
+  </card>
+  <card>
+    <question>lesen (las, gelesen)</question>
+    <answer>читать</answer>
+    <comment></comment>
+    <uuid>5f01e2d5-c76e-428a-a3b4-af9f07e16e5a</uuid>
+  </card>
+  <card>
+    <question>begrüßen</question>
+    <answer>приветствовать</answer>
+    <comment></comment>
+    <uuid>5e155a96-3762-490d-8f73-d068af960e12</uuid>
+  </card>
+  <card>
+    <question>hören</question>
+    <answer>слышать, слушать</answer>
+    <comment></comment>
+    <uuid>e837c50b-780e-4989-9be1-addf0d777a48</uuid>
+  </card>
+  <card>
+    <question>sie</question>
+    <answer>она</answer>
+    <comment></comment>
+    <uuid>0be9b929-63fe-4c57-a1d9-0e79ed72d976</uuid>
+  </card>
+  <card>
+    <question>das Land</question>
+    <answer>страна</answer>
+    <comment>Länder</comment>
+    <uuid>849079aa-ac39-42db-867f-826c398ddf42</uuid>
+  </card>
+  <card>
+    <question>sagen</question>
+    <answer>сказать</answer>
+    <comment></comment>
+    <uuid>2a4810b7-80ab-4540-bf04-d9cc9bce1d50</uuid>
+  </card>
+  <card>
+    <question>die Information</question>
+    <answer>информация</answer>
+    <comment>Informationen</comment>
+    <uuid>8986b140-5345-4f18-8c6a-19bd399ac6dc</uuid>
+  </card>
+  <card>
+    <question>schauen</question>
+    <answer>смотреть</answer>
+    <comment></comment>
+    <uuid>f5679037-2c9a-479a-80c5-fd6f45258729</uuid>
+  </card>
+  <card>
+    <question>die Sprache</question>
+    <answer>язык</answer>
+    <comment>Sprachen</comment>
+    <uuid>580488c8-1a82-4adc-a758-24ed18f6db67</uuid>
+  </card>
+  <card>
+    <question>der Mensch</question>
+    <answer>человек</answer>
+    <comment>Menschen</comment>
+    <uuid>174d2b2d-f77c-4602-b3ea-5259104ceda4</uuid>
+  </card>
+  <card>
+    <question>die Person</question>
+    <answer>человек</answer>
+    <comment>Personen</comment>
+    <uuid>00ed80c6-cb39-4ec6-97c0-dfc9ccd7d9b3</uuid>
+  </card>
+  <card>
+    <question>wo?</question>
+    <answer>где?</answer>
+    <comment></comment>
+    <uuid>afdaaf95-40b1-478f-861b-22f841b78a58</uuid>
+  </card>
+  <card>
+    <question>wohnen</question>
+    <answer>жить</answer>
+    <comment></comment>
+    <uuid>55b02b4a-1964-4078-ae1f-3bb874d57667</uuid>
+  </card>
+  <card>
+    <question>welcher?</question>
+    <answer>какой</answer>
+    <comment>welche? welches?</comment>
+    <uuid>6ef5604a-01be-40c0-a5dc-125c79aada10</uuid>
+  </card>
+  <card>
+    <question>wer?</question>
+    <answer>кто?</answer>
+    <comment></comment>
+    <uuid>c267b25b-5061-4ea3-a8f6-a3a7815cc32c</uuid>
+  </card>
+  <card>
+    <question>Englisch</question>
+    <answer>английский</answer>
+    <comment></comment>
+    <uuid>9a86a548-f9fa-447c-b9a1-91bc8bfea213</uuid>
+  </card>
+  <card>
+    <question>in</question>
+    <answer>в</answer>
+    <comment></comment>
+    <uuid>bbcd95c2-a798-4963-bb5c-8346aa322542</uuid>
+  </card>
+  <card>
+    <question>Deutsch</question>
+    <answer>немецкий</answer>
+    <comment></comment>
+    <uuid>ab4bf0b1-2be2-4113-b916-80a9206662f6</uuid>
+  </card>
+  <card>
+    <question>auch</question>
+    <answer>тоже</answer>
+    <comment></comment>
+    <uuid>78c5fd45-291c-4e9a-9281-f5642d8554b1</uuid>
+  </card>
+  <card>
+    <question>alle</question>
+    <answer>все</answer>
+    <comment></comment>
+    <uuid>74e9ac13-2044-473a-a95a-13b7b67a550c</uuid>
+  </card>
+  <card>
+    <question>aber</question>
+    <answer>но</answer>
+    <comment></comment>
+    <uuid>e82742ef-7497-4e7d-bf93-a0ea5548ed89</uuid>
+  </card>
+  <card>
+    <question>verschieden</question>
+    <answer>разный</answer>
+    <comment></comment>
+    <uuid>6bd6598e-ef90-48f3-80d4-660983cdee39</uuid>
+  </card>
+  <card>
+    <question>anderer</question>
+    <answer>другой</answer>
+    <comment>(andere, anderes)</comment>
+    <uuid>1ca4f806-a2f1-4de4-9b2d-29bb2cd44931</uuid>
+  </card>
+  <card>
+    <question>Schwedisch</question>
+    <answer>шведский</answer>
+    <comment></comment>
+    <uuid>27ece2e1-cba9-4570-86c3-81484b065d46</uuid>
+  </card>
+  <card>
+    <question>Tschechisch</question>
+    <answer>чешский</answer>
+    <comment></comment>
+    <uuid>00120fe1-4497-4991-a629-1b72d6c8d9bd</uuid>
+  </card>
+  <card>
+    <question>Spanisch</question>
+    <answer>испанский</answer>
+    <comment></comment>
+    <uuid>8b51f2f6-4780-4d94-8f00-90da29937df6</uuid>
+  </card>
+  <card>
+    <question>Türkisch</question>
+    <answer>турецкий</answer>
+    <comment></comment>
+    <uuid>68dbc912-23d0-444f-bed1-608b312a41f3</uuid>
+  </card>
+  <card>
+    <question>Französisch</question>
+    <answer>французский</answer>
+    <comment></comment>
+    <uuid>a1202ded-88ea-4a7b-9467-f63f93ef08d9</uuid>
+  </card>
+  <card>
+    <question>liegen (lag, gelegen)</question>
+    <answer>лежать (находиться)</answer>
+    <comment></comment>
+    <uuid>0226005b-e93a-4ffa-8fd6-2b1b143df7de</uuid>
+  </card>
+  <card>
+    <question>Italien</question>
+    <answer>Италия</answer>
+    <comment></comment>
+    <uuid>a9ce0978-f7db-4ff1-b7bd-ea9c0130c9d2</uuid>
+  </card>
+  <card>
+    <question>sein (war, gewesen)</question>
+    <answer>быть</answer>
+    <comment></comment>
+    <uuid>f6a70741-e50f-4a84-8081-dbfc7f458022</uuid>
+  </card>
+  <card>
+    <question>der Norden</question>
+    <answer>север</answer>
+    <comment></comment>
+    <uuid>371601c9-25c6-4ed9-a870-b8493be1fbc5</uuid>
+  </card>
+  <card>
+    <question>der Süden</question>
+    <answer>юг</answer>
+    <comment></comment>
+    <uuid>865b155b-c3f0-4d02-b353-556dca8ba428</uuid>
+  </card>
+  <card>
+    <question>der Osten</question>
+    <answer>восток</answer>
+    <comment></comment>
+    <uuid>b0d4a93d-828e-4729-a58c-e43d70f92d3c</uuid>
+  </card>
+  <card>
+    <question>der Westen</question>
+    <answer>запад</answer>
+    <comment></comment>
+    <uuid>e2c4e607-4afe-4d68-9762-1503fa614622</uuid>
+  </card>
+  <card>
+    <question>die Schweiz</question>
+    <answer>Швейцария</answer>
+    <comment></comment>
+    <uuid>dd170cfd-4ffc-491f-8358-4e03739e94f3</uuid>
+  </card>
+  <card>
+    <question>Europa</question>
+    <answer>Европа</answer>
+    <comment></comment>
+    <uuid>86fbd280-dbcb-4203-9361-a2b1c4724ce5</uuid>
+  </card>
+  <card>
+    <question>das Zentrum</question>
+    <answer>центр</answer>
+    <comment>Zentren</comment>
+    <uuid>472cb12b-bc4f-4278-853b-481917a4d651</uuid>
+  </card>
+  <card>
+    <question>die Hauptstadt</question>
+    <answer>столица</answer>
+    <comment>Hauptstädte</comment>
+    <uuid>8c411439-e200-4eca-bb44-97897931bb31</uuid>
+  </card>
+  <card>
+    <question>Großbritannien</question>
+    <answer>Великобритания</answer>
+    <comment></comment>
+    <uuid>76f89a47-54de-4003-b9b2-a0d90ccad03b</uuid>
+  </card>
+  <card>
+    <question>Österreich</question>
+    <answer>Австрия</answer>
+    <comment></comment>
+    <uuid>1c23f1f6-97df-47c7-a003-e9e65cf084df</uuid>
+  </card>
+  <card>
+    <question>der Name</question>
+    <answer>имя</answer>
+    <comment>Namen</comment>
+    <uuid>07528e5e-1c5a-4fd7-9bc7-84d619713532</uuid>
+  </card>
+  <card>
+    <question>der Wohnort</question>
+    <answer>место жительства</answer>
+    <comment>Wohnorte</comment>
+    <uuid>926c1d03-c5b2-4c1b-a8fc-5ec927bbc58d</uuid>
+  </card>
+  <card>
+    <question>der Text</question>
+    <answer>текст</answer>
+    <comment>Texte</comment>
+    <uuid>3dff5750-d97a-45f1-8dde-c8fb30d60e9d</uuid>
+  </card>
+  <card>
+    <question>woher?</question>
+    <answer>откуда?</answer>
+    <comment></comment>
+    <uuid>0cdecba4-3314-4d1b-9ade-4a0d19920fa6</uuid>
+  </card>
+  <card>
+    <question>kommen (kam, gekommen)</question>
+    <answer>приходить (происходить)</answer>
+    <comment></comment>
+    <uuid>e720b774-4ff1-44da-96da-4877dd8f3d92</uuid>
+  </card>
+  <card>
+    <question>arbeiten</question>
+    <answer>работать</answer>
+    <comment></comment>
+    <uuid>0c0e3640-6ec7-4c1c-9a2f-8d08652a3fc2</uuid>
+  </card>
+  <card>
+    <question>die Familie</question>
+    <answer>семья</answer>
+    <comment>Familien</comment>
+    <uuid>bc19a0e8-10cc-4471-9ff2-033308ac966d</uuid>
+  </card>
+  <card>
+    <question>aus</question>
+    <answer>из</answer>
+    <comment></comment>
+    <uuid>63979a3d-644c-4690-aaca-5dffaa877203</uuid>
+  </card>
+  <card>
+    <question>die Türkei</question>
+    <answer>Турция</answer>
+    <comment></comment>
+    <uuid>d403eb98-793d-45e4-9f96-efd1eef55b46</uuid>
+  </card>
+  <card>
+    <question>leben</question>
+    <answer>жить</answer>
+    <comment></comment>
+    <uuid>0c07708d-80a2-40dc-a397-bfc3c4147372</uuid>
+  </card>
+  <card>
+    <question>Polnisch</question>
+    <answer>польский</answer>
+    <comment></comment>
+    <uuid>5a34e5a2-f2ce-4b5d-9dc6-4b33dffa69d1</uuid>
+  </card>
+  <card>
+    <question>Polen</question>
+    <answer>Польша</answer>
+    <comment></comment>
+    <uuid>5dfda919-78d3-4e27-95f5-26ad4c634f1c</uuid>
+  </card>
+  <card>
+    <question>heißen (hieß, geheißen)</question>
+    <answer>звать</answer>
+    <comment></comment>
+    <uuid>dc8d05bc-fde5-4c7a-ad72-e433b221cf6e</uuid>
+  </card>
+  <card>
+    <question>Japanisch</question>
+    <answer>японский</answer>
+    <comment></comment>
+    <uuid>a43b6b50-e2dc-431e-b041-272b2d2c16dc</uuid>
+  </card>
+  <card>
+    <question>lernen</question>
+    <answer>учить что-нибудь</answer>
+    <comment></comment>
+    <uuid>f77e3028-c510-439f-9bc3-892b8eb53ae0</uuid>
+  </card>
+  <card>
+    <question>gerade</question>
+    <answer>как раз</answer>
+    <comment></comment>
+    <uuid>7da8e25f-0182-47e7-a25c-defa6105f60d</uuid>
+  </card>
+  <card>
+    <question>sammeln</question>
+    <answer>собирать</answer>
+    <comment></comment>
+    <uuid>743e7037-4f4f-4431-abde-13d32d496182</uuid>
+  </card>
+  <card>
+    <question>der Vorname</question>
+    <answer>имя</answer>
+    <comment>Vornamen</comment>
+    <uuid>7a634ae7-81c3-4c1a-8179-bb7b175c90db</uuid>
+  </card>
+  <card>
+    <question>der Nachname</question>
+    <answer>фамилия</answer>
+    <comment>Nachnamen</comment>
+    <uuid>b86363a0-df02-4974-b206-79beb51ce13d</uuid>
+  </card>
+  <card>
+    <question>die Nationalität</question>
+    <answer>национальнсть</answer>
+    <comment>Nationalitäten</comment>
+    <uuid>a2276a3a-4d82-4984-97af-58ca4435350e</uuid>
+  </card>
+  <card>
+    <question>fragen</question>
+    <answer>спрашивать, осведомляться</answer>
+    <comment></comment>
+    <uuid>cc81b1d6-c89b-49ba-9570-c9a4f7079d6e</uuid>
+  </card>
+  <card>
+    <question>antworten</question>
+    <answer>отвечать</answer>
+    <comment></comment>
+    <uuid>66a4e895-f1eb-4bef-aa95-6d495948be04</uuid>
+  </card>
+  <card>
+    <question>Japan</question>
+    <answer>Япония</answer>
+    <comment></comment>
+    <uuid>9b6e198e-b2e2-40e8-81e8-3655e5c2b792</uuid>
+  </card>
+  <card>
+    <question>wie?</question>
+    <answer>как?</answer>
+    <comment></comment>
+    <uuid>8c61a126-c2d5-4082-b07d-06c809c4a69d</uuid>
+  </card>
+  <card>
+    <question>wissen (wußte, gewußt)</question>
+    <answer>знать</answer>
+    <comment></comment>
+    <uuid>e0a48df9-ca17-448f-9389-26d5b6ad843c</uuid>
+  </card>
+  <card>
+    <question>nicht</question>
+    <answer>не</answer>
+    <comment></comment>
+    <uuid>79ff05ee-7d7a-49ee-bb2c-020a438ed982</uuid>
+  </card>
+  <card>
+    <question>die Adresse</question>
+    <answer>адрес</answer>
+    <comment>Adressen</comment>
+    <uuid>9c8a6607-8e53-410b-b2c9-5c2e36c9fc22</uuid>
+  </card>
+  <card>
+    <question>vorstellen</question>
+    <answer>представить</answer>
+    <comment></comment>
+    <uuid>f84016d3-95ff-4421-b138-6e47f7fa49aa</uuid>
+  </card>
+  <card>
+    <question>Spanien</question>
+    <answer>Испания</answer>
+    <comment></comment>
+    <uuid>98c48bd8-88a4-4834-b3fe-8f44bbd3cccb</uuid>
+  </card>
+  <card>
+    <question>bitte</question>
+    <answer>пожалуйста</answer>
+    <comment></comment>
+    <uuid>7abe2c8c-1fcb-49af-96c8-5ced71e02701</uuid>
+  </card>
+  <card>
+    <question>mein-</question>
+    <answer>мой</answer>
+    <comment></comment>
+    <uuid>90298246-6813-461d-bdc9-8fc651833f32</uuid>
+  </card>
+  <card>
+    <question>Ihr-</question>
+    <answer>Ваш</answer>
+    <comment></comment>
+    <uuid>12438a9b-2b9b-4ed1-ad5f-61790f7ca1bf</uuid>
+  </card>
+  <card>
+    <question>sie</question>
+    <answer>они</answer>
+    <comment>(Pl.)</comment>
+    <uuid>3db1aaf6-6b77-451f-9603-8ba1ed4f9f63</uuid>
+  </card>
+  <card>
+    <question>Entschuldigung</question>
+    <answer>извинение</answer>
+    <comment></comment>
+    <uuid>c72392ae-c238-42f3-8a49-fd61e11e85ef</uuid>
+  </card>
+  <card>
+    <question>was?</question>
+    <answer>что?</answer>
+    <comment></comment>
+    <uuid>a4294979-1d5d-474a-a179-173bc3461c11</uuid>
+  </card>
+  <card>
+    <question>der Partner</question>
+    <answer>партнер, спутник</answer>
+    <comment>Partner</comment>
+    <uuid>c1708df6-12fa-4a0c-8479-45a7575c1a20</uuid>
+  </card>
+  <card>
+    <question>die Partnerin</question>
+    <answer>спутница</answer>
+    <comment>Partnerinnen</comment>
+    <uuid>2ed80243-5350-4bf3-917c-3092be2c6df0</uuid>
+  </card>
+  <card>
+    <question>die Aussprache</question>
+    <answer>произношение</answer>
+    <comment></comment>
+    <uuid>10ac3833-fd7d-463d-9118-18b1e86a746d</uuid>
+  </card>
+  <card>
+    <question>mitlesen (las mit, mitgelesen)</question>
+    <answer>читать вместе</answer>
+    <comment></comment>
+    <uuid>71caa1c1-d204-4e9f-9c30-9144c74a8413</uuid>
+  </card>
+  <card>
+    <question>halblaut</question>
+    <answer>вполголоса</answer>
+    <comment></comment>
+    <uuid>97a54136-2db9-417c-9153-46343ea642a9</uuid>
+  </card>
+  <card>
+    <question>der Akzent</question>
+    <answer>ударение, произношение</answer>
+    <comment>Akzente</comment>
+    <uuid>6f8530ef-80d0-450b-84c7-2c79a586d247</uuid>
+  </card>
+  <card>
+    <question>die Pause</question>
+    <answer>пауза</answer>
+    <comment>Pausen</comment>
+    <uuid>fa77a6d4-3443-4dc8-8f55-ce0b0c88f6f4</uuid>
+  </card>
+  <card>
+    <question>die Sprechmelodie</question>
+    <answer>интонация</answer>
+    <comment></comment>
+    <uuid>d2be3338-7035-4e1e-af26-4aa5ca4306b4</uuid>
+  </card>
+  <card>
+    <question>Hallo!</question>
+    <answer>Привет!</answer>
+    <comment></comment>
+    <uuid>22226452-dadf-4010-bfde-51b0b9ea88f9</uuid>
+  </card>
+  <card>
+    <question>so</question>
+    <answer>так</answer>
+    <comment></comment>
+    <uuid>ce4715fc-e581-4f5e-8203-9d3d2f6e82f4</uuid>
+  </card>
+  <card>
+    <question>Ach so!</question>
+    <answer>Вот как!, понимаю!</answer>
+    <comment></comment>
+    <uuid>59d53d98-587e-442a-86e3-a163fe409c5c</uuid>
+  </card>
+  <card>
+    <question>leise</question>
+    <answer>тихо</answer>
+    <comment></comment>
+    <uuid>fb078704-e530-43b8-ab3e-1adbb95d2a7a</uuid>
+  </card>
+  <card>
+    <question>das Akzentwort</question>
+    <answer>ударное слово</answer>
+    <comment>Akzentworte</comment>
+    <uuid>1de5eabd-a232-4126-8edc-2ca10f254268</uuid>
+  </card>
+  <card>
+    <question>laut</question>
+    <answer>громко</answer>
+    <comment></comment>
+    <uuid>a95ab979-da8a-45f7-aca8-ee654e89b20b</uuid>
+  </card>
+  <card>
+    <question>kurz</question>
+    <answer>короткий</answer>
+    <comment></comment>
+    <uuid>866f7a4f-2faa-4621-a142-2e4e1d1f5cd6</uuid>
+  </card>
+  <card>
+    <question>der Satz</question>
+    <answer>предложение</answer>
+    <comment>Sätze</comment>
+    <uuid>b4990dac-4b4e-4231-9a68-6059182485b1</uuid>
+  </card>
+  <card>
+    <question>ohne</question>
+    <answer>без</answer>
+    <comment></comment>
+    <uuid>e8524f49-3e23-4413-b319-14394a6c5421</uuid>
+  </card>
+  <card>
+    <question>fallen (fiel, gefallen)</question>
+    <answer>падать</answer>
+    <comment></comment>
+    <uuid>189c9627-be59-42a7-b17f-5696ba8d2f73</uuid>
+  </card>
+  <card>
+    <question>an</question>
+    <answer>на</answer>
+    <comment></comment>
+    <uuid>4e89af38-47b1-4ece-8ca7-91f7628973a7</uuid>
+  </card>
+  <card>
+    <question>das Satzende</question>
+    <answer>конец предложения</answer>
+    <comment></comment>
+    <uuid>e4e3c375-f1ed-44f7-9ce3-c37dc43acfaf</uuid>
+  </card>
+  <card>
+    <question>das Alphabet</question>
+    <answer>алфавит</answer>
+    <comment></comment>
+    <uuid>b56241ee-51bd-459e-87be-c0aa823b5492</uuid>
+  </card>
+  <card>
+    <question>die Lautschrift</question>
+    <answer>транскрипция</answer>
+    <comment></comment>
+    <uuid>dc0451ed-b744-437b-8a5b-bc0b664e5a3b</uuid>
+  </card>
+  <card>
+    <question>der Wortschatz</question>
+    <answer>запас слов</answer>
+    <comment></comment>
+    <uuid>23c044c4-c68e-4e3e-8ff4-817f1ef0241f</uuid>
+  </card>
+  <card>
+    <question>das Wort-Netz</question>
+    <answer>тематическая группа</answer>
+    <comment>Wort-Netze</comment>
+    <uuid>70262ddb-247e-46d9-9e08-5c195ee488e5</uuid>
+  </card>
+  <card>
+    <question>der Deutschkurs</question>
+    <answer>курс немецкого</answer>
+    <comment>Deutschkurse</comment>
+    <uuid>150ccc45-4fb9-4812-82c8-1d2df2765761</uuid>
+  </card>
+  <card>
+    <question>üben</question>
+    <answer>упражняться</answer>
+    <comment></comment>
+    <uuid>b28c880b-5b47-43bd-af99-d475498b7caf</uuid>
+  </card>
+  <card>
+    <question>die Grammatik</question>
+    <answer>грамматика</answer>
+    <comment></comment>
+    <uuid>46630d30-df11-4863-b89e-7eda77fb75d7</uuid>
+  </card>
+  <card>
+    <question>der Dialog</question>
+    <answer>диалог</answer>
+    <comment>Dialoge</comment>
+    <uuid>4257022e-0d51-45f7-8932-399a7aa7e9cd</uuid>
+  </card>
+  <card>
+    <question>spielen</question>
+    <answer>играть</answer>
+    <comment></comment>
+    <uuid>6f1ee9b6-131c-4ac3-bded-36d6f04840ba</uuid>
+  </card>
+  <card>
+    <question>vergleichen (verglich, verglichen)</question>
+    <answer>сравнить</answer>
+    <comment></comment>
+    <uuid>4c8f3ffa-e6b0-4518-bbbc-0ac5ecc80445</uuid>
+  </card>
+  <card>
+    <question>korrigieren</question>
+    <answer>исправить</answer>
+    <comment></comment>
+    <uuid>2d60a624-d480-4056-a24c-7c1c1ac79a38</uuid>
+  </card>
+  <card>
+    <question>bewerten</question>
+    <answer>оценивать</answer>
+    <comment></comment>
+    <uuid>ad8134c9-ade5-4b69-8b7b-b39025bb0c35</uuid>
+  </card>
+  <card>
+    <question>das Wort</question>
+    <answer>слово</answer>
+    <comment>Wörter</comment>
+    <uuid>6e982560-c309-4333-8346-245595dc1a83</uuid>
+  </card>
+  <card>
+    <question>schreiben (schrieb, geschrieben)</question>
+    <answer>писать</answer>
+    <comment></comment>
+    <uuid>caa70093-64be-46cf-a58a-0fe2d1255386</uuid>
+  </card>
+  <card>
+    <question>ergänzen</question>
+    <answer>дополнить</answer>
+    <comment></comment>
+    <uuid>0ec9ea39-d72d-4932-907e-e946718d6246</uuid>
+  </card>
+  <card>
+    <question>notieren</question>
+    <answer>записывать</answer>
+    <comment></comment>
+    <uuid>09892637-cfef-4b79-94d7-b9b5771260fe</uuid>
+  </card>
+  <card>
+    <question>die Kassette</question>
+    <answer>касетта</answer>
+    <comment>Cassetten</comment>
+    <uuid>35e57a44-2bc3-4f84-b3ae-68aa86bb4701</uuid>
+  </card>
+  <card>
+    <question>mit</question>
+    <answer>с</answer>
+    <comment></comment>
+    <uuid>09497730-ada7-4455-a377-b7b116b7800f</uuid>
+  </card>
+  <card>
+    <question>die Referenz</question>
+    <answer>ссылка, рекомендация</answer>
+    <comment>Referenzen</comment>
+    <uuid>b2542423-859f-4a27-a53c-3baf65e5ec9b</uuid>
+  </card>
+  <card>
+    <question>die Frage</question>
+    <answer>вопрос</answer>
+    <comment>Fragen</comment>
+    <uuid>7f023aee-d269-4ec8-9395-fa75e8d332cc</uuid>
+  </card>
+  <card>
+    <question>die Wortfrage</question>
+    <answer>специальный вопрос</answer>
+    <comment>Wortfragen</comment>
+    <uuid>aee4ccad-20c8-4dc4-aef8-28334505e10f</uuid>
+  </card>
+  <card>
+    <question>die Aussage</question>
+    <answer>высказывание</answer>
+    <comment>Aussagen</comment>
+    <uuid>ef724cba-bc8e-4abf-89a2-e71f32adecbe</uuid>
+  </card>
+  <card>
+    <question>der Aussagesatz</question>
+    <answer>повествовательное предложение</answer>
+    <comment>Aussagesätze</comment>
+    <uuid>0da44e62-1c1e-4222-97cc-beee779699aa</uuid>
+  </card>
+  <card>
+    <question>das Verb</question>
+    <answer>глагол</answer>
+    <comment>Verben</comment>
+    <uuid>e3162e8e-7a3d-4698-845d-d31e6f516eba</uuid>
+  </card>
+  <card>
+    <question>das Subjekt</question>
+    <answer>подлежащее</answer>
+    <comment>Subjekte</comment>
+    <uuid>b6a8d754-cb09-45f6-b885-d752e9b1e602</uuid>
+  </card>
+  <card>
+    <question>der Stamm</question>
+    <answer>основа</answer>
+    <comment>Stämme</comment>
+    <uuid>3860663d-3215-4a54-825e-48d6165286ce</uuid>
+  </card>
+  <card>
+    <question>die Endung</question>
+    <answer>окончание</answer>
+    <comment>Endungen</comment>
+    <uuid>4d54c56d-56c6-48b5-87aa-27a18733994f</uuid>
+  </card>
+  <card>
+    <question>die Aufforderung</question>
+    <answer>побуждение</answer>
+    <comment>Aufforderungen</comment>
+    <uuid>2b42bd3d-113d-43bb-b215-0db853554383</uuid>
+  </card>
+  <card>
+    <question>der Aufforderungssatz</question>
+    <answer>побудительное предложение</answer>
+    <comment>Aufforderungssätze</comment>
+    <uuid>b6e076ef-0c4f-4f39-83c4-424710994b4a</uuid>
+  </card>
+  <card>
+    <question>der Imperativ</question>
+    <answer>императив</answer>
+    <comment></comment>
+    <uuid>7d91aad4-3228-48ac-a125-2dec7ea35d62</uuid>
+  </card>
+  <card>
+    <question>fremd</question>
+    <answer>чужой</answer>
+    <comment></comment>
+    <uuid>61fc8ccf-231d-4cf8-87ec-6e24581d4e6d</uuid>
+  </card>
+  <card>
+    <question>die Ankunft</question>
+    <answer>прибытие</answer>
+    <comment>Ankünfte</comment>
+    <uuid>afe69e26-adf1-4c9c-9c2f-8526a948fa3e</uuid>
+  </card>
+  <card>
+    <question>die Orientierung</question>
+    <answer>ориентация</answer>
+    <comment>Orientirungen</comment>
+    <uuid>196e368c-6b1c-4195-b7c3-1d5b2da5ce34</uuid>
+  </card>
+  <card>
+    <question>der Ort</question>
+    <answer>место</answer>
+    <comment>Orte</comment>
+    <uuid>81e954c9-cbfe-4ee8-918a-ca2a258f4a82</uuid>
+  </card>
+  <card>
+    <question>der Weg</question>
+    <answer>путь</answer>
+    <comment>Wege</comment>
+    <uuid>b278aa9b-a9c6-4e0f-bcdf-6c8c644f2c9f</uuid>
+  </card>
+  <card>
+    <question>suchen</question>
+    <answer>искать</answer>
+    <comment></comment>
+    <uuid>6093b34d-3334-4ae9-8dac-560448b87b46</uuid>
+  </card>
+  <card>
+    <question>die Frau</question>
+    <answer>женщина</answer>
+    <comment>Frauen</comment>
+    <uuid>cb2599a6-8246-4d58-8b06-97cb539685b6</uuid>
+  </card>
+  <card>
+    <question>ja</question>
+    <answer>да</answer>
+    <comment></comment>
+    <uuid>654b196a-0047-45cf-a3b1-43a5ff802631</uuid>
+  </card>
+  <card>
+    <question>der Bahnhof</question>
+    <answer>вокзал</answer>
+    <comment>Bahnhöfe</comment>
+    <uuid>7d1eb930-334e-432b-933d-7445fc6ce3f0</uuid>
+  </card>
+  <card>
+    <question>gehen (ging, gegangen)</question>
+    <answer>идти</answer>
+    <comment></comment>
+    <uuid>19627811-fc8f-4348-aba9-f3d752cfb57a</uuid>
+  </card>
+  <card>
+    <question>gleich</question>
+    <answer>сейчас</answer>
+    <comment></comment>
+    <uuid>75ab32e3-30c6-4b14-a59c-1afb38f524d1</uuid>
+  </card>
+  <card>
+    <question>rechts</question>
+    <answer>направо</answer>
+    <comment></comment>
+    <uuid>aa056ffa-c05c-4b87-94b0-6ecfc52b4fa5</uuid>
+  </card>
+  <card>
+    <question>dann</question>
+    <answer>потом</answer>
+    <comment></comment>
+    <uuid>e832b477-06d7-4784-8b1b-4416400ced39</uuid>
+  </card>
+  <card>
+    <question>links</question>
+    <answer>налево</answer>
+    <comment></comment>
+    <uuid>03adb569-1908-467f-b015-9f106a8f86b2</uuid>
+  </card>
+  <card>
+    <question>geradeaus</question>
+    <answer>прямо</answer>
+    <comment></comment>
+    <uuid>37e26b64-a6ea-49ed-af37-143a2b21632e</uuid>
+  </card>
+  <card>
+    <question>die Kreuzung</question>
+    <answer>перекресток</answer>
+    <comment>Kreuzungen</comment>
+    <uuid>592c90b5-6855-42ff-8158-dd7297845211</uuid>
+  </card>
+  <card>
+    <question>viel</question>
+    <answer>много</answer>
+    <comment>viele (Pl.)</comment>
+    <uuid>0a556ee9-bd09-49a5-950f-b561e5ede3af</uuid>
+  </card>
+  <card>
+    <question>die Post</question>
+    <answer>почта</answer>
+    <comment></comment>
+    <uuid>9e5ebcbf-6ba4-4780-b9f0-19b5b15ebe53</uuid>
+  </card>
+  <card>
+    <question>die Bibliothek</question>
+    <answer>библиотека</answer>
+    <comment>Bibliotheken</comment>
+    <uuid>c062bfd0-c82d-44a8-bc0c-49c7ac0ff0df</uuid>
+  </card>
+  <card>
+    <question>die Stadtbibliothek</question>
+    <answer>городская библиотека</answer>
+    <comment></comment>
+    <uuid>ca023177-d458-484a-b7fe-317656416fb4</uuid>
+  </card>
+  <card>
+    <question>das Hotel</question>
+    <answer>гостинница</answer>
+    <comment>Hotels</comment>
+    <uuid>c1a4deb7-782b-4b27-a378-08f1096d3f58</uuid>
+  </card>
+  <card>
+    <question>nehmen (nahm, genommen)</question>
+    <answer>брать</answer>
+    <comment></comment>
+    <uuid>56752967-afdd-48b1-997e-2c2f8c0ae67e</uuid>
+  </card>
+  <card>
+    <question>kosten</question>
+    <answer>стоить</answer>
+    <comment></comment>
+    <uuid>0cd1f6e2-752f-425e-a8b7-01b078b71c58</uuid>
+  </card>
+  <card>
+    <question>der Abend</question>
+    <answer>вечер</answer>
+    <comment>Abende</comment>
+    <uuid>a6d371c1-c2df-4472-b525-ad12e3c1699a</uuid>
+  </card>
+  <card>
+    <question>das Zimmer</question>
+    <answer>комната</answer>
+    <comment>Zimmer</comment>
+    <uuid>3c4b5d12-6f30-479e-9907-3fb9f03df2ec</uuid>
+  </card>
+  <card>
+    <question>das Hotelzimmer</question>
+    <answer>гостинничный номер</answer>
+    <comment>Hotelzimmer</comment>
+    <uuid>0945f901-1db1-4f6a-a445-02f8568ca396</uuid>
+  </card>
+  <card>
+    <question>für</question>
+    <answer>для</answer>
+    <comment></comment>
+    <uuid>8d4c555d-5769-43d1-8ac9-6dc31429af02</uuid>
+  </card>
+  <card>
+    <question>etwa</question>
+    <answer>около</answer>
+    <comment></comment>
+    <uuid>611d9407-8863-4093-aff3-3566ae72c912</uuid>
+  </card>
+  <card>
+    <question>geben (gab, gegeben)</question>
+    <answer>дать</answer>
+    <comment></comment>
+    <uuid>94c0b458-5d6f-4e97-b772-7c7e111ee4ef</uuid>
+  </card>
+  <card>
+    <question>gut</question>
+    <answer>хорошо</answer>
+    <comment></comment>
+    <uuid>6eff91b1-3a33-420d-a6a2-0a06451fb8cb</uuid>
+  </card>
+  <card>
+    <question>reservieren</question>
+    <answer>зарезервировать</answer>
+    <comment></comment>
+    <uuid>a9d19c81-5833-4c8f-9a91-7bb690aebff6</uuid>
+  </card>
+  <card>
+    <question>gern(e)</question>
+    <answer>с удовольствием</answer>
+    <comment></comment>
+    <uuid>01e87efe-913a-4787-9ce5-1ea364215c00</uuid>
+  </card>
+  <card>
+    <question>der Stadtplan</question>
+    <answer>план города</answer>
+    <comment>Stadtpläne</comment>
+    <uuid>787501f0-54ab-4f50-9fd4-e62cd4ef188d</uuid>
+  </card>
+  <card>
+    <question>der Hauptbahnhof</question>
+    <answer>главный вокзал</answer>
+    <comment>(=Hbf.)</comment>
+    <uuid>53f05074-9e95-4c97-b189-b07fa521dcc8</uuid>
+  </card>
+  <card>
+    <question>die Straße</question>
+    <answer>улица</answer>
+    <comment>Straßen</comment>
+    <uuid>8d5d8751-e6f0-4808-b9bf-427b4c177560</uuid>
+  </card>
+  <card>
+    <question>der Platz</question>
+    <answer>место</answer>
+    <comment>Plätze</comment>
+    <uuid>5e5ddc6f-813a-4881-8ff5-b23ac3131c1c</uuid>
+  </card>
+  <card>
+    <question>weit</question>
+    <answer>далеко</answer>
+    <comment></comment>
+    <uuid>6e24d334-fae5-4405-8262-fdb91d52536c</uuid>
+  </card>
+  <card>
+    <question>genau</question>
+    <answer>точно</answer>
+    <comment></comment>
+    <uuid>9bca4a70-b277-4c17-bd5e-7b1479f86ad8</uuid>
+  </card>
+  <card>
+    <question>schauen</question>
+    <answer>смотреть</answer>
+    <comment></comment>
+    <uuid>31989dee-c432-491a-9c7d-e18b513c7e6c</uuid>
+  </card>
+  <card>
+    <question>hier</question>
+    <answer>здесь</answer>
+    <comment></comment>
+    <uuid>510cbed2-827c-4ce7-a82f-caa6b7d74df3</uuid>
+  </card>
+  <card>
+    <question>ganz</question>
+    <answer>совсем</answer>
+    <comment></comment>
+    <uuid>e3420d86-776e-4c5f-bbde-a5107d7d9ebe</uuid>
+  </card>
+  <card>
+    <question>einfach</question>
+    <answer>просто</answer>
+    <comment></comment>
+    <uuid>5c8f486f-16fa-4790-993a-7b80fa32b9cf</uuid>
+  </card>
+  <card>
+    <question>die Richtung</question>
+    <answer>направление</answer>
+    <comment>Richtungen</comment>
+    <uuid>2e1471fe-1434-4e1b-acf7-724e15da4f76</uuid>
+  </card>
+  <card>
+    <question>der Markt</question>
+    <answer>рынок</answer>
+    <comment>Märkte</comment>
+    <uuid>db3fb2b4-304d-406c-b34e-58c48238e348</uuid>
+  </card>
+  <card>
+    <question>sehr</question>
+    <answer>очень</answer>
+    <comment></comment>
+    <uuid>ea787f1c-ac74-450b-8b8a-32cedb1affba</uuid>
+  </card>
+  <card>
+    <question>nein</question>
+    <answer>нет</answer>
+    <comment></comment>
+    <uuid>919a0a0d-1533-43fb-8fd7-b385b8dba844</uuid>
+  </card>
+  <card>
+    <question>der Fuß</question>
+    <answer>нога, ступня</answer>
+    <comment>Füße</comment>
+    <uuid>b35aafde-aa7a-4717-a51a-956df1315647</uuid>
+  </card>
+  <card>
+    <question>zu Fuß</question>
+    <answer>пешком</answer>
+    <comment></comment>
+    <uuid>0f6d7b1a-c4af-4d3a-bf41-e7c5ba3b928f</uuid>
+  </card>
+  <card>
+    <question>die Minute</question>
+    <answer>минута</answer>
+    <comment>Minuten</comment>
+    <uuid>d51f7f39-98cf-4a44-b1c3-0e8b7b301662</uuid>
+  </card>
+  <card>
+    <question>die Anmeldung</question>
+    <answer>регистрация</answer>
+    <comment>Anmeldungen</comment>
+    <uuid>1a496c71-3bdd-4e0b-ba86-fa983166ace6</uuid>
+  </card>
+  <card>
+    <question>der Anfang</question>
+    <answer>начало</answer>
+    <comment>Anfänge</comment>
+    <uuid>f4a51c50-87cf-4cae-814e-5aec67408886</uuid>
+  </card>
+  <card>
+    <question>ausfüllen</question>
+    <answer>заполнить</answer>
+    <comment></comment>
+    <uuid>686f55f9-6353-4097-8082-05687bb4612c</uuid>
+  </card>
+  <card>
+    <question>haben (hatte, gehabt)</question>
+    <answer>иметь</answer>
+    <comment></comment>
+    <uuid>dee5be55-0247-416e-a525-78ecd37fb3d7</uuid>
+  </card>
+  <card>
+    <question>die Nummer</question>
+    <answer>номер</answer>
+    <comment>Nummern</comment>
+    <uuid>378ffc2e-1f9a-46eb-9965-f09de1076b07</uuid>
+  </card>
+  <card>
+    <question>buchstabieren</question>
+    <answer>сказать по буквам</answer>
+    <comment></comment>
+    <uuid>25683ef9-0f64-4efb-996e-f6848e4e5112</uuid>
+  </card>
+  <card>
+    <question>das Cafe</question>
+    <answer>кафе</answer>
+    <comment>Cafes</comment>
+    <uuid>b5fb74be-071a-497d-9a08-32c2ba377d55</uuid>
+  </card>
+  <card>
+    <question>bestellen</question>
+    <answer>заказать</answer>
+    <comment></comment>
+    <uuid>78499f13-8bd9-4280-945f-81f2cb4cb09b</uuid>
+  </card>
+  <card>
+    <question>jetzt</question>
+    <answer>теперь</answer>
+    <comment></comment>
+    <uuid>051a7b0d-8dd9-4b4f-a448-1a0af1413891</uuid>
+  </card>
+  <card>
+    <question>sitzen (saß, gesessen)</question>
+    <answer>сидеть</answer>
+    <comment></comment>
+    <uuid>4437e0b7-eed8-4a2f-9e1c-21c4ce5c3519</uuid>
+  </card>
+  <card>
+    <question>die Speisekarte</question>
+    <answer>меню</answer>
+    <comment>Speisekarten</comment>
+    <uuid>add4222c-d9fb-4359-a56c-cf376917660c</uuid>
+  </card>
+  <card>
+    <question>klein</question>
+    <answer>маленький</answer>
+    <comment></comment>
+    <uuid>3782c89e-6423-4547-a083-ca7455047340</uuid>
+  </card>
+  <card>
+    <question>heiß</question>
+    <answer>горячий</answer>
+    <comment></comment>
+    <uuid>7e2ebbb1-6694-4998-9053-be5bc5fc9ed5</uuid>
+  </card>
+  <card>
+    <question>das Getränk</question>
+    <answer>напиток</answer>
+    <comment>Getränke</comment>
+    <uuid>6bc8ba04-1f57-4c3c-9520-f0ce1c1ca9de</uuid>
+  </card>
+  <card>
+    <question>der Tee</question>
+    <answer>чай</answer>
+    <comment></comment>
+    <uuid>e3b78696-00c3-4717-8112-cde591dea362</uuid>
+  </card>
+  <card>
+    <question>die Zitrone</question>
+    <answer>лимон</answer>
+    <comment>Zitronen</comment>
+    <uuid>3e21e4bd-f7ae-4952-9c44-132cc47d3a58</uuid>
+  </card>
+  <card>
+    <question>die Milch</question>
+    <answer>молоко</answer>
+    <comment></comment>
+    <uuid>520a8bf5-cc40-4bfd-9e22-9284912bd7ca</uuid>
+  </card>
+  <card>
+    <question>der Kaffee</question>
+    <answer>кофе</answer>
+    <comment></comment>
+    <uuid>57869d3b-8802-45f1-a442-0258b7cd7a10</uuid>
+  </card>
+  <card>
+    <question>kalt</question>
+    <answer>холодный</answer>
+    <comment></comment>
+    <uuid>39a76a50-af96-4650-a299-f6d88b8caade</uuid>
+  </card>
+  <card>
+    <question>das Wasser</question>
+    <answer>вода</answer>
+    <comment></comment>
+    <uuid>651acb0c-c2a2-43f7-8041-ea9094bb60dd</uuid>
+  </card>
+  <card>
+    <question>das Saft</question>
+    <answer>сок</answer>
+    <comment></comment>
+    <uuid>3c4b3a79-c6d3-4f12-963b-c1ae2a7c5c00</uuid>
+  </card>
+  <card>
+    <question>der Kuchen</question>
+    <answer>пирог</answer>
+    <comment>Kuchen</comment>
+    <uuid>73ba537b-0606-4a26-a270-886061e36289</uuid>
+  </card>
+  <card>
+    <question>die Torte</question>
+    <answer>торт</answer>
+    <comment>Torten</comment>
+    <uuid>f51df5fc-4e5f-4e42-8410-6cfac8e5b1fe</uuid>
+  </card>
+  <card>
+    <question>die Speise</question>
+    <answer>блюдо</answer>
+    <comment>Speisen</comment>
+    <uuid>c04d77e1-bba6-4bb2-b023-1e9c10eede1c</uuid>
+  </card>
+  <card>
+    <question>der Salat</question>
+    <answer>салат</answer>
+    <comment></comment>
+    <uuid>e317995e-f537-404a-98c9-252954bb33cf</uuid>
+  </card>
+  <card>
+    <question>das Sandwich</question>
+    <answer>сэндвич</answer>
+    <comment>Sandwiches</comment>
+    <uuid>01cf3173-4785-405d-955a-d052542269dd</uuid>
+  </card>
+  <card>
+    <question>der Käse</question>
+    <answer>сыр</answer>
+    <comment></comment>
+    <uuid>825ff4d2-17d9-48b5-ba82-6349f063a837</uuid>
+  </card>
+  <card>
+    <question>der Schinken</question>
+    <answer>ветчина</answer>
+    <comment></comment>
+    <uuid>fe1deb89-ed1b-42c8-8049-17c7f1e1b6a2</uuid>
+  </card>
+  <card>
+    <question>der Hunger</question>
+    <answer>голод</answer>
+    <comment></comment>
+    <uuid>8bb2c595-f46c-4991-9c0c-4888a3c60cd5</uuid>
+  </card>
+  <card>
+    <question>also</question>
+    <answer>таким образом</answer>
+    <comment></comment>
+    <uuid>55a1cb6f-37bd-4151-a055-a7d3e4dd273b</uuid>
+  </card>
+  <card>
+    <question>oder</question>
+    <answer>или</answer>
+    <comment></comment>
+    <uuid>8e79e474-cc52-44b3-a519-576592e3b1ae</uuid>
+  </card>
+  <card>
+    <question>der Plan</question>
+    <answer>план</answer>
+    <comment>Pläne</comment>
+    <uuid>1f71a0b0-6e27-498e-8541-508b578099ea</uuid>
+  </card>
+  <card>
+    <question>machen</question>
+    <answer>делать (что-нибудь)</answer>
+    <comment></comment>
+    <uuid>c20faae2-e6b5-4476-b6ee-5be576bd15c1</uuid>
+  </card>
+  <card>
+    <question>überlegen</question>
+    <answer>обдумывать</answer>
+    <comment></comment>
+    <uuid>7fbd467a-9fc7-45b3-a95c-3d025ad9524b</uuid>
+  </card>
+  <card>
+    <question>die Möglichkeit</question>
+    <answer>возможность</answer>
+    <comment>Möglichkeiten</comment>
+    <uuid>9b7375ec-79dc-4247-841d-03d6edb9af0e</uuid>
+  </card>
+  <card>
+    <question>das Museum</question>
+    <answer>музей</answer>
+    <comment>Museen</comment>
+    <uuid>89c0f087-6472-4e03-a820-1178e14f01bd</uuid>
+  </card>
+  <card>
+    <question>die Ausstellung</question>
+    <answer>выставка</answer>
+    <comment>Ausstellungen</comment>
+    <uuid>18cd1f54-f311-4a23-b1bf-7bfd5ec4686c</uuid>
+  </card>
+  <card>
+    <question>zuerst</question>
+    <answer>сначала</answer>
+    <comment></comment>
+    <uuid>7daa716a-89f2-44a7-88b9-cc43e39ba035</uuid>
+  </card>
+  <card>
+    <question>alt</question>
+    <answer>старый</answer>
+    <comment></comment>
+    <uuid>791957ed-7752-497d-b26b-685847ad9cde</uuid>
+  </card>
+  <card>
+    <question>das Theater</question>
+    <answer>театр</answer>
+    <comment>Theater</comment>
+    <uuid>353055db-09d9-42d6-bad0-f485926ad7be</uuid>
+  </card>
+  <card>
+    <question>die Halle</question>
+    <answer>зал</answer>
+    <comment>Hallen</comment>
+    <uuid>3dab2e2e-acbe-46b3-bec5-786d6d75950f</uuid>
+  </card>
+  <card>
+    <question>alles</question>
+    <answer>все</answer>
+    <comment></comment>
+    <uuid>7cd20534-004d-40bf-b121-c039265a5a3d</uuid>
+  </card>
+  <card>
+    <question>interessant</question>
+    <answer>интересно</answer>
+    <comment></comment>
+    <uuid>a6793b4f-8aeb-40e5-9b63-474ee8437a57</uuid>
+  </card>
+  <card>
+    <question>die Stadtrundfahrt</question>
+    <answer>экскурсия по городу</answer>
+    <comment></comment>
+    <uuid>a99d8db4-6975-4eee-9bc3-5d84ddeba471</uuid>
+  </card>
+  <card>
+    <question>wir</question>
+    <answer>мы</answer>
+    <comment></comment>
+    <uuid>003d8fff-a81b-45d7-8ce4-d995be305888</uuid>
+  </card>
+  <card>
+    <question>zusammen</question>
+    <answer>вместе</answer>
+    <comment></comment>
+    <uuid>4ecc7252-d247-48f5-a063-2fab216f87c7</uuid>
+  </card>
+  <card>
+    <question>wohin?</question>
+    <answer>куда?</answer>
+    <comment></comment>
+    <uuid>99de16bd-0e31-460f-9ea9-57e733a382b1</uuid>
+  </card>
+  <card>
+    <question>das Kino</question>
+    <answer>кино</answer>
+    <comment>Kinos</comment>
+    <uuid>58a08da7-aa3a-41a9-9a3f-0e36396d3afc</uuid>
+  </card>
+  <card>
+    <question>der Abend</question>
+    <answer>вечер</answer>
+    <comment>Abende</comment>
+    <uuid>2a9acf1a-6271-4266-a69a-d48b7d586ffd</uuid>
+  </card>
+  <card>
+    <question>bekannt</question>
+    <answer>известный, знакомый</answer>
+    <comment></comment>
+    <uuid>442f56b4-6574-414b-8898-12609e7675f3</uuid>
+  </card>
+  <card>
+    <question>das Haus</question>
+    <answer>дом</answer>
+    <comment>Häuser</comment>
+    <uuid>3f55f8a3-a0db-438a-827b-eca33eabcb2d</uuid>
+  </card>
+  <card>
+    <question>der Bus</question>
+    <answer>автобус</answer>
+    <comment>Busse</comment>
+    <uuid>08e35d16-1804-4e53-af4b-caca02cda31f</uuid>
+  </card>
+  <card>
+    <question>der Sport</question>
+    <answer>спорт</answer>
+    <comment></comment>
+    <uuid>efc957fa-3345-4ae2-b051-6a16d425b02d</uuid>
+  </card>
+  <card>
+    <question>das Konzert</question>
+    <answer>концерт</answer>
+    <comment>Konzerte</comment>
+    <uuid>769f2968-24e6-45b0-a44a-3a95595150b7</uuid>
+  </card>
+  <card>
+    <question>die U-Bahn</question>
+    <answer>метро</answer>
+    <comment>U-Bahnen</comment>
+    <uuid>474b11bb-3cac-4b90-831c-8edd3030cac1</uuid>
+  </card>
+  <card>
+    <question>die Kirche</question>
+    <answer>церковь</answer>
+    <comment>Kirchen</comment>
+    <uuid>1e4d732a-fb86-42e0-a45e-1033df1e893e</uuid>
+  </card>
+  <card>
+    <question>erbauen</question>
+    <answer>строить</answer>
+    <comment></comment>
+    <uuid>908188c1-28b6-43c5-b1a4-6218e46adadd</uuid>
+  </card>
+  <card>
+    <question>zerstören</question>
+    <answer>разрушать</answer>
+    <comment></comment>
+    <uuid>5438df85-63ad-43d2-b38a-a45b0f66bed7</uuid>
+  </card>
+  <card>
+    <question>klopfen</question>
+    <answer>стучать</answer>
+    <comment></comment>
+    <uuid>45aa0458-89b8-4c0f-bbca-c48935078a2e</uuid>
+  </card>
+  <card>
+    <question>der Rhythmus</question>
+    <answer>ритм</answer>
+    <comment>Rhythmen</comment>
+    <uuid>dc7dc942-b232-4291-879c-5039538557f1</uuid>
+  </card>
+  <card>
+    <question>der Zug</question>
+    <answer>поезд</answer>
+    <comment>Züge</comment>
+    <uuid>9a29f667-4ffd-40ba-80ed-c726dab872ea</uuid>
+  </card>
+  <card>
+    <question>die Straßenbahn</question>
+    <answer>трамвай</answer>
+    <comment>Straßenbahnen</comment>
+    <uuid>bfec0cda-ed63-4761-a18c-30a09bbe7213</uuid>
+  </card>
+  <card>
+    <question>das Rathaus</question>
+    <answer>ратуша</answer>
+    <comment>Rathäuser</comment>
+    <uuid>f23b55f0-81fc-437f-88de-007960eef695</uuid>
+  </card>
+  <card>
+    <question>nachsprechen (sprach nach, nachgesprochen)</question>
+    <answer>повторять</answer>
+    <comment></comment>
+    <uuid>9858b2c3-2929-4755-b0ba-595977cb9020</uuid>
+  </card>
+  <card>
+    <question>die Silbe</question>
+    <answer>слог</answer>
+    <comment>Silben</comment>
+    <uuid>7544d306-cb75-401b-89a8-57055ba9c0a1</uuid>
+  </card>
+  <card>
+    <question>etwas</question>
+    <answer>что-то</answer>
+    <comment></comment>
+    <uuid>3c0606cc-e926-440d-87f7-a1d4f5619dbe</uuid>
+  </card>
+  <card>
+    <question>hoch</question>
+    <answer>высокий</answer>
+    <comment></comment>
+    <uuid>7cd62f15-b1e9-4892-b8a4-bd5b20895b42</uuid>
+  </card>
+  <card>
+    <question>tief</question>
+    <answer>низкий</answer>
+    <comment></comment>
+    <uuid>09fb900b-b9eb-4511-b4d8-1799c1b65af2</uuid>
+  </card>
+  <card>
+    <question>steigen (stieg, gestiegen)</question>
+    <answer>подниматься</answer>
+    <comment></comment>
+    <uuid>b9a15b2c-016a-4e9f-8126-cc76df48e864</uuid>
+  </card>
+  <card>
+    <question>die Karte</question>
+    <answer>Карта</answer>
+    <comment>Karten</comment>
+    <uuid>904bab39-7c7b-4708-b9f9-e7f1fc62f459</uuid>
+  </card>
+  <card>
+    <question>finden (fand, gefunden)</question>
+    <answer>находить, считать</answer>
+    <comment></comment>
+    <uuid>592a1587-f5ae-413a-bd85-d0fd1aa94c87</uuid>
+  </card>
+  <card>
+    <question>hinten</question>
+    <answer>за (позади)</answer>
+    <comment></comment>
+    <uuid>b31a253a-b3e4-480a-b51e-3604302de1a6</uuid>
+  </card>
+  <card>
+    <question>vorne</question>
+    <answer>перед (впереди)</answer>
+    <comment></comment>
+    <uuid>f8d0b912-6c58-4e77-87da-7f4c73c02a9e</uuid>
+  </card>
+  <card>
+    <question>der Marktplatz</question>
+    <answer>базарная площадь</answer>
+    <comment>Marktplätze</comment>
+    <uuid>f0506be5-11c1-443b-a6cf-2fb0a1320499</uuid>
+  </card>
+  <card>
+    <question>die Gasse</question>
+    <answer>переулок</answer>
+    <comment>Gassen</comment>
+    <uuid>d196a8ce-5531-48a6-9105-6eaf894d96d5</uuid>
+  </card>
+  <card>
+    <question>das Bad</question>
+    <answer>бассейн</answer>
+    <comment>Bäder</comment>
+    <uuid>4ce7b1c8-1d5b-42ee-802f-b0ae0b5281ee</uuid>
+  </card>
+  <card>
+    <question>folgen</question>
+    <answer>следовать</answer>
+    <comment></comment>
+    <uuid>3e9b36d7-968b-4048-b902-ea6a924f7328</uuid>
+  </card>
+  <card>
+    <question>positiv</question>
+    <answer>утвердительный</answer>
+    <comment></comment>
+    <uuid>7e7ede1a-0553-4fdd-a5de-42d84b8dbe9a</uuid>
+  </card>
+  <card>
+    <question>negativ</question>
+    <answer>отрицательный</answer>
+    <comment></comment>
+    <uuid>11e25be2-7edb-4b76-87f5-3aba6cadd910</uuid>
+  </card>
+  <card>
+    <question>nur</question>
+    <answer>только</answer>
+    <comment></comment>
+    <uuid>8f3880fc-89da-487b-abd5-98873cc58aa4</uuid>
+  </card>
+  <card>
+    <question>die Musik</question>
+    <answer>музыка</answer>
+    <comment></comment>
+    <uuid>f39a4912-ffe6-44ca-bd73-1c32e7ea13f0</uuid>
+  </card>
+  <card>
+    <question>die Welt</question>
+    <answer>мир, свет</answer>
+    <comment></comment>
+    <uuid>509717c0-1d96-479f-a8f7-f6d203a6947d</uuid>
+  </card>
+  <card>
+    <question>die Zeit</question>
+    <answer>время</answer>
+    <comment>Zeiten</comment>
+    <uuid>25dcf563-f5ad-4b43-8934-5b381be08dd4</uuid>
+  </card>
+  <card>
+    <question>der Januar</question>
+    <answer>январь</answer>
+    <comment></comment>
+    <uuid>4d542071-ba40-4b7d-bd0c-2ae47925fe3d</uuid>
+  </card>
+  <card>
+    <question>der Februar</question>
+    <answer>февраль</answer>
+    <comment></comment>
+    <uuid>6d54a8c8-221c-4df6-bcde-6e164c9e7611</uuid>
+  </card>
+  <card>
+    <question>immer</question>
+    <answer>всегда</answer>
+    <comment></comment>
+    <uuid>aed2a24e-b1e4-44eb-9d6e-ac6e23833910</uuid>
+  </card>
+  <card>
+    <question>das Ende</question>
+    <answer>конец</answer>
+    <comment></comment>
+    <uuid>dfc509bb-2616-4e86-8c24-492e3baee6e3</uuid>
+  </card>
+  <card>
+    <question>beginnen (began, begonnen)</question>
+    <answer>начинать</answer>
+    <comment></comment>
+    <uuid>84dea171-a009-4f4d-8fab-4a904a35180c</uuid>
+  </card>
+  <card>
+    <question>die Woche</question>
+    <answer>неделя</answer>
+    <comment>Wochen</comment>
+    <uuid>018acccb-9f06-454a-af82-9c2af88055db</uuid>
+  </card>
+  <card>
+    <question>lang</question>
+    <answer>длинный</answer>
+    <comment></comment>
+    <uuid>87aee879-e948-4a14-a38e-072d1ece580e</uuid>
+  </card>
+  <card>
+    <question>der März</question>
+    <answer>март</answer>
+    <comment></comment>
+    <uuid>278967cf-04a4-42d9-9f62-34bb0a87447d</uuid>
+  </card>
+  <card>
+    <question>Deutschland</question>
+    <answer>Германия</answer>
+    <comment></comment>
+    <uuid>a7753d37-f0ea-498f-8d08-85bb42e36b2b</uuid>
+  </card>
+  <card>
+    <question>Frankreich</question>
+    <answer>Франция</answer>
+    <comment></comment>
+    <uuid>b83991f8-e8c2-4130-a62c-4709e9c71fc8</uuid>
+  </card>
+  <card>
+    <question>der April</question>
+    <answer>апрель</answer>
+    <comment></comment>
+    <uuid>42fbc2dc-e585-47be-9efa-ee8281dc452d</uuid>
+  </card>
+  <card>
+    <question>Amerika</question>
+    <answer>Америка</answer>
+    <comment></comment>
+    <uuid>8e3b34ec-03bc-45b2-b924-30eb0b816356</uuid>
+  </card>
+  <card>
+    <question>da sein</question>
+    <answer>быть там</answer>
+    <comment></comment>
+    <uuid>0df9c5dd-0222-40b5-92a4-6be21ce35b1a</uuid>
+  </card>
+  <card>
+    <question>weiter</question>
+    <answer>дальше</answer>
+    <comment></comment>
+    <uuid>5a280b59-317c-4478-9446-298e4f0ec21d</uuid>
+  </card>
+  <card>
+    <question>Asien</question>
+    <answer>Азия</answer>
+    <comment></comment>
+    <uuid>7d7519b6-6728-414d-8e0f-d246b142a70f</uuid>
+  </card>
+  <card>
+    <question>Australien</question>
+    <answer>Австралия</answer>
+    <comment></comment>
+    <uuid>07aba581-85a7-4759-9fb6-6657ef39c2c5</uuid>
+  </card>
+  <card>
+    <question>zurück</question>
+    <answer>обратно</answer>
+    <comment></comment>
+    <uuid>77d41f18-8e7b-4e7b-ba4c-da02d0aa4c62</uuid>
+  </card>
+  <card>
+    <question>der Monat</question>
+    <answer>месяц</answer>
+    <comment>Monate</comment>
+    <uuid>089c95a0-9fc0-4622-9549-9c7570a5b748</uuid>
+  </card>
+  <card>
+    <question>Afrika</question>
+    <answer>Африка</answer>
+    <comment></comment>
+    <uuid>9490161d-cf1d-451f-923f-53efd95a8be4</uuid>
+  </card>
+  <card>
+    <question>der Mai</question>
+    <answer>май</answer>
+    <comment></comment>
+    <uuid>566749c7-8a54-423e-aad0-d80dd323ff8d</uuid>
+  </card>
+  <card>
+    <question>der Juni</question>
+    <answer>июнь</answer>
+    <comment></comment>
+    <uuid>b139229a-de1b-43e5-8d4a-85b94e1ce298</uuid>
+  </card>
+  <card>
+    <question>der Juli</question>
+    <answer>июль</answer>
+    <comment></comment>
+    <uuid>f2671001-6422-4dfb-8236-9f6801bc4041</uuid>
+  </card>
+  <card>
+    <question>der August</question>
+    <answer>август</answer>
+    <comment></comment>
+    <uuid>b1a1af9b-84f6-42d4-92d8-89d48912440a</uuid>
+  </card>
+  <card>
+    <question>der September</question>
+    <answer>сентябрь</answer>
+    <comment></comment>
+    <uuid>dfbbc6aa-96a4-42d0-bd5d-70548e63b171</uuid>
+  </card>
+  <card>
+    <question>der Oktober</question>
+    <answer>октябрь</answer>
+    <comment></comment>
+    <uuid>c53d8698-5347-45ce-bd93-cc1f6062391a</uuid>
+  </card>
+  <card>
+    <question>der November</question>
+    <answer>ноябрь</answer>
+    <comment></comment>
+    <uuid>18456a14-5c47-4fbc-8b93-0ab2bc6217b5</uuid>
+  </card>
+  <card>
+    <question>der Dezember</question>
+    <answer>декабрь</answer>
+    <comment></comment>
+    <uuid>bcf7e82f-6bff-4a7a-aef4-8bec64fcdcaa</uuid>
+  </card>
+  <card>
+    <question>wann?</question>
+    <answer>когда?</answer>
+    <comment></comment>
+    <uuid>9459bbca-cc05-4799-a6df-2dbe31ca425e</uuid>
+  </card>
+  <card>
+    <question>das Interview</question>
+    <answer>интервью</answer>
+    <comment>Interviews</comment>
+    <uuid>b0e48140-31e4-497a-bfd3-2b8caf78d656</uuid>
+  </card>
+  <card>
+    <question>die Zahl</question>
+    <answer>число</answer>
+    <comment>Zahlen</comment>
+    <uuid>eb76c9be-8b3c-4feb-b484-bd4c454b9ffc</uuid>
+  </card>
+  <card>
+    <question>wie lange?</question>
+    <answer>как долго?</answer>
+    <comment></comment>
+    <uuid>5070aad1-2f40-4512-b117-103802c6befd</uuid>
+  </card>
+  <card>
+    <question>der Musiker</question>
+    <answer>музыкант</answer>
+    <comment>Musiker</comment>
+    <uuid>f52ff238-6503-478d-b93b-fd75fb375e6d</uuid>
+  </card>
+  <card>
+    <question>das Alter</question>
+    <answer>возраст</answer>
+    <comment></comment>
+    <uuid>6800f8ed-3123-4430-935f-6cded176cfb7</uuid>
+  </card>
+  <card>
+    <question>das Instrument</question>
+    <answer>инструмент</answer>
+    <comment>Instrumente</comment>
+    <uuid>a6755444-f29d-4d10-aefc-aedc218e7517</uuid>
+  </card>
+  <card>
+    <question>der Beruf</question>
+    <answer>профессия</answer>
+    <comment>Berufe</comment>
+    <uuid>771b26de-cedb-4070-a0be-14929bccbf8d</uuid>
+  </card>
+  <card>
+    <question>die Muttersprache</question>
+    <answer>родной язык</answer>
+    <comment>Muttersprachen</comment>
+    <uuid>04a529ec-3c24-42a3-893b-cbaefd8893a4</uuid>
+  </card>
+  <card>
+    <question>die Notiz</question>
+    <answer>запись</answer>
+    <comment>Notizen</comment>
+    <uuid>665bf81c-b09c-4284-8055-4016985a91f7</uuid>
+  </card>
+  <card>
+    <question>der Sänger</question>
+    <answer>певец</answer>
+    <comment>Sänger</comment>
+    <uuid>15ba3526-88f2-491c-9767-5979f0623e98</uuid>
+  </card>
+  <card>
+    <question>reisen</question>
+    <answer>путешествовать</answer>
+    <comment></comment>
+    <uuid>b5b6d2e0-849c-4551-9a05-4f8f2a833211</uuid>
+  </card>
+  <card>
+    <question>oft</question>
+    <answer>часто</answer>
+    <comment></comment>
+    <uuid>54467ef9-f7c3-4dc2-88bc-2a3094c468b4</uuid>
+  </card>
+  <card>
+    <question>unterwegs</question>
+    <answer>в пути</answer>
+    <comment></comment>
+    <uuid>f0db3a0c-ab01-4ddc-b143-d8a067d9ae5a</uuid>
+  </card>
+  <card>
+    <question>nie</question>
+    <answer>никогда</answer>
+    <comment></comment>
+    <uuid>20077d44-aa58-45b7-9b56-201f154f6170</uuid>
+  </card>
+  <card>
+    <question>der Kalender</question>
+    <answer>календарь</answer>
+    <comment>Kalender</comment>
+    <uuid>cd2c7eee-23f7-4109-a00e-e1fb7b927946</uuid>
+  </card>
+  <card>
+    <question>der Terminkalender</question>
+    <answer>еженедельник</answer>
+    <comment>Terminkalender</comment>
+    <uuid>5bd46dd0-bb9b-4234-aead-a40dba9fd2ab</uuid>
+  </card>
+  <card>
+    <question>voll</question>
+    <answer>полный</answer>
+    <comment></comment>
+    <uuid>32b662aa-3613-4aee-a4f7-2f339cd06d14</uuid>
+  </card>
+  <card>
+    <question>das Jahr</question>
+    <answer>год</answer>
+    <comment>Jahre</comment>
+    <uuid>e30165aa-6845-4aac-9103-4ad44440fc8c</uuid>
+  </card>
+  <card>
+    <question>machen</question>
+    <answer>делать</answer>
+    <comment></comment>
+    <uuid>7df205b9-4356-430d-8da7-92e23d345bf2</uuid>
+  </card>
+  <card>
+    <question>verstehen (verstand, verstanden)</question>
+    <answer>понимать</answer>
+    <comment></comment>
+    <uuid>e18f12bb-29c1-452f-82ce-500d30a7eb17</uuid>
+  </card>
+  <card>
+    <question>das Gefallen</question>
+    <answer>удовольствие</answer>
+    <comment>Gefallen</comment>
+    <uuid>68bbf2f8-acc9-4b8d-a011-eaf103b88aae</uuid>
+  </card>
+  <card>
+    <question>das Missfallen</question>
+    <answer>недовольство</answer>
+    <comment>Missfallen</comment>
+    <uuid>e708e273-f28a-4f9a-93c2-55ca4ef1e80b</uuid>
+  </card>
+  <card>
+    <question>äußern</question>
+    <answer>выражать, высказывать</answer>
+    <comment></comment>
+    <uuid>6d35ee18-a637-4c7f-b9cb-aedf562e26ce</uuid>
+  </card>
+  <card>
+    <question>gefallen (gefiel, gefallen)</question>
+    <answer>нравиться</answer>
+    <comment></comment>
+    <uuid>70d313d5-9073-4e51-abee-981e0b22ddaa</uuid>
+  </card>
+  <card>
+    <question>spitze</question>
+    <answer>бесподобный</answer>
+    <comment></comment>
+    <uuid>a701a029-aafb-42bf-8270-88952b0bd817</uuid>
+  </card>
+  <card>
+    <question>natürlich</question>
+    <answer>конечно</answer>
+    <comment></comment>
+    <uuid>28909a58-3c46-4563-a2ac-e575f2c55d68</uuid>
+  </card>
+  <card>
+    <question>mögen (mochte, gemocht)</question>
+    <answer>нравиться</answer>
+    <comment></comment>
+    <uuid>a13a54ca-8d9c-4b68-bffd-80c482be23d3</uuid>
+  </card>
+  <card>
+    <question>das Klavier</question>
+    <answer>пианино</answer>
+    <comment></comment>
+    <uuid>3ea1c751-6764-4268-9385-3c6e5efa5f78</uuid>
+  </card>
+  <card>
+    <question>schlecht</question>
+    <answer>плохой</answer>
+    <comment></comment>
+    <uuid>c1bdf394-905f-48c7-affb-77488cf0228c</uuid>
+  </card>
+  <card>
+    <question>toll</question>
+    <answer>отличный</answer>
+    <comment></comment>
+    <uuid>717eb727-3fcb-4b23-94a7-c3e8c05d361f</uuid>
+  </card>
+  <card>
+    <question>so</question>
+    <answer>так</answer>
+    <comment></comment>
+    <uuid>3d0f9612-303a-479a-a64d-5a2f2f520d81</uuid>
+  </card>
+  <card>
+    <question>der Bericht</question>
+    <answer>сообщение</answer>
+    <comment>Berichte</comment>
+    <uuid>c618e74a-ef91-44af-ba6f-ef75bedcc751</uuid>
+  </card>
+  <card>
+    <question>mixen</question>
+    <answer>смешивать</answer>
+    <comment></comment>
+    <uuid>6c1b9a16-0fc5-48c9-b3f5-59940bc6ed00</uuid>
+  </card>
+  <card>
+    <question>explosiv</question>
+    <answer>взрывной</answer>
+    <comment></comment>
+    <uuid>5d4a4209-9083-4ff9-b719-16c0e1d2b8df</uuid>
+  </card>
+  <card>
+    <question>seit</question>
+    <answer>уже...как (о сроке)</answer>
+    <comment></comment>
+    <uuid>cfef9105-0cbf-463a-9eb8-a5e516eca052</uuid>
+  </card>
+  <card>
+    <question>singen (sang, gesungen)</question>
+    <answer>петь</answer>
+    <comment></comment>
+    <uuid>3c11b7b4-35d8-404b-9680-cdec970866b8</uuid>
+  </card>
+  <card>
+    <question>morgen</question>
+    <answer>завтра</answer>
+    <comment></comment>
+    <uuid>f6abdebe-867d-4b5f-b1a4-0be86576ce78</uuid>
+  </card>
+  <card>
+    <question>schon</question>
+    <answer>уже</answer>
+    <comment></comment>
+    <uuid>9b370b2b-ec9d-47ce-b944-015c3839825d</uuid>
+  </card>
+  <card>
+    <question>wie</question>
+    <answer>как</answer>
+    <comment></comment>
+    <uuid>68d4baf2-25fb-4e05-a7b4-92e747e6b946</uuid>
+  </card>
+  <card>
+    <question>der Ballon</question>
+    <answer>воздушный шар</answer>
+    <comment>Ballons</comment>
+    <uuid>2956e82e-6506-4f40-a0c3-5f25d2b030c7</uuid>
+  </card>
+  <card>
+    <question>dauern</question>
+    <answer>продолжаться</answer>
+    <comment></comment>
+    <uuid>9d0d67e2-9abc-44ae-bc8e-8e0f0042cc76</uuid>
+  </card>
+  <card>
+    <question>die Stunde</question>
+    <answer>час</answer>
+    <comment>Stunden</comment>
+    <uuid>2b865798-f314-4641-b2d5-00938e827a03</uuid>
+  </card>
+  <card>
+    <question>der Besucher</question>
+    <answer>посетитель</answer>
+    <comment>Besucher</comment>
+    <uuid>84b220ca-72f3-4a97-b520-749608eb28ad</uuid>
+  </card>
+  <card>
+    <question>zu</question>
+    <answer>слишком</answer>
+    <comment></comment>
+    <uuid>9458f085-73d7-46d0-a250-0c1a03d939af</uuid>
+  </card>
+  <card>
+    <question>treffen (traf, getroffen)</question>
+    <answer>встречать</answer>
+    <comment></comment>
+    <uuid>d7ff5a7f-5765-4ece-a4f8-939a0e840b3d</uuid>
+  </card>
+  <card>
+    <question>wenig</question>
+    <answer>мало</answer>
+    <comment></comment>
+    <uuid>2ba0e217-5e7a-42f2-ac9e-eabb5b162339</uuid>
+  </card>
+  <card>
+    <question>stellen</question>
+    <answer>ставить</answer>
+    <comment></comment>
+    <uuid>40c78465-b222-443f-aabf-019addd8003e</uuid>
+  </card>
+  <card>
+    <question>zufrieden</question>
+    <answer>довольный</answer>
+    <comment></comment>
+    <uuid>7db83ead-432a-4bba-8a53-552a750de1cd</uuid>
+  </card>
+  <card>
+    <question>ganz</question>
+    <answer>совсем</answer>
+    <comment></comment>
+    <uuid>abd219f3-ba8c-4982-9753-8ad053067c49</uuid>
+  </card>
+  <card>
+    <question>weg</question>
+    <answer>прочь</answer>
+    <comment></comment>
+    <uuid>99fb0337-542a-4b70-8ed5-416337f0a7c5</uuid>
+  </card>
+  <card>
+    <question>der Eintritt</question>
+    <answer>вход</answer>
+    <comment>Eintritte</comment>
+    <uuid>b4331b55-34a6-4bb0-8e22-bc0072e5c5ba</uuid>
+  </card>
+  <card>
+    <question>das Datum</question>
+    <answer>число (дата)</answer>
+    <comment>Daten</comment>
+    <uuid>f61d3f5d-951b-40ba-a93d-3e0b0392289b</uuid>
+  </card>
+  <card>
+    <question>der Beginn</question>
+    <answer>начало</answer>
+    <comment></comment>
+    <uuid>baa3739d-c5c2-42f3-a05d-710a3d2614be</uuid>
+  </card>
+  <card>
+    <question>die Uhr</question>
+    <answer>часы</answer>
+    <comment>Uhren</comment>
+    <uuid>987181ff-ef07-4de4-8e5e-5cc7f8132e99</uuid>
+  </card>
+  <card>
+    <question>die Antwort</question>
+    <answer>ответ</answer>
+    <comment>Antworten</comment>
+    <uuid>a7eb5b34-ce72-43f2-95fc-4eb0c63edcce</uuid>
+  </card>
+  <card>
+    <question>die Meinung</question>
+    <answer>мнение</answer>
+    <comment>Meinungen</comment>
+    <uuid>edb15a8c-3607-483c-a6e2-f10e20471ce8</uuid>
+  </card>
+  <card>
+    <question>die Handlung</question>
+    <answer>действие</answer>
+    <comment>Handlungen</comment>
+    <uuid>7c7643ce-35e9-44f4-b4fc-62ba3b6f0848</uuid>
+  </card>
+  <card>
+    <question>igitt!</question>
+    <answer>фу!</answer>
+    <comment></comment>
+    <uuid>2063507f-8680-4f41-bea5-06a0079f1597</uuid>
+  </card>
+  <card>
+    <question>schade!</question>
+    <answer>жаль!</answer>
+    <comment></comment>
+    <uuid>bc29b7c6-913a-4370-a3ed-8b4a9e5c37b4</uuid>
+  </card>
+  <card>
+    <question>nanu!</question>
+    <answer>что вы!</answer>
+    <comment></comment>
+    <uuid>e76be83d-d57c-4842-962c-67af7a734949</uuid>
+  </card>
+  <card>
+    <question>der Ausruf</question>
+    <answer>восклицание</answer>
+    <comment>Ausrufe</comment>
+    <uuid>2fbbe285-4f5e-4194-aaa5-6bcb805f1c99</uuid>
+  </card>
+  <card>
+    <question>achten</question>
+    <answer>обращать внимание</answer>
+    <comment></comment>
+    <uuid>ecda481a-43aa-4143-8941-5a1026677d01</uuid>
+  </card>
+  <card>
+    <question>lang</question>
+    <answer>длинный</answer>
+    <comment></comment>
+    <uuid>8e14c1c2-924c-47b6-b06c-bed9adff2b7a</uuid>
+  </card>
+  <card>
+    <question>Finnland</question>
+    <answer>Финляндия</answer>
+    <comment></comment>
+    <uuid>2dd5c71e-43e9-4d02-a802-07738f2531da</uuid>
+  </card>
+  <card>
+    <question>passen</question>
+    <answer>подходить</answer>
+    <comment></comment>
+    <uuid>c3a27c80-712a-4565-8358-778923ee153a</uuid>
+  </card>
+  <card>
+    <question>der Stil</question>
+    <answer>стиль</answer>
+    <comment>Stile</comment>
+    <uuid>b4096700-3039-4adc-b23f-defd18fa0d3b</uuid>
+  </card>
+  <card>
+    <question>zeichnen</question>
+    <answer>рисовать</answer>
+    <comment></comment>
+    <uuid>6a66dbc9-a845-48c0-ac3b-a17a78ad7a1a</uuid>
+  </card>
+  <card>
+    <question>eigener</question>
+    <answer>собственный</answer>
+    <comment>(eigene, eigenes)</comment>
+    <uuid>ff200799-53ae-42bc-b1a8-69dac1b28694</uuid>
+  </card>
+  <card>
+    <question>das Lied</question>
+    <answer>песня</answer>
+    <comment>Lieder</comment>
+    <uuid>715b4ab3-d6d1-4b7f-9534-fe6f1b29c904</uuid>
+  </card>
+  <card>
+    <question>die Platte</question>
+    <answer>пластинка</answer>
+    <comment>Platten</comment>
+    <uuid>3f15c0ef-9aa7-471a-aa10-39c40f44183b</uuid>
+  </card>
+  <card>
+    <question>die CD</question>
+    <answer>компактдиск</answer>
+    <comment>CDs</comment>
+    <uuid>b901ea0d-aa4b-4d3b-836a-b9c0f4510745</uuid>
+  </card>
+  <card>
+    <question>bestimmt</question>
+    <answer>определенный</answer>
+    <comment></comment>
+    <uuid>bfec3c01-3956-4283-a125-77eeeb14a484</uuid>
+  </card>
+  <card>
+    <question>unbestimmt</question>
+    <answer>неопределенный</answer>
+    <comment></comment>
+    <uuid>af497eba-e819-4019-a1dd-ad818fa1bd9d</uuid>
+  </card>
+  <card>
+    <question>informieren</question>
+    <answer>информировать</answer>
+    <comment></comment>
+    <uuid>24406fa6-35b5-4292-bc5a-600763ed84f9</uuid>
+  </card>
+  <card>
+    <question>die Zeitung</question>
+    <answer>газета</answer>
+    <comment>Zeitungen</comment>
+    <uuid>92b1d691-afdb-4fcd-852e-0b796c85e847</uuid>
+  </card>
+  <card>
+    <question>unbekannt</question>
+    <answer>неизвестный</answer>
+    <comment></comment>
+    <uuid>f1a36d02-8950-48da-af7d-c544ee57aa4d</uuid>
+  </card>
+  <card>
+    <question>neu</question>
+    <answer>новый</answer>
+    <comment></comment>
+    <uuid>74abd880-3ef4-4b96-af55-972a966899dc</uuid>
+  </card>
+  <card>
+    <question>der Ablauf</question>
+    <answer>ход, течение</answer>
+    <comment>Abläufe</comment>
+    <uuid>f2ea646b-49a2-4956-a481-bb069f27c080</uuid>
+  </card>
+  <card>
+    <question>der Tagesablauf</question>
+    <answer>распорядок дня</answer>
+    <comment></comment>
+    <uuid>c8f6d3b3-2104-4e56-8edc-cf49224cfa93</uuid>
+  </card>
+  <card>
+    <question>spät</question>
+    <answer>поздно</answer>
+    <comment></comment>
+    <uuid>647443cf-f500-4114-a66e-fd586f0c2c96</uuid>
+  </card>
+  <card>
+    <question>die Tageszeit</question>
+    <answer>время дня</answer>
+    <comment>Tageszeiten</comment>
+    <uuid>d009904f-e7bb-4f71-a4ec-a1c32280081b</uuid>
+  </card>
+  <card>
+    <question>die Begrüßung</question>
+    <answer>приветствие</answer>
+    <comment>Begrüßungen</comment>
+    <uuid>74ede1aa-00ae-4482-9756-00cb4db6931d</uuid>
+  </card>
+  <card>
+    <question>die Verabschiedung</question>
+    <answer>прощание</answer>
+    <comment>Verabschiedungen</comment>
+    <uuid>8170a0e6-3dd5-4662-b313-40ed9721ea60</uuid>
+  </card>
+  <card>
+    <question>die Leute</question>
+    <answer>люди</answer>
+    <comment></comment>
+    <uuid>ad1dc632-e993-45f8-b400-137e543abcd2</uuid>
+  </card>
+  <card>
+    <question>der Morgen</question>
+    <answer>утро</answer>
+    <comment>Morgen</comment>
+    <uuid>70691f74-1bf0-465a-80f2-1860c6d840f4</uuid>
+  </card>
+  <card>
+    <question>der Vormittag</question>
+    <answer>первая половина дня</answer>
+    <comment>Vormittage</comment>
+    <uuid>51b251da-a753-44f4-8342-4e6148c9f310</uuid>
+  </card>
+  <card>
+    <question>der Mittag</question>
+    <answer>полдень</answer>
+    <comment></comment>
+    <uuid>71e501a2-57c8-4555-ae78-945c32a0ff95</uuid>
+  </card>
+  <card>
+    <question>der Nachmittag</question>
+    <answer>послеобеденное время</answer>
+    <comment>Nachmittage</comment>
+    <uuid>d06d6978-f3ff-430a-847e-7381a2e7a2d0</uuid>
+  </card>
+  <card>
+    <question>die Nacht</question>
+    <answer>ночь</answer>
+    <comment>Nächte</comment>
+    <uuid>21d04ff2-1868-46ad-8d68-99b444912da0</uuid>
+  </card>
+  <card>
+    <question>die Mitternacht</question>
+    <answer>полночь</answer>
+    <comment></comment>
+    <uuid>4ccb03de-f53c-4cba-b66f-3e64bf4bd283</uuid>
+  </card>
+  <card>
+    <question>zwischen</question>
+    <answer>между</answer>
+    <comment></comment>
+    <uuid>6a09b9e6-14d2-42ec-a138-57c07fd7f52c</uuid>
+  </card>
+  <card>
+    <question>das Viertel</question>
+    <answer>четверть</answer>
+    <comment>Viertels</comment>
+    <uuid>c4c30123-3783-4779-86e0-7afe463763b8</uuid>
+  </card>
+  <card>
+    <question>vor</question>
+    <answer>до</answer>
+    <comment></comment>
+    <uuid>87008185-bc92-4804-bc10-4ae62bfd5397</uuid>
+  </card>
+  <card>
+    <question>nach</question>
+    <answer>после</answer>
+    <comment></comment>
+    <uuid>17fef899-67a1-49ae-9ab5-f91689ad6d80</uuid>
+  </card>
+  <card>
+    <question>halb</question>
+    <answer>половина</answer>
+    <comment></comment>
+    <uuid>803c86ae-de39-4033-b30c-886cd044d826</uuid>
+  </card>
+  <card>
+    <question>offiziell</question>
+    <answer>официальный</answer>
+    <comment></comment>
+    <uuid>b2efa0f0-2640-4847-900c-4c11a4985b47</uuid>
+  </card>
+  <card>
+    <question>die Sekunde</question>
+    <answer>секунда</answer>
+    <comment>Sekunden</comment>
+    <uuid>71bc472b-4c94-4004-85e9-15376ce63d5e</uuid>
+  </card>
+  <card>
+    <question>beschreiben (beschrieb, beschrieben)</question>
+    <answer>описывать</answer>
+    <comment></comment>
+    <uuid>7b481dfb-5dfc-4ea8-96b8-76448f6023f3</uuid>
+  </card>
+  <card>
+    <question>klingeln</question>
+    <answer>звонить</answer>
+    <comment></comment>
+    <uuid>592c5d7b-54bf-4c0f-b4b5-f03e3fc74320</uuid>
+  </card>
+  <card>
+    <question>der Wecker</question>
+    <answer>будильник</answer>
+    <comment>Wecker</comment>
+    <uuid>75304fe7-86a5-4e8f-8d2c-96dba454b00b</uuid>
+  </card>
+  <card>
+    <question>aufstehen (stand auf, aufgestanden)</question>
+    <answer>вставать</answer>
+    <comment></comment>
+    <uuid>807a47ff-ee10-47ca-8d7d-9e7009bdadbd</uuid>
+  </card>
+  <card>
+    <question>bleiben (blieb, geblieben)</question>
+    <answer>оставаться</answer>
+    <comment></comment>
+    <uuid>cac30dc0-9fbc-4b96-9a17-a08945c43206</uuid>
+  </card>
+  <card>
+    <question>noch</question>
+    <answer>еще</answer>
+    <comment></comment>
+    <uuid>9367c9e5-453a-4185-8ac8-24d8533b91c3</uuid>
+  </card>
+  <card>
+    <question>liegen (lag, gelegen)</question>
+    <answer>лежать</answer>
+    <comment></comment>
+    <uuid>f32a7c83-c076-47b0-911a-c705c06425b3</uuid>
+  </card>
+  <card>
+    <question>langsam</question>
+    <answer>медленный</answer>
+    <comment></comment>
+    <uuid>767b7ae7-9209-40dd-8526-1ebf2e1a4d20</uuid>
+  </card>
+  <card>
+    <question>zuerst</question>
+    <answer>сначала</answer>
+    <comment></comment>
+    <uuid>8d4fad7c-784e-4748-8aa7-ef9cc4399813</uuid>
+  </card>
+  <card>
+    <question>duschen</question>
+    <answer>принимать душ</answer>
+    <comment></comment>
+    <uuid>ece5d8c9-f0cf-4848-9fa4-9e25e781b9f4</uuid>
+  </card>
+  <card>
+    <question>frühstücken</question>
+    <answer>завтракать</answer>
+    <comment></comment>
+    <uuid>ecfab3f3-939f-4ae3-a90e-de6419927c51</uuid>
+  </card>
+  <card>
+    <question>losgehen (ging los, losgegangen)</question>
+    <answer>отправляться</answer>
+    <comment></comment>
+    <uuid>3ce02791-1943-437f-a2f9-0d9425911355</uuid>
+  </card>
+  <card>
+    <question>abfahren (fuhr ab, abgefahren)</question>
+    <answer>отъезжать</answer>
+    <comment></comment>
+    <uuid>315769b9-7988-4641-9994-219a91165746</uuid>
+  </card>
+  <card>
+    <question>ankommen (kam an, angekommen)</question>
+    <answer>прибывать</answer>
+    <comment></comment>
+    <uuid>441abb88-d204-4ecc-a329-e78796cab590</uuid>
+  </card>
+  <card>
+    <question>aussteigen (stieg aus, ausgestiegen)</question>
+    <answer>выходить</answer>
+    <comment></comment>
+    <uuid>09cd65aa-09eb-4aa9-b3d4-9022d4e64cfb</uuid>
+  </card>
+  <card>
+    <question>das Büro</question>
+    <answer>бюро</answer>
+    <comment>Büros</comment>
+    <uuid>de9d19ed-2a70-4310-bec8-3b5030852f2f</uuid>
+  </card>
+  <card>
+    <question>dort</question>
+    <answer>там</answer>
+    <comment></comment>
+    <uuid>ed9ee165-78b7-454c-bf7a-989b58d0fdeb</uuid>
+  </card>
+  <card>
+    <question>anschauen</question>
+    <answer>взглянуть, посмотреть</answer>
+    <comment></comment>
+    <uuid>3fa3b8bd-0428-41a3-937f-9ff910c8a52f</uuid>
+  </card>
+  <card>
+    <question>erst einmal</question>
+    <answer>сперва</answer>
+    <comment></comment>
+    <uuid>86038c68-e70e-4879-90ef-da9c31ac9d57</uuid>
+  </card>
+  <card>
+    <question>planen</question>
+    <answer>планировать</answer>
+    <comment></comment>
+    <uuid>c6a96314-0959-497c-8141-06ec5238c161</uuid>
+  </card>
+  <card>
+    <question>die Arbeit</question>
+    <answer>работа</answer>
+    <comment>Arbeiten</comment>
+    <uuid>f3e607c1-ce59-427d-83dc-ec61154d0380</uuid>
+  </card>
+  <card>
+    <question>der Arbeitstag</question>
+    <answer>рабочий день</answer>
+    <comment>Arbeitstage</comment>
+    <uuid>e57bfc71-8722-449f-a8e9-442b92742f62</uuid>
+  </card>
+  <card>
+    <question>passieren</question>
+    <answer>случаться</answer>
+    <comment></comment>
+    <uuid>481778d1-12a8-42c1-b262-21bcc88513bb</uuid>
+  </card>
+  <card>
+    <question>erzählen</question>
+    <answer>рассказывать</answer>
+    <comment></comment>
+    <uuid>c5f57d6d-5391-4c28-8386-6dc5cbccfad1</uuid>
+  </card>
+  <card>
+    <question>normalerweise</question>
+    <answer>обычно</answer>
+    <comment></comment>
+    <uuid>edb7e882-09de-4be3-a5fc-886d3ba722ff</uuid>
+  </card>
+  <card>
+    <question>telefonieren</question>
+    <answer>звонить по телефону</answer>
+    <comment></comment>
+    <uuid>3a174699-fd15-4224-aeb3-15f100c4437c</uuid>
+  </card>
+  <card>
+    <question>die Konferenz</question>
+    <answer>конференция</answer>
+    <comment>Konferenzen</comment>
+    <uuid>cd9b3012-35d4-4c05-ad69-4e979197a9fe</uuid>
+  </card>
+  <card>
+    <question>diskutieren</question>
+    <answer>обсуждать</answer>
+    <comment></comment>
+    <uuid>06789f1f-849a-4733-8f43-0b625ec778a5</uuid>
+  </card>
+  <card>
+    <question>das Thema</question>
+    <answer>тема</answer>
+    <comment>Themen</comment>
+    <uuid>97a2e99d-6d6f-4066-b7f9-7926ec6f589a</uuid>
+  </card>
+  <card>
+    <question>der Artikel</question>
+    <answer>статья</answer>
+    <comment>Artikel</comment>
+    <uuid>796dbdb6-afa4-4a7b-a470-58cba8bbd7d1</uuid>
+  </card>
+  <card>
+    <question>die Kultur</question>
+    <answer>культура</answer>
+    <comment>Kulturen</comment>
+    <uuid>34a40ac2-1a7f-42f0-8ae0-580d7fa582ea</uuid>
+  </card>
+  <card>
+    <question>die Politik</question>
+    <answer>политика</answer>
+    <comment>Politiken</comment>
+    <uuid>edcdea41-4ecb-4796-b632-6f9b74aa5aa5</uuid>
+  </card>
+  <card>
+    <question>der Freund</question>
+    <answer>друг</answer>
+    <comment>Freunde</comment>
+    <uuid>e2f63e46-f675-4889-a0cd-b79ec6039e81</uuid>
+  </card>
+  <card>
+    <question>trinken (trank, getrunken)</question>
+    <answer>пить</answer>
+    <comment></comment>
+    <uuid>747cc1c6-8a78-4d3a-a022-3cc841390d57</uuid>
+  </card>
+  <card>
+    <question>das Bier</question>
+    <answer>пиво</answer>
+    <comment></comment>
+    <uuid>67b9285b-6d1a-43ed-95f1-ee7863361102</uuid>
+  </card>
+  <card>
+    <question>das Glas</question>
+    <answer>стакан</answer>
+    <comment>Gläser</comment>
+    <uuid>ae72df23-3e83-467a-b5c9-3e471143f28f</uuid>
+  </card>
+  <card>
+    <question>der Wein</question>
+    <answer>вино</answer>
+    <comment>Weine</comment>
+    <uuid>6f013941-c51b-42c9-864b-b8e995a1ec74</uuid>
+  </card>
+  <card>
+    <question>abends</question>
+    <answer>вечером</answer>
+    <comment></comment>
+    <uuid>3dae67d1-4e11-4669-a44f-17f884b9e60b</uuid>
+  </card>
+  <card>
+    <question>nach Hause</question>
+    <answer>домой</answer>
+    <comment></comment>
+    <uuid>df346417-5cc2-4018-8458-44262929e257</uuid>
+  </card>
+  <card>
+    <question>weggehen (ging weg, wegegangen)</question>
+    <answer>уходить</answer>
+    <comment></comment>
+    <uuid>996143dd-2689-4197-b919-115a2ce7daab</uuid>
+  </card>
+  <card>
+    <question>bis</question>
+    <answer>до</answer>
+    <comment></comment>
+    <uuid>37f2955e-f314-4765-a192-9dde56690c1e</uuid>
+  </card>
+  <card>
+    <question>zurückkommen (kam zurück, zurückgekommen)</question>
+    <answer>возвращаться</answer>
+    <comment></comment>
+    <uuid>d07d44c4-b199-4049-aec8-9feeaf23c719</uuid>
+  </card>
+  <card>
+    <question>das Frühstück</question>
+    <answer>завтрак</answer>
+    <comment>Frühstücke</comment>
+    <uuid>81985f01-30b7-4771-bfeb-599feee2c35f</uuid>
+  </card>
+  <card>
+    <question>das Auto</question>
+    <answer>машина</answer>
+    <comment>Autos</comment>
+    <uuid>6ac5ef5b-446e-4679-b01f-a69c6d5ba2fa</uuid>
+  </card>
+  <card>
+    <question>die Schule</question>
+    <answer>школа</answer>
+    <comment>Schulen</comment>
+    <uuid>a708d49d-ca58-4a65-aed2-462babbfbf99</uuid>
+  </card>
+  <card>
+    <question>der Wochentag</question>
+    <answer>день недели</answer>
+    <comment>Wochentage</comment>
+    <uuid>99dd1044-39d5-4db8-b6ea-24fed48f14b9</uuid>
+  </card>
+  <card>
+    <question>der Montag</question>
+    <answer>понедельник</answer>
+    <comment>(=Mo.)</comment>
+    <uuid>a3dff597-3001-4ba4-860a-56845bb1697e</uuid>
+  </card>
+  <card>
+    <question>der Dienstag</question>
+    <answer>вторник</answer>
+    <comment>(=Di.)</comment>
+    <uuid>c29d9da7-7d7d-4e2f-a9b3-ab79985e642e</uuid>
+  </card>
+  <card>
+    <question>der Mittwoch</question>
+    <answer>среда</answer>
+    <comment>(=Mi.)</comment>
+    <uuid>2d676eb9-b092-46a1-913e-71d77321f8e1</uuid>
+  </card>
+  <card>
+    <question>der Donnerstag</question>
+    <answer>четверг</answer>
+    <comment>(=Do.)</comment>
+    <uuid>9833ba97-84ac-44cb-80ef-eac181e6dc9f</uuid>
+  </card>
+  <card>
+    <question>der Freitag</question>
+    <answer>пятница</answer>
+    <comment>(=Fr.)</comment>
+    <uuid>69edce48-80f7-45f8-9f2e-af050f186679</uuid>
+  </card>
+  <card>
+    <question>der Samstag</question>
+    <answer>суббота</answer>
+    <comment>(=Sa.)</comment>
+    <uuid>c5f12afa-86f6-406e-9fa5-e43d495c4ce4</uuid>
+  </card>
+  <card>
+    <question>der Sonntag</question>
+    <answer>воскресенье</answer>
+    <comment>(=So.)</comment>
+    <uuid>cbbb21df-39e2-4c37-9847-a0624912ad64</uuid>
+  </card>
+  <card>
+    <question>das Essen</question>
+    <answer>еда</answer>
+    <comment>Essen</comment>
+    <uuid>b6080b8f-a164-4ccb-91a9-b1b47ba8c79c</uuid>
+  </card>
+  <card>
+    <question>die Besprechung</question>
+    <answer>совещание</answer>
+    <comment>Besprechungen</comment>
+    <uuid>c5fa4235-5105-4b38-84e1-a0d8d8b61128</uuid>
+  </card>
+  <card>
+    <question>die Korrespondenz</question>
+    <answer>переписка</answer>
+    <comment>Korrespondenzen</comment>
+    <uuid>c5dc0138-f414-4907-8eaa-713fcdd48cfd</uuid>
+  </card>
+  <card>
+    <question>das Seminar</question>
+    <answer>семинар</answer>
+    <comment>Seminare</comment>
+    <uuid>88be6272-c786-42b8-b549-1c4a66f9cb1c</uuid>
+  </card>
+  <card>
+    <question>der Arzt</question>
+    <answer>врач</answer>
+    <comment>Ärzte</comment>
+    <uuid>7c03a5c6-d80f-431c-9883-0faa35bec76c</uuid>
+  </card>
+  <card>
+    <question>das Projekt</question>
+    <answer>проект</answer>
+    <comment>Projekte</comment>
+    <uuid>90e8f0a4-6b1a-4749-b0be-3ff4e83de77a</uuid>
+  </card>
+  <card>
+    <question>frei</question>
+    <answer>свободный</answer>
+    <comment></comment>
+    <uuid>6f9bab5f-b456-416a-8fbc-1fd68c526f98</uuid>
+  </card>
+  <card>
+    <question>vorbereiten</question>
+    <answer>приготовить</answer>
+    <comment></comment>
+    <uuid>8cd8dc20-18bc-46f8-b478-b4992e6bbd90</uuid>
+  </card>
+  <card>
+    <question>die Planung</question>
+    <answer>планирование</answer>
+    <comment>Planungen</comment>
+    <uuid>ec24946b-8a77-4e89-8528-e8dd702819dc</uuid>
+  </card>
+  <card>
+    <question>leider</question>
+    <answer>к сожалению</answer>
+    <comment></comment>
+    <uuid>ea86ac15-8994-4086-8039-740292232141</uuid>
+  </card>
+  <card>
+    <question>Auf Wiederhören</question>
+    <answer>до свидания (по телефону)</answer>
+    <comment></comment>
+    <uuid>43d7d797-e6a5-46dd-ae13-d6931af23063</uuid>
+  </card>
+  <card>
+    <question>anrufen (rief an, angerufen)</question>
+    <answer>звонить</answer>
+    <comment>(+ Akk)</comment>
+    <uuid>ce4334e0-3348-415e-984a-eb8809f1ac3f</uuid>
+  </card>
+  <card>
+    <question>die Freizeit</question>
+    <answer>свободное время</answer>
+    <comment></comment>
+    <uuid>5e02569f-29c0-494a-8cd3-4d2b873bf189</uuid>
+  </card>
+  <card>
+    <question>der Brief</question>
+    <answer>письмо</answer>
+    <comment>Briefe</comment>
+    <uuid>77c5bba8-080b-464c-a57e-c69c815ce09a</uuid>
+  </card>
+  <card>
+    <question>das Protokoll</question>
+    <answer>протокол</answer>
+    <comment>Protokolle</comment>
+    <uuid>e503486d-79c8-4908-8d72-a17b5b246fca</uuid>
+  </card>
+  <card>
+    <question>mittags</question>
+    <answer>днем</answer>
+    <comment></comment>
+    <uuid>94c4ca85-8607-4b0b-a85e-f93f0d8c92da</uuid>
+  </card>
+  <card>
+    <question>manchmal</question>
+    <answer>иногда</answer>
+    <comment></comment>
+    <uuid>9c623677-de28-4a3d-bfbd-4b516d318dd4</uuid>
+  </card>
+  <card>
+    <question>einkaufen</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>7fd506c5-f0e3-4568-9fd5-f9b8a3a03956</uuid>
+  </card>
+  <card>
+    <question>allein</question>
+    <answer>один</answer>
+    <comment></comment>
+    <uuid>91b45865-2cfb-44b8-9873-a3f1eaa11ff7</uuid>
+  </card>
+  <card>
+    <question>zu Hause</question>
+    <answer>дома</answer>
+    <comment></comment>
+    <uuid>bde7c5d5-5b9c-47c5-820b-d8cf75bb9da9</uuid>
+  </card>
+  <card>
+    <question>fernsehen (sah fern, ferngesehen)</question>
+    <answer>смотреть телевизор</answer>
+    <comment></comment>
+    <uuid>8497cfce-3787-4574-89f1-d4828b42cd29</uuid>
+  </card>
+  <card>
+    <question>jemand</question>
+    <answer>кто-то</answer>
+    <comment></comment>
+    <uuid>2acc2c9b-e0d5-4f40-b943-2fbe8d34e71e</uuid>
+  </card>
+  <card>
+    <question>einladen (lud ein, eingeladen)</question>
+    <answer>пригласить</answer>
+    <comment></comment>
+    <uuid>72651d16-0556-4e88-82bd-6dae0aa4da50</uuid>
+  </card>
+  <card>
+    <question>wen?</question>
+    <answer>кого?</answer>
+    <comment></comment>
+    <uuid>fb3e9af7-b874-46ca-96ab-5f55dfdf2c2a</uuid>
+  </card>
+  <card>
+    <question>das Wochenende</question>
+    <answer>выходные</answer>
+    <comment>Wochenenden</comment>
+    <uuid>bdc524c7-06e8-4067-97ed-9a7b154cd151</uuid>
+  </card>
+  <card>
+    <question>der/die Bekannte</question>
+    <answer>знакомый</answer>
+    <comment>Bekannten</comment>
+    <uuid>42e6a7bc-ab68-4e0d-8a49-c08b3d8487ab</uuid>
+  </card>
+  <card>
+    <question>der Ausflug</question>
+    <answer>прогулка</answer>
+    <comment>Ausflüge</comment>
+    <uuid>deed7cff-c18b-4a73-9e40-4a58bc434140</uuid>
+  </card>
+  <card>
+    <question>das Restaurant</question>
+    <answer>ресторан</answer>
+    <comment>Restaurants</comment>
+    <uuid>613da757-1551-489f-8b7b-b2151b0e4c1e</uuid>
+  </card>
+  <card>
+    <question>schlafen (schlief, geschlafen)</question>
+    <answer>спать</answer>
+    <comment></comment>
+    <uuid>51f95a45-5d15-4f5c-94ac-549fc66e1a5f</uuid>
+  </card>
+  <card>
+    <question>wandern</question>
+    <answer>ходить в поход</answer>
+    <comment></comment>
+    <uuid>1654eacf-5c6b-49d4-84b0-06960e60dabb</uuid>
+  </card>
+  <card>
+    <question>zelten</question>
+    <answer>жить в палатке</answer>
+    <comment></comment>
+    <uuid>07aa3842-b2ef-47a3-8368-c4a5fc050334</uuid>
+  </card>
+  <card>
+    <question>schwimmen (schwomm, geschwommen)</question>
+    <answer>плавать</answer>
+    <comment></comment>
+    <uuid>fb763ae8-ee12-47b1-8199-d64290307542</uuid>
+  </card>
+  <card>
+    <question>segeln</question>
+    <answer>ходить под парусом</answer>
+    <comment></comment>
+    <uuid>79b0f933-53b1-4011-b413-abf5d1076198</uuid>
+  </card>
+  <card>
+    <question>kochen</question>
+    <answer>варить, готовить еду</answer>
+    <comment></comment>
+    <uuid>b34a78b6-4c8a-455b-aa36-9c4640e7b2d3</uuid>
+  </card>
+  <card>
+    <question>sehen (sah, gesehen)</question>
+    <answer>видеть</answer>
+    <comment></comment>
+    <uuid>86669947-dcaf-403f-89ae-aa02068d5feb</uuid>
+  </card>
+  <card>
+    <question>der Lehrer</question>
+    <answer>учитель</answer>
+    <comment>Lehrer</comment>
+    <uuid>342f77ae-d97f-41e9-8364-a2dcb23206be</uuid>
+  </card>
+  <card>
+    <question>das Fest</question>
+    <answer>праздник</answer>
+    <comment>Feste</comment>
+    <uuid>4bd0aa13-7f34-4ed3-b2a7-9338d235c99f</uuid>
+  </card>
+  <card>
+    <question>das Bett</question>
+    <answer>кровать</answer>
+    <comment>Betten</comment>
+    <uuid>30319781-4a60-4364-a579-2a8a34d7aaf4</uuid>
+  </card>
+  <card>
+    <question>das Heft</question>
+    <answer>тетрадь</answer>
+    <comment>Hefte</comment>
+    <uuid>b6bc91c7-2e20-4a28-9004-2a39e85a78ef</uuid>
+  </card>
+  <card>
+    <question>zählen</question>
+    <answer>считать</answer>
+    <comment></comment>
+    <uuid>00ea6e8e-0dc6-4036-8042-4f11b9e110c7</uuid>
+  </card>
+  <card>
+    <question>der Staat</question>
+    <answer>государство</answer>
+    <comment>Staaten</comment>
+    <uuid>08882966-58de-412a-9875-91ddb7c31b31</uuid>
+  </card>
+  <card>
+    <question>der Toast</question>
+    <answer>тост</answer>
+    <comment>Toasts</comment>
+    <uuid>1348dc90-2800-411c-9bda-c0805a2ea03a</uuid>
+  </card>
+  <card>
+    <question>das Ei</question>
+    <answer>яйцо</answer>
+    <comment>Eier</comment>
+    <uuid>06f00498-89a2-497a-8913-cbf3e16c4aff</uuid>
+  </card>
+  <card>
+    <question>die Marmelade</question>
+    <answer>джем</answer>
+    <comment>Marmeladen</comment>
+    <uuid>7a8485e1-591d-4f0c-a834-a6964fe57a67</uuid>
+  </card>
+  <card>
+    <question>die Tomate</question>
+    <answer>помидор</answer>
+    <comment>Tomaten</comment>
+    <uuid>37decc4d-b632-4939-9104-deb20109369f</uuid>
+  </card>
+  <card>
+    <question>das Buch</question>
+    <answer>книга</answer>
+    <comment>Bücher</comment>
+    <uuid>b750a751-0dd2-4f32-869c-074927499730</uuid>
+  </card>
+  <card>
+    <question>gleich</question>
+    <answer>одинаковый</answer>
+    <comment></comment>
+    <uuid>a108e3a3-7919-43ee-892f-d8c372c6417b</uuid>
+  </card>
+  <card>
+    <question>der Pfeil</question>
+    <answer>стрела</answer>
+    <comment>Pfeile</comment>
+    <uuid>9e86ea0f-dedf-49f0-8b6a-2ff63cf73bc8</uuid>
+  </card>
+  <card>
+    <question>der Kurs</question>
+    <answer>курс</answer>
+    <comment>Kurse</comment>
+    <uuid>16746c3b-a4ff-4862-afc6-37a0de7da464</uuid>
+  </card>
+  <card>
+    <question>der Sprachkurs</question>
+    <answer>языковой курс</answer>
+    <comment>Sprachkurse</comment>
+    <uuid>48957d59-6819-4bd8-a43d-79ba9133a9d7</uuid>
+  </card>
+  <card>
+    <question>das Lernen</question>
+    <answer>изучение</answer>
+    <comment></comment>
+    <uuid>4d1d146e-83f3-4253-9f31-f5ab4401f2b3</uuid>
+  </card>
+  <card>
+    <question>denken (dachte, gedacht)</question>
+    <answer>думать</answer>
+    <comment></comment>
+    <uuid>3bb352f8-5ce9-4266-9590-3079d256d8ad</uuid>
+  </card>
+  <card>
+    <question>der Unterricht</question>
+    <answer>урок</answer>
+    <comment></comment>
+    <uuid>a16ced20-e9e2-4f3f-9793-0b4b34ec00ea</uuid>
+  </card>
+  <card>
+    <question>das Spiel</question>
+    <answer>игра</answer>
+    <comment>Spiele</comment>
+    <uuid>29fd7ff9-1264-4069-bdca-2499b91feef2</uuid>
+  </card>
+  <card>
+    <question>das Radio</question>
+    <answer>радио</answer>
+    <comment>Radios</comment>
+    <uuid>713a51b6-ca73-4471-a5c2-bf0eb51afc15</uuid>
+  </card>
+  <card>
+    <question>das Fernsehen</question>
+    <answer>телевизор</answer>
+    <comment>Fernsehen</comment>
+    <uuid>3072286b-9d02-496b-bbec-41aa71bc016b</uuid>
+  </card>
+  <card>
+    <question>schwer</question>
+    <answer>трудный</answer>
+    <comment></comment>
+    <uuid>8c39a555-446e-4407-ab67-fd8f271ec608</uuid>
+  </card>
+  <card>
+    <question>leicht</question>
+    <answer>легкий</answer>
+    <comment></comment>
+    <uuid>f2033485-cd42-4db5-9b79-96e129efb5aa</uuid>
+  </card>
+  <card>
+    <question>das Bild</question>
+    <answer>картинка</answer>
+    <comment>Bilder</comment>
+    <uuid>86e74e02-2c78-4731-bb53-fc353cefc948</uuid>
+  </card>
+  <card>
+    <question>versuchen</question>
+    <answer>пробовать</answer>
+    <comment></comment>
+    <uuid>546623fb-73f8-487c-9610-8b410ba4a91a</uuid>
+  </card>
+  <card>
+    <question>die Gruppe</question>
+    <answer>группа</answer>
+    <comment>Gruppen</comment>
+    <uuid>63d7c54a-7604-4da3-ad96-d9ac34672373</uuid>
+  </card>
+  <card>
+    <question>meinen</question>
+    <answer>думать, иметь в виду</answer>
+    <comment></comment>
+    <uuid>a2a29360-633f-4c60-b617-6c0c6d4dab36</uuid>
+  </card>
+  <card>
+    <question>das Lehrbuch</question>
+    <answer>учебник</answer>
+    <comment>Lehrbüche</comment>
+    <uuid>fcccb1f5-1b8d-4df3-8508-720a2ca585a9</uuid>
+  </card>
+  <card>
+    <question>warum?</question>
+    <answer>почему?</answer>
+    <comment></comment>
+    <uuid>543672d8-ba4d-4881-a269-b5f6a4e3abbd</uuid>
+  </card>
+  <card>
+    <question>das Institut</question>
+    <answer>институт</answer>
+    <comment>Institute</comment>
+    <uuid>67f78e5a-8f3c-4259-8141-5116d5304bde</uuid>
+  </card>
+  <card>
+    <question>brauchen</question>
+    <answer>нуждаться в чем-то</answer>
+    <comment></comment>
+    <uuid>e19f4ccc-8e4a-48f2-bdcc-89312a25597c</uuid>
+  </card>
+  <card>
+    <question>die Zukunft</question>
+    <answer>будущее</answer>
+    <comment></comment>
+    <uuid>2c2b96f1-e6be-42c9-ac5f-7f507e5c3a89</uuid>
+  </card>
+  <card>
+    <question>wichtig</question>
+    <answer>важно</answer>
+    <comment></comment>
+    <uuid>fadd4d47-f27c-40a2-831f-71560f28dfc1</uuid>
+  </card>
+  <card>
+    <question>die Fremdsprache</question>
+    <answer>иностранный язык</answer>
+    <comment>Fremdsprachen</comment>
+    <uuid>fc3a9ce3-d130-4e7d-a8c9-b75c19ab7bdb</uuid>
+  </card>
+  <card>
+    <question>jeder</question>
+    <answer>каждый</answer>
+    <comment>(jede, jedes)</comment>
+    <uuid>5eeb5f25-593c-44ce-a7fa-ba391a9e8bb9</uuid>
+  </card>
+  <card>
+    <question>außerdem</question>
+    <answer>кроме того</answer>
+    <comment></comment>
+    <uuid>cc1a42de-57d9-4f86-8c6a-c91a19d0cf52</uuid>
+  </card>
+  <card>
+    <question>am besten</question>
+    <answer>лучше всего</answer>
+    <comment></comment>
+    <uuid>0b68b2c6-f1d5-4014-bc5d-cf3a73c9e7c7</uuid>
+  </card>
+  <card>
+    <question>ansehen (sah an, angesehen)</question>
+    <answer>посмотреть</answer>
+    <comment></comment>
+    <uuid>de30861d-0130-4ec1-a40b-f96b1a75c4df</uuid>
+  </card>
+  <card>
+    <question>das Foto</question>
+    <answer>фотография</answer>
+    <comment>Fotos</comment>
+    <uuid>5fefe9b0-bc31-46e1-8939-9c2593d05c79</uuid>
+  </card>
+  <card>
+    <question>der Student</question>
+    <answer>студент</answer>
+    <comment>Studenten</comment>
+    <uuid>35d28b9f-7864-41db-b1db-944959e2b07d</uuid>
+  </card>
+  <card>
+    <question>können (konnte, gekonnt)</question>
+    <answer>мочь</answer>
+    <comment></comment>
+    <uuid>08c89a48-9c77-4baf-bd36-9fdda78aba21</uuid>
+  </card>
+  <card>
+    <question>müssen (musste, gemusst)</question>
+    <answer>долженствовать</answer>
+    <comment></comment>
+    <uuid>72697880-e74a-4bdb-b8ff-cd28180c5061</uuid>
+  </card>
+  <card>
+    <question>mitbringen (brachte mit, mitgebracht)</question>
+    <answer>приносить с собой</answer>
+    <comment></comment>
+    <uuid>20f2a364-8042-47b1-813f-e7506af3ddb9</uuid>
+  </card>
+  <card>
+    <question>das Programm</question>
+    <answer>программа</answer>
+    <comment>Programme</comment>
+    <uuid>94804a52-5da1-4345-a977-f6d89e370987</uuid>
+  </card>
+  <card>
+    <question>die Zeitschrift</question>
+    <answer>журнал</answer>
+    <comment>Zeitschriften</comment>
+    <uuid>1ba9101e-fcdc-4d4d-87d6-2eafa03ebefa</uuid>
+  </card>
+  <card>
+    <question>speziell</question>
+    <answer>специальный</answer>
+    <comment></comment>
+    <uuid>03c0d7f6-242b-41ad-ad5a-f61309324904</uuid>
+  </card>
+  <card>
+    <question>das Blatt</question>
+    <answer>лист</answer>
+    <comment>Blätter</comment>
+    <uuid>0936b8af-ed86-4482-a958-1acfbb849239</uuid>
+  </card>
+  <card>
+    <question>die Lösung</question>
+    <answer>решение</answer>
+    <comment>Lösungen</comment>
+    <uuid>cc5d12bb-b166-4854-a62c-d1e68f05a3c6</uuid>
+  </card>
+  <card>
+    <question>das Diktat</question>
+    <answer>диктант</answer>
+    <comment>Diktate</comment>
+    <uuid>7a79f309-caed-4c96-9b76-e9bdb69a9d5a</uuid>
+  </card>
+  <card>
+    <question>mehr</question>
+    <answer>больше</answer>
+    <comment></comment>
+    <uuid>080d4c5c-bc0e-417e-b277-b96f6401c57f</uuid>
+  </card>
+  <card>
+    <question>die Hilfe</question>
+    <answer>помощь</answer>
+    <comment>Hilfen</comment>
+    <uuid>d1a5f0ca-698e-48e3-b426-e4102f8a907d</uuid>
+  </card>
+  <card>
+    <question>bekommen (bekam, bekommen)</question>
+    <answer>получать</answer>
+    <comment></comment>
+    <uuid>559c64d9-f5e3-4e57-b835-691bb84631a6</uuid>
+  </card>
+  <card>
+    <question>ausleihen</question>
+    <answer>давать/брать на время</answer>
+    <comment></comment>
+    <uuid>71278089-299c-4232-8d95-c9424b248349</uuid>
+  </card>
+  <card>
+    <question>der Ausweis</question>
+    <answer>удостоверение</answer>
+    <comment>Ausweise</comment>
+    <uuid>9f1de28d-cb2f-4041-8835-3b249cc64e40</uuid>
+  </card>
+  <card>
+    <question>die Aufgabe</question>
+    <answer>задача, задание</answer>
+    <comment>Aufgaben</comment>
+    <uuid>c0f6a481-7123-4b8f-b84c-123037c0e434</uuid>
+  </card>
+  <card>
+    <question>sofort</question>
+    <answer>сразу</answer>
+    <comment></comment>
+    <uuid>68528a70-0aa4-4661-be48-bfd8f57135bb</uuid>
+  </card>
+  <card>
+    <question>der Betrieb</question>
+    <answer>работа, предприятие</answer>
+    <comment>Betriebe</comment>
+    <uuid>9c8ca789-5aba-4312-923f-f7d03dba0eb2</uuid>
+  </card>
+  <card>
+    <question>zurückbringen (brachte zurück, zurückgebracht)</question>
+    <answer>возвращать</answer>
+    <comment></comment>
+    <uuid>8631514c-0106-48e4-8e6e-fd2eb66d4e48</uuid>
+  </card>
+  <card>
+    <question>wollen (wollte, gewollt)</question>
+    <answer>хотеть</answer>
+    <comment></comment>
+    <uuid>ffe9f14c-d4a2-4e25-9132-34bea3abc956</uuid>
+  </card>
+  <card>
+    <question>helfen (half, geholfen)</question>
+    <answer>помогать</answer>
+    <comment></comment>
+    <uuid>165c683f-5b2e-4dbb-baae-ccefedd1cb15</uuid>
+  </card>
+  <card>
+    <question>beraten (beriet, beraten)</question>
+    <answer>советовать</answer>
+    <comment></comment>
+    <uuid>cb7aedb7-a2a7-40cf-84c6-0c7f45e47dee</uuid>
+  </card>
+  <card>
+    <question>dass</question>
+    <answer>что</answer>
+    <comment></comment>
+    <uuid>df56e9ab-f1d0-48ce-9f9d-5e5b0b4bc936</uuid>
+  </card>
+  <card>
+    <question>groß</question>
+    <answer>большой</answer>
+    <comment></comment>
+    <uuid>0522a301-f9c1-4a0d-a1ab-c70ae661ce3d</uuid>
+  </card>
+  <card>
+    <question>beantworten</question>
+    <answer>отвечать</answer>
+    <comment>(=antworten)</comment>
+    <uuid>d03ef7f3-6d27-455c-a7c0-35cab01cf718</uuid>
+  </card>
+  <card>
+    <question>das Problem</question>
+    <answer>проблема</answer>
+    <comment>Probleme</comment>
+    <uuid>0b137b3b-d14a-4a5d-a810-3b9216b46b35</uuid>
+  </card>
+  <card>
+    <question>die Übung</question>
+    <answer>упражнение</answer>
+    <comment>Übungen</comment>
+    <uuid>25dc695b-33ac-4c7f-8417-977c256baf5d</uuid>
+  </card>
+  <card>
+    <question>besuchen</question>
+    <answer>посещать</answer>
+    <comment></comment>
+    <uuid>be0e5a39-163a-4df3-aafd-7a71c174af53</uuid>
+  </card>
+  <card>
+    <question>die Grundstufe</question>
+    <answer>начальная ступень</answer>
+    <comment></comment>
+    <uuid>55754cf1-12b5-4479-909a-382a0382911c</uuid>
+  </card>
+  <card>
+    <question>die Mittelstufe</question>
+    <answer>средняя ступень</answer>
+    <comment></comment>
+    <uuid>d6f17afc-1511-409d-858c-630efb5e3aeb</uuid>
+  </card>
+  <card>
+    <question>die Oberstufe</question>
+    <answer>высшая ступень</answer>
+    <comment></comment>
+    <uuid>eaff2864-2331-4a6d-9487-d848e401b4db</uuid>
+  </card>
+  <card>
+    <question>die Klasse</question>
+    <answer>класс</answer>
+    <comment>Klassen</comment>
+    <uuid>a32d8012-f330-4ffd-ad96-e2572a9ea3de</uuid>
+  </card>
+  <card>
+    <question>das Sommerfest</question>
+    <answer>летний праздник</answer>
+    <comment>Sommerfeste</comment>
+    <uuid>cd351fcd-37db-4426-9d61-d9ecf7f39611</uuid>
+  </card>
+  <card>
+    <question>der Raum</question>
+    <answer>комната</answer>
+    <comment>Räume</comment>
+    <uuid>3714d855-bab3-454c-8687-06c4d35e830f</uuid>
+  </card>
+  <card>
+    <question>der Aufenthaltsraum</question>
+    <answer>комната отдыха</answer>
+    <comment>Aufenthaltsräume</comment>
+    <uuid>46048d69-1112-4312-97b0-f33e9c6293a4</uuid>
+  </card>
+  <card>
+    <question>der Wettlauf</question>
+    <answer>соревнование</answer>
+    <comment>Wettläufe</comment>
+    <uuid>886bba56-5f68-457f-93bd-3484b7f41c71</uuid>
+  </card>
+  <card>
+    <question>der Hinterhof</question>
+    <answer>задний двор</answer>
+    <comment>Hinterhöfe</comment>
+    <uuid>4b695153-e273-4de0-b7eb-3a6b440ef126</uuid>
+  </card>
+  <card>
+    <question>das Streichquartett</question>
+    <answer>струнный квартет</answer>
+    <comment>Streichquartette</comment>
+    <uuid>2259bafe-0a75-4287-a408-ae4028599907</uuid>
+  </card>
+  <card>
+    <question>der Vortrag</question>
+    <answer>доклад</answer>
+    <comment>Vorträge</comment>
+    <uuid>b40f25a2-06f6-45d0-bbda-d512a0de91a5</uuid>
+  </card>
+  <card>
+    <question>die Kunst</question>
+    <answer>искусство</answer>
+    <comment>Künste</comment>
+    <uuid>37a6928b-f9af-4dda-905e-d149680fc2d0</uuid>
+  </card>
+  <card>
+    <question>das Papier</question>
+    <answer>бумага</answer>
+    <comment>Papiere</comment>
+    <uuid>3364e74e-521f-4751-bc2c-e3b5bff1cfb5</uuid>
+  </card>
+  <card>
+    <question>falten</question>
+    <answer>складывать</answer>
+    <comment></comment>
+    <uuid>590e8411-740f-46af-b1f3-7f74f363c0f2</uuid>
+  </card>
+  <card>
+    <question>die Postkarte</question>
+    <answer>открытка</answer>
+    <comment>Postkarten</comment>
+    <uuid>4b89f462-2afa-454c-a1a5-3087227db038</uuid>
+  </card>
+  <card>
+    <question>Thailand</question>
+    <answer>Таланд</answer>
+    <comment></comment>
+    <uuid>246b15f5-1e75-4680-b56f-bfbeeb07adc5</uuid>
+  </card>
+  <card>
+    <question>thailändisch</question>
+    <answer>таиландский</answer>
+    <comment></comment>
+    <uuid>383ed1b6-bfce-4153-8e3b-5a21b8e2cf73</uuid>
+  </card>
+  <card>
+    <question>der Schmuck</question>
+    <answer>украшение, украшения</answer>
+    <comment></comment>
+    <uuid>04fee886-15e8-4c22-86f9-0af0f97dad79</uuid>
+  </card>
+  <card>
+    <question>der Verkauf</question>
+    <answer>продажа</answer>
+    <comment>Verkäufe</comment>
+    <uuid>a2e96e1e-1779-4c1e-bcb8-c7100058356d</uuid>
+  </card>
+  <card>
+    <question>die Wiedergabe</question>
+    <answer>воспроизведение</answer>
+    <comment>Wiedergaben</comment>
+    <uuid>052e9582-8210-4a90-a1e1-6e40b76d3b2a</uuid>
+  </card>
+  <card>
+    <question>der Schüler</question>
+    <answer>ученик</answer>
+    <comment>Schüler</comment>
+    <uuid>2ef8c3fe-9c8f-48f9-854e-b4d877ae3d59</uuid>
+  </card>
+  <card>
+    <question>die Schülerin</question>
+    <answer>ученица</answer>
+    <comment>Schülerinnen</comment>
+    <uuid>d8f33177-c016-43d0-b65c-f3244709d2f0</uuid>
+  </card>
+  <card>
+    <question>der Preis</question>
+    <answer>приз</answer>
+    <comment>Preise</comment>
+    <uuid>4a4bef2c-e6aa-40eb-b60f-b3d74cae7412</uuid>
+  </card>
+  <card>
+    <question>die Eröffnung</question>
+    <answer>открытие</answer>
+    <comment>Eröffnungen</comment>
+    <uuid>c1ab8bcd-900a-4d4f-9a5c-78f409ec8a36</uuid>
+  </card>
+  <card>
+    <question>die Tombola</question>
+    <answer>вещевая лотерея</answer>
+    <comment>Tombolas</comment>
+    <uuid>ec76303a-1ba9-495a-87d6-a049c7ddc97c</uuid>
+  </card>
+  <card>
+    <question>der Erlös</question>
+    <answer>выручка</answer>
+    <comment>Erlöse</comment>
+    <uuid>98ff0339-1432-4e4a-8717-4c25548c9608</uuid>
+  </card>
+  <card>
+    <question>gemeinnützig</question>
+    <answer>общественно полезный</answer>
+    <comment></comment>
+    <uuid>4e719445-c13e-4b15-9392-6fcb3da97527</uuid>
+  </card>
+  <card>
+    <question>die Organisation</question>
+    <answer>организация</answer>
+    <comment>Organisationen</comment>
+    <uuid>444d93a5-1043-4030-a295-a90ff845f786</uuid>
+  </card>
+  <card>
+    <question>spenden</question>
+    <answer>пожертвовать</answer>
+    <comment>(für + Akk)</comment>
+    <uuid>d5e44b83-4f7a-4298-ac99-9b541dcdad78</uuid>
+  </card>
+  <card>
+    <question>international</question>
+    <answer>интернациональный</answer>
+    <comment></comment>
+    <uuid>0155c67a-edc1-4c0a-be31-692370992687</uuid>
+  </card>
+  <card>
+    <question>der Tanz</question>
+    <answer>танец</answer>
+    <comment>Tänze</comment>
+    <uuid>15cce761-d417-4598-908a-38355305aab7</uuid>
+  </card>
+  <card>
+    <question>das Buffet</question>
+    <answer>буфет</answer>
+    <comment>Buffets</comment>
+    <uuid>7f32b7ce-b8b6-4d04-a0df-a1ffc1db6f5a</uuid>
+  </card>
+  <card>
+    <question>der Flur</question>
+    <answer>вестибюль</answer>
+    <comment>Flure</comment>
+    <uuid>049d7143-d86d-472c-bafd-6344fd0ec01b</uuid>
+  </card>
+  <card>
+    <question>die Gitarre</question>
+    <answer>гитара</answer>
+    <comment>Gitarren</comment>
+    <uuid>438cb1b4-30fe-4aeb-848e-800070250adf</uuid>
+  </card>
+  <card>
+    <question>die Tanzmusik</question>
+    <answer>танцевальная музыка</answer>
+    <comment></comment>
+    <uuid>2ce0c69b-db75-4394-ade2-e2f6d771dd92</uuid>
+  </card>
+  <card>
+    <question>der Wettbewerb</question>
+    <answer>конкурс</answer>
+    <comment>Wettbewerbe</comment>
+    <uuid>f842305e-f264-416f-891d-55830951f898</uuid>
+  </card>
+  <card>
+    <question>der Regen</question>
+    <answer>дождь</answer>
+    <comment></comment>
+    <uuid>b2ba8a4b-0e07-4db1-a0c5-eee252f30f53</uuid>
+  </card>
+  <card>
+    <question>die Ausgabe</question>
+    <answer>выдача</answer>
+    <comment></comment>
+    <uuid>17e80bb1-98e2-4007-be31-0c0343d1c788</uuid>
+  </card>
+  <card>
+    <question>feiern</question>
+    <answer>праздновать</answer>
+    <comment></comment>
+    <uuid>a571d9b5-b688-42d9-b903-d8d2d2bfe904</uuid>
+  </card>
+  <card>
+    <question>der Gast</question>
+    <answer>гость</answer>
+    <comment>Gäste</comment>
+    <uuid>1dc82a25-9a3e-4b45-98bc-5e1fdfa391a7</uuid>
+  </card>
+  <card>
+    <question>zeigen</question>
+    <answer>показывать</answer>
+    <comment></comment>
+    <uuid>41734cc8-a916-4651-a15a-fd12d2ae8218</uuid>
+  </card>
+  <card>
+    <question>die Spezialität</question>
+    <answer>национальное блюдо</answer>
+    <comment>Spezialitäten</comment>
+    <uuid>9d7b0702-46e9-44bc-ad67-02e348e03b77</uuid>
+  </card>
+  <card>
+    <question>fröhlich</question>
+    <answer>веселый</answer>
+    <comment></comment>
+    <uuid>2911b98e-4821-4525-8ff7-f296ec8b235c</uuid>
+  </card>
+  <card>
+    <question>lachen</question>
+    <answer>смеяться</answer>
+    <comment>(über + Akk)</comment>
+    <uuid>c3f4fa8f-caf2-43c8-9798-123f66357b3b</uuid>
+  </card>
+  <card>
+    <question>tanzen</question>
+    <answer>танцевать</answer>
+    <comment></comment>
+    <uuid>fcba0b07-e95d-4b8f-8c60-bfac5223fef1</uuid>
+  </card>
+  <card>
+    <question>sich unterhalten (unterhielt, unterhalten)</question>
+    <answer>беседовать</answer>
+    <comment></comment>
+    <uuid>72e3f34c-6fa0-4112-8a49-e57172bb4a26</uuid>
+  </card>
+  <card>
+    <question>tragen (trug, getragen)</question>
+    <answer>носить (одежду)</answer>
+    <comment></comment>
+    <uuid>473b22cd-d2e5-4cb4-9b19-c0a4750a2102</uuid>
+  </card>
+  <card>
+    <question>die Kleider</question>
+    <answer>одежда</answer>
+    <comment>(Pl.)</comment>
+    <uuid>fb31bc24-5cd4-44da-b41f-2253aa626591</uuid>
+  </card>
+  <card>
+    <question>die Atmosphäre</question>
+    <answer>атмосфера</answer>
+    <comment></comment>
+    <uuid>62376109-3c88-4ec0-a394-1254e0721c0d</uuid>
+  </card>
+  <card>
+    <question>wunderbar</question>
+    <answer>прекрасный</answer>
+    <comment></comment>
+    <uuid>6ebf70b3-b77c-4b87-ad0e-f0d564c9c833</uuid>
+  </card>
+  <card>
+    <question>interessieren</question>
+    <answer>интересовать</answer>
+    <comment></comment>
+    <uuid>8a4e3330-6621-4a54-8275-69dce7d3db92</uuid>
+  </card>
+  <card>
+    <question>besonders</question>
+    <answer>особенно</answer>
+    <comment></comment>
+    <uuid>5d2ba43d-788c-4e3d-b415-9b150708e3ca</uuid>
+  </card>
+  <card>
+    <question>teilnehmen (nahm teil, teilgenommen)</question>
+    <answer>принимать участие</answer>
+    <comment></comment>
+    <uuid>dde32a2e-8241-4714-8522-bce9f4306d4a</uuid>
+  </card>
+  <card>
+    <question>kennen (kannte, gekannt)</question>
+    <answer>знать</answer>
+    <comment></comment>
+    <uuid>0a751f21-2001-4825-b106-232d0ea5a453</uuid>
+  </card>
+  <card>
+    <question>gemeinsam</question>
+    <answer>общий</answer>
+    <comment></comment>
+    <uuid>6f952fe6-19b3-417a-9ea6-4b8a38137f6f</uuid>
+  </card>
+  <card>
+    <question>die Einladung</question>
+    <answer>приглашение</answer>
+    <comment>Einladungen</comment>
+    <uuid>1957e467-55e9-47c6-b8d6-f6d6de852fbe</uuid>
+  </card>
+  <card>
+    <question>berichten</question>
+    <answer>сообщать</answer>
+    <comment></comment>
+    <uuid>ddaa40eb-e476-4593-b561-a0d2a8c50f19</uuid>
+  </card>
+  <card>
+    <question>anbieten (bot an, angeboten)</question>
+    <answer>предлагать</answer>
+    <comment></comment>
+    <uuid>030af87f-c1ab-4f9c-ba76-15443b09ca4c</uuid>
+  </card>
+  <card>
+    <question>verkaufen</question>
+    <answer>продавать</answer>
+    <comment></comment>
+    <uuid>26f86445-01a1-4514-82f4-b071e46d8032</uuid>
+  </card>
+  <card>
+    <question>die Portion</question>
+    <answer>порция</answer>
+    <comment>Portionen</comment>
+    <uuid>5bf28e84-ed0d-4922-bc2d-1509a7a6fb6e</uuid>
+  </card>
+  <card>
+    <question>sich freuen</question>
+    <answer>радоваться</answer>
+    <comment>(auf + Akk)</comment>
+    <uuid>1846d153-9e60-46ca-88a8-669c4c73af19</uuid>
+  </card>
+  <card>
+    <question>ernst</question>
+    <answer>серьезный</answer>
+    <comment></comment>
+    <uuid>217887a9-f730-4b38-8fea-764aa0e4c014</uuid>
+  </card>
+  <card>
+    <question>träumen</question>
+    <answer>мечтать</answer>
+    <comment>(von + Dat)</comment>
+    <uuid>5ae47a54-3082-4c06-bc07-3b2761825420</uuid>
+  </card>
+  <card>
+    <question>traurig</question>
+    <answer>грустный</answer>
+    <comment></comment>
+    <uuid>7fe9c39b-44d2-4a94-b7f7-12729ae1a6d5</uuid>
+  </card>
+  <card>
+    <question>los sein</question>
+    <answer>случиться</answer>
+    <comment></comment>
+    <uuid>3d90c844-8353-4129-8257-378ce15dd2e8</uuid>
+  </card>
+  <card>
+    <question>warten</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <uuid>9e667e26-a33d-48e6-a921-7d48c3271d0b</uuid>
+  </card>
+  <card>
+    <question>Auf Wiedersehen!</question>
+    <answer>До свидания!</answer>
+    <comment></comment>
+    <uuid>d602a6de-91d1-48bf-af70-77c14a74f514</uuid>
+  </card>
+  <card>
+    <question>Tschüs!</question>
+    <answer>Пока!</answer>
+    <comment></comment>
+    <uuid>c1e08857-42fb-4216-9916-5c73d8f9d4f7</uuid>
+  </card>
+  <card>
+    <question>die Reportage</question>
+    <answer>репортаж</answer>
+    <comment>Reportagen</comment>
+    <uuid>45642a11-f253-4b1c-a241-6cc51aef7621</uuid>
+  </card>
+  <card>
+    <question>das Beispiel</question>
+    <answer>пример</answer>
+    <comment>Beispiele</comment>
+    <uuid>edfd3f34-3e68-434c-8196-affdf342a873</uuid>
+  </card>
+  <card>
+    <question>der Zoo</question>
+    <answer>зоопарк</answer>
+    <comment>Zoos</comment>
+    <uuid>633a8b95-7c9c-4aff-8c68-252c514442fe</uuid>
+  </card>
+  <card>
+    <question>verbessern</question>
+    <answer>улучшить</answer>
+    <comment></comment>
+    <uuid>c3038236-0797-4d43-b5f0-d5d02e0c9425</uuid>
+  </card>
+  <card>
+    <question>unwichtig</question>
+    <answer>неважно</answer>
+    <comment></comment>
+    <uuid>9e2c61f9-ce81-4efa-bf46-061dd8199ca9</uuid>
+  </card>
+  <card>
+    <question>zentral</question>
+    <answer>главный</answer>
+    <comment></comment>
+    <uuid>586df9d5-a1ca-4f7b-89b3-1da0763533a4</uuid>
+  </card>
+  <card>
+    <question>kombinieren</question>
+    <answer>составлять</answer>
+    <comment></comment>
+    <uuid>84cf5a8e-b6db-4192-aa88-2174d0100866</uuid>
+  </card>
+  <card>
+    <question>der Kollege</question>
+    <answer>коллега</answer>
+    <comment>Kollegen</comment>
+    <uuid>736c1e2b-3480-4bf3-b884-d443b41e1d1e</uuid>
+  </card>
+  <card>
+    <question>der Teil</question>
+    <answer>часть</answer>
+    <comment>Teile</comment>
+    <uuid>f9db72b3-ce04-49dc-a479-5d4885ba3d87</uuid>
+  </card>
+  <card>
+    <question>dürfen (durfte, gedurft)</question>
+    <answer>мочь (иметь возможность)</answer>
+    <comment></comment>
+    <uuid>27aff1fc-d962-49f5-a34d-bf55a33fa5dd</uuid>
+  </card>
+  <card>
+    <question>sollen</question>
+    <answer>быть должным</answer>
+    <comment></comment>
+    <uuid>66d5a981-9cb3-4825-8fa7-45faf3ebd78a</uuid>
+  </card>
+  <card>
+    <question>mögen (mochte, gemocht)</question>
+    <answer>любить (предпочитать) что-то</answer>
+    <comment></comment>
+    <uuid>056af5c5-739e-44bb-a167-61de6ca6136c</uuid>
+  </card>
+  <card>
+    <question>die Bedeutung</question>
+    <answer>значение</answer>
+    <comment>Bedeutungen</comment>
+    <uuid>f5ac6e8b-69ce-4e7f-b0b3-e58cf01a1bd8</uuid>
+  </card>
+  <card>
+    <question>die Notwendigkeit</question>
+    <answer>необходимость</answer>
+    <comment>Notwendigkeiten</comment>
+    <uuid>48af439b-7ac4-482c-94b0-ae24664eb54c</uuid>
+  </card>
+  <card>
+    <question>die Erlaubnis</question>
+    <answer>разрешение</answer>
+    <comment>Erlaubnisse</comment>
+    <uuid>1bb42c5a-3890-4820-9395-e225262a32f5</uuid>
+  </card>
+  <card>
+    <question>das Verbot</question>
+    <answer>запрет</answer>
+    <comment>Verbote</comment>
+    <uuid>4cf57fbd-e5a2-4265-8afa-431e61bb4c58</uuid>
+  </card>
+  <card>
+    <question>die Vorliebe</question>
+    <answer>предпочтение</answer>
+    <comment>Vorlieben</comment>
+    <uuid>640aa1f2-455a-495c-925b-275302ffd039</uuid>
+  </card>
+  <card>
+    <question>die Abneigung</question>
+    <answer>антипатия</answer>
+    <comment>Abneigungen</comment>
+    <uuid>b12bfa8e-0d00-4d66-9c74-f511afe8fe43</uuid>
+  </card>
+  <card>
+    <question>die Fähigkeit</question>
+    <answer>способность</answer>
+    <comment>Fähigkeiten</comment>
+    <uuid>c1d7e770-f4c4-4e17-8f21-0ec5aaba4020</uuid>
+  </card>
+  <card>
+    <question>der Wille</question>
+    <answer>воля</answer>
+    <comment></comment>
+    <uuid>eae3c552-9982-46ad-bff4-14a5cc542539</uuid>
+  </card>
+  <card>
+    <question>die Absicht</question>
+    <answer>намерение</answer>
+    <comment>Absichten</comment>
+    <uuid>13cb7b36-e3ca-4980-8927-206596a9541c</uuid>
+  </card>
+  <card>
+    <question>der Auftrag</question>
+    <answer>задание</answer>
+    <comment>Aufträge</comment>
+    <uuid>e2ac7d23-2387-4246-9a88-97d7623a3730</uuid>
+  </card>
+  <card>
+    <question>der Rat</question>
+    <answer>совет</answer>
+    <comment>Räte</comment>
+    <uuid>7a37f9b9-2562-460f-a21f-93a1892d65e7</uuid>
+  </card>
+  <card>
+    <question>die Lernmöglichkeit</question>
+    <answer>возможность учиться</answer>
+    <comment>Lernmöglichkeiten</comment>
+    <uuid>1d7f4de4-f3b8-4d1a-9dd9-d1dd6e5308cc</uuid>
+  </card>
+  <card>
+    <question>erst</question>
+    <answer>прежде, только</answer>
+    <comment></comment>
+    <uuid>f0b06dc6-c4dc-41e7-8cd7-c1f6a7b52206</uuid>
+  </card>
+  <card>
+    <question>der Grund</question>
+    <answer>причина</answer>
+    <comment>Gründe</comment>
+    <uuid>ac9e4df1-30fd-4842-a6d6-459c6ebaceef</uuid>
+  </card>
+  <card>
+    <question>der Mann</question>
+    <answer>муж</answer>
+    <comment>(=Partner, Ehemann)</comment>
+    <uuid>8030546e-ab69-436f-9a78-13eb62b9ec24</uuid>
+  </card>
+  <card>
+    <question>zweimal</question>
+    <answer>дважды</answer>
+    <comment></comment>
+    <uuid>0b7ef90e-e042-4871-8e8b-09e919bef967</uuid>
+  </card>
+  <card>
+    <question>schnell</question>
+    <answer>быстро</answer>
+    <comment></comment>
+    <uuid>48779717-4dff-41da-9dae-a2bd6658cb58</uuid>
+  </card>
+  <card>
+    <question>der Spaß</question>
+    <answer>удовольствие, шутка</answer>
+    <comment>Späße</comment>
+    <uuid>bfc6bba2-e8bd-44cc-b000-64492c0ca0ff</uuid>
+  </card>
+  <card>
+    <question>bald</question>
+    <answer>скоро</answer>
+    <comment></comment>
+    <uuid>f97d177a-da26-4b27-b444-3019579dadfc</uuid>
+  </card>
+  <card>
+    <question>wieder</question>
+    <answer>опять</answer>
+    <comment></comment>
+    <uuid>296039a7-d463-489c-a7b1-2eb014ba5d13</uuid>
+  </card>
+  <card>
+    <question>ziemlich</question>
+    <answer>довольно</answer>
+    <comment></comment>
+    <uuid>1236402c-0460-4760-b2f3-287e3b0950ae</uuid>
+  </card>
+  <card>
+    <question>eigentlich</question>
+    <answer>собственно, разве</answer>
+    <comment></comment>
+    <uuid>eccc2b46-32ec-4ba0-8ed0-17579eb0351d</uuid>
+  </card>
+  <card>
+    <question>regelmäßig</question>
+    <answer>регулярно</answer>
+    <comment></comment>
+    <uuid>f998f481-65ff-40dd-b6dd-fe950bad704a</uuid>
+  </card>
+  <card>
+    <question>früh</question>
+    <answer>рано</answer>
+    <comment></comment>
+    <uuid>25d6be63-bd9b-4416-8cff-a67dd74516c1</uuid>
+  </card>
+  <card>
+    <question>kaum</question>
+    <answer>едва</answer>
+    <comment></comment>
+    <uuid>77df7550-6c57-49c9-8faa-90e28290bdf7</uuid>
+  </card>
+  <card>
+    <question>die Lust</question>
+    <answer>радость, удовольствие</answer>
+    <comment>Lüste</comment>
+    <uuid>b9a1bc38-81de-434a-bdf4-d5bb2569ecda</uuid>
+  </card>
+  <card>
+    <question>dann</question>
+    <answer>тогда</answer>
+    <comment></comment>
+    <uuid>abdf8a3e-0d1b-4872-98dd-a514a42fc46d</uuid>
+  </card>
+  <card>
+    <question>laufen</question>
+    <answer>бежать</answer>
+    <comment></comment>
+    <uuid>9862e572-a3a6-461d-b73c-a7fe2fb4a556</uuid>
+  </card>
+  <card>
+    <question>die Situation</question>
+    <answer>ситуация</answer>
+    <comment>Situationen</comment>
+    <uuid>b49d3841-1d97-4c45-b169-5c7bea90c231</uuid>
+  </card>
+  <card>
+    <question>wie oft?</question>
+    <answer>как часто?</answer>
+    <comment></comment>
+    <uuid>9165a97d-9093-4f46-ace8-fca002c6a2ca</uuid>
+  </card>
+  <card>
+    <question>die Technik</question>
+    <answer>техника</answer>
+    <comment>Techniken</comment>
+    <uuid>3888eaa4-b222-4cdc-b8f5-2c8b12445fd3</uuid>
+  </card>
+  <card>
+    <question>das Ziel</question>
+    <answer>цель</answer>
+    <comment>Ziele</comment>
+    <uuid>255c925b-2027-459a-8314-9af823565ad9</uuid>
+  </card>
+  <card>
+    <question>der Teilnehmer</question>
+    <answer>участник</answer>
+    <comment>Teilnehmer</comment>
+    <uuid>79261888-60aa-4b58-af8b-52065a694f62</uuid>
+  </card>
+  <card>
+    <question>der Zettel</question>
+    <answer>записка</answer>
+    <comment>Zettel</comment>
+    <uuid>e93956dd-03fc-4c4d-af08-afbd4c64cd8c</uuid>
+  </card>
+  <card>
+    <question>täglich</question>
+    <answer>ежедневно</answer>
+    <comment></comment>
+    <uuid>caeed9e4-98b2-47dc-9492-54f89b00bfc6</uuid>
+  </card>
+  <card>
+    <question>der Fehler</question>
+    <answer>ошибка</answer>
+    <comment>Fehler</comment>
+    <uuid>481584be-133d-40d8-b0f5-d3ac6bbaf916</uuid>
+  </card>
+  <card>
+    <question>konstruieren</question>
+    <answer>составить</answer>
+    <comment></comment>
+    <uuid>81765ad1-2da2-43d6-b559-c6b579b8ef62</uuid>
+  </card>
+  <card>
+    <question>kleben</question>
+    <answer>клеить</answer>
+    <comment></comment>
+    <uuid>3c1c2510-6fec-4a1d-abf1-768b9390c4d5</uuid>
+  </card>
+  <card>
+    <question>das Muster</question>
+    <answer>образец</answer>
+    <comment>Muster</comment>
+    <uuid>85c9284d-2bc2-4a29-bba2-11a28d3bdce6</uuid>
+  </card>
+  <card>
+    <question>zusammenarbeiten</question>
+    <answer>вместе работать</answer>
+    <comment></comment>
+    <uuid>2f439510-9e9f-46fc-a157-68d935c5b730</uuid>
+  </card>
+  <card>
+    <question>darin</question>
+    <answer>в них</answer>
+    <comment></comment>
+    <uuid>c9876eb9-d26d-4af5-8c88-204736691820</uuid>
+  </card>
+  <card>
+    <question>ausschneiden</question>
+    <answer>вырезать</answer>
+    <comment></comment>
+    <uuid>bb59e20b-9cd4-490a-840d-b90afdc7a58a</uuid>
+  </card>
+  <card>
+    <question>grammatisch</question>
+    <answer>грамматически</answer>
+    <comment></comment>
+    <uuid>acef51a6-fee1-4dd4-b114-cafb046a254b</uuid>
+  </card>
+  <card>
+    <question>korrekt</question>
+    <answer>правильный</answer>
+    <comment></comment>
+    <uuid>51e66191-9307-4e9b-8575-035d15cbb282</uuid>
+  </card>
+  <card>
+    <question>der Sinn</question>
+    <answer>смысл</answer>
+    <comment>Sinne</comment>
+    <uuid>4637f7bc-6fa9-4e91-9d37-24e02e2b3019</uuid>
+  </card>
+  <card>
+    <question>der Schluss</question>
+    <answer>конец</answer>
+    <comment>Schlüsse</comment>
+    <uuid>8b017d8d-b91c-461b-a296-a0ef36b4ef30</uuid>
+  </card>
+  <card>
+    <question>die Gruppenarbeit</question>
+    <answer>работа в группе</answer>
+    <comment></comment>
+    <uuid>d6007ae5-d05b-4501-8b31-9a576556175a</uuid>
+  </card>
+  <card>
+    <question>die Partnerarbeit</question>
+    <answer>работа с партнером</answer>
+    <comment></comment>
+    <uuid>f8f5a816-1c13-4d6c-9ace-e1ca59b9141b</uuid>
+  </card>
+  <card>
+    <question>sonst</question>
+    <answer>иначе</answer>
+    <comment></comment>
+    <uuid>a4eab419-c889-4b4f-ba47-ab4bca05f002</uuid>
+  </card>
+  <card>
+    <question>der Tipp</question>
+    <answer>совет</answer>
+    <comment>Tipps</comment>
+    <uuid>ae4e785b-bdbb-4e34-89b5-b6489733a1f9</uuid>
+  </card>
+  <card>
+    <question>der Kuli</question>
+    <answer>авторучка</answer>
+    <comment>Kulis (=Kugelschreiber)</comment>
+    <uuid>37d504a6-9f0d-4b7f-ac01-31727d27149d</uuid>
+  </card>
+  <card>
+    <question>die Tafel</question>
+    <answer>доска (учебная)</answer>
+    <comment>Tafeln</comment>
+    <uuid>c1fe3913-f054-457a-a946-4e9f802a593b</uuid>
+  </card>
+  <card>
+    <question>der Füller</question>
+    <answer>перьевая ручка</answer>
+    <comment>Füller</comment>
+    <uuid>98e89ccc-7537-4f8a-8896-2d8ec4e52b8e</uuid>
+  </card>
+  <card>
+    <question>der Recorder</question>
+    <answer>кассетный магнитофон</answer>
+    <comment>Recorder</comment>
+    <uuid>28e0e400-7167-4544-afdd-e46e8af782f6</uuid>
+  </card>
+  <card>
+    <question>der Stift</question>
+    <answer>карандаш</answer>
+    <comment>Stifte (=Bleistift)</comment>
+    <uuid>74a64830-7719-4d0a-9fec-e0ab4a15c9a7</uuid>
+  </card>
+  <card>
+    <question>das Etui</question>
+    <answer>футляр</answer>
+    <comment>Etuis</comment>
+    <uuid>cf8a9177-43d0-470a-bbf6-5f7a59fde028</uuid>
+  </card>
+  <card>
+    <question>der Projektor</question>
+    <answer>проектор</answer>
+    <comment>Projektoren</comment>
+    <uuid>6eb433fa-1f6c-4b4c-b661-b1c6764d23ee</uuid>
+  </card>
+  <card>
+    <question>die Kreide</question>
+    <answer>мел</answer>
+    <comment>Kreiden</comment>
+    <uuid>401d3ce8-32cd-4269-b184-59e90356a0d1</uuid>
+  </card>
+  <card>
+    <question>der Schwamm</question>
+    <answer>губка</answer>
+    <comment>Schwämme</comment>
+    <uuid>6543cd53-0008-49b0-af3c-8513e4a85908</uuid>
+  </card>
+  <card>
+    <question>das Federmäppchen</question>
+    <answer>пенал</answer>
+    <comment>Federmäppchen</comment>
+    <uuid>d2b694c3-345f-4b7e-8ecc-404b552b3b06</uuid>
+  </card>
+  <card>
+    <question>die Tasche</question>
+    <answer>сумка</answer>
+    <comment>Taschen</comment>
+    <uuid>987272cc-d0de-45ca-9ac6-1ab2d148e9ea</uuid>
+  </card>
+  <card>
+    <question>die Schultasche</question>
+    <answer>портфель</answer>
+    <comment>Schultaschen</comment>
+    <uuid>9fed5f82-12ad-4535-9d9e-799e00c37f49</uuid>
+  </card>
+  <card>
+    <question>die Schere</question>
+    <answer>ножницы</answer>
+    <comment>Scheren</comment>
+    <uuid>e8039558-a970-4b0a-b824-913d965919ae</uuid>
+  </card>
+  <card>
+    <question>der Flieger</question>
+    <answer>бумажный самолетик</answer>
+    <comment>Flieger</comment>
+    <uuid>3b50360f-e8bd-4123-be3f-0254c0e1d79c</uuid>
+  </card>
+  <card>
+    <question>der Radiergummi</question>
+    <answer>ластик</answer>
+    <comment>Radiergummis</comment>
+    <uuid>a6c2fcae-fabc-43ff-92da-a2f800405e51</uuid>
+  </card>
+  <card>
+    <question>das Lineal</question>
+    <answer>линейка</answer>
+    <comment>Lineale</comment>
+    <uuid>8257c0fe-63d9-4d36-a4f3-eba7cca0eb16</uuid>
+  </card>
+  <card>
+    <question>das Pult</question>
+    <answer>парта</answer>
+    <comment>Pulte</comment>
+    <uuid>8e8e49cd-22a2-4c2c-8a3e-7fae8536e006</uuid>
+  </card>
+  <card>
+    <question>die Bank</question>
+    <answer>скамейка</answer>
+    <comment>Bänke</comment>
+    <uuid>94334985-70d2-419c-bc2c-5020e07d3bc4</uuid>
+  </card>
+  <card>
+    <question>die Lampe</question>
+    <answer>лампа</answer>
+    <comment>Lampen</comment>
+    <uuid>a7e6d372-4a9d-4015-a7c1-1c56ec74448b</uuid>
+  </card>
+  <card>
+    <question>der Tisch</question>
+    <answer>стол</answer>
+    <comment>Tische</comment>
+    <uuid>56f205d5-1229-4963-be4a-6d4a2a35ff49</uuid>
+  </card>
+  <card>
+    <question>der Stuhl</question>
+    <answer>стул</answer>
+    <comment>Stühle</comment>
+    <uuid>e6756858-5d39-4c0c-8d38-b2ae6d03473f</uuid>
+  </card>
+  <card>
+    <question>der Atlas</question>
+    <answer>атлас</answer>
+    <comment>Atlanten</comment>
+    <uuid>c84804bc-6d2b-4096-802e-aa7dfd08cb2b</uuid>
+  </card>
+  <card>
+    <question>der Ordner</question>
+    <answer>папка-скоросшиватель</answer>
+    <comment>Ordner</comment>
+    <uuid>e6ce35dd-4cbe-43c9-8d9c-80dc9c3e74c7</uuid>
+  </card>
+  <card>
+    <question>dazu</question>
+    <answer>к этому</answer>
+    <comment></comment>
+    <uuid>26592df2-3a9b-44bb-8e77-1f591ae341a7</uuid>
+  </card>
+  <card>
+    <question>malen</question>
+    <answer>рисовать</answer>
+    <comment></comment>
+    <uuid>8156b6b5-2acd-41d1-8226-263b63951004</uuid>
+  </card>
+  <card>
+    <question>der Gegenstand</question>
+    <answer>объект</answer>
+    <comment>Gegenstände</comment>
+    <uuid>b7939903-3560-495d-a4cc-65bbc17619c6</uuid>
+  </card>
+  <card>
+    <question>anmalen</question>
+    <answer>раскрашивать</answer>
+    <comment></comment>
+    <uuid>14703605-1996-4965-833c-ae0cd084c9dd</uuid>
+  </card>
+  <card>
+    <question>die Farbe</question>
+    <answer>цвет</answer>
+    <comment>Farben</comment>
+    <uuid>ad408695-fb77-4be4-8edc-120e320ed292</uuid>
+  </card>
+  <card>
+    <question>blau</question>
+    <answer>синий</answer>
+    <comment></comment>
+    <uuid>136cf1c2-d311-473e-a632-11be0ce26063</uuid>
+  </card>
+  <card>
+    <question>rosa</question>
+    <answer>розовый</answer>
+    <comment></comment>
+    <uuid>8be39f78-af2b-442b-bf32-5088c0351b3f</uuid>
+  </card>
+  <card>
+    <question>gelb</question>
+    <answer>желтый</answer>
+    <comment></comment>
+    <uuid>cf3c59cd-21e6-44dc-941c-ad9b9bfa3a9a</uuid>
+  </card>
+  <card>
+    <question>markieren</question>
+    <answer>выделять</answer>
+    <comment></comment>
+    <uuid>ad93fe9a-c7d5-4431-8a05-25d0f2f40b4b</uuid>
+  </card>
+  <card>
+    <question>abschreiben (schrieb ab, abgeschreieben)</question>
+    <answer>переписывать</answer>
+    <comment></comment>
+    <uuid>031807b6-ca80-48fa-a3ea-a5ece82454ee</uuid>
+  </card>
+  <card>
+    <question>aufnehmen (nahm auf, aufgenommen)</question>
+    <answer>записывать</answer>
+    <comment></comment>
+    <uuid>640c5900-d6bf-47c4-b58a-2b7e6224ca8c</uuid>
+  </card>
+  <card>
+    <question>das Klassenzimmer</question>
+    <answer>классная комната</answer>
+    <comment>Klassenzimmer</comment>
+    <uuid>c1e85131-9667-4902-b90a-aaa84553c428</uuid>
+  </card>
+  <card>
+    <question>oben</question>
+    <answer>наверху</answer>
+    <comment></comment>
+    <uuid>885d0e63-9a79-449c-9fbd-652a0e7f3eae</uuid>
+  </card>
+  <card>
+    <question>Kursraum</question>
+    <answer>аудитория</answer>
+    <comment>Kursräume</comment>
+    <uuid>4cc27cf3-0a91-4043-b1da-fc241e03eddd</uuid>
+  </card>
+  <card>
+    <question>aufpassen</question>
+    <answer>присматривать, быть внимательным</answer>
+    <comment></comment>
+    <uuid>d24c650b-7c60-499f-a91b-f80b47246380</uuid>
+  </card>
+  <card>
+    <question>erklären</question>
+    <answer>объяснять</answer>
+    <comment></comment>
+    <uuid>6640477b-597b-4bf5-85c3-4b9331636dd4</uuid>
+  </card>
+  <card>
+    <question>danach</question>
+    <answer>после</answer>
+    <comment></comment>
+    <uuid>f28436ec-6323-4caf-a9df-8866041b086d</uuid>
+  </card>
+  <card>
+    <question>wiederholen</question>
+    <answer>повторять</answer>
+    <comment></comment>
+    <uuid>05ab7c9e-d9e4-4f1a-86b3-b22b870e2429</uuid>
+  </card>
+  <card>
+    <question>wirklich</question>
+    <answer>действительно</answer>
+    <comment></comment>
+    <uuid>d1e71f03-89af-4509-869e-39996982d16f</uuid>
+  </card>
+  <card>
+    <question>empfehlen</question>
+    <answer>рекомендовать</answer>
+    <comment></comment>
+    <uuid>322d95c7-fb38-4adf-ae53-4c5483748c7d</uuid>
+  </card>
+  <card>
+    <question>deshalb</question>
+    <answer>поэтому</answer>
+    <comment></comment>
+    <uuid>b44872ef-cbec-4bb9-8eb3-6abcd5a3e3c8</uuid>
+  </card>
+  <card>
+    <question>die Methode</question>
+    <answer>методика</answer>
+    <comment>Methoden</comment>
+    <uuid>860f1d0f-ef4b-4920-ac0d-da9ba7ba3929</uuid>
+  </card>
+  <card>
+    <question>die Lernmethoden</question>
+    <answer>методика изучения</answer>
+    <comment>Lernmethoden</comment>
+    <uuid>25d97b90-2bfe-4ba3-b928-760d360f0d78</uuid>
+  </card>
+  <card>
+    <question>tun (tat, getan)</question>
+    <answer>делать</answer>
+    <comment></comment>
+    <uuid>03367784-7be8-4be3-9bc0-13d69af2d347</uuid>
+  </card>
+  <card>
+    <question>daheim</question>
+    <answer>дома</answer>
+    <comment></comment>
+    <uuid>72308cd8-bfd0-4f09-938c-5559a62f0217</uuid>
+  </card>
+  <card>
+    <question>als</question>
+    <answer>чем</answer>
+    <comment></comment>
+    <uuid>ad71a02d-9d18-47c4-8abb-e1c99b79e44c</uuid>
+  </card>
+  <card>
+    <question>selbst</question>
+    <answer>сам</answer>
+    <comment></comment>
+    <uuid>e4f6360b-2a22-4f50-8aba-94ffe5f211cf</uuid>
+  </card>
+  <card>
+    <question>erreichen</question>
+    <answer>достичь</answer>
+    <comment></comment>
+    <uuid>8014f6c3-61f5-4e34-aa58-96bdb383d505</uuid>
+  </card>
+  <card>
+    <question>der Zeitplan</question>
+    <answer>календарный план</answer>
+    <comment></comment>
+    <uuid>4271d4a0-1ae4-480d-98b6-9a0f910d85d2</uuid>
+  </card>
+  <card>
+    <question>zu viel</question>
+    <answer>слишком много</answer>
+    <comment></comment>
+    <uuid>8c03670d-25d1-4eca-bd20-f81f5b053716</uuid>
+  </card>
+  <card>
+    <question>anders</question>
+    <answer>другое</answer>
+    <comment></comment>
+    <uuid>fa166a65-5d24-4be1-980e-39fbe6cfac67</uuid>
+  </card>
+  <card>
+    <question>testen</question>
+    <answer>пробовать</answer>
+    <comment></comment>
+    <uuid>edb2efbd-4bcb-4415-9c08-fdf923ad2576</uuid>
+  </card>
+  <card>
+    <question>fühlen</question>
+    <answer>чувствовать</answer>
+    <comment></comment>
+    <uuid>e223e88c-8fbb-404a-bd7b-48207c8c41a9</uuid>
+  </card>
+  <card>
+    <question>der Typ</question>
+    <answer>тип</answer>
+    <comment>Typen</comment>
+    <uuid>79893861-73c9-4c1f-8bdd-5e7626cdf870</uuid>
+  </card>
+  <card>
+    <question>aussprechen (sprach aus, ausgesprochen)</question>
+    <answer>произносить</answer>
+    <comment></comment>
+    <uuid>2c988ef3-d3cf-4d49-8aaa-e3df71a517ba</uuid>
+  </card>
+  <card>
+    <question>ankreuzen</question>
+    <answer>пометить крестиком</answer>
+    <comment></comment>
+    <uuid>97e62bca-7a5c-4bf1-a2e2-fccd6a2acb52</uuid>
+  </card>
+  <card>
+    <question>entdecken</question>
+    <answer>открывать</answer>
+    <comment></comment>
+    <uuid>75d6cbf4-8b5d-41c8-ac4e-6c43f8c1975b</uuid>
+  </card>
+  <card>
+    <question>der Ausdruck</question>
+    <answer>выражение</answer>
+    <comment>Ausdrücke</comment>
+    <uuid>b863f5c1-5d41-404a-a6ff-85d5eaa2ab55</uuid>
+  </card>
+  <card>
+    <question>lokal</question>
+    <answer>местный</answer>
+    <comment></comment>
+    <uuid>a1bffa57-361f-4031-bb4c-485b27f4480d</uuid>
+  </card>
+  <card>
+    <question>temporal</question>
+    <answer>временный</answer>
+    <comment></comment>
+    <uuid>7d77adc3-c753-4237-a267-53dd5da09fa0</uuid>
+  </card>
+  <card>
+    <question>instrumental</question>
+    <answer>инструментальный</answer>
+    <comment></comment>
+    <uuid>5031a561-5e45-47ec-a734-21d6538c6d05</uuid>
+  </card>
+  <card>
+    <question>begleitend</question>
+    <answer>сопровождающий</answer>
+    <comment></comment>
+    <uuid>18335907-d7a5-4d49-9db8-3566130b7a3f</uuid>
+  </card>
+  <card>
+    <question>die Landschaft</question>
+    <answer>ландшафт</answer>
+    <comment>Landschaften</comment>
+    <uuid>f58a1879-4b6f-4396-b3e2-8b0eb4a46c41</uuid>
+  </card>
+  <card>
+    <question>der Farbname</question>
+    <answer>название цвета</answer>
+    <comment>Farbnamen</comment>
+    <uuid>b36b1364-92cb-4acd-9b7b-9b839cbb54e1</uuid>
+  </card>
+  <card>
+    <question>die Stimme</question>
+    <answer>голос</answer>
+    <comment>Stimmen</comment>
+    <uuid>cfa8a148-6c08-4013-b29d-7c9a121ca330</uuid>
+  </card>
+  <card>
+    <question>grün</question>
+    <answer>зеленый</answer>
+    <comment></comment>
+    <uuid>71fa81b1-b555-4136-af6e-32360b6202b8</uuid>
+  </card>
+  <card>
+    <question>grünblau</question>
+    <answer>зеленовато-голубой</answer>
+    <comment></comment>
+    <uuid>b38536c5-ccbe-487a-89e0-75084173cbef</uuid>
+  </card>
+  <card>
+    <question>blaugrün</question>
+    <answer>сине-зеленый</answer>
+    <comment></comment>
+    <uuid>c7b7d755-3412-48af-9a6c-3b26973d1226</uuid>
+  </card>
+  <card>
+    <question>türkis</question>
+    <answer>бирюзовый</answer>
+    <comment></comment>
+    <uuid>251e5fd4-0cb1-45d7-ae3a-188f3fa9718f</uuid>
+  </card>
+  <card>
+    <question>schön</question>
+    <answer>красивый</answer>
+    <comment></comment>
+    <uuid>3e451353-2cae-4240-b197-9cdedbbfecfc</uuid>
+  </card>
+  <card>
+    <question>der Klang</question>
+    <answer>звук</answer>
+    <comment>Klänge</comment>
+    <uuid>7fce9b20-c529-43be-b324-99adcfc28512</uuid>
+  </card>
+  <card>
+    <question>rot</question>
+    <answer>красный</answer>
+    <comment></comment>
+    <uuid>c3121b1e-2dce-43a1-8394-927a6016bf28</uuid>
+  </card>
+  <card>
+    <question>lila</question>
+    <answer>лиловый</answer>
+    <comment></comment>
+    <uuid>19ce46f5-bfdd-410a-b326-5bcc439d040c</uuid>
+  </card>
+  <card>
+    <question>die Simphonie</question>
+    <answer>симфония</answer>
+    <comment>Simphonien</comment>
+    <uuid>042f214c-f4c1-4076-afab-ed5a4ab3109e</uuid>
+  </card>
+  <card>
+    <question>die Farbsimphonie</question>
+    <answer>цветовая симфония</answer>
+    <comment>Farbsimphonien</comment>
+    <uuid>c891323c-c28c-42bd-a57e-47cfd56b17ed</uuid>
+  </card>
+  <card>
+    <question>das Lieblinghaus</question>
+    <answer>любимый дом</answer>
+    <comment>Lieblinghäuser</comment>
+    <uuid>52611568-94a6-4c53-a65e-7f60f0e5bff7</uuid>
+  </card>
+  <card>
+    <question>Siena</question>
+    <answer>сиена</answer>
+    <comment></comment>
+    <uuid>060b5134-0ebd-4a1f-9d31-86fa9b6ec429</uuid>
+  </card>
+  <card>
+    <question>das Dorf</question>
+    <answer>деревня</answer>
+    <comment>Dörfer</comment>
+    <uuid>188ccaf6-8fa9-4747-a2db-f963d7d4b4dd</uuid>
+  </card>
+  <card>
+    <question>Irland</question>
+    <answer>Ирландия</answer>
+    <comment></comment>
+    <uuid>651a208a-1cea-4be2-b1a3-300cc09425c8</uuid>
+  </card>
+  <card>
+    <question>bunt</question>
+    <answer>цветная</answer>
+    <comment></comment>
+    <uuid>87a7d153-ead3-4bfe-b058-1bca40e80a82</uuid>
+  </card>
+  <card>
+    <question>braun</question>
+    <answer>коричневый</answer>
+    <comment></comment>
+    <uuid>690c165d-bf25-4cb7-afe0-adda51a3e184</uuid>
+  </card>
+  <card>
+    <question>rotbraun</question>
+    <answer>красно-коричневый</answer>
+    <comment></comment>
+    <uuid>c45ec4e6-90d6-4a3e-b898-1d8d08c468d4</uuid>
+  </card>
+  <card>
+    <question>violett</question>
+    <answer>фиолетовый</answer>
+    <comment></comment>
+    <uuid>e4d278be-f6a2-4c49-b5c5-43cff98dd9fc</uuid>
+  </card>
+  <card>
+    <question>oliv</question>
+    <answer>оливковый</answer>
+    <comment></comment>
+    <uuid>79624864-fa1d-4b18-b99a-0e27de01f348</uuid>
+  </card>
+  <card>
+    <question>der Kontrast</question>
+    <answer>контраст</answer>
+    <comment>Kontraste</comment>
+    <uuid>6ade8e34-9366-403d-b953-15571cafe90d</uuid>
+  </card>
+  <card>
+    <question>der Himmel</question>
+    <answer>небо</answer>
+    <comment>Himmel</comment>
+    <uuid>27ea27e1-8177-4efb-a719-1f0f44d454ee</uuid>
+  </card>
+  <card>
+    <question>grau</question>
+    <answer>серый</answer>
+    <comment></comment>
+    <uuid>8ee073fe-c53d-4f0d-8589-b42135fc3d87</uuid>
+  </card>
+  <card>
+    <question>überall</question>
+    <answer>всюду</answer>
+    <comment></comment>
+    <uuid>3fe824f9-67e6-44c6-8e5f-3db7bc46c524</uuid>
+  </card>
+  <card>
+    <question>unten</question>
+    <answer>внизу</answer>
+    <comment></comment>
+    <uuid>27087aa1-c9e7-4f00-8dce-4ce5966f71c4</uuid>
+  </card>
+  <card>
+    <question>schwarz</question>
+    <answer>черный</answer>
+    <comment></comment>
+    <uuid>05e80a90-1b27-491c-8c61-0454fd3487e1</uuid>
+  </card>
+  <card>
+    <question>herrlich</question>
+    <answer>великолепный</answer>
+    <comment></comment>
+    <uuid>51cb5428-5c88-4b91-91f5-03dd010bb427</uuid>
+  </card>
+  <card>
+    <question>typisch</question>
+    <answer>типичный</answer>
+    <comment></comment>
+    <uuid>946bb072-8b63-4181-b540-87ffb75382e7</uuid>
+  </card>
+  <card>
+    <question>lieben</question>
+    <answer>любить</answer>
+    <comment></comment>
+    <uuid>6d67f6ad-b779-443a-a959-ed0ef25068a8</uuid>
+  </card>
+  <card>
+    <question>die Kleiderfarbe</question>
+    <answer>цвет одежды</answer>
+    <comment>Kleiderfarben</comment>
+    <uuid>4d31c92d-4ea8-446f-8770-2b8a140044dc</uuid>
+  </card>
+  <card>
+    <question>zuhören</question>
+    <answer>слышать</answer>
+    <comment></comment>
+    <uuid>47bf76f0-f0a5-47e5-a037-6e08b6e35c32</uuid>
+  </card>
+  <card>
+    <question>die Nordsee</question>
+    <answer>Северное море</answer>
+    <comment></comment>
+    <uuid>4109d9bd-03b0-4dec-9489-95d9e660a535</uuid>
+  </card>
+  <card>
+    <question>der Strand</question>
+    <answer>берег</answer>
+    <comment>Strände</comment>
+    <uuid>4237b3fa-ee3a-4841-9ba6-ce91dbdb1d87</uuid>
+  </card>
+  <card>
+    <question>der Sand</question>
+    <answer>песок</answer>
+    <comment></comment>
+    <uuid>1de58b3d-fb1b-401d-b343-0b5f02130a48</uuid>
+  </card>
+  <card>
+    <question>das Meer</question>
+    <answer>море</answer>
+    <comment>Meere</comment>
+    <uuid>b3435292-f484-4d85-935f-b90c15a052d4</uuid>
+  </card>
+  <card>
+    <question>endlos</question>
+    <answer>бесконечный</answer>
+    <comment></comment>
+    <uuid>fa972100-7bbd-43e8-8379-1a575b99e60f</uuid>
+  </card>
+  <card>
+    <question>stundenlang</question>
+    <answer>часами</answer>
+    <comment></comment>
+    <uuid>90f518b7-ccd8-460b-aab7-428115b7bfa8</uuid>
+  </card>
+  <card>
+    <question>das Ende</question>
+    <answer>конец</answer>
+    <comment></comment>
+    <uuid>853041c8-1ceb-4c93-8976-9c801336f787</uuid>
+  </card>
+  <card>
+    <question>stehen (stand, gestanden)</question>
+    <answer>стоять</answer>
+    <comment></comment>
+    <uuid>af8ad50e-746f-459a-8c10-bf953564499f</uuid>
+  </card>
+  <card>
+    <question>der Turm</question>
+    <answer>башня</answer>
+    <comment>Türme</comment>
+    <uuid>43c59cdc-5f3d-4c10-a8e2-dcc33560c33e</uuid>
+  </card>
+  <card>
+    <question>der Leichtturm</question>
+    <answer>маяк</answer>
+    <comment>Leichttürme</comment>
+    <uuid>483984cb-2d2e-426f-9ff7-e5db0b81776d</uuid>
+  </card>
+  <card>
+    <question>weiß</question>
+    <answer>белый</answer>
+    <comment></comment>
+    <uuid>445dea96-f811-4b97-a840-678cb7e2a957</uuid>
+  </card>
+  <card>
+    <question>gestreift</question>
+    <answer>полосатый</answer>
+    <comment></comment>
+    <uuid>301b10fd-5100-4126-ba64-962df3c51539</uuid>
+  </card>
+  <card>
+    <question>das Dach</question>
+    <answer>крыша</answer>
+    <comment>Dächer</comment>
+    <uuid>ccf25c52-a2b1-454d-8718-b8d13db35abc</uuid>
+  </card>
+  <card>
+    <question>dunkel</question>
+    <answer>темный</answer>
+    <comment></comment>
+    <uuid>e02ce1a3-72dd-404c-aebf-c5a235e9102f</uuid>
+  </card>
+  <card>
+    <question>wenige</question>
+    <answer>немногие</answer>
+    <comment></comment>
+    <uuid>5e0689ae-5fb2-4819-9bcb-d2d4b8ddeabe</uuid>
+  </card>
+  <card>
+    <question>draußen</question>
+    <answer>снаружи, за пределами</answer>
+    <comment></comment>
+    <uuid>b1e256d2-8ab5-4a92-8ca1-01ad8322ee02</uuid>
+  </card>
+  <card>
+    <question>aussehen (sah aus, ausgesehen)</question>
+    <answer>выглядеть</answer>
+    <comment></comment>
+    <uuid>5e8e907d-7450-4395-a233-ad4721c79b9c</uuid>
+  </card>
+  <card>
+    <question>mehrere</question>
+    <answer>несколько</answer>
+    <comment></comment>
+    <uuid>569428ef-a7ea-4f53-bea5-c18c9361cd91</uuid>
+  </card>
+  <card>
+    <question>unterschiedlich</question>
+    <answer>различный</answer>
+    <comment></comment>
+    <uuid>bfadc8b1-dc3b-4883-8b13-8400c237e32e</uuid>
+  </card>
+  <card>
+    <question>die Betonung</question>
+    <answer>ударение</answer>
+    <comment></comment>
+    <uuid>037dc676-629f-438d-8eeb-671ccd686a18</uuid>
+  </card>
+  <card>
+    <question>die Komposition</question>
+    <answer>композиция</answer>
+    <comment>Kompositionen</comment>
+    <uuid>d652c882-a1c8-4f9c-a3b8-f6cb59bf9937</uuid>
+  </card>
+  <card>
+    <question>modern</question>
+    <answer>современный</answer>
+    <comment></comment>
+    <uuid>eaa51f61-5e9f-4bd8-b669-b3321d42b82f</uuid>
+  </card>
+  <card>
+    <question>hässlich</question>
+    <answer>безобразный</answer>
+    <comment></comment>
+    <uuid>7d791d5e-93f7-4ab7-af3a-ff279a1b750b</uuid>
+  </card>
+  <card>
+    <question>komisch</question>
+    <answer>смешной</answer>
+    <comment></comment>
+    <uuid>7df4d38e-898e-4c70-ad97-326ffe1e6550</uuid>
+  </card>
+  <card>
+    <question>hell</question>
+    <answer>светлый</answer>
+    <comment></comment>
+    <uuid>e41c5250-b5a8-4619-b2e3-4424c8c999a8</uuid>
+  </card>
+  <card>
+    <question>harmonisch</question>
+    <answer>гармоничный</answer>
+    <comment></comment>
+    <uuid>595f1cf3-e7ac-4f86-8be6-db2e27595f24</uuid>
+  </card>
+  <card>
+    <question>abstrakt</question>
+    <answer>абстрактный</answer>
+    <comment></comment>
+    <uuid>c90cddc2-cf28-4895-ba69-51f1df6e8c7a</uuid>
+  </card>
+  <card>
+    <question>die Beschreibung</question>
+    <answer>описание</answer>
+    <comment>Beschreibungen</comment>
+    <uuid>135c8c3a-1d06-454f-bed8-4a9abe9120a4</uuid>
+  </card>
+  <card>
+    <question>die Villa</question>
+    <answer>вилла</answer>
+    <comment>Villen</comment>
+    <uuid>c0040b01-a896-4005-8382-ff22df49ab8b</uuid>
+  </card>
+  <card>
+    <question>der Hügel</question>
+    <answer>холм</answer>
+    <comment>Hügel</comment>
+    <uuid>396f113e-14d4-4e02-a601-025084095957</uuid>
+  </card>
+  <card>
+    <question>nennen (nannte, genannt)</question>
+    <answer>называть, назвать</answer>
+    <comment></comment>
+    <uuid>ff88bf02-871e-4f11-b09f-0bdb8ad4f915</uuid>
+  </card>
+  <card>
+    <question>das Fenster</question>
+    <answer>окно</answer>
+    <comment>Fenster</comment>
+    <uuid>ff6fac37-9a55-48ee-88b0-dffa65f1d093</uuid>
+  </card>
+  <card>
+    <question>durch</question>
+    <answer>через</answer>
+    <comment></comment>
+    <uuid>03d26c37-33bb-430d-a737-ee5cb1ab1427</uuid>
+  </card>
+  <card>
+    <question>die Linie</question>
+    <answer>линия</answer>
+    <comment>Linien</comment>
+    <uuid>54656517-5238-4983-b0e4-4a1f97056ba6</uuid>
+  </card>
+  <card>
+    <question>schräg</question>
+    <answer>косой</answer>
+    <comment></comment>
+    <uuid>456d16fe-125d-4c5a-92ed-e839513a00cb</uuid>
+  </card>
+  <card>
+    <question>davor</question>
+    <answer>перед этим</answer>
+    <comment></comment>
+    <uuid>252e2419-ad03-4bc3-b3c0-866f075f5fb5</uuid>
+  </card>
+  <card>
+    <question>der Baum</question>
+    <answer>дерево</answer>
+    <comment>Bäume</comment>
+    <uuid>dec561e9-6ce8-41e7-9691-ab699bc3eed2</uuid>
+  </card>
+  <card>
+    <question>primitiv</question>
+    <answer>примитивный</answer>
+    <comment></comment>
+    <uuid>789fde21-d8c9-4ec2-96a2-b43724ee61af</uuid>
+  </card>
+  <card>
+    <question>fehlen</question>
+    <answer>не хватать</answer>
+    <comment></comment>
+    <uuid>9f7a943e-bad9-443b-9f61-ac9a71047d90</uuid>
+  </card>
+  <card>
+    <question>der Kommentar</question>
+    <answer>комментарий</answer>
+    <comment>Kommentare</comment>
+    <uuid>6fb5f0b8-40c4-4ce3-b90d-55a9de99548e</uuid>
+  </card>
+  <card>
+    <question>der Maler</question>
+    <answer>художник</answer>
+    <comment>Maler</comment>
+    <uuid>93b1a15d-8d40-423a-8c2c-d5e0b7770875</uuid>
+  </card>
+  <card>
+    <question>die Malerin</question>
+    <answer>художница</answer>
+    <comment>Malerinnen</comment>
+    <uuid>1ddaed0d-83c8-429d-a267-85f7230d19da</uuid>
+  </card>
+  <card>
+    <question>fast</question>
+    <answer>почти</answer>
+    <comment></comment>
+    <uuid>cc9b8fda-91c4-45ee-9605-1baa293faaf4</uuid>
+  </card>
+  <card>
+    <question>orange</question>
+    <answer>оранжевый</answer>
+    <comment></comment>
+    <uuid>86d63e28-b120-498d-b747-023cd667f47c</uuid>
+  </card>
+  <card>
+    <question>schließen (schloß, geschlossen)</question>
+    <answer>закрывать</answer>
+    <comment></comment>
+    <uuid>35c6f0b1-327a-4cfc-99b0-7400ad02517e</uuid>
+  </card>
+  <card>
+    <question>die Wohnung</question>
+    <answer>квартира</answer>
+    <comment>Wohnungen</comment>
+    <uuid>6ae5ab5e-77df-4329-880e-848a72497567</uuid>
+  </card>
+  <card>
+    <question>die Turmwohnung</question>
+    <answer>квартира в башне</answer>
+    <comment>Turmwohnungen</comment>
+    <uuid>82f9f904-2bcb-4007-a672-1bbe93190f28</uuid>
+  </card>
+  <card>
+    <question>das Maß</question>
+    <answer>размер</answer>
+    <comment>Maße</comment>
+    <uuid>8c33d9f4-5509-4880-940f-af236837b51e</uuid>
+  </card>
+  <card>
+    <question>die Vermutung</question>
+    <answer>предположение</answer>
+    <comment>Vermutungen</comment>
+    <uuid>94ddb5fc-2976-439a-b2ee-00e7aeb86986</uuid>
+  </card>
+  <card>
+    <question>wahrscheinlich</question>
+    <answer>должно быть</answer>
+    <comment></comment>
+    <uuid>03722ea5-d5ad-4df2-a997-008de1fdb779</uuid>
+  </card>
+  <card>
+    <question>vermutlich</question>
+    <answer>вероятно</answer>
+    <comment></comment>
+    <uuid>74f10209-f05c-4b12-b019-620b7d7d965b</uuid>
+  </card>
+  <card>
+    <question>vielleicht</question>
+    <answer>может быть</answer>
+    <comment></comment>
+    <uuid>ef6de8ee-c71c-43ac-9476-56890738e646</uuid>
+  </card>
+  <card>
+    <question>vermuten</question>
+    <answer>предполагать</answer>
+    <comment></comment>
+    <uuid>f85a0420-7059-4594-af9c-a5cead1c3384</uuid>
+  </card>
+  <card>
+    <question>der Quadratmeter</question>
+    <answer>квадратный метр</answer>
+    <comment>Quadratmeter</comment>
+    <uuid>ff5d91e9-2827-4d90-9480-978a0d179cac</uuid>
+  </card>
+  <card>
+    <question>überprüfen</question>
+    <answer>проверять</answer>
+    <comment></comment>
+    <uuid>e798d43b-78c3-4883-a8e7-f7c7c372a305</uuid>
+  </card>
+  <card>
+    <question>stimmen</question>
+    <answer>соответствовать</answer>
+    <comment></comment>
+    <uuid>0b429fd1-4d1c-45aa-b6d8-23e3e8a8f1dc</uuid>
+  </card>
+  <card>
+    <question>mitten</question>
+    <answer>посреди</answer>
+    <comment></comment>
+    <uuid>11018d31-bf63-4998-b682-d2864901acd1</uuid>
+  </card>
+  <card>
+    <question>klingen (klang, geklungen)</question>
+    <answer>звучать</answer>
+    <comment></comment>
+    <uuid>6add0d44-72e5-4d68-b1a2-3dd46a97a0e0</uuid>
+  </card>
+  <card>
+    <question>das Märchen</question>
+    <answer>сказка</answer>
+    <comment>Märchen</comment>
+    <uuid>b4e61ded-e59f-4bba-a63d-73d05563b3de</uuid>
+  </card>
+  <card>
+    <question>wahr</question>
+    <answer>верный, истинный</answer>
+    <comment></comment>
+    <uuid>a51a69b0-8595-4e19-95c7-fa4d5fa30771</uuid>
+  </card>
+  <card>
+    <question>nämlich</question>
+    <answer>а именно, ведь</answer>
+    <comment></comment>
+    <uuid>a890a484-f6a3-45eb-b76d-25949cc1de2b</uuid>
+  </card>
+  <card>
+    <question>der Wächter</question>
+    <answer>сторож</answer>
+    <comment>Wächter</comment>
+    <uuid>1b923a2b-ef75-4863-b40c-9ac22ea290d0</uuid>
+  </card>
+  <card>
+    <question>der Tourist</question>
+    <answer>турист</answer>
+    <comment>Touristen</comment>
+    <uuid>e312ccee-fec9-474d-81a2-7ed4a274d1c7</uuid>
+  </card>
+  <card>
+    <question>die Eintrittskarte</question>
+    <answer>входной билет</answer>
+    <comment></comment>
+    <uuid>b315c44b-1f6b-4f96-8b22-3501df773d25</uuid>
+  </card>
+  <card>
+    <question>der Meter</question>
+    <answer>метр</answer>
+    <comment>Meter</comment>
+    <uuid>134c7005-78ee-41f1-8954-ca68218e31b1</uuid>
+  </card>
+  <card>
+    <question>die Höhe</question>
+    <answer>высота</answer>
+    <comment>Höhen</comment>
+    <uuid>097aaf26-907e-460e-bb28-a1736511dae9</uuid>
+  </card>
+  <card>
+    <question>die Aussicht</question>
+    <answer>вид, перспектива</answer>
+    <comment>Aussichten</comment>
+    <uuid>2bb5c6fb-902b-4a36-a610-a97130c027db</uuid>
+  </card>
+  <card>
+    <question>großartig</question>
+    <answer>замечательный</answer>
+    <comment></comment>
+    <uuid>3aed9162-b1a6-4666-ba20-bbbc89b279b1</uuid>
+  </card>
+  <card>
+    <question>die 4-Zimmer-Wohnung</question>
+    <answer>четырехкомнатная квартира</answer>
+    <comment></comment>
+    <uuid>3b557691-5ac1-4bcc-95f5-9339651060ed</uuid>
+  </card>
+  <card>
+    <question>die Küche</question>
+    <answer>кухня</answer>
+    <comment>Küchen</comment>
+    <uuid>805221be-2f25-4d03-8f89-855f1e76dc23</uuid>
+  </card>
+  <card>
+    <question>das Bad</question>
+    <answer>ванная</answer>
+    <comment>Bäder</comment>
+    <uuid>b865ef31-ff4a-4ad6-8969-96530306278f</uuid>
+  </card>
+  <card>
+    <question>das WC</question>
+    <answer>туалет</answer>
+    <comment>WCs</comment>
+    <uuid>20968fec-bbc5-4a1c-aac2-949c67a22d9f</uuid>
+  </card>
+  <card>
+    <question>die Terrasse</question>
+    <answer>терасса</answer>
+    <comment>Terassen</comment>
+    <uuid>6baebf38-f295-4049-96b5-2ddd671d249f</uuid>
+  </card>
+  <card>
+    <question>der Sommer</question>
+    <answer>лето</answer>
+    <comment>Sommer</comment>
+    <uuid>3faee71f-70d9-4d1b-9068-0ec41a0f6bdf</uuid>
+  </card>
+  <card>
+    <question>wunderschön</question>
+    <answer>прекрасный</answer>
+    <comment></comment>
+    <uuid>b79abd92-e3dc-499a-9590-75d2ab3e1da8</uuid>
+  </card>
+  <card>
+    <question>der Stock</question>
+    <answer>этаж</answer>
+    <comment>Stöcke (=Stockwerk, Stockewerke)</comment>
+    <uuid>159705fa-7247-403a-bb22-14b53038b78c</uuid>
+  </card>
+  <card>
+    <question>riesig</question>
+    <answer>огромный</answer>
+    <comment></comment>
+    <uuid>6e286704-f155-4ff0-80a6-6467294e505c</uuid>
+  </card>
+  <card>
+    <question>breit</question>
+    <answer>широкий</answer>
+    <comment></comment>
+    <uuid>da12548f-f1c3-45c6-9b76-42530b6c3734</uuid>
+  </card>
+  <card>
+    <question>der Winter</question>
+    <answer>зима</answer>
+    <comment>Winter</comment>
+    <uuid>0a138cc0-bd0f-4ee8-9aa0-72f427bdb7ab</uuid>
+  </card>
+  <card>
+    <question>heizen</question>
+    <answer>отапливать</answer>
+    <comment></comment>
+    <uuid>1583bd7e-c73d-45b0-b11a-ebb03e2b1077</uuid>
+  </card>
+  <card>
+    <question>der Keller</question>
+    <answer>подвал</answer>
+    <comment>Keller</comment>
+    <uuid>eb34676c-c215-4a26-b0b6-fc8459a4a5d2</uuid>
+  </card>
+  <card>
+    <question>die Treppe</question>
+    <answer>лестница</answer>
+    <comment>Treppen</comment>
+    <uuid>72c58870-4e7b-4a8e-bcac-846f0608d89e</uuid>
+  </card>
+  <card>
+    <question>rauf</question>
+    <answer>вверх</answer>
+    <comment></comment>
+    <uuid>8e639baa-edf5-4661-ae77-559012f5dea0</uuid>
+  </card>
+  <card>
+    <question>runter</question>
+    <answer>вниз</answer>
+    <comment></comment>
+    <uuid>544649ee-d935-4b2e-b95d-b8dcbf7293e0</uuid>
+  </card>
+  <card>
+    <question>die Stufe</question>
+    <answer>ступень</answer>
+    <comment>Stufen</comment>
+    <uuid>0007c922-1ea3-4700-b77b-4bd000464178</uuid>
+  </card>
+  <card>
+    <question>gesund</question>
+    <answer>полезный</answer>
+    <comment></comment>
+    <uuid>3e937e26-bd76-4754-8e3c-5180b233ba95</uuid>
+  </card>
+  <card>
+    <question>fit</question>
+    <answer>находящийся в хорошей форме</answer>
+    <comment></comment>
+    <uuid>6a93edec-b51f-4558-bbc2-ec956e4330da</uuid>
+  </card>
+  <card>
+    <question>das Schlafzimmer</question>
+    <answer>спальня</answer>
+    <comment>Schlafzimmer</comment>
+    <uuid>2146a37e-e28e-41fd-8709-4e37ab3c69cb</uuid>
+  </card>
+  <card>
+    <question>das Wohnzimmer</question>
+    <answer>гостиная</answer>
+    <comment>Wohnzimmer</comment>
+    <uuid>003d3202-882a-45f2-b0e5-d92af8131b0d</uuid>
+  </card>
+  <card>
+    <question>isoliert</question>
+    <answer>изолированный</answer>
+    <comment></comment>
+    <uuid>2092f8bf-8774-44e7-82da-5b6fbb919398</uuid>
+  </card>
+  <card>
+    <question>der Nachbar</question>
+    <answer>сосед</answer>
+    <comment>Nachbarn</comment>
+    <uuid>cf3d4f34-12cf-449a-ad2b-4cc2d1da2a69</uuid>
+  </card>
+  <card>
+    <question>werden (wurde, geworden)</question>
+    <answer>становиться</answer>
+    <comment></comment>
+    <uuid>fb83ec3d-42d4-4ed9-898d-53027604a38f</uuid>
+  </card>
+  <card>
+    <question>die Qualität</question>
+    <answer>качество</answer>
+    <comment></comment>
+    <uuid>bd5b5f2b-45ce-4ff9-8c69-f442bc6d4e18</uuid>
+  </card>
+  <card>
+    <question>die Wohnqualität</question>
+    <answer>качество жилья</answer>
+    <comment></comment>
+    <uuid>dfe29e77-32f6-451e-a9de-88cb6d332191</uuid>
+  </card>
+  <card>
+    <question>die Region</question>
+    <answer>Regionen</answer>
+    <comment></comment>
+    <uuid>256be9e6-8f0b-4b9b-8162-e55d8bd9e376</uuid>
+  </card>
+  <card>
+    <question>ungefähr</question>
+    <answer>приблизительно</answer>
+    <comment></comment>
+    <uuid>44e8aef4-c69f-48fd-a186-db571347ab70</uuid>
+  </card>
+  <card>
+    <question>befragen</question>
+    <answer>спрашивать, допрашивать</answer>
+    <comment></comment>
+    <uuid>2650d557-4980-4214-b9df-ba877a218037</uuid>
+  </card>
+  <card>
+    <question>jung</question>
+    <answer>молодой</answer>
+    <comment></comment>
+    <uuid>19a08c83-8819-4b3c-a4aa-d80172a21f50</uuid>
+  </card>
+  <card>
+    <question>früher</question>
+    <answer>раньше</answer>
+    <comment></comment>
+    <uuid>9306d015-2e94-4c95-b4fb-4562100d11fc</uuid>
+  </card>
+  <card>
+    <question>das Stadtzentrum</question>
+    <answer>центр города</answer>
+    <comment></comment>
+    <uuid>99c7bee9-d062-42ce-ac0b-6e0ae295f403</uuid>
+  </card>
+  <card>
+    <question>richtig</question>
+    <answer>настоящий</answer>
+    <comment></comment>
+    <uuid>4dfe182e-4ab9-4641-866c-ef4c28a48392</uuid>
+  </card>
+  <card>
+    <question>der Stadtmensch</question>
+    <answer>горожанин</answer>
+    <comment>Stadtmenschen</comment>
+    <uuid>20563050-756c-4b97-9151-e2f6da00373a</uuid>
+  </card>
+  <card>
+    <question>die Altstadt</question>
+    <answer>старый город</answer>
+    <comment></comment>
+    <uuid>a26b8313-46bf-4141-8682-a63df4a38ebf</uuid>
+  </card>
+  <card>
+    <question>uralt</question>
+    <answer>древний</answer>
+    <comment></comment>
+    <uuid>40bae67e-57b6-4abe-b30e-a9b2a962bdb5</uuid>
+  </card>
+  <card>
+    <question>komplett</question>
+    <answer>полностью</answer>
+    <comment></comment>
+    <uuid>ce3a592c-f6f3-47b3-ab0b-69cdb0f9d2bb</uuid>
+  </card>
+  <card>
+    <question>renoviert</question>
+    <answer>отремонтированный</answer>
+    <comment></comment>
+    <uuid>695a3165-8aa7-4287-8bff-c4c9c78908b3</uuid>
+  </card>
+  <card>
+    <question>der Rand</question>
+    <answer>край</answer>
+    <comment>Ränder</comment>
+    <uuid>d397edc8-5901-4323-aeeb-f8b12555608f</uuid>
+  </card>
+  <card>
+    <question>der Stadtrand</question>
+    <answer>окраина города</answer>
+    <comment>Stadtrände</comment>
+    <uuid>0411f8ed-aec4-473d-81ba-7aaedb5cd312</uuid>
+  </card>
+  <card>
+    <question>praktisch</question>
+    <answer>практичный</answer>
+    <comment></comment>
+    <uuid>edbd1c4f-29a7-4070-a565-ad5905442829</uuid>
+  </card>
+  <card>
+    <question>komfortabel</question>
+    <answer>комфортабельный</answer>
+    <comment></comment>
+    <uuid>486778e9-39e9-4a1f-ac90-341f98677d70</uuid>
+  </card>
+  <card>
+    <question>das Kind</question>
+    <answer>ребенок</answer>
+    <comment>Kinder</comment>
+    <uuid>55f78b9d-3877-4f7d-963c-20dec2ce3a7e</uuid>
+  </card>
+  <card>
+    <question>Norddeutschland</question>
+    <answer>Северная Германия</answer>
+    <comment></comment>
+    <uuid>9777f4a9-fd64-4ffb-901a-9451ba6bf0f2</uuid>
+  </card>
+  <card>
+    <question>das Viertel</question>
+    <answer>квартал</answer>
+    <comment>Viertel</comment>
+    <uuid>b5a21fc8-ecb1-4223-967d-f120513cc3ab</uuid>
+  </card>
+  <card>
+    <question>das Neubaufiertel</question>
+    <answer>новостройка</answer>
+    <comment>Neubaufiertel</comment>
+    <uuid>e6427248-a64c-4d75-abbe-503f388c326a</uuid>
+  </card>
+  <card>
+    <question>los sein</question>
+    <answer>случаться</answer>
+    <comment></comment>
+    <uuid>42d92560-da91-4e5e-befe-5a6783c3af75</uuid>
+  </card>
+  <card>
+    <question>das Hochhaus</question>
+    <answer>многоэтажный дом</answer>
+    <comment>Hochhäuser</comment>
+    <uuid>aa4a5c1b-d326-4350-921f-98b764692b0d</uuid>
+  </card>
+  <card>
+    <question>phantastisch</question>
+    <answer>поразительный, фантастичный</answer>
+    <comment></comment>
+    <uuid>9f8371ae-3a8f-4085-87cd-f40cf9232079</uuid>
+  </card>
+  <card>
+    <question>der Blick</question>
+    <answer>взгляд, вид</answer>
+    <comment>Blicke</comment>
+    <uuid>1c2823b8-8e54-4bba-87e3-a35a5cd013c7</uuid>
+  </card>
+  <card>
+    <question>die Siedlung</question>
+    <answer>поселение</answer>
+    <comment>Siedlungen</comment>
+    <uuid>a7d033c8-b454-4bc9-949a-5ec0d5f3ea50</uuid>
+  </card>
+  <card>
+    <question>die Wohnsiedlung</question>
+    <answer>микрорайон</answer>
+    <comment>Wohnsiedlungen</comment>
+    <uuid>831f330f-7899-4fb1-acd6-aa58de344b44</uuid>
+  </card>
+  <card>
+    <question>das Bauernhaus</question>
+    <answer>крестьянский дом</answer>
+    <comment>Bauernhäuser</comment>
+    <uuid>80852beb-c9e7-4a0d-8b22-56de7b267880</uuid>
+  </card>
+  <card>
+    <question>das Land</question>
+    <answer>сельская местность</answer>
+    <comment></comment>
+    <uuid>fb1f951f-0c26-42ab-97df-0bb561584092</uuid>
+  </card>
+  <card>
+    <question>auf dem Land</question>
+    <answer>за городом</answer>
+    <comment></comment>
+    <uuid>970fae8a-c99d-4060-9cf4-114ab1651109</uuid>
+  </card>
+  <card>
+    <question>der Vorteil</question>
+    <answer>преимущество</answer>
+    <comment>Vorteile</comment>
+    <uuid>d985ef81-45e1-4619-912e-4f8da2cf6717</uuid>
+  </card>
+  <card>
+    <question>der Nachteil</question>
+    <answer>недостаток</answer>
+    <comment>Nachteile</comment>
+    <uuid>00a47ca7-7795-4065-8e3c-9d6cc96699e5</uuid>
+  </card>
+  <card>
+    <question>eng</question>
+    <answer>узкий</answer>
+    <comment></comment>
+    <uuid>9f94cd5f-f71a-4b25-b58f-68687a9a9001</uuid>
+  </card>
+  <card>
+    <question>billig</question>
+    <answer>дешевый</answer>
+    <comment></comment>
+    <uuid>e875dc00-bc45-423c-ae41-8956c5f80592</uuid>
+  </card>
+  <card>
+    <question>ruhig</question>
+    <answer>тихий</answer>
+    <comment></comment>
+    <uuid>a3d520b4-e788-473f-9b05-955a29e46369</uuid>
+  </card>
+  <card>
+    <question>die Miete</question>
+    <answer>квартплата</answer>
+    <comment>Mieten</comment>
+    <uuid>c45974fc-5e74-437d-b10f-59030ac07fdb</uuid>
+  </card>
+  <card>
+    <question>die Einrichtung</question>
+    <answer>обстановка</answer>
+    <comment>Einrichtungen</comment>
+    <uuid>03fe5609-6884-4ad0-8a8a-81c8193c348d</uuid>
+  </card>
+  <card>
+    <question>die Wohnungseinrichtung</question>
+    <answer>обстановка квартиры</answer>
+    <comment>Wohnungseinrichtungen</comment>
+    <uuid>4cbf9a1b-9080-40d2-a726-244cd03800e4</uuid>
+  </card>
+  <card>
+    <question>der Preis</question>
+    <answer>цена</answer>
+    <comment>Preise</comment>
+    <uuid>edf37219-1080-4f33-9de8-3ed70ac0d1e3</uuid>
+  </card>
+  <card>
+    <question>der Verkäufer</question>
+    <answer>продавец</answer>
+    <comment>Verkäufer</comment>
+    <uuid>1f70d907-99ff-4235-98ff-d90c828bff8a</uuid>
+  </card>
+  <card>
+    <question>sympathisch</question>
+    <answer>симпатичный</answer>
+    <comment></comment>
+    <uuid>a471b243-43ca-47ee-b7d5-d1ddff0d2455</uuid>
+  </card>
+  <card>
+    <question>kaufen</question>
+    <answer>покупать</answer>
+    <comment></comment>
+    <uuid>31fc9e42-6a68-44a2-861c-11d8d94e76cd</uuid>
+  </card>
+  <card>
+    <question>der Block</question>
+    <answer>блок</answer>
+    <comment>Blöcke</comment>
+    <uuid>e4b7a5ef-7475-4cce-a7cc-fa211815e3b4</uuid>
+  </card>
+  <card>
+    <question>der Wohnblock</question>
+    <answer>комплекс жилых домов</answer>
+    <comment>Wohnblöcke</comment>
+    <uuid>5cc72d3e-9778-47e8-b383-fee4e0f40e14</uuid>
+  </card>
+  <card>
+    <question>das Geschäft</question>
+    <answer>магазин, фирма, дело</answer>
+    <comment>Geschäfte</comment>
+    <uuid>191dd05a-30fa-4cf5-8c96-e00078b8a034</uuid>
+  </card>
+  <card>
+    <question>der Herd</question>
+    <answer>плита</answer>
+    <comment>Herde</comment>
+    <uuid>174cc4b2-64e3-44bb-9daf-a495ce1c58a2</uuid>
+  </card>
+  <card>
+    <question>dabei sein</question>
+    <answer>присутствовать</answer>
+    <comment></comment>
+    <uuid>618d4c50-58ef-46b7-a6dc-610661944871</uuid>
+  </card>
+  <card>
+    <question>das Ganze</question>
+    <answer>целое</answer>
+    <comment></comment>
+    <uuid>6741a296-c895-4b12-afca-06050a18f1a0</uuid>
+  </card>
+  <card>
+    <question>der Schrank</question>
+    <answer>шкаф</answer>
+    <comment>Schränke</comment>
+    <uuid>52b0b0f2-445d-4df6-8c34-6f6404d2dc04</uuid>
+  </card>
+  <card>
+    <question>dazugehören</question>
+    <answer>относиться</answer>
+    <comment></comment>
+    <uuid>035d8460-f540-40ae-815f-0a5ec0b769c8</uuid>
+  </card>
+  <card>
+    <question>das Regal</question>
+    <answer>полка</answer>
+    <comment>Regale</comment>
+    <uuid>74848715-aac6-4164-849d-f5ba8fc2ab85</uuid>
+  </card>
+  <card>
+    <question>das Spülbecken</question>
+    <answer>мойка</answer>
+    <comment>Spülbecken</comment>
+    <uuid>0651f15b-0968-44d5-b088-bee072be1afb</uuid>
+  </card>
+  <card>
+    <question>die Geschirrspülmaschine</question>
+    <answer>посудомоечная машина</answer>
+    <comment>Geschirrspülmaschinen</comment>
+    <uuid>d6e8a96a-67a2-4212-a6d6-730b0d9e732e</uuid>
+  </card>
+  <card>
+    <question>der Küchnstuhl</question>
+    <answer>кухонный стул</answer>
+    <comment>Küchenstüle</comment>
+    <uuid>7b609a2c-ab1e-4d1e-8514-8d9cd70ded52</uuid>
+  </card>
+  <card>
+    <question>das Plastik</question>
+    <answer>пластмасса</answer>
+    <comment></comment>
+    <uuid>b01cc67c-2a94-4cbe-aca6-807d756bdd9b</uuid>
+  </card>
+  <card>
+    <question>teuer</question>
+    <answer>дорогой (о цене)</answer>
+    <comment></comment>
+    <uuid>4260212b-e3e8-45fa-b3fe-00e1235bc486</uuid>
+  </card>
+  <card>
+    <question>preiswert</question>
+    <answer>недорогой</answer>
+    <comment></comment>
+    <uuid>99044520-79eb-487e-a967-9a0c3078c6bc</uuid>
+  </card>
+  <card>
+    <question>originell</question>
+    <answer>оригинальный</answer>
+    <comment></comment>
+    <uuid>98d31abb-f38a-42e4-8bc0-e7707c6a0abd</uuid>
+  </card>
+  <card>
+    <question>das Stück</question>
+    <answer>штука</answer>
+    <comment>Stücke</comment>
+    <uuid>9033c551-ca5b-472c-a7f6-4ca838799bb9</uuid>
+  </card>
+  <card>
+    <question>sicher</question>
+    <answer>конечно</answer>
+    <comment></comment>
+    <uuid>db5ad6a0-4fe2-479f-8ac4-a43f4d37f680</uuid>
+  </card>
+  <card>
+    <question>die Party</question>
+    <answer>вечеринка</answer>
+    <comment>Partys</comment>
+    <uuid>19873652-50b9-4763-99a7-e7108bc86193</uuid>
+  </card>
+  <card>
+    <question>die Einweihungsparty</question>
+    <answer>новоселье</answer>
+    <comment>Einweihungsparty</comment>
+    <uuid>ae0fda0d-61ec-45ac-bd7e-f57c92fb0a81</uuid>
+  </card>
+  <card>
+    <question>der Wohnraum</question>
+    <answer>жилая комната</answer>
+    <comment>Wohnräume</comment>
+    <uuid>0b8edbce-04ab-46d7-a603-c57bc0cebc69</uuid>
+  </card>
+  <card>
+    <question>der Gastgeber</question>
+    <answer>хозяин, принимающий гостей</answer>
+    <comment>Gastgeber</comment>
+    <uuid>8a530e5b-6730-4d62-a74b-fe2f9efc37e5</uuid>
+  </card>
+  <card>
+    <question>die Gastgeberin</question>
+    <answer>хозяйка</answer>
+    <comment>Gastgeberinnen</comment>
+    <uuid>08f139eb-b7f8-41a9-97ab-92e48a878da2</uuid>
+  </card>
+  <card>
+    <question>raten</question>
+    <answer>отгадывать</answer>
+    <comment></comment>
+    <uuid>e811878c-2f2a-4879-ba2f-547347a35d8f</uuid>
+  </card>
+  <card>
+    <question>überhaupt</question>
+    <answer>вообще</answer>
+    <comment></comment>
+    <uuid>6ef61ab7-f1b1-4940-a98b-b3341284dcd9</uuid>
+  </card>
+  <card>
+    <question>nichts</question>
+    <answer>ничего</answer>
+    <comment></comment>
+    <uuid>6376ebcb-9bb9-4f23-a608-98d4c82c6071</uuid>
+  </card>
+  <card>
+    <question>das Sofa</question>
+    <answer>софа</answer>
+    <comment>Sofas</comment>
+    <uuid>280ff76e-ad06-4912-b7e7-9eb0982cd04b</uuid>
+  </card>
+  <card>
+    <question>rund</question>
+    <answer>круглый</answer>
+    <comment></comment>
+    <uuid>5926e141-6d83-4746-b17b-4b395bf6d4f4</uuid>
+  </card>
+  <card>
+    <question>der Sessel</question>
+    <answer>кресло</answer>
+    <comment>Sessel</comment>
+    <uuid>f7191e94-ec8d-4c91-ad21-6c4c246d0ea3</uuid>
+  </card>
+  <card>
+    <question>eckig</question>
+    <answer>с углами</answer>
+    <comment></comment>
+    <uuid>1250d94e-42c4-439b-8a1c-c86b9ee19dd3</uuid>
+  </card>
+  <card>
+    <question>der Teppich</question>
+    <answer>ковер</answer>
+    <comment>Teppiche</comment>
+    <uuid>5a5cbbce-6471-4c28-9539-4062fea07ca1</uuid>
+  </card>
+  <card>
+    <question>der Boden</question>
+    <answer>пол</answer>
+    <comment>Böden</comment>
+    <uuid>9c609d05-dc64-4d57-8835-ba0ec748d989</uuid>
+  </card>
+  <card>
+    <question>die Möbel</question>
+    <answer>мебель</answer>
+    <comment>(Pl.)</comment>
+    <uuid>672990e3-6daa-45ed-adbc-61c04d27f75e</uuid>
+  </card>
+  <card>
+    <question>das Holz</question>
+    <answer>дерево</answer>
+    <comment></comment>
+    <uuid>45bfc1b7-f48b-442b-beb0-2e7e4fd7bbfb</uuid>
+  </card>
+  <card>
+    <question>die Decke</question>
+    <answer>потолок</answer>
+    <comment>Decken</comment>
+    <uuid>fb573b27-1bd9-4cdd-970c-4905e77c8337</uuid>
+  </card>
+  <card>
+    <question>der Ventilator</question>
+    <answer>вентилятор</answer>
+    <comment>Ventilatoren</comment>
+    <uuid>89cb8c66-f53a-4dbc-a9f7-cfab0f47b4a9</uuid>
+  </card>
+  <card>
+    <question>schrecklich</question>
+    <answer>ужасно</answer>
+    <comment></comment>
+    <uuid>28348193-7018-40f6-9158-1c839d072459</uuid>
+  </card>
+  <card>
+    <question>die Toilette</question>
+    <answer>туалет</answer>
+    <comment>Toiletten</comment>
+    <uuid>02736104-62cd-4e42-aa81-947745425ec6</uuid>
+  </card>
+  <card>
+    <question>die Tür</question>
+    <answer>дверь</answer>
+    <comment>Türen</comment>
+    <uuid>d9288185-06bf-49c0-90f2-1e63383fd5df</uuid>
+  </card>
+  <card>
+    <question>die Wand</question>
+    <answer>стена</answer>
+    <comment>Wände</comment>
+    <uuid>c88a0e3a-033d-488d-a0bb-b4fa394f6a97</uuid>
+  </card>
+  <card>
+    <question>das Poster</question>
+    <answer>декоративный плакат</answer>
+    <comment>Posters</comment>
+    <uuid>b750765f-647b-4ba9-b6a6-9868a30cfc47</uuid>
+  </card>
+  <card>
+    <question>glauben</question>
+    <answer>полагать, верить</answer>
+    <comment></comment>
+    <uuid>df851c75-64f7-47cd-a764-0d0ea70479dd</uuid>
+  </card>
+  <card>
+    <question>gratulieren</question>
+    <answer>поздравлять</answer>
+    <comment></comment>
+    <uuid>2bc9edea-4d73-44b9-8709-0045d5d455fe</uuid>
+  </card>
+  <card>
+    <question>die Unordnung</question>
+    <answer>беспорядок</answer>
+    <comment></comment>
+    <uuid>2695dd35-1ef1-471b-8496-790440abe41e</uuid>
+  </card>
+  <card>
+    <question>der Computer</question>
+    <answer>компьютер</answer>
+    <comment>Computer</comment>
+    <uuid>fff4f3df-a7da-47ef-b3c6-e36b9b974224</uuid>
+  </card>
+  <card>
+    <question>tja...</question>
+    <answer>ну...</answer>
+    <comment></comment>
+    <uuid>683a600a-4896-4c32-916a-27e3438fbcfd</uuid>
+  </card>
+  <card>
+    <question>fertig</question>
+    <answer>готовый</answer>
+    <comment></comment>
+    <uuid>b791abfd-e5a0-4294-bbb2-f60daae01da9</uuid>
+  </card>
+  <card>
+    <question>der Bruder</question>
+    <answer>брат</answer>
+    <comment>Brüder</comment>
+    <uuid>5bd50178-bdcf-4b20-8a23-0eaa7fdc273f</uuid>
+  </card>
+  <card>
+    <question>aus</question>
+    <answer>из</answer>
+    <comment></comment>
+    <uuid>069ebdcd-5302-4500-a708-7c1fc4216e0c</uuid>
+  </card>
+  <card>
+    <question>blass</question>
+    <answer>бледный</answer>
+    <comment></comment>
+    <uuid>06a5f42b-fb22-44c0-b4aa-de90c34bdfa8</uuid>
+  </card>
+  <card>
+    <question>der Fußboden</question>
+    <answer>пол</answer>
+    <comment>Fußböden</comment>
+    <uuid>8554acc4-cf7b-479d-b716-bcb3cba1416d</uuid>
+  </card>
+  <card>
+    <question>der Ziegel</question>
+    <answer>кирпич</answer>
+    <comment>Ziegel</comment>
+    <uuid>37a257cd-90c5-4edb-a2f1-12fa2b777f7e</uuid>
+  </card>
+  <card>
+    <question>frisch</question>
+    <answer>свежий</answer>
+    <comment></comment>
+    <uuid>2e481a50-3e09-45b9-bd1b-642e3969042d</uuid>
+  </card>
+  <card>
+    <question>die Butter</question>
+    <answer>масло</answer>
+    <comment></comment>
+    <uuid>a23d4ecd-44ce-4957-8489-34f8659449c0</uuid>
+  </card>
+  <card>
+    <question>das Laken</question>
+    <answer>простыня</answer>
+    <comment>Laken (=Bettlaken)</comment>
+    <uuid>5f95314f-a23e-40f0-bc76-d1408f95258e</uuid>
+  </card>
+  <card>
+    <question>das Kissen</question>
+    <answer>подушка</answer>
+    <comment>Kissen</comment>
+    <uuid>2c4187e6-c2dd-4e5f-b3b8-d48eab5eea4d</uuid>
+  </card>
+  <card>
+    <question>das Kopfkissen</question>
+    <answer>подушка (спальная)</answer>
+    <comment>Kopfkissen</comment>
+    <uuid>5b6901e3-a38d-4322-99f4-7596b1c70c8f</uuid>
+  </card>
+  <card>
+    <question>grünlich</question>
+    <answer>зеленоватый</answer>
+    <comment></comment>
+    <uuid>9d95b681-4b91-49df-b511-00fddf52142a</uuid>
+  </card>
+  <card>
+    <question>das Zitrone</question>
+    <answer>лимон</answer>
+    <comment>Zitronen</comment>
+    <uuid>b79c5089-aad5-44fc-a65e-4e90a6a1661c</uuid>
+  </card>
+  <card>
+    <question>die Bettdecke</question>
+    <answer>одеяло</answer>
+    <comment>Bettdecken</comment>
+    <uuid>1db90c64-e412-48bd-ae2e-4237d4d1c62f</uuid>
+  </card>
+  <card>
+    <question>scharlachrot</question>
+    <answer>ярко-красный</answer>
+    <comment></comment>
+    <uuid>6a0c85f5-de46-4af5-b9c2-87079691319e</uuid>
+  </card>
+  <card>
+    <question>der Waschtisch</question>
+    <answer>умывальник</answer>
+    <comment>Waschtische</comment>
+    <uuid>9bc9e86f-b1bc-4b35-9414-0f00ec70de5e</uuid>
+  </card>
+  <card>
+    <question>das Porträt</question>
+    <answer>портрет</answer>
+    <comment>Porträts</comment>
+    <uuid>4e367a02-8f0b-464f-a82c-45484bda4bee</uuid>
+  </card>
+  <card>
+    <question>der Spiegel</question>
+    <answer>зеркало</answer>
+    <comment>Spiegel</comment>
+    <uuid>30aab7b1-e675-403f-aa2d-85a72382f8b5</uuid>
+  </card>
+  <card>
+    <question>das Handtuch</question>
+    <answer>полотенце</answer>
+    <comment>Handtücher</comment>
+    <uuid>a5a117f0-7b94-45de-987d-aa66b80b3a43</uuid>
+  </card>
+  <card>
+    <question>ein paar</question>
+    <answer>несколько</answer>
+    <comment></comment>
+    <uuid>56144773-0d0e-4716-9550-d2a0dc382828</uuid>
+  </card>
+  <card>
+    <question>begründen</question>
+    <answer>обосновать</answer>
+    <comment></comment>
+    <uuid>5b99dfe3-c828-4f89-912c-4e9dfc8ed9cd</uuid>
+  </card>
+  <card>
+    <question>der Krug</question>
+    <answer>кувшин</answer>
+    <comment>Krüge</comment>
+    <uuid>416a9b38-d5a1-4acb-9d53-35ed5b2cf051</uuid>
+  </card>
+  <card>
+    <question>vorlesen (las vor, vorgelesen)</question>
+    <answer>читать вслух</answer>
+    <comment></comment>
+    <uuid>d90c8309-592f-4b58-bb88-156276e3b940</uuid>
+  </card>
+  <card>
+    <question>lieb</question>
+    <answer>дорогой</answer>
+    <comment></comment>
+    <uuid>d5680a54-4ae1-4204-9e57-2ac81f23a5fb</uuid>
+  </card>
+  <card>
+    <question>endlich</question>
+    <answer>наконец</answer>
+    <comment></comment>
+    <uuid>888dc5bc-c5f4-4635-a2fe-76f1142ce9d3</uuid>
+  </card>
+  <card>
+    <question>der Traum</question>
+    <answer>мечта</answer>
+    <comment>Träume</comment>
+    <uuid>2c02cf92-ce91-4c47-8344-7d4bcc3441ad</uuid>
+  </card>
+  <card>
+    <question>die Etage</question>
+    <answer>этаж</answer>
+    <comment>Etagen</comment>
+    <uuid>c3832052-8dc5-46df-93be-4f6668a7c205</uuid>
+  </card>
+  <card>
+    <question>das Licht</question>
+    <answer>свет</answer>
+    <comment></comment>
+    <uuid>028891fe-8369-4aaa-9290-e36422e6630b</uuid>
+  </card>
+  <card>
+    <question>das Lichtmeer</question>
+    <answer>море огней</answer>
+    <comment></comment>
+    <uuid>8b0706fc-24a3-4730-9570-7cd8ca06e150</uuid>
+  </card>
+  <card>
+    <question>freuen, sich</question>
+    <answer>радоваться</answer>
+    <comment>auf etw./jdn.</comment>
+    <uuid>3d48e95c-6dac-4dd9-bcba-b44e98655fed</uuid>
+  </card>
+  <card>
+    <question>betonen</question>
+    <answer>делать ударение</answer>
+    <comment></comment>
+    <uuid>c03aa491-c06e-44f3-940d-097a7ea8dd11</uuid>
+  </card>
+  <card>
+    <question>die Zeichnung</question>
+    <answer>рисунок</answer>
+    <comment>Zeichnungen</comment>
+    <uuid>d60283d6-18d2-4811-b248-7afb578d040c</uuid>
+  </card>
+  <card>
+    <question>das Erdgeschoss</question>
+    <answer>первый этаж</answer>
+    <comment>(= das Parterre)</comment>
+    <uuid>53d4d75e-9884-45a4-9449-d49caeeb3ffd</uuid>
+  </card>
+  <card>
+    <question>der Dachboden</question>
+    <answer>чердак</answer>
+    <comment>Dachböden</comment>
+    <uuid>bd090849-3260-4525-9b25-55283d18320b</uuid>
+  </card>
+  <card>
+    <question>der Kamin</question>
+    <answer>камин</answer>
+    <comment>Kamine</comment>
+    <uuid>2cc1d145-2e97-46bb-9d20-6b90fbcfed2e</uuid>
+  </card>
+  <card>
+    <question>der Schornstein</question>
+    <answer>труба</answer>
+    <comment>Schornsteine</comment>
+    <uuid>f5048719-44f4-43b7-a222-fe05e41a649b</uuid>
+  </card>
+  <card>
+    <question>benutzen</question>
+    <answer>использовать</answer>
+    <comment></comment>
+    <uuid>df8b94a1-4ce4-46ee-9dd7-e16f8e35244a</uuid>
+  </card>
+  <card>
+    <question>schmal</question>
+    <answer>узкий, тощий</answer>
+    <comment></comment>
+    <uuid>ca4d5d4f-4354-44f3-a38b-d6a734386ea6</uuid>
+  </card>
+  <card>
+    <question>niedrig</question>
+    <answer>низкий</answer>
+    <comment></comment>
+    <uuid>6a2f6f18-e535-4524-a954-d13b03005008</uuid>
+  </card>
+  <card>
+    <question>altmodisch</question>
+    <answer>старомодный</answer>
+    <comment></comment>
+    <uuid>32dd0bb4-a6e5-4f63-9325-2d8d91f10bfd</uuid>
+  </card>
+  <card>
+    <question>die Ergänzung</question>
+    <answer>дополнение</answer>
+    <comment>Ergänzungen</comment>
+    <uuid>32273948-d804-4cc9-8e91-2151cf0d4743</uuid>
+  </card>
+  <card>
+    <question>gehören</question>
+    <answer>принадлежать</answer>
+    <comment></comment>
+    <uuid>04642ebb-8442-4eac-ae61-9600d32f47c1</uuid>
+  </card>
+  <card>
+    <question>du</question>
+    <answer>ты</answer>
+    <comment></comment>
+    <uuid>96ae2e68-6dda-4ee7-ab5e-182933f8054d</uuid>
+  </card>
+  <card>
+    <question>er</question>
+    <answer>он</answer>
+    <comment></comment>
+    <uuid>5bef7329-c88a-41d3-a0da-63c88bacbe9a</uuid>
+  </card>
+</cards>
+</stack>

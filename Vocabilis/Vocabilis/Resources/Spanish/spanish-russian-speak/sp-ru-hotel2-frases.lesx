@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>64b881ca-0a38-494b-9a59-f3ff8fca036f</uuid>
+  <title>Гостиница :: Пребывание :: Фразы</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>11</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>estancia en el hotel</question>
+    <answer>пребывание в гостинице</answer>
+    <comment></comment>
+    <uuid>b4b67083-2c83-4458-8433-66bfc94133c0</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle papel de escribir?</question>
+    <answer>Можно попросить у вас почтовую бумагу? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>256e3245-05af-45ee-aa18-22892ece2580</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle sobres?</question>
+    <answer>Можно попросить у вас конверты? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>3bb53818-56eb-42e8-91ae-011aaf980854</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle una aguja e hilo?</question>
+    <answer>Можно попросить у вас иголку с ниткой? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>3cebb022-bfac-4531-b129-13cae049bbb7</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle una lámpara de mesa?</question>
+    <answer>Можно попросить у вас настольную лампу? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>9311a796-1527-47cf-8af6-47e8b1fab39e</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle una bolsa de agua caliente?</question>
+    <answer>Можно попросить у вас грелку? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>6fe2dd68-0152-46e7-bc0b-9e0711830471</uuid>
+  </card>
+  <card>
+    <question>¿Podría pedirle una manta más?</question>
+    <answer>Можно попросить у вас еще одно одеяло? (=Мог(ла) бы я ...)</answer>
+    <comment></comment>
+    <uuid>c3faeb69-f047-4a97-8c6b-12bd675cc21e</uuid>
+  </card>
+  <card>
+    <question>¿Hay en este hotel restaurante?</question>
+    <answer>В этой гостинице есть ресторан?</answer>
+    <comment></comment>
+    <uuid>0f2a9d2f-ca81-4010-85c5-8c1e558359aa</uuid>
+  </card>
+  <card>
+    <question>¿Hay en este hotel bar?</question>
+    <answer>В этой гостинице есть бар?</answer>
+    <comment></comment>
+    <uuid>ccf2ff00-a535-4a68-b3f1-8cd267cf7deb</uuid>
+  </card>
+  <card>
+    <question>¿Hay en este hotel peluquería?</question>
+    <answer>В этой гостинице есть парикмахерская?</answer>
+    <comment></comment>
+    <uuid>888e17f3-8fbc-43d5-95f1-07fa4df4f15a</uuid>
+  </card>
+  <card>
+    <question>¿Dónde puedo aparcar mi coche?</question>
+    <answer>Где я могу поставить свою машину?</answer>
+    <comment></comment>
+    <uuid>d4145ee5-8e8a-496e-ba17-872808501280</uuid>
+  </card>
+  <card>
+    <question>Hay un aparcamiento junto al hotel.</question>
+    <answer>Рядом с гостиницей есть стоянка. (=Есть стоянка ...)</answer>
+    <comment></comment>
+    <uuid>14da1065-1349-4ed1-9b39-9fa530c6a65c</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay un banco para cambiar divisa?</question>
+    <answer>Где обмен валюты? (=Где имеется банк чтобы обменять валюту?)</answer>
+    <comment></comment>
+    <uuid>e992f396-69f7-4509-9037-cf67059cd99e</uuid>
+  </card>
+  <card>
+    <question>¿Dónde hay una agencia de viajes?</question>
+    <answer>Где бюро по туризму? (=Где имеется ...)</answer>
+    <comment></comment>
+    <uuid>1650d7b1-fc66-4193-abcc-45d50a3505a7</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está la oficina de servicios?</question>
+    <answer>Где (находится) бюро обслуживания?</answer>
+    <comment></comment>
+    <uuid>06ccfc76-6f95-4938-9089-7a8c96f0d0dc</uuid>
+  </card>
+  <card>
+    <question>Por favor, despiérteme a las ... de la mañana.</question>
+    <answer>Разбудите меня, пожалуйста, в ... утра.</answer>
+    <comment></comment>
+    <uuid>4a6a3380-4268-491d-b662-d2f0cfd53c0b</uuid>
+  </card>
+  <card>
+    <question>¿Dónde está el enchufe para afeitarse?</question>
+    <answer>Где розетка для бритвы? (=Где розетка чтобы побриться?)</answer>
+    <comment></comment>
+    <uuid>dab78696-bfa8-4947-9778-b96be2ef8289</uuid>
+  </card>
+  <card>
+    <question>¿Qué tensión hay aquí?</question>
+    <answer>Какое здесь напряжение?</answer>
+    <comment></comment>
+    <uuid>ecc230dc-7b2b-40aa-92bf-900ae63f5274</uuid>
+  </card>
+  <card>
+    <question>Por favor, envíeme a la limpiadora.</question>
+    <answer>Пришлите, пожалуйста, горничную.</answer>
+    <comment></comment>
+    <uuid>0dd22a78-0c2f-4244-bc15-013d9d3a58d4</uuid>
+  </card>
+  <card>
+    <question>Por favor, envíeme a un camarero.</question>
+    <answer>Пришлите, пожалуйста, официанта.</answer>
+    <comment></comment>
+    <uuid>af960318-e2b8-418d-ad6d-811b60af30cb</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame una toalla.</question>
+    <answer>Принесите (мне), пожалуйста, полотенце.</answer>
+    <comment></comment>
+    <uuid>1b4c7dcb-d8cd-48ab-b41d-36d86eef14f6</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame una manta.</question>
+    <answer>Принесите (мне), пожалуйста, одеяло.</answer>
+    <comment></comment>
+    <uuid>e1775abc-2f92-447e-b989-b73876d33b7e</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame un cenicero.</question>
+    <answer>Принесите (мне), пожалуйста, пепельницу.</answer>
+    <comment></comment>
+    <uuid>9aa23857-41e7-44b1-9439-0f1c70a89ef0</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame una botella de agua mineral.</question>
+    <answer>Принесите (мне), пожалуйста, бутылку минеральной воды.</answer>
+    <comment></comment>
+    <uuid>91ade3d6-ae23-406d-b36f-2d4d9aa14205</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame el desayuno.</question>
+    <answer>Принесите (мне), пожалуйста, завтрак</answer>
+    <comment></comment>
+    <uuid>ace57c4a-aec6-462e-b6c6-8df93d82d621</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame la comida.</question>
+    <answer>Принесите (мне), пожалуйста, обед.</answer>
+    <comment></comment>
+    <uuid>202839de-bb83-433b-925a-b82224806630</uuid>
+  </card>
+  <card>
+    <question>Por favor, tráigame la cena.</question>
+    <answer>Принесите (мне), пожалуйста, ужин.</answer>
+    <comment></comment>
+    <uuid>4ec33167-0636-4c94-aa58-76292ffa7302</uuid>
+  </card>
+  <card>
+    <question>Podrían servirme el desayuno en la habitación?</question>
+    <answer>Можно попросить завтрак в номер? (=Вы могли бы (мн.ч.) подать мне завтрак в номер?)</answer>
+    <comment></comment>
+    <uuid>895125c3-7257-4da5-abe4-5944bd999595</uuid>
+  </card>
+  <card>
+    <question>Podrían servirme la comida en la habitación?</question>
+    <answer>Можно попросить обед в номер? (=Вы могли бы (мн.ч.) подать мне обед в номер?)</answer>
+    <comment></comment>
+    <uuid>4b69fba4-098b-41e8-8c3d-44f24e91eb52</uuid>
+  </card>
+  <card>
+    <question>Podrían servirme la cena en la habitación?</question>
+    <answer>Можно попросить ужин в номер? (=Вы могли бы (мн.ч.) подать мне ужин в номер?)</answer>
+    <comment></comment>
+    <uuid>ae3249fd-aaab-4f79-8783-3f95569557fe</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora se desayuna?</question>
+    <answer>В котором часу завтрак? (... завтракают?)</answer>
+    <comment></comment>
+    <uuid>fd8c4d38-f16a-480c-989b-8fa9e476245a</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora se almuerza?</question>
+    <answer>В котором часу обед? (... обедают?)</answer>
+    <comment></comment>
+    <uuid>945f8805-886c-40ee-8b4c-f5d838275322</uuid>
+  </card>
+  <card>
+    <question>¿A qué hora se cena?</question>
+    <answer>В котором часу ужин? (... ужинают?)</answer>
+    <comment></comment>
+    <uuid>8d0254e4-e5fd-4e7d-81c9-b83ede204d50</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no hay luz.</question>
+    <answer>В моем номере нет света.</answer>
+    <comment></comment>
+    <uuid>dfc7a352-4fa2-41da-961e-cea909be8fd9</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no hay agua caliente.</question>
+    <answer>В моем номере нет горячей воды.</answer>
+    <comment></comment>
+    <uuid>697e77d4-ad9d-4427-9531-0d9948b796b3</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no hay agua fría.</question>
+    <answer>В моем номере нет холодной воды.</answer>
+    <comment></comment>
+    <uuid>e339df32-2b93-4493-9cc3-50b77785e8cb</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no hay televisor.</question>
+    <answer>В моем номере нет телевизора.</answer>
+    <comment></comment>
+    <uuid>89d41351-d5e1-4af0-b33c-7f91d7235efd</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no funciona el aire acondicionado.</question>
+    <answer>В моем номере не работает кондиционер.</answer>
+    <comment></comment>
+    <uuid>34f4ce27-b5b6-4588-afb3-b94ac450bf04</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no funciona el televisor.</question>
+    <answer>В моем номере не работает телевизор.</answer>
+    <comment></comment>
+    <uuid>9e9214e0-16cb-4480-9168-7e6e4ac2b98b</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no funciona el teléfono.</question>
+    <answer>В моем номере не работает телефон.</answer>
+    <comment></comment>
+    <uuid>f273028e-203a-43ce-aa34-861fcededcbe</uuid>
+  </card>
+  <card>
+    <question>En mi habitación no funciona la calefacción.</question>
+    <answer>В моем номере не работает отопление.</answer>
+    <comment></comment>
+    <uuid>0143618e-aaba-4af5-8372-311bdd70c8e3</uuid>
+  </card>
+  <card>
+    <question>En mi habitación hace calor.</question>
+    <answer>В моем номере жарко.</answer>
+    <comment></comment>
+    <uuid>c2cb6396-7c3a-42d0-8c9e-a76f31badac3</uuid>
+  </card>
+  <card>
+    <question>En mi habitación hace frío.</question>
+    <answer>В моем номере холодно.</answer>
+    <comment></comment>
+    <uuid>21769088-7cdc-4724-899d-52c5d460c6c5</uuid>
+  </card>
+  <card>
+    <question>En mi habitación se ha fundido una bombilla.</question>
+    <answer>В моем номере перегорела лампочка.</answer>
+    <comment></comment>
+    <uuid>d5e9cffa-3729-45ec-bce8-3a79692152b3</uuid>
+  </card>
+  <card>
+    <question>En mi habitación se ha atrancado el lavabo.</question>
+    <answer>В моем номере засорился туалет.</answer>
+    <comment></comment>
+    <uuid>4235bc38-d7f4-4f53-acf7-ea96fb117d30</uuid>
+  </card>
+  <card>
+    <question>Por favor, cámbieme la bombilla.</question>
+    <answer>Замените (мне) лампочку, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>91c0f09e-47af-416b-986b-7760d306ed0c</uuid>
+  </card>
+  <card>
+    <question>Por favor, límpieme esto.</question>
+    <answer>Прошу вас почистить эти вещи. (=Пожалуйста, почистите мне это.)</answer>
+    <comment></comment>
+    <uuid>e30264d8-4533-4a11-8d25-c078339e5148</uuid>
+  </card>
+  <card>
+    <question>Por favor, pláncheme esto.</question>
+    <answer>Прошу вас выгладить эти вещи. (=Пожалуйста, погладьте мне это.)</answer>
+    <comment></comment>
+    <uuid>5bd4906c-905b-4335-a19a-1bac1128facb</uuid>
+  </card>
+  <card>
+    <question>Por favor, láveme esto.</question>
+    <answer>Прошу вас выстирать эти вещи. (=Пожалуйста, выстирайте мне это.)</answer>
+    <comment></comment>
+    <uuid>694ee4c7-0ab7-4cd4-957c-e501723f3e51</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo estará listo?</question>
+    <answer>Когда будет готово?</answer>
+    <comment></comment>
+    <uuid>fc3eabbe-c919-45bf-9eb2-cc334d7fafff</uuid>
+  </card>
+  <card>
+    <question>He olvidado la llave en la habitación.</question>
+    <answer>Я забыл(а) ключ в номере.</answer>
+    <comment></comment>
+    <uuid>ee853b21-3b20-45d6-a990-072f74b3809f</uuid>
+  </card>
+  <card>
+    <question>¿No hay para mí alguna carta?</question>
+    <answer>Нет ли для меня (какого-нибудь) письма?</answer>
+    <comment></comment>
+    <uuid>36f091f7-cad6-4e4c-af43-c38b308e7a8b</uuid>
+  </card>
+  <card>
+    <question>¿No hay para mí algún telegrama?</question>
+    <answer>Нет ли для меня (какой-нибудь) телеграмы?</answer>
+    <comment></comment>
+    <uuid>13ea7c0c-18a9-4b1a-ac01-9fe672a1202f</uuid>
+  </card>
+  <card>
+    <question>Por favor, dígame como telefonear a ...</question>
+    <answer>Скажите, пожалуйста, как позвонить в ...</answer>
+    <comment></comment>
+    <uuid>756eeeef-4826-4912-9412-968c41881404</uuid>
+  </card>
+  <card>
+    <question>¿No me han llamado?</question>
+    <answer>Мне не звонили?</answer>
+    <comment></comment>
+    <uuid>ca21001d-a5fd-4c88-a0cf-4e8c184753e8</uuid>
+  </card>
+  <card>
+    <question>¿Han preguntado por mí?</question>
+    <answer>Меня (не) спрашивали?</answer>
+    <comment></comment>
+    <uuid>c71fdc19-ead4-4745-9994-6ed383149966</uuid>
+  </card>
+  <card>
+    <question>Si preguntan por mí diga que en seguida vengo.</question>
+    <answer>Если меня будут спрашивать, скажите, что я скоро вернусь.</answer>
+    <comment></comment>
+    <uuid>3647ec0d-4579-4b6b-a08c-362d7cf22792</uuid>
+  </card>
+  <card>
+    <question>Si preguntan por mí, estoy en el restaurante.</question>
+    <answer>Если меня будут спрашивать, я в ресторане.</answer>
+    <comment></comment>
+    <uuid>e6dac783-e3ff-477c-b3ba-b1a814fa61ea</uuid>
+  </card>
+  <card>
+    <question>Si preguntan por mí, estoy en el vestíbulo.</question>
+    <answer>Если меня будут спрашивать, я в холле.</answer>
+    <comment></comment>
+    <uuid>98fa42e0-c22a-44ad-acba-0f2be7233643</uuid>
+  </card>
+  <card>
+    <question>Si preguntan por mí, estoy en la habitación número ...</question>
+    <answer>Если меня будут спрашивать, я в номере ...</answer>
+    <comment></comment>
+    <uuid>2b7591ac-9abb-41b2-a0de-7d8b42d9dc1b</uuid>
+  </card>
+  <card>
+    <question>Si preguntan por mí, estaré después de las ... horas.</question>
+    <answer>Если меня будут спрашивать, я буду после ... часов.</answer>
+    <comment></comment>
+    <uuid>43d1a53d-f4f6-48da-adf9-68c243d40fcf</uuid>
+  </card>
+  <card>
+    <question>¿En qué habitación vive el señor ...?</question>
+    <answer>В каком номере живет господин ...?</answer>
+    <comment></comment>
+    <uuid>63ec9f27-e91d-4a8d-be9e-9d39fd21b092</uuid>
+  </card>
+  <card>
+    <question>¿Desde el hotel sale algún autobús hacia ...?</question>
+    <answer>От гостиницы ходит автобус до ...?</answer>
+    <comment></comment>
+    <uuid>96b63a2f-b7cc-4e00-a195-75c3b36c2d64</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo sale el autobús hacia el aeropuerto?</question>
+    <answer>Когда отходит автобус до аэропорта?</answer>
+    <comment></comment>
+    <uuid>f6d982c9-e0e3-44ca-977a-85bfd83367a4</uuid>
+  </card>
+  <card>
+    <question>El autobús sale a las ...</question>
+    <answer>Автобус отходит в ... часов.</answer>
+    <comment></comment>
+    <uuid>267c0106-bcbc-49ed-9137-4ad349e2453d</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo sale el autobús hacia la estación ferrocarril?</question>
+    <answer>Когда отходит автобус до ж/д вокзала?</answer>
+    <comment></comment>
+    <uuid>75f11030-0872-47d3-8af6-742ee6c1f000</uuid>
+  </card>
+  <card>
+    <question>Por favor, organícenos una excursión a ...</question>
+    <answer>Организуйте для нас, пожалуйста, экскурсию в ...</answer>
+    <comment></comment>
+    <uuid>491a33c3-b750-4502-9e60-1c1ae4d9441a</uuid>
+  </card>
+  <card>
+    <question>Por favor, organícenos una visita a un museo.</question>
+    <answer>Организуйте для нас, пожалуйста, посещение музея.</answer>
+    <comment></comment>
+    <uuid>1944a64e-d581-4cc2-8e00-87536b517574</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se pueden reservar billetes de avión?</question>
+    <answer>Где можно заказать авиабилеты?</answer>
+    <comment></comment>
+    <uuid>7c85b45e-a069-400f-a8e3-65f3ff70c122</uuid>
+  </card>
+  <card>
+    <question>¿Dónde se pueden reservar billetes de ferrocarril?</question>
+    <answer>Где можно заказать железнодорожные билеты?</answer>
+    <comment></comment>
+    <uuid>ba002f3c-c8b7-4087-982b-863a2f69c532</uuid>
+  </card>
+  <card>
+    <question>Necesito prolongar el visado.</question>
+    <answer>Мне надо продлить визу.</answer>
+    <comment></comment>
+    <uuid>93ab472e-b305-42f7-b810-9a5f83156150</uuid>
+  </card>
+  <card>
+    <question>Hoy me voy del hotel a las ... horas.</question>
+    <answer>Я уезжаю сегодня (из гостиницы) в ... часов.</answer>
+    <comment></comment>
+    <uuid>f812ce79-becd-40f0-8327-ace9b05c98f0</uuid>
+  </card>
+  <card>
+    <question>Mañana me voy del hotel a las ... horas.</question>
+    <answer>Я уезжаю завтра (из гостиницы) в ... часов.</answer>
+    <comment></comment>
+    <uuid>870253f1-0c72-433c-96f7-c48dbc4ad1bd</uuid>
+  </card>
+  <card>
+    <question>Por favor, prepáreme la factura.</question>
+    <answer>Приготовьте (мне) счёт, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>d10c951c-9674-4238-b578-dbf6a72a26dd</uuid>
+  </card>
+  <card>
+    <question>Quisiera pagar ahora la factura.</question>
+    <answer>Я хотел бы оплатить счёт сейчас.</answer>
+    <comment></comment>
+    <uuid>f04b6183-4c5a-40e9-a6b1-82ba8da9d2d1</uuid>
+  </card>
+  <card>
+    <question>Por favor, pídenme un taxi.</question>
+    <answer>Вызовите (мн.ч.) (мне), пожалуйста, такси.</answer>
+    <comment></comment>
+    <uuid>81622200-2315-48d1-8dc7-0e7f25bb2c18</uuid>
+  </card>
+  <card>
+    <question>para las ... de la mañana</question>
+    <answer>к ... часам утра</answer>
+    <comment></comment>
+    <uuid>db7a827a-e115-4f41-b92a-cdc888d90ae2</uuid>
+  </card>
+  <card>
+    <question>para las ... de la tarde</question>
+    <answer>к ... часам вечера</answer>
+    <comment></comment>
+    <uuid>0ba0e83b-a81c-458f-9ae9-30e0c9c933cc</uuid>
+  </card>
+  <card>
+    <question>El taxi le espera a la entrada.</question>
+    <answer>Такси ждет вас у гостиницы (=у входа).</answer>
+    <comment></comment>
+    <uuid>eb179fa1-c96d-4512-9fac-19d645281899</uuid>
+  </card>
+  <card>
+    <question>Envíen a recoger mis cosas.</question>
+    <answer>Пришлите (мн.ч.) (кого-нибудь) за вещами.</answer>
+    <comment></comment>
+    <uuid>03c44ab5-322b-43a1-b81c-ad21d8f5197d</uuid>
+  </card>
+  <card>
+    <question>¿Cuándo se marcha usted?</question>
+    <answer>Когда Вы уезжаете?</answer>
+    <comment></comment>
+    <uuid>cf78f4bb-cb29-4a4b-9f18-8c7e2ebc1b63</uuid>
+  </card>
+  <card>
+    <question>Me marcho ...</question>
+    <answer>Я уезжаю ...</answer>
+    <comment></comment>
+    <uuid>f0460b36-e078-4e39-ba7f-e2b08f516b91</uuid>
+  </card>
+  <card>
+    <question>No olviden sus pasaportes.</question>
+    <answer>Не забудьте (получить ваши) паспорта.</answer>
+    <comment></comment>
+    <uuid>bc13d177-84c8-4f9c-86bb-4f011a11a516</uuid>
+  </card>
+  <card>
+    <question>No dejen sus prendas en la habitación.</question>
+    <answer>Не забывайте свои вещи в номере.</answer>
+    <comment></comment>
+    <uuid>1533530e-2ea5-4f35-8ff8-be404febeab0</uuid>
+  </card>
+  <card>
+    <question>¡Hasta la vista!</question>
+    <answer>До свидания!</answer>
+    <comment></comment>
+    <uuid>b4c7d01e-0503-4e33-bc14-1a819c2f1ffe</uuid>
+  </card>
+</cards>
+</stack>

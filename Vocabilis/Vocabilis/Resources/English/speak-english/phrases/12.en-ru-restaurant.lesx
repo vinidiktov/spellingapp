@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>2948e0e0-5b8e-41ab-af21-eb4d08589735</uuid>
+  <title>В ресторане :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>I&apos;m hungry.</question>
+    <answer>Я хочу есть.</answer>
+    <comment>[аɪm ˈhʌŋgriː]</comment>
+    <answer_comment>hungry - голодный</answer_comment>
+    
+    <uuid>2e0a0269-bb63-45c2-a8eb-f333637db5ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m thirsty.</question>
+    <answer>Я хочу пить.</answer>
+    <comment>[аɪm ˈθɜːrstiː]</comment>
+    <answer_comment>thirsty - испытывающий жажду</answer_comment>
+    
+    <uuid>3454d6ff-2e37-47ef-980a-b23e02b4cc6c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I have no appetite today.</question>
+    <answer>У меня сегодня нет аппетита.</answer>
+    <comment>[аɪ hæv noʊ ˈæpɪˌtаɪt təˈdeɪ]</comment>
+    <answer_comment>to have - иметь, appetite - аппетит, today - сегодня</answer_comment>
+    
+    <uuid>370925ec-97aa-4719-b4e7-786dfd3ce661</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I feel like eating something.</question>
+    <answer>Я бы что-нибудь съел.</answer>
+    <comment>[аɪ fiːl lаɪk ˈiːtɪŋ ˈsʌmθɪŋ]</comment>
+    <answer_comment>to feel like - хотеть, eating - еда, something - что-нибудь</answer_comment>
+    
+    <uuid>ba219e9c-9316-4604-8b4b-b0a15e690c1c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When did you have breakfast?</question>
+    <answer>Когда вы позавтракали?</answer>
+    <comment>[hwen dɪd jʊ hæv ˈbrekfəst]</comment>
+    <answer_comment>when - когда, to have - иметь, breakfast - завтрак</answer_comment>
+    
+    <uuid>fdca6775-2446-48fd-8c05-3095761fec6e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Tell me what you want to eat.</question>
+    <answer>Скажите, что бы вы хотели (из еды)?</answer>
+    <comment>[tel ˈmiː hwʌt jʊ wɑːnt tʊ iːt]</comment>
+    <answer_comment>to tell - рассказать, me - мне, меня, what - что, you - ты, вы, to want - хотеть, to eat - есть, кушать</answer_comment>
+    
+    <uuid>ba188e84-826b-4559-b35d-d9688ed25d01</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have a bite here?</question>
+    <answer>Где здесь можно перекусить?</answer>
+    <comment>[hwer kæn аɪ hæv ə bаɪt hɪr]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, bite - кусок, here - здесь</answer_comment>
+    
+    <uuid>c39913f4-abab-4eaa-8812-041dcf648dbc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have dinner here?</question>
+    <answer>Где здесь можно пообедать?</answer>
+    <comment>[hwer kæn аɪ hæv ˈdɪnər hɪr]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, dinner - обед, here - здесь</answer_comment>
+    
+    <uuid>efb271bd-5714-4373-bc43-85438958a472</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I have supper here?</question>
+    <answer>Где здесь можно поужинать?</answer>
+    <comment>[hwer kæn аɪ hæv ˈsʌpər hɪr]</comment>
+    <answer_comment>where - где, can - мочь, to have - иметь, supper - ужин, here - здесь</answer_comment>
+    
+    <uuid>a201eccd-354a-4046-96e6-586556cd50c7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There is a table for three reserved for me.</question>
+    <answer>Для меня зарезервирован столик на троих.</answer>
+    <comment>[ðer ɪz ə ˈteɪbəl fər θriː rɪˈzɜːrvd fər ˈmiː]</comment>
+    <answer_comment>there is - есть, имеется, table - стол, three - три, reserved - зарезервированный, me - мне, меня</answer_comment>
+    
+    <uuid>f59a5926-6c64-460c-9c3f-f545585b61d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We need a table for four.</question>
+    <answer>Нам нужен столик на четверых.</answer>
+    <comment>[wiː niːd ə ˈteɪbəl fər fɔːr]</comment>
+    <answer_comment>need - нуждаться, table - стол, four - четверо</answer_comment>
+    
+    <uuid>64979c81-0765-4a2a-b699-e0356c18e90a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I would like a table in a corner.</question>
+    <answer>Я бы хотел столик в углу.</answer>
+    <comment>[аɪ wʊd lаɪk ə ˈteɪbəl ɪn ə ˈkɔːrnər]</comment>
+    <answer_comment>would like - хотеть, table - стол, corner - угол</answer_comment>
+    
+    <uuid>84d3e8a3-d30c-45c0-bc22-8cb6d48c467e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I would like a table at a window.</question>
+    <answer>Я бы хотел столик у окна.</answer>
+    <comment>[аɪ wʊd lаɪk ə ˈteɪbəl ət ə ˈwɪndoʊ]</comment>
+    <answer_comment>would like - хотеть, table - стол, window - окно</answer_comment>
+    
+    <uuid>ec1c4b30-b7cf-4b69-a4b9-21849e378047</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I would like a table outdoors.</question>
+    <answer>Я бы хотел столик на улице.</answer>
+    <comment>[аɪ wʊd lаɪk ə ˈteɪbəl аʊtˈdɔːrz]</comment>
+    <answer_comment>would like - хотеть, table - стол, outdoors - на улице</answer_comment>
+    
+    <uuid>d9b6c7f6-930a-4872-a30f-397641b69d24</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I have the menu?</question>
+    <answer>Можно меню?</answer>
+    <comment>[kæn аɪ hæv ðə ˈmenjuː]</comment>
+    <answer_comment>can - мочь, to have - иметь, menu - меню</answer_comment>
+    
+    <uuid>b04da1f4-cacb-40c6-b554-02d4cf7bd4d2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The menu, please.</question>
+    <answer>Меню, пожалуйста.</answer>
+    <comment>[ðə ˈmenjuː pliːz]</comment>
+    <answer_comment>menu - меню</answer_comment>
+    
+    <uuid>21e6bb3b-5af2-46f9-8a20-42057ac387c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring one more chair, please.</question>
+    <answer>Принесите, пожалуйста, еще один стул.</answer>
+    <comment>[brɪŋ wʌn mɔːr ʧer pliːz]</comment>
+    <answer_comment>to bring - приносить, one - один, more - еще, chair - стул</answer_comment>
+    
+    <uuid>181a5842-6efc-474e-ab09-7b0cce26b42a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring one more setting, please.</question>
+    <answer>Принесите, пожалуйста, еще один прибор.</answer>
+    <comment>[brɪŋ wʌn mɔːr ˈsetɪŋ pliːz]</comment>
+    <answer_comment>to bring - приносить, one - один, more - еще, setting - прибор</answer_comment>
+    
+    <uuid>220c27f5-368d-4357-aba7-609c80e5ba83</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring a fork, please.</question>
+    <answer>Принесите, пожалуйста, вилку.</answer>
+    <comment>[brɪŋ ə fɔːrk pliːz]</comment>
+    <answer_comment>to bring - приносить, fork - вилка</answer_comment>
+    
+    <uuid>1d13712c-9649-4e88-93c9-f6507254520d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring a knife, please.</question>
+    <answer>Принесите, пожалуйста, нож.</answer>
+    <comment>[brɪŋ ə nаɪf pliːz]</comment>
+    <answer_comment>to bring - приносить, knife - нож</answer_comment>
+    
+    <uuid>6fe6ee8b-d1af-4654-915c-63c04eb4215c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring a spoon, please.</question>
+    <answer>Принесите, пожалуйста, ложку.</answer>
+    <comment>[brɪŋ ə spuːn pliːz]</comment>
+    <answer_comment>to bring - приносить, spoon - ложка</answer_comment>
+    
+    <uuid>f6b804ae-dbe9-45b0-9d3d-098e741395b6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring a glass, please.</question>
+    <answer>Принесите, пожалуйста, бокал.</answer>
+    <comment>[brɪŋ ə glæs pliːz]</comment>
+    <answer_comment>to bring - приносить, glass - бокал, стакан</answer_comment>
+    
+    <uuid>6dd48679-f4af-4092-8644-4ce651eadbf5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring a wineglass, please.</question>
+    <answer>Принесите, пожалуйста, рюмку.</answer>
+    <comment>[brɪŋ ə ˈwаɪnˌglæs pliːz]</comment>
+    <answer_comment>to bring - приносить, wineglass - рюмка</answer_comment>
+    
+    <uuid>d6953108-56da-4f63-b775-c50bed2b89bb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring an ashtray, please.</question>
+    <answer>Принесите, пожалуйста, пепельницу.</answer>
+    <comment>[brɪŋ ən ˈæʃtreɪ pliːz]</comment>
+    <answer_comment>to bring - приносить, ashtray - пепельница</answer_comment>
+    
+    <uuid>58072f05-f368-4555-b1fa-e77a60490e02</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you have a menu in Russian?</question>
+    <answer>У вас есть меню на русском языке?</answer>
+    <comment>[duː jʊ hæv ə ˈmenjuː ɪn ˈrʌʃən]</comment>
+    <answer_comment>to have - иметь, menu - меню, Russian - русский</answer_comment>
+    
+    <uuid>9b9d2faa-d835-4532-a7d0-13ab4381838d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the house specialty?</question>
+    <answer>Какое у вас фирменное блюдо?</answer>
+    <comment>[hwʌts ðə ˌhаʊs ˈspeʃəltiː]</comment>
+    <answer_comment>what - что, какой, house - дом, specialty - особенность</answer_comment>
+    
+    <uuid>b2d7b369-1c1b-4c2e-966c-3ba30814fcbd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What vegetarian dishes do you have?</question>
+    <answer>Какие вегетарианские блюда у вас есть?</answer>
+    <comment>[hwʌt ˌveʤɪˈterɪən ˈdɪʃɪz duː jʊ hæv]</comment>
+    <answer_comment>what - что, какой, vegetarian - вегетарианский, dish - блюдо, to have - иметь</answer_comment>
+    
+    <uuid>40ed0b31-f08b-4486-bb94-0383270e75fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the bathroom here?</question>
+    <answer>Где здесь туалет?</answer>
+    <comment>[hwer ɪz ðə ˈbæθruːm hɪr]</comment>
+    <answer_comment>where - где, bathroom - ванна, here - здесь</answer_comment>
+    
+    <uuid>4c27683a-8728-4874-8606-ca115d22ae49</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long should we wait for the hot dish?</question>
+    <answer>Как долго нам придется ждать горячее?</answer>
+    <comment>[hаʊ lɔːŋ ʃʊd wiː weɪt fər ðə hɑːt dɪʃ]</comment>
+    <answer_comment>how - как, long - долго, should - должен, должны, to wait - ждать, hot - горячий, dish - блюдо</answer_comment>
+    
+    <uuid>3e80a652-2ab8-420f-a53d-1c8854268555</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please bring a decanter of water with ice.</question>
+    <answer>Пожалуйста, принесите графин воды со льдом.</answer>
+    <comment>[pliːz brɪŋ ə dɪˈkæntər əv ˈwɔːtər wɪð аɪs]</comment>
+    <answer_comment>to bring - приносить, decanter - графин, water - вода, ice - лед</answer_comment>
+    
+    <uuid>facf9049-0a60-43a3-af7e-7770bc3af79e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please bring a big glass of beer.</question>
+    <answer>Пожалуйста, принесите большой бокал пива.</answer>
+    <comment>[pliːz brɪŋ ə bɪg glæs əv bɪr]</comment>
+    <answer_comment>to bring - приносить, big - большой, glass - бокал, кружка, beer - пиво</answer_comment>
+    
+    <uuid>07b97c2b-c2b5-4183-a958-8aa414d8bd40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please bring a cup of hot chocolate.</question>
+    <answer>Пожалуйста, принесите чашку горячего шоколада.</answer>
+    <comment>[pliːz brɪŋ ə kʌp əv hɑːt ˈʧɔːkəlɪt]</comment>
+    <answer_comment>to bring - приносить, cup - чашка, hot - горячий, chocolate - шоколад</answer_comment>
+    
+    <uuid>4075ca74-e7c8-4e45-8fd1-c6849b9eaa4e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you serve coffee in cups or in a coffee pot?</question>
+    <answer>У вас кофе в чашках или кофейнике?</answer>
+    <comment>[duː jʊ sɜːrv ˈkɔːfiː ɪn kʌps ʌr ɪn ə ˈkɔːfiː pɑːt]</comment>
+    <answer_comment>to serve - подавать, coffee - кофе, cup - чашка, coffee pot - кофейник</answer_comment>
+    
+    <uuid>57bd088c-2f06-4b57-9cb7-e13b7060d8d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Mineral water without gas, please.</question>
+    <answer>Минеральную воду без газа, пожалуйста.</answer>
+    <comment>[ˈmɪnərəl ˈwɔːtər wɪðˈаʊt gæs pliːz]</comment>
+    <answer_comment>mineral - минеральный, water - вода, without - без, gas - газ</answer_comment>
+    
+    <uuid>bf83f599-f4a5-49c7-a244-6644dc602373</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The bill, please.</question>
+    <answer>Счет, пожалуйста.</answer>
+    <comment>[ðə bɪl pliːz]</comment>
+    <answer_comment>bill - счет</answer_comment>
+    
+    <uuid>b19c22a0-162c-4cba-983e-d703fe1a50ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Bring me the bill, please.</question>
+    <answer>Принесите, пожалуйста, счет.</answer>
+    <comment>[brɪŋ ˈmiː ðə bɪl pliːz]</comment>
+    <answer_comment>to bring - приносить, me - мне, меня, bill - счет</answer_comment>
+    
+    <uuid>e3770ce6-1563-4fa9-b319-b72ef54d219f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Keep the change.</question>
+    <answer>Сдачи не надо.</answer>
+    <comment>[kiːp ðə ʧeɪnʤ]</comment>
+    <answer_comment>to keep - сохранять, держать, change - сдача</answer_comment>
+    
+    <uuid>f4d8801b-9c7c-4ff8-a794-0e26f9317842</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a fork and a knife.</question>
+    <answer>Мне нужна вилка и нож.</answer>
+    <comment>[аɪ niːd ə fɔːrk ənd ə nаɪf]</comment>
+    <answer_comment>need - нуждаться, fork - вилка, knife - ножь</answer_comment>
+    
+    <uuid>3545519f-040c-435d-8dda-6f77a91d26a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a napkin.</question>
+    <answer>Мне нужна салфетка.</answer>
+    <comment>[аɪ niːd ə ˈnæpkɪn]</comment>
+    <answer_comment>need - нуждаться, napkin - салфетка</answer_comment>
+    
+    <uuid>2dc4fd0f-c69d-4504-8e0d-b2b9b3da0051</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I need a spoon.</question>
+    <answer>Мне нужна ложка.</answer>
+    <comment>[аɪ niːd ə spuːn]</comment>
+    <answer_comment>need - нуждаться, spoon - ложка</answer_comment>
+    
+    <uuid>79ce1c93-d4e3-4895-ae47-08576fef1c9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do you recommend?</question>
+    <answer>Что вы можете порекомендовать?</answer>
+    <comment>[hwʌt duː jʊ ˌrekəˈmend]</comment>
+    <answer_comment>what - что, to recommend - рекомендовать</answer_comment>
+    
+    <uuid>cae75e0b-4b37-46c6-9b90-00f9f83e146d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take this orange juice.</question>
+    <answer>Я возьму этот апельсиновый сок.</answer>
+    <comment>[аɪl teɪk ðɪs ˈɔːrɪnʤ ʤuːs]</comment>
+    <answer_comment>to take - брать, this - этот, эта, это, orange - апельсиновый, juice - сок</answer_comment>
+    
+    <uuid>9eac8cd8-9163-45fb-b4d6-54cc855d3896</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take an omelet with bacon.</question>
+    <answer>Я возьму омлет с беконом.</answer>
+    <comment>[аɪl teɪk ən ˈɑːməlɪt wɪð ˈbeɪkən]</comment>
+    <answer_comment>to take - брать, omelet - омлет, bacon - бекон</answer_comment>
+    
+    <uuid>30d58c8a-d755-42fd-b950-d87502c45b76</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>First a cocktail.</question>
+    <answer>Сначала коктейль.</answer>
+    <comment>[fɜːrst ə ˈkɑːkˌteɪl]</comment>
+    <answer_comment>first - первый, сначала, cocktail - коктейль</answer_comment>
+    
+    <uuid>e914ae0f-b200-4a30-95e6-dca73b615d27</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Then an appetizer.</question>
+    <answer>Потом закуску.</answer>
+    <comment>[ðen ən ˈæpɪˌtаɪzər]</comment>
+    <answer_comment>then - потом, appetizer - закуска</answer_comment>
+    
+    <uuid>1e2b457e-1b93-4f98-96ec-ae9a842af8b6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do you want for dessert?</question>
+    <answer>Что вы хотите на десерт?</answer>
+    <comment>[hwʌt duː jʊ wɑːnt fər dɪˈzɜːrt]</comment>
+    <answer_comment>what - что, to want - хотеть, dessert - десерт</answer_comment>
+    
+    <uuid>2a70a8a4-d7ea-4125-8285-79fa6add2b39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>For the dessert fruit.</question>
+    <answer>На десерт фрукты.</answer>
+    <comment>[fər ðə dɪˈzɜːrt fruːt]</comment>
+    <answer_comment>dessert - десерт, fruit - фрукты</answer_comment>
+    
+    <uuid>cc2ef65b-9c23-4838-85b6-6d7f5eb0338b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>For the dessert ice cream.</question>
+    <answer>На десерт мороженое.</answer>
+    <comment>[fər ðə dɪˈzɜːrt аɪs kriːm]</comment>
+    <answer_comment>dessert - десерт, ice cream - мороженое</answer_comment>
+    
+    <uuid>178c1503-eb69-4c67-b2a6-1926508ab525</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>For the dessert pastry.</question>
+    <answer>На десерт печенье.</answer>
+    <comment>[fər ðə dɪˈzɜːrt ˈpeɪstriː]</comment>
+    <answer_comment>dessert - десерт, pastry - печенье</answer_comment>
+    
+    <uuid>7c49646a-0158-4190-9361-a2ba135e29fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a glass of wine, please.</question>
+    <answer>Мне, пожалуйста, бокал вина.</answer>
+    <comment>[аɪd lаɪk ə glæs əv wаɪn pliːz]</comment>
+    <answer_comment>would like - хотеть, glass - бокал, wine - вино</answer_comment>
+    
+    <uuid>9e9b7f0a-0098-4541-a06b-8eaf0fc7b11a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What kinds of wine do you have?</question>
+    <answer>Какое вино у вас есть?</answer>
+    <comment>[hwʌt kаɪndz əv wаɪn duː jʊ hæv]</comment>
+    <answer_comment>what - что, какой, kind - род, вид, wine - вино, to have - иметь</answer_comment>
+    
+    <uuid>06d38fb5-69b5-43ca-a9d2-42b25e94aadf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like a bottle of mineral water, please.</question>
+    <answer>Мне, пожалуйста, бутылку минеральной воды.</answer>
+    <comment>[аɪd lаɪk ə ˈbɑːtl əv ˈmɪnərəl ˈwɔːtər pliːz]</comment>
+    <answer_comment>would like - хотеть, bottle - бутылка, mineral - минеральный, water - вода</answer_comment>
+    
+    <uuid>bbb657d4-0a1e-486b-9dfd-b5421660b234</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want black coffee.</question>
+    <answer>Я хочу черный кофе.</answer>
+    <comment>[аɪ wɑːnt blæk ˈkɔːfiː]</comment>
+    <answer_comment>to want - хотеть, black - черный, coffee - кофе</answer_comment>
+    
+    <uuid>440a7386-92e1-4afc-923f-3de84d312ce8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me my coffee with cream.</question>
+    <answer>Дайте мне кофе со сливками.</answer>
+    <comment>[gɪv ˈmiː mаɪ ˈkɔːfiː wɪð kriːm]</comment>
+    <answer_comment>to give - давать, me - мне, меня, my - мой, моя, мое, coffee - кофе, cream - сливки</answer_comment>
+    
+    <uuid>b117c53b-a9ed-4d39-8456-551c45c8c9d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Give me my coffee with milk.</question>
+    <answer>Дайте мне кофе с молоком.</answer>
+    <comment>[gɪv ˈmiː mаɪ ˈkɔːfiː wɪð mɪlk]</comment>
+    <answer_comment>to give - давать, me - мне, меня, my - мой, моя, мое, coffee - кофе, milk - молоко</answer_comment>
+    
+    <uuid>44cb6869-189e-41f9-89d8-24658479b86f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like tea or coffee?</question>
+    <answer>Вы будете пить чай или кофе?</answer>
+    <comment>[wʊd jʊ lаɪk tiː ʌr ˈkɔːfiː]</comment>
+    <answer_comment>would like - хотеть, tea - чай, coffee - кофе</answer_comment>
+    
+    <uuid>1c961a41-6c1d-438b-90db-c5269870ad26</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I prefer a cup of tea.</question>
+    <answer>Я предпочитаю чашку чая.</answer>
+    <comment>[аɪ prɪˈfɜːr ə kʌp əv tiː]</comment>
+    <answer_comment>to prefer - предпочитать, cup - чашка, tea - чай</answer_comment>
+    
+    <uuid>5ddadb99-6cad-4774-87af-cb1bdb777e24</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like sugar in your tea?</question>
+    <answer>Вам чай с сахаром?</answer>
+    <comment>[wʊd jʊ lаɪk ˈʃʊgər ɪn jər tiː]</comment>
+    <answer_comment>would like - хотеть, sugar - сахар, your - твой, ваш, tea - чай</answer_comment>
+    
+    <uuid>5a010a1a-5d45-4e8f-b62e-2b8251015fb0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like milk in your tea?</question>
+    <answer>Вам чай с молоком?</answer>
+    <comment>[wʊd jʊ lаɪk mɪlk ɪn jər tiː]</comment>
+    <answer_comment>would like - хотеть, milk - молоко, your - твой, ваш, tea - чай</answer_comment>
+    
+    <uuid>9b9ad380-80c7-4767-906f-ddaf2a91b982</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Pass me the salt, please.</question>
+    <answer>Передайте, пожалуйста, соль.</answer>
+    <comment>[pæs ˈmiː ðə sɔːlt pliːz]</comment>
+    <answer_comment>to pass - передавать, me - мне, меня, salt - соль</answer_comment>
+    
+    <uuid>75d30afc-74f7-4d55-86b3-037f4e426c7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Won&apos;t you have some more coffee?</question>
+    <answer>Не хотите ли еще кофе?</answer>
+    <comment>[woʊnt jʊ hæv sʌm mɔːr ˈkɔːfiː]</comment>
+    <answer_comment>to have - иметь, some - некоторое количество, more - больше, coffee - кофе</answer_comment>
+    
+    <uuid>dc0369eb-52be-4283-9d63-5f17ab921bc5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are we going to have for dinner today?</question>
+    <answer>Что у нас сегодня на обед?</answer>
+    <comment>[hwʌt ɑːr wiː ˈgoʊɪŋ tə hæv fər ˈdɪnər təˈdeɪ]</comment>
+    <answer_comment>what - что, to be going to - собираться (что-л. делать), to have - иметь, dinner - обед, today - сегодня</answer_comment>
+    
+    <uuid>dc8e1ecb-7037-4eb6-9464-2ff3efbf0513</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I hope this seat isn&apos;t taken?</question>
+    <answer>Надеюсь, это место не занято?</answer>
+    <comment>[аɪ hoʊp ðɪs siːt ˈizənt ˈteɪkən]</comment>
+    <answer_comment>to hope - надеяться, this - этот, эта, это, seat - место, taken - занятый</answer_comment>
+    
+    <uuid>90015686-0d59-43db-aab7-2c4369da90af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Have you made your choice?</question>
+    <answer>Вы уже выбрали?</answer>
+    <comment>[hæv jʊ meɪd jər ʧɔɪs]</comment>
+    <answer_comment>to make - сделать, choice - выбор</answer_comment>
+    
+    <uuid>02597e17-89a5-4e57-80f7-c67023cac296</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll take the same.</question>
+    <answer>Я закажу то же самое.</answer>
+    <comment>[аɪl teɪk ðə seɪm]</comment>
+    <answer_comment>to take - взять, the same - то же самое</answer_comment>
+    
+    <uuid>758a3a77-e157-49ee-a613-55141f9df10d</uuid>
+  </card>
+</cards>
+</stack>

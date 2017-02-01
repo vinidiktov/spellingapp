@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dd1ce1ec-4097-418e-bbe7-1330e33fd552</uuid>
+  <title>Паспортный контроль :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a multiple-entry visa</question>
+    <answer>многократная виза</answer>
+    <comment>[ə ˈmʌltəpəl ˈentriː ˈviːzə]</comment>
+    <question_comment>multiple - многократный, entry - вход, въезд, visa - виза</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c622d837-a578-4ee2-ae4c-06737358d0f8</uuid>
+    <examples>
+       <example>
+          <value>I have a multiple-entry visa for this year.</value>
+          <translation>У меня многократная виза на этот год.</translation>
+          <comment>to have - иметь, multiple - множественный, entry - вход, въезд, visa - виза, this - этот, эта, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a single-entry visa</question>
+    <answer>однократная виза</answer>
+    <comment>[ə ˈsɪŋgəl ˈentriː ˈviːzə]</comment>
+    <question_comment>single - единственный, entry - вход, въезд, visa - виза</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ef5118a-521b-4c2b-acb9-cee13feca7ab</uuid>
+    <examples>
+       <example>
+          <value>I have a single-entry visa for twelve days.</value>
+          <translation>У меня однократная виза на 12 дней.</translation>
+          <comment>to have - иметь, single - отдельный, единичный, entry - вход, въезд, visa - виза, twelve - двенадцать, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at a hotel</question>
+    <answer>в гостинице</answer>
+    <comment>[ət ə hoʊˈtel]</comment>
+    <question_comment>hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>07d57a51-2c48-4864-a34a-d4f970a5fd01</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay at a hotel.</value>
+          <translation>Я остановлюсь в гостинице.</translation>
+          <comment>to stay - оставаться, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>I need hotel accommodation in the center.</value>
+          <translation>Мне нужен номер в гостинице в центре.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, center - центр</comment>
+       </example>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+       <example>
+          <value>Where is the nearest hotel?</value>
+          <translation>Где ближайшая гостиница?</translation>
+          <comment>where - где, the nearest - ближайший, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a luggage office in the hotel?</value>
+          <translation>Есть ли в гостинице камера хранения?</translation>
+          <comment>there is - есть, имеется, luggage - багаж, office - офис, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a fitness-hall in the hotel?</value>
+          <translation>Есть ли в гостинице фитнес-зал?</translation>
+          <comment>there is - есть, имеется, fitness - фитнес, hall - зал, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in the hotel?</value>
+          <translation>Есть ли в гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a sauna in the hotel?</value>
+          <translation>Есть ли в гостинице сауна?</translation>
+          <comment>there is - есть, имеется, sauna - сауна, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many stops are there to the hotel?</value>
+          <translation>Сколько остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, stop - остановка, there are - есть, имеется, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>How many more stops to the hotel?</value>
+          <translation>Сколько еще остановок до гостиницы?</translation>
+          <comment>how - сколько, many - много, more - еще, больше, stop - остановка, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a doctor in the hotel?</value>
+          <translation>В гостинице есть врач?</translation>
+          <comment>there is - есть, имеется, doctor - врач, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a swimming pool in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бассейн?</translation>
+          <comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Is there a billiard room in our hotel?</value>
+          <translation>Есть ли в нашей гостинице бильярдная?</translation>
+          <comment>there is - есть, имеется, billiard - бильярд, room - комната, our - наш, наша, наше, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at my relatives&apos;</question>
+    <answer>у родственников</answer>
+    <comment>[ət mаɪ ˈrelətɪvz]</comment>
+    <question_comment>my - мой, моя, relative - родственник</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0c666ff1-5542-4b2e-bf10-e6be391e5af6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll stay at my relatives&apos;.</value>
+          <translation>Я остановлюсь у родственников.</translation>
+          <comment>to stay - оставаться, relative - родственник</comment>
+       </example>
+       <example>
+          <value>The relative who has invited me is my uncle.</value>
+          <translation>Родственник, который пригласил меня, это мой дядя.</translation>
+          <comment>relative - родственник, to invite - приглашать, me - мне, меня, uncle - дядя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for twelve days</question>
+    <answer>на 12 дней</answer>
+    <comment>[fər twelv ˈdeɪz]</comment>
+    <question_comment>twelve - двенадцать, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8420b526-d761-4f03-8232-3d6a7de231fe</uuid>
+    <examples>
+       <example>
+          <value>I have a single-entry visa for twelve days.</value>
+          <translation>У меня однократная виза на 12 дней.</translation>
+          <comment>to have - иметь, single - отдельный, единичный, entry - вход, въезд, visa - виза, twelve - двенадцать, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for a month</question>
+    <answer>в течение месяца</answer>
+    <comment>[fər ə mʌnθ]</comment>
+    <question_comment>month - месяц</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a04619a-2966-44c3-a257-f133b81c8ba1</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for a month.</value>
+          <translation>Я собираюсь пробыть в стране месяц.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, month - месяц</comment>
+       </example>
+       <example>
+          <value>It hasn&apos;t rained a drop for months.</value>
+          <translation>На протяжении нескольких месяцев не выпало ни капли.</translation>
+          <comment>to rain - идти (о дожде), drop - капля, for - в течение, month - месяц</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for a week</question>
+    <answer>в течение недели</answer>
+    <comment>[fər ə wiːk]</comment>
+    <question_comment>week - неделя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0dd67145-f940-4be3-b2d8-8414e109d35b</uuid>
+    <examples>
+       <example>
+          <value>I haven&apos;t seen you for weeks.</value>
+          <translation>Я не видел тебя уже несколько недель.</translation>
+          <comment>to see - видеть, you - тебя, вас, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a week.</value>
+          <translation>Я собираюсь пробыть в стране неделю.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a week.</value>
+          <translation>Я пробуду здесь неделю.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I have stayed here for a week.</value>
+          <translation>Я пробыл здесь неделю.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>Stay in bed for a week.</value>
+          <translation>Оставайтесь в постели неделю.</translation>
+          <comment>to stay - оставаться, bed - кровать, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>this week</value>
+          <translation>на этой неделе</translation>
+          <comment>this - этот, эта, это, week - неделя</comment>
+       </example>
+       <example>
+          <value>next week</value>
+          <translation>на следующей неделе</translation>
+          <comment>next - следующий, week - неделя</comment>
+       </example>
+       <example>
+          <value>last week</value>
+          <translation>на прошлой неделе</translation>
+          <comment>last - прошлый, week - неделя</comment>
+       </example>
+       <example>
+          <value>the week before last</value>
+          <translation>на позапрошлой неделе</translation>
+          <comment>week - неделя, before - до, перед, last - прошлый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for several days</question>
+    <answer>в течение нескольких дней</answer>
+    <comment>[fər ˈsevərəl ˈdeɪz]</comment>
+    <question_comment>several - несколько, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fdddb391-897f-4c61-8805-ded76bf35431</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for several days.</value>
+          <translation>Я собираюсь пробыть в стране несколько дней.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for this year</question>
+    <answer>на этот год</answer>
+    <comment>[fər ðɪs jɪr]</comment>
+    <question_comment>this - этот, тот, year - год</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>deed69d0-6f66-4d7a-bca8-ca0c4a020e53</uuid>
+    <examples>
+       <example>
+          <value>I have a multiple-entry visa for this year.</value>
+          <translation>У меня многократная виза на этот год.</translation>
+          <comment>to have - иметь, multiple - множественный, entry - вход, въезд, visa - виза, this - этот, эта, year - год</comment>
+       </example>
+       <example>
+          <value>That&apos;s the best film I&apos;ve seen this year.</value>
+          <translation>Это лучший фильм, который я видел в этом году.</translation>
+          <comment>that - то, это, best - лучший, film - фильм, to see - видеть, this - этот, эта, это, year - год</comment>
+       </example>
+       <example>
+          <value>What a severe winter we have this year!</value>
+          <translation>Какая холодная зима в этом году!</translation>
+          <comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</comment>
+       </example>
+       <example>
+          <value>this year</value>
+          <translation>в этом году</translation>
+          <comment>this - этот, эта, это, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>here are</question>
+    <answer>вот (мн. число)</answer>
+    <comment>[hɪr ɑːr]</comment>
+    <question_comment>here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>06f9001c-549b-4250-a227-eca665f942ee</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - здесь, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>Does anyone here speak English?</value>
+          <translation>Здесь кто-нибудь говорит по-английски?</translation>
+          <comment>anyone - кто-нибудь, here - здесь, to speak - говорить, English - по-английски</comment>
+       </example>
+       <example>
+          <value>What is written here?</value>
+          <translation>Что здесь написано?</translation>
+          <comment>what - что, written - написанный, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my wife&apos;s passport.</value>
+          <translation>Вот паспорт моей жены.</translation>
+          <comment>here - здесь, my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here are our passports.</value>
+          <translation>Вот наши паспорта.</translation>
+          <comment>here - здесь, our - наш, наши, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Sign here, please.</value>
+          <translation>Подпишите здесь.</translation>
+          <comment>to sign - подписывать, here - здесь</comment>
+       </example>
+       <example>
+          <value>Sign here and put the date, please.</value>
+          <translation>Подпишите тут и поставьте дату, пожалуйста.</translation>
+          <comment>to sign - подписывать, here - здесь, put - класть, ставить, date - дата</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my plastic card.</value>
+          <translation>Вот моя пластиковая карточка.</translation>
+          <comment>here - здесь, my - мой, моя, plastic - пластиковый, card - карта</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a day.</value>
+          <translation>Я пробуду здесь один день.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for some days.</value>
+          <translation>Я пробуду здесь несколько дней.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, some - некоторый, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a week.</value>
+          <translation>Я пробуду здесь неделю.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I have stayed here for three days.</value>
+          <translation>Я пробыл здесь три дня.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>I have stayed here for a week.</value>
+          <translation>Я пробыл здесь неделю.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>Our stay here was very pleasant.</value>
+          <translation>Здесь было очень приятно.</translation>
+          <comment>our - наш, наша, наше, stay - пребывание, here - здесь, was - был, была, было, very - очень, pleasant - полезный</comment>
+       </example>
+       <example>
+          <value>Please let me know when the taxi is here.</value>
+          <translation>Пожалуйста, предупредите меня, когда приедет такси.</translation>
+          <comment>let - позволять, me - мне, меня, to know - знать, when - когда, taxi - такси, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have a bite here?</value>
+          <translation>Где здесь можно перекусить?</translation>
+          <comment>where - где, can - мочь, to have - иметь, bite - кусок, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have dinner here?</value>
+          <translation>Где здесь можно пообедать?</translation>
+          <comment>where - где, can - мочь, to have - иметь, dinner - обед, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have supper here?</value>
+          <translation>Где здесь можно поужинать?</translation>
+          <comment>where - где, can - мочь, to have - иметь, supper - ужин, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the bathroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, bathroom - ванна, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my appilcation concerning the loss of baggage.</value>
+          <translation>Вот мое заявление о пропаже багажа.</translation>
+          <comment>here - здесь, appilcation - заявление, concerning - касающийся, loss - потеря, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>Here is my ticket.</value>
+          <translation>Вот мой билет.</translation>
+          <comment>here - здесь, my - мой, моя, мои, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Here is my reservation.</value>
+          <translation>Вот моя плацкарта.</translation>
+          <comment>here - здесь, reservation - бронь, резервирование</comment>
+       </example>
+       <example>
+          <value>How long does the train stop here?</value>
+          <translation>Сколько поезд стоит здесь?</translation>
+          <comment>how - как, long - долго, train - поезд, to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my driving licence.</value>
+          <translation>Вот мое водительское удостоверение.</translation>
+          <comment>here - здесь, my - мой, моя, мое, driving - водительский, licence - лицензия</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Sorry, may I park here?</value>
+          <translation>Простите, могу я здесь припарковаться?</translation>
+          <comment>sorry - прости(те), may - мочь, to park - припарковаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a detour here.</value>
+          <translation>Здесь объезд.</translation>
+          <comment>there is - есть, имеется, detour - объезд, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a turn here.</value>
+          <translation>Здесь поворот.</translation>
+          <comment>there is - есть, имеется, turn - поворот, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a dead end here.</value>
+          <translation>Здесь тупик.</translation>
+          <comment>there is - есть, имеется, dead - мертвый, end - конец, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my name and address.</value>
+          <translation>Вот мое имя и адрес.</translation>
+          <comment>here - здесь, name - имя, address - адрес</comment>
+       </example>
+       <example>
+          <value>Here is the towline.</value>
+          <translation>Вот мой трос.</translation>
+          <comment>here - здесь, towline - трос</comment>
+       </example>
+       <example>
+          <value>Here is my insurance policy.</value>
+          <translation>Вот мой страховой полис.</translation>
+          <comment>here - здесь, insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>Here are the contacts of the insurance company.</value>
+          <translation>Вот контакты страховой компании.</translation>
+          <comment>here - здесь, contact - контакт, insurance - страховка, страховой, company - компания</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Where is the telephone here?</value>
+          <translation>Где здесь телефон?</translation>
+          <comment>where - где, telephone - телефон, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the taxi stand here?</value>
+          <translation>Где здесь стоянка такси?</translation>
+          <comment>where - где, taxi - такси, stand - стоянка, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop the car here.</value>
+          <translation>Остановите машину.</translation>
+          <comment>to stop - остановить, car - машина, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop here, please.</value>
+          <translation>Остановите здесь, пожалуйста.</translation>
+          <comment>to stop - остановитьca, here - здесь</comment>
+       </example>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня, пожалуйста, здесь.</translation>
+          <comment>let - позволить, me - мне, меня, off - прочь, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here you are. Keep the change.</value>
+          <translation>Вот, пожалуйста. Сдачи не надо.</translation>
+          <comment>here - здесь, to keep - сохранить, держать, change - сдача</comment>
+       </example>
+       <example>
+          <value>I have a toothache here.</value>
+          <translation>У меня болит вот этот зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the restroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, restroom - туалет, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the smoking room here?</value>
+          <translation>Где здесь курительная комната?</translation>
+          <comment>where - где, smoking - курящий, курительный, room - комната, here - здесь</comment>
+       </example>
+       <example>
+          <value>I can&apos;t see much from here.</value>
+          <translation>Мне отсюда не видно.</translation>
+          <comment>to see - видеть, much - много, from - от, из, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the restroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, restroom - туалет, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is vegetarian pizza here?</value>
+          <translation>Где у вас здесь вегетарианская пицца?</translation>
+          <comment>where - где, vegetarian - вегетарианский, pizza - пицца, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is wholemeal bread here?</value>
+          <translation>Где у вас хлеб из муки грубого помола?</translation>
+          <comment>where - где, wholemeal - сделанный из непросеянной муки, bread - хлею, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the nearest drugstore here?</value>
+          <translation>Где здесь ближайшая аптека?</translation>
+          <comment>where - где, the nearest - ближайший, drugstore - аптека, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the chemist&apos;s shop open here?</value>
+          <translation>Скажите, пожалуйста, где здесь дежурная аптека?</translation>
+          <comment>where - где, chemist&apos;s shop - аптека, open - открытый, here - здесь</comment>
+       </example>
+       <example>
+          <value>Can I hire golf clubs here?</value>
+          <translation>Здесь можно взять напрокат клюшки для гольфа?</translation>
+          <comment>can - мочь, to hire - взять напрокат, golf - гольф, club - бита, here - здесь</comment>
+       </example>
+       <example>
+          <value>I am on business here.</value>
+          <translation>Я здесь по делу.</translation>
+          <comment>business - бизнес, here - здесь</comment>
+       </example>
+       <example>
+          <value>When does snow fall here?</value>
+          <translation>Когда здесь выпадает снег?</translation>
+          <comment>snow - снег, to fall - падать, here - здесь</comment>
+       </example>
+       <example>
+          <value>When does spring come here?</value>
+          <translation>Когда здесь наступает весна?</translation>
+          <comment>when - когда, spring - весна, to come - приходить, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my card.</value>
+          <translation>Вот моя визитная карточка.</translation>
+          <comment>here - здесь, my - мой, моя, мои, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>here is</question>
+    <answer>вот (ед. число)</answer>
+    <comment>[hɪr ɪz]</comment>
+    <question_comment>here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>384aef04-865e-4848-86b6-029b5360f067</uuid>
+    <examples>
+       <example>
+          <value>Here&apos;s my card.</value>
+          <translation>Вот моя визитка.</translation>
+          <comment>here - здесь, my - мой, моя, card - карточка</comment>
+       </example>
+       <example>
+          <value>Does anyone here speak English?</value>
+          <translation>Здесь кто-нибудь говорит по-английски?</translation>
+          <comment>anyone - кто-нибудь, here - здесь, to speak - говорить, English - по-английски</comment>
+       </example>
+       <example>
+          <value>What is written here?</value>
+          <translation>Что здесь написано?</translation>
+          <comment>what - что, written - написанный, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my wife&apos;s passport.</value>
+          <translation>Вот паспорт моей жены.</translation>
+          <comment>here - здесь, my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here are our passports.</value>
+          <translation>Вот наши паспорта.</translation>
+          <comment>here - здесь, our - наш, наши, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Sign here, please.</value>
+          <translation>Подпишите здесь.</translation>
+          <comment>to sign - подписывать, here - здесь</comment>
+       </example>
+       <example>
+          <value>Sign here and put the date, please.</value>
+          <translation>Подпишите тут и поставьте дату, пожалуйста.</translation>
+          <comment>to sign - подписывать, here - здесь, put - класть, ставить, date - дата</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my plastic card.</value>
+          <translation>Вот моя пластиковая карточка.</translation>
+          <comment>here - здесь, my - мой, моя, plastic - пластиковый, card - карта</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a day.</value>
+          <translation>Я пробуду здесь один день.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for some days.</value>
+          <translation>Я пробуду здесь несколько дней.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, some - некоторый, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a week.</value>
+          <translation>Я пробуду здесь неделю.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I have stayed here for three days.</value>
+          <translation>Я пробыл здесь три дня.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>I have stayed here for a week.</value>
+          <translation>Я пробыл здесь неделю.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>Our stay here was very pleasant.</value>
+          <translation>Здесь было очень приятно.</translation>
+          <comment>our - наш, наша, наше, stay - пребывание, here - здесь, was - был, была, было, very - очень, pleasant - полезный</comment>
+       </example>
+       <example>
+          <value>Please let me know when the taxi is here.</value>
+          <translation>Пожалуйста, предупредите меня, когда приедет такси.</translation>
+          <comment>let - позволять, me - мне, меня, to know - знать, when - когда, taxi - такси, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have a bite here?</value>
+          <translation>Где здесь можно перекусить?</translation>
+          <comment>where - где, can - мочь, to have - иметь, bite - кусок, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have dinner here?</value>
+          <translation>Где здесь можно пообедать?</translation>
+          <comment>where - где, can - мочь, to have - иметь, dinner - обед, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where can I have supper here?</value>
+          <translation>Где здесь можно поужинать?</translation>
+          <comment>where - где, can - мочь, to have - иметь, supper - ужин, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the bathroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, bathroom - ванна, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my appilcation concerning the loss of baggage.</value>
+          <translation>Вот мое заявление о пропаже багажа.</translation>
+          <comment>here - здесь, appilcation - заявление, concerning - касающийся, loss - потеря, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>Here is my ticket.</value>
+          <translation>Вот мой билет.</translation>
+          <comment>here - здесь, my - мой, моя, мои, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Here is my reservation.</value>
+          <translation>Вот моя плацкарта.</translation>
+          <comment>here - здесь, reservation - бронь, резервирование</comment>
+       </example>
+       <example>
+          <value>How long does the train stop here?</value>
+          <translation>Сколько поезд стоит здесь?</translation>
+          <comment>how - как, long - долго, train - поезд, to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my driving licence.</value>
+          <translation>Вот мое водительское удостоверение.</translation>
+          <comment>here - здесь, my - мой, моя, мое, driving - водительский, licence - лицензия</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Sorry, may I park here?</value>
+          <translation>Простите, могу я здесь припарковаться?</translation>
+          <comment>sorry - прости(те), may - мочь, to park - припарковаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a detour here.</value>
+          <translation>Здесь объезд.</translation>
+          <comment>there is - есть, имеется, detour - объезд, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a turn here.</value>
+          <translation>Здесь поворот.</translation>
+          <comment>there is - есть, имеется, turn - поворот, here - здесь</comment>
+       </example>
+       <example>
+          <value>There is a dead end here.</value>
+          <translation>Здесь тупик.</translation>
+          <comment>there is - есть, имеется, dead - мертвый, end - конец, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my name and address.</value>
+          <translation>Вот мое имя и адрес.</translation>
+          <comment>here - здесь, name - имя, address - адрес</comment>
+       </example>
+       <example>
+          <value>Here is the towline.</value>
+          <translation>Вот мой трос.</translation>
+          <comment>here - здесь, towline - трос</comment>
+       </example>
+       <example>
+          <value>Here is my insurance policy.</value>
+          <translation>Вот мой страховой полис.</translation>
+          <comment>here - здесь, insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>Here are the contacts of the insurance company.</value>
+          <translation>Вот контакты страховой компании.</translation>
+          <comment>here - здесь, contact - контакт, insurance - страховка, страховой, company - компания</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Where is the telephone here?</value>
+          <translation>Где здесь телефон?</translation>
+          <comment>where - где, telephone - телефон, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the taxi stand here?</value>
+          <translation>Где здесь стоянка такси?</translation>
+          <comment>where - где, taxi - такси, stand - стоянка, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop the car here.</value>
+          <translation>Остановите машину.</translation>
+          <comment>to stop - остановить, car - машина, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop here, please.</value>
+          <translation>Остановите здесь, пожалуйста.</translation>
+          <comment>to stop - остановитьca, here - здесь</comment>
+       </example>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня, пожалуйста, здесь.</translation>
+          <comment>let - позволить, me - мне, меня, off - прочь, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here you are. Keep the change.</value>
+          <translation>Вот, пожалуйста. Сдачи не надо.</translation>
+          <comment>here - здесь, to keep - сохранить, держать, change - сдача</comment>
+       </example>
+       <example>
+          <value>I have a toothache here.</value>
+          <translation>У меня болит вот этот зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the restroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, restroom - туалет, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the smoking room here?</value>
+          <translation>Где здесь курительная комната?</translation>
+          <comment>where - где, smoking - курящий, курительный, room - комната, here - здесь</comment>
+       </example>
+       <example>
+          <value>I can&apos;t see much from here.</value>
+          <translation>Мне отсюда не видно.</translation>
+          <comment>to see - видеть, much - много, from - от, из, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the restroom here?</value>
+          <translation>Где здесь туалет?</translation>
+          <comment>where - где, restroom - туалет, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is vegetarian pizza here?</value>
+          <translation>Где у вас здесь вегетарианская пицца?</translation>
+          <comment>where - где, vegetarian - вегетарианский, pizza - пицца, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is wholemeal bread here?</value>
+          <translation>Где у вас хлеб из муки грубого помола?</translation>
+          <comment>where - где, wholemeal - сделанный из непросеянной муки, bread - хлею, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the nearest drugstore here?</value>
+          <translation>Где здесь ближайшая аптека?</translation>
+          <comment>where - где, the nearest - ближайший, drugstore - аптека, here - здесь</comment>
+       </example>
+       <example>
+          <value>Where is the chemist&apos;s shop open here?</value>
+          <translation>Скажите, пожалуйста, где здесь дежурная аптека?</translation>
+          <comment>where - где, chemist&apos;s shop - аптека, open - открытый, here - здесь</comment>
+       </example>
+       <example>
+          <value>Can I hire golf clubs here?</value>
+          <translation>Здесь можно взять напрокат клюшки для гольфа?</translation>
+          <comment>can - мочь, to hire - взять напрокат, golf - гольф, club - бита, here - здесь</comment>
+       </example>
+       <example>
+          <value>I am on business here.</value>
+          <translation>Я здесь по делу.</translation>
+          <comment>business - бизнес, here - здесь</comment>
+       </example>
+       <example>
+          <value>When does snow fall here?</value>
+          <translation>Когда здесь выпадает снег?</translation>
+          <comment>snow - снег, to fall - падать, here - здесь</comment>
+       </example>
+       <example>
+          <value>When does spring come here?</value>
+          <translation>Когда здесь наступает весна?</translation>
+          <comment>when - когда, spring - весна, to come - приходить, here - здесь</comment>
+       </example>
+       <example>
+          <value>Here is my card.</value>
+          <translation>Вот моя визитная карточка.</translation>
+          <comment>here - здесь, my - мой, моя, мои, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>how long</question>
+    <answer>как долго</answer>
+    <comment>[hаʊ lɔːŋ]</comment>
+    <question_comment>how - как, long - долгий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>862374e6-c7aa-4a0b-90b5-a69d5ae2015a</uuid>
+    <examples>
+       <example>
+          <value>How long have you been learning English?</value>
+          <translation>Как долго вы учите английский?</translation>
+          <comment>how - как, long - долго, to learn - учить, English - английский</comment>
+       </example>
+       <example>
+          <value>How long do you intend to stay?</value>
+          <translation>Как долго вы предполагаете здесь находиться?</translation>
+          <comment>how - како, long - долго, to intend - намереваться, to stay - пребывать, оставаться</comment>
+       </example>
+       <example>
+          <value>How long will you be staying?</value>
+          <translation>Как долго вы здесь пробудете?</translation>
+          <comment>how - как, long - долго, to be staying - остановиться, находиться</comment>
+       </example>
+       <example>
+          <value>How long should we wait for the hot dish?</value>
+          <translation>Как долго нам придется ждать горячее?</translation>
+          <comment>how - как, long - долго, should - должен, должны, to wait - ждать, hot - горячий, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>How long is the flight to Moscow?</value>
+          <translation>Сколько времени длится полет до Москвы?</translation>
+          <comment>how - как, long - долго, flight - полет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How long is the flight?</value>
+          <translation>Сколько времени длится полет?</translation>
+          <comment>how - как, long - долго, flight - полет</comment>
+       </example>
+       <example>
+          <value>How long does it take to get to Moscow?</value>
+          <translation>Сколько времени требуется, чтобы доехать до Москвы?</translation>
+          <comment>how - как, long - долго, to take - брать, to get - добираться, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How long is the trip?</value>
+          <translation>Сколько длится поездка?</translation>
+          <comment>how - как, long - долго, trip - поездка</comment>
+       </example>
+       <example>
+          <value>How long does the train stay at this station?</value>
+          <translation>Как долго поезд стоит на этой станции?</translation>
+          <comment>how - как, long - долго, train - поезд, to stay - останавливаться, this - этот, эта, это, station - станция</comment>
+       </example>
+       <example>
+          <value>How long does the train stop here?</value>
+          <translation>Сколько поезд стоит здесь?</translation>
+          <comment>how - как, long - долго, train - поезд, to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>How long will it take?</value>
+          <translation>Сколько времени это займет?</translation>
+          <comment>how - как, long - долго, to take - взять, брать, занимать</comment>
+       </example>
+       <example>
+          <value>How long will the repair take?</value>
+          <translation>Сколько времени нужно на ремонт?</translation>
+          <comment>how - как, long - долго, repair - ремонт, to take - брать, взять</comment>
+       </example>
+       <example>
+          <value>How long will a telegram to London take?</value>
+          <translation>Сколько идет телеграмма до Лондона?</translation>
+          <comment>how - как, long - долго, telegram - телеграмма, London - Лондон, to take - взять, брать</comment>
+       </example>
+       <example>
+          <value>How long will it take to go to the stadium?</value>
+          <translation>Сколько ехать до стадиона?</translation>
+          <comment>how - как, long - долго, to take - брать, занимать, to go - ехать, stadium - стадион</comment>
+       </example>
+       <example>
+          <value>How long will I have to wait?</value>
+          <translation>Сколько мне придется ждать?</translation>
+          <comment>how - как, long - долго, to have to - быть должным, to wait - ждать</comment>
+       </example>
+       <example>
+          <value>How long is the intermission?</value>
+          <translation>Сколько продлится антракт?</translation>
+          <comment>how - как, long - долго, intermission - антракт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my passport</question>
+    <answer>мой паспорт</answer>
+    <comment>[mаɪ ˈpæspɔːrt]</comment>
+    <question_comment>my - мой, моя, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>19a72192-a878-42e1-b0c4-d78fa0d5cbc2</uuid>
+    <examples>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my wife&apos;s passport.</value>
+          <translation>Вот паспорт моей жены.</translation>
+          <comment>here - здесь, my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>The child is entered in my passport.</value>
+          <translation>Ребенок вписан в мой паспорт.</translation>
+          <comment>child - ребенок, entered - внесенный, записанный, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>The child is entered in my wife&apos;s passport.</value>
+          <translation>Ребенок вписан в паспорт моей жены.</translation>
+          <comment>child - ребенок, entered - внесенный, записанный, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, мое, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>My passport has been stolen.</value>
+          <translation>Мой паспорт украден.</translation>
+          <comment>my - мой, моя, мое, passport - паспорт, stolen - украденный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my uncle</question>
+    <answer>мой дядя</answer>
+    <comment>[mаɪ ˈʌŋkəl]</comment>
+    <question_comment>my - мой, моя, uncle - дядя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1679f016-c6e2-4cff-9663-627e1a774cc2</uuid>
+    <examples>
+       <example>
+          <value>The relative who has invited me is my uncle.</value>
+          <translation>Родственник, который пригласил меня, это мой дядя.</translation>
+          <comment>relative - родственник, to invite - приглашать, me - мне, меня, uncle - дядя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my visit</question>
+    <answer>мой визит</answer>
+    <comment>[mаɪ ˈvɪzɪt]</comment>
+    <question_comment>my - мой, моя, visit - визит</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f204789-e587-40d4-8d34-575afb425e94</uuid>
+    <examples>
+       <example>
+          <value>The purpose of my visit is tourism.</value>
+          <translation>Цель моей поездки - туризм.</translation>
+          <comment>purpose - цель, my - мой, моя, visit - визит, посещение, tourism - туризм</comment>
+       </example>
+       <example>
+          <value>The purpose of my visit is business.</value>
+          <translation>Цель моей поездки - бизнес.</translation>
+          <comment>purpose - цель, my - мой, моя, visit - визит, посещение, business - бизнес</comment>
+       </example>
+       <example>
+          <value>The purpose of my visit is personal.</value>
+          <translation>Цель моей поездки - личная.</translation>
+          <comment>purpose - цель, my - мой, моя, visit - визит, посещение, personal - личный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my wife&apos;s passport</question>
+    <answer>паспорт моей жены</answer>
+    <comment>[mаɪ wаɪfs ˈpæspɔːrt]</comment>
+    <question_comment>my - мой, моя, wife - жена, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>418a7e84-d2ea-4089-9cc4-1d79d3e42198</uuid>
+    <examples>
+       <example>
+          <value>Here is my wife&apos;s passport.</value>
+          <translation>Вот паспорт моей жены.</translation>
+          <comment>here - здесь, my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>The child is entered in my wife&apos;s passport.</value>
+          <translation>Ребенок вписан в паспорт моей жены.</translation>
+          <comment>child - ребенок, entered - внесенный, записанный, wife - жена, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>our passports</question>
+    <answer>наши паспорта</answer>
+    <comment>[аʊr ˈpæspɔːrts]</comment>
+    <question_comment>our - наш, наша, наши, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>434772ae-f32b-48d6-be78-16bff8682129</uuid>
+    <examples>
+       <example>
+          <value>Here are our passports.</value>
+          <translation>Вот наши паспорта.</translation>
+          <comment>here - здесь, our - наш, наши, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>passport control</question>
+    <answer>паспортный контроль</answer>
+    <comment>[ˈpæspɔːrt kənˈtroʊl]</comment>
+    <question_comment>passport - паспорт, control - контроль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>99298717-2f69-444d-83d1-1b5043f5f756</uuid>
+    <examples>
+       <example>
+          <value>Where is the passport control?</value>
+          <translation>Где паспортный контроль?</translation>
+          <comment>where - где, passport - паспорт, control - контроль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the purpose of your visit</question>
+    <answer>цель вашего визита</answer>
+    <comment>[ðə ˈpɜːrpəs əv jər ˈvɪzɪt]</comment>
+    <question_comment>purpose - цель, your - твой, ваш, visit - посещение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>39835535-1076-453e-abab-56ce161adca4</uuid>
+    <examples>
+       <example>
+          <value>What is the purpose of your visit?</value>
+          <translation>Какова цель вашего прибытия?</translation>
+          <comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение</comment>
+       </example>
+       <example>
+          <value>What is the purpose of your visit to this country?</value>
+          <translation>Какова цель вашего прибытия в страну?</translation>
+          <comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение, this - этот, эта, country - страна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this country</question>
+    <answer>эта страна</answer>
+    <comment>[ðɪs ˈkʌntriː]</comment>
+    <question_comment>this - этот, эта, country - страна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b89544d0-f981-4d64-b250-9e0743c59ac5</uuid>
+    <examples>
+       <example>
+          <value>What is the purpose of your visit to this country?</value>
+          <translation>Какова цель вашего прибытия в страну?</translation>
+          <comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение, this - этот, эта, country - страна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be entered in my passport</question>
+    <answer>быть внесенным в мой паспорт</answer>
+    <comment>[tə biː ˈentərd ɪn mаɪ ˈpæspɔːrt]</comment>
+    <question_comment>entered - внесенный (в список), to enter - вносить, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a94f5da3-774e-40e2-b380-50248c8ea05d</uuid>
+    <examples>
+       <example>
+          <value>The child is entered in my passport.</value>
+          <translation>Ребенок вписан в мой паспорт.</translation>
+          <comment>child - ребенок, entered - внесенный, записанный, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>The child is entered in my wife&apos;s passport.</value>
+          <translation>Ребенок вписан в паспорт моей жены.</translation>
+          <comment>child - ребенок, entered - внесенный, записанный, wife - жена, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be going to stay</question>
+    <answer>собиряться остаться</answer>
+    <comment>[tə biː ˈgoʊɪŋ tə steɪ]</comment>
+    <question_comment>to be going to - собираться сделать (что-либо), stay - оставаться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7f8e31ab-178f-4f2d-b02d-aa5498fabe77</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for several days.</value>
+          <translation>Я собираюсь пробыть в стране несколько дней.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a week.</value>
+          <translation>Я собираюсь пробыть в стране неделю.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a month.</value>
+          <translation>Я собираюсь пробыть в стране месяц.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, month - месяц</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m just passing.</question>
+    <answer>Я (здесь) только проездом.</answer>
+    <comment>[аɪm ʤʌst ˈpæsɪŋ]</comment>
+    <question_comment>just - только, to pass - проезжать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa5528cd-fa45-4cf1-b637-bc1d2f9477b6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m just passing your country.</value>
+          <translation>Я в вашей стране только проездом.</translation>
+          <comment>just - только, просто, passing - проезжающий, your - твой, ваш, country - страна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a visa</question>
+    <answer>иметь визу</answer>
+    <comment>[tə hæv ə ˈviːzə]</comment>
+    <question_comment>to have - иметь, visa - виза</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bed4f050-564e-401e-a043-9a39f49c2cae</uuid>
+    <examples>
+       <example>
+          <value>I have a single-entry visa for twelve days.</value>
+          <translation>У меня однократная виза на 12 дней.</translation>
+          <comment>to have - иметь, single - отдельный, единичный, entry - вход, въезд, visa - виза, twelve - двенадцать, day - день</comment>
+       </example>
+       <example>
+          <value>I have a multiple-entry visa for this year.</value>
+          <translation>У меня многократная виза на этот год.</translation>
+          <comment>to have - иметь, multiple - множественный, entry - вход, въезд, visa - виза, this - этот, эта, year - год</comment>
+       </example>
+       <example>
+          <value>I have a visa up to the second of April.</value>
+          <translation>У меня виза до второго апреля.</translation>
+          <comment>to have - иметь, visa - виза, the second - второй, April - апрель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Pass along, please.</question>
+    <answer>Проходите, пожалуйста.</answer>
+    <comment>[pæs əˈlɔːŋ pliːz]</comment>
+    <question_comment>to pass along - проходить, along - вперед</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>062ebd1c-5a22-405c-9e63-7dec88e7e817</uuid>
+    <examples>
+       <example>
+          <value>Pass along, please.</value>
+          <translation>Проходите, пожалуйста.</translation>
+          <comment>to pass - проходить, along - дальше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>You may pass on.</question>
+    <answer>Вы можете проходить.</answer>
+    <comment>[jʊ meɪ pæs ɑːn]</comment>
+    <question_comment>may - мочь, to pass on - идти дальше, проходить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb068754-bab0-43d2-869f-b372849e43b2</uuid>
+    <examples>
+       <example>
+          <value>That&apos;s all right! You may pass on.</value>
+          <translation>Все в порядке! Вы можете проходить.</translation>
+          <comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to show your passport</question>
+    <answer>показать ваш паспорт</answer>
+    <comment>[tə ʃoʊ jər ˈpæspɔːrt]</comment>
+    <question_comment>to show - показывать, your - твой, ваш, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5dcf4598-5349-4fbb-a4f5-5fc25069353b</uuid>
+    <examples>
+       <example>
+          <value>Show me your passport, please.</value>
+          <translation>Покажите, пожалуйста, ваш паспорт.</translation>
+          <comment>to show - показывать, me - мне, меня, your - твой, ваш, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay in the country</question>
+    <answer>находиться в стране</answer>
+    <comment>[tə steɪ ɪn ðə ˈkʌntriː]</comment>
+    <question_comment>to stay - находиться, пребывать, country - страна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d9b991a4-320a-4d67-83e3-d47edc55ec96</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for several days.</value>
+          <translation>Я собираюсь пробыть в стране несколько дней.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a week.</value>
+          <translation>Я собираюсь пробыть в стране неделю.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a month.</value>
+          <translation>Я собираюсь пробыть в стране месяц.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, month - месяц</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the second of April</question>
+    <answer>второе апреля</answer>
+    <comment>[ðə ˈsekənd əv ˈeɪprəl]</comment>
+    <question_comment>the second - второй, April - апрель</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fad6dc31-be84-4bc5-91d3-9e54390673ae</uuid>
+    <examples>
+       <example>
+          <value>I have a visa up to the second of April.</value>
+          <translation>У меня виза до второго апреля.</translation>
+          <comment>to have - иметь, visa - виза, the second - второй, April - апрель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to visit your country</question>
+    <answer>посетить вашу страну</answer>
+    <comment>[tə ˈvɪzɪt jər ˈkʌntriː]</comment>
+    <question_comment>to visit - посещать, country - страна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e96aecde-dafe-4667-89fe-0a8914624249</uuid>
+    <examples>
+       <example>
+          <value>What is the purpose of your visit to this country?</value>
+          <translation>Какова цель вашего прибытия в страну?</translation>
+          <comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение, this - этот, эта, country - страна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Your passport, please.</question>
+    <answer>ваш паспорт</answer>
+    <comment>[jər ˈpæspɔːrt pliːz]</comment>
+    <question_comment>your - твой, ваш, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>480b8214-aa3a-43c8-86f1-1b4d02f12aff</uuid>
+    <examples>
+       <example>
+          <value>Your passport, please.</value>
+          <translation>Пожалуйста, ваш паспорт.</translation>
+          <comment>your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Show me your passport, please.</value>
+          <translation>Покажите, пожалуйста, ваш паспорт.</translation>
+          <comment>to show - показывать, me - мне, меня, your - твой, ваш, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your first visit</question>
+    <answer>ваш первый визит</answer>
+    <comment>[jər fɜːrst ˈvɪzɪt]</comment>
+    <question_comment>your - твой, ваш, first - первый, visit - посещение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>59acd1ce-5e91-42dd-b068-aa7d042a3332</uuid>
+  </card>
+</cards>
+</stack>

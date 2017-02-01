@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c795f645-00c3-4741-919a-667cb271c3b2</uuid>
+  <title>Цвета</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>crimson</question>
+    <answer>малиновый</answer>
+    <comment>[ˈkrɪmzn]</comment>
+    <answer_picture>crimson.gif</answer_picture>
+    <uuid>a337c10d-b85c-4cc9-bc34-1f66417bfaf3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>grey</question>
+    <answer>серый</answer>
+    <comment>[greɪ]</comment>
+    <answer_picture>grey.gif</answer_picture>
+    <uuid>49212f54-9c9a-4b32-9752-2ded941ad783</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>maroon</question>
+    <answer>красно-коричневый</answer>
+    <comment>[məˈruːn]</comment>
+    <answer_picture>maroon.gif</answer_picture>
+    <uuid>8b8eb34b-3196-4d43-849b-76ee8f37bec4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>black</question>
+    <answer>чёрный</answer>
+    <comment>[blæk]</comment>
+    <answer_picture>black.gif</answer_picture>
+    <uuid>b841dd82-c931-41bd-b078-33d127f6571e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>brown</question>
+    <answer>коричневый</answer>
+    <comment>[brаʊn]</comment>
+    <answer_picture>brown.gif</answer_picture>
+    <uuid>f155ad38-5082-4394-9d92-0ec6c1ceb54e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>green</question>
+    <answer>зелёный</answer>
+    <comment>[griːn]</comment>
+    <answer_picture>green.gif</answer_picture>
+    <uuid>e0e1fbf5-4b5a-4641-9dd3-487fd75ae089</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>light blue</question>
+    <answer>голубой</answer>
+    <comment>[lаɪt bluː]</comment>
+    <answer_picture>light_blue.gif</answer_picture>
+    <uuid>7a186ea3-beda-4e41-8dd3-a8a1dab6edef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>beige</question>
+    <answer>бежевый</answer>
+    <comment>[beɪʒ]</comment>
+    <answer_picture>beige.gif</answer_picture>
+    <uuid>82860b74-d573-4b1b-9682-abd2ef1865ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>blue</question>
+    <answer>синий, голубой</answer>
+    <comment>[bluː]</comment>
+    <answer_picture>blue.gif</answer_picture>
+    <uuid>60237e17-c9bc-450a-b87f-f257548ae0e9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>checkered</question>
+    <answer>клетчатый, в клеточку</answer>
+    <comment>[ˈʧekəd]</comment>
+    <answer_picture>checkered.gif</answer_picture>
+    <uuid>91bdb702-6017-4c22-9213-b49bd99083fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>monitor</question>
+    <answer>монитор</answer>
+    <comment>[ˈmɒnɪtə]</comment>
+    <answer_picture>monitor.gif</answer_picture>
+    <uuid>af5118a6-80a7-4996-b5a3-088edfee3d95</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>orange</question>
+    <answer>оранжевый</answer>
+    <comment>[ˈɒrɪnʤ]</comment>
+    <answer_picture>orange.gif</answer_picture>
+    <uuid>0734ef30-c58c-454f-9ac5-72ef09e613b7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>picture</question>
+    <answer>картина</answer>
+    <comment>[ˈpɪkʧə]</comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>2468bee0-6366-43e8-98a5-7636ea75973f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>pink</question>
+    <answer>розовый</answer>
+    <comment>[pɪŋk]</comment>
+    <answer_picture>pink.gif</answer_picture>
+    <uuid>3efb2aef-839f-4bc7-9bec-399ec419feb9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>printer</question>
+    <answer>принтер</answer>
+    <comment>[ˈprɪntə]</comment>
+    <answer_picture>printer.gif</answer_picture>
+    <uuid>7edbe0aa-c305-41a1-ad3a-4c0e0d2006c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>purple</question>
+    <answer>фиолетовый</answer>
+    <comment>[ˈpɜːpl]</comment>
+    <answer_picture>purple.gif</answer_picture>
+    <uuid>69bfd81c-7778-4fb9-8357-15b2723791ab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rainbow</question>
+    <answer>радуга</answer>
+    <comment>[ˈreɪnbəʊ]</comment>
+    <answer_picture>rainbow.gif</answer_picture>
+    <uuid>d112d365-20dd-4396-a137-220dcf2a2143</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>red</question>
+    <answer>красный</answer>
+    <comment>[red]</comment>
+    <answer_picture>red.gif</answer_picture>
+    <uuid>d2719f37-2831-4d54-ba8a-aa5d007920e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>spotted</question>
+    <answer>пятнистый, крапчатый</answer>
+    <comment>[ˈspɒtɪd]</comment>
+    <answer_picture>spotted.gif</answer_picture>
+    <uuid>2b7e985f-6dcd-4699-93e4-f8a4dcbe3fab</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>stamp</question>
+    <answer>марка</answer>
+    <comment>[stæmp]</comment>
+    <answer_picture>stamp.gif</answer_picture>
+    <uuid>6621fc26-9e80-4325-8af0-a49199419912</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>striped</question>
+    <answer>полосатый</answer>
+    <comment>[strаɪpt]</comment>
+    <answer_picture>striped.gif</answer_picture>
+    <uuid>52f32f40-0348-4630-b6bb-b6f86bcdf9c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>white</question>
+    <answer>белый</answer>
+    <comment>[wаɪt]</comment>
+    <answer_picture>white.gif</answer_picture>
+    <uuid>273022b1-313a-4cab-909d-b805e185e2c7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>yellow</question>
+    <answer>жёлтый</answer>
+    <comment>[ˈjeləʊ]</comment>
+    <answer_picture>yellow.gif</answer_picture>
+    <uuid>ce0e1970-a1b9-436d-8fad-db6d2f7f2ea3</uuid>
+  </card>
+</cards>
+</stack>

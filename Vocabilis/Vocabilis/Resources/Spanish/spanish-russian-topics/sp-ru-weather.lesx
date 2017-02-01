@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>54bb57f6-4220-4ffd-8922-f14c250974fb</uuid>
+  <title>Погода</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>la nube</question>
+    <answer>облако</answer>
+    <comment></comment>
+    <uuid>3a2251f8-d937-41cb-a98b-d03639dc7ee2</uuid>
+  </card>
+  <card>
+    <question>nublado</question>
+    <answer>облачный</answer>
+    <comment></comment>
+    <uuid>e0b0bf96-2539-4e9a-ab0c-87bd6331a63a</uuid>
+  </card>
+  <card>
+    <question>frío</question>
+    <answer>холодный</answer>
+    <comment></comment>
+    <uuid>151fe7cd-abde-480d-9323-1e688f480464</uuid>
+  </card>
+  <card>
+    <question>la sequía</question>
+    <answer>засуха</answer>
+    <comment></comment>
+    <uuid>b520d4c9-0d71-4522-9149-b18389d69b1f</uuid>
+  </card>
+  <card>
+    <question>seco</question>
+    <answer>сухой</answer>
+    <comment></comment>
+    <uuid>f3d5af65-c117-4573-ad60-82ca370ef232</uuid>
+  </card>
+  <card>
+    <question>la inundación</question>
+    <answer>наводнение</answer>
+    <comment></comment>
+    <uuid>e1e2ef84-807c-4259-bd23-911855d54655</uuid>
+  </card>
+  <card>
+    <question>la niebla</question>
+    <answer>туман</answer>
+    <comment></comment>
+    <uuid>872c489e-105c-4d44-b693-2c2e157d5b1a</uuid>
+  </card>
+  <card>
+    <question>el granizo</question>
+    <answer>град</answer>
+    <comment></comment>
+    <uuid>8247b76c-f8bb-442f-ae30-12c8925d6ac2</uuid>
+  </card>
+  <card>
+    <question>caliente</question>
+    <answer>горячий, жаркий</answer>
+    <comment></comment>
+    <uuid>48cc909c-1759-47a1-abc7-cb4f243db561</uuid>
+  </card>
+  <card>
+    <question>el carámbano</question>
+    <answer>сосулька</answer>
+    <comment></comment>
+    <uuid>299b27b6-11bf-468c-bab0-968f9e94caf4</uuid>
+  </card>
+  <card>
+    <question>el relámpago</question>
+    <answer>молния</answer>
+    <comment></comment>
+    <uuid>873920bb-078b-44a0-9c30-6a9f7bea1866</uuid>
+  </card>
+  <card>
+    <question>la sombrilla</question>
+    <answer>зонт от солнца</answer>
+    <comment></comment>
+    <uuid>54ee70f9-3a76-4bd9-9b1e-6e370fe30fc6</uuid>
+  </card>
+  <card>
+    <question>el charco</question>
+    <answer>лужа</answer>
+    <comment></comment>
+    <uuid>78d24d42-c0f6-4d71-86d3-c5beeed53c6a</uuid>
+  </card>
+  <card>
+    <question>la lluvia</question>
+    <answer>дождь</answer>
+    <comment></comment>
+    <uuid>f5310716-e208-4cf5-85f5-de0c96ef031d</uuid>
+  </card>
+  <card>
+    <question>el arco iris</question>
+    <answer>радуга</answer>
+    <comment></comment>
+    <uuid>dd1f368b-c637-43e3-b994-fe7d8a636886</uuid>
+  </card>
+  <card>
+    <question>la nieve</question>
+    <answer>снег</answer>
+    <comment></comment>
+    <uuid>485be1c5-4a36-4840-896d-46342cb71c02</uuid>
+  </card>
+  <card>
+    <question>la tormenta</question>
+    <answer>гроза</answer>
+    <comment></comment>
+    <uuid>7f1eb85d-3ac3-4a61-8940-8e67dd8cf1af</uuid>
+  </card>
+  <card>
+    <question>la luz del sol</question>
+    <answer>солнечный свет</answer>
+    <comment></comment>
+    <uuid>bb1c8ef2-c0c5-42ce-8cb7-863dc491f842</uuid>
+  </card>
+  <card>
+    <question>la salida del sol</question>
+    <answer>восход солнца</answer>
+    <comment></comment>
+    <uuid>7ddf7961-9b1b-4b8b-b876-e9e373f4d76b</uuid>
+  </card>
+  <card>
+    <question>el paraguas</question>
+    <answer>зонт</answer>
+    <comment></comment>
+    <uuid>42575aaf-7c0b-4c8d-94fe-35b6cbaf317c</uuid>
+  </card>
+  <card>
+    <question>húmedo</question>
+    <answer>мокрый</answer>
+    <comment></comment>
+    <uuid>96dcd4cb-91d9-49b9-8a0a-435892d68ecc</uuid>
+  </card>
+  <card>
+    <question>el viento</question>
+    <answer>ветер</answer>
+    <comment></comment>
+    <uuid>e12a04f6-d449-401c-aab0-c9ee8549b616</uuid>
+  </card>
+</cards>
+</stack>

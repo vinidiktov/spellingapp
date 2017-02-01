@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7555c930-88b3-4623-b226-d4857bff7eb1</uuid>
+  <title>Такси :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>at the next corner</question>
+    <answer>возле следующего угла</answer>
+    <comment>[ət ðə nekst ˈkɔːrnər]</comment>
+    <question_comment>next - следующий, corner - угол</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f85b7b7-8abf-4d10-9425-08d36eee4c44</uuid>
+    <examples>
+       <example>
+          <value>Turn left at the next corner.</value>
+          <translation>Поверните налево за угол.</translation>
+          <comment>to turn - поворачивать, left - левый, налево, next - следующий, corner - угол</comment>
+       </example>
+       <example>
+          <value>Turn right at the next corner.</value>
+          <translation>Поверните направо за угол.</translation>
+          <comment>to turn - поворачивать, right - правый, направо, next - следующий, corner - угол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in a couple of minutes</question>
+    <answer>через пару минут</answer>
+    <comment>[ɪn ə ˈkʌpəl əv ˈmɪnɪts]</comment>
+    <question_comment>couple - пара, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7e0cb079-dc5a-4edd-8cca-49cfc2182696</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ll be back in a couple of minutes.</value>
+          <translation>Я вернусь через пару минут.</translation>
+          <comment>to be - быть, back - обратно, couple - пара, minute - минут</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the fare to the airport</question>
+    <answer>стоимость поездки до аэропорта</answer>
+    <comment>[ðə fer tə ðə ˈerˌpɔːrt]</comment>
+    <question_comment>fare - плата, airport - аэропорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5f1e6e20-2ffc-4fa0-97ca-ac04c6aa7060</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the fare to the airport?</value>
+          <translation>Сколько стоит доехать до аэропорта?</translation>
+          <comment>what - что, какой, fare - плата, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a taxi stand</question>
+    <answer>стоянка такси</answer>
+    <comment>[ə ˈtæksiː stænd]</comment>
+    <question_comment>taxi - такси, stand - стоянка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>24847ed4-3798-4029-a0ed-bc0e8e62f4ed</uuid>
+    <examples>
+       <example>
+          <value>Where is the taxi stand here?</value>
+          <translation>Где здесь стоянка такси?</translation>
+          <comment>where - где, taxi - такси, stand - стоянка, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>through the city center</question>
+    <answer>по центру города</answer>
+    <comment>[θruː ðə ˈsɪtiː ˈsentər]</comment>
+    <question_comment>through - через, сквозь, по, city - город, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f3be2d83-52e0-4480-a804-7c15fe5bad14</uuid>
+    <examples>
+       <example>
+          <value>I want to have a ride through the city center.</value>
+          <translation>Я хочу проехаться по центру города.</translation>
+          <comment>to want - хотеть, to have - иметь, ride - поездка, through - через, сквозь, city - город, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll be back soon.</question>
+    <answer>Я скоро вернусь.</answer>
+    <comment>[аɪl biː bæk suːn]</comment>
+    <question_comment>back - обратно, soon - скоро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a6d917c7-3994-467a-a9c8-a5fa0f57cc45</uuid>
+    <examples>
+       <example>
+          <value>Come back soon.</value>
+          <translation>Возвращайтесь быстрее.</translation>
+          <comment>to come - приходить, back - обратно, soon - скоро</comment>
+       </example>
+       <example>
+          <value>I&apos;ll get back to you soon.</value>
+          <translation>Я вскоре перезвоню вам.</translation>
+          <comment>to get - добираться, получать, back - обратно, soon - скоро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m in a hurry</question>
+    <answer>Я спешу.</answer>
+    <comment>[аɪm ɪn ə ˈhɜːriː]</comment>
+    <question_comment>hurry - спешка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f023fbe6-9a01-43a0-baa0-aa3d350105bb</uuid>
+    <examples>
+       <example>
+          <value>You’re not in a hurry, are you?</value>
+          <translation>Вы ведь не торопитесь, не так ли?</translation>
+          <comment>hurry - спешка</comment>
+       </example>
+       <example>
+          <value>I&apos;m in a hurry.</value>
+          <translation>Я спешу.</translation>
+          <comment>hurry - спешаший, торопливый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call a taxi</question>
+    <answer>вызвать такси</answer>
+    <comment>[tə kɔːl ə ˈtæksiː]</comment>
+    <question_comment>to call - звонить, вызывать, taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>da5c2ec5-4544-4324-8d90-b1e341099eb6</uuid>
+    <examples>
+       <example>
+          <value>Please call a taxi for me.</value>
+          <translation>Вызовите, пожалуйста, для меня такси.</translation>
+          <comment>to call - звонить, вызывать, taxi - такси, for - для, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to drive faster</question>
+    <answer>ехать быстрее</answer>
+    <comment>[tə drаɪv ˈfæstə]</comment>
+    <question_comment>to drive - ехать, faster - быстрее, fast - быстрый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e0c483af-b99b-4ad2-afb3-b13fe087bca5</uuid>
+    <examples>
+       <example>
+          <value>Can you drive faster? I&apos;m getting late.</value>
+          <translation>Не могли бы вы ехать быстрее? Я опаздываю.</translation>
+          <comment>can - мочь, to drive - ехать, faster - быстрее, to get - становиться, late - поздний, опоздавший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to drive more slowly</question>
+    <answer>ехать не так быстро</answer>
+    <comment>[tə drаɪv mɔːr ˈsloʊli]</comment>
+    <question_comment>to drive - ехать, more - больше, slowly - медленно, slow - медленный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2fdc606b-e9d0-4cde-a3ff-110248bfa2e8</uuid>
+    <examples>
+       <example>
+          <value>Could you drive more slowly, please?</value>
+          <translation>Если можно, не так быстро.</translation>
+          <comment>could - мог, могла, могли, to drive - ехать, more - более, больше, slowly - медленно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to drive to the department store</question>
+    <answer>отвезти в универмаг</answer>
+    <comment>[tə drаɪv tə ðə dɪˈpɑːrtmənt stɔːr]</comment>
+    <question_comment>to drive - ехать, department store - универмаг</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>850c3fb2-a81f-4ee4-aff7-7031cc719c4a</uuid>
+    <examples>
+       <example>
+          <value>Drive me to the department store.</value>
+          <translation>Отвезите меня в универмаг.</translation>
+          <comment>to drive - отвозить, department store - универсам, универмаг</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to drive to the night club</question>
+    <answer>отвезти в ночной клуб</answer>
+    <comment>[tə drаɪv tə ðə nаɪt klʌb]</comment>
+    <question_comment>to drive - ехать, night - ночь, ночной, club - клуб</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4879ffd1-afe2-435a-92ca-3b0e214530b6</uuid>
+    <examples>
+       <example>
+          <value>Drive me to the night club.</value>
+          <translation>Отвезите меня в ночной клуб.</translation>
+          <comment>to drive - отвозить, night - ночь, club - клуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to find a taxi</question>
+    <answer>найти такси</answer>
+    <comment>[tə fаɪnd ə ˈtæksiː]</comment>
+    <question_comment>to find - найти, taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1357f52a-2377-4a05-9628-e4a1398c6f3f</uuid>
+    <examples>
+       <example>
+          <value>Where can I find a taxi?</value>
+          <translation>Где можно найти такси?</translation>
+          <comment>where - где, to find - найти, taxi - такси</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get somebody a taxi</question>
+    <answer>вызвать кому-либо такси</answer>
+    <comment>[tə get ˈsʌmˌbɑːdiː ə ˈtæksiː]</comment>
+    <question_comment>to get - доставать, получать, somebody - кто-либо, taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05fdc17b-74a1-400d-9423-3296bec24d0f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go straight ahead</question>
+    <answer>ехать прямо</answer>
+    <comment>[tə goʊ streɪt əˈhed]</comment>
+    <question_comment>to go - идти, ехать, straight ahead - прямо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c0d04cc-1f1e-4f0f-8206-72dd6324fe5b</uuid>
+    <examples>
+       <example>
+          <value>Go straight ahead.</value>
+          <translation>Езжайте прямо.</translation>
+          <comment>to go - ехать, straight - прямой, прямо, ahead - вперед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go to the stadium</question>
+    <answer>доехать до стадиона</answer>
+    <comment>[tə goʊ tə ðə ˈsteɪdiːəm]</comment>
+    <question_comment>to go - идти, ехать, stadium - стадион</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7f755140-0377-461b-af5d-20919ab296a7</uuid>
+    <examples>
+       <example>
+          <value>How long will it take to go to the stadium?</value>
+          <translation>Сколько ехать до стадиона?</translation>
+          <comment>how - как, long - долго, to take - брать, занимать, to go - ехать, stadium - стадион</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a ride through the city center</question>
+    <answer>проехаться по центру города</answer>
+    <comment>[tə hæv ə rаɪd θruː ðə ˈsɪtiː ˈsentər]</comment>
+    <question_comment>to have - иметь, ride - поездка, through - через, сквозь, по, city - город, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0cb02065-e820-44b2-a5c9-7aad77db491c</uuid>
+    <examples>
+       <example>
+          <value>I want to have a ride through the city center.</value>
+          <translation>Я хочу проехаться по центру города.</translation>
+          <comment>to want - хотеть, to have - иметь, ride - поездка, through - через, сквозь, city - город, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have the number for a taxi</question>
+    <answer>иметь номер телефона такси</answer>
+    <comment>[tə hæv ðə ˈnʌmbər fər ə ˈtæksiː]</comment>
+    <question_comment>to have - иметь, number - номер, taxi - такси</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55010d00-55e1-4dab-9928-50737a967135</uuid>
+    <examples>
+       <example>
+          <value>Do you have the number for a taxi?</value>
+          <translation>Как вызвать такси по телефону?</translation>
+          <comment>to have - иметь, number - номер, taxi - такси</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to keep going</question>
+    <answer>продолжать ехать</answer>
+    <comment>[tə kiːp ˈgoʊɪŋ]</comment>
+    <question_comment>to keep - сохранять, going - движущийся, движение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34cdc4f5-2650-4d87-bf7b-f1eadb7f217b</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s keep going.</value>
+          <translation>Поехали дальше.</translation>
+          <comment>let&apos;s - давай(те), to keep - сохранить, держать, going - хотьба</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let me off here.</question>
+    <answer>Высадите меня здесь.</answer>
+    <comment>[let ˈmiː ɔːf hɪr]</comment>
+    <question_comment>to let off - высаживать (из машины), here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>701401ee-3cbe-4d72-bd05-e6b99aaf6aaa</uuid>
+    <examples>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня, пожалуйста, здесь.</translation>
+          <comment>let - позволить, me - мне, меня, off - прочь, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stop here</question>
+    <answer>остановить здесь</answer>
+    <comment>[tə stɑːp hɪr]</comment>
+    <question_comment>to stop - останавливаться, here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>67c9bb37-2b5a-4999-9c5c-ae544294b568</uuid>
+    <examples>
+       <example>
+          <value>How long does the train stop here?</value>
+          <translation>Сколько поезд стоит здесь?</translation>
+          <comment>how - как, long - долго, train - поезд, to stop - останавливаться, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop the car here.</value>
+          <translation>Остановите машину.</translation>
+          <comment>to stop - остановить, car - машина, here - здесь</comment>
+       </example>
+       <example>
+          <value>Stop here, please.</value>
+          <translation>Остановите здесь, пожалуйста.</translation>
+          <comment>to stop - остановитьca, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stop the car</question>
+    <answer>остановить машину</answer>
+    <comment>[tə stɑːp ðə kɑːr]</comment>
+    <question_comment>to stop - останавливать, car - машина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8adff61a-5a29-493d-8773-b12ba028fac5</uuid>
+    <examples>
+       <example>
+          <value>Stop the car here.</value>
+          <translation>Остановите машину.</translation>
+          <comment>to stop - остановить, car - машина, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take my luggage</question>
+    <answer>взять мой багаж</answer>
+    <comment>[tə teɪk mаɪ ˈlʌgɪʤ]</comment>
+    <question_comment>to take - брать, my - мой, моя, моё, luggage - багаж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c022f878-2995-41cd-a5dc-60d17e520c71</uuid>
+    <examples>
+       <example>
+          <value>Could you take my luggage, please?</value>
+          <translation>Возьмите, пожалуйста, мой багаж.</translation>
+          <comment>could - мог, могла, могли, to take - брать, взять, my - мой, моя, мое, luggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take to the airport</question>
+    <answer>отвезти в аэропорт</answer>
+    <comment>[tə teɪk tə ðə ˈerˌpɔːrt]</comment>
+    <question_comment>to take (to) - отвезти (в), airport - аэропорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c5c7739d-b8bb-429a-bc5a-06918b7f8575</uuid>
+    <examples>
+       <example>
+          <value>What airport does my plane take off from?</value>
+          <translation>Из какого аэропорта отправляется мой самолет?</translation>
+          <comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</comment>
+       </example>
+       <example>
+          <value>Which line should I take to the airport?</value>
+          <translation>На каком маршруте я доеду до аэропорта?</translation>
+          <comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Please take me to the airport.</value>
+          <translation>Пожалуйста, отвезите меня в аэропорт.</translation>
+          <comment>to take - отвозить, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take to the hotel</question>
+    <answer>отвезти в гостиницу</answer>
+    <comment>[tə teɪk tə ðə hoʊˈtel]</comment>
+    <question_comment>to take (to) - отвезти (в), hotel - гостиница</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9001de43-6e3b-4bd0-8db9-0cdf40f55dac</uuid>
+    <examples>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take to the railroad station</question>
+    <answer>отвезти на вокзал</answer>
+    <comment>[tə teɪk tə ðə ˈreɪlˌroʊd ˈsteɪʃən]</comment>
+    <question_comment>to take (to) - отвезти (в), railroad station - ж/д вокзал, rail -рельс, road - дорога</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>afb02936-37f2-404e-89d1-a5c88b1433a4</uuid>
+    <examples>
+       <example>
+          <value>Please take me to the railroad station.</value>
+          <translation>Пожалуйста, отвезите меня на вокзал.</translation>
+          <comment>to take - отвозить, railroad - железная дорога, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take to this address</question>
+    <answer>отвезти по этому адресу</answer>
+    <comment>[tə teɪk tə ðɪs əˈdres]</comment>
+    <question_comment>to take (to) - отвезти (в), address - адрес</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33da74ba-6334-4e71-bba3-782c868c9777</uuid>
+    <examples>
+       <example>
+          <value>Take me to this address.</value>
+          <translation>Отвезите меня по этому адресу.</translation>
+          <comment>to take - отвозить, me - мне, меня, this - этот, эта, это, address - адрес</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to the railroad station</question>
+    <answer>до вокзала</answer>
+    <comment>[tə ðə ˈreɪlˌroʊd ˈsteɪʃən]</comment>
+    <question_comment>railroad station - ж/д вокзал</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1815cef0-9017-4377-9bfb-c8a3ee4fe407</uuid>
+    <examples>
+       <example>
+          <value>I need hotel accomodation near the railroad station.</value>
+          <translation>Мне нужен номер в гостинице возле вокзала.</translation>
+          <comment>need - нуждаться, hotel - гостиница, accommodation - жилье, near - рядом, railroad station - ж/д станция, вокзал</comment>
+       </example>
+       <example>
+          <value>Please take me to the railroad station.</value>
+          <translation>Пожалуйста, отвезите меня на вокзал.</translation>
+          <comment>to take - отвозить, railroad - железная дорога, station - станция</comment>
+       </example>
+       <example>
+          <value>How far is it to the railroad station?</value>
+          <translation>Как далеко до вокзала?</translation>
+          <comment>how - как, far - далекий, railroad station - вокзал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to turn left</question>
+    <answer>повернуть налево</answer>
+    <comment>[tə tɜːrn left]</comment>
+    <question_comment>to turn - повернуть, left - левый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7c736508-3ba3-43fd-ada4-50496e961e66</uuid>
+    <examples>
+       <example>
+          <value>Turn left.</value>
+          <translation>Поверните налево.</translation>
+          <comment>to turn - поворачивать, left - левый, налево</comment>
+       </example>
+       <example>
+          <value>Turn left at the next corner.</value>
+          <translation>Поверните налево за угол.</translation>
+          <comment>to turn - поворачивать, left - левый, налево, next - следующий, corner - угол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to turn right</question>
+    <answer>повернуть направо</answer>
+    <comment>[tə tɜːrn rаɪt]</comment>
+    <question_comment>to turn - повернуть, right - правый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1294acaf-6847-486e-a724-966399f6096c</uuid>
+    <examples>
+       <example>
+          <value>Turn right.</value>
+          <translation>Поверните направо.</translation>
+          <comment>to turn - поворачивать, right - правый, направо</comment>
+       </example>
+       <example>
+          <value>Turn right at the next corner.</value>
+          <translation>Поверните направо за угол.</translation>
+          <comment>to turn - поворачивать, right - правый, направо, next - следующий, corner - угол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to wait for you here</question>
+    <answer>подождать тебя здесь</answer>
+    <comment>[tə weɪt fər jʊ hɪr]</comment>
+    <question_comment>to wait - ждать, ожидать, here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1ef5c148-7f44-42ef-9d89-a6308fdda757</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to write a receipt</question>
+    <answer>выписать квитанцию</answer>
+    <comment>[tə rаɪt ə rɪˈsiːt]</comment>
+    <question_comment>to write - писать, receipt - квитанция</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dfcf2c3a-8e70-4128-9c84-ba75146b6b59</uuid>
+    <examples>
+       <example>
+          <value>Write out the receipt, please.</value>
+          <translation>Выпишите, пожалуйста, квитанцию.</translation>
+          <comment>to write out - выписать, receipt - квитанция</comment>
+       </example>
+       <example>
+          <value>Write a receipt, please.</value>
+          <translation>Выпишите квитанцию.</translation>
+          <comment>to write - написать, receipt - квитанция</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

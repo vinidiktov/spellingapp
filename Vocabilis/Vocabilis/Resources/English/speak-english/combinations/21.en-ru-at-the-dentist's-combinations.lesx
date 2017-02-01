@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>98ee78d1-6bbc-49d9-9d9b-2696ce757b56</uuid>
+  <title>У зубного врача :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a good dental clinic</question>
+    <answer>хорошая стоматология</answer>
+    <comment>[ə gʊd ˈdentl ˈklɪnɪk]</comment>
+    <question_comment>good - хороший, dental - зубной, clinic - клиника</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1b814da7-4785-4819-9a1d-ae05986c4a79</uuid>
+    <examples>
+       <example>
+          <value>Could you recommend a good dental clinic?</value>
+          <translation>Могли бы вы порекомендовать хорошую стоматологию?</translation>
+          <comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a good dentist</question>
+    <answer>хороший зубной врач</answer>
+    <comment>[ə gʊd ˈdentɪst]</comment>
+    <question_comment>good - хороший, dentist - зубной врач</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>945a7940-1ced-490b-8355-c99fe7b3411a</uuid>
+    <examples>
+       <example>
+          <value>Could you recommend a good dentist to me?</value>
+          <translation>Могли бы вы порекомендовать мне хорошего зубного врача?</translation>
+          <comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dentist - стоматолог, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the bottom</question>
+    <answer>внизу</answer>
+    <comment>[ət ðə ˈbɑːtəm]</comment>
+    <question_comment>bottom - низ, нижняя сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2f66f496-40b0-4468-90a9-7f20f26f47ec</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room on one of the bottom floors.</value>
+          <translation>Я хотел бы номер на нижних этажах.</translation>
+          <comment>would like - хотеть, room - комната, one - один, bottom - нижний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the bottom.</value>
+          <translation>У меня болит нижний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, bottom - низ, нижний</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the front</question>
+    <answer>спереди</answer>
+    <comment>[ət ðə frʌnt]</comment>
+    <question_comment>front - передняя сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b553c93d-24c5-45be-bd79-af29ab68df0a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room at the front.</value>
+          <translation>Я бы хотел номер с окнами на улицу.</translation>
+          <comment>would like - хотеть, room - комната, front - передняя сторона</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the front.</value>
+          <translation>У меня болит передний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, front - передний</comment>
+       </example>
+       <example>
+          <value>I prefer to sit in the front rows.</value>
+          <translation>Я предпочитаю передние ряды.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, front - передний, row - ряд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the top</question>
+    <answer>вверху</answer>
+    <comment>[ət ðə tɑːp]</comment>
+    <question_comment>top - верх, верхняя сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a713ce47-fbbc-4a3e-8b9a-df3da6fc6585</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like a room on the top floors.</value>
+          <translation>Я хотел бы номер на верних этажах.</translation>
+          <comment>would like - хотеть, room - комната, top - верхний, floor - пол, этаж</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the top.</value>
+          <translation>У меня болит верхний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, top - верх, верхний</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on the left side</question>
+    <answer>слева</answer>
+    <comment>[ɑːn ðə left sаɪd]</comment>
+    <question_comment>left - левый, side - сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eb1fce12-d4c7-4b33-832a-e160e71097b1</uuid>
+    <examples>
+       <example>
+          <value>I have a toothache on the left side.</value>
+          <translation>У меня болит зуб слева.</translation>
+          <comment>to have - иметь, toothache - зубная боль, left - левый, side - сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on the right side</question>
+    <answer>справа</answer>
+    <comment>[ɑːn ðə rаɪt sаɪd]</comment>
+    <question_comment>right - правый, side - сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9126438b-831c-44cf-9358-bc4ca6569755</uuid>
+    <examples>
+       <example>
+          <value>I have a toothache on the right side.</value>
+          <translation>У меня болит зуб справа.</translation>
+          <comment>to have - иметь, toothache - зубная боль, right - правый, side - сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the surgery hours</question>
+    <answer>приемные часы</answer>
+    <comment>[ðə ˈsɜːrʤəriː аʊrz]</comment>
+    <question_comment>surgery - хирургия, hour - час</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7aac04e-ec71-4e48-a63e-6168cff24e78</uuid>
+    <examples>
+       <example>
+          <value>What are the surgery hours?</value>
+          <translation>Когда приемные часы?</translation>
+          <comment>what - какой, что, surgery - кабинет или приемная врача, hour - час</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be ready tomorrow</question>
+    <answer>быть готовым завтра</answer>
+    <comment>[tə biː ˈrediː təˈmɔːroʊ]</comment>
+    <question_comment>ready - готовый, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>484c81f2-9a83-479c-9ecb-0c78fe2cfe15</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sore gums</question>
+    <answer>воспаленные десна</answer>
+    <comment>[sɔːr gʌmz]</comment>
+    <question_comment>sore - воспаленный, gums - десна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fde3d25d-8e09-44a5-aa08-1789cb9ec9b4</uuid>
+    <examples>
+       <example>
+          <value>My gums are very sore.</value>
+          <translation>У меня воспалились десны.</translation>
+          <comment>gum - десна, very - очень, sore - воспаленный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to break your denture</question>
+    <answer>сломать (твой) протез</answer>
+    <comment>[tə breɪk jər ˈdenʧər]</comment>
+    <question_comment>to break - ломать, my - мой, моя, denture - протез</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>26bf2b4f-8130-43b4-b5cf-351918854878</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come again</question>
+    <answer>прийти снова</answer>
+    <comment>[tə kʌm əˈgen]</comment>
+    <question_comment>to come - прийти, again - снова</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>764ff116-ffa2-48ab-aca1-5241fbe5a88b</uuid>
+    <examples>
+       <example>
+          <value>Come again.</value>
+          <translation>Приходите еще.</translation>
+          <comment>to come - прийти, again - снова</comment>
+       </example>
+       <example>
+          <value>When must I come again?</value>
+          <translation>Когда мне снова прийти?</translation>
+          <comment>when - когда, must - быть должным, to come - прийти, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to come next time</question>
+    <answer>прийти в следующий раз</answer>
+    <comment>[tə kʌm nekst tаɪm]</comment>
+    <question_comment>to come - прийти, next - следующий, time - раз</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6cbb24a2-5460-4ed8-ac59-a480bb4a7228</uuid>
+    <examples>
+       <example>
+          <value>When must I come next time?</value>
+          <translation>Когда мне прийти в следующий раз?</translation>
+          <comment>when - когда, must - быть должным, to come - прийти, next - следующий, time - раз</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fix temporarily</question>
+    <answer>временно залечить</answer>
+    <comment>[tə fɪks ˈtempəˌreriːli]</comment>
+    <question_comment>to fix - исправить, temporarily - временно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1a05537d-7d26-4467-ab5b-0741962132a6</uuid>
+    <examples>
+       <example>
+          <value>Can you fix it temporarily?</value>
+          <translation>Нельзя ли его временно залечить?</translation>
+          <comment>can - мочь, you - ты, вы, to fix - отремонтировать, починить, it - это, temporarily - временно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give an anesthetic</question>
+    <answer>сделать обезболивание</answer>
+    <comment>[tə gɪv ən ˌænɪsˈθetɪk]</comment>
+    <question_comment>to give - дать, anesthetic - обезболивающее</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9e908eeb-1ee9-4648-8341-14205bf1d8b8</uuid>
+    <examples>
+       <example>
+          <value>Please give me an anesthetic.</value>
+          <translation>Сделайте, пожалуйста, обезболивание.</translation>
+          <comment>to give - давать, me - мне, меня, anesthetic - обезболевающее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a broken crown</question>
+    <answer>иметь сломанную коронку</answer>
+    <comment>[tə hæv ə ˈbroʊkən krаʊn]</comment>
+    <question_comment>to have - иметь, broken - сломанный, crown - коронка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>11f9b5c4-4a9f-4f7b-892d-d7c40b1906e5</uuid>
+    <examples>
+       <example>
+          <value>I have a broken crown.</value>
+          <translation>У меня сломалась коронка.</translation>
+          <comment>to break - ломать, crown - коронка (зубная)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a broken tooth</question>
+    <answer>иметь сломанный зуб</answer>
+    <comment>[tə hæv ə ˈbroʊkən tuːθ]</comment>
+    <question_comment>to have - иметь, broken - сломанный, tooth - зуб</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6622b51f-311e-445b-9e05-3702f8215201</uuid>
+    <examples>
+       <example>
+          <value>I have a broken tooth.</value>
+          <translation>У меня сломался зуб.</translation>
+          <comment>to break - ломать, tooth - зуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a cavity in a tooth</question>
+    <answer>иметь дупло в зубе</answer>
+    <comment>[tə hæv ə ˈkævɪtiː ɪn ə tuːθ]</comment>
+    <question_comment>to have - иметь, cavity - дупло, tooth - зуб</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>897e7502-9f16-4e6c-b1ec-872864236e07</uuid>
+    <examples>
+       <example>
+          <value>I have a cavity in a tooth.</value>
+          <translation>У меня дупло в зубе.</translation>
+          <comment>to have - иметь, cavity - дупло, полость, tooth - зуб</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a dental abscess</question>
+    <answer>иметь флюс</answer>
+    <comment>[tə hæv ə ˈdentl ˈæbses]</comment>
+    <question_comment>to have - иметь, dental - зубной, abscess - абсцесс, нарыв</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5855078a-35bc-45be-94fa-991792a4ceb3</uuid>
+    <examples>
+       <example>
+          <value>I have a dental abscess.</value>
+          <translation>У меня флюс.</translation>
+          <comment>to have - иметь, dental - зубной, abscess - абсцесс, нарыв</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a gingivitis</question>
+    <answer>иметь воспаленные десна</answer>
+    <comment>[tə hæv ə ˌʤɪnʤəˈvаɪtɪs]</comment>
+    <question_comment>to have - иметь, gingivitis - воспаление десен</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f27d304c-af2c-4ac5-b759-5bd77e795615</uuid>
+    <examples>
+       <example>
+          <value>I have a gingivitis.</value>
+          <translation>У меня воспалилась десна.</translation>
+          <comment>to have - иметь, gingivitis - воспаление десен, гингивит</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a toothache</question>
+    <answer>иметь зубную боль</answer>
+    <comment>[tə hæv ə ˈtuːθeɪk]</comment>
+    <question_comment>to have - иметь, toothache - зубная боль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>94cdc8fb-93e9-43d2-8e7d-8d6d9dfb1e37</uuid>
+    <examples>
+       <example>
+          <value>I have a toothache.</value>
+          <translation>У меня болят зубы.</translation>
+          <comment>to have - иметь, toothache - зубная боль</comment>
+       </example>
+       <example>
+          <value>I have a toothache.</value>
+          <translation>У меня болит зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль</comment>
+       </example>
+       <example>
+          <value>I have a toothache on the right side.</value>
+          <translation>У меня болит зуб справа.</translation>
+          <comment>to have - иметь, toothache - зубная боль, right - правый, side - сторона</comment>
+       </example>
+       <example>
+          <value>I have a toothache on the left side.</value>
+          <translation>У меня болит зуб слева.</translation>
+          <comment>to have - иметь, toothache - зубная боль, left - левый, side - сторона</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the bottom.</value>
+          <translation>У меня болит нижний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, bottom - низ, нижний</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the top.</value>
+          <translation>У меня болит верхний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, top - верх, верхний</comment>
+       </example>
+       <example>
+          <value>I have a toothache at the front.</value>
+          <translation>У меня болит передний зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, front - передний</comment>
+       </example>
+       <example>
+          <value>I have a toothache here.</value>
+          <translation>У меня болит вот этот зуб.</translation>
+          <comment>to have - иметь, toothache - зубная боль, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have an abscess on a gum</question>
+    <answer>иметь нарыв на десне</answer>
+    <comment>[tə hæv ən ˈæbses ɑːn ə gʌm]</comment>
+    <question_comment>to have - иметь, abscess - нарыв, gum - десна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>427f7c7e-34ca-4bd5-8129-0b56d6856a7c</uuid>
+    <examples>
+       <example>
+          <value>I have an abscess on a gum.</value>
+          <translation>У меня нарыв на десне.</translation>
+          <comment>to have - иметь, abscess - абсцесс, нарыв, gum - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have an appointment</question>
+    <answer>записаться на прием</answer>
+    <comment>[tə hæv ən əˈpɔɪntmənt]</comment>
+    <question_comment>to have - иметь, appointment - назначенная встреча</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ae454496-cd39-44d3-85dd-6bf67c1d0cf8</uuid>
+    <examples>
+       <example>
+          <value>What number is for making an appointment with a doctor?</value>
+          <translation>По какому телефону можно записаться к врачу?</translation>
+          <comment>what - что, какой, number - номер, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>I want to make an appointment with a doctor.</value>
+          <translation>Мне нужно записаться к врачу.</translation>
+          <comment>to want - хотеть, to make - сделать, appointment - назначенная встреча, doctor - врач, доктор</comment>
+       </example>
+       <example>
+          <value>Can I have an appointment?</value>
+          <translation>Я хотел бы записаться на прием.</translation>
+          <comment>can - мочь, to have - иметь, appointment - назначенная встреча</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to make an appointment with Mr. Black.</value>
+          <translation>Я бы хотел встретиться с мистером Блэком.</translation>
+          <comment>would like - хотеть, to make - сделать, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+       <example>
+          <value>I have an appointment with Mr. Black.</value>
+          <translation>У меня назначена встреча с мистером Блэком.</translation>
+          <comment>to have - иметь, appointment - назначенная встреча, Mr. Black - мистер Блэк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have bleeding gums</question>
+    <answer>иметь кровоточащие десна</answer>
+    <comment>[tə hæv ˈbliːdɪŋ gʌmz]</comment>
+    <question_comment>to have - иметь, bleeding - кровоточащий, to bleed - кровоточить, gum - десна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>734d90fc-e639-4f5d-8afc-894810a365a7</uuid>
+    <examples>
+       <example>
+          <value>I have bleeding gums.</value>
+          <translation>У меня кровоточат десна.</translation>
+          <comment>to have - иметь, bleeding - кровоточащий, gum - десна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have to wait</question>
+    <answer>нужно подождать</answer>
+    <comment>[tə hæv tə weɪt]</comment>
+    <question_comment>to have to - быть должным, to wait - ждать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc5a5385-13c9-4481-ab66-b03a520fe7b8</uuid>
+    <examples>
+       <example>
+          <value>Wait a minute, please.</value>
+          <translation>Подождите минуточку, пожалуйста.</translation>
+          <comment>to wait - ждать, minute - минута</comment>
+       </example>
+       <example>
+          <value>How long should we wait for the hot dish?</value>
+          <translation>Как долго нам придется ждать горячее?</translation>
+          <comment>how - как, long - долго, should - должен, должны, to wait - ждать, hot - горячий, dish - блюдо</comment>
+       </example>
+       <example>
+          <value>Will you wait, please?</value>
+          <translation>Подождете?</translation>
+          <comment>to wait - ждать</comment>
+       </example>
+       <example>
+          <value>Wait, please, I&apos;ll take a pen.</value>
+          <translation>Подождите, пожалуйста, я возьму ручку.</translation>
+          <comment>to wait - ждать, to take - брать, взять, pen - ручка</comment>
+       </example>
+       <example>
+          <value>Wait for me, please.</value>
+          <translation>Подождите меня, пожалуйста.</translation>
+          <comment>to wait - ждать</comment>
+       </example>
+       <example>
+          <value>Could you wait for me, please?</value>
+          <translation>Не могли бы вы подождать меня?</translation>
+          <comment>could - мог, могла, могли, to wait - ждать</comment>
+       </example>
+       <example>
+          <value>How long will I have to wait?</value>
+          <translation>Сколько мне придется ждать?</translation>
+          <comment>how - как, long - долго, to have to - быть должным, to wait - ждать</comment>
+       </example>
+       <example>
+          <value>Shall I wait?</value>
+          <translation>Мне подождать?</translation>
+          <comment>to wait - ждать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose a filling</question>
+    <answer>потерять пломбу</answer>
+    <comment>[tə luːz ə ˈfɪlɪŋ]</comment>
+    <question_comment>to lose - потерять, filling - пломба</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>33d6c299-0ac8-4a55-bdf6-a99613365dd3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to recommend a good dental clinic</question>
+    <answer>порекомендовать хорошую стоматологию</answer>
+    <comment>[tə ˌrekəˈmend ə gʊd ˈdentl ˈklɪnɪk]</comment>
+    <question_comment>to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eef44896-901d-47d8-a6d0-20282c19e411</uuid>
+    <examples>
+       <example>
+          <value>Could you recommend a good dental clinic?</value>
+          <translation>Могли бы вы порекомендовать хорошую стоматологию?</translation>
+          <comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to recommend a good dentist</question>
+    <answer>порекомендовать хорошего зубного врача</answer>
+    <comment>[tə ˌrekəˈmend ə gʊd ˈdentɪst]</comment>
+    <question_comment>to recommend - рекомендовать, good - хороший, dentist - зубной врач</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f34a2839-9dd5-42bd-a1bf-c23f26a1fc02</uuid>
+    <examples>
+       <example>
+          <value>Could you recommend a good dentist to me?</value>
+          <translation>Могли бы вы порекомендовать мне хорошего зубного врача?</translation>
+          <comment>could - мог, могла, могли, to recommend - рекомендовать, good - хороший, dentist - стоматолог, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to repair your denture</question>
+    <answer>отремонтировать (твой) протез</answer>
+    <comment>[tə rɪˈper jər ˈdenʧər]</comment>
+    <question_comment>to repair - отремонтировать, denture - протез</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>97629500-1e81-4b12-9a5b-2e2efe01b6d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to touch the tooth</question>
+    <answer>прикасаться к зубу</answer>
+    <comment>[tə tʌʧ ðə tuːθ]</comment>
+    <question_comment>to touch - прикасаться, tooth - зуб</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>58c5f809-36af-4534-926c-2592ba84b5f5</uuid>
+    <examples>
+       <example>
+          <value>Does this tooth hurt you when I touch it like that?</value>
+          <translation>Этот зуб беспокоит вас, когда я притрагиваюсь к нему?</translation>
+          <comment>this - этот, эта, это, tooth - зуб, to hurt - болеть, you - вас, вам, тебе, тебя, when - когда, to touch - прикасаться, it - это, like - как, наподобии, that - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to want it pulled out</question>
+    <answer>хотеть, чтобы его (зуб) вырвали</answer>
+    <comment>[tə wɑːnt ɪt pʊld аʊt]</comment>
+    <question_comment>to want - хотеть, to pull out - вытянуть, вырывать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f335dd34-42ad-4bd1-9665-4c1c92fcd7c1</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t want it pulled out.</value>
+          <translation>Я не хотел бы его вырывать.</translation>
+          <comment>to want - хотеть, it - это, pulled out - вырванный, вытащенный</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

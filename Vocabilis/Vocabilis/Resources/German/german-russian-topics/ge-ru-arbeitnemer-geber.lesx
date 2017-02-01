@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>dde0e409-b002-4d82-8b89-f1cfe466771d</uuid>
+  <title>Работа</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Personal</question>
+    <answer>персонал</answer>
+    <comment></comment>
+    <uuid>74769647-6758-444c-8b47-3197d3ea98af</uuid>
+  </card>
+  <card>
+    <question>das Team</question>
+    <answer>команда (сотрудников)</answer>
+    <comment></comment>
+    <uuid>48b885d7-72ef-4ac1-8759-9577f754ea07</uuid>
+  </card>
+  <card>
+    <question>der Abteilungsleiter</question>
+    <answer>начальник отдела</answer>
+    <comment></comment>
+    <uuid>09722ef4-aeae-43e2-ae84-3160ee541c4f</uuid>
+  </card>
+  <card>
+    <question>der angelernte Arbeiter</question>
+    <answer>рабочий средней квалификации</answer>
+    <comment></comment>
+    <uuid>8aa3c58c-b39f-4a17-806c-198e297f84fc</uuid>
+  </card>
+  <card>
+    <question>der Angestellte</question>
+    <answer>служащий</answer>
+    <comment></comment>
+    <uuid>e8875dbd-2c93-4475-9f33-ff82497bca34</uuid>
+  </card>
+  <card>
+    <question>der Arbeiter</question>
+    <answer>рабочий</answer>
+    <comment></comment>
+    <uuid>23754689-6775-4f33-9cc9-201411304317</uuid>
+  </card>
+  <card>
+    <question>der Chef</question>
+    <answer>шеф</answer>
+    <comment></comment>
+    <uuid>3b795de1-adc5-4e3d-bdbd-acae9331d713</uuid>
+  </card>
+  <card>
+    <question>der Direktor</question>
+    <answer>директор</answer>
+    <comment></comment>
+    <uuid>648ce934-7e5b-4d88-bf75-64c383f5bedc</uuid>
+  </card>
+  <card>
+    <question>der Facharbeiter</question>
+    <answer>квалифицированный рабочий</answer>
+    <comment></comment>
+    <uuid>85e27215-77f7-4ead-a270-d91d1276b97a</uuid>
+  </card>
+  <card>
+    <question>der Hilfsarbeiter</question>
+    <answer>подсобный рабочий</answer>
+    <comment></comment>
+    <uuid>b9b8f5ca-37c0-4e9f-a5b1-e24c4b598f83</uuid>
+  </card>
+  <card>
+    <question>der leitende Angestellte</question>
+    <answer>руководящий работник</answer>
+    <comment></comment>
+    <uuid>f1f8d258-ce69-48a2-8def-cef9b0441c57</uuid>
+  </card>
+  <card>
+    <question>der Meister</question>
+    <answer>(мастер)-наставник</answer>
+    <comment></comment>
+    <uuid>00014ac2-fe35-4cb4-b27b-96f8be89d313</uuid>
+  </card>
+  <card>
+    <question>der Mitarbeiter</question>
+    <answer>сотрудник</answer>
+    <comment></comment>
+    <uuid>97809cf2-454d-438a-bd57-8ccebd06af09</uuid>
+  </card>
+  <card>
+    <question>der Polier</question>
+    <answer>бригадир</answer>
+    <comment></comment>
+    <uuid>f48dee6d-68ff-4cae-8a3f-15246eb29580</uuid>
+  </card>
+  <card>
+    <question>der ungelernte Arbeiter</question>
+    <answer>неквалифицированный рабочий, разнорабочий</answer>
+    <comment></comment>
+    <uuid>bfa9e5f9-256f-44b3-8d29-c8833aeb6027</uuid>
+  </card>
+  <card>
+    <question>der Vorarbeiter</question>
+    <answer>старший рабочий</answer>
+    <comment></comment>
+    <uuid>aa0b543c-2955-4d68-9cc5-7757902be3b7</uuid>
+  </card>
+  <card>
+    <question>die Angestellte</question>
+    <answer>служащая</answer>
+    <comment></comment>
+    <uuid>c71e834f-110c-46a0-9de2-3192338c971a</uuid>
+  </card>
+  <card>
+    <question>die Arbeitsgruppe</question>
+    <answer>рабочая группа</answer>
+    <comment></comment>
+    <uuid>56f3a9ed-6623-4e44-9c30-750985e922d8</uuid>
+  </card>
+  <card>
+    <question>die Belegschaft</question>
+    <answer>коллектив рабочих и служащих</answer>
+    <comment></comment>
+    <uuid>af656681-0b12-432f-9423-b72961049f8f</uuid>
+  </card>
+  <card>
+    <question>die Betriebsleitung</question>
+    <answer>дирекция завода (предприятия)</answer>
+    <comment></comment>
+    <uuid>e8645a94-9de9-4341-9e48-04ffc9d5013e</uuid>
+  </card>
+  <card>
+    <question>die Geschäftsleitung</question>
+    <answer>руководство фирмы (предприятия)</answer>
+    <comment></comment>
+    <uuid>f89816dd-7042-43f5-a659-45baf047f267</uuid>
+  </card>
+  <card>
+    <question>die korporativ Kultur</question>
+    <answer>корпоративная культура</answer>
+    <comment></comment>
+    <uuid>3e298952-1a8e-47e5-bb95-90e211d42f6d</uuid>
+  </card>
+  <card>
+    <question>die Oder erlassen</question>
+    <answer>издать приказ</answer>
+    <comment></comment>
+    <uuid>f49acd3a-cc67-49cb-9e42-0b9a7e7ec919</uuid>
+  </card>
+  <card>
+    <question>die Oder unterschreiben</question>
+    <answer>подписать приказ</answer>
+    <comment></comment>
+    <uuid>541cd74f-8577-4a43-9690-23fcb481dfeb</uuid>
+  </card>
+  <card>
+    <question>die Order</question>
+    <answer>приказ</answer>
+    <comment></comment>
+    <uuid>3b1c7c54-384a-444d-bed7-0dbfdf547960</uuid>
+  </card>
+  <card>
+    <question>die Qualifikation</question>
+    <answer>квалификация</answer>
+    <comment></comment>
+    <uuid>d05785d0-f370-4c9f-9420-d127aa622500</uuid>
+  </card>
+  <card>
+    <question>ein Ziel anstreben</question>
+    <answer>стремиться к цели</answer>
+    <comment></comment>
+    <uuid>a16ffbd4-f095-46f0-91ab-92114c5c5490</uuid>
+  </card>
+  <card>
+    <question>inoffiziell, ohne Formalitäten</question>
+    <answer>в рабочем порядке</answer>
+    <comment></comment>
+    <uuid>aa1029d0-8649-41e2-9192-34aadf3eabf7</uuid>
+  </card>
+  <card>
+    <question>sich qualifizieren</question>
+    <answer>повышать квалификацию</answer>
+    <comment></comment>
+    <uuid>bc2afc02-7820-4b7e-b523-2e91d17c2add</uuid>
+  </card>
+  <card>
+    <question>Ziele und Aufgaben</question>
+    <answer>цели и задачи</answer>
+    <comment></comment>
+    <uuid>42585f2d-c57f-4b39-85dc-bfb5d62b84f6</uuid>
+  </card>
+</cards>
+</stack>

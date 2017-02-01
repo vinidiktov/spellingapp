@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>cd06782c-c4a1-46a9-b6ad-cf7b6440de9b</uuid>
+  <title>Развлечения :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>13</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>What are you interested in?</question>
+    <answer>Чем вы увлекаетесь?</answer>
+    <comment>[hwʌt ɑːr jʊ ˈɪntərɪstɪd ɪn]</comment>
+    <answer_comment>what - что, you - ты,вы, interested - заинтересованный</answer_comment>
+    
+    <uuid>5f8b392e-1ebc-4003-9868-8ffcae38ab7a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is your favorite pastime?</question>
+    <answer>Какое ваше любимое развлечение?</answer>
+    <comment>[hwʌt ɪz jər ˈfeɪvərɪt ˈpæsˌtаɪm]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, favorite - любимый, pastime - развлечение</answer_comment>
+    
+    <uuid>923c48b9-d2e6-44b2-ae2d-6d1624e21565</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How do you spend your spare time?</question>
+    <answer>Как вы проводите свободное время?</answer>
+    <comment>[hаʊ duː jʊ spend jər sper tаɪm]</comment>
+    <answer_comment>how -как, you - ты, вы, to spend - тратить, проводить, your - твой, ваш, spare - свободный, time - время</answer_comment>
+    
+    <uuid>63c92011-97c9-4717-9617-a75a36d7bb77</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How do you usually spend your evenings?</question>
+    <answer>Как вы обычно проводите вечера?</answer>
+    <comment>[hаʊ duː jʊ ˈjuːʒuːəliː spend jər ˈiːvnɪŋz]</comment>
+    <answer_comment>how -как, you - ты, вы, to spend - тратить, проводить, your - твой, ваш, evening - вечер</answer_comment>
+    
+    <uuid>84108027-7ad9-422e-9fab-a8014143e7aa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I spend my evenings playing chess.</question>
+    <answer>Я провожу вечера за игрой в шахматы.</answer>
+    <comment>[аɪ spend mаɪ ˈiːvnɪŋz ˈpleɪɪŋ ʧes]</comment>
+    <answer_comment>to spend - тратить, проводить, your - твой, ваш, evening - вечер, playing - играя, играющий, chess - шахматы</answer_comment>
+    
+    <uuid>5f8aecc6-df0f-4ae5-96f0-b63f824e8a2c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Why don&apos;t we go for a walk?</question>
+    <answer>Почему бы не пойти на прогулку?</answer>
+    <comment>[hwаɪ doʊnt wiː goʊ fər ə wɔːk]</comment>
+    <answer_comment>why - почему, we - мы, to go - идти, walk - прогулка</answer_comment>
+    
+    <uuid>d2f0f2af-2e63-4083-bb4b-86ff7db8665f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to go on a hike?</question>
+    <answer>Вы не хотели бы пойти в поход?</answer>
+    <comment>[wʊd jʊ lаɪk tə goʊ ɑːn ə hаɪk]</comment>
+    <answer_comment>would like - хотеть, to go - идти, hike - поход</answer_comment>
+    
+    <uuid>e9abd50f-e791-4c4d-ad63-3eb154050c73</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;re going karaoke singing.</question>
+    <answer>Мы идем петь караоке.</answer>
+    <comment>[wɪr ˈgoʊɪŋ ˌkɑːrəˈoʊki sɪŋɪŋ]</comment>
+    <answer_comment>going - идущий, karaoke - караоке, singing - пение</answer_comment>
+    
+    <uuid>8269fcd2-7d80-4f84-860a-4f53185c118c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like to travel.</question>
+    <answer>Я люблю путешествовать.</answer>
+    <comment>[аɪ lаɪk tə ˈtrævəl]</comment>
+    <answer_comment>to like - любить, нравиться, to travel - путешествовать</answer_comment>
+    
+    <uuid>14937d0d-ec57-4c73-9d3e-762eeecba291</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like to ski.</question>
+    <answer>Я люблю кататься на лыжах.</answer>
+    <comment>[аɪ lаɪk tə skiː]</comment>
+    <answer_comment>to like - любить, нравиться, to ski - кататься на лыжах</answer_comment>
+    
+    <uuid>6d764095-2833-4887-a493-eb30ccd4d617</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like to skate.</question>
+    <answer>Я люблю кататься на коньках.</answer>
+    <comment>[аɪ lаɪk tə skeɪt]</comment>
+    <answer_comment>to like - любить, нравиться, to skate - кататься на коньках</answer_comment>
+    
+    <uuid>0815d663-7470-4c74-8e69-5003a173b81e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like to swim.</question>
+    <answer>Я люблю плавать.</answer>
+    <comment>[аɪ lаɪk tə swɪm]</comment>
+    <answer_comment>to like - любить, нравиться, to swim - плавать</answer_comment>
+    
+    <uuid>b5f2849b-48c2-46f2-bd48-b6892e2bce20</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s a great way to let off steam.</question>
+    <answer>Это замечательный способ расслабиться.</answer>
+    <comment>[ɪts ə greɪt weɪ tə let ɔːf stiːm]</comment>
+    <answer_comment>great - замечательный, way - путь, способ, to let off - выпустить, steam - пар</answer_comment>
+    
+    <uuid>653f77ac-6682-44e6-8c3d-11abce0cb6f7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What is your hobby?</question>
+    <answer>Какое у вас хобби?</answer>
+    <comment>[hwʌt ɪz jər ˈhɑːbiː]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, hobby - хобби</answer_comment>
+    
+    <uuid>e671d7a2-dcd5-4b02-b993-e0a8349681fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I collect stamps.</question>
+    <answer>Я коллекционирую марки.</answer>
+    <comment>[аɪ kəˈlekt stæmps]</comment>
+    <answer_comment>to collect - собирать, stamp - марка</answer_comment>
+    
+    <uuid>01c7f8b5-2c42-4236-b3ee-c5ff2732bd83</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I collect coins.</question>
+    <answer>Я коллекционирую монеты.</answer>
+    <comment>[аɪ kəˈlekt kɔɪnz]</comment>
+    <answer_comment>to collect - собирать, coin - монета</answer_comment>
+    
+    <uuid>7d2521e6-1fa9-4149-a327-6e21b77850bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I collect badges.</question>
+    <answer>Я коллекционирую значки.</answer>
+    <comment>[аɪ kəˈlekt ˈbæʤɪz]</comment>
+    <answer_comment>to collect - собирать, badge - значок</answer_comment>
+    
+    <uuid>5a09714f-9ad4-4a0c-a877-732048871bee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I collect post cards.</question>
+    <answer>Я коллекционирую открытки.</answer>
+    <comment>[аɪ kəˈlekt poʊst kɑːrdz]</comment>
+    <answer_comment>to collect - собирать, post card - почтовая открытка</answer_comment>
+    
+    <uuid>0ee1a128-d2b3-4965-9a04-f0c5fa4093b8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I collect posters.</question>
+    <answer>Я коллекционирую постеры.</answer>
+    <comment>[аɪ kəˈlekt ˈpoʊstərz]</comment>
+    <answer_comment>to collect - собирать, poster - постер</answer_comment>
+    
+    <uuid>c8584927-3510-4141-9d7e-8a95b2d81fc6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s the process of collecting itself that matters.</question>
+    <answer>Именно сам процесс коллекционирования меня увлекает.</answer>
+    <comment>[ɪts ðə ˈprɑːses əv kəˈlektɪŋ ɪtˈself ðæt ˈmætərz]</comment>
+    <answer_comment>process - процесс, collecting - коллекционирование, itself - сам, себя, that - что, to matter - иметь значение</answer_comment>
+    
+    <uuid>5d9ac393-24b0-439d-a471-1f170cce77ec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m interested in modern music.</question>
+    <answer>Я увлекаюсь современной музыкой.</answer>
+    <comment>[аɪm ˈɪntərɪstɪd ɪn ˈmɑːdərn ˈmjuːzɪk]</comment>
+    <answer_comment>interested - заинтересованный, modern - современный, music - музыка</answer_comment>
+    
+    <uuid>a0d2eaa3-f49c-421a-b512-a2e919cf21d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m interested in photo.</question>
+    <answer>Я увлекаюсь фотографией.</answer>
+    <comment>[аɪm ˈɪntərɪstɪd ɪn ˈfoʊtoʊ]</comment>
+    <answer_comment>interested - заинтересованный, photo - фото</answer_comment>
+    
+    <uuid>7e57880c-21b8-4701-b9af-2253ce5131d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m interested in video shooting.</question>
+    <answer>Я увлекаюсь видеосъемкой.</answer>
+    <comment>[аɪm ˈɪntərɪstɪd ɪn ˈvɪdiːˌoʊ ˈʃuːtiːŋ]</comment>
+    <answer_comment>interested - заинтересованный, video shooting - видеосъемка</answer_comment>
+    
+    <uuid>3843d44c-fcb1-479f-8790-15d484191bce</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m interested in fishing.</question>
+    <answer>Я увлекаюсь рыбалкой.</answer>
+    <comment>[аɪm ˈɪntərɪstɪd ɪn ˈfɪʃɪŋ]</comment>
+    <answer_comment>interested - заинтересованный, fishing - рыбалка</answer_comment>
+    
+    <uuid>919415b1-1e39-4db6-a90d-a7633ca3fbe1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I enjoy fishing very much.</question>
+    <answer>Мне очень нравится рыбалка.</answer>
+    <comment>[аɪ enˈʤɔɪ ˈfɪʃɪŋ ˈveriː mʌʧ]</comment>
+    <answer_comment>to enjoy - наслаждаться, fishing - рыбалка, very - очень, much - много</answer_comment>
+    
+    <uuid>423756fd-7a46-4eb7-a942-6a1344bacbf2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I love to play the guitar.</question>
+    <answer>Я люблю играть на гитаре.</answer>
+    <comment>[аɪ lʌv tə pleɪ ðə gɪˈtɑːr]</comment>
+    <answer_comment>to love - любить, to play - играть, guitar - гитара</answer_comment>
+    
+    <uuid>2b907574-e987-4f1c-a832-9f8b9cfad41b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I love to play tennis.</question>
+    <answer>Я люблю играть в теннис.</answer>
+    <comment>[аɪ lʌv tə pleɪ ˈtenɪs]</comment>
+    <answer_comment>to love - любить, to play - играть, tennis - теннис</answer_comment>
+    
+    <uuid>506324b3-1425-4174-9b6b-ad34beb8e634</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I love to play golf.</question>
+    <answer>Я люблю играть в гольф.</answer>
+    <comment>[аɪ lʌv tə pleɪ gɑːlf]</comment>
+    <answer_comment>to love - любить, to play - играть, golf - гольф</answer_comment>
+    
+    <uuid>cdb1ed97-84cf-4cf4-8970-1ec2204aafb7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I love to play billiards.</question>
+    <answer>Я люблю играть на бильярде.</answer>
+    <comment>[аɪ lʌv tə pleɪ ˈbɪljərdz]</comment>
+    <answer_comment>to love - любить, to play - играть, billiards - бильярд</answer_comment>
+    
+    <uuid>9c638a51-4984-4ba5-a647-b3d7400e119b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It must be a very interesting pastime.</question>
+    <answer>Это, наверное, интересное развлечение.</answer>
+    <comment>[ɪt mʌst biː ə ˈveriː ˈɪntərɪstɪŋ ˈpæsˌtаɪm]</comment>
+    <answer_comment>must - быть должным, to be - быть, very - очень, interesting - интересный, pastime - развлечение</answer_comment>
+    
+    <uuid>992b3c81-ba38-426d-a306-0df76585c583</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a swimming pool in our hotel?</question>
+    <answer>Есть ли в нашей гостинице бассейн?</answer>
+    <comment>[ɪz ðer ə ˈswɪmɪŋ puːl ɪn аʊr hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, swimming - плавательный, pool - бассейн, our - наш, наша, наше, hotel - гостиница</answer_comment>
+    
+    <uuid>d40010a4-d95d-4859-b6cc-1e3214220e48</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a billiard room in our hotel?</question>
+    <answer>Есть ли в нашей гостинице бильярдная?</answer>
+    <comment>[ɪz ðer ə ˈbɪljərd ruːm ɪn аʊr hoʊˈtel]</comment>
+    <answer_comment>there is - есть, имеется, billiard - бильярд, room - комната, our - наш, наша, наше, hotel - гостиница</answer_comment>
+    
+    <uuid>2f5540f8-b3df-4877-ae97-3c1849ed1d07</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I hire golf clubs here?</question>
+    <answer>Здесь можно взять напрокат клюшки для гольфа?</answer>
+    <comment>[kæn аɪ hаɪr gɑːlf klʌbz hɪr]</comment>
+    <answer_comment>can - мочь, to hire - взять напрокат, golf - гольф, club - бита, here - здесь</answer_comment>
+    
+    <uuid>db631766-7e42-4383-8714-b44e11bce233</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>In the evening we can go to the disco.</question>
+    <answer>Вечером можно пойти на дискотеку.</answer>
+    <comment>[ɪn ðiː ˈiːvnɪŋ wiː kæn goʊ tə ðə ˈdɪskoʊ]</comment>
+    <answer_comment>evening - вечер, we - мы, can - мочь, to go - идти, disco - дискотека</answer_comment>
+    
+    <uuid>bd0e2e33-6527-473b-995c-56e0840cd706</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you like dancing?</question>
+    <answer>Вам нравится танцевать?</answer>
+    <comment>[duː jʊ lаɪk ˈdænsɪŋ]</comment>
+    <answer_comment>to like - нравиться, любить, dancing - танец, танцы</answer_comment>
+    
+    <uuid>64ee32c8-93cb-4f3e-ad81-48843282fd23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We&apos;d better go to a night club.</question>
+    <answer>Пойдем лучше в ночной клуб.</answer>
+    <comment>[wiːd ˈbetər goʊ tu ə nаɪt klʌb]</comment>
+    <answer_comment>better - лучше, to go - идти, night - ночной, club - клуб</answer_comment>
+    
+    <uuid>15116a5d-5e19-4486-b76c-eed8f61dc9d7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There will be an erotic show in the club.</question>
+    <answer>В клубе будет эротическое шоу.</answer>
+    <comment>[ðer wɪl biː ən ɪˈrɑːtɪk ʃoʊ ɪn ðə klʌb]</comment>
+    <answer_comment>there will be - будет, erotic - эротический, show - шоу, club - клуб</answer_comment>
+    
+    <uuid>7fd799d6-a098-42dd-ac0f-c2a532dcd58c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to go to a night club tonight.</question>
+    <answer>Мне бы хотелось сходить в ночной клуб сегодня.</answer>
+    <comment>[аɪd lаɪk tə goʊ tə ə nаɪt klʌb təˈnаɪt]</comment>
+    <answer_comment>would like - хотеть, to go - идти, night - ночной, club - клуб, tonight - сегодня вечером</answer_comment>
+    
+    <uuid>15ffcb36-cbe3-4433-81fb-5f68f4ff58e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can we go dancing?</question>
+    <answer>Где можно потанцевать?</answer>
+    <comment>[hwer kæn wiː goʊ ˈdænsɪŋ]</comment>
+    <answer_comment>where - куда, где, can - мочь, we - мы, to go - идти, dancing - танец, танцы</answer_comment>
+    
+    <uuid>bdfbb05b-ffee-4b3e-987d-180acccc42c2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to dance?</question>
+    <answer>Хотите потанцевать?</answer>
+    <comment>[wʊd jʊ lаɪk tə dæns]</comment>
+    <answer_comment>would like - хотеть, to dance - танцевать</answer_comment>
+    
+    <uuid>4d79e021-5453-4c04-a1a2-cf166591194e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>No, thanks, I don&apos;t feel like dancing.</question>
+    <answer>Нет, спасибо, я не хочу танцевать.</answer>
+    <comment>[noʊ θæŋks аɪ doʊnt fiːl lаɪk ˈdænsɪŋ]</comment>
+    <answer_comment>thanks - спасибо, to feel like - хотеть, dancing - танец, танцы</answer_comment>
+    
+    <uuid>2dfe0982-7c7c-4f27-b747-1b156f416878</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is evening dress required?</question>
+    <answer>Надо ли приходить в вечернем платье?</answer>
+    <comment>[ɪz ˈiːvnɪŋ dres rɪˈkwаɪrd]</comment>
+    <answer_comment>evening - вечер, вечерний, dress - платье, required - необходимый, требуемый</answer_comment>
+    
+    <uuid>e40ab322-1226-47f3-a51f-0396cb4b3ec1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d take a ride around the city on a bicycle.</question>
+    <answer>Я бы покатался по городу на велосипеде.</answer>
+    <comment>[аɪd teɪk ə rаɪd əˈrаʊnd ðə ˈsɪtiː ɑːn ə ˈbаɪsɪkəl]</comment>
+    <answer_comment>to take - взять, брать, ride - поездка, around - вокруг, по, city - город, bicycle - велосипед</answer_comment>
+    
+    <uuid>0f72397e-5d74-4ca9-9f01-301532ccd9f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I hire a bicycle?</question>
+    <answer>Где можно взять напрокат велосипед?</answer>
+    <comment>[hwer kæn аɪ hаɪr ə ˈbаɪsɪkəl]</comment>
+    <answer_comment>where - где, can - мочь, to hire - взять напрокат, bicycle - велосипед</answer_comment>
+    
+    <uuid>68f237d3-38a4-4591-8f25-be0fd59acb9e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is bicycle rent for five days?</question>
+    <answer>Сколько стоит аренда велосипеда на пять дней?</answer>
+    <comment>[hаʊ mʌʧ ɪz ˈbаɪsɪkəl rent fər fаɪv ˈdeɪz]</comment>
+    <answer_comment>how - как, much - много, bicycle - велосипед, rent - арендная плата, five - пять, day - день</answer_comment>
+    
+    <uuid>ecb95987-bf7c-4a6c-976a-eecef1283295</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you like to have a glass of beer in the nearest bar?</question>
+    <answer>Не хотите ли попить пива в ближайшем баре?</answer>
+    <comment>[wʊd jʊ lаɪk tə hæv ə glæs əv bɪr ɪn ðə ˈnɪrɪst bɑːr]</comment>
+    <answer_comment>would like - хотеть, to have - иметь, glass - бокал, кружка, beer - пиво, the nearest - ближайший, bar - бар</answer_comment>
+    
+    <uuid>8b01cf86-dc44-4a3a-be46-2eda89adbbef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest casino?</question>
+    <answer>Где ближайшее казино?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst kəˈsiːnoʊ]</comment>
+    <answer_comment>where - где, the nearest - ближайший, casino - казино</answer_comment>
+    
+    <uuid>896cc58d-924a-4c43-9c80-51b221939202</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I enjoy spending time at the slot machines.</question>
+    <answer>Я с удовольствием провожу время за игровыми автоматами.</answer>
+    <comment>[аɪ enˈʤɔɪ ˈspendɪŋ tаɪm ət ðə slɑːt məˈʃiːnz]</comment>
+    <answer_comment>to enjoy - наслаждаться, spending - трата, проведение, time - время, slot machine - игровой автомат</answer_comment>
+    
+    <uuid>e300f8da-2fba-41a3-a3c8-2b8992b1fd5b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I like to go for walks along the river.</question>
+    <answer>Я люблю гулять вдоль реки.</answer>
+    <comment>[аɪ lаɪk tə goʊ fər wɔːks əˈlɔːŋ ðə ˈrɪvər]</comment>
+    <answer_comment>to like - любить, нравиться, to go - идти, ходить, walk - прогулка, along - вдоль, river - река</answer_comment>
+    
+    <uuid>bc209a46-48b1-4f43-b266-84ad7966338d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When I have spare time I like to visit the hippodrome.</question>
+    <answer>Когда есть время, я люблю посещать ипподром.</answer>
+    <comment>[hwen аɪ hæv sper tаɪm аɪ lаɪk tə ˈvɪzɪt ðə ˈhɪpəˌdroʊm]</comment>
+    <answer_comment>when - когда, to have - иметь, spare - свободный, time - время, to like - любить, нравиться, to visit - посещать, hippodrome - ипподром</answer_comment>
+    
+    <uuid>ebe77766-f03b-430f-8e17-dbeb092a5be0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Walking in the park is my largest pleasure.</question>
+    <answer>Прогулка по парку - мое самое большое удовольствие.</answer>
+    <comment>[ˈwɔːkɪŋ ɪn ðə pɑːrk ɪz mаɪ ˈlɑːrʤɪst ˈpleʒər]</comment>
+    <answer_comment>walking - прогулка, park - парк, largest - самый большой, pleasure - удовольствие</answer_comment>
+    
+    <uuid>9ebf15b6-deaf-4864-b3b2-584028502d3c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Did you have a good weekend?</question>
+    <answer>Вы хорошо провели выходные?</answer>
+    <comment>[dɪd jʊ hæv ə gʊd ˈwiːkˌend]</comment>
+    <answer_comment>to have - иметь, good - хороший, weekend - выходные</answer_comment>
+    
+    <uuid>f9cc76b5-6220-4958-8cc3-51939ebce275</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We had a great time.</question>
+    <answer>Мы отлично провели время.</answer>
+    <comment>[wiː hæd ə greɪt tаɪm]</comment>
+    <answer_comment>to have - иметь, great - отличный, time - время</answer_comment>
+    
+    <uuid>e7ab03f1-a0ae-4137-b882-c1495573e793</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We went to the beach.</question>
+    <answer>Мы ходили на пляж.</answer>
+    <comment>[wiː went tə ðə biːʧ]</comment>
+    <answer_comment>to go - ходить, beach - пляж</answer_comment>
+    
+    <uuid>37739d2b-b695-4a61-92f0-a79ef7088917</uuid>
+  </card>
+</cards>
+</stack>

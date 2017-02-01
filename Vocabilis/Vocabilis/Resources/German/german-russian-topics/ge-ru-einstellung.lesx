@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d3a01257-faf0-4538-b228-7d1fc8a2abc6</uuid>
+  <title>Прием на работу, устройство на работу</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Das Arbeitsamt</question>
+    <answer>биржа труда</answer>
+    <comment></comment>
+    <uuid>660ec6a7-498f-42d6-b04b-6d2d2681bedd</uuid>
+  </card>
+  <card>
+    <question>das Stellenangebot</question>
+    <answer>предложение вакантной должности</answer>
+    <comment></comment>
+    <uuid>fa567d8c-d52c-445b-ae19-b5b6e671fd3e</uuid>
+  </card>
+  <card>
+    <question>der Arbeitsplatz</question>
+    <answer>рабочее место</answer>
+    <comment></comment>
+    <uuid>90822890-50d4-4527-8c86-c8cc8747e30d</uuid>
+  </card>
+  <card>
+    <question>der Arbeitsvertrag</question>
+    <answer>трудовой договор</answer>
+    <comment></comment>
+    <uuid>7a1cc3bf-5264-4aec-9219-72b2d7689592</uuid>
+  </card>
+  <card>
+    <question>der Feiertag</question>
+    <answer>праздник</answer>
+    <comment></comment>
+    <uuid>ed99022a-f7e8-43e8-8ea9-a68d9d75ab31</uuid>
+  </card>
+  <card>
+    <question>der freie Samstag</question>
+    <answer>свободная (нерабочая) суббота</answer>
+    <comment></comment>
+    <uuid>584af736-2b83-4b72-904e-19da3a052177</uuid>
+  </card>
+  <card>
+    <question>der Lebenslauf</question>
+    <answer>биография</answer>
+    <comment></comment>
+    <uuid>d424adca-9d15-4154-8160-1c3848cc6a7e</uuid>
+  </card>
+  <card>
+    <question>der Urlaub</question>
+    <answer>отпуск</answer>
+    <comment></comment>
+    <uuid>d04ee44c-b2b7-47d2-8047-3d66032f3973</uuid>
+  </card>
+  <card>
+    <question>die Abmahnung</question>
+    <answer>напоминание, предупреждение</answer>
+    <comment></comment>
+    <uuid>59cafc3c-a326-4749-b5b0-0592e0e003cd</uuid>
+  </card>
+  <card>
+    <question>die Arbeitserlaubnis</question>
+    <answer>разрешение на работу</answer>
+    <comment></comment>
+    <uuid>a3807966-b65a-48f5-b250-4658e332a375</uuid>
+  </card>
+  <card>
+    <question>die Arbeitserlaubnis beantragen</question>
+    <answer>ходатайствовать о разрешении на работу</answer>
+    <comment></comment>
+    <uuid>0ae91995-5aa2-40ce-83c3-04e39135b183</uuid>
+  </card>
+  <card>
+    <question>die Arbeitsvermittlung</question>
+    <answer>посредничество в трудоустройстве</answer>
+    <comment></comment>
+    <uuid>2dfc8a64-066e-466c-8cb8-93e966a64d98</uuid>
+  </card>
+  <card>
+    <question>die Arbeitszeit</question>
+    <answer>рабочее время</answer>
+    <comment></comment>
+    <uuid>c19fab56-db80-44c9-88df-107a9d606af7</uuid>
+  </card>
+  <card>
+    <question>die Beschäftigung</question>
+    <answer>занятие, работа</answer>
+    <comment></comment>
+    <uuid>1a25d944-eb66-4f88-8540-a2bfa8d79068</uuid>
+  </card>
+  <card>
+    <question>die Bewerbung</question>
+    <answer>заявление о приеме на работу</answer>
+    <comment></comment>
+    <uuid>f73dd689-6123-4796-ac72-ecb1b7d8902d</uuid>
+  </card>
+  <card>
+    <question>die Einstellung</question>
+    <answer>прием на работу</answer>
+    <comment></comment>
+    <uuid>6547da88-df70-439a-8a19-436a8d241772</uuid>
+  </card>
+  <card>
+    <question>die Entlassung</question>
+    <answer>увольнение</answer>
+    <comment></comment>
+    <uuid>4a5e26c3-f0a8-49be-886a-5043862c1eaf</uuid>
+  </card>
+  <card>
+    <question>die gleitende Arbeitszeit</question>
+    <answer>скользящий рабочий график</answer>
+    <comment></comment>
+    <uuid>87dc97e3-194b-4d44-b556-2005fb1c1e13</uuid>
+  </card>
+  <card>
+    <question>die illegale Arbeit</question>
+    <answer>нелегальная работа</answer>
+    <comment></comment>
+    <uuid>17f6aaac-0259-46c4-a42c-d7e1c48ad8cd</uuid>
+  </card>
+  <card>
+    <question>die Kurzarbeit</question>
+    <answer>неполный рабочий день</answer>
+    <comment></comment>
+    <uuid>6407c035-437f-4b42-8006-7ac88fb97ccd</uuid>
+  </card>
+  <card>
+    <question>die Kündigung</question>
+    <answer>увольнение, разрыв трудового договора</answer>
+    <comment></comment>
+    <uuid>3c39098b-a458-4c4b-9697-2abf815e3844</uuid>
+  </card>
+  <card>
+    <question>die Probezeit</question>
+    <answer>испытательный срок</answer>
+    <comment></comment>
+    <uuid>744b587d-8787-401f-b647-36b72ea45682</uuid>
+  </card>
+  <card>
+    <question>die Schicht</question>
+    <answer>смена</answer>
+    <comment></comment>
+    <uuid>00ce655d-4a06-4e90-9f32-486086e3fe57</uuid>
+  </card>
+  <card>
+    <question>die Schwarzarbeit</question>
+    <answer>&quot;левая&quot; (незаконная) работа</answer>
+    <comment></comment>
+    <uuid>5ff9775a-46eb-4890-9c5b-e01bcdf636b3</uuid>
+  </card>
+  <card>
+    <question>die Vorstellung</question>
+    <answer>представление, собеседование</answer>
+    <comment></comment>
+    <uuid>33bc8f95-0240-44ae-987c-f59d87042434</uuid>
+  </card>
+  <card>
+    <question>entlassen werden</question>
+    <answer>быть уволенным, получить расчет</answer>
+    <comment></comment>
+    <uuid>7b8439d3-050f-4da8-9215-b5412d3d7814</uuid>
+  </card>
+  <card>
+    <question>Haben Sie Referenzen?</question>
+    <answer>У Вас есть отзывы, рекомендации?</answer>
+    <comment></comment>
+    <uuid>d3a2dccd-d439-4529-ac4f-dc7bb2662754</uuid>
+  </card>
+  <card>
+    <question>Haben Sie Zeugnisse?</question>
+    <answer>У Вас есть свидетельства?</answer>
+    <comment></comment>
+    <uuid>53b9bff4-ffec-4fe5-8df5-e8619be3c0fe</uuid>
+  </card>
+  <card>
+    <question>halbtags arbeiten</question>
+    <answer>работать полдня</answer>
+    <comment></comment>
+    <uuid>42b49e85-2651-4114-b07a-ed6fbcc6d93c</uuid>
+  </card>
+  <card>
+    <question>Hiermit bewerbe ich mich als ...</question>
+    <answer>Настоящим я предлагаю свои услуги в качестве . . .</answer>
+    <comment></comment>
+    <uuid>8cffd439-2642-4923-a9ef-6b5256c4ede7</uuid>
+  </card>
+  <card>
+    <question>Ich bin ... geboren.</question>
+    <answer>Я родился . . .</answer>
+    <comment></comment>
+    <uuid>91b75e2b-0eea-48c1-9461-5b995de9eac9</uuid>
+  </card>
+  <card>
+    <question>Ich habe folgende Ausbildung</question>
+    <answer>У меня следующее образование</answer>
+    <comment></comment>
+    <uuid>0103bc40-5a3f-49bc-b537-5eadd85f003f</uuid>
+  </card>
+  <card>
+    <question>Ich heiße ...</question>
+    <answer>Меня зовут . . .</answer>
+    <comment></comment>
+    <uuid>a7a17e44-f408-4537-a487-a267be7a4b9e</uuid>
+  </card>
+  <card>
+    <question>Ich wohne ...</question>
+    <answer>Я живу ...</answer>
+    <comment></comment>
+    <uuid>828b28fb-625d-40c3-a637-44a74c5765bb</uuid>
+  </card>
+  <card>
+    <question>Kommen sich am Montag vorstellen.</question>
+    <answer>Приходите в понедельник на собеседование.</answer>
+    <comment></comment>
+    <uuid>23be1d73-fe4b-4d44-9cc6-1fb109dc3c99</uuid>
+  </card>
+  <card>
+    <question>Meine bisherigen Tätigkeiten</question>
+    <answer>Моя трудовая деятельность до настоящего времени</answer>
+    <comment></comment>
+    <uuid>56677df3-2ea6-465b-afb1-2c3f197499dd</uuid>
+  </card>
+  <card>
+    <question>meine Zeugnisse</question>
+    <answer>мои дипломы, свидетельства</answer>
+    <comment></comment>
+    <uuid>8ea4bc30-14a6-4369-98c9-b44fe40ccea7</uuid>
+  </card>
+  <card>
+    <question>Sie können als Lkw-Fahrer arbeiten.</question>
+    <answer>Вы можете работать водителем грузовика.</answer>
+    <comment></comment>
+    <uuid>e1468f53-79fe-4458-a836-43c126d397d4</uuid>
+  </card>
+  <card>
+    <question>Sie können bei uns ab Mai anfangen.</question>
+    <answer>Вы можете начать работать у нас с мая.</answer>
+    <comment></comment>
+    <uuid>71633d47-5638-411a-b483-c94dcb9e1b8f</uuid>
+  </card>
+  <card>
+    <question>Sie können im Büro arbeiten.</question>
+    <answer>Вы можете работать в бюро.</answer>
+    <comment></comment>
+    <uuid>95949272-b60c-4cf9-a174-7633de01de08</uuid>
+  </card>
+  <card>
+    <question>Wo haben Sie bisher gearbeitet?</question>
+    <answer>Где Вы раньше работали?</answer>
+    <comment></comment>
+    <uuid>07ed6dfa-2a69-4d71-8bf8-e16398d346a3</uuid>
+  </card>
+  <card>
+    <question>Wo ist die Personalabteilung?</question>
+    <answer>Где находится отдел кадров?</answer>
+    <comment></comment>
+    <uuid>f5649822-208e-4480-8879-d28138d5f3f5</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7a0442e9-4b1a-4a9a-9aa3-8714fd52a2de</uuid>
+  <title>Деловой английский - 11</title>
+  <author>Роман Килин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>forward purchase</question>
+    <answer>покупка на срок</answer>
+    <comment>[ˈfɔːwəd ˈpɜːʧəs]</comment>
+    <uuid>994e9cc4-3bb4-4e2d-a93c-7262586b3d10</uuid>
+  </card>
+  <card>
+    <question>forward transaction</question>
+    <answer>сделка на срок</answer>
+    <comment>[ˈfɔːwəd trænˈzækʃən]</comment>
+    <uuid>55aeea60-3008-4ae3-9e08-79bb362e9a15</uuid>
+  </card>
+  <card>
+    <question>forwarding</question>
+    <answer>сопроводительный</answer>
+    <comment>[ˈfɔːwədɪŋ]</comment>
+    <uuid>37e615dc-aa8d-455f-a089-e8d4178d1cc3</uuid>
+  </card>
+  <card>
+    <question>found</question>
+    <answer>основывать, учреждать</answer>
+    <comment>[fаʊnd]</comment>
+    <uuid>dae835da-8811-47b2-b251-6ae108caa954</uuid>
+  </card>
+  <card>
+    <question>founded</question>
+    <answer>основанный, основал</answer>
+    <comment>[fаʊndd]</comment>
+    <uuid>ebc350b7-e9c6-4332-8f2c-db39c375679a</uuid>
+  </card>
+  <card>
+    <question>founder</question>
+    <answer>учредитель, основатель</answer>
+    <comment>[ˈfаʊndə]</comment>
+    <uuid>ae18fb95-0d74-4c7c-8c1d-177496c4958e</uuid>
+  </card>
+  <card>
+    <question>founders</question>
+    <answer>учредители</answer>
+    <comment>[ˈfаʊndə]</comment>
+    <uuid>ba0a5111-6692-40b0-8109-ff144831a8fa</uuid>
+  </card>
+  <card>
+    <question>foundry</question>
+    <answer>литейный цех</answer>
+    <comment>[ˈfаʊndrɪ]</comment>
+    <uuid>9ae241a9-c3fe-4747-ab2d-eb2b1dcbbb52</uuid>
+  </card>
+  <card>
+    <question>frankly</question>
+    <answer>откровенно</answer>
+    <comment>[ˈfræŋkli]</comment>
+    <uuid>1df7513d-4950-4dcb-a478-a7c116afb048</uuid>
+  </card>
+  <card>
+    <question>free</question>
+    <answer>бесплатно, свободный</answer>
+    <comment>[friː]</comment>
+    <uuid>8b90f2e5-f436-4126-a8a5-09de4e79b81f</uuid>
+  </card>
+  <card>
+    <question>free of charge</question>
+    <answer>бесплатно</answer>
+    <comment>[friː ɒv ʧɑːʤ]</comment>
+    <uuid>0472e719-7c92-4bb8-baf2-a82eabbbeb56</uuid>
+  </card>
+  <card>
+    <question>freight</question>
+    <answer>фрахт, груз, грузовой</answer>
+    <comment>[freɪt]</comment>
+    <uuid>a227b198-e581-4025-82a2-66f8b2f83aff</uuid>
+  </card>
+  <card>
+    <question>friend</question>
+    <answer>друг</answer>
+    <comment>[frend]</comment>
+    <uuid>15a1ba99-42d5-4605-a620-3a3870747bd7</uuid>
+  </card>
+  <card>
+    <question>friendly</question>
+    <answer>дружественный</answer>
+    <comment>[ˈfrendlɪ]</comment>
+    <uuid>0b3f08d3-c919-4cef-ba8a-75bd1a59a99d</uuid>
+  </card>
+  <card>
+    <question>friends</question>
+    <answer>друзья</answer>
+    <comment>[frend]</comment>
+    <uuid>b9902a4e-2db6-4e14-83d4-d6c25a1773c2</uuid>
+  </card>
+  <card>
+    <question>from</question>
+    <answer>из, от</answer>
+    <comment>[frɒm]</comment>
+    <uuid>e3d4e67e-34d1-4f3a-84b8-9e647998067d</uuid>
+  </card>
+  <card>
+    <question>fruitful</question>
+    <answer>плодотворный</answer>
+    <comment>[ˈfruːtfʊl]</comment>
+    <uuid>2594793c-55fd-4891-b65c-cbf0afa9fce8</uuid>
+  </card>
+  <card>
+    <question>fulfil</question>
+    <answer>выполнить</answer>
+    <comment>[fʊlˈfɪl]</comment>
+    <uuid>b96a91be-1351-4133-93d8-ab7fa281f07e</uuid>
+  </card>
+  <card>
+    <question>fulfilled</question>
+    <answer>выполнил</answer>
+    <comment>[fʊlˈfɪld]</comment>
+    <uuid>6f9a1bd3-b9fb-4bb8-943d-373942ab5c2a</uuid>
+  </card>
+  <card>
+    <question>fulfilment</question>
+    <answer>выполнение</answer>
+    <comment>[fʊlˈfɪlmənt]</comment>
+    <uuid>60ab1e93-99a2-433e-a665-749de96be56b</uuid>
+  </card>
+  <card>
+    <question>full</question>
+    <answer>полный</answer>
+    <comment>[fʊl]</comment>
+    <uuid>9ad5f752-9af7-4c79-a063-b54277118383</uuid>
+  </card>
+  <card>
+    <question>fully</question>
+    <answer>полностью</answer>
+    <comment>[ˈfʊlɪ]</comment>
+    <uuid>3f3896ef-dd9d-4f8a-b0b7-e76d890a3c2c</uuid>
+  </card>
+  <card>
+    <question>fund</question>
+    <answer>денежные средства, фонд</answer>
+    <comment>[fʌnd]</comment>
+    <uuid>0e08f5ac-dbdf-436a-82b6-029a6f65c853</uuid>
+  </card>
+  <card>
+    <question>funds</question>
+    <answer>средства</answer>
+    <comment>[fʌnd]</comment>
+    <uuid>f772f7ee-0f4f-49ad-a735-24fbea858e61</uuid>
+  </card>
+  <card>
+    <question>furnish</question>
+    <answer>предоставлять, снабжать</answer>
+    <comment>[ˈfɜːnɪʃ]</comment>
+    <uuid>b4209e74-4dc9-489e-8a60-49abe6e0e6d0</uuid>
+  </card>
+  <card>
+    <question>furnished</question>
+    <answer>меблированный</answer>
+    <comment>[ˈfɜːnɪʃt]</comment>
+    <uuid>7752838a-3945-4df6-8010-e708d36a1c55</uuid>
+  </card>
+  <card>
+    <question>future</question>
+    <answer>будущее</answer>
+    <comment>[ˈfjuːʧə]</comment>
+    <uuid>87b37050-54aa-4b89-8972-11d1515cd775</uuid>
+  </card>
+  <card>
+    <question>general</question>
+    <answer>общий, генеральный</answer>
+    <comment>[ˈʤenərəl]</comment>
+    <uuid>6b5c468c-1ee3-4e8c-adc8-21ec73ac9a78</uuid>
+  </card>
+  <card>
+    <question>generous</question>
+    <answer>великодушный</answer>
+    <comment>[ˈʤenərəs]</comment>
+    <uuid>6d91913b-bec1-44c0-9dc5-54486caf2666</uuid>
+  </card>
+  <card>
+    <question>gentlemen</question>
+    <answer>господа</answer>
+    <comment>[(---)]</comment>
+    <uuid>1f754e1a-2ec7-488c-bdc9-ae502efdfb28</uuid>
+  </card>
+  <card>
+    <question>geological</question>
+    <answer>геологический</answer>
+    <comment>[ʤɪəˈlɒʤɪkəl]</comment>
+    <uuid>4b15d849-9505-41d9-abe0-8f5ec368b779</uuid>
+  </card>
+  <card>
+    <question>German</question>
+    <answer>немецкий</answer>
+    <comment>[ˈʤɜːmən]</comment>
+    <uuid>05d802d8-4648-42e3-be2b-8e4531644807</uuid>
+  </card>
+  <card>
+    <question>get</question>
+    <answer>получать, добраться</answer>
+    <comment>[get]</comment>
+    <uuid>30781e3f-1b0e-4908-a013-75dabbaba168</uuid>
+  </card>
+  <card>
+    <question>give</question>
+    <answer>передавать, давать</answer>
+    <comment>[gɪv]</comment>
+    <uuid>573997f6-cfa4-4426-b798-8ecfd1217dc3</uuid>
+  </card>
+  <card>
+    <question>give up</question>
+    <answer>бросить</answer>
+    <comment>[gɪv ʌp]</comment>
+    <uuid>53b82686-6493-4182-976f-257eea5887a2</uuid>
+  </card>
+  <card>
+    <question>given</question>
+    <answer>данный</answer>
+    <comment>[ˈgɪvn]</comment>
+    <uuid>54c477c5-a24a-4548-b2e1-9984e81369d4</uuid>
+  </card>
+  <card>
+    <question>go</question>
+    <answer>идти, отправляться</answer>
+    <comment>[gəʊ]</comment>
+    <uuid>8bf7ff19-8daf-4722-a9e2-7920f0467bcf</uuid>
+  </card>
+  <card>
+    <question>go down</question>
+    <answer>снижаться</answer>
+    <comment>[gəʊ dаʊn]</comment>
+    <uuid>86ef2c92-a1bf-4e7a-9600-9df4422aaef7</uuid>
+  </card>
+  <card>
+    <question>go up</question>
+    <answer>повышаться</answer>
+    <comment>[gəʊ ʌp]</comment>
+    <uuid>b07b8e2e-8e1b-4a3c-9237-595e2b008740</uuid>
+  </card>
+  <card>
+    <question>goal</question>
+    <answer>цель, задача</answer>
+    <comment>[gəʊl]</comment>
+    <uuid>0794f526-53e6-429d-aab5-9fa23593cc72</uuid>
+  </card>
+  <card>
+    <question>goals</question>
+    <answer>цели</answer>
+    <comment>[gəʊl]</comment>
+    <uuid>8c4edb61-e9cb-4112-ab37-c666727d7909</uuid>
+  </card>
+  <card>
+    <question>going</question>
+    <answer>идущий</answer>
+    <comment>[ˈgəʊɪŋ]</comment>
+    <uuid>c39493b4-fce1-4c70-acf3-f8c1765ae7b1</uuid>
+  </card>
+  <card>
+    <question>gone up</question>
+    <answer>повышенный</answer>
+    <comment>[gɒn ʌp]</comment>
+    <uuid>29eb783f-6a15-486d-b9e0-6dc46e5eccfa</uuid>
+  </card>
+  <card>
+    <question>good</question>
+    <answer>хороший, добрый</answer>
+    <comment>[gʊd]</comment>
+    <uuid>af8586c8-c040-4070-84de-111eeeaf02e0</uuid>
+  </card>
+  <card>
+    <question>goods</question>
+    <answer>груз, товар, товары</answer>
+    <comment>[gʊdz]</comment>
+    <uuid>c706ab34-f2d2-465a-8abd-a1bfe19b55b3</uuid>
+  </card>
+  <card>
+    <question>goods expert</question>
+    <answer>товаровед</answer>
+    <comment>[gʊdz ˈekspɜːt]</comment>
+    <uuid>c56c7656-cde8-4e0b-8a0b-b9cd18b7e213</uuid>
+  </card>
+  <card>
+    <question>got</question>
+    <answer>полученный, получил</answer>
+    <comment>[gɒt]</comment>
+    <uuid>752d1288-0741-4d26-81b8-a0c3a83a7033</uuid>
+  </card>
+  <card>
+    <question>grace days</question>
+    <answer>дни льготные</answer>
+    <comment>[greɪs ˈdeɪ]</comment>
+    <uuid>b9f9fbf0-4027-4b95-90f7-c81fe9663442</uuid>
+  </card>
+  <card>
+    <question>grace for novelty</question>
+    <answer>льготы по новизне</answer>
+    <comment>[greɪs fə ˈnɒvəltɪ]</comment>
+    <uuid>e61642c1-0429-4a8a-a08b-1e15b5d3251a</uuid>
+  </card>
+  <card>
+    <question>grace period</question>
+    <answer>льготный период</answer>
+    <comment>[greɪs ˈpɪərɪəd]</comment>
+    <uuid>c676af50-836c-4645-b7f2-10ccb1679bc3</uuid>
+  </card>
+  <card>
+    <question>grade</question>
+    <answer>сорт</answer>
+    <comment>[greɪd]</comment>
+    <uuid>f5e44ef7-065b-4b06-ba5b-3bb60cf70381</uuid>
+  </card>
+  <card>
+    <question>grading</question>
+    <answer>сортировка, классификация</answer>
+    <comment>[ˈgreɪdɪŋ]</comment>
+    <uuid>b23c036c-36db-42b0-9385-1089a1ce8d23</uuid>
+  </card>
+  <card>
+    <question>graduate</question>
+    <answer>окончить учебное заведение</answer>
+    <comment>[ˈgrædjʊət]</comment>
+    <uuid>5b366fef-c507-4ca6-9844-6a9fd793e37a</uuid>
+  </card>
+  <card>
+    <question>grant</question>
+    <answer>предоставить</answer>
+    <comment>[grɑːnt]</comment>
+    <uuid>b7724533-6ae3-4bfb-8f2e-99a4ece3b4b3</uuid>
+  </card>
+  <card>
+    <question>granted</question>
+    <answer>предоставил, выдал</answer>
+    <comment>[grɑːntd]</comment>
+    <uuid>e440be0c-6b59-46b6-9797-477b228efc03</uuid>
+  </card>
+  <card>
+    <question>granting of a credit</question>
+    <answer>выдача кредита</answer>
+    <comment>[ˈgrɑːntɪŋ ɒv ə ˈkredɪt]</comment>
+    <uuid>079b2ed1-b791-4ef3-b418-2e17c7216b8a</uuid>
+  </card>
+  <card>
+    <question>grants</question>
+    <answer>выдает</answer>
+    <comment>[grɑːnt]</comment>
+    <uuid>46e1e352-a6f4-48b3-ad2e-3c3e77e3e2b1</uuid>
+  </card>
+  <card>
+    <question>gravity</question>
+    <answer>тяжесть</answer>
+    <comment>[ˈgrævɪtɪ]</comment>
+    <uuid>c875562c-9592-4aa7-855e-205e1a40bd97</uuid>
+  </card>
+  <card>
+    <question>great</question>
+    <answer>огромный, большой</answer>
+    <comment>[greɪt]</comment>
+    <uuid>8ec52faf-0f69-4c21-80cd-6424c34be28f</uuid>
+  </card>
+  <card>
+    <question>greatly</question>
+    <answer>весьма, очень</answer>
+    <comment>[ˈgreɪtlɪ]</comment>
+    <uuid>338131eb-90ac-44d9-ab00-7dd65a25426a</uuid>
+  </card>
+  <card>
+    <question>greeting</question>
+    <answer>приветствие</answer>
+    <comment>[ˈgriːtɪŋ]</comment>
+    <uuid>1ffcfbab-78c1-44a0-b76a-55fe25d01716</uuid>
+  </card>
+  <card>
+    <question>greetings</question>
+    <answer>приветствия</answer>
+    <comment>[ˈgriːtɪŋ]</comment>
+    <uuid>6a3b1390-8cdb-4039-9de4-6b1371cac87c</uuid>
+  </card>
+  <card>
+    <question>gross</question>
+    <answer>брутто, валовой</answer>
+    <comment>[grəʊs]</comment>
+    <uuid>759c1af5-4d64-4916-8d41-add7c1b1a655</uuid>
+  </card>
+  <card>
+    <question>gross domestic product (GDP)</question>
+    <answer>валовой объем отечественной продукции</answer>
+    <comment>[grəʊs dəʊˈmestɪk ˈprɒdʌkt (---)]</comment>
+    <uuid>4534827c-1984-430a-a1c7-b25deb73b04b</uuid>
+  </card>
+  <card>
+    <question>gross income</question>
+    <answer>доход валовой</answer>
+    <comment>[grəʊs ˈɪnkʌm]</comment>
+    <uuid>1053d8e4-3dba-41d9-94b3-f21dbfe83165</uuid>
+  </card>
+  <card>
+    <question>gross output</question>
+    <answer>продукция валовая</answer>
+    <comment>[grəʊs ˈаʊtpʊt]</comment>
+    <uuid>960acdd3-b159-444e-8359-a169bd285003</uuid>
+  </card>
+  <card>
+    <question>gross premium</question>
+    <answer>брутто ставка</answer>
+    <comment>[grəʊs ˈpriːmjəm]</comment>
+    <uuid>8fa19326-fe52-47a0-a9d4-045d6b31533a</uuid>
+  </card>
+  <card>
+    <question>gross price</question>
+    <answer>цена-брутто</answer>
+    <comment>[grəʊs prаɪs]</comment>
+    <uuid>e6a976c4-1295-406d-82b6-f181940b7138</uuid>
+  </card>
+  <card>
+    <question>gross profit</question>
+    <answer>доход</answer>
+    <comment>[grəʊs ˈprɒfɪt]</comment>
+    <uuid>bf6df920-ad92-489e-931d-af9db5d4cc4c</uuid>
+  </card>
+  <card>
+    <question>gross receipts</question>
+    <answer>выручка валовая</answer>
+    <comment>[grəʊs rɪˈsiːt]</comment>
+    <uuid>75c28869-0edd-4aa9-86c2-683b37148f89</uuid>
+  </card>
+  <card>
+    <question>gross shipment</question>
+    <answer>валовая отгрузка</answer>
+    <comment>[grəʊs ˈʃɪpmənt]</comment>
+    <uuid>b488d118-f086-43b3-b469-837ff371a7b1</uuid>
+  </card>
+  <card>
+    <question>gross weight</question>
+    <answer>вес брутто</answer>
+    <comment>[grəʊs weɪt]</comment>
+    <uuid>5932817b-597d-4767-8e11-489129fa9ce6</uuid>
+  </card>
+  <card>
+    <question>ground</question>
+    <answer>обоснование, мотив</answer>
+    <comment>[grаʊnd]</comment>
+    <uuid>06eb93c5-50b7-480e-ae1e-5579f492e01c</uuid>
+  </card>
+  <card>
+    <question>grounding</question>
+    <answer>посадка на мель</answer>
+    <comment>[ˈgrаʊndɪŋ]</comment>
+    <uuid>06386b6b-3e48-44a0-b468-08d6f0ced651</uuid>
+  </card>
+  <card>
+    <question>group</question>
+    <answer>группа</answer>
+    <comment>[gruːp]</comment>
+    <uuid>26c194e5-27f4-489c-89f4-6728cb43feef</uuid>
+  </card>
+  <card>
+    <question>guarantee</question>
+    <answer>поручительство, гарантия, гарантировать</answer>
+    <comment>[ˌgærənˈtiː]</comment>
+    <uuid>6b21a7e9-e05f-4830-bda0-be5adb85e73b</uuid>
+  </card>
+  <card>
+    <question>guaranteed</question>
+    <answer>гарантированный, гарантировал</answer>
+    <comment>[ˌgærənˈtiːd]</comment>
+    <uuid>0684f16b-6eb8-42fd-bcbc-986e8c743a28</uuid>
+  </card>
+  <card>
+    <question>guarantor</question>
+    <answer>банк-гарант, гарант, поручитель</answer>
+    <comment>[ˌgærənˈtɔː]</comment>
+    <uuid>c908afcc-cec1-478d-9e9f-dfd7acce8cd9</uuid>
+  </card>
+  <card>
+    <question>guest</question>
+    <answer>гость</answer>
+    <comment>[gest]</comment>
+    <uuid>a556691f-975f-49ff-b4f2-2caa2377d7cd</uuid>
+  </card>
+  <card>
+    <question>guests</question>
+    <answer>гости</answer>
+    <comment>[gest]</comment>
+    <uuid>058cb3f5-44ca-44d7-baa6-836f5eea1fae</uuid>
+  </card>
+  <card>
+    <question>half</question>
+    <answer>половина</answer>
+    <comment>[hɑːf]</comment>
+    <uuid>69863a81-0ac1-4f5f-9186-0f5a9a64e1ea</uuid>
+  </card>
+  <card>
+    <question>hand</question>
+    <answer>сторона</answer>
+    <comment>[hænd]</comment>
+    <uuid>6b3f425c-9217-464d-90f6-87ba8a10010b</uuid>
+  </card>
+  <card>
+    <question>handling</question>
+    <answer>занимающийся</answer>
+    <comment>[ˈhændlɪŋ]</comment>
+    <uuid>fcecfaa5-6d8d-4e96-8bc6-52cf7f60e32b</uuid>
+  </card>
+  <card>
+    <question>happy</question>
+    <answer>счастливый</answer>
+    <comment>[ˈhæpɪ]</comment>
+    <uuid>72ced684-c435-493c-b08b-54de7b73fe21</uuid>
+  </card>
+  <card>
+    <question>hard</question>
+    <answer>твердый, конвертируемый</answer>
+    <comment>[hɑːd]</comment>
+    <uuid>998eec54-956a-4f06-a513-cde76a32552f</uuid>
+  </card>
+  <card>
+    <question>hardly</question>
+    <answer>едва</answer>
+    <comment>[ˈhɑːdlɪ]</comment>
+    <uuid>a5ec0750-6e35-4ae6-ad99-fb4d55d6d4da</uuid>
+  </card>
+  <card>
+    <question>have</question>
+    <answer>иметь</answer>
+    <comment>[hæv]</comment>
+    <uuid>3aa78fcc-c5dd-42ab-9263-e38d989faf91</uuid>
+  </card>
+  <card>
+    <question>hazard</question>
+    <answer>бедствие</answer>
+    <comment>[ˈhæzəd]</comment>
+    <uuid>4c6d3fae-f753-4db7-8e9a-fc655b00a742</uuid>
+  </card>
+  <card>
+    <question>hear</question>
+    <answer>узнавать, слышать</answer>
+    <comment>[hɪə]</comment>
+    <uuid>7a0fda01-5d83-4bd1-b448-9cb3ec641261</uuid>
+  </card>
+  <card>
+    <question>hearing</question>
+    <answer>слушание</answer>
+    <comment>[ˈhɪərɪŋ]</comment>
+    <uuid>5f480e98-da10-4293-b175-b869bd59ebb2</uuid>
+  </card>
+  <card>
+    <question>heavily</question>
+    <answer>сильно</answer>
+    <comment>[ˈhevɪlɪ]</comment>
+    <uuid>53cb5104-a5ab-4459-9dd5-486af6b9a4ce</uuid>
+  </card>
+  <card>
+    <question>heavy</question>
+    <answer>тяжелый, большой</answer>
+    <comment>[ˈhevɪ]</comment>
+    <uuid>ca7dfb1b-20e7-4cc7-b697-c6aab084ce6d</uuid>
+  </card>
+  <card>
+    <question>held</question>
+    <answer>провел</answer>
+    <comment>[held]</comment>
+    <uuid>afaf54ac-d462-49d0-a0f8-ba25da680dcd</uuid>
+  </card>
+  <card>
+    <question>help</question>
+    <answer>помогать</answer>
+    <comment>[help]</comment>
+    <uuid>61296252-5ae3-49a4-a103-9711350b6eab</uuid>
+  </card>
+  <card>
+    <question>here</question>
+    <answer>вот, здесь</answer>
+    <comment>[hɪə]</comment>
+    <uuid>1a1e2cde-d38d-4859-a82c-cd576ecd13f0</uuid>
+  </card>
+  <card>
+    <question>high</question>
+    <answer>высокий</answer>
+    <comment>[hаɪ]</comment>
+    <uuid>d48e919d-49f0-4833-acc0-4c6093fe2e9e</uuid>
+  </card>
+  <card>
+    <question>higher</question>
+    <answer>выше</answer>
+    <comment>[ˈhаɪə]</comment>
+    <uuid>7d8f3e4c-3ebd-4ec2-b183-a9d477963e13</uuid>
+  </card>
+  <card>
+    <question>highway</question>
+    <answer>шоссе</answer>
+    <comment>[ˈhаɪweɪ]</comment>
+    <uuid>2a688394-72fc-48a1-9999-8330cd71a552</uuid>
+  </card>
+  <card>
+    <question>hinder</question>
+    <answer>препятствовать, мешать</answer>
+    <comment>[ˈhаɪndə]</comment>
+    <uuid>3ee52c0a-fb31-4ec0-9244-9eff214f504d</uuid>
+  </card>
+  <card>
+    <question>hindered</question>
+    <answer>препятствовал</answer>
+    <comment>[ˈhаɪndəd]</comment>
+    <uuid>a8e4ed58-7c04-4d31-8fbb-c87e217bf0bb</uuid>
+  </card>
+</cards>
+</stack>

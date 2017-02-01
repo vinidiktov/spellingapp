@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3282deff-d409-4d29-bcb5-67d796a94e35</uuid>
+  <title>Ландшафт</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>l&apos;après-midi</question>
+    <answer>послеобеденное время</answer>
+    <comment></comment>
+    <answer_picture>afternoon.gif</answer_picture>
+    <uuid>032cae36-ab37-48a3-b711-699ae1c29087</uuid>
+  </card>
+  <card>
+    <question>l&apos;automne</question>
+    <answer>осень</answer>
+    <comment></comment>
+    <answer_picture>autumn.gif</answer_picture>
+    <uuid>52c8ec73-fddf-41bc-91db-718263b7ebec</uuid>
+  </card>
+  <card>
+    <question>la plage</question>
+    <answer>пляж</answer>
+    <comment></comment>
+    <answer_picture>beach.gif</answer_picture>
+    <uuid>77a13cad-dcc6-4dd3-892b-81537c0d1747</uuid>
+  </card>
+  <card>
+    <question>la ville</question>
+    <answer>город (S. town)</answer>
+    <comment></comment>
+    <answer_picture>city.gif</answer_picture>
+    <uuid>7e3e7b23-1358-4746-ba8b-fb60e7cb1e3d</uuid>
+  </card>
+  <card>
+    <question>le désert</question>
+    <answer>пустыня</answer>
+    <comment></comment>
+    <answer_picture>desert.gif</answer_picture>
+    <uuid>4dd84d4d-72bc-4e50-b4c1-df6f0279870b</uuid>
+  </card>
+  <card>
+    <question>le soir</question>
+    <answer>вечер</answer>
+    <comment></comment>
+    <answer_picture>evening.gif</answer_picture>
+    <uuid>9b3d008f-0a9e-4777-ac64-c3ec61831b07</uuid>
+  </card>
+  <card>
+    <question>la ferme</question>
+    <answer>ферма</answer>
+    <comment></comment>
+    <answer_picture>farm.gif</answer_picture>
+    <uuid>c6b6459c-7a11-4e51-8de2-c71637cdf571</uuid>
+  </card>
+  <card>
+    <question>la forêt</question>
+    <answer>лес</answer>
+    <comment></comment>
+    <answer_picture>forest.gif</answer_picture>
+    <uuid>40fbdec5-d9c3-4de3-b6a5-409a63d1110d</uuid>
+  </card>
+  <card>
+    <question>le lac</question>
+    <answer>озеро</answer>
+    <comment></comment>
+    <answer_picture>lake.gif</answer_picture>
+    <uuid>bb68a751-5cd8-4a57-aadb-fb72c61bf6b6</uuid>
+  </card>
+  <card>
+    <question>le matin</question>
+    <answer>утро</answer>
+    <comment></comment>
+    <answer_picture>morning.gif</answer_picture>
+    <uuid>c80d13c6-0fe2-4d56-9796-51982e7e5213</uuid>
+  </card>
+  <card>
+    <question>la montagne</question>
+    <answer>гора</answer>
+    <comment></comment>
+    <answer_picture>mountain.gif</answer_picture>
+    <uuid>aa2392cb-0859-4a09-a3c6-1884ab85a408</uuid>
+  </card>
+  <card>
+    <question>la nuit</question>
+    <answer>ночь</answer>
+    <comment></comment>
+    <answer_picture>night.gif</answer_picture>
+    <uuid>cbc87414-7685-48ca-a83f-6c0eee2574c0</uuid>
+  </card>
+  <card>
+    <question>midi</question>
+    <answer>полдень</answer>
+    <comment></comment>
+    <answer_picture>noon.gif</answer_picture>
+    <uuid>08aad18c-9ac4-4f2c-a336-9fd17abdc349</uuid>
+  </card>
+  <card>
+    <question>le parc</question>
+    <answer>парк</answer>
+    <comment></comment>
+    <answer_picture>park.gif</answer_picture>
+    <uuid>eccd87db-8484-418d-95ae-8c34fa6dddad</uuid>
+  </card>
+  <card>
+    <question>l&apos;image</question>
+    <answer>картина</answer>
+    <comment></comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>c4055f8a-8647-4743-b38a-54d4a3c8d617</uuid>
+  </card>
+  <card>
+    <question>les Prairies</question>
+    <answer>прерия, степь</answer>
+    <comment></comment>
+    <answer_picture>prairie.gif</answer_picture>
+    <uuid>fb9dd59c-2a35-48f4-b977-1b4d47d05000</uuid>
+  </card>
+  <card>
+    <question>la rivière</question>
+    <answer>река</answer>
+    <comment></comment>
+    <answer_picture>river.gif</answer_picture>
+    <uuid>31b2187a-d032-42c3-921d-f4308341e0ce</uuid>
+  </card>
+  <card>
+    <question>la mer</question>
+    <answer>море</answer>
+    <comment></comment>
+    <answer_picture>sea.gif</answer_picture>
+    <uuid>d339dfa8-532c-4322-abf0-6b837c2afcc5</uuid>
+  </card>
+  <card>
+    <question>la neige</question>
+    <answer>снег</answer>
+    <comment></comment>
+    <answer_picture>snow.gif</answer_picture>
+    <uuid>4ebf3435-57b6-4068-80f2-7f8eb36da2a0</uuid>
+  </card>
+  <card>
+    <question>le printemps</question>
+    <answer>весна</answer>
+    <comment></comment>
+    <answer_picture>spring.gif</answer_picture>
+    <uuid>ad6366e6-567f-4db3-ab8c-6b8ba46f63f2</uuid>
+  </card>
+  <card>
+    <question>la rue</question>
+    <answer>улица</answer>
+    <comment></comment>
+    <answer_picture>street.gif</answer_picture>
+    <uuid>b03f4c1c-6a36-4230-800e-7ad2fe97f041</uuid>
+  </card>
+  <card>
+    <question>l&apos;été</question>
+    <answer>лето</answer>
+    <comment></comment>
+    <answer_picture>summer.gif</answer_picture>
+    <uuid>4ee029c4-8227-4210-82a1-e0baff29e6b8</uuid>
+  </card>
+  <card>
+    <question>le lever du soleil</question>
+    <answer>восход солнца</answer>
+    <comment></comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>e8cc9dc6-a2a2-4902-ab11-471748a62496</uuid>
+  </card>
+  <card>
+    <question>la vallée</question>
+    <answer>долина</answer>
+    <comment></comment>
+    <answer_picture>valley.gif</answer_picture>
+    <uuid>c4658f8f-19cc-42d8-81cc-949962e8b477</uuid>
+  </card>
+  <card>
+    <question>le village</question>
+    <answer>деревня</answer>
+    <comment></comment>
+    <answer_picture>village.gif</answer_picture>
+    <uuid>759044d4-79ef-48ad-823d-936cd8f32e56</uuid>
+  </card>
+  <card>
+    <question>humide</question>
+    <answer>мокрый</answer>
+    <comment></comment>
+    <answer_picture>wet.gif</answer_picture>
+    <uuid>21609788-d13a-4dfc-bdaf-e02ab920719c</uuid>
+  </card>
+  <card>
+    <question>l&apos;hiver</question>
+    <answer>зима</answer>
+    <comment></comment>
+    <answer_picture>winter.gif</answer_picture>
+    <uuid>dd2b4e66-2a44-427c-b6cc-0181d6bb338c</uuid>
+  </card>
+</cards>
+</stack>

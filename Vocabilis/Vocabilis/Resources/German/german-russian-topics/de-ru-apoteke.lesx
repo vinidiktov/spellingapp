@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>62800856-e997-4517-aaa4-a1c0c4aae087</uuid>
+  <title>Аптека</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>8</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Fieber</question>
+    <answer>повышенная температура</answer>
+    <comment></comment>
+    <uuid>ec4801d0-cd62-47ad-b402-85a2a2e3e897</uuid>
+  </card>
+  <card>
+    <question>das Medikament</question>
+    <answer>лекарство</answer>
+    <comment></comment>
+    <uuid>13d07491-e70a-49e0-973c-45eaade52286</uuid>
+  </card>
+  <card>
+    <question>das Rezept</question>
+    <answer>рецепт</answer>
+    <comment></comment>
+    <uuid>a3ec505d-6edf-43c9-961c-7a07ab00cd49</uuid>
+  </card>
+  <card>
+    <question>das Zäpfchen</question>
+    <answer>свечи</answer>
+    <comment></comment>
+    <uuid>d89bdbe4-de4e-48fd-a524-5374e7c73245</uuid>
+  </card>
+  <card>
+    <question>der Apotheker</question>
+    <answer>аптекарь</answer>
+    <comment></comment>
+    <uuid>57ee7123-ed57-4b76-9901-5e7ec98afc07</uuid>
+  </card>
+  <card>
+    <question>der Husten</question>
+    <answer>кашель</answer>
+    <comment></comment>
+    <uuid>9423af52-a42d-4f9a-bb13-03c25ace4143</uuid>
+  </card>
+  <card>
+    <question>der Kondom</question>
+    <answer>презерватив</answer>
+    <comment></comment>
+    <uuid>990da2c2-70ba-464a-95e9-efbd2d0bbe29</uuid>
+  </card>
+  <card>
+    <question>der Nachtdienst</question>
+    <answer>ночное дежурство</answer>
+    <comment></comment>
+    <uuid>5de7401d-cae3-4db8-991b-93ff4044f1e4</uuid>
+  </card>
+  <card>
+    <question>der Puder</question>
+    <answer>присыпка, пудра</answer>
+    <comment></comment>
+    <uuid>f1171c03-7f7c-465a-9bed-f65468d3ba80</uuid>
+  </card>
+  <card>
+    <question>die Apotheke</question>
+    <answer>аптека</answer>
+    <comment></comment>
+    <uuid>850b5c7f-7710-438a-9d3b-e4074157fd09</uuid>
+  </card>
+  <card>
+    <question>die Augentropfen</question>
+    <answer>глазные капли</answer>
+    <comment></comment>
+    <uuid>9e3bd5dc-0736-400e-bfb3-37322853e48f</uuid>
+  </card>
+  <card>
+    <question>die Kopfschmerztablette</question>
+    <answer>таблетка от головной боли</answer>
+    <comment></comment>
+    <uuid>99c8ffa6-ca08-48cd-830f-e45e037459bc</uuid>
+  </card>
+  <card>
+    <question>die Salbe</question>
+    <answer>мазь</answer>
+    <comment></comment>
+    <uuid>75043cbf-b04d-4f12-a947-104992bdb6a5</uuid>
+  </card>
+  <card>
+    <question>die Schlaftablette</question>
+    <answer>таблетка снотворного</answer>
+    <comment></comment>
+    <uuid>84cb9975-1d82-4327-91bd-829e87061de6</uuid>
+  </card>
+  <card>
+    <question>die Tablette</question>
+    <answer>таблетка</answer>
+    <comment></comment>
+    <uuid>330dbbaa-65d7-449d-8a4a-787f546e3df8</uuid>
+  </card>
+  <card>
+    <question>die Tabletten nehmen</question>
+    <answer>принимать таблетки</answer>
+    <comment></comment>
+    <uuid>ff0d8328-4cee-433c-93a3-556ae22f4b92</uuid>
+  </card>
+  <card>
+    <question>die Tropfen</question>
+    <answer>капли</answer>
+    <comment></comment>
+    <uuid>9dfbb208-d9a9-468e-a236-6421e483bb57</uuid>
+  </card>
+  <card>
+    <question>Dieses Medikament ist nicht rezeptfrei.</question>
+    <answer>Это лекарство отпускается только по рецепту.</answer>
+    <comment></comment>
+    <uuid>e2a63d59-60f9-4bf9-b272-d6ac7590f722</uuid>
+  </card>
+  <card>
+    <question>dreimal täglich</question>
+    <answer>три раза в день</answer>
+    <comment></comment>
+    <uuid>792972b3-7b49-498f-8d58-58f51d051f9b</uuid>
+  </card>
+  <card>
+    <question>Gute Besserung!</question>
+    <answer>Скорейшего выздоровления!</answer>
+    <comment></comment>
+    <uuid>5f8a7519-caab-48b4-ae7d-1a6904379b15</uuid>
+  </card>
+  <card>
+    <question>Hier ist mein Rezept.</question>
+    <answer>Вот мой рецепт.</answer>
+    <comment></comment>
+    <uuid>cd020542-5ca0-469b-b209-ed92be078a10</uuid>
+  </card>
+  <card>
+    <question>Ich habe Durchfall.</question>
+    <answer>У меня расстройство желудка, понос.</answer>
+    <comment></comment>
+    <uuid>7bea21a0-847f-41f8-9b89-56c49e06e507</uuid>
+  </card>
+  <card>
+    <question>Ich kann nicht schlafen.</question>
+    <answer>Я не могу спать.</answer>
+    <comment></comment>
+    <uuid>7e716b69-cacf-459e-b3b7-8dad878ecbd3</uuid>
+  </card>
+  <card>
+    <question>Ich möchte etwas gegen Kopfschmerzen.</question>
+    <answer>Я хотел бы что-нибудь от головной боли.</answer>
+    <comment></comment>
+    <uuid>3daec66e-e927-4c4c-b771-ce8b231bb983</uuid>
+  </card>
+  <card>
+    <question>Kopfschmerzen</question>
+    <answer>головные боли</answer>
+    <comment></comment>
+    <uuid>622c351b-4868-443b-a5a5-950f6cc424cf</uuid>
+  </card>
+  <card>
+    <question>nach dem Essen</question>
+    <answer>после еды</answer>
+    <comment></comment>
+    <uuid>f6c5462f-fd07-4a4c-88ee-880c2968efed</uuid>
+  </card>
+  <card>
+    <question>Sie brauchen ein Rezept vom Arzt.</question>
+    <answer>Вам нужен рецепт от врача.</answer>
+    <comment></comment>
+    <uuid>3a10f7a2-4ce5-4b7a-9ecc-21efc03f9768</uuid>
+  </card>
+  <card>
+    <question>vor dem Essen</question>
+    <answer>перед едой</answer>
+    <comment></comment>
+    <uuid>13508031-db10-4eeb-a703-498ed685dd61</uuid>
+  </card>
+</cards>
+</stack>

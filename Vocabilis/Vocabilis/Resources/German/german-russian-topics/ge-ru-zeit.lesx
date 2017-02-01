@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>8fb7bfa3-3cef-4b87-b0ae-396b32e97d7f</uuid>
+  <title>Время</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>abends</question>
+    <answer>вечером, вечерами</answer>
+    <comment></comment>
+    <uuid>964e8314-f27c-4a51-9811-1896f9e5c51b</uuid>
+  </card>
+  <card>
+    <question>Bitte, warten Sie ein paar Minuten.</question>
+    <answer>Пожалуйста, подождите несколько минут.</answer>
+    <comment></comment>
+    <uuid>87fb29d3-87b8-4291-9db3-1d46586eef8f</uuid>
+  </card>
+  <card>
+    <question>der Abend</question>
+    <answer>вечер</answer>
+    <comment></comment>
+    <uuid>6c137bec-17b8-4050-adc1-79a1d5f15d63</uuid>
+  </card>
+  <card>
+    <question>der Augenblick</question>
+    <answer>миг, мгновение</answer>
+    <comment></comment>
+    <uuid>78e8d3f1-583c-4597-ab50-4d23ea1ffcfa</uuid>
+  </card>
+  <card>
+    <question>der Mittag</question>
+    <answer>полдень</answer>
+    <comment></comment>
+    <uuid>32466f0f-8c8b-4d87-97aa-ba127fc70e9d</uuid>
+  </card>
+  <card>
+    <question>der Moment</question>
+    <answer>момент, миг, мгновение</answer>
+    <comment></comment>
+    <uuid>6d868221-2250-40ae-87a9-c469bc3c5533</uuid>
+  </card>
+  <card>
+    <question>der Morgen</question>
+    <answer>утро</answer>
+    <comment></comment>
+    <uuid>bcbe9ccf-1cf9-498d-9262-79331e37797c</uuid>
+  </card>
+  <card>
+    <question>der Tag</question>
+    <answer>день</answer>
+    <comment></comment>
+    <uuid>81a3bfd7-f9dd-4b4f-aab1-d27a4635d883</uuid>
+  </card>
+  <card>
+    <question>der Vormittag</question>
+    <answer>первая половина дня</answer>
+    <comment></comment>
+    <uuid>7a27ff98-5b11-44b9-99dc-1fb6c3459503</uuid>
+  </card>
+  <card>
+    <question>der Wecker</question>
+    <answer>будильник</answer>
+    <comment></comment>
+    <uuid>70a1a37f-9696-4c13-a314-73286b457d6a</uuid>
+  </card>
+  <card>
+    <question>die Armbanduhr</question>
+    <answer>наручные часы</answer>
+    <comment></comment>
+    <uuid>1226afd0-134e-4137-95d1-2ba9d0c31fa4</uuid>
+  </card>
+  <card>
+    <question>die Minute</question>
+    <answer>минута</answer>
+    <comment></comment>
+    <uuid>29151c8b-30e6-44cc-83c7-ab52b55ee114</uuid>
+  </card>
+  <card>
+    <question>die Nacht</question>
+    <answer>ночь</answer>
+    <comment></comment>
+    <uuid>3209b4b1-d4bb-44f8-85b9-22d8b5e6a988</uuid>
+  </card>
+  <card>
+    <question>die Sekunde</question>
+    <answer>секунда</answer>
+    <comment></comment>
+    <uuid>5c4c7a84-6d3a-4084-9715-3575e97a966c</uuid>
+  </card>
+  <card>
+    <question>die Stunde</question>
+    <answer>час</answer>
+    <comment></comment>
+    <uuid>c96eb5e9-897c-4a25-ac52-58b5bba0949c</uuid>
+  </card>
+  <card>
+    <question>die Uhr</question>
+    <answer>часы</answer>
+    <comment></comment>
+    <uuid>e6a75b59-6cd5-4f17-92af-92698cf22963</uuid>
+  </card>
+  <card>
+    <question>die Uhrzeit</question>
+    <answer>время</answer>
+    <comment></comment>
+    <uuid>fdbec121-90b7-49bf-96de-689b64748071</uuid>
+  </card>
+  <card>
+    <question>die Zeit</question>
+    <answer>время</answer>
+    <comment></comment>
+    <uuid>a962f459-bf95-4f1b-a45c-278712bff867</uuid>
+  </card>
+  <card>
+    <question>Einen Augenblick, bitte!</question>
+    <answer>Пожалуйста, одну минуточку!</answer>
+    <comment></comment>
+    <uuid>d662ae8b-0bb6-4b36-9994-0d201be79b20</uuid>
+  </card>
+  <card>
+    <question>Es ist 10 Uhr.</question>
+    <answer>10 часов.</answer>
+    <comment></comment>
+    <uuid>7fdae4ee-1124-414a-b190-02d8355b3359</uuid>
+  </card>
+  <card>
+    <question>Es ist 11 (Uhr).</question>
+    <answer>Одиннадцать часов.</answer>
+    <comment></comment>
+    <uuid>e9126ba5-1930-418b-8b17-fb800039d6fa</uuid>
+  </card>
+  <card>
+    <question>Es ist 5 Minuten nach 10.</question>
+    <answer>5 минут одиннадцатого.</answer>
+    <comment></comment>
+    <uuid>fa3a7f20-93cc-4cbb-8473-c12fb9a83d92</uuid>
+  </card>
+  <card>
+    <question>Es ist 5 Minuten vor halb 11.</question>
+    <answer>25 минут одиннадцатого (10.25).</answer>
+    <comment></comment>
+    <uuid>cc0ebb6f-0074-4ce0-879a-08bf4201f6f1</uuid>
+  </card>
+  <card>
+    <question>Es ist halb 11.</question>
+    <answer>Половина одиннадцатого.</answer>
+    <comment></comment>
+    <uuid>c31e18ee-71e2-4f25-ab86-1f66c04b9cf2</uuid>
+  </card>
+  <card>
+    <question>Es ist viertel nach 10.</question>
+    <answer>Четверть одиннадцатого.</answer>
+    <comment></comment>
+    <uuid>9fc834dd-81c3-41d6-a083-a1d8c34778cc</uuid>
+  </card>
+  <card>
+    <question>Es ist viertel vor 11.</question>
+    <answer>Без четверти одиннадцать.</answer>
+    <comment></comment>
+    <uuid>ba504504-1b60-424a-bed5-a7ea7fc6c187</uuid>
+  </card>
+  <card>
+    <question>gestern</question>
+    <answer>вчера</answer>
+    <comment></comment>
+    <uuid>ca5d87c3-f37e-4e87-a909-302a17bf3281</uuid>
+  </card>
+  <card>
+    <question>gleich</question>
+    <answer>сейчас (немного позже)</answer>
+    <comment></comment>
+    <uuid>3b154d1c-24bd-4bc0-9da2-3ad8f38998d0</uuid>
+  </card>
+  <card>
+    <question>heute</question>
+    <answer>сегодня</answer>
+    <comment></comment>
+    <uuid>4ea493b4-7ca0-400b-ad87-7e5dded33d64</uuid>
+  </card>
+  <card>
+    <question>jetzt</question>
+    <answer>теперь, сейчас</answer>
+    <comment></comment>
+    <uuid>3a9dda1e-e101-47cf-bc1a-1050021590b1</uuid>
+  </card>
+  <card>
+    <question>Jetzt ist es 8 Uhr.</question>
+    <answer>Сейчас 8 часов.</answer>
+    <comment></comment>
+    <uuid>a1606161-9745-4ce3-a32c-92e55b17bc76</uuid>
+  </card>
+  <card>
+    <question>Kommen Sie abends zu mir?</question>
+    <answer>Вы придете вечером ко мне?</answer>
+    <comment></comment>
+    <uuid>b2d20d00-e744-4380-88c8-f3607b9ddcc7</uuid>
+  </card>
+  <card>
+    <question>mittags</question>
+    <answer>в полдень</answer>
+    <comment></comment>
+    <uuid>d49965ed-29c2-46f8-abd4-5fb8dbe15ee0</uuid>
+  </card>
+  <card>
+    <question>morgen</question>
+    <answer>завтра</answer>
+    <comment></comment>
+    <uuid>8fd5d2e2-7977-4ff7-8623-156af019805d</uuid>
+  </card>
+  <card>
+    <question>morgen früh</question>
+    <answer>завтра утром</answer>
+    <comment></comment>
+    <uuid>ac368f53-f010-415a-96c9-553934e7088b</uuid>
+  </card>
+  <card>
+    <question>morgens</question>
+    <answer>утром, по утрам</answer>
+    <comment></comment>
+    <uuid>16cde5b9-9918-4e18-bf7e-499f309e60c0</uuid>
+  </card>
+  <card>
+    <question>nachmittags</question>
+    <answer>после обеда</answer>
+    <comment></comment>
+    <uuid>1f88a996-f540-4235-b1fe-a070ab141e41</uuid>
+  </card>
+  <card>
+    <question>nachts</question>
+    <answer>ночью</answer>
+    <comment></comment>
+    <uuid>aa7a8874-a99c-4d66-b09b-e0961d0da728</uuid>
+  </card>
+  <card>
+    <question>sofort</question>
+    <answer>сейчас, сию минуту, тотчас</answer>
+    <comment></comment>
+    <uuid>4fb5e556-4d6e-49d5-851b-858b2d9a680c</uuid>
+  </card>
+  <card>
+    <question>später</question>
+    <answer>позже</answer>
+    <comment></comment>
+    <uuid>c3e91530-91bb-45d4-9cbb-7ae8b3a25461</uuid>
+  </card>
+  <card>
+    <question>Um 11 Uhr.</question>
+    <answer>В одиннадцать часов.</answer>
+    <comment></comment>
+    <uuid>7357ce4a-5364-4b64-9615-068a944df21d</uuid>
+  </card>
+  <card>
+    <question>Um 8 Uhr morgens.</question>
+    <answer>В 8 часов утра.</answer>
+    <comment></comment>
+    <uuid>18c41a64-0fb6-44bb-9f35-7b6886ec5a8f</uuid>
+  </card>
+  <card>
+    <question>vorhin</question>
+    <answer>прежде, недавно</answer>
+    <comment></comment>
+    <uuid>fbfa0e5d-5b04-42bf-b1e9-b687706b9957</uuid>
+  </card>
+  <card>
+    <question>vormittags</question>
+    <answer>в первой половине дня</answer>
+    <comment></comment>
+    <uuid>6874760f-f402-4498-8420-c63d5c2897c7</uuid>
+  </card>
+  <card>
+    <question>Wann fährt der Zug ab?</question>
+    <answer>Когда отправляется поезд?</answer>
+    <comment></comment>
+    <uuid>2e5d6f18-b4a9-40bf-82b9-859ce3ae19c4</uuid>
+  </card>
+  <card>
+    <question>Wann kommen Sie?</question>
+    <answer>Когда Вы придете?</answer>
+    <comment></comment>
+    <uuid>8e416f25-ee4a-4780-941a-9dc4cb001984</uuid>
+  </card>
+  <card>
+    <question>Wann treffen wir uns?</question>
+    <answer>Когда мы встретимся?</answer>
+    <comment></comment>
+    <uuid>4f972ac0-2297-4951-a50f-9690c7144d13</uuid>
+  </card>
+  <card>
+    <question>Wann?</question>
+    <answer>Когда? Во сколько?</answer>
+    <comment></comment>
+    <uuid>6860c553-71cb-4185-895e-ed29c1d153c4</uuid>
+  </card>
+  <card>
+    <question>Wie spät ist es?</question>
+    <answer>Который час?</answer>
+    <comment></comment>
+    <uuid>e7b8fd45-4fe4-4f9b-a09a-6dc9b98ae941</uuid>
+  </card>
+  <card>
+    <question>Wollen wir nachmittags in die Stadt gehen?</question>
+    <answer>Давайте пойдем после обеда в город?</answer>
+    <comment></comment>
+    <uuid>630069b1-7846-46e1-876a-dba3b2bc1cb8</uuid>
+  </card>
+</cards>
+</stack>

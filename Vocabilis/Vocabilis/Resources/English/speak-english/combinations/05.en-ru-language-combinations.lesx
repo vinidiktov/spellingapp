@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4c381932-b881-4c10-b175-ab74914c41a7</uuid>
+  <title>Язык :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a slang word</question>
+    <answer>жаргонное слово</answer>
+    <comment>[ə slæŋ wɜːrd]</comment>
+    <question_comment>slang - сленг, жаргон, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9f2ed9db-5c39-4c6e-8cb3-25d9ac67c862</uuid>
+    <examples>
+       <example>
+          <value>This is a slang word.</value>
+          <translation>Это жаргонное слово.</translation>
+          <comment>this - этот, эта, это, slang - жаргонный, word - слово</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a slight accent</question>
+    <answer>легкий акцент</answer>
+    <comment>[ə slаɪt ˈækˌsent]</comment>
+    <question_comment>slight - легкий, accent - акцент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8f8caa36-594d-4af4-9d36-afe799936748</uuid>
+    <examples>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a Russian accent</question>
+    <answer>русский акцент</answer>
+    <comment>[ə ˈrʌʃən ˈækˌsent]</comment>
+    <question_comment>Russian - русский, accent - акцент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>155a9fba-13c5-4ba7-acc8-d323cfba3b37</uuid>
+    <examples>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a strong accent</question>
+    <answer>сильный акцент</answer>
+    <comment>[ə strɔːŋ ˈækˌsent]</comment>
+    <question_comment>strong - сильный, accent - акцент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d580685a-ed2d-4ccb-b789-38025cc41d30</uuid>
+    <examples>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an English-Russian dictionary</question>
+    <answer>русско-английский словарь</answer>
+    <comment>[ʌn ˈɪŋglɪʃ ˈrʌʃən ˈdɪkʃəˌneriː]</comment>
+    <question_comment>English - английский, Russian - русский, dictionary - словарь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62d31273-2c6d-45fd-a028-c2a014344375</uuid>
+    <examples>
+       <example>
+          <value>I need an English-Russian dictionary.</value>
+          <translation>Мне нужен англо-русский словарь.</translation>
+          <comment>need - нуждаться, English - английский, Russian - русский, dictionary - словарь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to need a dictionary</question>
+    <answer>нуждаться в словаре</answer>
+    <comment>[tə niːd ə ˈdɪkʃəˌneriː]</comment>
+    <question_comment>to need - нуждаться в, dictionary - словарь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f5bc1e5a-f911-405b-b93e-dc66f02b3263</uuid>
+    <examples>
+       <example>
+          <value>I need an English-Russian dictionary.</value>
+          <translation>Мне нужен англо-русский словарь.</translation>
+          <comment>need - нуждаться, English - английский, Russian - русский, dictionary - словарь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to need an interpreter</question>
+    <answer>нуждаться в переводчике</answer>
+    <comment>[tə niːd ən ɪnˈtɜːrprɪtə]</comment>
+    <question_comment>to need - нуждаться в, interpreter - переводчик</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51926fd3-5d82-47d0-a027-c3d562e90852</uuid>
+    <examples>
+       <example>
+          <value>I need an interpreter.</value>
+          <translation>Мне нужен переводчик.</translation>
+          <comment>need - нуждаться, interpreter - переводчик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s annoying that ...</question>
+    <answer>Досадно, что ...</answer>
+    <comment>[its əˈnɔɪɪŋ ðæt]</comment>
+    <question_comment>annoying - досадный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c882268b-4347-433a-b56e-f069f2869afb</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hard to speak</question>
+    <answer>трудно говорить</answer>
+    <comment>[hɑːrd tə spiːk]</comment>
+    <question_comment>hard - трудный, to speak - говорить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>df9fe615-d811-437d-a9e7-0b2054a847c8</uuid>
+    <examples>
+       <example>
+          <value>I understand you well, but it&apos;s hard to speak.</value>
+          <translation>Я вас хорошо понимаю, но говорить мне тяжело.</translation>
+          <comment>to understand - понимать, you - тебя, вас, well - хорошо, but - но, hard - трудный, to speak - говорить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>practically faultless</question>
+    <answer>практически безупречный</answer>
+    <comment>[ˈpræktɪkliː ˈfɔːltlɪs]</comment>
+    <question_comment>practically - практически, faultless - безупречный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8e430570-4e92-471c-a657-e59b6b1eaa22</uuid>
+    <examples>
+       <example>
+          <value>Your pronunciacion is practically faultless.</value>
+          <translation>У вас практически безупречное произношение.</translation>
+          <comment>your - твой, ваш, pronunciacion - произношение, practically - практически, faultless - безупречный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pretty good</question>
+    <answer>довольно хороший</answer>
+    <comment>[ˈprɪtiː gʊd]</comment>
+    <question_comment>pretty - очень, достаточно, good - хороший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>785bd1e4-2646-4a46-a9a4-e47f1cffd219</uuid>
+    <examples>
+       <example>
+          <value>Your English is pretty good.</value>
+          <translation>У вас очень хороший английский.</translation>
+          <comment>your - твой, ваш, English - английский, pretty - очень, весьма, good - хороший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very poor</question>
+    <answer>очень плохой</answer>
+    <comment>[ˈveriː pʊr]</comment>
+    <question_comment>very - очень, poor - слабый, плохой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>03b8e350-a161-4abd-9553-a7fbae5d144e</uuid>
+    <examples>
+       <example>
+          <value>My English is very poor.</value>
+          <translation>Мой английский очень плохой.</translation>
+          <comment>English - английский, very - очень, poor - слабый</comment>
+       </example>
+       <example>
+          <value>There is a very poor choice of magazines in this store.</value>
+          <translation>В этом магазине очень маленький выбор журналов.</translation>
+          <comment>there is - есть, имеется, very - очень, poor - слабый, плохой, choice - выбор, magazine - журнал, this - этот, эта, это, store - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be written here</question>
+    <answer>быть написанным здесь</answer>
+    <comment>[tə biː ˈrɪtn hɪr]</comment>
+    <question_comment>written - написанный, here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>87c78cbb-a65a-4791-a066-8928105a0fc5</uuid>
+    <examples>
+       <example>
+          <value>What is written here?</value>
+          <translation>Что здесь написано?</translation>
+          <comment>what - что, written - написанный, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to begin studying English</question>
+    <answer>начать изучение английского</answer>
+    <comment>[tə bɪˈgɪn ˈstʌdiːɪŋ ˈɪŋglɪʃ]</comment>
+    <question_comment>to begin - начинать, to study - изучать, studying - изучение English - английский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3fa724ff-96a3-4dbe-8b21-60d4a77f2538</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to call an interpreter</question>
+    <answer>позвать переводчика</answer>
+    <comment>[tə kɔːl ən ɪnˈtɜːrprɪtər]</comment>
+    <question_comment>to call - звать, interpreter - переводчик</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>987e2576-77a7-4172-9037-2d670ae36b27</uuid>
+    <examples>
+       <example>
+          <value>Can you call an interpreter?</value>
+          <translation>Пригласите, пожалуйста, переводчика.</translation>
+          <comment>can - мочь, you - ты, вы, to call - пригласить, interpreter - переводчик</comment>
+       </example>
+       <example>
+          <value>Will you call an interpreter?</value>
+          <translation>Можно пригласить переводчика?</translation>
+          <comment>to call - звать, interpreter - переводчик</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have no practice</question>
+    <answer>не иметь практики</answer>
+    <comment>[tə hæv noʊ ˈpræktɪs]</comment>
+    <question_comment>to have - иметь, practice - практика</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9afb1628-1b81-467c-aa65-0ad168047f65</uuid>
+    <examples>
+       <example>
+          <value>Unfortunately, I have no practice.</value>
+          <translation>К сожалению, у меня нет практики.</translation>
+          <comment>unfortunately - к сожалению, to have - иметь, practice - практика</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know a few words</question>
+    <answer>знать несколько слов</answer>
+    <comment>[tə noʊ ə fjuː wɜːrdz]</comment>
+    <question_comment>to know - знать, a few - несколько, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84c6ffd5-1e88-44dd-ae9b-be1d32951a9d</uuid>
+    <examples>
+       <example>
+          <value>I only know a few words.</value>
+          <translation>Я знаю лишь несколько слов.</translation>
+          <comment>only - только, to know - знать, a few - несколько, word - слово</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know English</question>
+    <answer>знать английский</answer>
+    <comment>[tə noʊ ˈɪŋglɪʃ]</comment>
+    <question_comment>to know - знать, English - английский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>df500644-86a8-4b26-9057-d04daf6b2b9a</uuid>
+    <examples>
+       <example>
+          <value>I know English.</value>
+          <translation>Я знаю английский.</translation>
+          <comment>to know - знать, English - английский</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know French</question>
+    <answer>знать французский</answer>
+    <comment>[tə noʊ frenʧ]</comment>
+    <question_comment>to know - знать, French - французский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc0bf9ab-6e0f-4145-9208-4c8177d11560</uuid>
+    <examples>
+       <example>
+          <value>I know French.</value>
+          <translation>Я знаю французский.</translation>
+          <comment>to know - знать, French - французский</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know German</question>
+    <answer>знать немецкий</answer>
+    <comment>[tə noʊ ˈʤɜːrmən]</comment>
+    <question_comment>to know - знать, German - немецкий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1eafc21-272b-48eb-b5e3-11d7d013dbb9</uuid>
+    <examples>
+       <example>
+          <value>I know German.</value>
+          <translation>Я знаю немецкий.</translation>
+          <comment>to know - знать, German - немецкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to know languages</question>
+    <answer>знать языки</answer>
+    <comment>[tə noʊ ˈlæŋgwɪʤɪz]</comment>
+    <question_comment>to know - знать, language - язык</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>01b187b8-df17-4834-8bb7-2fa83e05d5ae</uuid>
+    <examples>
+       <example>
+          <value>What languages do you know?</value>
+          <translation>Какими языками вы владеете?</translation>
+          <comment>language - язык, you - ты, вы, to know - знать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to learn English</question>
+    <answer>учить английский</answer>
+    <comment>[tə lɜːrn ˈɪŋglɪʃ]</comment>
+    <question_comment>to learn - учить, English - английский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>64b1a62b-0a27-4f11-9619-3a40a1b42eb7</uuid>
+    <examples>
+       <example>
+          <value>Where did you learn English?</value>
+          <translation>Где вы учили английский?</translation>
+          <comment>to learn - учить, English - английский</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to learn Russian</question>
+    <answer>учить русский</answer>
+    <comment>[tə lɜːrn ˈrʌʃən]</comment>
+    <question_comment>to learn - учить, Russian - русский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ea0ce5e1-eb6f-4751-aa49-5632f3f206f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to learn to read</question>
+    <answer>учиться читать</answer>
+    <comment>[tə lɜːrn tə riːd]</comment>
+    <question_comment>to learn - учить, учиться, to read - читать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>313b8d4c-c947-4fda-ae3c-6175d1bbb2c3</uuid>
+    <examples>
+       <example>
+          <value>I want to learn to read.</value>
+          <translation>Я хочу научиться читать.</translation>
+          <comment>to want - хотеть, to learn - научиться, to read - читать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to learn to speak</question>
+    <answer>учиться говорить</answer>
+    <comment>[tə lɜːrn tə spiːk]</comment>
+    <question_comment>to learn - учить, учиться, to speak - говорить</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>13717412-5f60-49ac-979b-f6b618ced2da</uuid>
+    <examples>
+       <example>
+          <value>I want to learn to speak.</value>
+          <translation>Я хочу научиться разговаривать.</translation>
+          <comment>to want - хотеть, to learn - научиться, to speak - разговаривать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to learn to write</question>
+    <answer>учиться писать</answer>
+    <comment>[tə lɜːrn tə rаɪt]</comment>
+    <question_comment>to learn - учить, учиться, to write - писать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d5e9c5b5-c145-4bca-8657-59f134bcf607</uuid>
+    <examples>
+       <example>
+          <value>I want to learn to write.</value>
+          <translation>Я хочу научиться писать.</translation>
+          <comment>to want - хотеть, to learn - научиться, to write - писать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to look up this word</question>
+    <answer>посмотреть это слово (в словаре)</answer>
+    <comment>[tə lʊk ʌp ðɪs wɜːrd]</comment>
+    <question_comment>to look up - посмотреть (в словаре), this - этот, эта, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bcb2978d-5afd-4b99-b1b2-fabb471c370b</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s look up this word in my dictionary.</value>
+          <translation>Давай поищем это слово в моем словаре.</translation>
+          <comment>let&apos;s - давай(те), to look up - посмотреть (в словаре), this - этот, эта, это, word - слово, dictionary - словарь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make mistakes</question>
+    <answer>допускать ошибки</answer>
+    <comment>[tə meɪk mɪˈsteɪks]</comment>
+    <question_comment>to make - делать, mistake - ошибка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f53c069-f3a0-4e45-a86e-522c6c5bc291</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>many mistakes</question>
+    <answer>много ошибок</answer>
+    <comment>[ˈmeniː mɪˈsteɪks]</comment>
+    <question_comment>many - много, mistake - ошибка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e5deac8-210c-4277-bc36-8f728b9364a2</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s annoying that I make many mistakes.</value>
+          <translation>Досадно, что я делаю много ошибок.</translation>
+          <comment>annoying - досадный, that - что, to make - делать, many - много, mistake - ошибка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pronounce the word</question>
+    <answer>произнести слово</answer>
+    <comment>[tə prəˈnаʊns ðə wɜːrd]</comment>
+    <question_comment>to pronounce - произносить, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec61c94c-5aa1-40a3-85b5-9d60d8653c7f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to remember the Russian word</question>
+    <answer>помнить русское слово</answer>
+    <comment>[tə rɪˈmembər ðə ˈrʌʃən wɜːrd]</comment>
+    <question_comment>to remember - помнить, Russian - русский, word - слово</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>74301f42-5d83-4f32-aa18-0f4d7f4d3cf2</uuid>
+    <examples>
+       <example>
+          <value>I can&apos;t remember the Russian word for &quot;grass&quot;.</value>
+          <translation>Я не могу вспомнить, как по-русски будет &quot;grass&quot;.</translation>
+          <comment>to remember - вспомнить, Russian - русский, word - слово</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to say it again</question>
+    <answer>сказать это еще раз</answer>
+    <comment>[tə seɪ ɪt əˈgen]</comment>
+    <question_comment>to say - сказать, it - это, again - снова</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>02198dff-412e-46aa-9aeb-2af2b88e39df</uuid>
+    <examples>
+       <example>
+          <value>Say it again, will you?</value>
+          <translation>Повторите, пожалуйста.</translation>
+          <comment>to say - сказать, it - это, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak a little English</question>
+    <answer>немного говорить по-английски</answer>
+    <comment>[tə spiːk ə ˈlɪtl ˈɪŋglɪʃ]</comment>
+    <question_comment>to speak - говорить, a little - немного, English - по-английски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>52a740a9-7383-4f68-b696-7aa004b03682</uuid>
+    <examples>
+       <example>
+          <value>I speak a little English.</value>
+          <translation>Я немного говорю по-английски.</translation>
+          <comment>to speak - говорить, a little - немного, English - по-английски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak a little slower</question>
+    <answer>говорить немного помедленней</answer>
+    <comment>[tə spiːk ə ˈlɪtl ˈsloʊə]</comment>
+    <question_comment>to speak - говорить, a little - немного, slower - медленнее, более медленный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3fd0314e-8a85-49b5-a8c7-419bb6fad483</uuid>
+    <examples>
+       <example>
+          <value>Can you speak a little slower?</value>
+          <translation>Вы не могли бы говорить немного медленнее?</translation>
+          <comment>can - мочь, you - ты, вы, to speak - говорить, a little - немного, slower - медленнее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak a little Spanish</question>
+    <answer>немного говорить по-испански</answer>
+    <comment>[tə spiːk ə ˈlɪtl ˈspænɪʃ]</comment>
+    <question_comment>to speak - говорить, a little - немного, Spanish - испанский, по-испански</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>08d64f0f-79d8-4d86-9a83-eeba225650ec</uuid>
+    <examples>
+       <example>
+          <value>I speak a little Spanish.</value>
+          <translation>Я немного говорю по-испански.</translation>
+          <comment>to speak - говорить, a little - немного, Spanish - по-испански.</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak English</question>
+    <answer>говорить по-английски</answer>
+    <comment>[tə spiːk ˈɪŋglɪʃ]</comment>
+    <question_comment>to speak - говорить, English - по-английски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>557c7769-cb7c-4ebe-9800-32628fc18c6d</uuid>
+    <examples>
+       <example>
+          <value>Does anyone here speak English?</value>
+          <translation>Здесь кто-нибудь говорит по-английски?</translation>
+          <comment>anyone - кто-нибудь, here - здесь, to speak - говорить, English - по-английски</comment>
+       </example>
+       <example>
+          <value>Do you speak English?</value>
+          <translation>Вы говорите по-английски?</translation>
+          <comment>you - ты, вы, to speak - говорить, English - по-английски</comment>
+       </example>
+       <example>
+          <value>Can you speak English?</value>
+          <translation>Вы говорите по-английски?</translation>
+          <comment>to speak - говорить, English - по-английски</comment>
+       </example>
+       <example>
+          <value>I can&apos;t speak English.</value>
+          <translation>Я не говорю по-английски.</translation>
+          <comment>to speak - говорить, English - по-английски.</comment>
+       </example>
+       <example>
+          <value>I speak a little English.</value>
+          <translation>Я немного говорю по-английски.</translation>
+          <comment>to speak - говорить, a little - немного, English - по-английски</comment>
+       </example>
+       <example>
+          <value>You speak good English.</value>
+          <translation>Вы хорошо говорите по-английски.</translation>
+          <comment>you - ты, вы, to speak - говорить, good - хороший, English - английский</comment>
+       </example>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>I speak English badly.</value>
+          <translation>Я плохо говорю по-английски.</translation>
+          <comment>to speak - говорить, English - по-английски, badly - плохо</comment>
+       </example>
+       <example>
+          <value>I can read but can&apos;t speak English.</value>
+          <translation>Я читаю, но не говорю по-английски.</translation>
+          <comment>can - мочь, to read - читать, but - но, to speak - говорить, English - по-английски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak English badly</question>
+    <answer>говорить по-английски плохо</answer>
+    <comment>[tə spiːk ˈɪŋglɪʃ ˈbædliː]</comment>
+    <question_comment>to speak - говорить, English - по-английски, badly - плохо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a894db44-c79b-4172-8953-baf5f135934b</uuid>
+    <examples>
+       <example>
+          <value>I speak English badly.</value>
+          <translation>Я плохо говорю по-английски.</translation>
+          <comment>to speak - говорить, English - по-английски, badly - плохо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak French</question>
+    <answer>говорить по-французски</answer>
+    <comment>[tə spiːk frenʧ]</comment>
+    <question_comment>to speak - говорить, French - по-французски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9a6126c5-c8bc-401a-b6a5-b5cd9a3146e1</uuid>
+    <examples>
+       <example>
+          <value>Can you speak French?</value>
+          <translation>Вы говорите по-французски?</translation>
+          <comment>to speak - говорить, French - по-французски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak German</question>
+    <answer>говорить по-немецки</answer>
+    <comment>[tə spiːk ˈʤɜːrmən]</comment>
+    <question_comment>to speak - говорить, German - по-немецки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d1cf3720-b49f-4b9f-9b40-879ec9089bd5</uuid>
+    <examples>
+       <example>
+          <value>Can you speak German?</value>
+          <translation>Вы говорите по-немецки?</translation>
+          <comment>to speak - говорить, German - по-немецки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak good English</question>
+    <answer>говорить на хорошем английском</answer>
+    <comment>[tə spiːk gʊd ˈɪŋglɪʃ]</comment>
+    <question_comment>to speak - говорить, good - хороший, English - английский</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9046d597-73b8-44ab-847a-0c976b3167cf</uuid>
+    <examples>
+       <example>
+          <value>You speak good English.</value>
+          <translation>Вы хорошо говорите по-английски.</translation>
+          <comment>you - ты, вы, to speak - говорить, good - хороший, English - английский</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak Russian</question>
+    <answer>говорить по-русски</answer>
+    <comment>[tə spiːk ˈrʌʃən]</comment>
+    <question_comment>to speak - говорить, Russian - по-русски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>58e80b86-d4cb-4f04-8d32-a3195c98ba96</uuid>
+    <examples>
+       <example>
+          <value>Can you speak Russian?</value>
+          <translation>Вы можете говорить по-русски?</translation>
+          <comment>to speak - говорить, Russian - по-русски</comment>
+       </example>
+       <example>
+          <value>I can&apos;t speak Russian.</value>
+          <translation>Я не говорю по-русски.</translation>
+          <comment>to speak - говорить, Russian - по-русски.</comment>
+       </example>
+       <example>
+          <value>You already speak Russian well.</value>
+          <translation>Вы уже хорошо говорите по-русски.</translation>
+          <comment>you - ты, вы, already - уже, to speak - говорить, Russian - по-русски, well - хорошо</comment>
+       </example>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>Do you speak Russian?</value>
+          <translation>Вы говорите по-русски?</translation>
+          <comment>to speak - говорить, Russian - по-русски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak Russian well</question>
+    <answer>хорошо говорить по-русски</answer>
+    <comment>[tə spiːk ˈrʌʃən wel]</comment>
+    <question_comment>to speak - говорить, Russian - по-русски, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53d0b868-7890-4145-920d-71954de212d3</uuid>
+    <examples>
+       <example>
+          <value>You already speak Russian well.</value>
+          <translation>Вы уже хорошо говорите по-русски.</translation>
+          <comment>you - ты, вы, already - уже, to speak - говорить, Russian - по-русски, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to speak with an accent</question>
+    <answer>говорить с акцентом</answer>
+    <comment>[tə spiːk wɪð ʌn ˈækˌsent]</comment>
+    <question_comment>to speak - говорить, with - с, accent - акцент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>26911549-ec5d-476b-87d8-3f482c10ff2a</uuid>
+    <examples>
+       <example>
+          <value>You speak English with a slight Russian accent.</value>
+          <translation>Вы говорите по-английски с легким русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, slight - легкий, Russian - русский, accent - акцент</comment>
+       </example>
+       <example>
+          <value>You speak English with a strong Russian accent.</value>
+          <translation>Вы говорите по-английски с сильным русским акцентом.</translation>
+          <comment>you - ты, вы, to speak - говорить, English - английский, strong - сильный, Russian - русский, accent - акцент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to spell it</question>
+    <answer>написать (произнести) это по буквам</answer>
+    <comment>[tə spel ɪt]</comment>
+    <question_comment>to spell - писать (произносить) по буквам, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf02e854-543a-424c-9913-e674efe219dd</uuid>
+    <examples>
+       <example>
+          <value>How do you spell it?</value>
+          <translation>Как это пишется?</translation>
+          <comment>how - как, you - ты, вы, to spell - писать, it - это</comment>
+       </example>
+       <example>
+          <value>Could you spell it?</value>
+          <translation>Не могли бы вы произнести это по буквам?</translation>
+          <comment>could - мог, могла, могли, to spell - произнести по буквам, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to study the English language</question>
+    <answer>учить английский язык</answer>
+    <comment>[tə ˈstʌdiː ðə ˈɪŋglɪʃ ˈlæŋgwɪʤ]</comment>
+    <question_comment>to study - изучать, English - английский, language - язык</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>af6060fe-9c84-416c-af81-87f68dbca60e</uuid>
+    <examples>
+       <example>
+          <value>I study the English language.</value>
+          <translation>Я изучаю английский язык.</translation>
+          <comment>to study - изучать, English - английский, language - язык</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to talk Russian</question>
+    <answer>разговаривать по-русски</answer>
+    <comment>[tə tɔːk ˈrʌʃən]</comment>
+    <question_comment>to talk - разговаривать, Russian - по-русски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>daed0601-0f6a-4264-8996-2eb765f97158</uuid>
+    <examples>
+       <example>
+          <value>Let&apos;s talk Russian.</value>
+          <translation>Давайте говорить по-русски.</translation>
+          <comment>let&apos;s - давай(те), to talk - говорить, Russian - по-русски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to talk too fast</question>
+    <answer>говорить слишком быстро</answer>
+    <comment>[tə tɔːk tuː fæst]</comment>
+    <question_comment>to talk - разговаривать, too - слишком, fast - быстрый, быстро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8198a1cc-f0cd-4f49-be98-bd5ff97b1082</uuid>
+    <examples>
+       <example>
+          <value>He talks too fast.</value>
+          <translation>Он говорит слишком быстро.</translation>
+          <comment>he - он, to talk - говорить, too - слишком, fast - быстрый, быстро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to translate this</question>
+    <answer>перевести это</answer>
+    <comment>[tə trænsˈleɪt ðɪs]</comment>
+    <question_comment>to translate - переводить, this - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6692019e-63e1-40c5-ad81-c96e72249900</uuid>
+    <examples>
+       <example>
+          <value>Can you translate this for me?</value>
+          <translation>Переведите мне это, пожалуйста.</translation>
+          <comment>can - мочь, you - ты, вы, to translate - перевести, this - это, этот, эта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to understand a little</question>
+    <answer>немного понимать</answer>
+    <comment>[tə ˌʌndərˈstænd ə ˈlɪtl]</comment>
+    <question_comment>to understand - понимать, a little - немного</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>56216012-e7d2-485f-ae9d-5f30b509cdb9</uuid>
+    <examples>
+       <example>
+          <value>I understand a little English.</value>
+          <translation>Я немного понимаю по-английски.</translation>
+          <comment>to understand - понимать, a little - немного, English - по-английски</comment>
+       </example>
+       <example>
+          <value>I understand a little, but I can&apos;t speak.</value>
+          <translation>Я немного понимаю, но говорить не могу.</translation>
+          <comment>to understand - понимать, a little - немного, but - но, to speak - говорить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to understand a little English</question>
+    <answer>немного понимать по-английски</answer>
+    <comment>[tə ˌʌndərˈstænd ə ˈlɪtl ˈɪŋglɪʃ]</comment>
+    <question_comment>to understand - понимать, a little - немного, English - по-английски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>812873b8-2fb2-4bb8-bd41-ee6f8154c956</uuid>
+    <examples>
+       <example>
+          <value>I understand a little English.</value>
+          <translation>Я немного понимаю по-английски.</translation>
+          <comment>to understand - понимать, a little - немного, English - по-английски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to understand English</question>
+    <answer>понимать по-английски</answer>
+    <comment>[tə ˌʌndərˈstænd ˈɪŋglɪʃ]</comment>
+    <question_comment>to understand - понимать, English - по-английски</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>377ea992-de6c-4d5e-b151-08bd65f90f22</uuid>
+    <examples>
+       <example>
+          <value>Do you understand English?</value>
+          <translation>Вы понимаете по-английски?</translation>
+          <comment>you - ты, вы, to understand - понимать, English - по-английски</comment>
+       </example>
+       <example>
+          <value>I understand a little English.</value>
+          <translation>Я немного понимаю по-английски.</translation>
+          <comment>to understand - понимать, a little - немного, English - по-английски</comment>
+       </example>
+       <example>
+          <value>I don&apos;t understand English.</value>
+          <translation>Я не понимаю по-английски.</translation>
+          <comment>to understand - понимать, English - по-английски</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to understand everything</question>
+    <answer>понимать все</answer>
+    <comment>[tə ˌʌndərˈstænd ˈevriːˌθɪŋ]</comment>
+    <question_comment>to understand - понимать, everything - все</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>71bd2ac8-c381-4ad2-a747-430f44b35b0b</uuid>
+    <examples>
+       <example>
+          <value>Do you understand everything I say?</value>
+          <translation>Вы все понимаете, что я говорю?</translation>
+          <comment>to understand - понимать, everything - все, to say - говорить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to understand well</question>
+    <answer>хорошо понимать</answer>
+    <comment>[tə ˌʌndərˈstænd wel]</comment>
+    <question_comment>to understand - понимать, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>13faabf8-b043-435e-b62a-e7c0c81cf053</uuid>
+    <examples>
+       <example>
+          <value>I understand you well, but it&apos;s hard to speak.</value>
+          <translation>Я вас хорошо понимаю, но говорить мне тяжело.</translation>
+          <comment>to understand - понимать, you - тебя, вас, well - хорошо, but - но, hard - трудный, to speak - говорить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to write it down</question>
+    <answer>написать это</answer>
+    <comment>[tə rаɪt ɪt dаʊn]</comment>
+    <question_comment>to write down - записать, to write - писать, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>83b72e84-90cd-4955-9072-5559a95ae1ea</uuid>
+    <examples>
+       <example>
+          <value>I want to learn to write.</value>
+          <translation>Я хочу научиться писать.</translation>
+          <comment>to want - хотеть, to learn - научиться, to write - писать</comment>
+       </example>
+       <example>
+          <value>Can you write it down?</value>
+          <translation>Напишите это, пожалуйста.</translation>
+          <comment>can - мочь, you - ты, вы, to write down - записать</comment>
+       </example>
+       <example>
+          <value>Write out the amount in full.</value>
+          <translation>Пишите сумму полностью.</translation>
+          <comment>to write out - выписать, amount - количество, full - полный</comment>
+       </example>
+       <example>
+          <value>Write out the receipt, please.</value>
+          <translation>Выпишите, пожалуйста, квитанцию.</translation>
+          <comment>to write out - выписать, receipt - квитанция</comment>
+       </example>
+       <example>
+          <value>Please write the address for me.</value>
+          <translation>Пожалуйста, напишите мне адрес.</translation>
+          <comment>to write - писать, address - адрес, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>Write a receipt, please.</value>
+          <translation>Выпишите квитанцию.</translation>
+          <comment>to write - написать, receipt - квитанция</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

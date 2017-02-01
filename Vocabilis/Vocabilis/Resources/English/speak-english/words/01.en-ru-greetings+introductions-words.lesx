@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3b5d91b4-f101-4e3b-a60e-b54abaf5883e</uuid>
+  <title>Приветствие, Знакомство :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>all</question>
+    <answer>все</answer>
+    <comment>[ɔːl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>63e6c828-029b-40c8-9b81-91e5d5d06d45</uuid>
+    <examples>
+       <example>
+          <value>all right</value>
+          <translation>все в порядке</translation>
+          <comment>all - всё, right - правильный</comment>
+       </example>
+       <example>
+          <value>all in all</value>
+          <translation>все вместе</translation>
+          <comment>all - все</comment>
+       </example>
+       <example>
+          <value>the all-night drugstore</value>
+          <translation>круглосуточная аптека</translation>
+          <comment>all - весь, night - ночь, ночной, drugstore - аптека</comment>
+       </example>
+       <example>
+          <value>all my money</value>
+          <translation>все мои деньги</translation>
+          <comment>all - все, my - мой, моя, money - деньги</comment>
+       </example>
+       <example>
+          <value>all day long</value>
+          <translation>целый день</translation>
+          <comment>all - весь, day - день, long - долго</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>right</question>
+    <answer>правильный, правый</answer>
+    <comment>[rаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42b9d4b8-8dd2-4980-8046-f35e6e826901</uuid>
+    <examples>
+       <example>
+          <value>all right</value>
+          <translation>все в порядке</translation>
+          <comment>all - всё, right - правильный</comment>
+       </example>
+       <example>
+          <value>the right answer</value>
+          <translation>правильный (correct) ответ</translation>
+          <comment>right - правильный, answer - ответ</comment>
+       </example>
+       <example>
+          <value>to turn right</value>
+          <translation>повернуть направо</translation>
+          <comment>to turn - повернуть, right - правый</comment>
+       </example>
+       <example>
+          <value>on the right side</value>
+          <translation>справа</translation>
+          <comment>right - правый, side - сторона</comment>
+       </example>
+       <example>
+          <value>to be just right</value>
+          <translation>быть впору</translation>
+          <comment>just - как раз, right - подходящий, правильный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>sister</question>
+    <answer>сестра</answer>
+    <comment>[ˈsɪstər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>507a216b-4f56-4bef-9b39-d0de4fd524ed</uuid>
+    <examples>
+       <example>
+          <value>your sister</value>
+          <translation>твоя сестра</translation>
+          <comment>your - твой, ваш, sister - сестра</comment>
+       </example>
+       <example>
+          <value>to meet your sister</value>
+          <translation>познакомиться с твоей сестрой</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, sister - сестра</comment>
+       </example>
+       <example>
+          <value>This is my sister.</value>
+          <translation>Это моя сестра.</translation>
+          <comment>this - это, my - мой, sister - сестра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>family</question>
+    <answer>семья</answer>
+    <comment>[ˈfæməliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3febfd19-b555-46c5-8ebf-f3a79ec54fec</uuid>
+    <examples>
+       <example>
+          <value>your family</value>
+          <translation>твоя семья</translation>
+          <comment>your - твой, ваш, family - семья</comment>
+       </example>
+       <example>
+          <value>to meet your family</value>
+          <translation>познакомиться с твоей семьей</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, family - семья</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>mistaken</question>
+    <answer>ошибочный</answer>
+    <comment>[mɪˈsteɪkən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>803f410f-3e06-4eaa-8b39-27c2c08ed161</uuid>
+    <examples>
+       <example>
+          <value>If I&apos;m not mistaken.</value>
+          <translation>Если я не ошибаюсь.</translation>
+          <comment>mistake - ошибка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>see</question>
+    <answer>видеть</answer>
+    <comment>[siː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>374acc0a-5766-4803-b6cf-071f463d3591</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m glad to see you.</value>
+          <translation>Я рад тебя видеть.</translation>
+          <comment>glad - радостный, see - видеть</comment>
+       </example>
+       <example>
+          <value>to see somebody again</value>
+          <translation>снова увидеть кого-л.</translation>
+          <comment>to see - увидеть, видеть, somebody - кто-либо, again - снова</comment>
+       </example>
+       <example>
+          <value>to see your parents</value>
+          <translation>увидеться с твоими родителями</translation>
+          <comment>to see - видеть, your - твой, ваш, parents - родители</comment>
+       </example>
+       <example>
+          <value>to come and see somebody</value>
+          <translation>навестить кого-л.</translation>
+          <comment>to come - приходить, to see - видеть, somebody - кто-либо</comment>
+       </example>
+       <example>
+          <value>to see much sense in it</value>
+          <translation>видеть в этом смысл</translation>
+          <comment>to see - видеть, much - много, sense - смысл</comment>
+       </example>
+       <example>
+          <value>to go to see a doctor</value>
+          <translation>обратиться к врачу</translation>
+          <comment>to go - идти, to see - видеть, doctor - врач</comment>
+       </example>
+       <example>
+          <value>to see well</value>
+          <translation>видеть хорошо</translation>
+          <comment>to see - видеть, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to see a cartoon</value>
+          <translation>посмотреть мультфильм</translation>
+          <comment>to see - видеть, cartoon - мультфильм</comment>
+       </example>
+       <example>
+          <value>to see a comedy</value>
+          <translation>посмотреть комедию</translation>
+          <comment>to see - видеть, comedy - комедия</comment>
+       </example>
+       <example>
+          <value>to see a detective</value>
+          <translation>посмотреть детектив</translation>
+          <comment>to see - видеть, detective - детектив</comment>
+       </example>
+       <example>
+          <value>to see a horror movie</value>
+          <translation>посмотреть ужастик</translation>
+          <comment>to see - видеть, horror - ужас, movie - фильм, кино</comment>
+       </example>
+       <example>
+          <value>to see a love story</value>
+          <translation>посмотреть любовную историю</translation>
+          <comment>to see - видеть, love - любовь, story - история</comment>
+       </example>
+       <example>
+          <value>to see a new feature film</value>
+          <translation>посмотреть новый художественный фильм</translation>
+          <comment>to see - видеть, new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>to see a new historical film</value>
+          <translation>посмотреть новый исторический фильм</translation>
+          <comment>to see - видеть, new - новый, historical - исторический, film - фильм</comment>
+       </example>
+       <example>
+          <value>to see a science fiction movie</value>
+          <translation>посмотреть научно-фантастический фильм</translation>
+          <comment>to see - видеть, science - наука, fiction - выдумка, movie - фильм, кино</comment>
+       </example>
+       <example>
+          <value>to see a thriller</value>
+          <translation>посмотреть триллер</translation>
+          <comment>to see - видеть, thriller - триллер</comment>
+       </example>
+       <example>
+          <value>to see your catalog</value>
+          <translation>увидеть ваш каталог</translation>
+          <comment>to see - видеть, catalog - каталог</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>weather</question>
+    <answer>погода</answer>
+    <comment>[ˈweðər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f3bf5c9-9869-4f9f-8233-b70495ea414a</uuid>
+    <examples>
+       <example>
+          <value>better weather</value>
+          <translation>более хорошая погода</translation>
+          <comment>better - более хороший, weather - погода</comment>
+       </example>
+       <example>
+          <value>great weather</value>
+          <translation>замечательная погода</translation>
+          <comment>great - классный, weather - погода</comment>
+       </example>
+       <example>
+          <value>awful weather</value>
+          <translation>ужасная погода</translation>
+          <comment>awful - ужасный, weather - погода</comment>
+       </example>
+       <example>
+          <value>the weather forecast</value>
+          <translation>прогноз погоды</translation>
+          <comment>weather - погода, forecast - прогноз</comment>
+       </example>
+       <example>
+          <value>the weather forecast for today</value>
+          <translation>прогноз погоды на сегодня</translation>
+          <comment>weather - погода, forecast - прогноз, today - сегодня</comment>
+       </example>
+       <example>
+          <value>the weather forecast for tomorrow</value>
+          <translation>прогноз погоды на завтра</translation>
+          <comment>weather - погода, forecast - прогноз, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>cold</question>
+    <answer>холод, простуда</answer>
+    <comment>[koʊld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dbe67b06-6e27-4fbb-8b73-1f93f0916b38</uuid>
+    <examples>
+       <example>
+          <value>to get a cold</value>
+          <translation>простыть</translation>
+          <comment>to get - получать, cold - простуда</comment>
+       </example>
+       <example>
+          <value>to have a cold</value>
+          <translation>простудиться</translation>
+          <comment>to have - иметь, cold - простуда</comment>
+       </example>
+       <example>
+          <value>to give something for a cold</value>
+          <translation>давать что-нибудь от насморка</translation>
+          <comment>to give - давать, something - что-нибудь, cold - простуда</comment>
+       </example>
+       <example>
+          <value>a cold day</value>
+          <translation>холодный день</translation>
+          <comment>cold - холодный, day - день</comment>
+       </example>
+       <example>
+          <value>to get cold</value>
+          <translation>холодать</translation>
+          <comment>to get - становиться, cold - холодный</comment>
+       </example>
+       <example>
+          <value>to stand cold well</value>
+          <translation>хорошо переносить холод</translation>
+          <comment>to stand - переносить, выдерживать, cold - холод, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>trip</question>
+    <answer>поездка</answer>
+    <comment>[trɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>130cd6bc-dc24-406b-8a33-cc1f0f725483</uuid>
+    <examples>
+       <example>
+          <value>a good trip</value>
+          <translation>хорошая поездка</translation>
+          <comment>good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>to have a good trip</value>
+          <translation>хорошо съездить</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>a round-trip ticket</value>
+          <translation>билет в оба конца</translation>
+          <comment>round - круговой, trip - поездка, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>best</question>
+    <answer>лучший</answer>
+    <comment>[best]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ba7b797-7c4d-4e61-90d1-612ec524b27d</uuid>
+    <examples>
+       <example>
+          <value>to hope for the best</value>
+          <translation>надеяться на лучшее</translation>
+          <comment>to hope - надеяться, the best - лучшее, лучший</comment>
+       </example>
+       <example>
+          <value>the best film</value>
+          <translation>лучший фильм</translation>
+          <comment>the best - лучший, film - фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>what</question>
+    <answer>что, какой</answer>
+    <comment>[hwʌt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c41cc7c3-8425-4495-b939-3ab1020bb96c</uuid>
+    <examples>
+       <example>
+          <value>what luck</value>
+          <translation>какая удача</translation>
+          <comment>what - какой, luck - удача</comment>
+       </example>
+       <example>
+          <value>what time</value>
+          <translation>в какое время</translation>
+          <comment>what - что, какой, time - время</comment>
+       </example>
+       <example>
+          <value>What is this stop called?</value>
+          <translation>Как называется эта остановка?</translation>
+          <comment>what - зд. как, to call - называть, stop - остановка</comment>
+       </example>
+       <example>
+          <value>What&apos;s wrong?</value>
+          <translation>Что случилось?</translation>
+          <comment>what - что, wrong - неправильный</comment>
+       </example>
+       <example>
+          <value>What are your complaints?</value>
+          <translation>На что жалуетесь?</translation>
+          <comment>what - какой, your - твой, ваш, complaint - жалоба</comment>
+       </example>
+       <example>
+          <value>what else</value>
+          <translation>что еще</translation>
+          <comment>what - что, else - еще</comment>
+       </example>
+       <example>
+          <value>what about</value>
+          <translation>как насчет</translation>
+          <comment>what - что, about - о (чем-л.)</comment>
+       </example>
+       <example>
+          <value>What&apos;s your occupation?</value>
+          <translation>Чем вы занимаетесь?</translation>
+          <comment>what - какой, occupation - занятие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>united</question>
+    <answer>соединенный</answer>
+    <comment>[juːˈnаɪtɪd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>03665ccb-7667-4f11-b82f-925bdedd4ee6</uuid>
+    <examples>
+       <example>
+          <value>the United States</value>
+          <translation>США</translation>
+          <comment>united - соединенный, state - штат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>same</question>
+    <answer>одинаковый</answer>
+    <comment>[seɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>40a5d95c-9d24-4d4a-bf0b-f0420d653779</uuid>
+    <examples>
+       <example>
+          <value>the same age</value>
+          <translation>одинаковый возраст</translation>
+          <comment>the same - тот же самый, age - возраст</comment>
+       </example>
+       <example>
+          <value>the same opinion</value>
+          <translation>такое же мнение</translation>
+          <comment>the same - тот же самый, opinion - мнение</comment>
+       </example>
+       <example>
+          <value>to take the same</value>
+          <translation>брать то же самое</translation>
+          <comment>to take - брать, the same - то же самое</comment>
+       </example>
+       <example>
+          <value>the same but of a different color</value>
+          <translation>то же самое, но другого цвета</translation>
+          <comment>the same - то же самое, but - но, different - другой, color - цвет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>better</question>
+    <answer>лучший</answer>
+    <comment>[ˈbetər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>304687f7-0486-4bc5-a148-37c7009cde6f</uuid>
+    <examples>
+       <example>
+          <value>better weather</value>
+          <translation>более хорошая погода</translation>
+          <comment>better - более хороший, weather - погода</comment>
+       </example>
+       <example>
+          <value>a room with a better view</value>
+          <translation>номер с лучшим видом</translation>
+          <comment>room - комната, номер (в гостинице), view - вид, better - более хороший, лучший</comment>
+       </example>
+       <example>
+          <value>to have anything better</value>
+          <translation>иметь что-нибудь получше</translation>
+          <comment>to have - иметь, anything - что-нибудь, better - лучше</comment>
+       </example>
+       <example>
+          <value>to be better today</value>
+          <translation>чувствовать себя лучше сегодня</translation>
+          <comment>better - лучше, good - хороший, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to feel better</value>
+          <translation>чувствовать себя лучше</translation>
+          <comment>to feel - чувствовать, better - лучше</comment>
+       </example>
+       <example>
+          <value>much better</value>
+          <translation>гораздо лучше</translation>
+          <comment>much - гораздо, много, better - лучше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>how</question>
+    <answer>как</answer>
+    <comment>[hаʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d9f8c7e-f2eb-40ab-b280-c5b96dfae4de</uuid>
+    <examples>
+       <example>
+          <value>how about</value>
+          <translation>как насчет</translation>
+          <comment>how - как, about - о (чем-л.)</comment>
+       </example>
+       <example>
+          <value>how long</value>
+          <translation>как долго</translation>
+          <comment>how - как, long - долгий</comment>
+       </example>
+       <example>
+          <value>how much</value>
+          <translation>сколько (с неисчисляемыми сущ-ми)</translation>
+          <comment>how - как, much - много</comment>
+       </example>
+       <example>
+          <value>how many days</value>
+          <translation>сколько дней</translation>
+          <comment>how many - сколько, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>state</question>
+    <answer>штат</answer>
+    <comment>[steɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5b1da4e-da60-4870-8270-58473fc8a0e8</uuid>
+    <examples>
+       <example>
+          <value>the United States</value>
+          <translation>США</translation>
+          <comment>united - соединенный, state - штат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too</question>
+    <answer>слишком</answer>
+    <comment>[tuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ed5cbd86-89a7-4078-bd2e-43239bc44d3a</uuid>
+    <examples>
+       <example>
+          <value>too bad</value>
+          <translation>слишком плохо, слишком плохой</translation>
+          <comment>too - слишком, bad - плохой</comment>
+       </example>
+       <example>
+          <value>too late</value>
+          <translation>слишком поздно</translation>
+          <comment>too - слишком, late- поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>to talk too fast</value>
+          <translation>говорить слишком быстро</translation>
+          <comment>to talk - разговаривать, too - слишком, fast - быстрый, быстро</comment>
+       </example>
+       <example>
+          <value>too much</value>
+          <translation>слишком много</translation>
+          <comment>too - слишком, much - много</comment>
+       </example>
+       <example>
+          <value>a not too expensive room</value>
+          <translation>не слишком дорогой номер</translation>
+          <comment>too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>too dark</value>
+          <translation>слишком темный</translation>
+          <comment>too - слишком, dark - темный</comment>
+       </example>
+       <example>
+          <value>too gaudy</value>
+          <translation>слишком яркий</translation>
+          <comment>too - слишком, gaudy - яркий, кричащий</comment>
+       </example>
+       <example>
+          <value>too light</value>
+          <translation>слишком светлый</translation>
+          <comment>too - слишком, light - светлый</comment>
+       </example>
+       <example>
+          <value>too expensive</value>
+          <translation>слишком дорогое</translation>
+          <comment>too - слишком, expensive - дорогой</comment>
+       </example>
+       <example>
+          <value>too large</value>
+          <translation>слишком большой</translation>
+          <comment>too - слишком, large - большой</comment>
+       </example>
+       <example>
+          <value>too long</value>
+          <translation>слишком длинный</translation>
+          <comment>too - слишком, long - длинный</comment>
+       </example>
+       <example>
+          <value>too short</value>
+          <translation>слишком короткий</translation>
+          <comment>too - слишком, short - короткий</comment>
+       </example>
+       <example>
+          <value>too small</value>
+          <translation>слишком маленький</translation>
+          <comment>too - слишком, small - маленький</comment>
+       </example>
+       <example>
+          <value>too tight</value>
+          <translation>слишком узкий</translation>
+          <comment>too - слишком, tight - узкий</comment>
+       </example>
+       <example>
+          <value>too wide</value>
+          <translation>слишком широкий</translation>
+          <comment>too - слишком, wide - широкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>friend</question>
+    <answer>друг</answer>
+    <comment>[frend]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d04400b2-34fd-4810-873b-dd66327587c0</uuid>
+    <examples>
+       <example>
+          <value>a friend of mine</value>
+          <translation>мой друг</translation>
+          <comment>friend - друг, mine - мой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nice</question>
+    <answer>хороший</answer>
+    <comment>[nаɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>35397510-3813-40ae-82c1-8867080b35a0</uuid>
+    <examples>
+       <example>
+          <value>a nice guy</value>
+          <translation>хороший парень</translation>
+          <comment>nice - хороший, славный, guy - парень</comment>
+       </example>
+       <example>
+          <value>a very nice piece</value>
+          <translation>очень хороший кусок</translation>
+          <comment>very - очень, nice - хороший, замечательный, piece - кусок</comment>
+       </example>
+       <example>
+          <value>a nice day</value>
+          <translation>хороший день</translation>
+          <comment>nice - хороший, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>week</question>
+    <answer>неделя</answer>
+    <comment>[wiːk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e22a14a8-634a-4100-b266-f853f3c16e28</uuid>
+    <examples>
+       <example>
+          <value>for weeks</value>
+          <translation>в течение многих недель</translation>
+          <comment>for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>for a week</value>
+          <translation>в течение недели</translation>
+          <comment>week - неделя</comment>
+       </example>
+       <example>
+          <value>to stay for a week</value>
+          <translation>оставаться на неделю</translation>
+          <comment>to stay - оставаться, week - неделя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>good</question>
+    <answer>хороший</answer>
+    <comment>[gʊd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90ab34e9-e531-4352-b21b-d9040f102fdb</uuid>
+    <examples>
+       <example>
+          <value>a good trip</value>
+          <translation>хорошая поездка</translation>
+          <comment>good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>so good</value>
+          <translation>так хорошо, такой хороший</translation>
+          <comment>so - так, такой, good - хороший</comment>
+       </example>
+       <example>
+          <value>to have a good trip</value>
+          <translation>хорошо съездить</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>a good journey</value>
+          <translation>хорошее путешествие</translation>
+          <comment>good - хороший, journey - путешествие</comment>
+       </example>
+       <example>
+          <value>good advice</value>
+          <translation>хороший совет</translation>
+          <comment>good - хороший, advice - совет</comment>
+       </example>
+       <example>
+          <value>pretty good</value>
+          <translation>довольно хороший</translation>
+          <comment>pretty - очень, достаточно, good - хороший</comment>
+       </example>
+       <example>
+          <value>to speak good English</value>
+          <translation>говорить на хорошем английском</translation>
+          <comment>to speak - говорить, good - хороший, English - английский</comment>
+       </example>
+       <example>
+          <value>a good idea</value>
+          <translation>хорошая идея</translation>
+          <comment>good - хороший, idea - идея</comment>
+       </example>
+       <example>
+          <value>a good dental clinic</value>
+          <translation>хорошая стоматология</translation>
+          <comment>good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>a good dentist</value>
+          <translation>хороший зубной врач</translation>
+          <comment>good - хороший, dentist - зубной врач</comment>
+       </example>
+       <example>
+          <value>to recommend a good dental clinic</value>
+          <translation>порекомендовать хорошую стоматологию</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dental - зубной, clinic - клиника</comment>
+       </example>
+       <example>
+          <value>to recommend a good dentist</value>
+          <translation>порекомендовать хорошего зубного врача</translation>
+          <comment>to recommend - рекомендовать, good - хороший, dentist - зубной врач</comment>
+       </example>
+       <example>
+          <value>good seats</value>
+          <translation>хорошие места</translation>
+          <comment>good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>to be extremely good</value>
+          <translation>быть чрезвычайно хорошим</translation>
+          <comment>extremely - крайне, очень, good - хороший</comment>
+       </example>
+       <example>
+          <value>a good film</value>
+          <translation>хороший фильм</translation>
+          <comment>good - хороший, film - фильм</comment>
+       </example>
+       <example>
+          <value>a very good seat</value>
+          <translation>очень хорошее место</translation>
+          <comment>very - очень, good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>to be in good voice</value>
+          <translation>быть в голосе</translation>
+          <comment>good - хороший, voice - голос</comment>
+       </example>
+       <example>
+          <value>a very good brand</value>
+          <translation>очень хорошая марка</translation>
+          <comment>very - очень, good - хороший, brand - марка (торговая)</comment>
+       </example>
+       <example>
+          <value>to be a good color</value>
+          <translation>быть подходящим цветом</translation>
+          <comment>good - хороший, color - цвет</comment>
+       </example>
+       <example>
+          <value>very good</value>
+          <translation>очень хороший</translation>
+          <comment>very - очень, good - хороший</comment>
+       </example>
+       <example>
+          <value>a good analgesic</value>
+          <translation>хорошее болеутоляющее</translation>
+          <comment>good - хороший, analgesic - болеутоляющее</comment>
+       </example>
+       <example>
+          <value>to have a good weekend</value>
+          <translation>хорошо провести выходные</translation>
+          <comment>to have - иметь, good - хороший, weekend - выходные</comment>
+       </example>
+       <example>
+          <value>a good designer</value>
+          <translation>хороший дизайнер</translation>
+          <comment>good - хороший, designer - дизайнер</comment>
+       </example>
+       <example>
+          <value>a good vet</value>
+          <translation>хороший ветеринар</translation>
+          <comment>good - хороший, vet - ветеринар</comment>
+       </example>
+       <example>
+          <value>a good job</value>
+          <translation>хорошая работа</translation>
+          <comment>good - хороший, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>parent</question>
+    <answer>родитель</answer>
+    <comment>[ˈperənt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee6ecfed-11fd-4926-9199-db0067c0409c</uuid>
+    <examples>
+       <example>
+          <value>your parents</value>
+          <translation>твои родители</translation>
+          <comment>your - твой, ваш, parents - родители</comment>
+       </example>
+       <example>
+          <value>to see your parents</value>
+          <translation>увидеться с твоими родителями</translation>
+          <comment>to see - видеть, your - твой, ваш, parents - родители</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>get</question>
+    <answer>получить, становиться</answer>
+    <comment>[get]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb200cf2-11de-4445-a69b-73a62bdd00b3</uuid>
+    <examples>
+       <example>
+          <value>to get a cold</value>
+          <translation>простыть</translation>
+          <comment>to get - получать, cold - простуда</comment>
+       </example>
+       <example>
+          <value>to get late</value>
+          <translation>становиться поздно</translation>
+          <comment>to get - становиться, late - поздний</comment>
+       </example>
+       <example>
+          <value>to get moving</value>
+          <translation>выдвигаться</translation>
+          <comment>to get - становиться, moving - двигающийся</comment>
+       </example>
+       <example>
+          <value>to get that</value>
+          <translation>понять это</translation>
+          <comment>to get - получить, достать, that - то</comment>
+       </example>
+       <example>
+          <value>to get the tickets</value>
+          <translation>купить билеты</translation>
+          <comment>to get - достать, получить, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to get to Moscow</value>
+          <translation>доехать до Москвы</translation>
+          <comment>to get (to) - добираться (до), Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>to get to Boston</value>
+          <translation>доехать до Бостона</translation>
+          <comment>to get (to) - добираться (до), Boston - Бостон</comment>
+       </example>
+       <example>
+          <value>to get to the city</value>
+          <translation>доехать до города</translation>
+          <comment>to get (to) - добираться (до), city - город</comment>
+       </example>
+       <example>
+          <value>to get the wrong number</value>
+          <translation>ошибиться номером</translation>
+          <comment>to get - получить, wrong - неправильный, number - номер</comment>
+       </example>
+       <example>
+          <value>to get off at the next stop</value>
+          <translation>выходить на следующей остановке</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to get somebody a taxi</value>
+          <translation>вызвать кому-либо такси</translation>
+          <comment>to get - доставать, получать, somebody - кто-либо, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to get a pair of opera glasses</value>
+          <translation>взять бинокль</translation>
+          <comment>to get - взять, достать, a pair - пара, opera - опера, glass - стекло</comment>
+       </example>
+       <example>
+          <value>to get to the balcony</value>
+          <translation>пройти на балкон</translation>
+          <comment>to get (to) - добраться (до), balcony - балкон</comment>
+       </example>
+       <example>
+          <value>to get to the boxes</value>
+          <translation>пройти в ложу</translation>
+          <comment>to get (to) - добраться (до), box - ложа в театре</comment>
+       </example>
+       <example>
+          <value>to get encores</value>
+          <translation>исполняться на бис</translation>
+          <comment>to get - получить, encore - вызов на &apos;бис&apos;</comment>
+       </example>
+       <example>
+          <value>to get it</value>
+          <translation>получить это</translation>
+          <comment>to get - получать, it - это</comment>
+       </example>
+       <example>
+          <value>to get clearer</value>
+          <translation>проясняться</translation>
+          <comment>to get - становиться, clearer - яснее, clear - ясный</comment>
+       </example>
+       <example>
+          <value>to get cold</value>
+          <translation>холодать</translation>
+          <comment>to get - становиться, cold - холодный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very</question>
+    <answer>очень</answer>
+    <comment>[ˈveriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bccfabda-61f3-497b-81db-8dab6bfc92b7</uuid>
+    <examples>
+       <example>
+          <value>very glad</value>
+          <translation>очень рад</translation>
+          <comment>very - очень, glad - радостный</comment>
+       </example>
+       <example>
+          <value>very well</value>
+          <translation>очень хорошо</translation>
+          <comment>very - очень, well - хорошо</comment>
+       </example>
+       <example>
+          <value>very grateful</value>
+          <translation>очень благодарен</translation>
+          <comment>very - очень, grateful - благодарный</comment>
+       </example>
+       <example>
+          <value>very kind</value>
+          <translation>очень любезно</translation>
+          <comment>very - очень, kind - любезный</comment>
+       </example>
+       <example>
+          <value>very much</value>
+          <translation>очень</translation>
+          <comment>very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>very poor</value>
+          <translation>очень плохой</translation>
+          <comment>very - очень, poor - слабый, плохой</comment>
+       </example>
+       <example>
+          <value>very pleasant</value>
+          <translation>очень приятный</translation>
+          <comment>very - очень, pleasant - приятный</comment>
+       </example>
+       <example>
+          <value>to like the play very much</value>
+          <translation>очень понравиться (о спектакле)</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>a very good seat</value>
+          <translation>очень хорошее место</translation>
+          <comment>very - очень, good - хороший, seat - место</comment>
+       </example>
+       <example>
+          <value>not very far</value>
+          <translation>не очень далеко</translation>
+          <comment>very - очень, far - далекий</comment>
+       </example>
+       <example>
+          <value>a very good brand</value>
+          <translation>очень хорошая марка</translation>
+          <comment>very - очень, good - хороший, brand - марка (торговая)</comment>
+       </example>
+       <example>
+          <value>a very poor choice</value>
+          <translation>очень маленький выбор</translation>
+          <comment>very - очень, poor - слабый, плохой, choice - выбор</comment>
+       </example>
+       <example>
+          <value>a very nice piece</value>
+          <translation>очень хороший кусок</translation>
+          <comment>very - очень, nice - хороший, замечательный, piece - кусок</comment>
+       </example>
+       <example>
+          <value>very good</value>
+          <translation>очень хороший</translation>
+          <comment>very - очень, good - хороший</comment>
+       </example>
+       <example>
+          <value>a very interesting pastime</value>
+          <translation>очень интересное развлечение</translation>
+          <comment>very - очень, interesting - интересный, pastime - развлечение, забава</comment>
+       </example>
+       <example>
+          <value>to have very little time</value>
+          <translation>иметь очень мало времени</translation>
+          <comment>to have - иметь, very - очень, little - мало, time - время</comment>
+       </example>
+       <example>
+          <value>very little time</value>
+          <translation>очень мало времени</translation>
+          <comment>very - очень, little - мало, time - время</comment>
+       </example>
+       <example>
+          <value>very soon</value>
+          <translation>очень скоро</translation>
+          <comment>very - очень, soon - скоро</comment>
+       </example>
+       <example>
+          <value>to work very hard</value>
+          <translation>работать не покладая рук</translation>
+          <comment>to work - работать, very - очень, hard - упорный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>great</question>
+    <answer>замечательный, великий</answer>
+    <comment>[greɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9df753fe-76af-42e6-a76b-e10efd0fc517</uuid>
+    <examples>
+       <example>
+          <value>great weather</value>
+          <translation>замечательная погода</translation>
+          <comment>great - классный, weather - погода</comment>
+       </example>
+       <example>
+          <value>a postcard to Great Britain</value>
+          <translation>открытка в Великобританию</translation>
+          <comment>postcard - открытка, Great Britain - Великобритания</comment>
+       </example>
+       <example>
+          <value>to be a great success</value>
+          <translation>быть очень успешным (о концерте)</translation>
+          <comment>great - великий, success - успех</comment>
+       </example>
+       <example>
+          <value>a great way</value>
+          <translation>замечательный способ</translation>
+          <comment>great - замечательный, way - путь, способ</comment>
+       </example>
+       <example>
+          <value>to have a great time</value>
+          <translation>отлично провести время</translation>
+          <comment>to have - иметь, great - отличный, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hear</question>
+    <answer>слышать</answer>
+    <comment>[hɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>14b3c9b4-4608-4826-b44f-e01fae70e37d</uuid>
+    <examples>
+       <example>
+          <value>to hear that</value>
+          <translation>слышать это</translation>
+          <comment>to hear - слышать, that - это, то</comment>
+       </example>
+       <example>
+          <value>to hear well</value>
+          <translation>слышать хорошо</translation>
+          <comment>to hear - слышать, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ask</question>
+    <answer>спрашивать</answer>
+    <comment>[æsk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0b73fc9-ef6c-4480-bbef-dcf09dd7096d</uuid>
+    <examples>
+       <example>
+          <value>to ask your name</value>
+          <translation>спросить твое, ваше имя</translation>
+          <comment>to ask - спрашивать, your - твой, ваш, name - имя</comment>
+       </example>
+       <example>
+          <value>to ask somebody for a dance</value>
+          <translation>пригласить кого-л. на танец</translation>
+          <comment>to ask - просить, somebody - кто-либо, dance - танец</comment>
+       </example>
+       <example>
+          <value>to ask somebody to call</value>
+          <translation>попросить кого-л. позвонить</translation>
+          <comment>to ask - просить, somebody - кто-либо, to call - звонить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>glad</question>
+    <answer>радостный</answer>
+    <comment>[glæd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>88bc9c7e-c536-4ad5-ae38-a155742f6b6f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m glad to see you.</value>
+          <translation>Я рад тебя видеть.</translation>
+          <comment>glad - радостный, see - видеть</comment>
+       </example>
+       <example>
+          <value>very glad</value>
+          <translation>очень рад</translation>
+          <comment>very - очень, glad - радостный</comment>
+       </example>
+       <example>
+          <value>so glad</value>
+          <translation>так рад</translation>
+          <comment>so - так, glad - рад, радостный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>about</question>
+    <answer>о (чем-л.), насчет</answer>
+    <comment>[əˈbаʊt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eea003f7-f7e7-4d9c-a040-d84a1033593d</uuid>
+    <examples>
+       <example>
+          <value>how about</value>
+          <translation>как насчет</translation>
+          <comment>how - как, about - о (чем-л.)</comment>
+       </example>
+       <example>
+          <value>to worry about that</value>
+          <translation>волноваться об этом</translation>
+          <comment>to worry - беспокоиться, about - о (чем-л.), that - то</comment>
+       </example>
+       <example>
+          <value>to be wrong about something</value>
+          <translation>ошибаться в чем-либо</translation>
+          <comment>wrong - неправильный, ошибочный, something - что-либо</comment>
+       </example>
+       <example>
+          <value>about six dollars</value>
+          <translation>около 6 долларов</translation>
+          <comment>about - примерно, six - шесть, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>what about</value>
+          <translation>как насчет</translation>
+          <comment>what - что, about - о (чем-л.)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>last</question>
+    <answer>прошлый</answer>
+    <comment>[læst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d287dbfc-2ab5-41a0-a0ae-eb09ec6f2d9d</uuid>
+    <examples>
+       <example>
+          <value>my last name</value>
+          <translation>моя фамилия</translation>
+          <comment>my - мой, last - последний, name - имя</comment>
+       </example>
+       <example>
+          <value>last night</value>
+          <translation>прошлой ночью</translation>
+          <comment>last - прошлый, night - ночь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>name</question>
+    <answer>имя</answer>
+    <comment>[neɪm]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8c65115b-296c-44d9-bd25-af4de3567e99</uuid>
+    <examples>
+       <example>
+          <value>my first name</value>
+          <translation>мое имя</translation>
+          <comment>my - мой, first - первый, name - имя</comment>
+       </example>
+       <example>
+          <value>my last name</value>
+          <translation>моя фамилия</translation>
+          <comment>my - мой, last - последний, name - имя</comment>
+       </example>
+       <example>
+          <value>my name</value>
+          <translation>мое имя (моя фамилия)</translation>
+          <comment>my - мой, name - имя</comment>
+       </example>
+       <example>
+          <value>to ask your name</value>
+          <translation>спросить твое, ваше имя</translation>
+          <comment>to ask - спрашивать, your - твой, ваш, name - имя</comment>
+       </example>
+       <example>
+          <value>your name</value>
+          <translation>ваше имя</translation>
+          <comment>your - твой, ваш, name - имя</comment>
+       </example>
+       <example>
+          <value>to know his name</value>
+          <translation>знать его имя</translation>
+          <comment>to know - знать, name - имя</comment>
+       </example>
+       <example>
+          <value>this actor&apos;s name</value>
+          <translation>имя этого актера</translation>
+          <comment>this - этот, эта, actor - актер, name - имя</comment>
+       </example>
+       <example>
+          <value>this singer&apos;s name</value>
+          <translation>имя этого певца</translation>
+          <comment>this - этот, эта, singer - певец, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>wife</question>
+    <answer>жена</answer>
+    <comment>[wаɪf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53b17168-5649-4171-972f-b6aed96c4c81</uuid>
+    <examples>
+       <example>
+          <value>your wife</value>
+          <translation>твоя жена</translation>
+          <comment>your - твой, ваш, wife - жена</comment>
+       </example>
+       <example>
+          <value>to meet your wife</value>
+          <translation>познакомиться с твоей женой</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, wife - жена</comment>
+       </example>
+       <example>
+          <value>my wife&apos;s passport</value>
+          <translation>паспорт моей жены</translation>
+          <comment>my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>your wife&apos;s job</value>
+          <translation>работа вашей жены</translation>
+          <comment>your - твой, ваш, wife - жена, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>age</question>
+    <answer>возраст, столетие</answer>
+    <comment>[eɪʤ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05d6151b-34a8-4cdb-b3a6-677d019ce102</uuid>
+    <examples>
+       <example>
+          <value>for ages</value>
+          <translation>сто лет (очень давно)</translation>
+          <comment>for - в течение, age - век, столетие</comment>
+       </example>
+       <example>
+          <value>the same age</value>
+          <translation>одинаковый возраст</translation>
+          <comment>the same - тот же самый, age - возраст</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>well</question>
+    <answer>хорошо</answer>
+    <comment>[wel]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d4944b60-adb2-4104-97b8-fd2fd5f2181e</uuid>
+    <examples>
+       <example>
+          <value>very well</value>
+          <translation>очень хорошо</translation>
+          <comment>very - очень, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to speak Russian well</value>
+          <translation>хорошо говорить по-русски</translation>
+          <comment>to speak - говорить, Russian - по-русски, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to understand well</value>
+          <translation>хорошо понимать</translation>
+          <comment>to understand - понимать, well - хорошо</comment>
+       </example>
+       <example>
+          <value>perfectly well</value>
+          <translation>очень хорошо</translation>
+          <comment>perfectly - совершенно, вполне, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to feel well</value>
+          <translation>чувствовать себя хорошо</translation>
+          <comment>to feel - чувствовать, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to hear well</value>
+          <translation>слышать хорошо</translation>
+          <comment>to hear - слышать, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to see well</value>
+          <translation>видеть хорошо</translation>
+          <comment>to see - видеть, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to fit well</value>
+          <translation>быть как раз (по размеру)</translation>
+          <comment>to fit - подходить, well - хорошо</comment>
+       </example>
+       <example>
+          <value>to stand cold well</value>
+          <translation>хорошо переносить холод</translation>
+          <comment>to stand - переносить, выдерживать, cold - холод, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>brother</question>
+    <answer>брат</answer>
+    <comment>[ˈbrʌðər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f385f41b-963c-4d7b-b795-a53bc682f4da</uuid>
+    <examples>
+       <example>
+          <value>your brother</value>
+          <translation>твой брат</translation>
+          <comment>your - твой, ваш, brother - брат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>bad</question>
+    <answer>плохой</answer>
+    <comment>[bæd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6211bb56-8d5c-4420-8239-4ed04c0d3170</uuid>
+    <examples>
+       <example>
+          <value>so bad</value>
+          <translation>так плохо, такой плохой</translation>
+          <comment>so - так, такой, bad - плохой</comment>
+       </example>
+       <example>
+          <value>too bad</value>
+          <translation>слишком плохо, слишком плохой</translation>
+          <comment>too - слишком, bad - плохой</comment>
+       </example>
+       <example>
+          <value>to be in bad voice</value>
+          <translation>быть не в голосе</translation>
+          <comment>bad - плохой, voice - голос</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>so</question>
+    <answer>так</answer>
+    <comment>[soʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b25e0d76-aaf3-419d-8b1a-4817cbe19a37</uuid>
+    <examples>
+       <example>
+          <value>so bad</value>
+          <translation>так плохо, такой плохой</translation>
+          <comment>so - так, такой, bad - плохой</comment>
+       </example>
+       <example>
+          <value>so good</value>
+          <translation>так хорошо, такой хороший</translation>
+          <comment>so - так, такой, good - хороший</comment>
+       </example>
+       <example>
+          <value>so glad</value>
+          <translation>так рад</translation>
+          <comment>so - так, glad - рад, радостный</comment>
+       </example>
+       <example>
+          <value>so much</value>
+          <translation>так много</translation>
+          <comment>so - так, much - много</comment>
+       </example>
+       <example>
+          <value>to think so</value>
+          <translation>думать так</translation>
+          <comment>to think - думать, so - так</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hope</question>
+    <answer>надеяться</answer>
+    <comment>[hoʊp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2096be40-a00f-4b56-9111-5e487b716d1a</uuid>
+    <examples>
+       <example>
+          <value>to hope for the best</value>
+          <translation>надеяться на лучшее</translation>
+          <comment>to hope - надеяться, the best - лучшее, лучший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>meet</question>
+    <answer>знакомиться, встречать</answer>
+    <comment>[miːt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4c44f463-d125-40cf-be35-c42cc8249017</uuid>
+    <examples>
+       <example>
+          <value>to meet you</value>
+          <translation>познакомиться с вами</translation>
+          <comment>to meet - знакомиться, встречаться, you - вам, вас</comment>
+       </example>
+       <example>
+          <value>to meet again</value>
+          <translation>встретиться снова</translation>
+          <comment>to meet - встречаться, again - снова</comment>
+       </example>
+       <example>
+          <value>to meet your family</value>
+          <translation>познакомиться с твоей семьей</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, family - семья</comment>
+       </example>
+       <example>
+          <value>to meet your sister</value>
+          <translation>познакомиться с твоей сестрой</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, sister - сестра</comment>
+       </example>
+       <example>
+          <value>to meet your wife</value>
+          <translation>познакомиться с твоей женой</translation>
+          <comment>to meet - знакомиться с, your - твой, ваш, wife - жена</comment>
+       </example>
+       <example>
+          <value>to meet the manager</value>
+          <translation>встречаться с менеджером</translation>
+          <comment>to meet - встречаться с, manager - менеджер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>guy</question>
+    <answer>парень</answer>
+    <comment>[gаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d6a8914e-076e-470c-a6e2-3211472c41f4</uuid>
+    <examples>
+       <example>
+          <value>a nice guy</value>
+          <translation>хороший парень</translation>
+          <comment>nice - хороший, славный, guy - парень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>luck</question>
+    <answer>удача</answer>
+    <comment>[lʌk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84642cac-4390-4bdb-bb25-e14f845a4ff2</uuid>
+    <examples>
+       <example>
+          <value>what luck</value>
+          <translation>какая удача</translation>
+          <comment>what - какой, luck - удача</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>first</question>
+    <answer>первый</answer>
+    <comment>[fɜːrst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a595d64d-f9f7-45bf-92df-5ca2426da334</uuid>
+    <examples>
+       <example>
+          <value>my first name</value>
+          <translation>мое имя</translation>
+          <comment>my - мой, first - первый, name - имя</comment>
+       </example>
+       <example>
+          <value>your first visit</value>
+          <translation>ваш первый визит</translation>
+          <comment>your - твой, ваш, first - первый, visit - посещение</comment>
+       </example>
+       <example>
+          <value>first class ticket</value>
+          <translation>билет в первом классе</translation>
+          <comment>first - первый, class - класс, ticket билет</comment>
+       </example>
+       <example>
+          <value>the first prize</value>
+          <translation>первая премия</translation>
+          <comment>first - первый, prize - премия</comment>
+       </example>
+       <example>
+          <value>to win the first prize</value>
+          <translation>завоевать первую премию</translation>
+          <comment>to win - выиграть, first - первый, prize - премия</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

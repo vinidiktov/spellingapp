@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0325fa30-509a-452a-b229-532063c033b5</uuid>
+  <title>Путешествие на самолете :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>1</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>On what days do the planes to London fly?</question>
+    <answer>По каким дням летают самолеты до Лондона?</answer>
+    <comment>[ɑːn hwʌt ˈdeɪz duː ðə pleɪnz tə ˈlʌndən flаɪ]</comment>
+    <answer_comment>what - что, какой, day - день, plane - самолет, London - Лондон, to fly - лететь</answer_comment>
+    
+    <uuid>6700ca94-e71a-4d06-927b-9e4620666431</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the plane arrive in New York?</question>
+    <answer>Когда самолет прибывает в Нью-Йорк?</answer>
+    <comment>[hwen dʌz ðə pleɪn əˈrаɪv ɪn nuː jɔːrk]</comment>
+    <answer_comment>when - когда, plane - самолет, to arrive - прибывать, New York - Нью-Йорк</answer_comment>
+    
+    <uuid>d476eda9-3db9-48c8-b853-45feee6091fc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will the plane land?</question>
+    <answer>Когда прибудет самолет?</answer>
+    <comment>[hwen wɪl ðə pleɪn lænd]</comment>
+    <answer_comment>when - когда, plane - самолет, to land - приземлиться</answer_comment>
+    
+    <uuid>32a280b2-6ac0-4f2a-b21c-a73eaf97f332</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The plane will land in twenty minutes.</question>
+    <answer>Самолет прибудет через 20 минут.</answer>
+    <comment>[ðə pleɪn wɪl lænd ɪn ˈtwentiː ˈmɪnɪts]</comment>
+    <answer_comment>plane - самолет, to land - приземлиться, twenty - двадцать, minute - минута</answer_comment>
+    
+    <uuid>e110eebc-f585-489f-8253-22a0b4fa25c8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The plane to Moscow is fifteen minutes late.</question>
+    <answer>Самолет до Москвы опаздывает на 15 минут.</answer>
+    <comment>[ðə pleɪn tə ˈmɑːskаʊ ɪz ˈfɪfˈtiːn ˈmɪnɪts leɪt]</comment>
+    <answer_comment>plane - самолет, Moscow - Москва, fifteen - пятнадцать, minute - минута, late - опоздавший</answer_comment>
+    
+    <uuid>9df753f8-edc9-4956-8ee4-1a118e687c4f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long is the flight to Moscow?</question>
+    <answer>Сколько времени длится полет до Москвы?</answer>
+    <comment>[hаʊ lɔːŋ ɪz ðə flаɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>how - как, long - долго, flight - полет, Moscow - Москва</answer_comment>
+    
+    <uuid>5db51546-9da0-4f43-9d66-3de62340afd5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How long is the flight?</question>
+    <answer>Сколько времени длится полет?</answer>
+    <comment>[hаʊ lɔːŋ ɪz ðə flаɪt]</comment>
+    <answer_comment>how - как, long - долго, flight - полет</answer_comment>
+    
+    <uuid>21aa537c-7c29-498c-ad14-a97b5442434f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When is the next flight to London?</question>
+    <answer>Когда следующий рейс на Лондон?</answer>
+    <comment>[hwen ɪz ðə nekst flаɪt tə ˈlʌndən]</comment>
+    <answer_comment>when - когда, next - следующий, flight - рейс, London - Лондон</answer_comment>
+    
+    <uuid>3bf5775b-f1ad-458d-ad87-484b03ce6529</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a flight to Moscow today?</question>
+    <answer>Сегодня есть рейс до Москвы?</answer>
+    <comment>[ɪz ðer ə flаɪt tə ˈmɑːskаʊ təˈdeɪ]</comment>
+    <answer_comment>there is - есть, имеется, flight - рейс, Moscow - Москва, today - сегодня</answer_comment>
+    
+    <uuid>ddc1bad8-b90d-4541-88d2-e81f12e38dbe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to reserve one ticket to Moscow.</question>
+    <answer>Я хочу забронировать один билет до Москвы.</answer>
+    <comment>[аɪ wɑːnt tə rɪˈzɜːrv wʌn ˈtɪkɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>to want - хотеть, to reserve - резервировать, one - один, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>08efd648-d418-476c-b468-e5204df03a2f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I book my air tickets?</question>
+    <answer>Где я могу заказать билеты на самолет?</answer>
+    <comment>[hwer kæn аɪ bʊk mаɪ er ˈtɪkɪts]</comment>
+    <answer_comment>where - где, can - мочь, to book - забронировать, заказать, my - мой, моя, мои, air - воздушный, ticket - билет</answer_comment>
+    
+    <uuid>cd1bf374-5677-470c-a9c2-6140e3e14e83</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>At ticket office number five.</question>
+    <answer>В билетной кассе номер пять.</answer>
+    <comment>[ət ˈtɪkɪt ˈɔːfɪs ˈnʌmbər fаɪv]</comment>
+    <answer_comment>ticket - билет, office - офис, number - номер, five - пять</answer_comment>
+    
+    <uuid>283af908-abcf-4f3d-a5f6-716c7de76cc8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want one business class ticket.</question>
+    <answer>Мне нужен один билет в бизнес классе.</answer>
+    <comment>[аɪ wɑːnt wʌn ˈbɪznɪs klæs ˈtɪkɪt]</comment>
+    <answer_comment>to want - хотеть, one - один, business - бизнес, class - класс, ticket - билет</answer_comment>
+    
+    <uuid>956b0b82-3acd-45fb-84e2-44a53131e290</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want one first class ticket.</question>
+    <answer>Мне нужен один билет в первом классе.</answer>
+    <comment>[аɪ wɑːnt wʌn fɜːrst klæs ˈtɪkɪt]</comment>
+    <answer_comment>to want - хотеть, one - один, firs - первый, class - класс, ticket - билет</answer_comment>
+    
+    <uuid>f30ca57c-e5ec-4577-9756-c2c4cd1180e0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want one economy class ticket.</question>
+    <answer>Мне нужен один билет в эконом классе.</answer>
+    <comment>[аɪ wɑːnt wʌn ɪˈkɑːnəmiː klæs ˈtɪkɪt]</comment>
+    <answer_comment>to want - хотеть, one - один, economy - экономичный, class - класс, ticket - билет</answer_comment>
+    
+    <uuid>902fe619-e827-4f5d-bcbf-03c7fc1fce00</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Two tickets to Moscow.</question>
+    <answer>Два билета до Москвы.</answer>
+    <comment>[tuː ˈtɪkɪts tə ˈmɑːskаʊ]</comment>
+    <answer_comment>two - два, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>90956b03-b09d-407b-aee2-86bf130f12ef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is a one-way ticket to Moscow?</question>
+    <answer>Сколько стоит билет до Москвы в один конец?</answer>
+    <comment>[hаʊ mʌʧ ɪz ə wʌn weɪ ˈtɪkɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>4dd333d0-8246-4ebc-a403-234f1429c228</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is a round-trip ticket to Moscow?</question>
+    <answer>Сколько стоит билет до Москвы и обратно?</answer>
+    <comment>[hаʊ mʌʧ ɪz ə rаʊnd trɪp ˈtɪkɪt tə ˈmɑːskаʊ]</comment>
+    <answer_comment>how - как, much - много, round - круглый, trip - поездка, ticket - билет, Moscow - Москва</answer_comment>
+    
+    <uuid>4a713afc-be40-4d13-a273-c50c48883f4b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I buy a ticket with a fixed date?</question>
+    <answer>Могу ли я купить билет с фиксированной датой?</answer>
+    <comment>[kæn аɪ bаɪ ə ˈtɪkɪt wɪð ə fɪkst deɪt]</comment>
+    <answer_comment>can - мочь, to buy - купить, ticket - билет, fixed - фиксированный, date - дата</answer_comment>
+    
+    <uuid>4d6bc641-e0b1-4f5e-b580-02189673e238</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much is a ticket for a child of seven?</question>
+    <answer>Сколько стоит билет на ребенка семи лет?</answer>
+    <comment>[hаʊ mʌʧ ɪz ə ˈtɪkɪt fər ə ʧаɪld əv ˈsevən]</comment>
+    <answer_comment>how - как, much - много, ticket - билет, child - ребенок, seven - семь</answer_comment>
+    
+    <uuid>cb468757-50a2-4d13-85ae-1a24cc75dd8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I insure my baggage?</question>
+    <answer>Могу ли я застраховать свой багаж?</answer>
+    <comment>[kæn аɪ ˈɪnˈʃʊr mаɪ ˈbægɪʤ]</comment>
+    <answer_comment>can - мочь, to insure - застраховать, my - мой, моя, мое, baggage - багаж</answer_comment>
+    
+    <uuid>c8824a02-9f9a-4dd5-91b8-932bb274e12e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will food be served?</question>
+    <answer>Будут ли кормить в самолете?</answer>
+    <comment>[wɪl fuːd biː sɜːrvd]</comment>
+    <answer_comment>food - еда, пища, to be - быть, served - подаваемый (к столу)</answer_comment>
+    
+    <uuid>d6aa88e3-62c7-41be-a01d-9ba1bd39f5f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time do I check in?</question>
+    <answer>Во сколько регистрация?</answer>
+    <comment>[hwʌt tаɪm duː аɪ ʧek ɪn]</comment>
+    <answer_comment>what - какой, time - время, to check in - регистрироваться (в аэропорту)</answer_comment>
+    
+    <uuid>b5e25eda-24b1-42f3-8455-39eda15dba5f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is this a direct flight?</question>
+    <answer>Это прямой рейс?</answer>
+    <comment>[ɪz ðɪs ə dɪˈrekt flаɪt]</comment>
+    <answer_comment>this - это, этот, эта, direct - прямой, flight - рейс</answer_comment>
+    
+    <uuid>be28d227-1511-462c-8a85-a4377c4f8288</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is this a nonstop flight?</question>
+    <answer>Это беспересадочный рейс?</answer>
+    <comment>[ɪz ðɪs ə ˈnɑːnˈstɑːp flаɪt]</comment>
+    <answer_comment>this - это, этот, эта, nonstop - беспересадочный, flight - рейс</answer_comment>
+    
+    <uuid>2cc2c60d-5021-435e-9a22-bdc6ad1fe5ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What airport does my plane take off from?</question>
+    <answer>Из какого аэропорта отправляется мой самолет?</answer>
+    <comment>[hwʌt ˈerˌpɔːrt dʌz mаɪ pleɪn teɪk ɔːf frəm]</comment>
+    <answer_comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</answer_comment>
+    
+    <uuid>4201ebf7-c642-4857-ad58-51603421c143</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does flight number 232 take off?</question>
+    <answer>Когда отправляется рейс номер 232?</answer>
+    <comment>[hwen dʌz flаɪt ˈnʌmbər (---) teɪk ɔːf]</comment>
+    <answer_comment>when - когда, flight - рейс, number - номер, to take off - отправляться, взлетать</answer_comment>
+    
+    <uuid>359e66cf-0be4-4c9d-87d5-25643a9b8e3c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the departures board?</question>
+    <answer>Где находится табло вылета?</answer>
+    <comment>[hwer ɪz ðə dɪˈpɑːrʧərz bɔːrd]</comment>
+    <answer_comment>where - где, departure - отправление, board - табло</answer_comment>
+    
+    <uuid>32e470ec-52c0-41a3-94bf-f2bcb3751b00</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the arrivals board?</question>
+    <answer>Где находится табло прилета?</answer>
+    <comment>[hwer ɪz ðiː əˈrаɪvəlz bɔːrd]</comment>
+    <answer_comment>where - где, arrival - прибытие, board - табло</answer_comment>
+    
+    <uuid>7666e736-a066-4a63-977d-692cce4983f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to take this bag with me.</question>
+    <answer>Эту сумку я хочу взять с собой.</answer>
+    <comment>[аɪ wɑːnt tə teɪk ðɪs bæg wɪð ˈmiː]</comment>
+    <answer_comment>to want - хотеть, to take - взять, this - этот, эта, это, bag - сумка</answer_comment>
+    
+    <uuid>60fefcad-1dee-4175-a82d-be9dfb1fceca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m going to register these things as baggage.</question>
+    <answer>Эти вещи я сдаю в багаж.</answer>
+    <comment>[аɪm ˈgoʊɪŋ tə ˈreʤɪstər ðiːz θɪŋz æz ˈbægɪʤ]</comment>
+    <answer_comment>to be going to - собираться (что-л. сделать), to register - зарегистрировать, these - эти, thing - вещь, as - в качестве, baggage - багаж</answer_comment>
+    
+    <uuid>7004dc5f-8b44-4d9e-9e19-9db5faed939d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What excess baggage do I have?</question>
+    <answer>Какой у меня перевес багажа?</answer>
+    <comment>[hwʌt ɪkˈses ˈbægɪʤ duː аɪ hæv]</comment>
+    <answer_comment>what - какой, что, excess - избыточный, baggage - багаж, to have - иметь</answer_comment>
+    
+    <uuid>84ec9463-637d-4868-9f83-dccd9173f9af</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much should I pay for the excess baggage?</question>
+    <answer>Сколько мне нужно доплатить за перевес багажа?</answer>
+    <comment>[hаʊ mʌʧ ʃʊd аɪ peɪ fər ðiː ɪkˈses ˈbægɪʤ]</comment>
+    <answer_comment>how - сколько, much - много, should - должен, должна, должны, to pay - платить, excess - избыточный, baggage - вес</answer_comment>
+    
+    <uuid>e69e16ba-bd5e-4dcd-bbc4-2699e2e55e16</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You will have to pay ten dollars.</question>
+    <answer>Вам следует доплатить 10$.</answer>
+    <comment>[jʊ wɪl hæv tə peɪ ten ˈdɑːlərz]</comment>
+    <answer_comment>you - ты, вы, to have to - быть должным, to pay - платить, ten - десять, dollar - долларов</answer_comment>
+    
+    <uuid>c4e7a9ba-0c1a-4b6e-afef-7f06b2a44b6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the duty-free shop?</question>
+    <answer>Где находится магазин duty-free?</answer>
+    <comment>[hwer ɪz ðə ˈduːtɪˈfriː ʃɑːp]</comment>
+    <answer_comment>where - где, duty-free - дьютифри, shop - магазин</answer_comment>
+    
+    <uuid>e94b5a20-5bf4-4372-85ce-dbd6a55160e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Which direction is the gate for flight 232?</question>
+    <answer>Где производится посадка на рейс 232?</answer>
+    <comment>[hwɪʧ dɪˈrekʃən ɪz ðə geɪt fər flаɪt (---)]</comment>
+    <answer_comment>which - какой, direction - направление, gate - выход (на посадку), flight - рейс</answer_comment>
+    
+    <uuid>89f6a991-729e-4cc8-830b-2af0959f0816</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is Gate B?</question>
+    <answer>Где выход на посадку B?</answer>
+    <comment>[hwer ɪz geɪt biː]</comment>
+    <answer_comment>where - где, gate - выход (на посадку)</answer_comment>
+    
+    <uuid>70544c4d-b3e9-45f2-8525-d7deec0f0793</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Help me to fasten the belt, please.</question>
+    <answer>Помогите мне, пожалуйста, пристегнуть ремни.</answer>
+    <comment>[help ˈmiː tə ˈfæsən ðə belt pliːz]</comment>
+    <answer_comment>to help - помочь, me - мне, меня, to fasten - пристегнуть, belt - ремень, пояс</answer_comment>
+    
+    <uuid>c8a61859-3a8e-49e0-ba2b-7c6356377410</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Help me to tip up the seat, please.</question>
+    <answer>Помогите мне, пожалуйста, откинуть кресло.</answer>
+    <comment>[help ˈmiː tə tɪp ʌp ðə siːt pliːz]</comment>
+    <answer_comment>to help - помочь, me - мне, меня, to tip up - откидывать назад (кресло), seat - сиденье</answer_comment>
+    
+    <uuid>a554814f-62b5-4783-ad0f-0a7602a679b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please give me something to drink.</question>
+    <answer>Пожалуйста, дайте что-нибудь попить.</answer>
+    <comment>[pliːz gɪv ˈmiː ˈsʌmθɪŋ tə drɪŋk]</comment>
+    <answer_comment>to give - дать, me - мне, меня, something - что-нибудь, to drink - пить</answer_comment>
+    
+    <uuid>8ccf50ce-153d-409c-82e2-c6787eb1b18b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the restroom?</question>
+    <answer>Где туалет?</answer>
+    <comment>[hwer ɪz ðə rest ruːm]</comment>
+    <answer_comment>where - где, restroom - туалет</answer_comment>
+    
+    <uuid>f040472f-8550-4d0d-8969-c2e08bfad862</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I haven&apos;t been met.</question>
+    <answer>Меня не встретили.</answer>
+    <comment>[аɪ ˈhаvənt bɪn met]</comment>
+    <answer_comment>to meet - встречать</answer_comment>
+    
+    <uuid>910d936f-cd90-4d35-bb17-17e1d19860ff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where do passengers of flight 232 receive baggage?</question>
+    <answer>Где пассажиры рейса 232 получают багаж?</answer>
+    <comment>[hwer duː ˈpæsənʤərz əv flаɪt (---) rɪˈsiːv ˈbægɪʤ]</comment>
+    <answer_comment>where - где, passenger - пассажир, flight - рейс, to receive - получать, baggage - багаж</answer_comment>
+    
+    <uuid>aee1fd69-09e0-430f-adec-2153b8cdf03c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I can&apos;t find my suitcase.</question>
+    <answer>Я не нахожу своего чемодана.</answer>
+    <comment>[аɪ kænt fаɪnd mаɪ ˈsuːtˌkeɪs]</comment>
+    <answer_comment>can - мочь, to find - найти, my - мой, моя, мое, suitcase - чемодан</answer_comment>
+    
+    <uuid>135f10af-2251-4fd6-b947-cfacf3993681</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I apply for the lost baggage?</question>
+    <answer>Куда я могу обратиться по поводу пропажи багажа?</answer>
+    <comment>[hwer kæn аɪ əˈplаɪ fər ðə lɔːst ˈbægɪʤ]</comment>
+    <answer_comment>where - где, can - мочь, to apply - подавать заявление, lost - утерянный, baggage - багаж</answer_comment>
+    
+    <uuid>935e2683-e33c-4600-a613-0fc2f2dce97e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the police service of the airport?</question>
+    <answer>Где находится полицейская служба аэропорта?</answer>
+    <comment>[hwer ɪz ðə pəˈliːs ˈsɜːrvɪs əv ðiː ˈerˌpɔːrt]</comment>
+    <answer_comment>where - где, police - полицейский, service - служба, airport - аэропорт</answer_comment>
+    
+    <uuid>8edcc631-5c5a-4032-8c2c-23cf9c9735c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Here is my application concerning the loss of baggage.</question>
+    <answer>Вот мое заявление о пропаже багажа.</answer>
+    <comment>[hɪr ɪz mаɪ ˌæpləˈkeɪʃən kənˈsɜːrnɪŋ ðə lɔːs əv ˈbægɪʤ]</comment>
+    <answer_comment>here - здесь, application - заявление, concerning - касающийся, loss - потеря, baggage - багаж</answer_comment>
+    
+    <uuid>eedf366a-c938-48cf-a2db-dfe51de90292</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My baggage was insured.</question>
+    <answer>Мой багаж был застрахован.</answer>
+    <comment>[mаɪ ˈbægɪʤ wʌz ˈɪnˈʃʊrd]</comment>
+    <answer_comment>baggage - багаж, was - был, была, было, insured - застрахованный</answer_comment>
+    
+    <uuid>bfe800e8-d2c3-48f3-8495-f8db85a7a082</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the information service of the airport?</question>
+    <answer>Где находится справочная служба аэропорта?</answer>
+    <comment>[hwer ɪz ðiː ˌɪnfərˈmeɪʃən ˈsɜːrvɪs əv ðiː ˈerˌpɔːrt]</comment>
+    <answer_comment>where - где, information - информация, service - служба, airport - аэропорт</answer_comment>
+    
+    <uuid>68d65b17-56cb-40c1-9d9c-cace94f72b80</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I rent a car directly at the airport?</question>
+    <answer>Могу я взять напрокат машину прямо в аэропорту?</answer>
+    <comment>[kæn аɪ rent ə kɑːr dɪˈrektliː ət ðiː ˈerˌpɔːrt]</comment>
+    <answer_comment>can - мочь, to rent - арендовать, car - машина, directly - прямо, airport - аэропорт</answer_comment>
+    
+    <uuid>200ed0ea-060b-4238-bd8b-6155e4dc79d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy a plan of the city?</question>
+    <answer>Где мне купить план города?</answer>
+    <comment>[hwer kæn аɪ bаɪ ə plæn əv ðə ˈsɪtiː]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, plan - план, city - город</answer_comment>
+    
+    <uuid>7fe29963-4b58-45b4-94d0-5148a4e2d66d</uuid>
+  </card>
+</cards>
+</stack>

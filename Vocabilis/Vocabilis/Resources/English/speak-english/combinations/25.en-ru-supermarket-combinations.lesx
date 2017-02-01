@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3c9b3b3b-169b-4a94-8cd7-237869c47ad2</uuid>
+  <title>В супермаркете :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>2</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a bunch of flowers</question>
+    <answer>букет цветов</answer>
+    <comment>[ə bʌnʧ əv ˈflаʊərz]</comment>
+    <question_comment>bunch - букет, flower - цветок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d88c1b53-67e9-42d7-81ec-827f6e240b4d</uuid>
+    <examples>
+       <example>
+          <value>I want a bunch of flowers for an elderly lady.</value>
+          <translation>Мне нужен букет цветов для пожилой женщины.</translation>
+          <comment>to want - хотеть, bunch - букет, flower - цветок, elderly - пожилой, lady - женщина, дама</comment>
+       </example>
+       <example>
+          <value>I want a bunch of flowers for an official congratulation.</value>
+          <translation>Мне нужен букет цветов для официального поздравления.</translation>
+          <comment>to want - хотеть, bunch - букет, flower - цветок, official - официальный, congratulation - поздравление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a carton of cigarettes</question>
+    <answer>блок сигарет</answer>
+    <comment>[ə ˈkɑːrtn əv ˌsɪgəˈrets]</comment>
+    <question_comment>carton - картонная коробка, cigarette - сигарета</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c95ed731-9434-4610-b10f-a190d001f716</uuid>
+    <examples>
+       <example>
+          <value>Give me a carton of cigarettes, please.</value>
+          <translation>Дайте, пожалуйста, блок сигарет.</translation>
+          <comment>to give - дать, me - мне, меня, carton - коробка, cigarette - сигарета</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a fitting room</question>
+    <answer>примерочная</answer>
+    <comment>[ə ˈfɪtɪŋ ruːm]</comment>
+    <question_comment>fitting - примерка, room - комната</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>088a63a4-24a6-4815-a9ae-4fce5da0fcbd</uuid>
+    <examples>
+       <example>
+          <value>There&apos;s a fitting room over there.</value>
+          <translation>Вон там есть примерочная.</translation>
+          <comment>there&apos;s - есть, имеется, fitting room - примерочная, over there - вон там</comment>
+       </example>
+       <example>
+          <value>Where is the fitting room?</value>
+          <translation>Где находится примерочная?</translation>
+          <comment>where - где, fitting room - примерочная</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a hair dye</question>
+    <answer>краска для волос</answer>
+    <comment>[ə her dаɪ]</comment>
+    <question_comment>hair - волос, dye - краска</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6ee2d462-31f8-49dd-ac15-75ab5537ac9b</uuid>
+    <examples>
+       <example>
+          <value>Is this hair dye stable?</value>
+          <translation>Эта краска для волос стойкая?</translation>
+          <comment>this - этот, эта, это, hair - волос, dye - краска, stable - устойчивый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a musical center</question>
+    <answer>музыкальный центр</answer>
+    <comment>[ə ˈmjuːzɪkəl ˈsentər]</comment>
+    <question_comment>musical - музыкальный, center - центр</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dfd8413a-4cde-4b4b-a94c-03025282ed9b</uuid>
+    <examples>
+       <example>
+          <value>I want to listen how this musical center works.</value>
+          <translation>Я хочу послушать, как работает этот музыкальный центр.</translation>
+          <comment>to want - хотеть, to listen - послушать, how - как, this - этот, musical - музыкальный, center - центр, to work - работать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a nail file</question>
+    <answer>пилочка для ногтей</answer>
+    <comment>[ə neɪl fаɪl]</comment>
+    <question_comment>nail - ноготь, file - пилочка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4f7fffe-bb22-4a2a-bc51-8dfa8993a9c1</uuid>
+    <examples>
+       <example>
+          <value>I want a pair of manicure scissors and a nail file.</value>
+          <translation>Мне нужны маникюрные ножницы и пилочка для ногтей.</translation>
+          <comment>to want - хотеть, pair - пара, manicure - маникюр, scissors - ножницы, nail - ноготь, file - пилочка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a pack of cigarettes</question>
+    <answer>пачка сигарет</answer>
+    <comment>[ə pæk əv ˌsɪgəˈrets]</comment>
+    <question_comment>pack - пачка, cigarette - сигарета</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a3d30f36-d998-458e-bac3-2a99be0c67b8</uuid>
+    <examples>
+       <example>
+          <value>Give me a pack of cigarettes, please.</value>
+          <translation>Дайте, пожалуйста, пачку сигарет.</translation>
+          <comment>to give - дать, me - мне, меня, pack - пачка, cigarette - сигарета</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a pair of manicure scissors</question>
+    <answer>маникюрные ножницы</answer>
+    <comment>[ə per əv ˈmænəkjʊr ˈsɪzərz]</comment>
+    <question_comment>pair - пара, manicure - маникюр, scissors - ножницы</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1402ba35-7467-4d0a-b47b-31668d20a4aa</uuid>
+    <examples>
+       <example>
+          <value>I want a pair of manicure scissors and a nail file.</value>
+          <translation>Мне нужны маникюрные ножницы и пилочка для ногтей.</translation>
+          <comment>to want - хотеть, pair - пара, manicure - маникюр, scissors - ножницы, nail - ноготь, file - пилочка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a plan of the city</question>
+    <answer>план города</answer>
+    <comment>[ə plæn əv ðə ˈsɪtiː]</comment>
+    <question_comment>plan - план, city - город</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>612b7833-0f3c-41cd-ba02-c1e962cf0655</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a plan of the city?</value>
+          <translation>Где мне купить план города?</translation>
+          <comment>where - где, can - мочь, to buy - купить, plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>Give me a plan of the city, please.</value>
+          <translation>Дайте, пожалуйста, план города.</translation>
+          <comment>to give - давать, me - мне, меня, plan - план, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a size smaller</question>
+    <answer>на размер меньше</answer>
+    <comment>[ə sаɪz ˈsmɔːlə]</comment>
+    <question_comment>size - размер, smaller - меньше</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>23ccf6f9-b2a4-4a29-9592-7728af60b2df</uuid>
+    <examples>
+       <example>
+          <value>I want these shoes a size smaller.</value>
+          <translation>Я хочу эти туфли на размер меньше.</translation>
+          <comment>to want - хотеть, these - эти, shoes - туфли, size - размер, smaller - меньше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a swimming suit</question>
+    <answer>купальник</answer>
+    <comment>[ə ˈswɪmɪŋ suːt]</comment>
+    <question_comment>swimming - плаванье, suit - костюм</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d5bbdce-43b4-4441-a12e-b7b48e93b5bf</uuid>
+    <examples>
+       <example>
+          <value>I need a swimming suit.</value>
+          <translation>Мне нужен купальник.</translation>
+          <comment>need - нуждаться, swimming - плавательный, suit - костюм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a tester of this perfume</question>
+    <answer>тестер этих духов</answer>
+    <comment>[ə ˈtestər əv ðɪs ˈpɜːrfjuːm]</comment>
+    <question_comment>tester - тестер, this - этот, эта, perfume - духи</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>250ba74b-407e-4d4a-bf9b-393a23cae52e</uuid>
+    <examples>
+       <example>
+          <value>Can you give me a tester of this perfume?</value>
+          <translation>Дайте мне, пожалуйста, тестер этих духов.</translation>
+          <comment>can - мочь, to give - дать, me - мне, меня, tester - тестер, пробник, this - этот, эта, это, perfume - духи</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a very good brand</question>
+    <answer>очень хорошая марка</answer>
+    <comment>[ə ˈveriː gʊd brænd]</comment>
+    <question_comment>very - очень, good - хороший, brand - марка (торговая)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b45bbb61-e9d0-42a7-b59a-4f243a76fa0f</uuid>
+    <examples>
+       <example>
+          <value>This is a very good brand.</value>
+          <translation>Это очень хорошая марка.</translation>
+          <comment>this - этот, эта, это, very - очень, good - хороший, brand - торговая марка, бренд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a very poor choice</question>
+    <answer>очень маленький выбор</answer>
+    <comment>[ə ˈveriː pʊr ʧɔɪs]</comment>
+    <question_comment>very - очень, poor - слабый, плохой, choice - выбор</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>47c2a5d3-3af4-4c4a-b6fb-ce30e52492f4</uuid>
+    <examples>
+       <example>
+          <value>There is a very poor choice of magazines in this store.</value>
+          <translation>В этом магазине очень маленький выбор журналов.</translation>
+          <comment>there is - есть, имеется, very - очень, poor - слабый, плохой, choice - выбор, magazine - журнал, this - этот, эта, это, store - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>all in all</question>
+    <answer>все вместе</answer>
+    <comment>[ɔːl ɪn ɔːl]</comment>
+    <question_comment>all - все</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b7dfeeed-eb3d-4038-9ccf-d478b895b4d3</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m all right.</value>
+          <translation>Я в порядке.</translation>
+          <comment>all - весь, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>All the best!</value>
+          <translation>Всего хорошего!</translation>
+          <comment>all - все, the best - наилучшее</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right.</value>
+          <translation>Не за что.</translation>
+          <comment>that - это, all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right! You may pass on.</value>
+          <translation>Все в порядке! Вы можете проходить.</translation>
+          <comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</comment>
+       </example>
+       <example>
+          <value>All right!</value>
+          <translation>Правильно!</translation>
+          <comment>all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>By all means.</value>
+          <translation>Непременно.</translation>
+          <comment>all - все, mean - средство</comment>
+       </example>
+       <example>
+          <value>All right. Thank you.</value>
+          <translation>Хорошо. Спасибо.</translation>
+          <comment>all - все, всё, right - правильный, to thank - благодарить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>All the best!</value>
+          <translation>Всего хорошего!</translation>
+          <comment>all - все, всё, the best - лучшее</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t like the play at all.</value>
+          <translation>Мне вообще не понравился спектакль.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, at all - вовсе, совсем</comment>
+       </example>
+       <example>
+          <value>I didn&apos;t enjoy the film at all.</value>
+          <translation>Фильм мне совершенно не понравился.</translation>
+          <comment>to enjoy - любить, наслаждаться, film - фильм, at all - совсем, вовсе</comment>
+       </example>
+       <example>
+          <value>Does it fit all right?</value>
+          <translation>Это вам подойдет?</translation>
+          <comment>to fit - подходить, all - все, right - правильный</comment>
+       </example>
+       <example>
+          <value>Thanks, it is all.</value>
+          <translation>Спасибо, это все.</translation>
+          <comment>thanks - спасибо, it - это, all - все</comment>
+       </example>
+       <example>
+          <value>How much is for all?</value>
+          <translation>Сколько с меня за все?</translation>
+          <comment>how - как, much - много, all - все</comment>
+       </example>
+       <example>
+          <value>How much is all in all?</value>
+          <translation>Сколько стоит это вместе?</translation>
+          <comment>how - как, much - много, all - все, всё</comment>
+       </example>
+       <example>
+          <value>Where&apos;s the all-night drugstore?</value>
+          <translation>Где круглосуточная аптека?</translation>
+          <comment>where - где, all-night - ночной, drugstore - аптека</comment>
+       </example>
+       <example>
+          <value>All my money has been stolen.</value>
+          <translation>Украдены все мои деньги.</translation>
+          <comment>all - все, my - мой, моя, мое, money - деньги, stolen - украденный</comment>
+       </example>
+       <example>
+          <value>Yesterday it was hot all day long.</value>
+          <translation>Вчера весь день было жарко.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, hot - жаркий, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday it was cold all day long.</value>
+          <translation>Вчера весь день было холодно.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, cold - холодный, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday snow was falling all day long.</value>
+          <translation>Вчера весь день шел снег.</translation>
+          <comment>yesterday - вчера, snow - снег, was - был, была, было, falling - падающий, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday rain was pouring all day long.</value>
+          <translation>Вчера весь день шел дождь.</translation>
+          <comment>yesterday - вчера, rain - дождь, was - был, была, было, pouring - льющий, all - весь, day - день, long - длинный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an extra large</question>
+    <answer>очень большой размер</answer>
+    <comment>[ən ˈekstrə lɑːrʤ]</comment>
+    <question_comment>extra - особо, особенно, large - большой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>489df92c-793d-455d-8517-bae18346ffeb</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m an extra large.</value>
+          <translation>У меня очень большой размер.</translation>
+          <comment>extra - особо, особенно, large - большой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the cash register</question>
+    <answer>в кассе, у кассы</answer>
+    <comment>[ət ðə kæʃ ˈreʤɪstər]</comment>
+    <question_comment>cash - наличные деньги, register - счетный механизм</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>57c2b4ae-d55f-431c-935f-9c4cc43e9187</uuid>
+    <examples>
+       <example>
+          <value>Please pay the bill at the cash register.</value>
+          <translation>Заплатите в кассу по этому чеку.</translation>
+          <comment>to pay - платить, bill - счет, cash register - касса</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>at the moment</question>
+    <answer>в настоящий момент</answer>
+    <comment>[ət ðə ˈmoʊmənt]</comment>
+    <question_comment>moment - момент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>edb081a1-8aa5-4099-8fdf-cab010c77915</uuid>
+    <examples>
+       <example>
+          <value>He&apos;s out at the moment.</value>
+          <translation>Его сейчас нет.</translation>
+          <comment>out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>I&apos;m afraid Mr. Jones is out at the moment.</value>
+          <translation>Боюсь, мистер Джонс сейчас отсутствует.</translation>
+          <comment>afraid - боязливый, опасающийся, Mr. Jones - мистер Джонс, out - отсутствующий, moment - момент</comment>
+       </example>
+       <example>
+          <value>Just a moment, please!</value>
+          <translation>Одну секунду...</translation>
+          <comment>just - только, совсем, moment - момент</comment>
+       </example>
+       <example>
+          <value>Sorry, it&apos;s out of stock at the moment.</value>
+          <translation>К сожалению, в настоящий момент у нас этого нет в продаже.</translation>
+          <comment>sorry - прости(те), out of stock - не имеющийся в наличии, moment - момент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>books on art</question>
+    <answer>книги по искусству</answer>
+    <comment>[bʊks ɑːn ɑːrt]</comment>
+    <question_comment>book - книга, art - искусство</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1262ead0-c9f1-485a-9e57-cc63ba58ff0b</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m interested in books on art.</value>
+          <translation>Меня интересуют книги по искусству.</translation>
+          <comment>interested - заинтересованный, book - книга, art - искусство</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>flowers for an elderly lady</question>
+    <answer>цветы для пожилой женщины</answer>
+    <comment>[ˈflаʊərz fər ən ˈeldərliː ˈleɪdiː]</comment>
+    <question_comment>flower - цветок, elderly - пожилой, lady - дама, женщина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7471a440-9bb3-44eb-86d5-71aef105f75f</uuid>
+    <examples>
+       <example>
+          <value>I want a bunch of flowers for an elderly lady.</value>
+          <translation>Мне нужен букет цветов для пожилой женщины.</translation>
+          <comment>to want - хотеть, bunch - букет, flower - цветок, elderly - пожилой, lady - женщина, дама</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>flowers for an official congratulation</question>
+    <answer>цветы для официального поздравления</answer>
+    <comment>[ˈflаʊərz fər ən əˈfɪʃəl kənˌgræʧəˈleɪʃən]</comment>
+    <question_comment>flower - цветок, official - официальный, congratulation - поздравление</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b120d63-8dd1-4973-84cb-6b0c1bb75534</uuid>
+    <examples>
+       <example>
+          <value>I want a bunch of flowers for an official congratulation.</value>
+          <translation>Мне нужен букет цветов для официального поздравления.</translation>
+          <comment>to want - хотеть, bunch - букет, flower - цветок, official - официальный, congratulation - поздравление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in my size</question>
+    <answer>моего размера</answer>
+    <comment>[ɪn mаɪ sаɪz]</comment>
+    <question_comment>my - мой, моя, size - размер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e667e7b2-0291-4d05-aef4-618ce27e3e95</uuid>
+    <examples>
+       <example>
+          <value>This is not my size.</value>
+          <translation>Это не мой размер.</translation>
+          <comment>this - это, этот, эта, my - мой, моя, мое, size - размер</comment>
+       </example>
+       <example>
+          <value>This isn&apos;t my size.</value>
+          <translation>Это не подходит мне по размеру.</translation>
+          <comment>this - это, эта, этот, my - мой, size - размер</comment>
+       </example>
+       <example>
+          <value>Have you got it in my size?</value>
+          <translation>У вас есть это моего размера?</translation>
+          <comment>to have got - иметь, it - это, my - мой, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in this store</question>
+    <answer>в этом магазине</answer>
+    <comment>[ɪn ðɪs stɔːr]</comment>
+    <question_comment>this - этот, эта, store - магазин</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>be5b9c4f-4f35-4770-ad3f-42dc60b9e219</uuid>
+    <examples>
+       <example>
+          <value>There is a very poor choice of magazines in this store.</value>
+          <translation>В этом магазине очень маленький выбор журналов.</translation>
+          <comment>there is - есть, имеется, very - очень, poor - слабый, плохой, choice - выбор, magazine - журнал, this - этот, эта, это, store - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>low shoes</question>
+    <answer>полуботинки</answer>
+    <comment>[loʊ ʃuːz]</comment>
+    <question_comment>low - низкий, shoes - туфли, полуботинки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cba990f3-a09d-4223-a434-56b8531afac4</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to try on some low shoes.</value>
+          <translation>Мне хотелось бы прмерить полуботинки.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, low shoes - полуботинки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>not expensive shoes</question>
+    <answer>недорогие туфли</answer>
+    <comment>[nɑːt ɪkˈspensɪv ʃuːz]</comment>
+    <question_comment>expensive - дорогой, shoe - туфля</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f783145a-a451-4f70-8331-1430f6974cd4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is not my size.</question>
+    <answer>Это не мой размер.</answer>
+    <comment>[ðɪs ɪz nɑːt mаɪ sаɪz]</comment>
+    <question_comment>This - это, my - мой, моя, size - размер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc7e645f-d4f2-424e-a491-2aa4e8833f7a</uuid>
+    <examples>
+       <example>
+          <value>This is not my size.</value>
+          <translation>Это не мой размер.</translation>
+          <comment>this - это, этот, эта, my - мой, моя, мое, size - размер</comment>
+       </example>
+       <example>
+          <value>This isn&apos;t my size.</value>
+          <translation>Это не подходит мне по размеру.</translation>
+          <comment>this - это, эта, этот, my - мой, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on weekdays</question>
+    <answer>в будни</answer>
+    <comment>[ɑːn ˈwiːkˌdeɪz]</comment>
+    <question_comment>weekdays - будние дни, week - неделя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f4fb945c-e608-496f-a227-88d6ce8cfd02</uuid>
+    <examples>
+       <example>
+          <value>How does the store work on weekdays?</value>
+          <translation>Как работает этот магазин в будни?</translation>
+          <comment>how - как, store - магазин, to work - работать, weekdays - будние дни</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on weekends</question>
+    <answer>в выходные дни</answer>
+    <comment>[ɑːn ˈwiːkˌendz]</comment>
+    <question_comment>weekends - выходные дни, week - неделя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ce067ca1-fd70-4929-9fb8-4447680cec6e</uuid>
+    <examples>
+       <example>
+          <value>How does the store work on weekends?</value>
+          <translation>Как работает этот магазин в выходные дни?</translation>
+          <comment>how - как, store - магазин, to work - работать, weekend - выходные</comment>
+       </example>
+       <example>
+          <value>Did you have a good weekend?</value>
+          <translation>Вы хорошо провели выходные?</translation>
+          <comment>to have - иметь, good - хороший, weekend - выходные</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>They are over there.</question>
+    <answer>Они вон там.</answer>
+    <comment>[ðeɪ ɑːr ˈoʊvər ðer]</comment>
+    <question_comment>over - вон, there - там</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3b9cfe6a-1eb0-48c5-ba01-2084d5fafb03</uuid>
+    <examples>
+       <example>
+          <value>There&apos;s a fitting room over there.</value>
+          <translation>Вон там есть примерочная.</translation>
+          <comment>there&apos;s - есть, имеется, fitting room - примерочная, over there - вон там</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>perfumes of this firm</question>
+    <answer>духи этой фирмы</answer>
+    <comment>[ˈpɜːrfjuːmz əv ðɪs fɜːrm]</comment>
+    <question_comment>perfume - духи, firm - фирма</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>77e5cfbe-d26f-4ea9-bcc0-e21b2b630e59</uuid>
+    <examples>
+       <example>
+          <value>I like perfumes of this firm.</value>
+          <translation>Я люблю духи этой фирмы.</translation>
+          <comment>to like - любить, perfume - духи, this - этот, эта, это, firm - фирма</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>some other color</question>
+    <answer>другой цвет</answer>
+    <comment>[sʌm ˈʌðər ˈkʌlər]</comment>
+    <question_comment>some - некоторый, other - другой, color - цвет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d2571bc6-6f6c-4d3e-9d32-da93d488b9f5</uuid>
+    <examples>
+       <example>
+          <value>I need some other color.</value>
+          <translation>Мне нужен другой цвет.</translation>
+          <comment>need - нуждаться, some - некоторый, other - другой, color - цвет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the same but of a different color</question>
+    <answer>то же самое, но другого цвета</answer>
+    <comment>[ðə seɪm bʌt əv ə ˈdɪfərənt ˈkʌlər]</comment>
+    <question_comment>the same - то же самое, but - но, different - другой, color - цвет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a1bfd83e-7bf8-4871-b2db-e6251eac616e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like the same but of a different color.</value>
+          <translation>Мне хотелось бы то же, но другого цвета.</translation>
+          <comment>would like - хотеть, the same - то же самое, but - но, different - другой, различный, color - цвет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be a bit big</question>
+    <answer>быть великоватыми</answer>
+    <comment>[tə biː ə bɪt bɪg]</comment>
+    <question_comment>a bit - немного, big - большой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1b2ae75-5093-4ca8-8cc5-bd8d83072434</uuid>
+    <examples>
+       <example>
+          <value>These shoes are a bit big.</value>
+          <translation>Эти туфли великоваты.</translation>
+          <comment>these - эти, shoes - туфли, a bit - немного, чуть-чуть, big - большой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be a bit tight</question>
+    <answer>немного жать</answer>
+    <comment>[tə biː ə bɪt tаɪt]</comment>
+    <question_comment>a bit - немного, tight - узкий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>274f68d0-29dc-4f0f-a454-0e606fe732a9</uuid>
+    <examples>
+       <example>
+          <value>These shoes are a bit tight.</value>
+          <translation>Эти туфли немного жмут.</translation>
+          <comment>these - эти, shoes - туфли, a bit - немного, чуть-чуть, tight - узкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be a good color</question>
+    <answer>быть подходящим цветом</answer>
+    <comment>[tə biː ə gʊd ˈkʌlər]</comment>
+    <question_comment>good - хороший, color - цвет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b235916d-f86f-4827-b7c4-152b628d8e15</uuid>
+    <examples>
+       <example>
+          <value>Yellow isn&apos;t a good color for me.</value>
+          <translation>Желтый цвет мне не идет.</translation>
+          <comment>yellow - желтый цвет, good - хороший, color - цвет, for - для, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are you being helped?</question>
+    <answer>Вас обслуживают?</answer>
+    <comment>[ɑːr jʊ ˈbiːɪŋ helpt]</comment>
+    <question_comment>to help - помогать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>21ab70b4-fdcf-47fa-bbc0-c2d54a92d303</uuid>
+    <examples>
+       <example>
+          <value>Are you being helped?</value>
+          <translation>Вас уже обслуживают?</translation>
+          <comment>being helped - обслуживаемый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be interested in</question>
+    <answer>интересоваться чем-л.</answer>
+    <comment>[tə biː ˈɪntərɪstɪd ɪn]</comment>
+    <question_comment>interested - заинтересованный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>960cbc99-1b1c-4614-b721-5491c037277a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m interested in books on art.</value>
+          <translation>Меня интересуют книги по искусству.</translation>
+          <comment>interested - заинтересованный, book - книга, art - искусство</comment>
+       </example>
+       <example>
+          <value>What are you interested in?</value>
+          <translation>Чем вы увлекаетесь?</translation>
+          <comment>what - что, you - ты,вы, interested - заинтересованный</comment>
+       </example>
+       <example>
+          <value>I&apos;m interested in modern music.</value>
+          <translation>Я увлекаюсь современной музыкой.</translation>
+          <comment>interested - заинтересованный, modern - современный, music - музыка</comment>
+       </example>
+       <example>
+          <value>I&apos;m interested in photo.</value>
+          <translation>Я увлекаюсь фотографией.</translation>
+          <comment>interested - заинтересованный, photo - фото</comment>
+       </example>
+       <example>
+          <value>I&apos;m interested in video shooting.</value>
+          <translation>Я увлекаюсь видеосъемкой.</translation>
+          <comment>interested - заинтересованный, video shooting - видеосъемка</comment>
+       </example>
+       <example>
+          <value>I&apos;m interested in fishing.</value>
+          <translation>Я увлекаюсь рыбалкой.</translation>
+          <comment>interested - заинтересованный, fishing - рыбалка</comment>
+       </example>
+       <example>
+          <value>We are interested in technology.</value>
+          <translation>Нас интересует технология.</translation>
+          <comment>interested - заинтересованный, technology - технология</comment>
+       </example>
+       <example>
+          <value>We are interested in the composition of raw materials.</value>
+          <translation>Нас интересует состав сырья.</translation>
+          <comment>interested - заинтересованный, composition - состав, raw - сырой, material - материал</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be just looking</question>
+    <answer>просто смотреть</answer>
+    <comment>[tə biː ʤʌst ˈlʊkɪŋ]</comment>
+    <question_comment>to look - смотреть, just - просто</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b9dcdc23-898e-440a-9666-d8757d8902ca</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m just looking.</value>
+          <translation>Я только смотрю.</translation>
+          <comment>just - просто, looking - смотрящий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be just right</question>
+    <answer>быть впору</answer>
+    <comment>[tə biː ʤʌst rаɪt]</comment>
+    <question_comment>just - как раз, right - подходящий, правильный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>de438128-d9fd-4f26-8759-f25607c2d165</uuid>
+    <examples>
+       <example>
+          <value>It is just right for me.</value>
+          <translation>Это мне впору.</translation>
+          <comment>just - как раз, right - правильный, подходящий, for - для, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>These shoes are just right.</value>
+          <translation>Эти туфли впору.</translation>
+          <comment>these - эти, shoes - туфли, just - как раз, right - правильный, подходящий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The Spring sales are on.</question>
+    <answer>Идут весенние распродажи.</answer>
+    <comment>[ðə sprɪŋ seɪlz ɑːr ɑːn]</comment>
+    <question_comment>spring - весна, sale - распродажа, to be on - идти, проводиться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>384c8a15-3955-424d-a4c1-5416c7112b2f</uuid>
+    <examples>
+       <example>
+          <value>The Spring sales are on.</value>
+          <translation>Идут весенние распродажи.</translation>
+          <comment>spring - весна, весенний, sale - продажа, on - происходящий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be out of stock</question>
+    <answer>не быть в наличии</answer>
+    <comment>[tə biː аʊt əv stɑːk]</comment>
+    <question_comment>out of - из, вне, stock - склад</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2217b376-49ae-424a-8dca-1a8441a175d1</uuid>
+    <examples>
+       <example>
+          <value>Sorry, it&apos;s out of stock at the moment.</value>
+          <translation>К сожалению, в настоящий момент у нас этого нет в продаже.</translation>
+          <comment>sorry - прости(те), out of stock - не имеющийся в наличии, moment - момент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too dark</question>
+    <answer>слишком темный</answer>
+    <comment>[tuː dɑːrk]</comment>
+    <question_comment>too - слишком, dark - темный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dbb3d00d-b2d9-43f2-b662-6dfc1b1ae966</uuid>
+    <examples>
+       <example>
+          <value>This lipstick is too dark.</value>
+          <translation>Это помада слишком темная.</translation>
+          <comment>this - этот, эта, это, lipstick - помада, too - слишком, dark - темный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too gaudy</question>
+    <answer>слишком яркий</answer>
+    <comment>[tuː ˈgɔːdiː]</comment>
+    <question_comment>too - слишком, gaudy - яркий, кричащий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aeda51fc-be84-4687-9f24-bdce0b50a1e7</uuid>
+    <examples>
+       <example>
+          <value>This lipstick is too gaudy.</value>
+          <translation>Это помада слишком яркая.</translation>
+          <comment>this - этот, эта, это, lipstick - помада, too - слишком, gaudy - яркий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too light</question>
+    <answer>слишком светлый</answer>
+    <comment>[tuː lаɪt]</comment>
+    <question_comment>too - слишком, light - светлый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53d11675-fec0-4001-aa36-5d7683732460</uuid>
+    <examples>
+       <example>
+          <value>This lipstick is too light.</value>
+          <translation>Это помада слишком яркая.</translation>
+          <comment>this - этот, эта, это, lipstick - помада, too - слишком, light - светлый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a jacket</question>
+    <answer>купить куртку</answer>
+    <comment>[tə bаɪ ə ˈʤækɪt]</comment>
+    <question_comment>to buy - купить, jacket - куртка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>061a3fdf-6641-4c23-a692-039d308f4fa4</uuid>
+    <examples>
+       <example>
+          <value>Where can I buy a jacket?</value>
+          <translation>Где я могу купить куртку?</translation>
+          <comment>where - где, can - мочь, to buy - купить, jacket - куртка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a lot of things</question>
+    <answer>купить много вещей</answer>
+    <comment>[tə bаɪ ə lɑːt əv θɪŋz]</comment>
+    <question_comment>to buy - купить, a lot - много, thing - вещь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a0e4b93-e8af-4ac3-b1ac-1791165444d8</uuid>
+    <examples>
+       <example>
+          <value>I have to buy a lot of things.</value>
+          <translation>Мне нужно купить много вещей.</translation>
+          <comment>to have to - быть должным, to buy - купить, a lot - много, thing - вещь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy a tie</question>
+    <answer>купить галстук</answer>
+    <comment>[tə bаɪ ə tаɪ]</comment>
+    <question_comment>to buy - купить, tie - галстук</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>113e2d50-e3bb-47c3-8524-186b79fedce5</uuid>
+    <examples>
+       <example>
+          <value>I want to buy a tie.</value>
+          <translation>Мне нужно купить галстук.</translation>
+          <comment>to want - хотеть, to buy - купить, tie - галстук</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy cigarettes with menthol</question>
+    <answer>купить сигареты с ментолом</answer>
+    <comment>[tə bаɪ ˌsɪgəˈrets wɪð ˈmenθoʊl]</comment>
+    <question_comment>to buy - купить, cigarette - сигарета, menthol - ментол</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6d38f342-4a0e-49e0-9efb-326314cbe409</uuid>
+    <examples>
+       <example>
+          <value>I want to buy cigarettes with menthol.</value>
+          <translation>Я хочу купить сигареты с ментолом.</translation>
+          <comment>to want - хотеть, to buy - купить, cigarette - сигарета, menthol - ментол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy cigars</question>
+    <answer>купить сигары</answer>
+    <comment>[tə bаɪ sɪˈgɑːrz]</comment>
+    <question_comment>to buy - купить, cigar - сигара</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c8529411-4e12-4d6e-980d-5dbac16d4f93</uuid>
+    <examples>
+       <example>
+          <value>I want to buy cigars.</value>
+          <translation>Я хочу купить сигары.</translation>
+          <comment>to want - хотеть, to buy - купить, cigar - сигара</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy gifts</question>
+    <answer>купить подарки</answer>
+    <comment>[tə bаɪ gɪfts]</comment>
+    <question_comment>to buy - купить, gift - подарок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>13e6b17e-d2f3-49b4-8684-482a5a914e19</uuid>
+    <examples>
+       <example>
+          <value>I want to buy gifts.</value>
+          <translation>Я хочу купить подарки.</translation>
+          <comment>to want - хотеть, to buy - купить, gift - подарок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to buy pipe tobacco</question>
+    <answer>купить трубочный табак</answer>
+    <comment>[tə bаɪ pаɪp təˈbækoʊ]</comment>
+    <question_comment>to buy - купить, pipe - курительная трубка, tobacco - табак</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>820ab1f7-0676-48ac-866f-2ff3cdf8d798</uuid>
+    <examples>
+       <example>
+          <value>I want to buy pipe tobacco.</value>
+          <translation>Я хочу купить трубочный табак.</translation>
+          <comment>to want - хотеть, to buy - купить, pipe - трубка, tobacco - табак</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to choose a gift for a girl</question>
+    <answer>выбрать подарок для девушки</answer>
+    <comment>[tə ʧuːz ə gɪft fər ə gɜːrl]</comment>
+    <question_comment>to choose - выбрать, gift - подарок, girl - девушка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1de0d824-4777-4fb2-bcf2-82f6df3a5df0</uuid>
+    <examples>
+       <example>
+          <value>Help me to choose a gift for a girl.</value>
+          <translation>Помогите мне выбрать подарок для девушки.</translation>
+          <comment>to help - помогать, me - мне, меня, to choose - выбирать, gift - подарок, girl - девушка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to choose a gift for a man</question>
+    <answer>выбрать подарок для мужчины</answer>
+    <comment>[tə ʧuːz ə gɪft fər ə mɑːn]</comment>
+    <question_comment>to choose - выбрать, gift - подарок, man - мужчина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>237b9aea-3fab-404e-82a8-1acacbadc4f4</uuid>
+    <examples>
+       <example>
+          <value>Help me to choose a gift for a man.</value>
+          <translation>Помогите мне выбрать подарок для мужчины.</translation>
+          <comment>to help - помогать, me - мне, меня, to choose - выбирать, gift - подарок, man - мужчина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to choose a gift for a woman</question>
+    <answer>выбрать подарок для женщины</answer>
+    <comment>[tə ʧuːz ə gɪft fər ə ˈwʊmən]</comment>
+    <question_comment>to choose - выбрать, gift - подарок, woman - женщина</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>822f4dc1-2907-4547-ab28-27c692a9a778</uuid>
+    <examples>
+       <example>
+          <value>Help me to choose a gift for a woman.</value>
+          <translation>Помогите мне выбрать подарок для женщины.</translation>
+          <comment>to help - помогать, me - мне, меня, to choose - выбирать, gift - подарок, woman - женщина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to find books</question>
+    <answer>найти книги</answer>
+    <comment>[tə fаɪnd bʊks]</comment>
+    <question_comment>to find - находить, book - книга</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>617cb6db-919f-4a98-82de-78dc32da2f9b</uuid>
+    <examples>
+       <example>
+          <value>Where can I find books in your store?</value>
+          <translation>Где я могу найти книжный отдел?</translation>
+          <comment>where - где, can - мочь, to find - найти, book - книга, your - твой, ваш, store - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fit well</question>
+    <answer>быть как раз (по размеру)</answer>
+    <comment>[tə fɪt wel]</comment>
+    <question_comment>to fit - подходить, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ace94a21-4ea9-43b4-ad26-abe53b97b73d</uuid>
+    <examples>
+       <example>
+          <value>It seems to fit well.</value>
+          <translation>Кажется, это подойдет.</translation>
+          <comment>to seem - казаться, to fit - подходить, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a discount</question>
+    <answer>давать скидку</answer>
+    <comment>[tə gɪv ə ˈdɪsˌkaʊnt]</comment>
+    <question_comment>to give - давать, discount - скидка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>092e04d0-e02f-4afb-b06c-fa4f200dcd57</uuid>
+    <examples>
+       <example>
+          <value>Do you give a discount?</value>
+          <translation>Вы предоставляете скидку?</translation>
+          <comment>to give - давать, discount - скидка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give a lighter</question>
+    <answer>дать зажигалку</answer>
+    <comment>[tə gɪv ə ˈlаɪtər]</comment>
+    <question_comment>to give - давать, lighter - зажигалка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc40125a-4b50-4cae-a4e2-39d08f57a488</uuid>
+    <examples>
+       <example>
+          <value>Give me a lighter, please.</value>
+          <translation>Дайте, пожалуйста, зажигалку.</translation>
+          <comment>to give - дать, me - мне, меня, lighter - зажигалка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to give postcards</question>
+    <answer>давать открытки</answer>
+    <comment>[tə gɪv ˈpoʊstkɑːrdz]</comment>
+    <question_comment>to give - давать, postcard - открытка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5adf1131-c9e4-4208-b733-a5a25b1f4eca</uuid>
+    <examples>
+       <example>
+          <value>Could you give me a stamp for this postcard?</value>
+          <translation>Дайте, пожалуйста, марку на эту открытку.</translation>
+          <comment>could - мог, могла, могли, to give - дать, me - мне, меня, stamp - марка, this - этот, эта, это, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>Please give me a congratulation postcard.</value>
+          <translation>Пожалуйста, дайте мне поздравительную открытку.</translation>
+          <comment>to give - дать, me - мне, меня, congratulation - поздравление, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>Give me these postcards, please.</value>
+          <translation>Дайте, пожалуйста, эти открытки.</translation>
+          <comment>to give - давать, me - мне, меня, these - эти, postcard - открытка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go for stockings</question>
+    <answer>пойти за колготками</answer>
+    <comment>[tə goʊ fər ˈstɑːkiːŋz]</comment>
+    <question_comment>to go - идти, stockings - колготки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2cb7c16e-543f-45ad-a7a9-4ff8269c8408</uuid>
+    <examples>
+       <example>
+          <value>Where do I go for stockings?</value>
+          <translation>Где продаются колготки?</translation>
+          <comment>where - куда, где, to go - идти, stockings - колготки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go shopping</question>
+    <answer>пойти за покупками</answer>
+    <comment>[tə goʊ ˈʃɑːpɪŋ]</comment>
+    <question_comment>to go - идти, shopping - покупки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55bc8777-4a49-40c9-a902-e524f42a5889</uuid>
+    <examples>
+       <example>
+          <value>Do you want to go shopping?</value>
+          <translation>Не хотите ли пойти за покупками?</translation>
+          <comment>to want - хотеть, to go - идти, shopping - покупки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have other models</question>
+    <answer>иметь другие модели</answer>
+    <comment>[tə hæv ˈʌðər ˈmɑːdlz]</comment>
+    <question_comment>to have - иметь, other - другой, model - модель</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d0c661b-7e81-45d4-aaef-74276aaa28b0</uuid>
+    <examples>
+       <example>
+          <value>Do you have other models?</value>
+          <translation>У вас нет других моделей?</translation>
+          <comment>to have - иметь, other - другой, model - модель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to let somebody know</question>
+    <answer>дать кому-либо знать</answer>
+    <comment>[tə let ˈsʌmˌbɑːdiː noʊ]</comment>
+    <question_comment>to let - позволить, somebody - кто-либо, to know - знать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d70650da-8e5e-4d9e-bfef-8d58202e7aec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to look at that blue blouse</question>
+    <answer>взглянуть на ту голубую блузку</answer>
+    <comment>[tə lʊk ət ðæt bluː blаʊs]</comment>
+    <question_comment>to look - смотреть, that - тот, та, blue - голубой, blouse - блузка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12b3cfcf-3e2c-4ec9-a8eb-89f78fd7341b</uuid>
+    <examples>
+       <example>
+          <value>Can I look at that blue blouse?</value>
+          <translation>Могу взглянуть на ту голубую блузку?</translation>
+          <comment>can - мочь, to look (at) - взглянуть (на), that - тот, та, то, blue - голубой, blouse - блузка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make a gift packing</question>
+    <answer>сделать подарочную упаковку</answer>
+    <comment>[tə meɪk ə gɪft ˈpækɪŋ]</comment>
+    <question_comment>to make - делать, gift - подарок, packing - упаковка, to pack - упаковывать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d56d801b-eb8b-434a-9f91-99bbc26278f7</uuid>
+    <examples>
+       <example>
+          <value>Please make a gift packing.</value>
+          <translation>Пожалуйста, сделайте подарочную упаковку.</translation>
+          <comment>to make - сделать, gift - подарок, подарочный, packing - упаковка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to make some purchases</question>
+    <answer>сделать кое-какие покупки</answer>
+    <comment>[tə meɪk sʌm ˈpɜːrʧəsɪz]</comment>
+    <question_comment>to make - делать, some - некоторый, purchase - покупка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>92b5e40b-d4d1-4579-b882-f5e1aaa41c9a</uuid>
+    <examples>
+       <example>
+          <value>I want to make some purchases.</value>
+          <translation>Мне нужно сделать кое-какие покупки.</translation>
+          <comment>to want - хотеть, to make - делать, some - некоторый, purchase - покупка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to offer a larger size</question>
+    <answer>предложить размер побольше</answer>
+    <comment>[tə ˈɔːfər ə ˈlɑːrʤə sаɪz]</comment>
+    <question_comment>to offer - предлагать, larger - более крупный, large - большой, size - размер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4e02c598-5f4b-4c96-9c8b-d1b2d3b313d0</uuid>
+    <examples>
+       <example>
+          <value>Can you offer a larger size?</value>
+          <translation>Вы можете предложить размер побольше?</translation>
+          <comment>can - мочь, you - ты, вы, to offer - предложить, larger - больше, крупнее, size - размер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay by credit card</question>
+    <answer>платить кредитной картой</answer>
+    <comment>[tə peɪ bаɪ ˈkredɪt kɑːrd]</comment>
+    <question_comment>to pay - платить, credit - кредит, кредитный, card - карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8b2ab89e-4132-4865-88e5-305167907722</uuid>
+    <examples>
+       <example>
+          <value>Can I pay by credit card?</value>
+          <translation>Могу я заплатить кредитной карточкой?</translation>
+          <comment>can - мочь, to pay - платить, credit - кредитный, card - карта</comment>
+       </example>
+       <example>
+          <value>Can I pay by credit card?</value>
+          <translation>Можно оплатить покупки кредитной картой?</translation>
+          <comment>can - мочь, to pay - платить, credit - кредитный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay in cash</question>
+    <answer>заплатить наличными</answer>
+    <comment>[tə peɪ ɪn kæʃ]</comment>
+    <question_comment>to pay - платить, cash - наличные деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b1a3c9ed-f222-4352-ad41-530f29fc2b16</uuid>
+    <examples>
+       <example>
+          <value>I pay in cash.</value>
+          <translation>Я заплачу наличными.</translation>
+          <comment>to pay - платить, cash - наличные деньги</comment>
+       </example>
+       <example>
+          <value>Please pay the bill at the cash register.</value>
+          <translation>Заплатите в кассу по этому чеку.</translation>
+          <comment>to pay - платить, bill - счет, cash register - касса</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to pay in cash.</value>
+          <translation>Мне бы хотелось заплатить наличными.</translation>
+          <comment>would like - хотеть, to pay - платить, cash - наличные деньги</comment>
+       </example>
+       <example>
+          <value>Can I pay in cash?</value>
+          <translation>Могу я оплатить наличными?</translation>
+          <comment>can - мочь, to pay - платить, cash - наличные деньги</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay the bill</question>
+    <answer>оплатить счет</answer>
+    <comment>[tə peɪ ðə bɪl]</comment>
+    <question_comment>to pay - платить, bill - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ae2ea04-18cc-4e5a-8748-006d10491d35</uuid>
+    <examples>
+       <example>
+          <value>At what window can I pay this bill?</value>
+          <translation>В каком окне я могу оплатить этот счет?</translation>
+          <comment>what - что, какой, window - окно, can - мочь, to pay - платить, this - этот, эта, это, bill - счет</comment>
+       </example>
+       <example>
+          <value>Where can I pay a telephone bill?</value>
+          <translation>Где я могу оплатить счет за телефон?</translation>
+          <comment>where - где, can - мочь, to pay - платить, telephone - телефон, bill - счет</comment>
+       </example>
+       <example>
+          <value>Please pay the bill at the cash register.</value>
+          <translation>Заплатите в кассу по этому чеку.</translation>
+          <comment>to pay - платить, bill - счет, cash register - касса</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pay with traveller&apos;s checks</question>
+    <answer>оплатить покупки дорожными чеками</answer>
+    <comment>[tə peɪ wɪð ˈtrævələrz ʧeks]</comment>
+    <question_comment>to pay - платить, traveller - путешественник, check - чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc934ebc-b87c-408c-a7a1-fb2ef7fc73a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to pick up a deodorant</question>
+    <answer>подобрать дезодорант</answer>
+    <comment>[tə pɪk ʌp ə diːˈoʊdərənt]</comment>
+    <question_comment>to pick up - подобрать, выбрать, deodorant - дезодорант</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>12bde386-1c14-482f-ba83-6ddd633afd26</uuid>
+    <examples>
+       <example>
+          <value>Help me to pick up a deodorant.</value>
+          <translation>Помогите мне подобрать дезодорант.</translation>
+          <comment>to help - помогать, me - мне, меня, to pick up - подобрать, выбрать, deodorant - дезодорант</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sell stockings</question>
+    <answer>продавать колготки</answer>
+    <comment>[tə sel ˈstɑːkiːŋz]</comment>
+    <question_comment>to sell - продавать, stockings - колготки</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7635cf07-d6d0-4145-b003-49eb3e0f132c</uuid>
+    <examples>
+       <example>
+          <value>In what department do they sell stockings?</value>
+          <translation>С каком отделе продаются колготки?</translation>
+          <comment>what - какой, department - отдел, they - они, to sell - продавать, stockings - колготки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to show something else</question>
+    <answer>показать что-нибудь другое</answer>
+    <comment>[tə ʃoʊ ˈsʌmθɪŋ els]</comment>
+    <question_comment>to show - показать, something - что-нибудь, else - еще</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>80d2d48a-4921-4186-bbed-cd82c988aca7</uuid>
+    <examples>
+       <example>
+          <value>May I show you something else?</value>
+          <translation>Вам показать что-нибудь другое?</translation>
+          <comment>may - мочь, to show - показать, you - вам, тебе, something - что-нибудь, else - еще</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to show that black belt</question>
+    <answer>показать тот черный пояс</answer>
+    <comment>[tə ʃoʊ ðæt blæk belt]</comment>
+    <question_comment>to show - показать, that - тот, та, black - черный, belt - пояс</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>59757d97-40c2-44c0-beaf-ec9563684ac7</uuid>
+    <examples>
+       <example>
+          <value>Please show me that black belt.</value>
+          <translation>Пожалуйста, покажите мне тот черный пояс.</translation>
+          <comment>to show - показать, me - мне, меня, that - тот, та, то, black - черный, belt - пояс, ремень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to show this camera</question>
+    <answer>показать этот фотоаппарат</answer>
+    <comment>[tə ʃoʊ ðɪs ˈkæmərə]</comment>
+    <question_comment>to show - показать, this - этот, эта, camera - фотоаппарат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e0d0101-96fc-4195-b5f7-a474f6b362fd</uuid>
+    <examples>
+       <example>
+          <value>Show me this camera.</value>
+          <translation>Покажите мне этот фотоаппарат.</translation>
+          <comment>to show - показать, me - мне, меня, this - этот, эта, это, camera - фотоаппарат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to spend more than twenty dollars</question>
+    <answer>потратить больше 20 долларов</answer>
+    <comment>[tə spend mɔːr ðæn ˈtwentiː ˈdɑːlərz]</comment>
+    <question_comment>to spend - тратить, more - больше, than - чем, twenty - двадцать, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55af01ca-9749-4150-a2db-06d83c801e4b</uuid>
+    <examples>
+       <example>
+          <value>I don&apos;t want to spend more than twenty dollars.</value>
+          <translation>Я не хочу потратить больше 20 долларов.</translation>
+          <comment>to want - хотеть, to spend - тратить, more - больше, than - чем, twenty - двадцать, dollar - долларов</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to take it</question>
+    <answer>брать (купить) это</answer>
+    <comment>[tə teɪk ɪt]</comment>
+    <question_comment>to take - взять, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7b0fcab-5814-4505-8087-02cfe1b4330e</uuid>
+    <examples>
+       <example>
+          <value>Take your seat, please.</value>
+          <translation>Садитесь, пожалуйста.</translation>
+          <comment>to take - брать, your - твой, ваш, seat - место</comment>
+       </example>
+       <example>
+          <value>That&apos;s fine. I&apos;ll take it.</value>
+          <translation>Хорошо. Я беру его (номер).</translation>
+          <comment>that - это, fine - замечательный, to take - брать, it - это</comment>
+       </example>
+       <example>
+          <value>Please take my baggage to my room.</value>
+          <translation>Пожалуйста, отнесите мой багаж в мою комнату.</translation>
+          <comment>to take - относить, my - мой, моя, мое, baggage - багаж, room - комната</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this suitcase myself.</value>
+          <translation>Я отнесу этот чемодан сам.</translation>
+          <comment>to take - относить, this - этот, эта, это, suitcase - чемодан, myself - сам, себя</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this bag myself.</value>
+          <translation>Я отнесу эту сумку сам.</translation>
+          <comment>to take - относить, this - этот, эта, это, bag - сумка, myself - сам, себя</comment>
+       </example>
+       <example>
+          <value>Please send somebody to take down my suitcases.</value>
+          <translation>Пожалуйста, пришлите кого-нибудь, чтобы снести мои чемоданы вниз.</translation>
+          <comment>to send - послать, somebody - кто-либо, to take - отнести, down - вниз, my - мой, моя, мое, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take this orange juice.</value>
+          <translation>Я возьму этот апельсиновый сок.</translation>
+          <comment>to take - брать, this - этот, эта, это, orange - апельсиновый, juice - сок</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take an omelet with bacon.</value>
+          <translation>Я возьму омлет с беконом.</translation>
+          <comment>to take - брать, omelet - омлет, bacon - бекон</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take the same.</value>
+          <translation>Я закажу то же самое.</translation>
+          <comment>to take - взять, the same - то же самое</comment>
+       </example>
+       <example>
+          <value>What airport does my plane take off from?</value>
+          <translation>Из какого аэропорта отправляется мой самолет?</translation>
+          <comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</comment>
+       </example>
+       <example>
+          <value>When does flight number 232 take off?</value>
+          <translation>Когда отправляется рейс номер 232?</translation>
+          <comment>when - когда, flight - рейс, number - номер, to take off - отправляться, взлетать</comment>
+       </example>
+       <example>
+          <value>I want to take this bag with me.</value>
+          <translation>Эту сумку я хочу взять с собой.</translation>
+          <comment>to want - хотеть, to take - взять, this - этот, эта, это, bag - сумка</comment>
+       </example>
+       <example>
+          <value>How long does it take to get to Moscow?</value>
+          <translation>Сколько времени требуется, чтобы доехать до Москвы?</translation>
+          <comment>how - как, long - долго, to take - брать, to get - добираться, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How long will it take?</value>
+          <translation>Сколько времени это займет?</translation>
+          <comment>how - как, long - долго, to take - взять, брать, занимать</comment>
+       </example>
+       <example>
+          <value>Can you take my car on a tow?</value>
+          <translation>Можете вы взять мою машину на буксир?</translation>
+          <comment>can - мочь, to take - взять, car - машина, tow - буксир</comment>
+       </example>
+       <example>
+          <value>How long will the repair take?</value>
+          <translation>Сколько времени нужно на ремонт?</translation>
+          <comment>how - как, long - долго, repair - ремонт, to take - брать, взять</comment>
+       </example>
+       <example>
+          <value>How long will a telegram to London take?</value>
+          <translation>Сколько идет телеграмма до Лондона?</translation>
+          <comment>how - как, long - долго, telegram - телеграмма, London - Лондон, to take - взять, брать</comment>
+       </example>
+       <example>
+          <value>Would you take a message, please?</value>
+          <translation>Вы не передадите ему сообщение?</translation>
+          <comment>to take - брать, взять, message - сообщение</comment>
+       </example>
+       <example>
+          <value>Wait, please, I&apos;ll take a pen.</value>
+          <translation>Подождите, пожалуйста, я возьму ручку.</translation>
+          <comment>to wait - ждать, to take - брать, взять, pen - ручка</comment>
+       </example>
+       <example>
+          <value>Which bus should I take to the city center?</value>
+          <translation>На каком автобусе можно доехать до центра?</translation>
+          <comment>which - какой, который, bus - автобус, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which streetcar should I take to the city center?</value>
+          <translation>На каком трамвае можно доехать до центра?</translation>
+          <comment>which - какой, который, streetcar - трамвай, should - следует, to take - взять, брать, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>Which line should I take to the airport?</value>
+          <translation>На каком маршруте я доеду до аэропорта?</translation>
+          <comment>which - какой, который, line - линия, should - следует, to take - взять, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Which bus do I take for the hotel?</value>
+          <translation>На каком автобусе я доеду до гостиницы?</translation>
+          <comment>which - какой, который, bus - автобус, to take - брать, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Take me to this address.</value>
+          <translation>Отвезите меня по этому адресу.</translation>
+          <comment>to take - отвозить, me - мне, меня, this - этот, эта, это, address - адрес</comment>
+       </example>
+       <example>
+          <value>Please take me to the railroad station.</value>
+          <translation>Пожалуйста, отвезите меня на вокзал.</translation>
+          <comment>to take - отвозить, railroad - железная дорога, station - станция</comment>
+       </example>
+       <example>
+          <value>Please take me to the hotel.</value>
+          <translation>Пожалуйста, отвезите меня в гостиницу.</translation>
+          <comment>to take - отвозить, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>Please take me to the airport.</value>
+          <translation>Пожалуйста, отвезите меня в аэропорт.</translation>
+          <comment>to take - отвозить, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>Could you take my luggage, please?</value>
+          <translation>Возьмите, пожалуйста, мой багаж.</translation>
+          <comment>could - мог, могла, могли, to take - брать, взять, my - мой, моя, мое, luggage - багаж</comment>
+       </example>
+       <example>
+          <value>How long will it take to go to the stadium?</value>
+          <translation>Сколько ехать до стадиона?</translation>
+          <comment>how - как, long - долго, to take - брать, занимать, to go - ехать, stadium - стадион</comment>
+       </example>
+       <example>
+          <value>Take it three times a day after meals.</value>
+          <translation>Принимайте три раза в день после еды.</translation>
+          <comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</comment>
+       </example>
+       <example>
+          <value>Do you want to take it?</value>
+          <translation>Будете брать?</translation>
+          <comment>to want - хотеть, to take - взять, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take it.</value>
+          <translation>Я возьму это.</translation>
+          <comment>to take - брать, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take three oranges.</value>
+          <translation>Я возьму три апельсина.</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>Does it take much time to make it?</value>
+          <translation>Изготовление займет много времени?</translation>
+          <comment>it - это, to take - брать, занимать, much - много, time - время, to make - сделать</comment>
+       </example>
+       <example>
+          <value>How should I take this medicine?</value>
+          <translation>Как мне принимать это лекарство?</translation>
+          <comment>how - как, should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine before meals?</value>
+          <translation>Мне принимать это лекарство перед едой?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, before - до, перед, meal - еда, прием пищи</comment>
+       </example>
+       <example>
+          <value>Should I take this medicine after meals?</value>
+          <translation>Мне принимать это лекарство после еды?</translation>
+          <comment>should - следует, to take - принимать, this - этот, эта, это, medicine - лекарство, after - после, meal - еда, прием пищи</comment>
+       </example>
+       <example>
+          <value>I&apos;d take a ride around the city on a bicycle.</value>
+          <translation>Я бы покатался по городу на велосипеде.</translation>
+          <comment>to take - взять, брать, ride - поездка, around - вокруг, по, city - город, bicycle - велосипед</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to try it on</question>
+    <answer>примерить это</answer>
+    <comment>[tə trаɪ ɪt ɑːn]</comment>
+    <question_comment>to try on - примерить, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>345fd344-455d-414c-918e-39cbb97c927e</uuid>
+    <examples>
+       <example>
+          <value>Can I try it on?</value>
+          <translation>Можно это примерить?</translation>
+          <comment>can - мочь, to try on - примерить, it - это</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some shoes.</value>
+          <translation>Мне хотелось бы прмерить туфли.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some boots.</value>
+          <translation>Мне хотелось бы прмерить сапоги.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some low shoes.</value>
+          <translation>Мне хотелось бы прмерить полуботинки.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, low shoes - полуботинки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to try on some boots</question>
+    <answer>прмерить сапоги</answer>
+    <comment>[tə trаɪ ɑːn sʌm buːts]</comment>
+    <question_comment>to try on - примерить, some - некоторый, boots - сапоги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aa5d201e-d03d-4795-86f5-ebdbaec24171</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to try on some boots.</value>
+          <translation>Мне хотелось бы прмерить сапоги.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, boots - сапоги</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to try on some shoes</question>
+    <answer>примерить туфли</answer>
+    <comment>[tə trаɪ ɑːn sʌm ʃuːz]</comment>
+    <question_comment>to try on - примерить, some - некоторый, shoes - туфли</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>21e9e7e6-a3fb-4a28-af41-30971b9ccea4</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to try on some shoes.</value>
+          <translation>Мне хотелось бы прмерить туфли.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, shoes - туфли</comment>
+       </example>
+       <example>
+          <value>I&apos;d like to try on some low shoes.</value>
+          <translation>Мне хотелось бы прмерить полуботинки.</translation>
+          <comment>would like - хотеть, to try on - примерить, some - некоторый, low shoes - полуботинки</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to use this credit card for the payment</question>
+    <answer>использовать эту кредитную карту для оплаты</answer>
+    <comment>[tə juːz ðɪs ˈkredɪt kɑːrd fər ðə ˈpeɪmənt]</comment>
+    <question_comment>to use - использовать, this - этот, эта, credit - кредитный, card - карта, payment - платеж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>78ffcaa6-5514-4a61-a3d6-3fcc369bb001</uuid>
+    <examples>
+       <example>
+          <value>Can I use this credit card for the payment?</value>
+          <translation>Можно для оплаты использовать эту кредитную карту?</translation>
+          <comment>can - мочь, to use - использовать, this - этот, это, эта, credit - кредитный, card - карта, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to want something for a gift</question>
+    <answer>хотеть что-нибудь в качестве подарка</answer>
+    <comment>[tə wɑːnt ˈsʌmθɪŋ fər ə gɪft]</comment>
+    <question_comment>to want - хотеть, something - что-нибудь, gift - подарок</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>041a2891-beb9-4ba9-baba-140c07ca7608</uuid>
+    <examples>
+       <example>
+          <value>I want something for a gift but not expensive.</value>
+          <translation>Мне нужен подарок, но не дорогой.</translation>
+          <comment>to want - хотеть, something - что-нибудь, gift - подарок, but - но, expensive - дорогой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to wrap it up</question>
+    <answer>упаковать (завернуть) это</answer>
+    <comment>[tə ræp ɪt ʌp]</comment>
+    <question_comment>to wrap up - завернуть, it - это</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f9b05992-b2e4-48bc-8d6c-cdc581244980</uuid>
+    <examples>
+       <example>
+          <value>Wrap it up, please.</value>
+          <translation>Упакуйте это, пожалуйста.</translation>
+          <comment>to wrap up - завернуть, упаковать, it - это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to your choice</question>
+    <answer>на ваш выбор</answer>
+    <comment>[tə jər ʧɔɪs]</comment>
+    <question_comment>your - твой, ваш, choice - выбор</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>426d2463-2d71-4060-a13d-f90e7469b522</uuid>
+    <examples>
+       <example>
+          <value>Have you made your choice?</value>
+          <translation>Вы уже выбрали?</translation>
+          <comment>to make - сделать, choice - выбор</comment>
+       </example>
+       <example>
+          <value>I leave it to your choice.</value>
+          <translation>Я оставляю это на ваш выбор.</translation>
+          <comment>to leave - оставлять, it - это, your - твой, ваш, choice - выбор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too expensive</question>
+    <answer>слишком дорогое</answer>
+    <comment>[tuː ɪkˈspensɪv]</comment>
+    <question_comment>too - слишком, expensive - дорогой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ab006859-e354-4391-80bc-042f3794170e</uuid>
+    <examples>
+       <example>
+          <value>I need a not too expensive room.</value>
+          <translation>Мне нужен не слишком дорогой номер.</translation>
+          <comment>need - нуждаться, too - слишком, expensive - дорогой, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>I don&apos;t want anything too expensive.</value>
+          <translation>Я не хочу ничего слишком дорогого.</translation>
+          <comment>to want - хотеть, anything - что-нибудь, too - слишком, expensive - дорогой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too large</question>
+    <answer>слишком большой</answer>
+    <comment>[tuː lɑːrʤ]</comment>
+    <question_comment>too - слишком, large - большой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>99ea7f07-c5f2-4dcd-850b-30f0deabd4f0</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too large.</value>
+          <translation>Это мне велико.</translation>
+          <comment>too - слишком, large - большой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too long</question>
+    <answer>слишком длинный</answer>
+    <comment>[tuː lɔːŋ]</comment>
+    <question_comment>too - слишком, long - длинный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aade2460-afd2-4a1a-9c76-8a60f5c7fab6</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too long.</value>
+          <translation>Это мне длинно.</translation>
+          <comment>too - слишком, long - длинный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too short</question>
+    <answer>слишком короткий</answer>
+    <comment>[tuː ʃɔːrt]</comment>
+    <question_comment>too - слишком, short - короткий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e9550aa6-a7ff-4b8c-a5cd-5b84e8a2778c</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too short.</value>
+          <translation>Это мне коротко.</translation>
+          <comment>too - слишком, short - короткий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too small</question>
+    <answer>слишком маленький</answer>
+    <comment>[tuː smɔːl]</comment>
+    <question_comment>too - слишком, small - маленький</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c14a33d-07d2-4f3f-a29c-a897a08df5e1</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too small.</value>
+          <translation>Это мне мало.</translation>
+          <comment>too - слишком, small - маленький</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too tight</question>
+    <answer>слишком узкий</answer>
+    <comment>[tuː tаɪt]</comment>
+    <question_comment>too - слишком, tight - узкий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05d79fb3-a9cb-4d5e-ae49-c835481e61e8</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too tight.</value>
+          <translation>Это мне узко.</translation>
+          <comment>too - слишком, tight - узкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too wide</question>
+    <answer>слишком широкий</answer>
+    <comment>[tuː wаɪd]</comment>
+    <question_comment>too - слишком, wide - широкий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f81488e4-53ad-4da6-9921-a630f8a7c23b</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s too wide.</value>
+          <translation>Это мне широко.</translation>
+          <comment>too - слишком, wide - широкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>what else</question>
+    <answer>что еще</answer>
+    <comment>[hwʌt els]</comment>
+    <question_comment>what - что, else - еще</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>89806aff-7d1b-4a39-808e-7c26ee3bbbf5</uuid>
+    <examples>
+       <example>
+          <value>And what else can you offer me?</value>
+          <translation>Что еще вы можете предложить мне?</translation>
+          <comment>what - что, else - еще, can - мочь, you - ты, вы, to offer - предложить, me - мне, меня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>white T-shirts</question>
+    <answer>белые футболки</answer>
+    <comment>[hwаɪt ˈtiː ˌʃɜːrts]</comment>
+    <question_comment>white - белый, T-shirt - футболка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>87ae851b-7c9c-4820-9d1b-ea13533428dd</uuid>
+    <examples>
+       <example>
+          <value>Do you have white T-shirts?</value>
+          <translation>У вас есть белые футболки?</translation>
+          <comment>to have - иметь, white - белый, T-shirt - футболка</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

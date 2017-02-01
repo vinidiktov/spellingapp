@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e88c8274-ae39-4269-90fa-2d74044ee869</uuid>
+  <title>Съем жилья</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>der Hausmeister</question>
+    <answer>старший (по дому)</answer>
+    <comment></comment>
+    <uuid>d032e541-f74d-4c85-a397-089abda9c1e9</uuid>
+  </card>
+  <card>
+    <question>der Hausverwalter</question>
+    <answer>управдом</answer>
+    <comment></comment>
+    <uuid>0d80b936-4870-41a0-89bf-0938f1b1239a</uuid>
+  </card>
+  <card>
+    <question>der Komfort</question>
+    <answer>удобство</answer>
+    <comment></comment>
+    <uuid>80ce1560-e271-4e5d-9538-9be7dc2a270d</uuid>
+  </card>
+  <card>
+    <question>der Makler</question>
+    <answer>маклер</answer>
+    <comment></comment>
+    <uuid>7ac7cfa1-40a1-44f7-a7ae-5502b49a8079</uuid>
+  </card>
+  <card>
+    <question>der Mietvertrag</question>
+    <answer>квартирный контракт</answer>
+    <comment></comment>
+    <uuid>6b476679-9735-46be-8dc7-a62f78fc3945</uuid>
+  </card>
+  <card>
+    <question>der Vermieter</question>
+    <answer>хозяин квартиры</answer>
+    <comment></comment>
+    <uuid>8aece07b-76e8-4c4f-80aa-405f7d00a816</uuid>
+  </card>
+  <card>
+    <question>die Annonce</question>
+    <answer>объявление</answer>
+    <comment></comment>
+    <uuid>808bc01c-e894-496e-ba2d-09bbb779d8e3</uuid>
+  </card>
+  <card>
+    <question>die Kündigung</question>
+    <answer>заявление о расторжении договора</answer>
+    <comment></comment>
+    <uuid>859addaf-cd0b-4b01-bf83-5afadfe2a808</uuid>
+  </card>
+  <card>
+    <question>die Miete</question>
+    <answer>квартплата</answer>
+    <comment></comment>
+    <uuid>67ac80a2-82db-4d04-9351-eb3d76814e69</uuid>
+  </card>
+  <card>
+    <question>die Mieterhöhung</question>
+    <answer>повышение квартплаты</answer>
+    <comment></comment>
+    <uuid>f1b576ee-0d8b-4bf0-a08e-5bb565e39c3c</uuid>
+  </card>
+  <card>
+    <question>die Mietkaution</question>
+    <answer>залог, денежный взнос при найме</answer>
+    <comment></comment>
+    <uuid>219b0acd-5bab-4012-9160-7af8bf71a16b</uuid>
+  </card>
+  <card>
+    <question>Die monatliche Miete beträgt 500 Mark.</question>
+    <answer>Месячная квартплата составляет 500 марок.</answer>
+    <comment></comment>
+    <uuid>bb831944-6703-4cb8-93c2-b18d8ed99e20</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten</question>
+    <answer>коммунальные услуги</answer>
+    <comment></comment>
+    <uuid>433e47e7-a57b-4206-9177-b2b78c85bfb4</uuid>
+  </card>
+  <card>
+    <question>Die Nebenkosten betragen 100 Euro.</question>
+    <answer>Коммунальные услуги составляют 150 евро.</answer>
+    <comment></comment>
+    <uuid>049d22d0-e8ed-450d-ad18-b075878df2c9</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Abwasser</question>
+    <answer>коммунальные услуги на сточные воды</answer>
+    <comment></comment>
+    <uuid>e989eb8e-84d0-44ab-a269-4b581317b88e</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Heizung</question>
+    <answer>коммунальные услуги на отопление</answer>
+    <comment></comment>
+    <uuid>3e5086c0-a3ff-43ab-9329-4fec54ac18a7</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Müllabfuhr</question>
+    <answer>коммунальные услуги на вывоз мусора</answer>
+    <comment></comment>
+    <uuid>ebca2de9-d83b-4b9d-8b6e-64d710ec254b</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Straßenreinigung</question>
+    <answer>коммунальные услуги на уборку улицы</answer>
+    <comment></comment>
+    <uuid>e26884ff-cf07-43bb-803b-1d8048d11fc1</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Treppenreinigung</question>
+    <answer>коммунальные услуги на уборку лестниц</answer>
+    <comment></comment>
+    <uuid>fd494df6-dd02-4153-9914-4f1cadb37be9</uuid>
+  </card>
+  <card>
+    <question>die Nebenkosten für Wasser</question>
+    <answer>коммунальные услуги на воду</answer>
+    <comment></comment>
+    <uuid>594914a4-433c-459d-a2fb-1dc86ed257f5</uuid>
+  </card>
+  <card>
+    <question>die Provision</question>
+    <answer>комиссионное вознаграждение</answer>
+    <comment></comment>
+    <uuid>c413ff9c-0558-421a-a772-0c5e0caac314</uuid>
+  </card>
+  <card>
+    <question>die Zeitungsannonce</question>
+    <answer>объявление в газете</answer>
+    <comment></comment>
+    <uuid>d042cd05-e9c2-4e9f-8e9d-470a0db76bd3</uuid>
+  </card>
+  <card>
+    <question>Hiermit kündige ich Ihnen die Wohnung zum 1. Mai.</question>
+    <answer>Настоящим расторгаю договор о найме квартиры к 1 мая.</answer>
+    <comment></comment>
+    <uuid>e1fa9cd5-dc9a-4b0b-94a8-c3efc38ce531</uuid>
+  </card>
+  <card>
+    <question>Ich möchte eine Wohnung mieten.</question>
+    <answer>Я хотел бы снять квартиру.</answer>
+    <comment></comment>
+    <uuid>45ccb09a-8624-432d-acaa-50bb54c707d7</uuid>
+  </card>
+  <card>
+    <question>Ich suche eine 2-Zimmer-Wohnung.</question>
+    <answer>Я ищу 2-х комнатную квартиру.</answer>
+    <comment></comment>
+    <uuid>08d5429d-21dd-40ce-b4c3-85a711329ffa</uuid>
+  </card>
+  <card>
+    <question>Ich suche eine Wohnung.</question>
+    <answer>Я ищу квартиру.</answer>
+    <comment></comment>
+    <uuid>79368135-b9ca-4ffb-a223-3483518a9175</uuid>
+  </card>
+  <card>
+    <question>mit allem Komfort</question>
+    <answer>со всеми удобствами</answer>
+    <comment></comment>
+    <uuid>37efd51b-f211-447e-ae17-8157f4a3e22a</uuid>
+  </card>
+  <card>
+    <question>mit Gas kochen</question>
+    <answer>газ</answer>
+    <comment></comment>
+    <uuid>d35a8b1e-9051-4335-98fc-0b950b065764</uuid>
+  </card>
+  <card>
+    <question>sauberhalten</question>
+    <answer>содержать в чистоте</answer>
+    <comment></comment>
+    <uuid>230a153b-8273-4b68-912d-caea1167a25a</uuid>
+  </card>
+  <card>
+    <question>zur rechten Zeit zahlen</question>
+    <answer>платить вовремя</answer>
+    <comment></comment>
+    <uuid>a3466a08-c106-4191-8b46-35e3fe37f130</uuid>
+  </card>
+</cards>
+</stack>

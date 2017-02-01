@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d3bd31e8-3e94-4209-8ecc-52b6e2b9fbbd</uuid>
+  <title>Местоимения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>il</question>
+    <answer>он</answer>
+    <comment></comment>
+    <answer_picture>he.gif</answer_picture>
+    <uuid>b38c60c5-356e-4dc9-ad06-c74bb3bc3158</uuid>
+  </card>
+  <card>
+    <question>je</question>
+    <answer>я</answer>
+    <comment></comment>
+    <answer_picture>i.gif</answer_picture>
+    <uuid>d03ba56b-adea-4412-8690-4b1303c9ac54</uuid>
+  </card>
+  <card>
+    <question>il/elle</question>
+    <answer>оно</answer>
+    <comment></comment>
+    <answer_picture>it.gif</answer_picture>
+    <uuid>50b73c3c-0210-4385-83d3-6a9225216fb6</uuid>
+  </card>
+  <card>
+    <question>elle</question>
+    <answer>она</answer>
+    <comment></comment>
+    <answer_picture>she.gif</answer_picture>
+    <uuid>af85a5a5-ccf0-4edb-a782-0a53e920e21c</uuid>
+  </card>
+  <card>
+    <question>ils/elles</question>
+    <answer>они</answer>
+    <comment></comment>
+    <answer_picture>they.gif</answer_picture>
+    <uuid>c517dd52-41dc-46f8-b396-e1e75dd274bf</uuid>
+  </card>
+  <card>
+    <question>nous</question>
+    <answer>мы</answer>
+    <comment></comment>
+    <answer_picture>we.gif</answer_picture>
+    <uuid>5e94e7a7-ebbc-48ef-a0f0-79e5378204d9</uuid>
+  </card>
+  <card>
+    <question>vous</question>
+    <answer>ты, вы</answer>
+    <comment></comment>
+    <answer_picture>you.gif</answer_picture>
+    <uuid>0c0de46b-19b0-4417-aa3c-1a69f8329acb</uuid>
+  </card>
+</cards>
+</stack>

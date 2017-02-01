@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b16ff49f-5ea9-439f-b95d-e14cf70533cb</uuid>
+  <title>Местоположение</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>au-dessus de</question>
+    <answer>над</answer>
+    <comment></comment>
+    <answer_picture>above.gif</answer_picture>
+    <uuid>64d99a45-b23c-4b08-94f7-e99291e5cee2</uuid>
+  </card>
+  <card>
+    <question>à travers</question>
+    <answer>поперёк</answer>
+    <comment></comment>
+    <answer_picture>across.gif</answer_picture>
+    <uuid>1dea1440-124f-45d8-bc3d-1d2f38226c15</uuid>
+  </card>
+  <card>
+    <question>derrière</question>
+    <answer>позади</answer>
+    <comment></comment>
+    <answer_picture>behind.gif</answer_picture>
+    <uuid>204fd1f8-9db8-4b7c-890a-bf3d52da2b6f</uuid>
+  </card>
+  <card>
+    <question>à côté de</question>
+    <answer>рядом с</answer>
+    <comment></comment>
+    <answer_picture>beside.gif</answer_picture>
+    <uuid>7388c7a2-4fea-4acc-af48-40039c8f258f</uuid>
+  </card>
+  <card>
+    <question>entre</question>
+    <answer>между</answer>
+    <comment></comment>
+    <answer_picture>between.gif</answer_picture>
+    <uuid>2cac8891-7351-4fa6-8085-40026c9d5c60</uuid>
+  </card>
+  <card>
+    <question>le fond</question>
+    <answer>дно, низ</answer>
+    <comment></comment>
+    <answer_picture>bottom.gif</answer_picture>
+    <uuid>20291863-d896-4e0f-9236-4adce25936d5</uuid>
+  </card>
+  <card>
+    <question>le bord</question>
+    <answer>край</answer>
+    <comment></comment>
+    <answer_picture>edge.gif</answer_picture>
+    <uuid>e8b9f009-c607-4df2-a8db-6ff372b7dd7a</uuid>
+  </card>
+  <card>
+    <question>loin</question>
+    <answer>далеко</answer>
+    <comment></comment>
+    <answer_picture>far.gif</answer_picture>
+    <uuid>5d815bc3-5ca6-410b-8cac-a68ae6ca7f30</uuid>
+  </card>
+  <card>
+    <question>dans</question>
+    <answer>в, внутри</answer>
+    <comment></comment>
+    <answer_picture>in.gif</answer_picture>
+    <uuid>a89c25ad-99d4-40e0-852c-67d4feae4e01</uuid>
+  </card>
+  <card>
+    <question>devant</question>
+    <answer>перед</answer>
+    <comment></comment>
+    <answer_picture>in_front_of.gif</answer_picture>
+    <uuid>f9e61ab6-31be-43c1-875f-d0a3963e1353</uuid>
+  </card>
+  <card>
+    <question>la carte</question>
+    <answer>карта (географическая)</answer>
+    <comment></comment>
+    <answer_picture>map.gif</answer_picture>
+    <uuid>bd75c7dc-1a50-4c63-9111-e12de6ce2885</uuid>
+  </card>
+  <card>
+    <question>le milieu</question>
+    <answer>середина, центр</answer>
+    <comment></comment>
+    <answer_picture>middle.gif</answer_picture>
+    <uuid>55b9ec8e-b088-4766-984a-04aa1cb24094</uuid>
+  </card>
+  <card>
+    <question>près de</question>
+    <answer>близко</answer>
+    <comment></comment>
+    <answer_picture>near.gif</answer_picture>
+    <uuid>362ce6ae-008e-48e7-994c-84880b77cb62</uuid>
+  </card>
+  <card>
+    <question>sur</question>
+    <answer>на</answer>
+    <comment></comment>
+    <answer_picture>on.gif</answer_picture>
+    <uuid>da98d379-212b-4106-839d-2217ce851c3a</uuid>
+  </card>
+  <card>
+    <question>le lieu</question>
+    <answer>место</answer>
+    <comment></comment>
+    <answer_picture>place.gif</answer_picture>
+    <uuid>8c7f03f0-a320-407e-bfe5-f7ef279524ba</uuid>
+  </card>
+  <card>
+    <question>le côté</question>
+    <answer>сторона, бок</answer>
+    <comment></comment>
+    <answer_picture>side.gif</answer_picture>
+    <uuid>015503f2-ed9c-4c2d-beae-71a07d276c17</uuid>
+  </card>
+  <card>
+    <question>le haut</question>
+    <answer>верх</answer>
+    <comment></comment>
+    <answer_picture>top.gif</answer_picture>
+    <uuid>7e02cdcc-5a5d-437a-b56b-b74d2790532f</uuid>
+  </card>
+  <card>
+    <question>sous</question>
+    <answer>под</answer>
+    <comment></comment>
+    <answer_picture>under.gif</answer_picture>
+    <uuid>120ee22e-f1fd-407a-97ba-1e1eabb2a3bb</uuid>
+  </card>
+</cards>
+</stack>

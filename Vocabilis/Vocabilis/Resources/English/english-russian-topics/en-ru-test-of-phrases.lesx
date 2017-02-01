@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d53c2ddb-74e8-4a57-88b0-14636db82ce2</uuid>
+  <title>Фразы :: Тест отображения различных полей</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2011</year>
+     <month>11</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="-6">
+    <question>How are you?</question>
+    <answer>Как дела?</answer>
+    <comment>[hаʊ ə jʊ]</comment>
+    <answer_picture>how_are_you.gif</answer_picture>
+    <answer_comment>how - как, are - есть, you - ты, вы</answer_comment>
+    <uuid>0e70368f-6fb8-4210-8c25-9870aab5dfd6</uuid>
+  </card>
+  <card stage="0" rating="6">
+    <question>There&apos;s a parking lot over there.</question>
+    <answer>Вон там есть стоянка.</answer>
+    <comment>[ðeəz ə ˈpɑːkɪŋ lɒt ˈəʊvə ðeə]</comment>
+    <answer_picture>theres_a_parking_lot_over_there.gif</answer_picture>
+    <answer_comment>There&apos;s - есть, parking - парковочное, lot - место, over there - вон там</answer_comment>
+    <uuid>3eb3a447-badd-48b8-8685-363491a0bcc6</uuid>
+  </card>
+  <card stage="0" rating="-6">
+    <question>I want to go to France.</question>
+    <answer>Я хочу поехать во Францию.</answer>
+    <comment>[аɪ wɒnt tə gəʊ tə frɑːns]</comment>
+    <answer_picture>i_want_to_go_to_france.gif</answer_picture>
+    <answer_comment>I - я, want - хочу, go - ехать, to - в, France - Франция</answer_comment>
+    <uuid>0fa85c81-53e9-4594-af86-ab9c72106acc</uuid>
+  </card>
+  <card stage="0" rating="6">
+    <question>What&apos;s your phone number?</question>
+    <answer>Какой твой номер телефона?</answer>
+    <comment>[wɒts jə fəʊn ˈnʌmbə]</comment>
+    <answer_picture>whats_your_phone_number.gif</answer_picture>
+    <answer_comment>What - какой, your - твой, ваш, phone - телефон, телефонный, number - номер</answer_comment>
+    <uuid>4fe50ab6-336d-4cb9-85b4-0cfbaa9c7944</uuid>
+  </card>
+  <card stage="0" rating="-6">
+    <question>Where is the nearest supermarket?</question>
+    <answer>Где ближайший супермаркет?</answer>
+    <comment>[weər ɪz ðə ˈnɪərɪst ˈsjuːpəˌmɑːkɪt]</comment>
+    <answer_picture>where_is_the_nearest_supermarket.gif</answer_picture>
+    <answer_comment>where - где, nearest - ближайший, supermarket - супермаркет</answer_comment>
+    <uuid>66f8fa73-530c-48ed-85ae-2511cdc371a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the taxi stand?</question>
+    <answer>Где стоянка такси?</answer>
+    <comment>[weər ɪz ðə ˈtæksɪ stænd]</comment>
+    <answer_picture>where_is_the_taxi_stand.gif</answer_picture>
+    <answer_comment>Where - где, taxi - такси, stand - стоянка</answer_comment>
+    <uuid>39dab113-1833-45e6-ba7b-8516d24016ee</uuid>
+  </card>
+</cards>
+</stack>

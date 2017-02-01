@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c0ed0cb1-7e7d-4c6f-8946-4a19530aef4d</uuid>
+  <title>Напитки</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Bier</question>
+    <answer>пиво</answer>
+    <comment></comment>
+    <uuid>2d52ecca-5072-457c-8918-0c891e5424ba</uuid>
+  </card>
+  <card>
+    <question>das Mineralwasser</question>
+    <answer>минеральная вода</answer>
+    <comment></comment>
+    <uuid>8d526231-85b5-4d1a-893d-eb2ab852808a</uuid>
+  </card>
+  <card>
+    <question>das Pils</question>
+    <answer>пильзенское пиво</answer>
+    <comment></comment>
+    <uuid>2127cccc-04a4-49a4-b975-f03e35561862</uuid>
+  </card>
+  <card>
+    <question>der Apfelsaft</question>
+    <answer>яблочный сок</answer>
+    <comment></comment>
+    <uuid>a0c5feb1-2d27-4527-a84f-4c0225a500e9</uuid>
+  </card>
+  <card>
+    <question>der Bohnenkaffee</question>
+    <answer>натуральный кофе (в зернах)</answer>
+    <comment></comment>
+    <uuid>46a1beed-ee54-45a2-a2e8-0ec96e7d33b7</uuid>
+  </card>
+  <card>
+    <question>der Fruchtsaft</question>
+    <answer>фруктовый сок</answer>
+    <comment></comment>
+    <uuid>a534078a-8655-44d4-9fe0-54289a86977f</uuid>
+  </card>
+  <card>
+    <question>der Kaffee</question>
+    <answer>кофе</answer>
+    <comment></comment>
+    <uuid>0d025804-c977-4640-9766-e59784711285</uuid>
+  </card>
+  <card>
+    <question>der koffeinfreie Kaffee</question>
+    <answer>кофе без кофеина</answer>
+    <comment></comment>
+    <uuid>eb78ed63-12ae-4c79-a295-5863238335ff</uuid>
+  </card>
+  <card>
+    <question>der Korn, der Wodka</question>
+    <answer>водка</answer>
+    <comment></comment>
+    <uuid>0a83fd2e-6949-4c7c-8e56-c3e7bf7a8cbd</uuid>
+  </card>
+  <card>
+    <question>der Likör</question>
+    <answer>ликёр</answer>
+    <comment></comment>
+    <uuid>01534d41-4b63-44cf-9ccd-ff4772d5e229</uuid>
+  </card>
+  <card>
+    <question>der Rom</question>
+    <answer>ром</answer>
+    <comment></comment>
+    <uuid>6bc5cdb0-4ead-4db0-90b9-d727a07e31a0</uuid>
+  </card>
+  <card>
+    <question>der Rotwein</question>
+    <answer>вино красное</answer>
+    <comment></comment>
+    <uuid>f8f2c01a-a49e-46ff-a1f9-049c394e826c</uuid>
+  </card>
+  <card>
+    <question>der Saft</question>
+    <answer>сок</answer>
+    <comment></comment>
+    <uuid>82543e02-9d74-44b4-ad79-f7b55ffcba2b</uuid>
+  </card>
+  <card>
+    <question>der Sekt</question>
+    <answer>шампанское</answer>
+    <comment></comment>
+    <uuid>f958c08d-cad5-4736-8092-22d650aae17e</uuid>
+  </card>
+  <card>
+    <question>der Tee</question>
+    <answer>чай</answer>
+    <comment></comment>
+    <uuid>bd705d34-08fb-412b-8c22-82a8fea32370</uuid>
+  </card>
+  <card>
+    <question>der Wein</question>
+    <answer>вино</answer>
+    <comment></comment>
+    <uuid>311edb7c-4c59-4660-ae86-71250ab43601</uuid>
+  </card>
+  <card>
+    <question>der Weinbrand</question>
+    <answer>коньяк</answer>
+    <comment></comment>
+    <uuid>f00b1800-8acf-45fe-ae4b-28f5cbfecf21</uuid>
+  </card>
+  <card>
+    <question>der Weißwein</question>
+    <answer>вино белое</answer>
+    <comment></comment>
+    <uuid>8a9766cd-f28b-4a99-b3d2-dcc9569984b4</uuid>
+  </card>
+  <card>
+    <question>die Coca Cola</question>
+    <answer>кока-кола</answer>
+    <comment></comment>
+    <uuid>85c66eba-5437-46a1-93d5-8486e98ae909</uuid>
+  </card>
+  <card>
+    <question>die H-Milch</question>
+    <answer>пастеризованное молоко</answer>
+    <comment></comment>
+    <uuid>e5431468-9e6d-40ae-9ac2-f0481e0cba17</uuid>
+  </card>
+  <card>
+    <question>die Kaffeesahne</question>
+    <answer>сливки для кофе</answer>
+    <comment></comment>
+    <uuid>0f45e803-523b-4ab7-9a0e-ed409fb56481</uuid>
+  </card>
+  <card>
+    <question>die Limonade</question>
+    <answer>лимонад</answer>
+    <comment></comment>
+    <uuid>520261fd-09e8-42f9-a7b8-aa7563ca08f0</uuid>
+  </card>
+  <card>
+    <question>die Milch</question>
+    <answer>молоко</answer>
+    <comment></comment>
+    <uuid>299d6beb-69de-4a87-855c-c6d34dc1c36f</uuid>
+  </card>
+  <card>
+    <question>die Sahne</question>
+    <answer>сливки</answer>
+    <comment></comment>
+    <uuid>8f189ac9-315c-4657-a0a9-f964dc50d5ca</uuid>
+  </card>
+  <card>
+    <question>die Spirituosen</question>
+    <answer>спиртные напитки</answer>
+    <comment></comment>
+    <uuid>0c855e03-3e7b-4f9d-a0e1-ca7eeee274c9</uuid>
+  </card>
+  <card>
+    <question>ein Glas Apfelsaft</question>
+    <answer>стакан яблочного сока</answer>
+    <comment></comment>
+    <uuid>2415515c-5a54-46f8-8d73-44098c5ddea4</uuid>
+  </card>
+  <card>
+    <question>ein Glas Bier</question>
+    <answer>стакан пива</answer>
+    <comment></comment>
+    <uuid>0f5938b4-1f2b-4751-848a-48710f7c1f20</uuid>
+  </card>
+  <card>
+    <question>Ein Pils, bitte.</question>
+    <answer>Пильзенское, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>98f6eb80-72be-446a-9c3f-efdff63fd26a</uuid>
+  </card>
+  <card>
+    <question>extra trocken</question>
+    <answer>особо сухое</answer>
+    <comment></comment>
+    <uuid>9389b76c-5226-4f03-a3fa-9e78154c26de</uuid>
+  </card>
+  <card>
+    <question>trocken</question>
+    <answer>сухое</answer>
+    <comment></comment>
+    <uuid>44757711-c335-4025-848f-585690c9171c</uuid>
+  </card>
+  <card>
+    <question>Was möchten Sie trinken?</question>
+    <answer>Что Вы желаете выпить?</answer>
+    <comment></comment>
+    <uuid>51a4fa93-7de9-40f1-88cb-2f74bb002206</uuid>
+  </card>
+</cards>
+</stack>

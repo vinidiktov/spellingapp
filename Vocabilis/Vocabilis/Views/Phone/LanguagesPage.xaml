@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			xmlns:local="clr-namespace:Vocabilis;assembly=Vocabilis"
+			x:Class="Vocabilis.LanguagesPage"
+			Title="Vocabilis"
+			>
+	<TabbedPage.Children>
+		<ContentPage Title="Библиотека" Icon="geography-25.png">
+			<ContentPage.Content>
+			<StackLayout VerticalOptions="FillAndExpand">
+
+		        <ListView x:Name="languagesListView" 
+		        	ItemsSource="{Binding LanguagesInfoList}"
+		        	SelectedItem="{Binding SelectedItem, Mode=TwoWay}" 
+		        >
+			     <ListView.ItemTemplate> 
+				      <DataTemplate>
+				        <TextCell Text="{Binding Title}"
+				        />
+				      </DataTemplate>
+				    </ListView.ItemTemplate>   
+		        </ListView>
+		        </StackLayout>
+			</ContentPage.Content>
+		</ContentPage>
+
+<!--		<local:SettingsPage Icon="settings-25.png" />-->
+<!--		<ContentPage Title="Информация" Icon="info-25.png">
+		<StackLayout VerticalOptions="FillAndExpand">
+	        		<WebView x:Name="HTML" VerticalOptions="FillAndExpand"
+	        				HeightRequest="300"
+	        		>
+	        			<WebView.Source>
+			            	<HtmlWebViewSource Html="{Binding InfoHTML}"/>
+			        	</WebView.Source>
+	        		</WebView>
+        	</StackLayout>
+		</ContentPage>-->
+	</TabbedPage.Children>
+</TabbedPage>

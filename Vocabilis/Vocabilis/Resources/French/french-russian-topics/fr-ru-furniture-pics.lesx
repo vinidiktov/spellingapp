@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ce6c57dd-cbca-4155-b5f0-0d29ce010a2f</uuid>
+  <title>Мебель</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>le fauteuil</question>
+    <answer>кресло</answer>
+    <comment></comment>
+    <answer_picture>armchair.gif</answer_picture>
+    <uuid>0a0fcedd-2535-48be-acef-ebc8859674a9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la baignoire</question>
+    <answer>ванна</answer>
+    <comment></comment>
+    <answer_picture>bathtub.gif</answer_picture>
+    <uuid>b39fbabb-290f-4010-ae90-9263c9e7ee7f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le lit</question>
+    <answer>кровать</answer>
+    <comment></comment>
+    <answer_picture>bed.gif</answer_picture>
+    <uuid>105a8e2f-ee20-4f6f-a8ba-66cb3b329d5f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le tapis</question>
+    <answer>ковёр</answer>
+    <comment></comment>
+    <answer_picture>carpet.gif</answer_picture>
+    <uuid>628b5fb2-70d6-4162-88c8-762a5a641b65</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la chaise</question>
+    <answer>стул</answer>
+    <comment></comment>
+    <answer_picture>chair.gif</answer_picture>
+    <uuid>f65888f7-1070-4617-b071-7cad8661a217</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la commode</question>
+    <answer>комод</answer>
+    <comment></comment>
+    <answer_picture>chest_of_drawers.gif</answer_picture>
+    <uuid>21bec8a2-1793-42c5-b251-2944353c5322</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;horloge</question>
+    <answer>часы (настенные, настольные)</answer>
+    <comment></comment>
+    <answer_picture>clock.gif</answer_picture>
+    <uuid>b1715513-1680-4b9e-8107-8c9453427b10</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le bureau</question>
+    <answer>письменный стол</answer>
+    <comment></comment>
+    <answer_picture>desk.gif</answer_picture>
+    <uuid>7300128e-414d-444f-8242-b63a34ce4a43</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la porte</question>
+    <answer>дверь</answer>
+    <comment></comment>
+    <answer_picture>door.gif</answer_picture>
+    <uuid>e8bad25c-d546-45d5-a81d-aa84d2abe784</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la lampe</question>
+    <answer>лампа</answer>
+    <comment></comment>
+    <answer_picture>lamp.gif</answer_picture>
+    <uuid>4e56895b-81b8-40d3-bc35-8f5cc651a58e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>être allongé</question>
+    <answer>лежать</answer>
+    <comment></comment>
+    <answer_picture>lie.gif</answer_picture>
+    <uuid>481ac0cb-a24e-4e3a-a033-9276f05f0889</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la lumière</question>
+    <answer>свет</answer>
+    <comment></comment>
+    <answer_picture>light.gif</answer_picture>
+    <uuid>126a2341-9c2a-4d69-ad62-e87cc22e82c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le miroir</question>
+    <answer>зеркало</answer>
+    <comment></comment>
+    <answer_picture>mirror.gif</answer_picture>
+    <uuid>eeaff60e-353c-45ec-9559-3d8f853d968b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le tableau</question>
+    <answer>картина</answer>
+    <comment></comment>
+    <answer_picture>picture.gif</answer_picture>
+    <uuid>d1d3afcb-ad80-4682-bac1-02c149e055b6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la radio</question>
+    <answer>радио, радиоприёмник</answer>
+    <comment></comment>
+    <answer_picture>radio.gif</answer_picture>
+    <uuid>90a5cc88-c8ce-4972-a8a2-0aa93b6b6bcf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la télécommande</question>
+    <answer>пульт дистанционного управления</answer>
+    <comment></comment>
+    <answer_picture>remote.gif</answer_picture>
+    <uuid>7cca9bb5-9f43-464a-9f3a-5ef1e9c1aeca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la machine à coudre</question>
+    <answer>швейная машина</answer>
+    <comment></comment>
+    <answer_picture>sewing_machine.gif</answer_picture>
+    <uuid>75cc93fb-6651-433b-acae-4254d8c3a394</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la douche</question>
+    <answer>душ</answer>
+    <comment></comment>
+    <answer_picture>shower.gif</answer_picture>
+    <uuid>5df70385-1d2b-435e-8de6-f82ecc9a7471</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;évier</question>
+    <answer>раковина</answer>
+    <comment></comment>
+    <answer_picture>sink.gif</answer_picture>
+    <uuid>ae45941c-328c-43ca-8081-796f1b876591</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>être assis</question>
+    <answer>сидеть</answer>
+    <comment></comment>
+    <answer_picture>sit.gif</answer_picture>
+    <uuid>48ff44b3-8d70-4484-89ae-f58edf85a578</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le canapé</question>
+    <answer>диван</answer>
+    <comment></comment>
+    <answer_picture>sofa.gif</answer_picture>
+    <uuid>b3a3c759-c9ea-48ad-991a-1ba3f166301c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les haut-parleurs</question>
+    <answer>громкоговорители, колонки</answer>
+    <comment></comment>
+    <answer_picture>speakers.gif</answer_picture>
+    <uuid>2fae1201-3da5-41bd-8464-8499afee169b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la chaîne stéréo</question>
+    <answer>стереосистема</answer>
+    <comment></comment>
+    <answer_picture>stereo.gif</answer_picture>
+    <uuid>1fad2f57-1a1f-439a-916c-b31a29145df6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la table</question>
+    <answer>стол</answer>
+    <comment></comment>
+    <answer_picture>table.gif</answer_picture>
+    <uuid>324b1f49-ca48-4fb4-af1b-64ee0d8d4831</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la télévision</question>
+    <answer>телевизор</answer>
+    <comment></comment>
+    <answer_picture>television.gif</answer_picture>
+    <uuid>2ad59b2f-968e-4e3e-84c8-6a5700307c9e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le vase</question>
+    <answer>ваза</answer>
+    <comment></comment>
+    <answer_picture>vase.gif</answer_picture>
+    <uuid>e4fcec91-fb26-4445-80f5-8b51bf0df164</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le magnétoscope</question>
+    <answer>видеомагнитофон</answer>
+    <comment></comment>
+    <answer_picture>vcr.gif</answer_picture>
+    <uuid>a6f8d2fc-7a68-4506-925c-46369e650e1f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la penderie</question>
+    <answer>гардероб, шкаф</answer>
+    <comment></comment>
+    <answer_picture>wardrobe.gif</answer_picture>
+    <uuid>2bd471a0-f961-4cc0-afa2-f0687a42f504</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>laver</question>
+    <answer>мыть, мыться</answer>
+    <comment></comment>
+    <answer_picture>wash.gif</answer_picture>
+    <uuid>c650a8b1-b78c-4ce1-a3b1-dd7331e5660a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la fenêtre</question>
+    <answer>окно</answer>
+    <comment></comment>
+    <answer_picture>window.gif</answer_picture>
+    <uuid>24c1e4c7-94f1-4d49-a9d1-1ad54ebbe9d9</uuid>
+  </card>
+</cards>
+</stack>

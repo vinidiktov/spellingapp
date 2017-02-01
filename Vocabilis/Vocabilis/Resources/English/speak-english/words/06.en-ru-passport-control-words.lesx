@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>ae3a37de-500d-46e3-af04-fd63553c6baa</uuid>
+  <title>Паспортный контроль :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>control</question>
+    <answer>контроль</answer>
+    <comment>[kənˈtroʊl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ce9375e-ba10-4ec7-acbe-d8866767538f</uuid>
+    <examples>
+       <example>
+          <value>passport control</value>
+          <translation>паспортный контроль</translation>
+          <comment>passport - паспорт, control - контроль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>twelve</question>
+    <answer>двенадцать</answer>
+    <comment>[twelv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9101b10-329a-4461-b7d5-4dc4580610e5</uuid>
+    <examples>
+       <example>
+          <value>for twelve days</value>
+          <translation>на 12 дней</translation>
+          <comment>twelve - двенадцать, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>just</question>
+    <answer>только, просто</answer>
+    <comment>[ʤʌst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>62721888-de92-43bd-9072-690de614fbbc</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m just passing.</value>
+          <translation>Я (здесь) только проездом.</translation>
+          <comment>just - только, to pass - проезжать</comment>
+       </example>
+       <example>
+          <value>to be just looking</value>
+          <translation>просто смотреть</translation>
+          <comment>to look - смотреть, just - просто</comment>
+       </example>
+       <example>
+          <value>to be just right</value>
+          <translation>быть впору</translation>
+          <comment>just - как раз, right - подходящий, правильный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>show</question>
+    <answer>показывать</answer>
+    <comment>[ʃoʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>216f466b-e8cf-41eb-8894-db32ca5abf8d</uuid>
+    <examples>
+       <example>
+          <value>to show your passport</value>
+          <translation>показать ваш паспорт</translation>
+          <comment>to show - показывать, your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>to show your ticket</value>
+          <translation>показать твой билет</translation>
+          <comment>to show - показывать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to show your tongue</value>
+          <translation>показать язык</translation>
+          <comment>to show - показать, your - твой, ваш, tongue - язык</comment>
+       </example>
+       <example>
+          <value>The show is over.</value>
+          <translation>Спектакль закончился.</translation>
+          <comment>show - спектакль, представление, to be over - закончиться</comment>
+       </example>
+       <example>
+          <value>to show our places</value>
+          <translation>показать наши места</translation>
+          <comment>to show - показать, our - наш, наши, place - место</comment>
+       </example>
+       <example>
+          <value>a continuous show</value>
+          <translation>непрерывный показ (фильмов)</translation>
+          <comment>cinema - кинотеатр, continuous - непрерывный, show - показ</comment>
+       </example>
+       <example>
+          <value>the daytime show</value>
+          <translation>дневной сеанс</translation>
+          <comment>daytime - дневной, show - показ</comment>
+       </example>
+       <example>
+          <value>the evening show</value>
+          <translation>вечерний сеанс</translation>
+          <comment>evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the current show</value>
+          <translation>купить билеты на текущий сеанс</translation>
+          <comment>to buy - купить, ticket - билет, current - текущий, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the evening show</value>
+          <translation>купить билеты на вечерний сеанс</translation>
+          <comment>to buy - купить, ticket - билет, evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>two tickets for this show</value>
+          <translation>два билета на этот сеанс</translation>
+          <comment>two - два, ticket - билет, this - этот, эта, show - показ, сеанс</comment>
+       </example>
+       <example>
+          <value>to show something else</value>
+          <translation>показать что-нибудь другое</translation>
+          <comment>to show - показать, something - что-нибудь, else - еще</comment>
+       </example>
+       <example>
+          <value>to show that black belt</value>
+          <translation>показать тот черный пояс</translation>
+          <comment>to show - показать, that - тот, та, black - черный, belt - пояс</comment>
+       </example>
+       <example>
+          <value>to show this camera</value>
+          <translation>показать этот фотоаппарат</translation>
+          <comment>to show - показать, this - этот, эта, camera - фотоаппарат</comment>
+       </example>
+       <example>
+          <value>an erotic show</value>
+          <translation>эротическое шоу</translation>
+          <comment>erotic - эротический, show - шоу</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>please</question>
+    <answer>пожалуйста</answer>
+    <comment>[pliːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>872c780e-9292-4de1-b1f1-85dc712cbf78</uuid>
+    <examples>
+       <example>
+          <value>Pass along, please.</value>
+          <translation>Проходите, пожалуйста.</translation>
+          <comment>to pass along - проходить, along - вперед</comment>
+       </example>
+       <example>
+          <value>Your passport, please.</value>
+          <translation>ваш паспорт</translation>
+          <comment>your - твой, ваш, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>pass</question>
+    <answer>проходить</answer>
+    <comment>[pæs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb2b32c8-eef3-4583-afac-22397dcf0e04</uuid>
+    <examples>
+       <example>
+          <value>Pass along, please.</value>
+          <translation>Проходите, пожалуйста.</translation>
+          <comment>to pass along - проходить, along - вперед</comment>
+       </example>
+       <example>
+          <value>You may pass on.</value>
+          <translation>Вы можете проходить.</translation>
+          <comment>may - мочь, to pass on - идти дальше, проходить</comment>
+       </example>
+       <example>
+          <value>to pass the salt</value>
+          <translation>передать соль</translation>
+          <comment>to pass - передать, salt - соль</comment>
+       </example>
+       <example>
+          <value>to let me pass</value>
+          <translation>разрешить мне пройти</translation>
+          <comment>to let - позволить, разрешить, to pass - пройти</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>month</question>
+    <answer>месяц</answer>
+    <comment>[mʌnθ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>87aeb6a0-3d18-4f32-a0ed-46692854dcba</uuid>
+    <examples>
+       <example>
+          <value>for a month</value>
+          <translation>в течение месяца</translation>
+          <comment>month - месяц</comment>
+       </example>
+       <example>
+          <value>for months</value>
+          <translation>на протяжении нескольких месяцев</translation>
+          <comment>month - месяц</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>relative</question>
+    <answer>родственник</answer>
+    <comment>[ˈrelətɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fa240856-e915-4ce2-989f-0592b8806103</uuid>
+    <examples>
+       <example>
+          <value>at my relatives&apos;</value>
+          <translation>у родственников</translation>
+          <comment>my - мой, моя, relative - родственник</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>single</question>
+    <answer>одиночный</answer>
+    <comment>[ˈsɪŋgəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7b559b2c-c2c3-4edd-97b2-74b1cc3a2420</uuid>
+    <examples>
+       <example>
+          <value>a single-entry visa</value>
+          <translation>однократная виза</translation>
+          <comment>single - единственный, entry - вход, въезд, visa - виза</comment>
+       </example>
+       <example>
+          <value>a single room</value>
+          <translation>номер на одного</translation>
+          <comment>single - одиночный, отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+       <example>
+          <value>to receive a single room</value>
+          <translation>получить одноместный номер</translation>
+          <comment>to receive - получить, single - единичный, отдельный, room - комната, номер (в гостинице)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>year</question>
+    <answer>год</answer>
+    <comment>[jɪr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2b58a821-eeb7-4266-8e5a-6b716d53cc04</uuid>
+    <examples>
+       <example>
+          <value>for this year</value>
+          <translation>на этот год</translation>
+          <comment>this - этот, тот, year - год</comment>
+       </example>
+       <example>
+          <value>a five year old child</value>
+          <translation>пятилетний ребенок</translation>
+          <comment>five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+       <example>
+          <value>this year</value>
+          <translation>в этом году</translation>
+          <comment>this - этот, эта, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>visit</question>
+    <answer>визит</answer>
+    <comment>[ˈvɪzɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec2c78e5-fd7d-4929-b5e2-de8436e070f2</uuid>
+    <examples>
+       <example>
+          <value>my visit</value>
+          <translation>мой визит</translation>
+          <comment>my - мой, моя, visit - визит</comment>
+       </example>
+       <example>
+          <value>the purpose of your visit</value>
+          <translation>цель вашего визита</translation>
+          <comment>purpose - цель, your - твой, ваш, visit - посещение</comment>
+       </example>
+       <example>
+          <value>to visit your country</value>
+          <translation>посетить вашу страну</translation>
+          <comment>to visit - посещать, country - страна</comment>
+       </example>
+       <example>
+          <value>your first visit</value>
+          <translation>ваш первый визит</translation>
+          <comment>your - твой, ваш, first - первый, visit - посещение</comment>
+       </example>
+       <example>
+          <value>to visit the hippodrome</value>
+          <translation>посещать ипподром</translation>
+          <comment>to visit - посещать, hippodrome - ипподром</comment>
+       </example>
+       <example>
+          <value>the program of the visit</value>
+          <translation>программа визита</translation>
+          <comment>program - программа, visit - визит</comment>
+       </example>
+       <example>
+          <value>to visit a factory</value>
+          <translation>посетить завод</translation>
+          <comment>to visit - посетить, factory - завод</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>long</question>
+    <answer>долгий</answer>
+    <comment>[lɔːŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>16fc3113-a386-48a1-ab74-814b25f90820</uuid>
+    <examples>
+       <example>
+          <value>how long</value>
+          <translation>как долго</translation>
+          <comment>how - как, long - долгий</comment>
+       </example>
+       <example>
+          <value>a long-distance train</value>
+          <translation>поезд дальнего следования</translation>
+          <comment>long - длинный, distance - расстояние, train - поезд</comment>
+       </example>
+       <example>
+          <value>a long-distance call</value>
+          <translation>междугородний звонок</translation>
+          <comment>long - далекий, distance - дистанция, call - звонок</comment>
+       </example>
+       <example>
+          <value>to make a long-distance call</value>
+          <translation>сделать междугородний звонок</translation>
+          <comment>to make - делать, long - длинный, distance - расстояние, call - звонок</comment>
+       </example>
+       <example>
+          <value>too long</value>
+          <translation>слишком длинный</translation>
+          <comment>too - слишком, long - длинный</comment>
+       </example>
+       <example>
+          <value>all day long</value>
+          <translation>целый день</translation>
+          <comment>all - весь, day - день, long - долго</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>going</question>
+    <answer>идущий</answer>
+    <comment>[ˈgoʊɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5c67ed03-97f3-4a22-acab-81a3870c120b</uuid>
+    <examples>
+       <example>
+          <value>to be going to stay</value>
+          <translation>собиряться остаться</translation>
+          <comment>to be going to - собираться сделать (что-либо), stay - оставаться</comment>
+       </example>
+       <example>
+          <value>to be going to order</value>
+          <translation>собираться сделать заказ</translation>
+          <comment>to be going to - собираться сделать (что-либо), to order - заказывать</comment>
+       </example>
+       <example>
+          <value>to keep going</value>
+          <translation>продолжать ехать</translation>
+          <comment>to keep - сохранять, going - движущийся, движение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>passport</question>
+    <answer>паспорт</answer>
+    <comment>[ˈpæspɔːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>491b9243-b81a-47bf-ae27-365e7c4ad7d1</uuid>
+    <examples>
+       <example>
+          <value>my passport</value>
+          <translation>мой паспорт</translation>
+          <comment>my - мой, моя, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>my wife&apos;s passport</value>
+          <translation>паспорт моей жены</translation>
+          <comment>my - мой, моя, wife - жена, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>our passports</value>
+          <translation>наши паспорта</translation>
+          <comment>our - наш, наша, наши, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>passport control</value>
+          <translation>паспортный контроль</translation>
+          <comment>passport - паспорт, control - контроль</comment>
+       </example>
+       <example>
+          <value>to be entered in my passport</value>
+          <translation>быть внесенным в мой паспорт</translation>
+          <comment>entered - внесенный (в список), to enter - вносить, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>to show your passport</value>
+          <translation>показать ваш паспорт</translation>
+          <comment>to show - показывать, your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Your passport, please.</value>
+          <translation>ваш паспорт</translation>
+          <comment>your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>to have your passport on</value>
+          <translation>иметь с собой (=тобой) паспорт</translation>
+          <comment>to have on - иметь с собой, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Here is my passport.</value>
+          <translation>Вот мой паспорт.</translation>
+          <comment>here - здесь, my - мой, моя, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>several</question>
+    <answer>несколько</answer>
+    <comment>[ˈsevərəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96223934-ba19-42eb-add0-e5c7c9c5fda2</uuid>
+    <examples>
+       <example>
+          <value>for several days</value>
+          <translation>в течение нескольких дней</translation>
+          <comment>several - несколько, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>multiple</question>
+    <answer>многократный</answer>
+    <comment>[ˈmʌltəpəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>700bc61b-7d19-43ab-b030-28765849ff88</uuid>
+    <examples>
+       <example>
+          <value>a multiple-entry visa</value>
+          <translation>многократная виза</translation>
+          <comment>multiple - многократный, entry - вход, въезд, visa - виза</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>may</question>
+    <answer>мочь</answer>
+    <comment>[meɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3019e413-b9cd-45ba-85e9-3cd7bcb5489f</uuid>
+    <examples>
+       <example>
+          <value>You may pass on.</value>
+          <translation>Вы можете проходить.</translation>
+          <comment>may - мочь, to pass on - идти дальше, проходить</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>hotel</question>
+    <answer>гостиница</answer>
+    <comment>[hoʊˈtel]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>59343573-4e34-4345-b5e1-3e334068ffd8</uuid>
+    <examples>
+       <example>
+          <value>at a hotel</value>
+          <translation>в гостинице</translation>
+          <comment>hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>hotel accommodation</value>
+          <translation>номер в гостинице</translation>
+          <comment>accommodation - жилье, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>in the hotel</value>
+          <translation>в гостинице</translation>
+          <comment>in - в, внутри, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>the nearest hotel</value>
+          <translation>ближайшая гостиница</translation>
+          <comment>the nearest - ближайший, near - рядом с, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to stay at a hotel</value>
+          <translation>остановиться в гостинице</translation>
+          <comment>to stay - остановиться, остаться, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>a bus for the hotel</value>
+          <translation>автобус до гостиницы</translation>
+          <comment>bus - автобус, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to the hotel</value>
+          <translation>до гостиницы</translation>
+          <comment>to - до, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to take to the hotel</value>
+          <translation>отвезти в гостиницу</translation>
+          <comment>to take (to) - отвезти (в), hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>a doctor in the hotel</value>
+          <translation>врач в гостинице</translation>
+          <comment>doctor - врач, hotel - гостиница</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>stay</question>
+    <answer>оставаться</answer>
+    <comment>[steɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d0e54d40-89ee-4e33-bc50-12d4f15428f8</uuid>
+    <examples>
+       <example>
+          <value>to be going to stay</value>
+          <translation>собиряться остаться</translation>
+          <comment>to be going to - собираться сделать (что-либо), stay - оставаться</comment>
+       </example>
+       <example>
+          <value>to stay in the country</value>
+          <translation>находиться в стране</translation>
+          <comment>to stay - находиться, пребывать, country - страна</comment>
+       </example>
+       <example>
+          <value>to stay at a hotel</value>
+          <translation>остановиться в гостинице</translation>
+          <comment>to stay - остановиться, остаться, hotel - гостиница</comment>
+       </example>
+       <example>
+          <value>to stay overnight</value>
+          <translation>остановиться на сутки</translation>
+          <comment>to stay - остановиться, остаться, overnight - ночной, only - только</comment>
+       </example>
+       <example>
+          <value>to stay for a day</value>
+          <translation>оставаться на день</translation>
+          <comment>to stay - оставаться, day -день</comment>
+       </example>
+       <example>
+          <value>to stay for a week</value>
+          <translation>оставаться на неделю</translation>
+          <comment>to stay - оставаться, week - неделя</comment>
+       </example>
+       <example>
+          <value>to stay for some days</value>
+          <translation>оставаться на несколько дней</translation>
+          <comment>to stay - оставаться, some - несколько, day - день</comment>
+       </example>
+       <example>
+          <value>to stay at the station</value>
+          <translation>стоять на станции</translation>
+          <comment>to stay - оставаться, station - станция</comment>
+       </example>
+       <example>
+          <value>to stay in bed</value>
+          <translation>оставаться в постели</translation>
+          <comment>to stay - оставаться, bed - кровать</comment>
+       </example>
+       <example>
+          <value>to stay in the sun</value>
+          <translation>оставаться на солнце</translation>
+          <comment>to stay - оставаться, sun - солнце</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>visa</question>
+    <answer>виза</answer>
+    <comment>[ˈviːzə]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>00a916da-4ec7-4a60-ae3c-0a4bc8c83d65</uuid>
+    <examples>
+       <example>
+          <value>a multiple-entry visa</value>
+          <translation>многократная виза</translation>
+          <comment>multiple - многократный, entry - вход, въезд, visa - виза</comment>
+       </example>
+       <example>
+          <value>a single-entry visa</value>
+          <translation>однократная виза</translation>
+          <comment>single - единственный, entry - вход, въезд, visa - виза</comment>
+       </example>
+       <example>
+          <value>to have a visa</value>
+          <translation>иметь визу</translation>
+          <comment>to have - иметь, visa - виза</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>uncle</question>
+    <answer>дядя</answer>
+    <comment>[ˈʌŋkəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dc80cbe3-9afc-4619-9732-fca0092883c3</uuid>
+    <examples>
+       <example>
+          <value>my uncle</value>
+          <translation>мой дядя</translation>
+          <comment>my - мой, моя, uncle - дядя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>purpose</question>
+    <answer>цель</answer>
+    <comment>[ˈpɜːrpəs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2e4262fc-9ff4-4906-9a9c-0aeb2faaf6e3</uuid>
+    <examples>
+       <example>
+          <value>the purpose of your visit</value>
+          <translation>цель вашего визита</translation>
+          <comment>purpose - цель, your - твой, ваш, visit - посещение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>along</question>
+    <answer>вперед, вдоль</answer>
+    <comment>[əˈlɔːŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f7d6ea3-05df-4a7b-b0ac-d04306e5b277</uuid>
+    <examples>
+       <example>
+          <value>Pass along, please.</value>
+          <translation>Проходите, пожалуйста.</translation>
+          <comment>to pass along - проходить, along - вперед</comment>
+       </example>
+       <example>
+          <value>along the river</value>
+          <translation>вдоль реки</translation>
+          <comment>along - вдоль, river - река</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>country</question>
+    <answer>страна</answer>
+    <comment>[ˈkʌntriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf012206-8dc3-4427-9baa-a7ffd35e696c</uuid>
+    <examples>
+       <example>
+          <value>this country</value>
+          <translation>эта страна</translation>
+          <comment>this - этот, эта, country - страна</comment>
+       </example>
+       <example>
+          <value>to stay in the country</value>
+          <translation>находиться в стране</translation>
+          <comment>to stay - находиться, пребывать, country - страна</comment>
+       </example>
+       <example>
+          <value>to visit your country</value>
+          <translation>посетить вашу страну</translation>
+          <comment>to visit - посещать, country - страна</comment>
+       </example>
+       <example>
+          <value>in your country</value>
+          <translation>в вашей стране</translation>
+          <comment>your - твой, ваш, country - страна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>second</question>
+    <answer>второй</answer>
+    <comment>[ˈsekənd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5e23d7ad-a63d-401c-97a1-76c0fb23ed36</uuid>
+    <examples>
+       <example>
+          <value>the second of April</value>
+          <translation>второе апреля</translation>
+          <comment>the second - второй, April - апрель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>April</question>
+    <answer>апрель</answer>
+    <comment>[ˈeɪprəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf1de3fc-263c-42bb-92b4-5c07622c0da6</uuid>
+    <examples>
+       <example>
+          <value>the second of April</value>
+          <translation>второе апреля</translation>
+          <comment>the second - второй, April - апрель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>enter</question>
+    <answer>вносить (в список)</answer>
+    <comment>[ˈentər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>969c892b-86d1-4c23-8a96-cb073b681ce1</uuid>
+    <examples>
+       <example>
+          <value>to be entered in my passport</value>
+          <translation>быть внесенным в мой паспорт</translation>
+          <comment>entered - внесенный (в список), to enter - вносить, passport - паспорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>entry</question>
+    <answer>вход, въезд</answer>
+    <comment>[ˈentriː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4a187e5a-b1d4-4430-a38a-9542ae39268f</uuid>
+    <examples>
+       <example>
+          <value>a multiple-entry visa</value>
+          <translation>многократная виза</translation>
+          <comment>multiple - многократный, entry - вход, въезд, visa - виза</comment>
+       </example>
+       <example>
+          <value>a single-entry visa</value>
+          <translation>однократная виза</translation>
+          <comment>single - единственный, entry - вход, въезд, visa - виза</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>passing</question>
+    <answer>проезжающий</answer>
+    <comment>[ˈpæsɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>777547a7-7d0e-4341-aade-45588d02c7e2</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m just passing.</value>
+          <translation>Я (здесь) только проездом.</translation>
+          <comment>just - только, to pass - проезжать</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

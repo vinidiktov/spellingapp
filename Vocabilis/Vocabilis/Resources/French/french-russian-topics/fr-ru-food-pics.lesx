@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>2bf140f5-3106-49c6-ae21-fb1522276c18</uuid>
+  <title>Еда</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>la pomme</question>
+    <answer>яблоко</answer>
+    <comment></comment>
+    <answer_picture>apple.gif</answer_picture>
+    <uuid>a1ffe3fe-c3d2-4c8d-bef3-18f411451991</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>cuire</question>
+    <answer>печь, выпекать</answer>
+    <comment></comment>
+    <answer_picture>bake.gif</answer_picture>
+    <uuid>8429c782-65f3-425f-b563-e8f1e7993b6b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la banane</question>
+    <answer>банан</answer>
+    <comment></comment>
+    <answer_picture>banana.gif</answer_picture>
+    <uuid>f250ca38-15bb-4072-99e0-13727e895c25</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les fèves</question>
+    <answer>бобы</answer>
+    <comment></comment>
+    <answer_picture>beans.gif</answer_picture>
+    <uuid>c4255335-802b-4f72-978b-d780833f65ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le bœuf</question>
+    <answer>говядина</answer>
+    <comment></comment>
+    <answer_picture>beef.gif</answer_picture>
+    <uuid>d567c006-db61-46d4-8903-f66a52dd3da9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la bière</question>
+    <answer>пиво</answer>
+    <comment></comment>
+    <answer_picture>beer.gif</answer_picture>
+    <uuid>8255de86-3936-4f7c-9e8b-74216b79e77e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>poivron</question>
+    <answer>паприка, красный стручковый перец</answer>
+    <comment></comment>
+    <answer_picture>bell_pepper.gif</answer_picture>
+    <uuid>43200368-6303-4767-84e2-0284975a8015</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le mélangeur</question>
+    <answer>блендер</answer>
+    <comment></comment>
+    <answer_picture>blender.gif</answer_picture>
+    <uuid>eecf79a5-af88-4bfa-93c3-8f991335409c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>faire bouillir</question>
+    <answer>варить</answer>
+    <comment></comment>
+    <answer_picture>boil.gif</answer_picture>
+    <uuid>dd376894-5baa-4f13-9e45-b5073c0e7950</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le bol</question>
+    <answer>миска</answer>
+    <comment></comment>
+    <answer_picture>bowl.gif</answer_picture>
+    <uuid>7f45f4c4-b935-4e9e-bb2f-525c34bc4a5c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le pain</question>
+    <answer>хлеб</answer>
+    <comment></comment>
+    <answer_picture>bread.gif</answer_picture>
+    <uuid>ee6a99a3-4689-46b4-8b8a-06c3d2aea950</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le brocoli</question>
+    <answer>брокколи</answer>
+    <comment></comment>
+    <answer_picture>broccoli.gif</answer_picture>
+    <uuid>559e39ba-f779-4edd-834e-d49a4ef2daca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le buffet</question>
+    <answer>блюда для шведского стола</answer>
+    <comment></comment>
+    <answer_picture>buffet.gif</answer_picture>
+    <uuid>6d987123-d67b-46f0-8549-c4eac09e023d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le hamburger [-gœr]</question>
+    <answer>гамбургер</answer>
+    <comment></comment>
+    <answer_picture>burger.gif</answer_picture>
+    <uuid>1aed447d-86f4-4289-9ef1-bbd0ef5a89a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le beurre</question>
+    <answer>сливочное масло</answer>
+    <comment></comment>
+    <answer_picture>butter.gif</answer_picture>
+    <uuid>7c423e8d-e494-4ce3-a233-3b77ab940144</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le gâteau</question>
+    <answer>торт</answer>
+    <comment></comment>
+    <answer_picture>cake.gif</answer_picture>
+    <uuid>eda8d2ab-bd6b-4ad4-aa50-fad186362b12</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le  bocal à conserves</question>
+    <answer>консервная банка</answer>
+    <comment></comment>
+    <answer_picture>can.gif</answer_picture>
+    <uuid>520e5091-ac46-409d-b8e1-6b86cd743b05</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les carottes</question>
+    <answer>морковь</answer>
+    <comment></comment>
+    <answer_picture>carrots.gif</answer_picture>
+    <uuid>ddae1b4d-a38b-49e0-9840-dd4036ebd822</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;addition</question>
+    <answer>счёт (в ресторане)</answer>
+    <comment></comment>
+    <answer_picture>check.gif</answer_picture>
+    <uuid>607281ea-5635-458c-848e-7c209bcc538e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le fromage</question>
+    <answer>сыр</answer>
+    <comment></comment>
+    <answer_picture>cheese.gif</answer_picture>
+    <uuid>4f4b9a74-5270-4bf4-a2f5-7cf34730ad1b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le chef cuisinier</question>
+    <answer>шеф-повар</answer>
+    <comment></comment>
+    <answer_picture>chef.gif</answer_picture>
+    <uuid>3060d1aa-b465-40b8-8e60-6442ef3f5a65</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la cerise</question>
+    <answer>вишня; черешня</answer>
+    <comment></comment>
+    <answer_picture>cherry.gif</answer_picture>
+    <uuid>15190620-c3e3-4349-aa6e-235b3c448bec</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poulet</question>
+    <answer>курятина</answer>
+    <comment></comment>
+    <answer_picture>chicken.gif</answer_picture>
+    <uuid>cb82da26-1b35-4015-8cd4-ff1db03ec754</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le piment rouge</question>
+    <answer>красный (стручковый) перец</answer>
+    <comment></comment>
+    <answer_picture>chillies.gif</answer_picture>
+    <uuid>a719e501-d606-4cdf-ab5d-840f37d0984b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les baguettes</question>
+    <answer>палочки для еды</answer>
+    <comment></comment>
+    <answer_picture>chopsticks.gif</answer_picture>
+    <uuid>41e70ac0-0606-4015-bc7c-4b1483f46fee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la palourde</question>
+    <answer>двустворчатый моллюск</answer>
+    <comment></comment>
+    <answer_picture>clam.gif</answer_picture>
+    <uuid>9e2233e4-6fc1-4f90-b215-69efbd67251f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le coco</question>
+    <answer>кокос</answer>
+    <comment></comment>
+    <answer_picture>coconut.gif</answer_picture>
+    <uuid>981945cf-95f2-45f6-988f-b2fc98aec69b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le café</question>
+    <answer>кофе</answer>
+    <comment></comment>
+    <answer_picture>coffee.gif</answer_picture>
+    <uuid>f503b63c-23be-4659-8b54-07590d94ebbc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>froid</question>
+    <answer>холодный</answer>
+    <comment></comment>
+    <answer_picture>cold.gif</answer_picture>
+    <uuid>0fe40c15-bc2c-49c5-968e-64334ad44042</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>faire cuire</question>
+    <answer>варить, готовить еду</answer>
+    <comment></comment>
+    <answer_picture>cook.gif</answer_picture>
+    <uuid>100c4495-ae97-4616-b95a-a888c6e24444</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les biscuits</question>
+    <answer>печенье</answer>
+    <comment></comment>
+    <answer_picture>cookie.gif</answer_picture>
+    <uuid>c9c278bc-b3d8-4dae-83c4-5760509a379b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le maïs [mais]</question>
+    <answer>кукуруза</answer>
+    <comment></comment>
+    <answer_picture>corn.gif</answer_picture>
+    <uuid>771f2024-0840-4f18-82a3-5923892756a5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le crabe</question>
+    <answer>краб</answer>
+    <comment></comment>
+    <answer_picture>crab.gif</answer_picture>
+    <uuid>80ddba61-0016-4ea6-a5bb-cc62c0908dfa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le concombre</question>
+    <answer>огурец</answer>
+    <comment></comment>
+    <answer_picture>cucumber.gif</answer_picture>
+    <uuid>b0072c5d-9644-4c8f-b83a-e78138082ebd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tasse</question>
+    <answer>чашка</answer>
+    <comment></comment>
+    <answer_picture>cup.gif</answer_picture>
+    <uuid>7d08615d-b4df-42aa-96db-31eb5faf843d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le dessert</question>
+    <answer>десерт</answer>
+    <comment></comment>
+    <answer_picture>dessert.gif</answer_picture>
+    <uuid>885d7906-9817-4e5b-8db0-3abb572a9c92</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>boire</question>
+    <answer>пить</answer>
+    <comment></comment>
+    <answer_picture>drink.gif</answer_picture>
+    <uuid>6a12dadd-d3b4-4e98-a337-38714436bfa1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>manger</question>
+    <answer>есть, кушать</answer>
+    <comment></comment>
+    <answer_picture>eat.gif</answer_picture>
+    <uuid>227681dc-bc12-469b-96bc-4c9adf91f07d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les œufs [ø]</question>
+    <answer>яйца</answer>
+    <comment></comment>
+    <answer_picture>eggs.gif</answer_picture>
+    <uuid>78d213e5-0cf8-4c13-a09a-4ad28ff7a542</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la buvette</question>
+    <answer>экспресс-закусочная</answer>
+    <comment></comment>
+    <answer_picture>fast_food_counter.gif</answer_picture>
+    <uuid>8af20b27-70ee-42d8-b878-1920f8776d54</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>nourrir</question>
+    <answer>кормить</answer>
+    <comment></comment>
+    <answer_picture>feed.gif</answer_picture>
+    <uuid>b8048749-2a1f-4907-8e1a-c2d76b38a86c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poisson</question>
+    <answer>рыба</answer>
+    <comment></comment>
+    <answer_picture>fish.gif</answer_picture>
+    <uuid>4a7b1e59-9aa2-40ed-9dcc-0d8bb3cc8809</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la boisson gazeuse</question>
+    <answer>газированая вода</answer>
+    <comment></comment>
+    <answer_picture>fizzy_drink.gif</answer_picture>
+    <uuid>aca56d21-720f-4669-9960-e8014d76c6f0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la fourchette</question>
+    <answer>вилка</answer>
+    <comment></comment>
+    <answer_picture>fork.gif</answer_picture>
+    <uuid>467aa919-6c2a-4cba-9d8c-9237c28a168d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les frites</question>
+    <answer>картофель фри</answer>
+    <comment></comment>
+    <answer_picture>fries.gif</answer_picture>
+    <uuid>2e9116b0-f125-46ba-9c7e-5b744a6c3da3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les fruits</question>
+    <answer>фрукты</answer>
+    <comment></comment>
+    <answer_picture>fruit.gif</answer_picture>
+    <uuid>b7add2fe-0a8a-46f1-9877-25942f8d451c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>frire</question>
+    <answer>жарить</answer>
+    <comment></comment>
+    <answer_picture>fry.gif</answer_picture>
+    <uuid>c469c635-7295-44d0-95a7-4fbddca7c89e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la poêle [pwal] à frire</question>
+    <answer>сковорода</answer>
+    <comment></comment>
+    <answer_picture>frying_pan.gif</answer_picture>
+    <uuid>25c841bb-e109-4545-81cb-d02622f21582</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;ail [aj]</question>
+    <answer>чеснок</answer>
+    <comment></comment>
+    <answer_picture>garlic.gif</answer_picture>
+    <uuid>2333467c-2895-4a3e-b685-7131d86cbd9a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le gingembre</question>
+    <answer>имбирь</answer>
+    <comment></comment>
+    <answer_picture>ginger.gif</answer_picture>
+    <uuid>a9ee10fd-b43c-492f-bc8d-5266bd8f3a39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le verre</question>
+    <answer>стакан</answer>
+    <comment></comment>
+    <answer_picture>glass.gif</answer_picture>
+    <uuid>1ec80af6-330d-426a-a2bf-f937b84e6cf0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le raisin</question>
+    <answer>виноград</answer>
+    <comment></comment>
+    <answer_picture>grapes.gif</answer_picture>
+    <uuid>57109e1b-856a-4a8d-8de8-9dc58b184f86</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le jambon</question>
+    <answer>ветчина, окорок</answer>
+    <comment></comment>
+    <answer_picture>ham.gif</answer_picture>
+    <uuid>2bddfb7b-8cbb-4200-ab8f-a7ba197715f4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les herbes</question>
+    <answer>травы</answer>
+    <comment></comment>
+    <answer_picture>herbs.gif</answer_picture>
+    <uuid>0ac14d52-efa5-4765-aa9e-a222cc8a403c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>chaud</question>
+    <answer>горячий</answer>
+    <comment></comment>
+    <answer_picture>hot.gif</answer_picture>
+    <uuid>b73dee9e-b0df-4136-bb58-effe90150810</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le hot-dog</question>
+    <answer>хот-дог</answer>
+    <comment></comment>
+    <answer_picture>hotdog.gif</answer_picture>
+    <uuid>e8fb7a89-685b-432d-9359-47f01f1526d5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la glace</question>
+    <answer>лёд</answer>
+    <comment></comment>
+    <answer_picture>ice.gif</answer_picture>
+    <uuid>6d537b96-dd29-4df7-b0fc-1b5c015159b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la confiture</question>
+    <answer>варенье, джем</answer>
+    <comment></comment>
+    <answer_picture>jam.gif</answer_picture>
+    <uuid>c54dc6b1-faa9-45db-9c02-dcc259b7e4c1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le jus [ʒy]</question>
+    <answer>сок</answer>
+    <comment></comment>
+    <answer_picture>juice.gif</answer_picture>
+    <uuid>372f4e09-9a78-48f1-8ea2-b30cf3feb093</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le ketchup</question>
+    <answer>кетчуп</answer>
+    <comment></comment>
+    <answer_picture>ketchup.gif</answer_picture>
+    <uuid>d89b2e10-88e1-4eb5-86e1-c47cacd34de8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les haricots</question>
+    <answer>фасоль</answer>
+    <comment></comment>
+    <answer_picture>kidney_beans.gif</answer_picture>
+    <uuid>00cf4845-9a41-4e32-86f6-e993eeed1aac</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le couteau</question>
+    <answer>нож</answer>
+    <comment></comment>
+    <answer_picture>knife.gif</answer_picture>
+    <uuid>f2b09fa7-ccd6-49a1-9884-af73923a0208</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la louche</question>
+    <answer>ковш, черпак</answer>
+    <comment></comment>
+    <answer_picture>ladle.gif</answer_picture>
+    <uuid>19850669-1500-4c36-ad05-4f242cd5c1ba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le citron</question>
+    <answer>лимон</answer>
+    <comment></comment>
+    <answer_picture>lemon.gif</answer_picture>
+    <uuid>46ef7579-3317-4b02-8354-1a8a8909bf5a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la lentille</question>
+    <answer>чечевица</answer>
+    <comment></comment>
+    <answer_picture>lentils.gif</answer_picture>
+    <uuid>bfe54d52-4533-404b-84af-94f2b8ce8956</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la laitue</question>
+    <answer>салат-латук</answer>
+    <comment></comment>
+    <answer_picture>lettuce.gif</answer_picture>
+    <uuid>bb98dc8e-bbfe-41a2-9c04-fa8e8419ddb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le homard</question>
+    <answer>омар</answer>
+    <comment></comment>
+    <answer_picture>lobster.gif</answer_picture>
+    <uuid>f51a9f53-dd87-48df-ba38-b9881b715e89</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le repas</question>
+    <answer>приём пищи, еда</answer>
+    <comment></comment>
+    <answer_picture>meal.gif</answer_picture>
+    <uuid>c0f2fc77-15a9-49ae-aee5-58b6eab58eba</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la viande</question>
+    <answer>мясо</answer>
+    <comment></comment>
+    <answer_picture>meat.gif</answer_picture>
+    <uuid>8d1f62d1-3fbb-4abc-b5a3-2be3fab329a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le menu</question>
+    <answer>меню</answer>
+    <comment></comment>
+    <answer_picture>menu.gif</answer_picture>
+    <uuid>b2d21720-7b79-4034-a69a-d064c693a0bb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le micro-ondes</question>
+    <answer>микроволновка</answer>
+    <comment></comment>
+    <answer_picture>microwave.gif</answer_picture>
+    <uuid>33d8c419-93be-4db8-95bf-4fd2365e0da2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le lait</question>
+    <answer>молоко</answer>
+    <comment></comment>
+    <answer_picture>milk.gif</answer_picture>
+    <uuid>194b9c12-b11f-47dc-b8ef-b933fb2ec440</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tasse</question>
+    <answer>кружка</answer>
+    <comment></comment>
+    <answer_picture>mug.gif</answer_picture>
+    <uuid>6e7b1b90-9f14-4518-b1a0-daa87fd3ca2b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la serviette</question>
+    <answer>салфетка</answer>
+    <comment></comment>
+    <answer_picture>napkin.gif</answer_picture>
+    <uuid>9f809f7e-cc43-4524-a1cc-bc16eb7b064d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;oignon</question>
+    <answer>лук</answer>
+    <comment></comment>
+    <answer_picture>onion.gif</answer_picture>
+    <uuid>7de46b3b-3ab4-4ce9-a9f8-4ccb3f002c16</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;orange</question>
+    <answer>апельсин</answer>
+    <comment></comment>
+    <answer_picture>an_orange.gif</answer_picture>
+    <uuid>80ae346c-7457-4cdd-b293-def8b22224d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>commander</question>
+    <answer>заказывать</answer>
+    <comment></comment>
+    <answer_picture>order.gif</answer_picture>
+    <uuid>a65dbfed-e56a-4d6a-b678-5f522ea54d70</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;huître</question>
+    <answer>устрица</answer>
+    <comment></comment>
+    <answer_picture>oyster.gif</answer_picture>
+    <uuid>61c719d4-5f1f-47b7-80f1-ab256f08b73b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les pâtes</question>
+    <answer>блюдо из макарон</answer>
+    <comment></comment>
+    <answer_picture>pasta.gif</answer_picture>
+    <uuid>40aa075d-ffed-4720-98d4-51f0250b5783</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la pêche</question>
+    <answer>персик</answer>
+    <comment></comment>
+    <answer_picture>peach.gif</answer_picture>
+    <uuid>3b957277-673d-4621-a31e-87dd30262e47</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les pois</question>
+    <answer>горох</answer>
+    <comment></comment>
+    <answer_picture>peas.gif</answer_picture>
+    <uuid>4f892c49-0402-4086-8a58-2a34ce9b2f01</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poivre</question>
+    <answer>перец</answer>
+    <comment></comment>
+    <answer_picture>pepper.gif</answer_picture>
+    <uuid>1aae62c8-39f0-4f45-9d06-59670c5f84d8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tarte</question>
+    <answer>пирог</answer>
+    <comment></comment>
+    <answer_picture>pie.gif</answer_picture>
+    <uuid>77e1ea51-190b-450e-a1e8-4bb8793efb0a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>un morceau de gâteau</question>
+    <answer>кусок торта</answer>
+    <comment></comment>
+    <answer_picture>piece_of_cake.gif</answer_picture>
+    <uuid>7fe202fd-ab0e-4a05-b786-2b7f86e62b7a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;ananas</question>
+    <answer>ананас</answer>
+    <comment></comment>
+    <answer_picture>pineapple.gif</answer_picture>
+    <uuid>39151cd8-9986-4aa3-aac2-0eaa450cbf3f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;assiette</question>
+    <answer>тарелка</answer>
+    <comment></comment>
+    <answer_picture>plate.gif</answer_picture>
+    <uuid>8fbb8c06-20db-4192-a1ec-7ada7181df4f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la casserole</question>
+    <answer>кастрюля</answer>
+    <comment></comment>
+    <answer_picture>pot.gif</answer_picture>
+    <uuid>6fd04769-31da-4487-aa3c-c3289878185d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les pommes de terre</question>
+    <answer>картофель</answer>
+    <comment></comment>
+    <answer_picture>potato.gif</answer_picture>
+    <uuid>ac7c51bc-a16c-4aa5-806b-a54e81af3dd0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>verser</question>
+    <answer>лить</answer>
+    <comment></comment>
+    <answer_picture>pour.gif</answer_picture>
+    <uuid>c54f5a21-d657-4ee4-9a66-8111207432b4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la crevette rose</question>
+    <answer>креветка</answer>
+    <comment></comment>
+    <answer_picture>prawn.gif</answer_picture>
+    <uuid>149b7cbe-b459-4cb5-8d50-4a5af6da6c7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le potiron</question>
+    <answer>тыква</answer>
+    <comment></comment>
+    <answer_picture>pumpkin.gif</answer_picture>
+    <uuid>989be3e9-8f93-43e9-b975-07a2da5f5ecb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poivron rouge</question>
+    <answer>красный перец</answer>
+    <comment></comment>
+    <answer_picture>red_pepper.gif</answer_picture>
+    <uuid>9e80b9e1-93cd-42cb-845e-ce728c9b08ee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le réfrigérateur</question>
+    <answer>холодильник</answer>
+    <comment></comment>
+    <answer_picture>refrigerator.gif</answer_picture>
+    <uuid>40ba0821-53de-4288-87f8-92ebe08fb416</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la table de restaurant</question>
+    <answer>ресторанный столик</answer>
+    <comment></comment>
+    <answer_picture>restaurant_table.gif</answer_picture>
+    <uuid>942e5f21-eba1-4bbc-90f4-c25a482c78fa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le riz</question>
+    <answer>рис</answer>
+    <comment></comment>
+    <answer_picture>rice.gif</answer_picture>
+    <uuid>28998a31-7ac4-4c07-a514-92d48acab5b4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rôtir</question>
+    <answer>печь в духовке</answer>
+    <comment></comment>
+    <answer_picture>roast.gif</answer_picture>
+    <uuid>d40d50e5-42af-422f-ab35-35a97edec784</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le service en chambre</question>
+    <answer>подача еды и напитков в номер</answer>
+    <comment></comment>
+    <answer_picture>room_service.gif</answer_picture>
+    <uuid>389ec48d-fa6b-410c-8b54-43e497fe8ecb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la salade</question>
+    <answer>салат</answer>
+    <comment></comment>
+    <answer_picture>salad.gif</answer_picture>
+    <uuid>732817d6-9324-47b7-be30-0e6af2a0edc7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sel</question>
+    <answer>соль</answer>
+    <comment></comment>
+    <answer_picture>salt.gif</answer_picture>
+    <uuid>da60aded-1f5a-4cd5-8785-82b3227d7004</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>sel et poivre</question>
+    <answer>соль и перец</answer>
+    <comment></comment>
+    <answer_picture>salt_and_pepper.gif</answer_picture>
+    <uuid>912deddb-bec3-47f0-8a2a-a37f86ca34fc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sandwich [sɑ̃dwitʃˌ sɑ̃dwiʃ]</question>
+    <answer>бутерброд</answer>
+    <comment></comment>
+    <answer_picture>sandwich.gif</answer_picture>
+    <uuid>3ac1e97a-a601-445e-8623-4af7000250c4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sashimi</question>
+    <answer>сашими</answer>
+    <comment></comment>
+    <answer_picture>sashimi.gif</answer_picture>
+    <uuid>c7e4e108-6836-4d3e-a9b1-a27ba6b43c0c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la sauce</question>
+    <answer>соус</answer>
+    <comment></comment>
+    <answer_picture>sauce.gif</answer_picture>
+    <uuid>24ed5d90-f7df-4ea5-aceb-3ecf6f6a081e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la saucisse</question>
+    <answer>колбаса, сосиска</answer>
+    <comment></comment>
+    <answer_picture>sausage.gif</answer_picture>
+    <uuid>352e6a63-312a-4f64-a5cf-23e98bfa2803</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les oignons verts</question>
+    <answer>зелёный лук</answer>
+    <comment></comment>
+    <answer_picture>scallions.gif</answer_picture>
+    <uuid>6769313f-4a02-4866-abca-8ff99ce1ec42</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;assaisonnement</question>
+    <answer>приправа</answer>
+    <comment></comment>
+    <answer_picture>seasoning.gif</answer_picture>
+    <uuid>64ffc776-4d73-4823-b5ba-50aca1e10642</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>les algues</question>
+    <answer>морская водоросль</answer>
+    <comment></comment>
+    <answer_picture>seaweed.gif</answer_picture>
+    <uuid>91414df6-0528-4a6e-910f-1752b1d14fde</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>servir</question>
+    <answer>подавать</answer>
+    <comment></comment>
+    <answer_picture>serve.gif</answer_picture>
+    <uuid>e6e48d24-a9ef-4da9-b66c-344fd27ca886</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le crible</question>
+    <answer>решето, сито</answer>
+    <comment></comment>
+    <answer_picture>sieve.gif</answer_picture>
+    <uuid>7158dbcb-741e-416d-8b6e-ac95f2d29c59</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tranche</question>
+    <answer>ломтик</answer>
+    <comment></comment>
+    <answer_picture>slice.gif</answer_picture>
+    <uuid>148832ba-1e5e-48b3-9a1e-6494813b5c01</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la soupe</question>
+    <answer>суп</answer>
+    <comment></comment>
+    <answer_picture>soup.gif</answer_picture>
+    <uuid>25899a8d-3788-4a2a-8446-e06bd9ff5c7f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la cuillère</question>
+    <answer>ложка</answer>
+    <comment></comment>
+    <answer_picture>spoon.gif</answer_picture>
+    <uuid>1d124a89-3df0-40d2-9c7c-7b01eabe350f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la fraise</question>
+    <answer>земляника; клубника</answer>
+    <comment></comment>
+    <answer_picture>strawberry.gif</answer_picture>
+    <uuid>6e14a03c-5f85-49b8-80e9-6eb2f8edd8b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sucre</question>
+    <answer>сахар</answer>
+    <comment></comment>
+    <answer_picture>sugar.gif</answer_picture>
+    <uuid>124d102b-0579-4d4e-a99d-cfad589e6cc3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le sushi</question>
+    <answer>суши</answer>
+    <comment></comment>
+    <answer_picture>sushi.gif</answer_picture>
+    <uuid>5d2acec4-a5e8-4649-bc3b-a85561971e8f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le thé</question>
+    <answer>чай</answer>
+    <comment></comment>
+    <answer_picture>tea.gif</answer_picture>
+    <uuid>76b8d046-28f8-4aa0-b550-3a3e47a5d622</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la théière</question>
+    <answer>чайник (для заварки)</answer>
+    <comment></comment>
+    <answer_picture>teapot.gif</answer_picture>
+    <uuid>63b3ce3a-05ab-4d34-9115-b2e5cc206960</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le grille-pain</question>
+    <answer>тостер</answer>
+    <comment></comment>
+    <answer_picture>toaster.gif</answer_picture>
+    <uuid>51ef2a2c-9507-4a44-81d7-7ab1253ac1ed</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tomate</question>
+    <answer>помидор</answer>
+    <comment></comment>
+    <answer_picture>tomato.gif</answer_picture>
+    <uuid>68dbb6ed-c76b-4452-8964-d9cac1de8310</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le légume</question>
+    <answer>овощ</answer>
+    <comment></comment>
+    <answer_picture>vegetable.gif</answer_picture>
+    <uuid>91521d56-4e4f-4aef-8a3a-060e1a38fec5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le serveur</question>
+    <answer>официант</answer>
+    <comment></comment>
+    <answer_picture>waiter.gif</answer_picture>
+    <uuid>a124e70c-4feb-4de2-96a2-fd70cf337a6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>faire la vaisselle</question>
+    <answer>мыть посуду</answer>
+    <comment></comment>
+    <answer_picture>wash_dishes.gif</answer_picture>
+    <uuid>28984628-a3b8-4ccb-9b44-41b00a39c4fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;eau</question>
+    <answer>вода</answer>
+    <comment></comment>
+    <answer_picture>water.gif</answer_picture>
+    <uuid>713c7899-f4f0-479d-82be-862c8e9722d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la pastèque</question>
+    <answer>арбуз</answer>
+    <comment></comment>
+    <answer_picture>watermelon.gif</answer_picture>
+    <uuid>0203766e-cea2-4487-ab38-4029c4fd877c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le vin</question>
+    <answer>вино</answer>
+    <comment></comment>
+    <answer_picture>wine.gif</answer_picture>
+    <uuid>6c384fb2-aaba-4cf4-9d34-29420573c844</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le verre à vin</question>
+    <answer>бокал; рюмка; фужер</answer>
+    <comment></comment>
+    <answer_picture>wineglass.gif</answer_picture>
+    <uuid>966abd3b-d4b4-43fd-9f7e-266b60ff51de</uuid>
+  </card>
+</cards>
+</stack>

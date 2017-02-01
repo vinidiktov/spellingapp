@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3274cda0-ad4b-400e-b569-8c8a3804a021</uuid>
+  <title>Завтрак, ужин</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Brot</question>
+    <answer>хлеб</answer>
+    <comment></comment>
+    <uuid>5b4577bc-1b1a-4080-8f57-5fc8706b1578</uuid>
+  </card>
+  <card>
+    <question>das Brötchen</question>
+    <answer>булочка</answer>
+    <comment></comment>
+    <uuid>4850567e-381a-44d9-9588-86594a5e7962</uuid>
+  </card>
+  <card>
+    <question>das dunkle Brot</question>
+    <answer>черный хлеб</answer>
+    <comment></comment>
+    <uuid>e9d6bb5f-8527-42f5-924b-454c2aeb7ce2</uuid>
+  </card>
+  <card>
+    <question>das Ei</question>
+    <answer>яйцо</answer>
+    <comment></comment>
+    <uuid>2ce440d8-b222-4a44-9ae6-e4859c64a209</uuid>
+  </card>
+  <card>
+    <question>das gekochte Ei</question>
+    <answer>вареное яйцо</answer>
+    <comment></comment>
+    <uuid>31db5e9c-e511-4afe-b8cb-51a37b79a7c6</uuid>
+  </card>
+  <card>
+    <question>das Rührei</question>
+    <answer>яичница-болтунья</answer>
+    <comment></comment>
+    <uuid>1deac5d2-ee8b-4841-946a-a6cdd72f0cba</uuid>
+  </card>
+  <card>
+    <question>das Setzei, das Spiegelei</question>
+    <answer>яичница глазунья</answer>
+    <comment></comment>
+    <uuid>f96985d8-f387-468a-aa35-3897c1037e87</uuid>
+  </card>
+  <card>
+    <question>das Weißbrot</question>
+    <answer>белый хлеб</answer>
+    <comment></comment>
+    <uuid>318a64ad-ed51-4148-b2c6-eff1a46ee9ec</uuid>
+  </card>
+  <card>
+    <question>der gekochte Schinken</question>
+    <answer>вареный окорок</answer>
+    <comment></comment>
+    <uuid>d57c35e9-5f25-439b-887c-6493860bc771</uuid>
+  </card>
+  <card>
+    <question>der Honig</question>
+    <answer>мед</answer>
+    <comment></comment>
+    <uuid>a2bb8b4f-52a4-4f56-93ed-c61e677c141b</uuid>
+  </card>
+  <card>
+    <question>der Kaffee</question>
+    <answer>кофе</answer>
+    <comment></comment>
+    <uuid>55a97f6a-462b-4c2a-9e4a-6aa63f09848b</uuid>
+  </card>
+  <card>
+    <question>der Käse</question>
+    <answer>сыр</answer>
+    <comment></comment>
+    <uuid>bc6d6e51-bd1c-43be-b531-dfb0cb872350</uuid>
+  </card>
+  <card>
+    <question>der Quark</question>
+    <answer>творог</answer>
+    <comment></comment>
+    <uuid>ff258f05-0b8d-4f5d-a1ea-c906285beda1</uuid>
+  </card>
+  <card>
+    <question>der Schinken</question>
+    <answer>ветчина, окорок</answer>
+    <comment></comment>
+    <uuid>b8eff869-be50-439b-8949-55b0ab5d8e8e</uuid>
+  </card>
+  <card>
+    <question>der Schnittkäse</question>
+    <answer>нарезанный сыр</answer>
+    <comment></comment>
+    <uuid>d0c5f491-3b60-4b88-9b9e-bc22e0267127</uuid>
+  </card>
+  <card>
+    <question>der Tee</question>
+    <answer>чай</answer>
+    <comment></comment>
+    <uuid>d28d0ea8-8a09-42af-9a5b-4d053f2a8d3b</uuid>
+  </card>
+  <card>
+    <question>der Zucker</question>
+    <answer>сахар</answer>
+    <comment></comment>
+    <uuid>cff99312-09ed-4a80-a567-a0a158a342bb</uuid>
+  </card>
+  <card>
+    <question>die Butter</question>
+    <answer>масло</answer>
+    <comment></comment>
+    <uuid>88edf0af-5bb6-48c5-bd6f-9c1f9aea1198</uuid>
+  </card>
+  <card>
+    <question>die frische Wurst</question>
+    <answer>свежая колбаса</answer>
+    <comment></comment>
+    <uuid>6b5e7c86-206f-44b0-8a0b-13559f2d87fc</uuid>
+  </card>
+  <card>
+    <question>die geräucherte Wurst</question>
+    <answer>копченая колбаса</answer>
+    <comment></comment>
+    <uuid>d353b46a-9445-43a9-a0a8-a957f6980882</uuid>
+  </card>
+  <card>
+    <question>die Konfitüre</question>
+    <answer>варенье</answer>
+    <comment></comment>
+    <uuid>4a000b51-0b13-43d9-b2c8-d2584fa33cc9</uuid>
+  </card>
+  <card>
+    <question>die Leberwurst</question>
+    <answer>ливерная колбаса</answer>
+    <comment></comment>
+    <uuid>f8dbf3d2-97fe-4159-b22b-e094f91d3711</uuid>
+  </card>
+  <card>
+    <question>die Marmelade</question>
+    <answer>повидло, джем</answer>
+    <comment></comment>
+    <uuid>163f008a-5f6b-4e35-bb21-fc4dc1efe246</uuid>
+  </card>
+  <card>
+    <question>die Mettwurst</question>
+    <answer>итальянская колбаса</answer>
+    <comment></comment>
+    <uuid>6b34c204-0cef-4e1c-9289-73bf8c1bd365</uuid>
+  </card>
+  <card>
+    <question>die Milch</question>
+    <answer>молоко</answer>
+    <comment></comment>
+    <uuid>b70c71eb-e2a7-4667-bfc7-e3b600b194e7</uuid>
+  </card>
+  <card>
+    <question>die Wurst</question>
+    <answer>колбаса</answer>
+    <comment></comment>
+    <uuid>54ac4286-fc82-4db5-8a2a-37864ad84882</uuid>
+  </card>
+  <card>
+    <question>ein Kännchen Kaffee</question>
+    <answer>кофе (порционный кофейник)</answer>
+    <comment></comment>
+    <uuid>836d5afe-65d9-48ed-83a9-6d54e2891535</uuid>
+  </card>
+  <card>
+    <question>Eine Scheibe Käse, bitte.</question>
+    <answer>Кусочек сыра, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>1b70ba79-021e-42c5-a040-83c19c4d2f8f</uuid>
+  </card>
+  <card>
+    <question>Eine Tasse Kaffee, bitte.</question>
+    <answer>Чашку кофе, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>658171fe-fe9e-4d94-b8cd-76d638af9681</uuid>
+  </card>
+  <card>
+    <question>Ich hätte gern noch eine Scheibe Brot.</question>
+    <answer>Я хотел бы еще кусочек хлеба.</answer>
+    <comment></comment>
+    <uuid>b74bb0ba-4788-4838-9080-a68190b4d277</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Kirschmarmelade.</question>
+    <answer>Я хотел бы вишневое повидло.</answer>
+    <comment></comment>
+    <uuid>ce87bee3-4af0-4552-9418-2043280481c9</uuid>
+  </card>
+  <card>
+    <question>Ja, bitte.</question>
+    <answer>Да, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>4375697c-ff28-4269-aa77-627948be4a86</uuid>
+  </card>
+  <card>
+    <question>Mit Sahne.</question>
+    <answer>Со сливками. (кофе)</answer>
+    <comment></comment>
+    <uuid>e371faeb-24ec-4630-a0a9-813aea83b598</uuid>
+  </card>
+  <card>
+    <question>Möchten Sie ein gekochtes Ei?</question>
+    <answer>Вы хотите вареное яйцо?</answer>
+    <comment></comment>
+    <uuid>ceb62e66-8e06-40f2-8831-0cf675cebfa6</uuid>
+  </card>
+  <card>
+    <question>Nein, danke.</question>
+    <answer>Спасибо, нет.</answer>
+    <comment></comment>
+    <uuid>3f900589-822d-4d64-8cee-15774f6a651a</uuid>
+  </card>
+  <card>
+    <question>Noch ein Brötchen?</question>
+    <answer>Ещу одну булочку?</answer>
+    <comment></comment>
+    <uuid>5b926849-85d0-4cbc-9f94-c272423daf96</uuid>
+  </card>
+  <card>
+    <question>Schwarz oder mit Sahne?</question>
+    <answer>Черный или со сливками? (кофе)</answer>
+    <comment></comment>
+    <uuid>8076c1fc-04c7-47ab-8a08-ed9903d5ce3f</uuid>
+  </card>
+</cards>
+</stack>

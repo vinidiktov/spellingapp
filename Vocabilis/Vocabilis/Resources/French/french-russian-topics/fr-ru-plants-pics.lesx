@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>2f9b120b-3e23-46c7-ad20-c518b7a98234</uuid>
+  <title>Растения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>s&apos;épanouir</question>
+    <answer>расцветать</answer>
+    <comment></comment>
+    <answer_picture>bloom.gif</answer_picture>
+    <uuid>a5033543-e932-46f6-8faf-54e5e1b0d5d7</uuid>
+  </card>
+  <card>
+    <question>le buisson</question>
+    <answer>куст</answer>
+    <comment></comment>
+    <answer_picture>bush.gif</answer_picture>
+    <uuid>c1e80f4c-c024-4e02-a0db-f7c525460245</uuid>
+  </card>
+  <card>
+    <question>le conifère</question>
+    <answer>хвойное дерево</answer>
+    <comment></comment>
+    <answer_picture>conifer.gif</answer_picture>
+    <uuid>1a9c1d96-2728-4e18-86f3-e5344c7a9dc2</uuid>
+  </card>
+  <card>
+    <question>la récolte</question>
+    <answer>урожай</answer>
+    <comment></comment>
+    <answer_picture>crop.gif</answer_picture>
+    <uuid>6450f867-da0a-4e30-bb02-f5ddaf037650</uuid>
+  </card>
+  <card>
+    <question>la fleur</question>
+    <answer>цветок</answer>
+    <comment></comment>
+    <answer_picture>flower.gif</answer_picture>
+    <uuid>721ab8ad-d228-4f45-8635-ab1498ef78f2</uuid>
+  </card>
+  <card>
+    <question>la forêt</question>
+    <answer>лес</answer>
+    <comment></comment>
+    <answer_picture>forest.gif</answer_picture>
+    <uuid>8860e70d-3798-4772-9b7d-9140c0a55f35</uuid>
+  </card>
+  <card>
+    <question>l&apos;herbe</question>
+    <answer>трава</answer>
+    <comment></comment>
+    <answer_picture>grass.gif</answer_picture>
+    <uuid>e83fd1da-6680-457a-9d42-499804d6d343</uuid>
+  </card>
+  <card>
+    <question>pousser</question>
+    <answer>расти</answer>
+    <comment></comment>
+    <answer_picture>grow.gif</answer_picture>
+    <uuid>afec0719-e37f-4f58-b414-a9d90a968cee</uuid>
+  </card>
+  <card>
+    <question>la feuille</question>
+    <answer>лист, листок (растения)</answer>
+    <comment></comment>
+    <answer_picture>leaf.gif</answer_picture>
+    <uuid>59085a56-0a76-4b8d-b7c0-4b2bc099c9ef</uuid>
+  </card>
+  <card>
+    <question>la rose</question>
+    <answer>роза</answer>
+    <comment></comment>
+    <answer_picture>rose.gif</answer_picture>
+    <uuid>7cdcec53-2e57-457a-b8e1-01a3f41eb891</uuid>
+  </card>
+  <card>
+    <question>l&apos;arbre</question>
+    <answer>дерево</answer>
+    <comment></comment>
+    <answer_picture>tree.gif</answer_picture>
+    <uuid>dc4d3994-f4bc-4247-919e-beccf491ec15</uuid>
+  </card>
+  <card>
+    <question>la souche</question>
+    <answer>пень</answer>
+    <comment></comment>
+    <answer_picture>tree_stump.gif</answer_picture>
+    <uuid>a9225a58-93b3-4758-9e47-5afbd209e4d0</uuid>
+  </card>
+</cards>
+</stack>

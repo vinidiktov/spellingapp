@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>de086894-1a89-4cab-a58c-7a672a5a4248</uuid>
+  <title>Телефон :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>15</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>PhoneticTM</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>llamar</question>
+    <answer>звонить; звать</answer>
+    <comment></comment>
+    <uuid>1a85efb4-1137-461c-8ee0-b36f0eaff9f3</uuid>
+  </card>
+  <card>
+    <question>llamaré</question>
+    <answer>(я) позвоню</answer>
+    <comment></comment>
+    <uuid>7aff5683-0304-4727-b4ca-6d70eeeace3b</uuid>
+  </card>
+  <card>
+    <question>llame</question>
+    <answer>позвоните</answer>
+    <comment></comment>
+    <uuid>22bd7a77-db54-43db-9c98-eb115f0aec57</uuid>
+  </card>
+  <card>
+    <question>ha llamado</question>
+    <answer>(Вы) звонили; (он) звонил, (она) звонила</answer>
+    <comment></comment>
+    <uuid>7909b6b4-90d7-431a-b41f-850d6fb35ae6</uuid>
+  </card>
+  <card>
+    <question>he llamado</question>
+    <answer>(я) звонил</answer>
+    <comment></comment>
+    <uuid>279d82c7-621f-4c21-a88f-bc13c9289ffd</uuid>
+  </card>
+  <card>
+    <question>podría</question>
+    <answer>мог бы</answer>
+    <comment></comment>
+    <uuid>84d93bb6-70e4-42d4-a096-3a9fc9d96e8f</uuid>
+  </card>
+  <card>
+    <question>información</question>
+    <answer>справочная (служба)</answer>
+    <comment>f</comment>
+    <uuid>afd47451-0f2c-45c4-952c-30cc491e9f4f</uuid>
+  </card>
+  <card>
+    <question>centralita del hotel</question>
+    <answer>справочное бюро гостиницы</answer>
+    <comment>f</comment>
+    <uuid>9e38552f-2b30-4dce-b632-b899013297f3</uuid>
+  </card>
+  <card>
+    <question>centralita internacional</question>
+    <answer>международная станция</answer>
+    <comment>f</comment>
+    <uuid>e0a8764d-c886-475e-8abe-5c402d6562f5</uuid>
+  </card>
+  <card>
+    <question>prefijo</question>
+    <answer>код</answer>
+    <comment>m</comment>
+    <uuid>f7c28e28-3a7f-4038-a589-03f243435719</uuid>
+  </card>
+  <card>
+    <question>ciudad</question>
+    <answer>город</answer>
+    <comment>f</comment>
+    <uuid>1f2ce98b-887a-46e9-a6bc-77a53db5d73b</uuid>
+  </card>
+  <card>
+    <question>quisiera</question>
+    <answer>хотел(а) бы</answer>
+    <comment></comment>
+    <uuid>66f9375d-a584-423b-97e4-f9eb55548cd0</uuid>
+  </card>
+  <card>
+    <question>reservar</question>
+    <answer>заказать</answer>
+    <comment></comment>
+    <uuid>49ba279f-9943-477d-993c-e5624db418e0</uuid>
+  </card>
+  <card>
+    <question>llamada</question>
+    <answer>разговор, переговоры</answer>
+    <comment></comment>
+    <uuid>ecd894d8-0dcf-47d5-a41e-e2b62fffba14</uuid>
+  </card>
+  <card>
+    <question>mañana</question>
+    <answer>утро</answer>
+    <comment>f</comment>
+    <uuid>c2417c56-614b-4e2b-8e3b-12b1a1719272</uuid>
+  </card>
+  <card>
+    <question>tarde</question>
+    <answer>вечер</answer>
+    <comment>f</comment>
+    <uuid>2d2eb277-c837-48da-872e-7ec3a19c8622</uuid>
+  </card>
+  <card>
+    <question>más tarde</question>
+    <answer>позже</answer>
+    <comment></comment>
+    <uuid>bad57fda-eee9-4684-9b58-daa83a490829</uuid>
+  </card>
+  <card>
+    <question>vale</question>
+    <answer>стОит (=cuesta)</answer>
+    <comment></comment>
+    <uuid>7b8ca04e-aac0-4ea3-b8b5-da19dfe84c92</uuid>
+  </card>
+  <card>
+    <question>valer</question>
+    <answer>стоить (=costar)</answer>
+    <comment></comment>
+    <uuid>839626b0-4662-49f2-ad2d-981911523041</uuid>
+  </card>
+  <card>
+    <question>minuto</question>
+    <answer>минута</answer>
+    <comment>m</comment>
+    <uuid>eb213194-1da8-42b1-9ceb-e7906e4e25ba</uuid>
+  </card>
+  <card>
+    <question>número</question>
+    <answer>номер</answer>
+    <comment></comment>
+    <uuid>b10cf41b-3067-4d78-bbeb-adc72e5db665</uuid>
+  </card>
+  <card>
+    <question>teléfono</question>
+    <answer>телефон</answer>
+    <comment>m</comment>
+    <uuid>03c1c4ce-2f45-4f86-9609-5f0493cf2b03</uuid>
+  </card>
+  <card>
+    <question>línea</question>
+    <answer>линия</answer>
+    <comment>f</comment>
+    <uuid>707eb919-5e22-4298-8aa2-f570b62bcad9</uuid>
+  </card>
+  <card>
+    <question>ocupado</question>
+    <answer>занятый</answer>
+    <comment></comment>
+    <uuid>efc1bc9a-23e2-481c-af1f-d98e38e3ac37</uuid>
+  </card>
+  <card>
+    <question>ocupada</question>
+    <answer>занятая</answer>
+    <comment></comment>
+    <uuid>4c4cdba0-2d48-41ec-943f-9cfb55cb5efb</uuid>
+  </card>
+  <card>
+    <question>anular</question>
+    <answer>аннулировать, снимать (заказ)</answer>
+    <comment></comment>
+    <uuid>1ea7619d-d03c-40b4-aac0-fc40db8afe2d</uuid>
+  </card>
+  <card>
+    <question>anule</question>
+    <answer>отмените, аннулируйте</answer>
+    <comment></comment>
+    <uuid>33666884-f348-4def-b280-3eb7b2d5db45</uuid>
+  </card>
+  <card>
+    <question>cortar</question>
+    <answer>разъединить, прервать, отключить</answer>
+    <comment></comment>
+    <uuid>e0c93636-bae4-4184-91fb-12006990e868</uuid>
+  </card>
+  <card>
+    <question>se ha cortado</question>
+    <answer>(нас) разъединили</answer>
+    <comment></comment>
+    <uuid>6e6c706f-e169-48f0-a876-e30728402bdd</uuid>
+  </card>
+  <card>
+    <question>comunicación</question>
+    <answer>связь</answer>
+    <comment>f</comment>
+    <uuid>84bc5785-d42c-45d9-b605-7e1e8131065f</uuid>
+  </card>
+  <card>
+    <question>dar</question>
+    <answer>давать</answer>
+    <comment></comment>
+    <uuid>ca8a1830-c333-4b2a-887a-f601d51e0d21</uuid>
+  </card>
+  <card>
+    <question>me han dado</question>
+    <answer>мне дали (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>13d9dcbe-9df4-4f56-ac26-66a14ec5ae45</uuid>
+  </card>
+  <card>
+    <question>equivocado</question>
+    <answer>ошибочный</answer>
+    <comment></comment>
+    <uuid>c3475d89-4250-486a-bf43-26b407e0bed3</uuid>
+  </card>
+  <card>
+    <question>hablar</question>
+    <answer>говорить</answer>
+    <comment></comment>
+    <uuid>c74cf7e5-1864-42fc-8ae5-ab8f472bd3e8</uuid>
+  </card>
+  <card>
+    <question>hable</question>
+    <answer>говорите</answer>
+    <comment></comment>
+    <uuid>cffec62b-d4c3-4702-b062-b33601b042d4</uuid>
+  </card>
+  <card>
+    <question>hola</question>
+    <answer>алло</answer>
+    <comment></comment>
+    <uuid>41705084-e009-4f9c-9111-be50f7dece22</uuid>
+  </card>
+  <card>
+    <question>repita</question>
+    <answer>повторите</answer>
+    <comment></comment>
+    <uuid>aaa676d3-057b-453a-990e-1daeadaeba2d</uuid>
+  </card>
+  <card>
+    <question>repetir</question>
+    <answer>повторять</answer>
+    <comment></comment>
+    <uuid>6f1c0f8b-0d82-4d49-aae2-fd990bf78698</uuid>
+  </card>
+  <card>
+    <question>más alto</question>
+    <answer>громче</answer>
+    <comment></comment>
+    <uuid>51907054-5b56-402d-86f3-91672d40e979</uuid>
+  </card>
+  <card>
+    <question>se oye</question>
+    <answer>слышно</answer>
+    <comment></comment>
+    <uuid>8d78ecfb-6265-43da-985e-995135a51bc3</uuid>
+  </card>
+  <card>
+    <question>mal</question>
+    <answer>плохо</answer>
+    <comment></comment>
+    <uuid>a71eca92-8a6a-4ef7-9a33-15cb194ee222</uuid>
+  </card>
+  <card>
+    <question>muy</question>
+    <answer>очень</answer>
+    <comment></comment>
+    <uuid>30effcdb-338d-4ae1-869f-a0ea38d661eb</uuid>
+  </card>
+  <card>
+    <question>vuelva a llamarme</question>
+    <answer>перезвоните мне</answer>
+    <comment></comment>
+    <uuid>208f0b6a-e64d-4de3-8ef5-509bd4655a7d</uuid>
+  </card>
+  <card>
+    <question>equivocarse</question>
+    <answer>ошибаться</answer>
+    <comment></comment>
+    <uuid>b15f7079-c528-4e93-ab30-b7e79931eec2</uuid>
+  </card>
+  <card>
+    <question>se ha equivocado</question>
+    <answer>(Вы) ошиблись</answer>
+    <comment></comment>
+    <uuid>a649b094-4bfd-4b7e-a9e1-96d1fb400cc6</uuid>
+  </card>
+  <card>
+    <question>que se ponga el señor ...</question>
+    <answer>пригласите к телефону господина ...</answer>
+    <comment></comment>
+    <uuid>9a26a268-74be-415d-ab91-29e339850e3c</uuid>
+  </card>
+  <card>
+    <question>que se ponga la señora ...</question>
+    <answer>пригласите к телефону госпожу ...</answer>
+    <comment></comment>
+    <uuid>1a0b0bad-0f2e-4342-a2cd-2d58bf849629</uuid>
+  </card>
+  <card>
+    <question>apunte</question>
+    <answer>запишите</answer>
+    <comment></comment>
+    <uuid>011eedf9-8f70-4a63-a2a9-97a9c26728dd</uuid>
+  </card>
+  <card>
+    <question>apuntar</question>
+    <answer>записать</answer>
+    <comment></comment>
+    <uuid>0912f9dc-13a4-448f-a116-a0125d44efc6</uuid>
+  </card>
+  <card>
+    <question>lo siento</question>
+    <answer>извините (мне жаль)</answer>
+    <comment></comment>
+    <uuid>0b07f738-259a-4589-9cd3-ca8dd224b224</uuid>
+  </card>
+  <card>
+    <question>querer</question>
+    <answer>хотеть</answer>
+    <comment></comment>
+    <uuid>148871a3-0e0d-459e-ba86-dab471468538</uuid>
+  </card>
+  <card>
+    <question>quiere</question>
+    <answer>(Вы) хотите; (он, она) хочет</answer>
+    <comment></comment>
+    <uuid>7a036bc4-ec8d-459e-8f4d-ecb2f2f950e0</uuid>
+  </card>
+  <card>
+    <question>dar algún recado</question>
+    <answer>что-нибудь передать</answer>
+    <comment>=дать какое-нибудь сообщение</comment>
+    <uuid>f2b0366c-8558-4308-87c4-44bc46d72bf5</uuid>
+  </card>
+  <card>
+    <question>teléfono público</question>
+    <answer>телефон-автомат (=automatico)</answer>
+    <comment>m</comment>
+    <uuid>3603e007-a636-42e3-bea7-efa46abc4e66</uuid>
+  </card>
+  <card>
+    <question>utilizar</question>
+    <answer>пользоваться</answer>
+    <comment></comment>
+    <uuid>221e5b46-f89c-42cf-ac5b-8dd954a361b7</uuid>
+  </card>
+  <card>
+    <question>cambio</question>
+    <answer>мелочь (=suelto)</answer>
+    <comment>m</comment>
+    <uuid>9a0813a2-445e-433a-8a87-ad6d960e06c4</uuid>
+  </card>
+  <card>
+    <question>suelto</question>
+    <answer>мелочь (=cambio)</answer>
+    <comment>m</comment>
+    <uuid>06e97210-ad60-4f67-bd42-d438f3f2c8e4</uuid>
+  </card>
+  <card>
+    <question>automático</question>
+    <answer>телефон-автомат (=telefono publico)</answer>
+    <comment>m</comment>
+    <uuid>fb9feabe-d768-4d43-b44d-150dea7c7ca0</uuid>
+  </card>
+  <card>
+    <question>encargar una conferencia</question>
+    <answer>заказать (междугородный) разговор</answer>
+    <comment></comment>
+    <uuid>25a9407e-27fa-454d-8a1b-fe5ba9a1d828</uuid>
+  </card>
+  <card>
+    <question>conferencia</question>
+    <answer>междугородный телефонный разговор</answer>
+    <comment>f</comment>
+    <uuid>cd9f8e5b-7158-4666-8fcb-68a49895ba09</uuid>
+  </card>
+  <card>
+    <question>costar</question>
+    <answer>стоить (=valer)</answer>
+    <comment></comment>
+    <uuid>b5945684-d1d7-469e-abb0-9f0773dd5834</uuid>
+  </card>
+  <card>
+    <question>cuesta</question>
+    <answer>стОит (=vale)</answer>
+    <comment></comment>
+    <uuid>1d32b3c5-ac10-4a78-911c-8afa58c6300e</uuid>
+  </card>
+  <card>
+    <question>contestar</question>
+    <answer>отвечать</answer>
+    <comment></comment>
+    <uuid>cd9c3b63-7a61-4958-a1a5-c199e9f0ead9</uuid>
+  </card>
+  <card>
+    <question>no contesta</question>
+    <answer>не отвечает</answer>
+    <comment></comment>
+    <uuid>1220e8db-4f49-4bd9-9b50-06efca59cb72</uuid>
+  </card>
+  <card>
+    <question>contesta</question>
+    <answer>отвечает</answer>
+    <comment></comment>
+    <uuid>4df0c959-254e-4d3a-885a-e2eb4d073618</uuid>
+  </card>
+  <card>
+    <question>retirar</question>
+    <answer>снимать (заказ)</answer>
+    <comment></comment>
+    <uuid>e893cbb1-cec7-46d9-bf2b-a3aab04b64e2</uuid>
+  </card>
+  <card>
+    <question>encargo</question>
+    <answer>заказ</answer>
+    <comment>m</comment>
+    <uuid>1e5ba94f-d030-4640-952f-1acab94ced88</uuid>
+  </card>
+  <card>
+    <question>oye</question>
+    <answer>(Вы) слышите; (он, она) слышит</answer>
+    <comment></comment>
+    <uuid>60c09a8e-6061-49bd-b4a1-cec1fbb476ae</uuid>
+  </card>
+  <card>
+    <question>interrumpir</question>
+    <answer>прерывать</answer>
+    <comment></comment>
+    <uuid>5718f3dd-9b8e-4b97-89b6-f21838b95f9e</uuid>
+  </card>
+  <card>
+    <question>han interrumpido</question>
+    <answer>прервали (мн.ч.)</answer>
+    <comment></comment>
+    <uuid>d2098453-e1c9-4053-afae-82b73207500b</uuid>
+  </card>
+  <card>
+    <question>enlazar</question>
+    <answer>соединять</answer>
+    <comment></comment>
+    <uuid>25348943-fca1-4561-9ec7-50e3f8b4abaf</uuid>
+  </card>
+  <card>
+    <question>enlace</question>
+    <answer>соедините</answer>
+    <comment></comment>
+    <uuid>9504cb10-76b5-45b9-8809-953f8aff8a74</uuid>
+  </card>
+  <card>
+    <question>otra vez</question>
+    <answer>ещё раз</answer>
+    <comment></comment>
+    <uuid>fa21834d-0e7b-4752-8d27-8062c02766e9</uuid>
+  </card>
+  <card>
+    <question>perdone</question>
+    <answer>извините</answer>
+    <comment></comment>
+    <uuid>9695ec21-a68c-4077-a9e2-4a0b5843c60d</uuid>
+  </card>
+  <card>
+    <question>esperar</question>
+    <answer>ждать</answer>
+    <comment></comment>
+    <uuid>4b3ee154-b28c-4be8-8bdb-dc8fa7fc3150</uuid>
+  </card>
+  <card>
+    <question>espere</question>
+    <answer>подождите</answer>
+    <comment></comment>
+    <uuid>6179ffbb-e0e3-4e37-a088-d06ca75e3cce</uuid>
+  </card>
+  <card>
+    <question>esperaré</question>
+    <answer>(я) буду ждать</answer>
+    <comment></comment>
+    <uuid>1c1f62c6-1090-4f14-9227-5360342056b8</uuid>
+  </card>
+  <card>
+    <question>un poco</question>
+    <answer>немного</answer>
+    <comment></comment>
+    <uuid>8f05eee7-3391-4a88-8173-a3af24423c09</uuid>
+  </card>
+  <card>
+    <question>funcionar</question>
+    <answer>быть исправным, работать</answer>
+    <comment></comment>
+    <uuid>ccb64fe8-0e8d-4a3f-b621-10d9c5c52d66</uuid>
+  </card>
+  <card>
+    <question>no funciona</question>
+    <answer>(телефон) не работает</answer>
+    <comment></comment>
+    <uuid>0f8d697c-45e5-42c9-851c-487d62d1e6e4</uuid>
+  </card>
+  <card>
+    <question>sonar</question>
+    <answer>звучать, звенеть</answer>
+    <comment></comment>
+    <uuid>dc3a8a0b-1fc9-4f28-a928-3a4ae38e4abb</uuid>
+  </card>
+  <card>
+    <question>timbre</question>
+    <answer>звонок (прибор)</answer>
+    <comment>m</comment>
+    <uuid>e577687b-270d-47f2-9195-81aee51eaa46</uuid>
+  </card>
+  <card>
+    <question>suena</question>
+    <answer>звенит</answer>
+    <comment></comment>
+    <uuid>b6c545d1-5ca5-401f-924b-054ca9c30445</uuid>
+  </card>
+  <card>
+    <question>no suena</question>
+    <answer>не звенит</answer>
+    <comment></comment>
+    <uuid>1dd52c7e-bfb1-4fa8-ab35-1f5b9ef8f553</uuid>
+  </card>
+</cards>
+</stack>

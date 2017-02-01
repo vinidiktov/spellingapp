@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0edeed43-b0ce-430b-acd0-3becae4ee85f</uuid>
+  <title>Банк :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>an international money order</question>
+    <answer>международный денежный перевод</answer>
+    <comment>[ən ˌɪntərˈnæʃqnl ˈmʌniː ˈɔːrdər]</comment>
+    <question_comment>international - международный, money - деньги, order - ордер, заказ</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d95bcec2-9fce-45b5-b1c2-757383be798a</uuid>
+    <examples>
+       <example>
+          <value>May I have an international money order form?</value>
+          <translation>Можно бланк для международного денежного перевода?</translation>
+          <comment>may - мочь, to have - иметь, international - международный, money - деньги, order - ордер, form - бланк, форма</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to cash your check</question>
+    <answer>оплатить ваш чек</answer>
+    <comment>[tə kæʃ jər ʧek]</comment>
+    <question_comment>to cash - обналичивать, check - чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f0437cc-1f61-4922-8304-d3a79ce7fe23</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>currency exchange office</question>
+    <answer>пункт обмена валюты</answer>
+    <comment>[ˈkɜːrənsiː ɪksˈʧeɪnʤ ˈɔːfɪs]</comment>
+    <question_comment>currency - валюта, exchange - обмен, office - офис</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aa8bc12d-64cf-4830-9dc5-ee4eb24b7022</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest currency exchange office?</value>
+          <translation>Где находится ближайший пункт обмена валюты?</translation>
+          <comment>where - где, the nearest - ближайший, currency - валюта, exchange - обмен, office - офис</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>from Russia</question>
+    <answer>из России</answer>
+    <comment>[frʌm ˈrʌʃə]</comment>
+    <question_comment>from - из, Russia - Россия</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>77ac5f0c-eeb9-4871-8ed2-e53f3550851a</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m expecting some money from Russia. Has it arrived yet?</value>
+          <translation>Для меня должны быть деньги из России. Они уже пришли?</translation>
+          <comment>expecting - ожидающий, some - некоторое количество, money - деньги, Russia - Россия, to arrive - прибыть, yet - уже</comment>
+       </example>
+       <example>
+          <value>I&apos;ve come from Russia.</value>
+          <translation>Я приехал из России.</translation>
+          <comment>to come - приехать, from - из, от, Russia - Россия</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>how much</question>
+    <answer>сколько (с неисчисляемыми сущ-ми)</answer>
+    <comment>[hаʊ mʌʧ]</comment>
+    <question_comment>how - как, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>18585f2a-3a47-4986-97b2-24aa92823952</uuid>
+    <examples>
+       <example>
+          <value>How much commission do you charge?</value>
+          <translation>Сколько вы берете за обмен?</translation>
+          <comment>how - как, much - много, commission - комиссия, to charge - взимать (деньги)</comment>
+       </example>
+       <example>
+          <value>How much is the room?</value>
+          <translation>Сколько стоит номер?</translation>
+          <comment>how - как, much - много, room - комната</comment>
+       </example>
+       <example>
+          <value>How much is the rent of an appartment?</value>
+          <translation>Сколько стоит аренда квартиры?</translation>
+          <comment>how - как, much - много, rent - аренда, appartment - апартаменты, квартира</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a house?</value>
+          <translation>Сколько стоит аренда дома?</translation>
+          <comment>how - как, much - много, rent - аренда, house - дом</comment>
+       </example>
+       <example>
+          <value>How much is the rent for a night?</value>
+          <translation>Сколько стоят сутки?</translation>
+          <comment>how - как, much - много, rent - аренда, night - ночь</comment>
+       </example>
+       <example>
+          <value>How much is the rent with breakfast?</value>
+          <translation>Сколько стоит аренда с завтраком?</translation>
+          <comment>how - как, much - много, rent - аренда, breakfast - завтрак</comment>
+       </example>
+       <example>
+          <value>How much is a one-way ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы в один конец?</translation>
+          <comment>how - как, much - много, one - один, way - путь, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How much is a round-trip ticket to Moscow?</value>
+          <translation>Сколько стоит билет до Москвы и обратно?</translation>
+          <comment>how - как, much - много, round - круглый, trip - поездка, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>How much is a ticket for a child of seven?</value>
+          <translation>Сколько стоит билет на ребенка семи лет?</translation>
+          <comment>how - как, much - много, ticket - билет, child - ребенок, seven - семь</comment>
+       </example>
+       <example>
+          <value>How much should I pay for the excess baggage?</value>
+          <translation>Сколько мне нужно доплатить за перевес багажа?</translation>
+          <comment>how - сколько, much - много, should - должен, должна, должны, to pay - платить, excess - избыточный, baggage - вес</comment>
+       </example>
+       <example>
+          <value>How much is a sleeping car ticket?</value>
+          <translation>Сколько стоит билет в спальный вагон?</translation>
+          <comment>how - сколько, much - много, sleeping - спащий, спальный, car - вагон, ticket - билет</comment>
+       </example>
+       <example>
+          <value>How much is the ticket for a five year old child?</value>
+          <translation>Сколько стоит билет на пятилетнего ребенка?</translation>
+          <comment>how - сколько, much - много, ticket - билет, five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+       <example>
+          <value>How much is the rent of a car per day?</value>
+          <translation>Сколько стоит аренда машины в день?</translation>
+          <comment>how - как, much - много, rent - аренда, car - машина, per day - в день</comment>
+       </example>
+       <example>
+          <value>How much will it cost?</value>
+          <translation>Сколько это будет стоить?</translation>
+          <comment>how - как, much - много, it - это, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much do I pay?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, to pay - платить</comment>
+       </example>
+       <example>
+          <value>How much is it per word?</value>
+          <translation>Сколько стоит слово?</translation>
+          <comment>how - как, much - много, it - это, per word - за одно слово</comment>
+       </example>
+       <example>
+          <value>How much will the ride cost?</value>
+          <translation>Сколько будет стоить эта поездка?</translation>
+          <comment>how - как, much - много, ride - поездка, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much do I owe you?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, to owe - быть должным, you - тебе, вам</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит один билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much are seats in the balcony?</value>
+          <translation>Сколько стоят билеты на балкон?</translation>
+          <comment>how - как, much - много, seat - место, balcony - балкон</comment>
+       </example>
+       <example>
+          <value>How much do the tickets cost?</value>
+          <translation>Сколько стоят билеты?</translation>
+          <comment>how - как, much - много, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does one ticket cost?</value>
+          <translation>Сколько стоит билет?</translation>
+          <comment>how - как, much - много, one - один, ticket - билет, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does this book cost?</value>
+          <translation>Сколько стоит эта книга?</translation>
+          <comment>how - как, much - много, this - этот, эта, это, book - книга, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much does it cost?</value>
+          <translation>Сколько это стоит?</translation>
+          <comment>how - как, much - много, it - это, to cost - стоить</comment>
+       </example>
+       <example>
+          <value>How much is this?</value>
+          <translation>Сколько это стоит?</translation>
+          <comment>how - как, much - много, this - это</comment>
+       </example>
+       <example>
+          <value>How much must I pay?</value>
+          <translation>Сколько с меня?</translation>
+          <comment>how - как, much - много, must - быть должным, to pay - платить</comment>
+       </example>
+       <example>
+          <value>How much is for all?</value>
+          <translation>Сколько с меня за все?</translation>
+          <comment>how - как, much - много, all - все</comment>
+       </example>
+       <example>
+          <value>How much is all in all?</value>
+          <translation>Сколько стоит это вместе?</translation>
+          <comment>how - как, much - много, all - все, всё</comment>
+       </example>
+       <example>
+          <value>How much is bicycle rent for five days?</value>
+          <translation>Сколько стоит аренда велосипеда на пять дней?</translation>
+          <comment>how - как, much - много, bicycle - велосипед, rent - арендная плата, five - пять, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in half an hour</question>
+    <answer>через полчаса</answer>
+    <comment>[ɪn hæf ən аʊr]</comment>
+    <question_comment>in - через, half - половина, hour - час</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>90d8e0bc-903a-4548-90a3-7ca5c73b67d7</uuid>
+    <examples>
+       <example>
+          <value>The bank closes in half an hour.</value>
+          <translation>Банк закрывается через полчаса.</translation>
+          <comment>bank - банк, to close - закрываться, half - половина, hour - час</comment>
+       </example>
+       <example>
+          <value>I&apos;m half an hour late.</value>
+          <translation>Я опаздываю на полчаса.</translation>
+          <comment>half - половина, hour - час, late - поздний</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to depend on the sum</question>
+    <answer>зависеть от суммы</answer>
+    <comment>[tə dɪˈpend ɑːn ðə sʌm]</comment>
+    <question_comment>to depend - зависить, sum - сумма</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>786feb44-da8b-4996-a9e6-03ec37af1d4e</uuid>
+    <examples>
+       <example>
+          <value>It depends on the sum of money you deposit.</value>
+          <translation>Это зависит от вкладываемой суммы денег.</translation>
+          <comment>to depend - зависеть, sum - сумма, money - деньги, you - ты, вы, to deposit - вкладывать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>number five</question>
+    <answer>номер 5</answer>
+    <comment>[ˈnʌmbər fаɪv]</comment>
+    <question_comment>number - номер, five - пять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8b4c6b9c-ab2d-459e-b9c2-9ca7d005299e</uuid>
+    <examples>
+       <example>
+          <value>At counter number five.</value>
+          <translation>У пятого окошка.</translation>
+          <comment>counter - окошко (кассы), number - номер, five - пять</comment>
+       </example>
+       <example>
+          <value>At ticket office number five.</value>
+          <translation>В билетной кассе номер пять.</translation>
+          <comment>ticket - билет, office - офис, number - номер, five - пять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>on my current account</question>
+    <answer>на моем текущем счету</answer>
+    <comment>[ɑːn mаɪ ˈkɜːrənt əˈkаʊnt]</comment>
+    <question_comment>current - текущий, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f39b04a-708e-4421-b05b-3a26e63433e5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>personal account</question>
+    <answer>лицевой счет</answer>
+    <comment>[ˈpɜːrsənl əˈkаʊnt]</comment>
+    <question_comment>personal - лицевой, личный, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>04d42e1d-2333-4e5f-80b7-3445678d1f7d</uuid>
+    <examples>
+       <example>
+          <value>How can I transfer money to my personal account in Russia through your bank?</value>
+          <translation>Как я могу через ваш банк перечислить деньги на мой лицевой счет в России?</translation>
+          <comment>how - как, can - мочь, to transfer - перевести, money - деньги, personal - личный, account - счет, Russia - Россия, through - через, посредством, your - твой, ваш, bank - банк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a plastic card</question>
+    <answer>пластиковая карточка</answer>
+    <comment>[ə ˈplæstɪk kɑːrd]</comment>
+    <question_comment>plastic - пластиковый, card - карта, карточка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>039f16aa-3594-49fa-9c5b-8c76cc9126c0</uuid>
+    <examples>
+       <example>
+          <value>Here is my plastic card.</value>
+          <translation>Вот моя пластиковая карточка.</translation>
+          <comment>here - здесь, my - мой, моя, plastic - пластиковый, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>quite enough</question>
+    <answer>вполне достаточно</answer>
+    <comment>[kwаɪt ɪˈnʌf]</comment>
+    <question_comment>quite - вполне, enough - достаточно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b2ad59a3-5443-4d6d-8ebb-9f3d23836a2c</uuid>
+    <examples>
+       <example>
+          <value>It is not quite enough.</value>
+          <translation>Здесь немного не хватает.</translation>
+          <comment>quite - совершенно, полностью, enough - достаточный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>some large notes</question>
+    <answer>несколько крупных купюр</answer>
+    <comment>[sʌm lɑːrʤ noʊts]</comment>
+    <question_comment>some - некоторое количество, large - большой, note - банкнота, купюра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>77f745a4-2f8c-414e-b04d-748cac2c5ae5</uuid>
+    <examples>
+       <example>
+          <value>Give me, please, some notes in large denominations.</value>
+          <translation>Дайте, пожалуйста, несколько крупных купюр.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, note - банкнота, large - большой, denomination - достоинство (банкноты)</comment>
+       </example>
+       <example>
+          <value>Give me some large notes and the rest in small notes.</value>
+          <translation>Дайте мне, пожалуйста, несколько крупных купюр, остальное - мелкими.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, large - большой, note - банкнота, rest - остальной, small - маленький</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>some notes</question>
+    <answer>несколько купюр</answer>
+    <comment>[sʌm noʊts]</comment>
+    <question_comment>some - некоторое количество, note - банкнота, купюра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f1ab0ac6-f962-47a6-835d-10597390d311</uuid>
+    <examples>
+       <example>
+          <value>Give me, please, some notes in large denominations.</value>
+          <translation>Дайте, пожалуйста, несколько крупных купюр.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, note - банкнота, large - большой, denomination - достоинство (банкноты)</comment>
+       </example>
+       <example>
+          <value>Give me some large notes and the rest in small notes.</value>
+          <translation>Дайте мне, пожалуйста, несколько крупных купюр, остальное - мелкими.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, large - большой, note - банкнота, rest - остальной, small - маленький</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>some notes in large denominations</question>
+    <answer>несколько крупных купюр</answer>
+    <comment>[sʌm noʊts ɪn lɑːrʤ dɪˌnɑːməˈneɪʃənz]</comment>
+    <question_comment>some - некоторое количество, note - банкнота, купюра, large - большой, denomination - достоинство (банкноты)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3fa6fd16-915f-4e98-af75-c48de3fd0c21</uuid>
+    <examples>
+       <example>
+          <value>Give me, please, some notes in large denominations.</value>
+          <translation>Дайте, пожалуйста, несколько крупных купюр.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, note - банкнота, large - большой, denomination - достоинство (банкноты)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the commission fee</question>
+    <answer>комиссионный сбор</answer>
+    <comment>[ðə kəˈmɪʃən fiː]</comment>
+    <question_comment>commission - комиссия, fee - плата</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0c920e57-ba8f-446c-b940-29a4d363f415</uuid>
+    <examples>
+       <example>
+          <value>What is the commission fee?</value>
+          <translation>Каков комиссионный сбор?</translation>
+          <comment>what - что, какой, commission - комиссия, fee - плата, сбор</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the highest interest</question>
+    <answer>самый высокий процент</answer>
+    <comment>[ðə ˈhаɪɪst ˈɪntərɪst]</comment>
+    <question_comment>highest - самый высокий, high - высокий, interest - процент</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5de67bc2-5c20-454c-a959-b4c84a367122</uuid>
+    <examples>
+       <example>
+          <value>What is the highest interest?</value>
+          <translation>Какой самый высокий процент?</translation>
+          <comment>what - что, какой, the highest - самый высокий, interest - процент</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the nearest bank</question>
+    <answer>ближайший банк</answer>
+    <comment>[ðə ˈnɪrrɪst bæŋk]</comment>
+    <question_comment>the nearest - ближайший, near - рядом, bank - банк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>79f8359a-2606-47b8-9d72-683889e8c888</uuid>
+    <examples>
+       <example>
+          <value>Where is the nearest bank?</value>
+          <translation>Где находится ближайший банк?</translation>
+          <comment>where - где, the nearest - ближайший, bank - банк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rate of exchange</question>
+    <answer>курс обмена</answer>
+    <comment>[ðə reɪt əv ɪksˈʧeɪnʤ]</comment>
+    <question_comment>rate - ставка, тариф, exchange - обмен</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>73859910-5faf-4045-83f6-ac8caee0864a</uuid>
+    <examples>
+       <example>
+          <value>What is the rate of exchange for the dollar?</value>
+          <translation>Какой курс обмена доллара?</translation>
+          <comment>what - что, какой, rate - показатель, exchange - обмен, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>What&apos;s the exchange rate?</value>
+          <translation>Какой валютный курс?</translation>
+          <comment>what - что, какой, exchange - обмен, rate - показатель</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rate of exchange for the dollar</question>
+    <answer>курс обмена доллара</answer>
+    <comment>[ðə reɪt əv ɪksˈʧeɪnʤ fər ðə ˈdɑːlər]</comment>
+    <question_comment>rate - ставка, тариф, exchange - обмен, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eee074f4-6a0f-42db-86bd-94bca7b8fd8a</uuid>
+    <examples>
+       <example>
+          <value>What is the rate of exchange for the dollar?</value>
+          <translation>Какой курс обмена доллара?</translation>
+          <comment>what - что, какой, rate - показатель, exchange - обмен, dollar - доллар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the rest in small notes</question>
+    <answer>остаток мелкими купюрами</answer>
+    <comment>[ðə rest ɪn smɔːl noʊts]</comment>
+    <question_comment>rest - остальной, оставшийся, small - маленький, note - банкнота</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2b56d34a-a982-4197-bbe5-cd54264b17eb</uuid>
+    <examples>
+       <example>
+          <value>Give me some large notes and the rest in small notes.</value>
+          <translation>Дайте мне, пожалуйста, несколько крупных купюр, остальное - мелкими.</translation>
+          <comment>to give - давать, me - мне, меня, some - некоторый, large - большой, note - банкнота, rest - остальной, small - маленький</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the sum of money</question>
+    <answer>сумма денег</answer>
+    <comment>[ðə sʌm əv ˈmʌniː]</comment>
+    <question_comment>sum - сумма, money - деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>53628927-3083-4203-9d4a-023629990a18</uuid>
+    <examples>
+       <example>
+          <value>It depends on the sum of money you deposit.</value>
+          <translation>Это зависит от вкладываемой суммы денег.</translation>
+          <comment>to depend - зависеть, sum - сумма, money - деньги, you - ты, вы, to deposit - вкладывать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>there is no money left</question>
+    <answer>денег не осталось</answer>
+    <comment>[ðer ɪz noʊ ˈmʌniː left]</comment>
+    <question_comment>there is - есть, имеется (ед. ч.), money - деньги, left - оставшийся</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a8555e92-c5bc-4bb1-91f5-b6396520f45c</uuid>
+    <examples>
+       <example>
+          <value>There is no money left on your current account.</value>
+          <translation>На вашем текущем счету нет денег.</translation>
+          <comment>there is - есть, имеется, money - деньги, left - оставшийся, your - твой, ваш, current - текущий, account - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>through your bank</question>
+    <answer>через ваш банк</answer>
+    <comment>[θruː jər bæŋk]</comment>
+    <question_comment>through - через, your - твой, ваш, bank - банк</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb080350-8794-4711-b852-73863cfcce38</uuid>
+    <examples>
+       <example>
+          <value>How can I transfer money to my personal account in Russia through your bank?</value>
+          <translation>Как я могу через ваш банк перечислить деньги на мой лицевой счет в России?</translation>
+          <comment>how - как, can - мочь, to transfer - перевести, money - деньги, personal - личный, account - счет, Russia - Россия, through - через, посредством, your - твой, ваш, bank - банк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to lose a check</question>
+    <answer>потерять чек</answer>
+    <comment>[tə luːz ə ʧek]</comment>
+    <question_comment>to lose - потерять, check - чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>00d6a4cb-5713-4ca1-974e-c93cd898b69b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to break this into smaller notes</question>
+    <answer>разменять более мелкими купюрами</answer>
+    <comment>[tə breɪk ðɪs ˈɪntuː ˈsmɔːlər noʊts]</comment>
+    <question_comment>to break - сломать, разушить, разбить, this - этот, smaller - более мелкий, small - маленький, note - банкнота</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>386b5cc4-e5f0-46a6-bde8-fc435da62cf3</uuid>
+    <examples>
+       <example>
+          <value>Could you break this into smaller notes?</value>
+          <translation>Вы могли бы разменять более мелкими купюрами?</translation>
+          <comment>could - мог, могли, to break - ломать, this - это, smaller - более мелкий, note - банкнота</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to carry out cash payment</question>
+    <answer>совершить наличный платеж</answer>
+    <comment>[tə ˈkæriː аʊt kæʃ ˈpeɪmənt]</comment>
+    <question_comment>to carry out - совершить, выполнить, cash - наличные деньги, payment - платеж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bc336bc0-34fb-49ef-824a-24edc6a7134a</uuid>
+    <examples>
+       <example>
+          <value>May I carry out cash payment?</value>
+          <translation>Могу я совершить наличный платеж?</translation>
+          <comment>may - мочь, to carry out - выполнить, cash - наличный, payment - платеж</comment>
+       </example>
+       <example>
+          <value>May I carry out non-cash payment?</value>
+          <translation>Могу я совершить безналичный платеж?</translation>
+          <comment>may - мочь, to carry out - выполнить, non-cash - безналичный, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to carry out non-cash payment</question>
+    <answer>совершить безналичный платеж</answer>
+    <comment>[tə ˈkæriː аʊt nɑːn kæʃ ˈpeɪmənt]</comment>
+    <question_comment>to carry out - совершить, выполнить, non-cash - безналичный, payment - платеж</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fef50e39-76d1-47b6-8808-81f4e83afa01</uuid>
+    <examples>
+       <example>
+          <value>May I carry out non-cash payment?</value>
+          <translation>Могу я совершить безналичный платеж?</translation>
+          <comment>may - мочь, to carry out - выполнить, non-cash - безналичный, payment - платеж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change some dollars</question>
+    <answer>обменять доллары</answer>
+    <comment>[tə ʧeɪnʤ sʌm ˈdɑːlərz]</comment>
+    <question_comment>to change - менять, обменять, some - некоторое количество, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>995f954d-3bdc-48aa-a935-4e5ad90a5779</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to change some dollars.</value>
+          <translation>Я хотел бы обменять доллары.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, dollar - доллар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change some money</question>
+    <answer>поменять деньги</answer>
+    <comment>[tə ʧeɪnʤ sʌm ˈmʌniː]</comment>
+    <question_comment>to change - менять, обменять, some - некоторое количество, money - деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aa987828-be3f-44e7-9ec7-7bac7e249ae0</uuid>
+    <examples>
+       <example>
+          <value>Where can I change some money?</value>
+          <translation>Где я могу поменять деньги?</translation>
+          <comment>where - где, can - мочь, to change - менять, some - некоторое количество, money - деньги</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change some pounds</question>
+    <answer>обменять фунты</answer>
+    <comment>[tə ʧeɪnʤ sʌm pаʊndz]</comment>
+    <question_comment>to change - менять, обменять, some - некоторое количество, pound - фунт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>185a3e59-4726-40dc-a77b-d24e71a1b12c</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to change some pounds.</value>
+          <translation>Я хотел бы обменять фунты.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, pounds - фунты</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change some roubles</question>
+    <answer>обменять рубли</answer>
+    <comment>[tə ʧeɪnʤ sʌm ˈruːbəlz]</comment>
+    <question_comment>to change - менять, обменять, some - некоторое количество, rouble - рубль</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>491d747d-7356-4034-93b5-9a168b5d8029</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to change some roubles.</value>
+          <translation>Я хотел бы обменять рубли.</translation>
+          <comment>would like - хотеть, to change - менять, some - некоторое количество, rouble - рубль</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to change traveller&apos;s checks</question>
+    <answer>обменять дорожные чеки</answer>
+    <comment>[tə ʧeɪnʤ ˈtrævələrz ʧeks]</comment>
+    <question_comment>to change - менять, обменять, traveller&apos;s check - дорожный чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0b6a1303-1348-4a4a-bc0c-d3aa153f04c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to check up once more</question>
+    <answer>проверить еще раз</answer>
+    <comment>[tə ʧek ʌp wʌns mɔːr]</comment>
+    <question_comment>to check up - проверить, once more - еще раз</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c46032d-96a5-4dfd-a0d2-01f24939f5c6</uuid>
+    <examples>
+       <example>
+          <value>Check up once more, please.</value>
+          <translation>Проверьте еще раз, пожалуйста.</translation>
+          <comment>to check up - проверить, once more - еще раз</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to deposit this in my account</question>
+    <answer>внести это на мой счет</answer>
+    <comment>[tə dɪˈpɑːzɪt ðɪs ɪn mаɪ əˈkаʊnt]</comment>
+    <question_comment>to deposit - внести (на счет), this - этот, это, my - мой, моя, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e956cc6b-21a9-4c5d-96de-3232b8db6a79</uuid>
+    <examples>
+       <example>
+          <value>I want to deposit this in my account.</value>
+          <translation>Я хотел бы внести это на мой счет.</translation>
+          <comment>to want - хотеть, to deposit - вкладывать, this - это, этот, эта, account - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to exchange dollars for euros</question>
+    <answer>поменять доллары на евро</answer>
+    <comment>[tə ɪksˈʧeɪnʤ ˈdɑːlərz fər ˈjʊəroʊz]</comment>
+    <question_comment>to exchange - поменять, dollar - доллар, euro - евро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aaa30d7d-79fd-4d00-9c58-7cfae80955d2</uuid>
+    <examples>
+       <example>
+          <value>I want to exchange dollars for euros.</value>
+          <translation>Я хочу поменять доллары на евро.</translation>
+          <comment>to want - хотеть, to exchange - поменять, dollar - доллар, euro - евро</comment>
+       </example>
+       <example>
+          <value>I want to exchange euros for dollars.</value>
+          <translation>Я хочу поменять евро на доллары.</translation>
+          <comment>to want - хотеть, to exchange - поменять, dollar - доллар, euro - евро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to exchange euros for dollars</question>
+    <answer>поменять евро на доллары</answer>
+    <comment>[tə ɪksˈʧeɪnʤ ˈjʊəroʊz fər ˈdɑːlərz]</comment>
+    <question_comment>to exchange - поменять, dollar - доллар, euro - евро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b583245d-3947-4a7a-9c8c-a46c12e56c71</uuid>
+    <examples>
+       <example>
+          <value>I want to exchange dollars for euros.</value>
+          <translation>Я хочу поменять доллары на евро.</translation>
+          <comment>to want - хотеть, to exchange - поменять, dollar - доллар, euro - евро</comment>
+       </example>
+       <example>
+          <value>I want to exchange euros for dollars.</value>
+          <translation>Я хочу поменять евро на доллары.</translation>
+          <comment>to want - хотеть, to exchange - поменять, dollar - доллар, euro - евро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to expect some money</question>
+    <answer>ожидать поступления денег</answer>
+    <comment>[tə ɪkˈspekt sʌm ˈmʌniː]</comment>
+    <question_comment>to expect - ожидать, some - некоторое количество, money - деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dcaeb9c5-f44e-4c97-9615-b5898d162ec6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m expecting some money from Russia. Has it arrived yet?</value>
+          <translation>Для меня должны быть деньги из России. Они уже пришли?</translation>
+          <comment>expecting - ожидающий, some - некоторое количество, money - деньги, Russia - Россия, to arrive - прибыть, yet - уже</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have your passport on</question>
+    <answer>иметь с собой (=тобой) паспорт</answer>
+    <comment>[tə hæv jər ˈpæspɔːrt ɑːn]</comment>
+    <question_comment>to have on - иметь с собой, passport - паспорт</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2987e191-62e0-4ceb-93d6-dea9a65ff16b</uuid>
+    <examples>
+       <example>
+          <value>Your passport, please.</value>
+          <translation>Пожалуйста, ваш паспорт.</translation>
+          <comment>your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Show me your passport, please.</value>
+          <translation>Покажите, пожалуйста, ваш паспорт.</translation>
+          <comment>to show - показывать, me - мне, меня, your - твой, ваш, passport - паспорт</comment>
+       </example>
+       <example>
+          <value>Do you have your passport on you?</value>
+          <translation>У вас есть с собой паспорт?</translation>
+          <comment>to have on - иметь с собой, your - твой, ваш, passport - паспорт, you - тебя, тебе, вам, вас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to open a current account</question>
+    <answer>открыть текущий счет</answer>
+    <comment>[tə ˈoʊpən ə ˈkɜːrənt əˈkаʊnt]</comment>
+    <question_comment>to open - открыть, current - текущий, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cf469c07-12f4-49f8-99eb-74678ce950cb</uuid>
+    <examples>
+       <example>
+          <value>May I open a current account?</value>
+          <translation>Могу ли я открыть текущий счет?</translation>
+          <comment>may - мочь, to open - открыть, current - текущий, account - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to open an account</question>
+    <answer>открыть счет</answer>
+    <comment>[tə ˈoʊpən ən əˈkаʊnt]</comment>
+    <question_comment>to open - открыть, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e7b287dd-a83f-4f8c-8ae2-95c04dcbd240</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to open an account.</value>
+          <translation>Я бы хотел открыть счет.</translation>
+          <comment>would like - хотеть, to open - открыть, account - счет</comment>
+       </example>
+       <example>
+          <value>May I open a current account?</value>
+          <translation>Могу ли я открыть текущий счет?</translation>
+          <comment>may - мочь, to open - открыть, current - текущий, account - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to put the date</question>
+    <answer>указать дату</answer>
+    <comment>[tə pʊt ðə deɪt]</comment>
+    <question_comment>to put - ставить, класть, date - дата</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4af6ff4f-f09e-46ca-963c-2ff6907355f0</uuid>
+    <examples>
+       <example>
+          <value>Sign here and put the date, please.</value>
+          <translation>Подпишите тут и поставьте дату, пожалуйста.</translation>
+          <comment>to sign - подписывать, here - здесь, put - класть, ставить, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive money by commercial checks</question>
+    <answer>получить деньги по коммерческим чекам</answer>
+    <comment>[tə rɪˈsiːv ˈmʌniː bаɪ kəˈmɜːrʃəl ʧeks]</comment>
+    <question_comment>to receive - получить, money - деньги, commercial - коммерческий, check - чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cb3ad803-ae96-41c8-9e57-065da49c6581</uuid>
+    <examples>
+       <example>
+          <value>Can I receive money by commercial checks?</value>
+          <translation>Я могу получить деньги по коммерческим чекам?</translation>
+          <comment>can - мочь, to receive - получать, money - деньги, commercial - коммерческий, cheque - чек</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive money by credit card</question>
+    <answer>получить деньги по кредитной карточке</answer>
+    <comment>[tə rɪˈsiːv ˈmʌniː bаɪ ˈkredɪt kɑːrd]</comment>
+    <question_comment>to receive - получить, money - деньги, credit card - кредитная карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>75d99dec-1df6-4520-babd-09125a7f9002</uuid>
+    <examples>
+       <example>
+          <value>Can I receive money by credit card?</value>
+          <translation>Я могу получить деньги по кредитной карточке?</translation>
+          <comment>can - мочь, to receive - получать, money - деньги, credit - кредитный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to receive money by traveller&apos;s checks</question>
+    <answer>получить деньги по дорожным чекам</answer>
+    <comment>[tə rɪˈsiːv ˈmʌniː bаɪ ˈtrævələrz ʧeks]</comment>
+    <question_comment>to receive - получить, money - деньги, traveller&apos;s check - дорожный чек</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c78a6800-42f4-419a-b910-607340f44719</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sign here</question>
+    <answer>подписать здесь</answer>
+    <comment>[tə sаɪn hɪr]</comment>
+    <question_comment>to sign - подписать, here - здесь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e5bf1828-2e30-43f9-8e62-66c3223829ba</uuid>
+    <examples>
+       <example>
+          <value>Sign here, please.</value>
+          <translation>Подпишите здесь.</translation>
+          <comment>to sign - подписывать, here - здесь</comment>
+       </example>
+       <example>
+          <value>Sign here and put the date, please.</value>
+          <translation>Подпишите тут и поставьте дату, пожалуйста.</translation>
+          <comment>to sign - подписывать, here - здесь, put - класть, ставить, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to sign on the back</question>
+    <answer>расписаться на обратной стороне</answer>
+    <comment>[tə sаɪn ɑːn ðə bæk]</comment>
+    <question_comment>to sign - подписать, back - обратная сторона</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c427dd63-6d78-4c03-91fd-412a960414b8</uuid>
+    <examples>
+       <example>
+          <value>Did you sign on the back?</value>
+          <translation>Вы расписались на обратной стороне?</translation>
+          <comment>to sign - подписывать, back - спина, обратная сторона</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to start a credit card</question>
+    <answer>открыть кредитную карточку</answer>
+    <comment>[tə stɑːrt ə ˈkredɪt kɑːrd]</comment>
+    <question_comment>to start - начать, credit card - кредитная карта</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1d785528-c856-482c-9278-fac26caf5252</uuid>
+    <examples>
+       <example>
+          <value>Could I also start a credit card?</value>
+          <translation>Могу я открыть кредитную карточку?</translation>
+          <comment>could - мог, могла, also - также, to start - начать, credit - кредитный, card - карта</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to start a savings account</question>
+    <answer>открыть депозитный счет</answer>
+    <comment>[tə stɑːrt ə ˈseɪvɪŋz əˈkаʊnt]</comment>
+    <question_comment>to start - начать, savings - сбережения, account - счет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>751574d3-be93-499b-8bb1-55edb94c41e4</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to start a savings account.</value>
+          <translation>Я хотел бы открыть депозитный счет.</translation>
+          <comment>would like - хотеть, to start - начать, savings - сбережения, account - счет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to transfer money</question>
+    <answer>перевести деньги</answer>
+    <comment>[tə trænsˈfɜːr ˈmʌniː]</comment>
+    <question_comment>to transfer - перевести, money - деньги</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9dad1464-4cff-4661-a1a5-7f30700aad42</uuid>
+    <examples>
+       <example>
+          <value>How can I transfer money to my personal account in Russia through your bank?</value>
+          <translation>Как я могу через ваш банк перечислить деньги на мой лицевой счет в России?</translation>
+          <comment>how - как, can - мочь, to transfer - перевести, money - деньги, personal - личный, account - счет, Russia - Россия, through - через, посредством, your - твой, ваш, bank - банк</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to withdraw one thousand dollars</question>
+    <answer>снять одну тысячу долларов</answer>
+    <comment>[tə wɪðˈdrɔː wʌn ˈθаʊzənd ˈdɑːlərz]</comment>
+    <question_comment>to withdraw - снять (со счета), thousand - тысяча, dollar - доллар</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f69a9f76-b343-421d-a034-cc7c081cb641</uuid>
+    <examples>
+       <example>
+          <value>I&apos;d like to withdraw one thousand dollars.</value>
+          <translation>Я бы хотел снять одну тысячу долларов.</translation>
+          <comment>would like - хотеть, to withdraw - снять (деньги), one - один, thousand - тысяча, dollar - доллар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to write out the amount in full</question>
+    <answer>писать сумму полностью</answer>
+    <comment>[tə rаɪt аʊt ðiː əˈmаʊnt ɪn fʊl]</comment>
+    <question_comment>to write - писать, amount - количество, full - полный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ba79b93e-87ac-4df3-b964-d733a1ff7419</uuid>
+    <examples>
+       <example>
+          <value>Write out the amount in full.</value>
+          <translation>Пишите сумму полностью.</translation>
+          <comment>to write out - выписать, amount - количество, full - полный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too much</question>
+    <answer>слишком много</answer>
+    <comment>[tuː mʌʧ]</comment>
+    <question_comment>too - слишком, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>98e89e2d-4b90-40ea-bd21-51a0c493a08a</uuid>
+    <examples>
+       <example>
+          <value>This is too much.</value>
+          <translation>Здесь лишние деньги.</translation>
+          <comment>this - это, too - слишком, much - много</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

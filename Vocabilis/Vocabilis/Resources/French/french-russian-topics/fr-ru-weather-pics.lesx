@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>adfca325-fc1d-4c5c-ab60-ee4e55beea7c</uuid>
+  <title>Погода</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le nuage</question>
+    <answer>облако</answer>
+    <comment></comment>
+    <answer_picture>cloud.gif</answer_picture>
+    <uuid>7e95592a-9434-4150-b7b8-a240b2487662</uuid>
+  </card>
+  <card>
+    <question>nuageux</question>
+    <answer>облачный</answer>
+    <comment></comment>
+    <answer_picture>cloudy.gif</answer_picture>
+    <uuid>d56f4804-6883-44bc-88db-9041922ec9a3</uuid>
+  </card>
+  <card>
+    <question>froid</question>
+    <answer>холодный</answer>
+    <comment></comment>
+    <answer_picture>cold.gif</answer_picture>
+    <uuid>73533713-6c4b-4aa5-89c9-0001804d3a15</uuid>
+  </card>
+  <card>
+    <question>la sécheresse</question>
+    <answer>засуха</answer>
+    <comment></comment>
+    <answer_picture>drought.gif</answer_picture>
+    <uuid>180dca5f-db9f-419b-ab4f-3b16707265ca</uuid>
+  </card>
+  <card>
+    <question>sec</question>
+    <answer>сухой</answer>
+    <comment></comment>
+    <answer_picture>dry.gif</answer_picture>
+    <uuid>c797c644-9b1f-4625-b6bc-f8b4bde54cc5</uuid>
+  </card>
+  <card>
+    <question>l&apos;inondation</question>
+    <answer>наводнение</answer>
+    <comment></comment>
+    <answer_picture>flood.gif</answer_picture>
+    <uuid>b2b00636-c2e0-47cd-8a84-e279ba61facf</uuid>
+  </card>
+  <card>
+    <question>le brouillard</question>
+    <answer>туман</answer>
+    <comment></comment>
+    <answer_picture>fog.gif</answer_picture>
+    <uuid>e3a9a339-1ff3-4d68-817a-860dff01081d</uuid>
+  </card>
+  <card>
+    <question>la grêle</question>
+    <answer>град</answer>
+    <comment></comment>
+    <answer_picture>hail.gif</answer_picture>
+    <uuid>88b21900-d9dc-46e5-9fac-68ece36fac4a</uuid>
+  </card>
+  <card>
+    <question>chaud</question>
+    <answer>горячий, жаркий</answer>
+    <comment></comment>
+    <answer_picture>hot.gif</answer_picture>
+    <uuid>2533d1da-673f-46c5-9643-476e0ddb7561</uuid>
+  </card>
+  <card>
+    <question>le glaçon</question>
+    <answer>сосулька</answer>
+    <comment></comment>
+    <answer_picture>icicle.gif</answer_picture>
+    <uuid>c4182372-6e4d-4f07-8dbd-03e934c8ed16</uuid>
+  </card>
+  <card>
+    <question>la foudre</question>
+    <answer>молния</answer>
+    <comment></comment>
+    <answer_picture>lightning.gif</answer_picture>
+    <uuid>32bb4d53-3e0b-45c5-b35f-2663d9bfc378</uuid>
+  </card>
+  <card>
+    <question>l&apos;ombrelle</question>
+    <answer>зонт от солнца</answer>
+    <comment></comment>
+    <answer_picture>parasol.gif</answer_picture>
+    <uuid>c988f38c-ef08-4850-be45-5f458cd656a0</uuid>
+  </card>
+  <card>
+    <question>la flaque</question>
+    <answer>лужа</answer>
+    <comment></comment>
+    <answer_picture>puddle.gif</answer_picture>
+    <uuid>adb9aee7-5f29-4e63-a4cf-5493e1ee9a15</uuid>
+  </card>
+  <card>
+    <question>la pluie</question>
+    <answer>дождь</answer>
+    <comment></comment>
+    <answer_picture>rain.gif</answer_picture>
+    <uuid>b69c84b3-f7d7-4bd1-ac73-c673f677c7df</uuid>
+  </card>
+  <card>
+    <question>l&apos;arc-en-ciel</question>
+    <answer>радуга</answer>
+    <comment></comment>
+    <answer_picture>rainbow.gif</answer_picture>
+    <uuid>5942d08c-b414-4c3e-9931-7eafadfff6e8</uuid>
+  </card>
+  <card>
+    <question>la neige</question>
+    <answer>снег</answer>
+    <comment></comment>
+    <answer_picture>snow.gif</answer_picture>
+    <uuid>b5113a24-8228-420a-bdb6-8125aa7c04dd</uuid>
+  </card>
+  <card>
+    <question>la tempête</question>
+    <answer>гроза</answer>
+    <comment></comment>
+    <answer_picture>storm.gif</answer_picture>
+    <uuid>f6c6bb41-2e59-4030-b46d-6db380185a90</uuid>
+  </card>
+  <card>
+    <question>la lumière du soleil</question>
+    <answer>солнечный свет</answer>
+    <comment></comment>
+    <answer_picture>sunlight.gif</answer_picture>
+    <uuid>89a9e542-33f5-4631-a596-c2b97d79fa84</uuid>
+  </card>
+  <card>
+    <question>le lever du soleil</question>
+    <answer>восход солнца</answer>
+    <comment></comment>
+    <answer_picture>sunrise.gif</answer_picture>
+    <uuid>9ff226d6-6c54-42fd-b588-f2eac2863c5d</uuid>
+  </card>
+  <card>
+    <question>le parapluie</question>
+    <answer>зонт</answer>
+    <comment></comment>
+    <answer_picture>umbrella.gif</answer_picture>
+    <uuid>d5423c80-1400-4f9d-8f37-be75de1afcac</uuid>
+  </card>
+  <card>
+    <question>humide</question>
+    <answer>мокрый</answer>
+    <comment></comment>
+    <answer_picture>wet.gif</answer_picture>
+    <uuid>37c8bd11-9230-4b75-8211-f7026ead8a57</uuid>
+  </card>
+  <card>
+    <question>le vent</question>
+    <answer>ветер</answer>
+    <comment></comment>
+    <answer_picture>wind.gif</answer_picture>
+    <uuid>84d936ef-438f-4909-af00-47fa0c928f23</uuid>
+  </card>
+</cards>
+</stack>

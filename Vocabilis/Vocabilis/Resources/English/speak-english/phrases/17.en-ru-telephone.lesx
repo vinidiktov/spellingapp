@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b437cae4-4708-4b64-afac-d8fb3c243ac4</uuid>
+  <title>Телефон :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Where&apos;s the telephone?</question>
+    <answer>Где телефон?</answer>
+    <comment>[hwerz ðə ˈteləˌfoʊn]</comment>
+    <answer_comment>where - где, telephone - телефон</answer_comment>
+    
+    <uuid>a1efc9cb-5c8d-42d2-83f4-aec9f6a2a8fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the telephone here?</question>
+    <answer>Где здесь телефон?</answer>
+    <comment>[hwer ɪz ðə ˈteləˌfoʊn hɪr]</comment>
+    <answer_comment>where - где, telephone - телефон, here - здесь</answer_comment>
+    
+    <uuid>5c090670-9867-43f1-b298-014533f492d1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to make a phone call.</question>
+    <answer>Мне нужно позвонить.</answer>
+    <comment>[аɪ wɑːnt tə meɪk ə foʊn kɔːl]</comment>
+    <answer_comment>to want - хотеть, to make - сделать, phone - телефон, call - звонок</answer_comment>
+    
+    <uuid>d0f1cbf4-c821-4ac8-8cac-580f61c01511</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to make a long-distance call.</question>
+    <answer>Я бы хотел сделать междугородний звонок.</answer>
+    <comment>[аɪd lаɪk tə meɪk ə lɔːŋ ˈdɪstəns kɔːl]</comment>
+    <answer_comment>would like - хотеть, to make - сделать, long - длинный, distance - расстояние, call - звонок</answer_comment>
+    
+    <uuid>86c21f52-51b5-44be-af8c-af40057a5600</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to make an international call.</question>
+    <answer>Я бы хотел сделать международный звонок.</answer>
+    <comment>[аɪd lаɪk tə meɪk ən ˌɪntərˈnæʃənl kɔːl]</comment>
+    <answer_comment>would like - хотеть, to make - сделать, international - международный, call - звонок</answer_comment>
+    
+    <uuid>bd62b79f-64e4-4448-b685-9d8ef512559d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The area code is 231.</question>
+    <answer>Код (города) 231.</answer>
+    <comment>[ðiː ˈeriːə koʊd ɪz (---)]</comment>
+    <answer_comment>area - территория, пространство, code - код</answer_comment>
+    
+    <uuid>1c45ba7c-da6e-4681-ad31-5a229191169e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy a telephone card?</question>
+    <answer>Где можно купить телефонную карту?</answer>
+    <comment>[hwer kæn аɪ bаɪ ə ˈteləˌfoʊn kɑːrd]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, telephone - телефонный, card - карта</answer_comment>
+    
+    <uuid>fe2bdd57-5acf-4859-bcc2-b20571f03c8e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I make a call from?</question>
+    <answer>Откуда можно позвонить?</answer>
+    <comment>[hwer kæn аɪ meɪk ə kɔːl frəm]</comment>
+    <answer_comment>where - где, can - мочь, to make - сделать, call - звонок, from - от, из</answer_comment>
+    
+    <uuid>a9047c93-511b-40e5-8f6a-88da9d5f3cff</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I use your telephone?</question>
+    <answer>Можно воспользоваться вашим телефоном?</answer>
+    <comment>[meɪ аɪ juːz jər ˈteləˌfoʊn]</comment>
+    <answer_comment>may - мочь, to use - использовать, your - твой, ваш, telephone - телефон</answer_comment>
+    
+    <uuid>0dd493c6-2f6b-4a9b-aaa5-9da7c7ff7544</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s your telephone number?</question>
+    <answer>Какой у вас номер телефона?</answer>
+    <comment>[hwʌts jər ˈteləˌfoʊn ˈnʌmbər]</comment>
+    <answer_comment>what - что, какой, your - твой, ваш, telephone - телефон, number - номер</answer_comment>
+    
+    <uuid>750779b6-5ce0-4cc0-8022-b250a49bf675</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What&apos;s the phone rate for calls to Moscow, please?</question>
+    <answer>Скажите, пожалуйста, каков тариф звонков в Москву?</answer>
+    <comment>[hwʌts ðə foʊn reɪt fər kɔːlz tə ˈmɑːskаʊ pliːz]</comment>
+    <answer_comment>what - что, какой, phone - телефон, rate - показатель, call - звонок, Moscow - Москва</answer_comment>
+    
+    <uuid>6d52c2dc-cc01-4e68-b2db-1eb27eaac9fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s about six dollars for a three minute call.</question>
+    <answer>Это будет стоить около 6 долларов за трехминутный звонок.</answer>
+    <comment>[its əˈbаʊt sɪks ˈdɑːlərz fər ə θriː ˈmɪnɪt kɔːl]</comment>
+    <answer_comment>about - примерно, около, six - шесть, dollar - доллар, three - три, minute - минута, call - звонок</answer_comment>
+    
+    <uuid>861086a5-ab0d-476b-a846-8abee1255f25</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want to buy a card for using a cellphone.</question>
+    <answer>Мне нужна карточка для пользования мобильным телефоном.</answer>
+    <comment>[аɪ wɑːnt tə bаɪ ə kɑːrd fər ˈjuːzɪŋ ə ˈselfoʊn]</comment>
+    <answer_comment>to want - хотеть, to buy - купить, card - карта, using - использование, cellphone - сотовый телефон</answer_comment>
+    
+    <uuid>67ec13fd-ac8d-415b-9064-7812d0159aa3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hello!</question>
+    <answer>Алло!</answer>
+    <comment>[heˈloʊ]</comment>
+    <answer_comment>hello - привет, здравствуй(те)</answer_comment>
+    
+    <uuid>10930760-e931-4bf5-9852-ea7b6b6eac33</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Yes!</question>
+    <answer>Да!</answer>
+    <comment>[jes]</comment>
+    <answer_comment>yes - да</answer_comment>
+    
+    <uuid>bfa21fd3-b24b-417c-a31a-287a7a8f0777</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There&apos;s a call for you.</question>
+    <answer>Вас вызывают к телефону.</answer>
+    <comment>[ðerz ə kɔːl fər jʊ]</comment>
+    <answer_comment>there&apos;s - есть, имеется, call - звонок, for - для, you - тебя, тебе, вам, вас</answer_comment>
+    
+    <uuid>cb771926-c170-46e3-a276-2afa4b82f147</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is Mr. Smith speaking.</question>
+    <answer>Это говорит мистер Смит.</answer>
+    <comment>[ðɪs ɪz ˈmɪstər smɪθ ˈspiːkɪŋ]</comment>
+    <answer_comment>this - это, этот, эта, Mr. Smith - мистер Смит, speaking - говорящий</answer_comment>
+    
+    <uuid>49bc71bc-d3ed-4a01-b149-11130b3794a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is Mr. Smith calling.</question>
+    <answer>Это звонит мистер Смит.</answer>
+    <comment>[ðɪs ɪz ˈmɪstər smɪθ ˈkɔːlɪŋ]</comment>
+    <answer_comment>this - это, этот, эта, Mr. Smith - мистер Смит, calling - звонящий</answer_comment>
+    
+    <uuid>d19e4e94-b48d-4aad-bedb-ea6a1aa641a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Speaking.</question>
+    <answer>Слушаю.</answer>
+    <comment>[ˈspiːkɪŋ]</comment>
+    <answer_comment>speaking - говорящий</answer_comment>
+    
+    <uuid>753970a9-813d-40c5-b5bb-8db3b4204922</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to speak to Mr. Brown.</question>
+    <answer>Я бы хотел поговорить с мистером Брауном.</answer>
+    <comment>[аɪd lаɪk tə spiːk tə ˈmɪstər brаʊn]</comment>
+    <answer_comment>would like - хотеть, to speak - говорить, Mr. Brown - мистер Браун</answer_comment>
+    
+    <uuid>938b29bc-1e3c-4d42-924b-5c9f9adf61ea</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hello! Can I speak to Mr. Brown?</question>
+    <answer>Алло! Могу я поговорить с мистером Брауном?</answer>
+    <comment>[heˈloʊ kæn аɪ spiːk tə ˈmɪstər brаʊn]</comment>
+    <answer_comment>hello - привет, здравствуй(те), can - мочь, to speak - говорить, Mr. Brown - мистер Браун</answer_comment>
+    
+    <uuid>767e3f60-9b82-45b3-b64d-2230853ac9f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I have a word with Mr. Brown?</question>
+    <answer>Можно переговорить с мистером Брауном?</answer>
+    <comment>[meɪ аɪ hæv ə wɜːrd wɪð ˈmɪstər brаʊn]</comment>
+    <answer_comment>may - мочь, to have - иметь, word - слово, Mr. Brown - мистер Браун</answer_comment>
+    
+    <uuid>6082ba90-ae96-4e01-bd15-31e5a7e42bfe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You&apos;ve got the wrong number.</question>
+    <answer>Вы ошиблись номером.</answer>
+    <comment>[juːv gɑːt ðə rɔːŋ ˈnʌmbər]</comment>
+    <answer_comment>to get - получать, достать, wrong - неправильный, number - номер</answer_comment>
+    
+    <uuid>69139504-4eec-4656-a10c-51267a1ede40</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This number in no longer valid.</question>
+    <answer>Этот номер сменился.</answer>
+    <comment>[ðɪs ˈnʌmbər ɪn noʊ lɔːŋər ˈvælɪd]</comment>
+    <answer_comment>this - этот, эта, это, number - номер, longer - дольше, больше, valid - действительный</answer_comment>
+    
+    <uuid>fb1dd7a1-c631-407f-90cc-9e6b826ba84b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hold on, please.</question>
+    <answer>Одну минуточку.</answer>
+    <comment>[hoʊld ɑːn pliːz]</comment>
+    <answer_comment>to hold on - оставаться на линии</answer_comment>
+    
+    <uuid>92fbb54d-edda-4492-a497-3a27ec3c7ba9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hold the line, please.</question>
+    <answer>Подождите, пожалуйста.</answer>
+    <comment>[hoʊld ðə lаɪn pliːz]</comment>
+    <answer_comment>to hold - держать, line - линия</answer_comment>
+    
+    <uuid>e505123b-172a-4a44-9784-e716993b4e48</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;s out at the moment.</question>
+    <answer>Его сейчас нет.</answer>
+    <comment>[hiz аʊt ət ðə ˈmoʊmənt]</comment>
+    <answer_comment>out - отсутствующий, moment - момент</answer_comment>
+    
+    <uuid>861be9e2-67fb-4ce2-9212-7747cbe05cdf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m afraid Mr. Jones is out at the moment.</question>
+    <answer>Боюсь, мистер Джонс сейчас отсутствует.</answer>
+    <comment>[аɪm əˈfreɪd ˈmɪstər ʤoʊnz ɪz аʊt ət ðə ˈmoʊmənt]</comment>
+    <answer_comment>afraid - боязливый, опасающийся, Mr. Jones - мистер Джонс, out - отсутствующий, moment - момент</answer_comment>
+    
+    <uuid>466bdf29-3f19-4455-a44a-c57f2c674834</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will he be at the place?</question>
+    <answer>Когда он будет на месте?</answer>
+    <comment>[hwen wɪl hiː biː ət ðə pleɪs]</comment>
+    <answer_comment>when - когда, he - он, to be - быть, place - место</answer_comment>
+    
+    <uuid>a9a4f024-cc9b-4197-8b38-b7868d2df8fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please call again later.</question>
+    <answer>Пожалуйста, перезвоните позже.</answer>
+    <comment>[pliːz kɔːl əˈgen ˈleɪtər]</comment>
+    <answer_comment>to call - звонить, again - снова, later - позже</answer_comment>
+    
+    <uuid>a1edc2c6-09aa-47bc-8979-009f4fd3f4ad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you ask him to call me back?</question>
+    <answer>Пожалуйста, попросите его перезвонить мне.</answer>
+    <comment>[kʊd jʊ æsk hɪm tə kɔːl ˈmiː bæk]</comment>
+    <answer_comment>could - мог, могла, могли, you - ты, вы, to ask - просить, him - его, to call - звонить, me - мне, меня, back - обратно</answer_comment>
+    
+    <uuid>01b56e33-bd71-4c5a-85fd-6d3a6feed9aa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will he be at home?</question>
+    <answer>Когда он будет дома?</answer>
+    <comment>[hwen wɪl hiː biː ət hoʊm]</comment>
+    <answer_comment>when - когда, he - он, to be - быть, home - дом</answer_comment>
+    
+    <uuid>924a5976-8c17-482b-b0c7-29187e69ef64</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When will he be back?</question>
+    <answer>Когда он вернется?</answer>
+    <comment>[hwen wɪl hiː biː bæk]</comment>
+    <answer_comment>when - когда, he - он, to be - быть, back - обратно</answer_comment>
+    
+    <uuid>151c073b-1cc6-473e-85a4-9b56adeb53fb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, who am I speaking to?</question>
+    <answer>Простите, с кем я говорю?</answer>
+    <comment>[ˈsɑːriː huː æm аɪ ˈspiːkɪŋ tu]</comment>
+    <answer_comment>sorry - прости(те), who - кто, speaking - говорящий</answer_comment>
+    
+    <uuid>ad178b27-560d-4d85-aed0-9813e5cdf304</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s speaking?</question>
+    <answer>Кто говорит?</answer>
+    <comment>[huːz ˈspiːkɪŋ]</comment>
+    <answer_comment>who - кто, speaking - говорящий</answer_comment>
+    
+    <uuid>ea86a3c9-b648-49bf-bf37-29a41dfa2cd6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who&apos;s calling, please?</question>
+    <answer>Кто звонит?</answer>
+    <comment>[huːz ˈkɔːlɪŋ pliːz]</comment>
+    <answer_comment>who - кто, calling - звонящий</answer_comment>
+    
+    <uuid>9da48789-f2f0-45da-b06f-e38f3eb2f8f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please tell him that John Smith called.</question>
+    <answer>Передайте ему, пожалуйста, что звонил Джон Смит.</answer>
+    <comment>[pliːz tel hɪm ðæt ʤɑːn smɪθ kɔːld]</comment>
+    <answer_comment>to tell - сказать, him - ему, его, that - что, John Smith - Джон Смит, to call - звонить</answer_comment>
+    
+    <uuid>74240712-1567-4e19-959d-622bb9e6386b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will you tell him I called?</question>
+    <answer>Передайте ему, пожалуйста, что я звонил.</answer>
+    <comment>[wɪl jʊ tel hɪm аɪ kɔːld]</comment>
+    <answer_comment>to tell - сказать, him - ему, его, to call - звонить</answer_comment>
+    
+    <uuid>7d05177e-f9bc-4dbd-b276-c458fdbdb298</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you ask him to call me?</question>
+    <answer>Попросите его, пожалуйста, позвонить мне.</answer>
+    <comment>[wʊd jʊ æsk hɪm tə kɔːl ˈmiː]</comment>
+    <answer_comment>to ask - просить, him - ему, его, to call - звонить, me - мне, меня</answer_comment>
+    
+    <uuid>b86482b3-754f-4575-a663-52a01afde566</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Please tell him that I&apos;m waiting for his call.</question>
+    <answer>Пожалуйста, передайте ему, что я ожидаю его звонка.</answer>
+    <comment>[pliːz tel hɪm ðæt аɪm ˈweɪtiːŋ fər hɪz kɔːl]</comment>
+    <answer_comment>to tell - сказать, him - ему, его, that - что, waiting - ожадающий, his - его, call - звонок</answer_comment>
+    
+    <uuid>66853cac-83f6-4389-8288-cb081d8d6114</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My telephone number is ...</question>
+    <answer>Мой номер телефона ....</answer>
+    <comment>[mаɪ ˈteləˌfoʊn ˈnʌmbər ɪz ...]</comment>
+    <answer_comment>telephone - телефон, number - номер</answer_comment>
+    
+    <uuid>6d9436fe-4767-43fd-ad54-526d4dbb3e3e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Would you take a message, please?</question>
+    <answer>Вы не передадите ему сообщение?</answer>
+    <comment>[wʊd jʊ teɪk ə ˈmesɪʤ pliːz]</comment>
+    <answer_comment>to take - брать, взять, message - сообщение</answer_comment>
+    
+    <uuid>ec80b00c-8375-4338-8d50-13344a0aa50b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Just a minute!</question>
+    <answer>Минуточку!</answer>
+    <comment>[ʤʌst ə ˈmɪnɪt]</comment>
+    <answer_comment>just - только, совсем, minute - минута</answer_comment>
+    
+    <uuid>65cfdc88-1cc7-41cc-9df6-3bb35c7294dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Just a moment, please!</question>
+    <answer>Одну секунду...</answer>
+    <comment>[ʤʌst ə ˈmoʊmənt pliːz]</comment>
+    <answer_comment>just - только, совсем, moment - момент</answer_comment>
+    
+    <uuid>33f86f3f-feae-4d7a-8aff-2feb0cb52059</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Will you wait, please?</question>
+    <answer>Подождете?</answer>
+    <comment>[wɪl jʊ weɪt pliːz]</comment>
+    <answer_comment>to wait - ждать</answer_comment>
+    
+    <uuid>c50621ef-322c-4d92-a2c7-b1b05bf58014</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Wait, please, I&apos;ll take a pen.</question>
+    <answer>Подождите, пожалуйста, я возьму ручку.</answer>
+    <comment>[weɪt pliːz аɪl teɪk ə pen]</comment>
+    <answer_comment>to wait - ждать, to take - брать, взять, pen - ручка</answer_comment>
+    
+    <uuid>02ce17b8-9890-4b7b-888f-393de41c5811</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry to have kept you waiting.</question>
+    <answer>Извините, что заставил вас ждать.</answer>
+    <comment>[ˈsɑːriː tə hæv kept jʊ ˈweɪtiːŋ]</comment>
+    <answer_comment>sorry - пости(те), to keep - держать, сохранять, you - тебя, вас, waiting - ожидающий</answer_comment>
+    
+    <uuid>4235d93c-f6ab-47f5-be4f-b60c8ccde980</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll call you back in ten minutes.</question>
+    <answer>Я перезвоню вам через 10 минут.</answer>
+    <comment>[аɪl kɔːl jʊ bæk ɪn ten ˈmɪnɪts]</comment>
+    <answer_comment>to call - звонить, back - обратно, ten - десять, minute - минут</answer_comment>
+    
+    <uuid>a2c9a144-f3ac-4e52-be3e-f607fef96765</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll call again.</question>
+    <answer>Я перезвоню.</answer>
+    <comment>[аɪl kɔːl əˈgen]</comment>
+    <answer_comment>to call - звонить, again - снова</answer_comment>
+    
+    <uuid>07492168-d012-4b89-9c12-8ae2ac85db3d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll call later.</question>
+    <answer>Я позвоню попозже.</answer>
+    <comment>[аɪl kɔːl ˈleɪtər]</comment>
+    <answer_comment>to call - звонить, later - позже</answer_comment>
+    
+    <uuid>520eb252-6096-4495-a5bf-f1e0538cf2cd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ll get back to you soon.</question>
+    <answer>Я вскоре перезвоню вам.</answer>
+    <comment>[аɪl get bæk tə jʊ suːn]</comment>
+    <answer_comment>to get - добираться, получать, back - обратно, soon - скоро</answer_comment>
+    
+    <uuid>60c71ce0-f583-49a0-82f9-c55ac5a2f90d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I don&apos;t understand.</question>
+    <answer>Я не понимаю.</answer>
+    <comment>[аɪ doʊnt ˌʌndərˈstænd]</comment>
+    <answer_comment>to understand - понимать</answer_comment>
+    
+    <uuid>3d7ffa2c-e59c-4f19-a85d-e8fee9fc3fa0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I can&apos;t hear what you are saying.</question>
+    <answer>Я не слышу, что вы говорите.</answer>
+    <comment>[аɪ kænt hɪr hwʌt jʊ ɑːr ˈseɪɪŋ]</comment>
+    <answer_comment>can - мочь, to hear - слышать, what - что, you - ты, вы, saying - говорящий</answer_comment>
+    
+    <uuid>bd6f1cee-9ac0-4e6e-af29-eeb6fa529b18</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Do you speak Russian?</question>
+    <answer>Вы говорите по-русски?</answer>
+    <comment>[duː jʊ spiːk ˈrʌʃən]</comment>
+    <answer_comment>to speak - говорить, Russian - по-русски</answer_comment>
+    
+    <uuid>97fb3c60-6659-41f2-8cca-75b33d33b1bb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you speak louder?</question>
+    <answer>Не могли бы вы говорить громче?</answer>
+    <comment>[kʊd jʊ spiːk ˈlаʊdə]</comment>
+    <answer_comment>could - мог, могла, могли, to speak - говорить, louder - громче</answer_comment>
+    
+    <uuid>33e95199-b912-4859-89b6-8879be6d8406</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you speak more slowly?</question>
+    <answer>Не могли бы вы говорить медленнее?</answer>
+    <comment>[kʊd jʊ spiːk mɔːr ˈsloʊli]</comment>
+    <answer_comment>could - мог, могла, могли, to speak - говорить, more - больше, slowly - медленно</answer_comment>
+    
+    <uuid>0d8da6dc-c589-4110-82d9-2a729e19a607</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Could you spell it?</question>
+    <answer>Не могли бы вы произнести это по буквам?</answer>
+    <comment>[kʊd jʊ spel ɪt]</comment>
+    <answer_comment>could - мог, могла, могли, to spell - произнести по буквам, it - это</answer_comment>
+    
+    <uuid>fe5f992a-8f42-45e0-9329-b21392c6a881</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m putting Mr. Brown on the line.</question>
+    <answer>Я соединяю вас с мистером Брауном.</answer>
+    <comment>[аɪm ˈpʊtɪŋ ˈmɪstər brаʊn ɑːn ðə lаɪn]</comment>
+    <answer_comment>to put - ставить, класть, Mr. Brown - мистер, Браун, line - линия</answer_comment>
+    
+    <uuid>3debfa3f-7c87-4df0-82f2-43438b3bbd5b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry to have troubled you.</question>
+    <answer>Простите, что побеспокоил вас.</answer>
+    <comment>[ˈsɑːriː tə hæv ˈtrʌbəld jʊ]</comment>
+    <answer_comment>sorry - прости(те), to trouble - мешать, беспокоить, you - тебя, вас</answer_comment>
+    
+    <uuid>b8611f91-563a-46f4-8be4-8488600b9a39</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We have been interrupted.</question>
+    <answer>Нас прервали.</answer>
+    <comment>[wiː hæv bɪn ˌɪntəˈrʌptɪd]</comment>
+    <answer_comment>to interrupt - прерывать, перебивать</answer_comment>
+    
+    <uuid>7b535932-070a-4188-a865-182c14cddda5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I got cut off.</question>
+    <answer>Меня разъединили.</answer>
+    <comment>[аɪ gɑːt kʌt ɔːf]</comment>
+    <answer_comment>to get - становиться, cut off - отрезанный, оборванный</answer_comment>
+    
+    <uuid>2e36ccf5-3454-4086-80df-dc7b601b76bc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I can&apos;t get through.</question>
+    <answer>Я не могу дозвониться.</answer>
+    <comment>[аɪ kænt get θruː]</comment>
+    <answer_comment>can - мочь, to get - пробраться, through - через, сквозь</answer_comment>
+    
+    <uuid>c0794219-1fcc-4097-8cb8-022f85ff891a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The line&apos;s busy.</question>
+    <answer>Линия занята.</answer>
+    <comment>[ðə lаɪnz ˈbɪziː]</comment>
+    <answer_comment>line - линия, busy - занятый</answer_comment>
+    
+    <uuid>1e2c7598-d201-4bb2-9ad5-3e604b03814d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There&apos;s no answer.</question>
+    <answer>Никто не отвечает.</answer>
+    <comment>[ðerz noʊ ˈænsər]</comment>
+    <answer_comment>there&apos;s - есть, имеется, answer - ответ</answer_comment>
+    
+    <uuid>8f0b9102-c6d6-462c-9bee-5895a59bccd0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>There&apos;s no reply at his number.</question>
+    <answer>По его номеру никто не отвечает.</answer>
+    <comment>[ðerz noʊ riːˈplаɪ ət hɪz ˈnʌmbər]</comment>
+    <answer_comment>there&apos;s - есть, reply - ответ, his - его, number - номер</answer_comment>
+    
+    <uuid>4d4d8bb0-6dd6-4e61-a5f2-435bd3b0ac72</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The phone is out of order.</question>
+    <answer>Телефон не работает.</answer>
+    <comment>[ðə foʊn ɪz аʊt əv ˈɔːrdər]</comment>
+    <answer_comment>phone - телефон, out - вне, из, order - порядок</answer_comment>
+    
+    <uuid>cd38e5e3-460c-45ac-a57c-cb6ea958e887</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thanks for calling.</question>
+    <answer>Спасибо за звонок.</answer>
+    <comment>[θæŋks fər ˈkɔːlɪŋ]</comment>
+    <answer_comment>thanks - спасибо, calling - звонок</answer_comment>
+    
+    <uuid>3065e6f0-7665-4d24-bf12-705554a22908</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>All right. Thank you.</question>
+    <answer>Хорошо. Спасибо.</answer>
+    <comment>[ɔːl rаɪt θæŋk jʊ]</comment>
+    <answer_comment>all - все, всё, right - правильный, to thank - благодарить, you - тебя, вас</answer_comment>
+    
+    <uuid>f3b8fe04-9cca-433e-83cf-d4b358ed106c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thanks a lot. Goodbye.</question>
+    <answer>Большое спасибо. До свидания.</answer>
+    <comment>[θæŋks ə lɑːt ˌgʊdˈbаɪ]</comment>
+    <answer_comment>thanks - спасибо, a lot - много, goodbye - до свидания</answer_comment>
+    
+    <uuid>87425a95-68f6-48f7-b16d-c78422772ce0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Goodbye!</question>
+    <answer>До свидания!</answer>
+    <comment>[ˌgʊdˈbаɪ]</comment>
+    <answer_comment>goodbye - до свидания</answer_comment>
+    
+    <uuid>405d1f51-d9b0-4a7f-93d7-d1ca09ff948b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>All the best!</question>
+    <answer>Всего хорошего!</answer>
+    <comment>[ɔːl ðə best]</comment>
+    <answer_comment>all - все, всё, the best - лучшее</answer_comment>
+    
+    <uuid>b9758773-09d5-4893-8074-80c7c5c5e338</uuid>
+  </card>
+</cards>
+</stack>

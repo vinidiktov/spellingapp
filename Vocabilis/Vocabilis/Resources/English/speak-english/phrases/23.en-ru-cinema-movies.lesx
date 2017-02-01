@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4f57c02e-eadd-45e5-a3f3-552ac3c24b1c</uuid>
+  <title>Кино :: Фразы</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>I want to go to the movies.</question>
+    <answer>Я хочу пойти в кино.</answer>
+    <comment>[аɪ wɑːnt tə goʊ tə ðə ˈmuːviːz]</comment>
+    <answer_comment>to want - хотеть, to go - идти, movie - кино</answer_comment>
+    
+    <uuid>001b8241-e6e6-447f-a244-9db9b60ad997</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let&apos;s go to the movies.</question>
+    <answer>Пойдемте в кино.</answer>
+    <comment>[lets goʊ tə ðə ˈmuːviːz]</comment>
+    <answer_comment>let&apos;s - давай(те), to go - идти, movie - кино</answer_comment>
+    
+    <uuid>05caf76e-8423-4884-b60d-3b76538ff4dd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a new feature film.</question>
+    <answer>Я бы хотел посмотреть новый художественный фильм.</answer>
+    <comment>[аɪd lаɪk tə siː ə nuː ˈfiːʧər fɪlm]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, new - новый, feature film - художественный фильм</answer_comment>
+    
+    <uuid>c503cd65-5451-4304-aae6-b95ec53d68cc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a love story.</question>
+    <answer>Я бы хотел посмотреть любовную историю.</answer>
+    <comment>[аɪd lаɪk tə siː ə lʌv ˈstɔːriː]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, love - любовь, story - история</answer_comment>
+    
+    <uuid>de3fb6bd-be0c-45b1-a531-e8a0de8248b5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a new historical.</question>
+    <answer>Я бы хотел посмотреть новый исторический фильм.</answer>
+    <comment>[аɪd lаɪk tə siː ə nuː hɪˈstɔːrɪkəl]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, new - новый, historical - исторический</answer_comment>
+    
+    <uuid>7c60a0bd-3209-4794-bf0f-a6ebb7c78f18</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a comedy.</question>
+    <answer>Я бы хотел посмотреть комедию.</answer>
+    <comment>[аɪd lаɪk tə siː ə ˈkɑːmɪdiː]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, comedy - комедия</answer_comment>
+    
+    <uuid>f1f7c862-bcc4-4ad7-a6c5-44666ad9d5b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a cartoon.</question>
+    <answer>Я бы хотел посмотреть мультфильм.</answer>
+    <comment>[аɪd lаɪk tə siː ə kɑːrˈtuːn]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, cartoon - мультфильм</answer_comment>
+    
+    <uuid>60c26fb5-1c42-4c64-b193-33bbb20d153e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a detective.</question>
+    <answer>Я бы хотел посмотреть детектив.</answer>
+    <comment>[аɪd lаɪk tə siː ə dɪˈtektɪv]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, detective - детектив</answer_comment>
+    
+    <uuid>5a038e07-bbe1-44e6-a146-ab2d0b55e2f5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a science fiction movie.</question>
+    <answer>Я бы хотел посмотреть научно-фантастический фильм.</answer>
+    <comment>[аɪd lаɪk tə siː ə ˈsаɪəns ˈfɪkʃən ˈmuːviː]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, science - наука, научный, fiction - фантастика, movie - кино</answer_comment>
+    
+    <uuid>c0e8c514-2918-42a6-b3d1-d163f4d29069</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a horror movie.</question>
+    <answer>Я бы хотел посмотреть ужастик.</answer>
+    <comment>[аɪd lаɪk tə siː ə ˈhɔːrər ˈmuːviː]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, horror - ужас, movie - кино</answer_comment>
+    
+    <uuid>c825ba26-aa3d-4fd4-a163-901b93ad52c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;d like to see a thriller.</question>
+    <answer>Я бы хотел посмотреть триллер.</answer>
+    <comment>[аɪd lаɪk tə siː ə ˈθrɪlər]</comment>
+    <answer_comment>would like - хотеть, to see - смотреть, thriller - триллер</answer_comment>
+    
+    <uuid>cfe7686d-a750-42a9-878c-1a8f5df7d3f9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s a foreign film with Russian subtitles.</question>
+    <answer>Это иностранный фильм с русскими субтитрами.</answer>
+    <comment>[ɪts ə ˈfɔːrɪn fɪlm wɪð ˈrʌʃən ˈsʌbˌtаɪtəlz]</comment>
+    <answer_comment>it - это, foreign - иностранный, film - фильм, Russian - русский, subtitles - субтитры</answer_comment>
+    
+    <uuid>be563520-5468-4fa2-b371-2c0121158ad5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What languages is the film dubbed in?</question>
+    <answer>На каких языках дублирован фильм?</answer>
+    <comment>[hwʌt ˈlæŋgwɪʤɪz ɪz ðə fɪlm dʌbd ɪn]</comment>
+    <answer_comment>what - что, какой, language - язык, film - фильм, dubbed - дублированный</answer_comment>
+    
+    <uuid>6ec0a1aa-5e98-4c9d-b46b-cd5625bdaab6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The film won the first prize at the Film Festival.</question>
+    <answer>Этот фильм завоевал первую премию на кинофестивале.</answer>
+    <comment>[ðə fɪlm wʌn ðə fɜːrst prаɪz ət ðə fɪlm ˈfestəvəl]</comment>
+    <answer_comment>film - фильм, to win - выиграть, first - первый, prize - премия, festival - фестиваль</answer_comment>
+    
+    <uuid>0c47efad-e60a-4844-97b1-d9e8e4be1aa4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can you come to the movies with me?</question>
+    <answer>Вы можете пойти со мной в кино?</answer>
+    <comment>[kæn jʊ kʌm tə ðə ˈmuːviːz wɪð ˈmiː]</comment>
+    <answer_comment>can - мочь, you - ты, вы, to come - приходить, movie - кино, with - с (кем-л.), me - мне, меня</answer_comment>
+    
+    <uuid>70e4d36a-b000-455c-87a3-7e26d11c6505</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What kind of films do you like?</question>
+    <answer>Какие фильмы вам нравятся?</answer>
+    <comment>[hwʌt kаɪnd əv fɪlmz duː jʊ lаɪk]</comment>
+    <answer_comment>what - что, какой, kind - род, вид, film - фильм, you - ты, вы, to like - любить, нравиться</answer_comment>
+    
+    <uuid>41ea87be-f706-4833-aeb5-1805899853a6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Is there a movie theater nearby?</question>
+    <answer>Есть здесь поблизости кинотеатр?</answer>
+    <comment>[ɪz ðer ə ˈmuːviː ˈθɪətər ˈnɪrˈbаɪ]</comment>
+    <answer_comment>there is - есть, имеется, movie - кино, theater - театр, nearby - рядом</answer_comment>
+    
+    <uuid>9d24b0bc-3790-4357-bee5-a2263daa0bdc</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What are they showing today?</question>
+    <answer>Что сегодня идет?</answer>
+    <comment>[hwʌt ɑːr ðeɪ ˈʃoʊɪŋ təˈdeɪ]</comment>
+    <answer_comment>what - что, they - они, showing - показывающий, today - сегодня</answer_comment>
+    
+    <uuid>89e61f05-91df-4e2a-ae7b-40d5403cdfbd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Whose film is it?</question>
+    <answer>Чей это фильм?</answer>
+    <comment>[huːz fɪlm ɪz ɪt]</comment>
+    <answer_comment>whose - чей, film - фильм, it - это</answer_comment>
+    
+    <uuid>523e126b-5efa-4ead-a083-2467b1086b29</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who is the director?</question>
+    <answer>Кто режиссёр?</answer>
+    <comment>[huː ɪz ðə dɪˈrektər]</comment>
+    <answer_comment>who - кто, director - директор</answer_comment>
+    
+    <uuid>c40bebe8-f60a-4bb5-b069-47d059fd4cca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who is the producer?</question>
+    <answer>Кто продюссер?</answer>
+    <comment>[huː ɪz ðə prəˈduːsər]</comment>
+    <answer_comment>who - кто, producer - продюссер</answer_comment>
+    
+    <uuid>716aec01-b41b-4055-8515-13216c4db36b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who wrote the script?</question>
+    <answer>Кто написал сценарий?</answer>
+    <comment>[huː roʊt ðə skrɪpt]</comment>
+    <answer_comment>who - кто, to write - писать, script - сценарий</answer_comment>
+    
+    <uuid>fbde1846-8d43-4302-a073-bfe77453ccd9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who wrote music for the film?</question>
+    <answer>Кто написал музыку к фильму?</answer>
+    <comment>[huː roʊt ˈmjuːzɪk fər ðə fɪlm]</comment>
+    <answer_comment>who - кто, to write - писать, music - музыка, film - фильм</answer_comment>
+    
+    <uuid>f2d803b2-3d6e-4079-a480-81d80e404889</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who stars in the film?</question>
+    <answer>Кто играет главные роли?</answer>
+    <comment>[huː stɑːrz ɪn ðə fɪlm]</comment>
+    <answer_comment>who - кто, to star - исполнять главную роль, film - фильм</answer_comment>
+    
+    <uuid>a9d13243-04ad-4427-bda2-dad749605232</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Who is your favorite movie star?</question>
+    <answer>Кто ваш любимый(ая) актер (актриса)?</answer>
+    <comment>[huː ɪz jər ˈfeɪvərɪt ˈmuːviː stɑːr]</comment>
+    <answer_comment>who - кто, your - твой, ваш, favorite - любимый, movie - кино, star - звезда</answer_comment>
+    
+    <uuid>097d793c-15b9-4402-b399-5343c221e4a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How much do the tickets cost?</question>
+    <answer>Сколько стоят билеты?</answer>
+    <comment>[hаʊ mʌʧ duː ðə ˈtɪkɪts kɔːst]</comment>
+    <answer_comment>how - как, much - много, ticket - билет, to cost - стоить</answer_comment>
+    
+    <uuid>0f6d4d7c-00a9-40b5-a0c4-150216e5f08d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I order a ticket in advance?</question>
+    <answer>Можно заказать билет заранее?</answer>
+    <comment>[kæn аɪ ˈɔːrdər ə ˈtɪkɪt ɪn ædˈvæns]</comment>
+    <answer_comment>can - мочь, to order - заказать, ticket - билет, in advance - заранее</answer_comment>
+    
+    <uuid>582e2a37-1ec6-4a3d-853d-01585ee62a58</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Can I order a ticket by phone?</question>
+    <answer>Можно заказать билет по телефону?</answer>
+    <comment>[kæn аɪ ˈɔːrdər ə ˈtɪkɪt bаɪ foʊn]</comment>
+    <answer_comment>can - мочь, to order - заказать, ticket - билет, phone - телефон</answer_comment>
+    
+    <uuid>151152a5-d8fe-4d74-8e02-5f8fb9d2d800</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Are there tickets for this film?</question>
+    <answer>Есть ли билеты на этот фильм?</answer>
+    <comment>[ɑːr ðer ˈtɪkɪts fər ðɪs fɪlm]</comment>
+    <answer_comment>there are - есть, имеются, ticket - билет, this - этот, эта, это, film - фильм</answer_comment>
+    
+    <uuid>b1da8bf2-4375-42bc-b93c-fd5412474ed3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy tickets for the current show?</question>
+    <answer>Где купить билеты на текущий сеанс?</answer>
+    <comment>[hwer kæn аɪ bаɪ ˈtɪkɪts fər ðə ˈkɜːrənt ʃoʊ]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, ticket - билет, current - текущий, show - представление</answer_comment>
+    
+    <uuid>43529ea4-fad4-43ca-8c76-30df6ddc91ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy tickets for the evening show?</question>
+    <answer>Где купить билеты на вечерний сеанс?</answer>
+    <comment>[hwer kæn аɪ bаɪ ˈtɪkɪts fər ðiː ˈiːvnɪŋ ʃoʊ]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, ticket - билет, evening - вечер, вечерний, show - представление</answer_comment>
+    
+    <uuid>a567cf58-ea63-4ea2-a768-984747bfcf94</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where can I buy tickets for tomorrow?</question>
+    <answer>Где купить билеты на завтра?</answer>
+    <comment>[hwer kæn аɪ bаɪ ˈtɪkɪts fər təˈmɔːroʊ]</comment>
+    <answer_comment>where - где, can - мочь, to buy - купить, ticket - билет, tomorrow - завтра</answer_comment>
+    
+    <uuid>21e3ede5-5aa0-41b6-a9e4-0216e5990836</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I want two tickets for this show.</question>
+    <answer>Мне нужно два билета на этот сеанс.</answer>
+    <comment>[аɪ wɑːnt tuː ˈtɪkɪts fər ðɪs ʃoʊ]</comment>
+    <answer_comment>to want - хотеть, two - два, ticket - билет, this - этот, эта, это, show - представление</answer_comment>
+    
+    <uuid>72576c2f-f269-4b98-be63-20ac88bf633a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What seats do you prefer?</question>
+    <answer>Какие места вы предпочитаете?</answer>
+    <comment>[hwʌt siːts duː jʊ prɪˈfɜːr]</comment>
+    <answer_comment>what - что, какой, seat - место, you - ты, вы, to prefer - предпочитать</answer_comment>
+    
+    <uuid>af6ad4fe-b9f3-45cb-abf0-449dd2966a96</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Not very far, places in the middle, please.</question>
+    <answer>Не очень далеко, средние места, пожалуйста.</answer>
+    <comment>[nɑːt ˈveriː fɑːr ˈpleɪsɪz ɪn ðə ˈmɪdəl pliːz]</comment>
+    <answer_comment>very - очень, far - далекий, place - место, middle - середина</answer_comment>
+    
+    <uuid>f40bbc59-68c4-4820-ac86-200162879e79</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I prefer to sit some distance from the screen.</question>
+    <answer>Я люблю сидеть не очень близко от экрана.</answer>
+    <comment>[аɪ prɪˈfɜːr tə sɪt sʌm ˈdɪstəns frəm ðə skriːn]</comment>
+    <answer_comment>to prefer - предпочитать, to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</answer_comment>
+    
+    <uuid>32a71d9c-a790-4368-81a2-cbad3835808d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I prefer to sit in row ten.</question>
+    <answer>Я предпочитаю сидеть в десятом ряду.</answer>
+    <comment>[аɪ prɪˈfɜːr tə sɪt ɪn roʊ ten]</comment>
+    <answer_comment>to prefer - предпочитать, to sit - сидеть, row - ряд, ten - десять</answer_comment>
+    
+    <uuid>ade62f41-cdea-45af-b6f8-f93f75c50a6d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I prefer to sit in the front rows.</question>
+    <answer>Я предпочитаю передние ряды.</answer>
+    <comment>[аɪ prɪˈfɜːr tə sɪt ɪn ðə frʌnt roʊz]</comment>
+    <answer_comment>to prefer - предпочитать, to sit - сидеть, front - передний, row - ряд</answer_comment>
+    
+    <uuid>6a2397d1-ccf7-4c7b-a814-860fa5e55b60</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I prefer to sit in the back rows.</question>
+    <answer>Я предпочитаю задние ряды.</answer>
+    <comment>[аɪ prɪˈfɜːr tə sɪt ɪn ðə bæk roʊz]</comment>
+    <answer_comment>to prefer - предпочитать, to sit - сидеть, back - задний, row - ряд</answer_comment>
+    
+    <uuid>cd6f8f17-061c-44cd-9cd0-cc97d5d2fe5c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This isn&apos;t a very good seat.</question>
+    <answer>Это не очень хорошее место.</answer>
+    <comment>[ðɪs ˈɪzənt ə ˈveriː gʊd siːt]</comment>
+    <answer_comment>this - это, эта, этот, very - очень, good - хороший, seat - место</answer_comment>
+    
+    <uuid>02e5090e-b5aa-4766-aedb-5d31124712d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I can&apos;t see much from here.</question>
+    <answer>Мне отсюда не видно.</answer>
+    <comment>[аɪ kænt siː mʌʧ frəm hɪr]</comment>
+    <answer_comment>to see - видеть, much - много, from - от, из, here - здесь</answer_comment>
+    
+    <uuid>c9a6dfce-2c63-4c87-b85d-c93b43bc0eaf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Change seats with me.</question>
+    <answer>Давайте поменяемся местами.</answer>
+    <comment>[ʧeɪnʤ siːts wɪð ˈmiː]</comment>
+    <answer_comment>to change - менять, seat - место, me - мне, меня</answer_comment>
+    
+    <uuid>6a3b2561-fd8d-4f09-89ad-fd0235737b7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the show begin?</question>
+    <answer>Когда начинается сеанс?</answer>
+    <comment>[hwen dʌz ðə ʃoʊ bɪˈgɪn]</comment>
+    <answer_comment>when - когда, show - показ, to begin - начаться</answer_comment>
+    
+    <uuid>4f23b548-0afe-40a6-909a-cf139fc96db3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the daytime show begin?</question>
+    <answer>Когда начинается дневной сеанс?</answer>
+    <comment>[hwen dʌz ðə ˈdeɪtаɪm ʃoʊ bɪˈgɪn]</comment>
+    <answer_comment>when - когда, daytime - дневное время, show - показ, to begin - начинаться</answer_comment>
+    
+    <uuid>9dd82b9d-694a-4ca7-aaea-367b4b2c6433</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>When does the evening show begin?</question>
+    <answer>Когда начинается вечерний сеанс?</answer>
+    <comment>[hwen dʌz ðiː ˈiːvnɪŋ ʃoʊ bɪˈgɪn]</comment>
+    <answer_comment>when - когда, evening - вечер, вечерний, show - показ, to begin - начинаться</answer_comment>
+    
+    <uuid>0a2dd005-83bd-4edf-a4a5-b094585cfa99</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time is the next feature?</question>
+    <answer>Когда следующий сеанс?</answer>
+    <comment>[hwʌt tаɪm ɪz ðə nekst ˈfiːʧər]</comment>
+    <answer_comment>what - что, какой, time - время, next - следующий, feature - показ (на экране)</answer_comment>
+    
+    <uuid>0a6d4f5c-5e7c-44d3-8b4b-caa3cd8c4cde</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What time do you prefer?</question>
+    <answer>Какое время вы предпочитаете?</answer>
+    <comment>[hwʌt tаɪm duː jʊ prɪˈfɜːr]</comment>
+    <answer_comment>what - что, какой, time - время, to prefer - предпочитать</answer_comment>
+    
+    <uuid>3b6c0ae1-bb0e-40cd-9668-a6c526f6307f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the restroom here?</question>
+    <answer>Где здесь туалет?</answer>
+    <comment>[hwer ɪz ðə ˈrestruːm hɪr]</comment>
+    <answer_comment>where - где, restroom - туалет, here - здесь</answer_comment>
+    
+    <uuid>afdd74a1-47da-473a-8bb4-b47005c5d3d4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Sorry, let me pass.</question>
+    <answer>Простите, разрешите пройти.</answer>
+    <comment>[ˈsɑːriː let ˈmiː pæs]</comment>
+    <answer_comment>sorry - прости(те), let - позволять, me - мне, меня, to pass - пройти</answer_comment>
+    
+    <uuid>7fbde8ab-cd2e-48ba-8a50-fb6ce440b34f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What do you think of this film?</question>
+    <answer>Что вы думаете об этом фильме?</answer>
+    <comment>[hwʌt duː jʊ θɪŋk əv ðɪs fɪlm]</comment>
+    <answer_comment>what - что, to think - думать, this - этот, эта, это, film - фильм</answer_comment>
+    
+    <uuid>fdbb9344-979b-4c08-ae2b-0cf9d62f5bb5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How did you like the movie?</question>
+    <answer>Как тебе понравился фильм?</answer>
+    <comment>[hаʊ dɪd jʊ lаɪk ðə ˈmuːviː]</comment>
+    <answer_comment>how - как, you - ты, вы, to like - любить, нравиться, movie - кино</answer_comment>
+    
+    <uuid>75e19e3e-a697-427b-8f70-46365b031cc8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A good film.</question>
+    <answer>Хороший фильм.</answer>
+    <comment>[ə gʊd fɪlm]</comment>
+    <answer_comment>good - хороший, film - фильм</answer_comment>
+    
+    <uuid>446151b5-7b3b-42e8-8318-8c72607c457c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A fascinating intrigue.</question>
+    <answer>Захватывающая интрига.</answer>
+    <comment>[ə ˈfæsəˌneɪtɪŋ ɪnˈtriːg]</comment>
+    <answer_comment>fascinating - захватывающий, intrigue - интрига</answer_comment>
+    
+    <uuid>ee60428b-2716-4efe-b716-61cf9164abdb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A perfect performance of actors.</question>
+    <answer>Прекрасная игра актеров.</answer>
+    <comment>[ə ˈpɜːrfekt pərˈfɔːrməns əv ˈæktərz]</comment>
+    <answer_comment>perfect - отличный, performance - игра, исполнение, actor - актер</answer_comment>
+    
+    <uuid>693f4e53-2216-4c87-9206-75994fa04665</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>A weak film.</question>
+    <answer>Слабый фильм.</answer>
+    <comment>[ə wiːk fɪlm]</comment>
+    <answer_comment>weak - слабый, film - фильм</answer_comment>
+    
+    <uuid>a13c5b69-45ba-4f05-96b7-e108a278d26b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Did you enjoy the film?</question>
+    <answer>Вам понравился фильм?</answer>
+    <comment>[dɪd jʊ enˈʤɔɪ ðə fɪlm]</comment>
+    <answer_comment>to enjoy - любить, наслаждаться, film - фильм</answer_comment>
+    
+    <uuid>4e80cf91-eb0b-4ec0-94a5-63a44dae5dcb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s the best film I&apos;ve seen this year.</question>
+    <answer>Это лучший фильм, который я видел в этом году.</answer>
+    <comment>[ðæts ðə best fɪlm аɪv seen ðɪs jɪr]</comment>
+    <answer_comment>that - то, это, best - лучший, film - фильм, to see - видеть, this - этот, эта, это, year - год</answer_comment>
+    
+    <uuid>5414dd13-409e-42fa-8929-b427649c9023</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>The film was certainly wonderful.</question>
+    <answer>Фильм был, конечно, прекрасный.</answer>
+    <comment>[ðə fɪlm wʌz ˈsɜːrtnliː ˈwʌndərfəl]</comment>
+    <answer_comment>film - фильм, was - был, была, было, certainly - конечно, несомненно, wonderful - прекрасный</answer_comment>
+    
+    <uuid>f1fd348d-cb3a-4287-b3f2-182d5764ef54</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I didn&apos;t enjoy the film at all.</question>
+    <answer>Фильм мне совершенно не понравился.</answer>
+    <comment>[аɪ ˈdidənt enˈʤɔɪ ðə fɪlm ət ɔːl]</comment>
+    <answer_comment>to enjoy - любить, наслаждаться, film - фильм, at all - совсем, вовсе</answer_comment>
+    
+    <uuid>54cdf2a9-55cc-4e13-82be-3bf2d4b765f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>They&apos;ve made the book into a movie.</question>
+    <answer>Этот фильм - экранизация книги.</answer>
+    <comment>[ðeɪv meɪd ðə bʊk ˈɪntuː ə ˈmuːviː]</comment>
+    <answer_comment>to make - сделать, book - книга, movie - кино</answer_comment>
+    
+    <uuid>effedcc5-02a5-4e9d-b18d-125fcf28e63a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where is the nearest movie theater with a continuous show?</question>
+    <answer>Где кинотеатр с непрерывным показом фильмов?</answer>
+    <comment>[hwer ɪz ðə ˈnɪrɪst ˈmuːviː ˈθɪətər wɪð ə kənˈtɪnjuːəs ʃoʊ]</comment>
+    <answer_comment>where - где, the nearest - ближайший, movie - кино, theater - театр, continuous - непрерывный, show - показ</answer_comment>
+    
+    <uuid>ef58704e-ad29-4344-a123-f91adb027b12</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>1968e957-71e6-4501-9c83-28f05bece401</uuid>
+  <title>Покупка автомобиля</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>ABC</question>
+    <answer>антиблокировочная система (сокращение)</answer>
+    <comment></comment>
+    <uuid>441f60c6-5785-4d71-a413-2b8c32493377</uuid>
+  </card>
+  <card>
+    <question>An welches Modell haben Sie gedacht?</question>
+    <answer>Какую модель Вы желаете?</answer>
+    <comment></comment>
+    <uuid>baa8e237-b1e6-46c7-8b61-0e584311f062</uuid>
+  </card>
+  <card>
+    <question>Anti-Blockier-System</question>
+    <answer>антиблокировочная система</answer>
+    <comment></comment>
+    <uuid>71bf0676-3943-43b8-a2ca-d21b5d39eb74</uuid>
+  </card>
+  <card>
+    <question>das Autoradio</question>
+    <answer>радио</answer>
+    <comment></comment>
+    <uuid>9286ac73-1eaf-45c1-a39b-3f99a7c5cd88</uuid>
+  </card>
+  <card>
+    <question>das Baujahr</question>
+    <answer>год выпуска</answer>
+    <comment></comment>
+    <uuid>534aae5e-fbf2-4eb6-88d4-ec1b86fdc06a</uuid>
+  </card>
+  <card>
+    <question>das Schiebedach</question>
+    <answer>сдвигаемая панель крыши</answer>
+    <comment></comment>
+    <uuid>70ece096-4fb1-4054-9b89-3e8e1e76e173</uuid>
+  </card>
+  <card>
+    <question>der Autohändler</question>
+    <answer>продавец автомобилей</answer>
+    <comment></comment>
+    <uuid>6d5e07c1-da66-4e59-8939-1783c0ff55ce</uuid>
+  </card>
+  <card>
+    <question>der Gebranchtwagen</question>
+    <answer>подержанная машина</answer>
+    <comment></comment>
+    <uuid>7496f47e-c176-4ab9-b3ae-eb2bf744788a</uuid>
+  </card>
+  <card>
+    <question>der Kilometerstand</question>
+    <answer>пробег по счетчику</answer>
+    <comment></comment>
+    <uuid>f1a4c48a-90d6-4a0a-a5a1-3c492fefe409</uuid>
+  </card>
+  <card>
+    <question>der Lieferungstermin</question>
+    <answer>срок поставки</answer>
+    <comment></comment>
+    <uuid>8c7ed652-7a60-4ae5-a89d-bf6a11434977</uuid>
+  </card>
+  <card>
+    <question>der Neuwagen</question>
+    <answer>новая машина</answer>
+    <comment></comment>
+    <uuid>5fc63e39-dfcd-43c4-bb6f-46118567e4db</uuid>
+  </card>
+  <card>
+    <question>der Preis</question>
+    <answer>цена</answer>
+    <comment></comment>
+    <uuid>284d93a4-699f-47d8-986a-c2957d402631</uuid>
+  </card>
+  <card>
+    <question>der Preisnachlaß</question>
+    <answer>скидка с цены</answer>
+    <comment></comment>
+    <uuid>8c4024cc-7511-4d8b-b60d-efbc332d2316</uuid>
+  </card>
+  <card>
+    <question>der Unfallwagen</question>
+    <answer>машина, побывавшая в аварии</answer>
+    <comment></comment>
+    <uuid>acce0075-8af0-4ca1-ab46-ace8d1534a50</uuid>
+  </card>
+  <card>
+    <question>der Verhandlungspreis</question>
+    <answer>цена по договоренности</answer>
+    <comment></comment>
+    <uuid>e23bb80e-fc85-4936-8cc5-0fc87b579a42</uuid>
+  </card>
+  <card>
+    <question>die Bestellung</question>
+    <answer>заказ</answer>
+    <comment></comment>
+    <uuid>5d8ffea2-59ca-4d2d-afc0-82cac6df834e</uuid>
+  </card>
+  <card>
+    <question>die Extras</question>
+    <answer>дополнительные части</answer>
+    <comment></comment>
+    <uuid>3d545e02-1235-4225-8668-d67b2296aeb9</uuid>
+  </card>
+  <card>
+    <question>die Farbe</question>
+    <answer>цвет</answer>
+    <comment></comment>
+    <uuid>c3c82a2f-bc01-456b-a1cc-21286c3dc126</uuid>
+  </card>
+  <card>
+    <question>die Garantie</question>
+    <answer>гарантия</answer>
+    <comment></comment>
+    <uuid>057bc6e8-53db-4c8e-82d1-4e8b2f13803a</uuid>
+  </card>
+  <card>
+    <question>die Metallic-Lackierung</question>
+    <answer>покрытие цвета &quot;металлик&quot;</answer>
+    <comment></comment>
+    <uuid>fb97612a-3d97-477c-9e48-c7c16a3adbed</uuid>
+  </card>
+  <card>
+    <question>die Probefahrt</question>
+    <answer>пробная поездка, тест-драйв</answer>
+    <comment></comment>
+    <uuid>ba217489-d445-4f9d-a4e7-89852af12af1</uuid>
+  </card>
+  <card>
+    <question>die Servo-Lenkung</question>
+    <answer>рулевое управление с гидроусилителем</answer>
+    <comment></comment>
+    <uuid>4aea6628-f368-4a82-bba8-b0176e6ddc82</uuid>
+  </card>
+  <card>
+    <question>die Versicherung</question>
+    <answer>страхование</answer>
+    <comment></comment>
+    <uuid>59c014d5-74c7-45e4-aec4-ce43fa1ab437</uuid>
+  </card>
+  <card>
+    <question>die Zulassung</question>
+    <answer>допуск</answer>
+    <comment></comment>
+    <uuid>f0cd0f49-f7cf-4e8e-b2ec-7026d86af8bd</uuid>
+  </card>
+  <card>
+    <question>Haben Sie auch Gebrauchtwagen?</question>
+    <answer>У Вас есть подержанные машины?</answer>
+    <comment></comment>
+    <uuid>a1c43434-a2af-4efb-b699-78be43e41fce</uuid>
+  </card>
+  <card>
+    <question>Ich möchte mir Autos ansehen.</question>
+    <answer>Я хотел бы посмотреть машины.</answer>
+    <comment></comment>
+    <uuid>8a7e010e-c014-41f1-8472-389c24f83528</uuid>
+  </card>
+  <card>
+    <question>Möchten Sie eine Probefahrt machen?</question>
+    <answer>Вы хотели бы сделать пробную поездку?</answer>
+    <comment></comment>
+    <uuid>9d08e205-7363-4352-ae0d-ee3d06da658f</uuid>
+  </card>
+  <card>
+    <question>PS</question>
+    <answer>л.с. (лошадинные силы)</answer>
+    <comment></comment>
+    <uuid>ccf3987c-8941-44b4-acf1-52b8ef8f5b76</uuid>
+  </card>
+  <card>
+    <question>Welche Extras wünschen Sie?</question>
+    <answer>Что вы желаете дополнительно к машине?</answer>
+    <comment></comment>
+    <uuid>f239d278-0ad6-40b5-96b3-3360b2f0d260</uuid>
+  </card>
+  <card>
+    <question>Wie hoch ist der Preis?</question>
+    <answer>Какова цена? Сколько стоит?</answer>
+    <comment></comment>
+    <uuid>cf2cab58-ad5f-40bf-947a-0212fa159cad</uuid>
+  </card>
+  <card>
+    <question>Wie ist der Kilometerstand?</question>
+    <answer>Сколько километров прошла машина?</answer>
+    <comment></comment>
+    <uuid>e859750e-3884-4cb1-9871-59557a9415ca</uuid>
+  </card>
+  <card>
+    <question>Wollen Sie dieses Auto bestellen?</question>
+    <answer>Вы хотите заказать эту машину?</answer>
+    <comment></comment>
+    <uuid>5826c6f4-e8b0-4272-91dd-55b20b4c6686</uuid>
+  </card>
+</cards>
+</stack>

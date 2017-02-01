@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>645ab536-db0f-4905-bfc2-ca85057cf10e</uuid>
+  <title>Язык :: Слова</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2005</year>
+     <month>9</month>
+     <day>3</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>spa</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>habla</question>
+    <answer>(Вы) говорите; (он, она) говорит</answer>
+    <comment></comment>
+    <uuid>846d111f-cb95-4bfb-b275-b709043bb7ab</uuid>
+  </card>
+  <card>
+    <question>hablo</question>
+    <answer>(я) говорю</answer>
+    <comment></comment>
+    <uuid>b416c783-b0e6-4688-b44d-a40923a287dd</uuid>
+  </card>
+  <card>
+    <question>hablar</question>
+    <answer>говорить</answer>
+    <comment></comment>
+    <uuid>9574c667-b8ac-427c-93c5-5ebba12869f4</uuid>
+  </card>
+  <card>
+    <question>hablas</question>
+    <answer>(ты) говоришь</answer>
+    <comment></comment>
+    <uuid>936a0547-a3cb-4603-8128-67bafff4e353</uuid>
+  </card>
+  <card>
+    <question>hablamos</question>
+    <answer>(мы) говорим</answer>
+    <comment></comment>
+    <uuid>b004484a-a769-4bc8-b0c1-2e8f56899ecb</uuid>
+  </card>
+  <card>
+    <question>español</question>
+    <answer>испанский</answer>
+    <comment></comment>
+    <uuid>ae4f0d89-1f61-44c5-98bc-714673add64a</uuid>
+  </card>
+  <card>
+    <question>ruso</question>
+    <answer>русский</answer>
+    <comment></comment>
+    <uuid>62e61462-a981-4647-aeac-b5f92a981b52</uuid>
+  </card>
+  <card>
+    <question>inglés</question>
+    <answer>английский</answer>
+    <comment></comment>
+    <uuid>d8740885-7085-4495-80b6-5d8ec7839a60</uuid>
+  </card>
+  <card>
+    <question>francés</question>
+    <answer>французский</answer>
+    <comment></comment>
+    <uuid>3ef1838b-949c-4eeb-9ed2-be789e64ed30</uuid>
+  </card>
+  <card>
+    <question>alemán</question>
+    <answer>немецкий</answer>
+    <comment></comment>
+    <uuid>6277c38a-7fe5-4ad1-863f-a2b9593dfa3c</uuid>
+  </card>
+  <card>
+    <question>sí</question>
+    <answer>да</answer>
+    <comment></comment>
+    <uuid>c81ae8a0-bd1f-46e0-8543-21fc10f26e3e</uuid>
+  </card>
+  <card>
+    <question>un poco</question>
+    <answer>немного</answer>
+    <comment></comment>
+    <uuid>35991837-71f6-4fa1-9130-c9f135350769</uuid>
+  </card>
+  <card>
+    <question>leo</question>
+    <answer>(я) читаю</answer>
+    <comment></comment>
+    <uuid>35143a1f-5d15-424b-90c8-eda1ddd3eac7</uuid>
+  </card>
+  <card>
+    <question>leer</question>
+    <answer>читать</answer>
+    <comment></comment>
+    <uuid>7b18d7fa-2659-4960-9dfd-da90d854ea71</uuid>
+  </card>
+  <card>
+    <question>lees</question>
+    <answer>(ты) читаешь</answer>
+    <comment></comment>
+    <uuid>f901e138-cdcd-4af8-968d-25868dbb0227</uuid>
+  </card>
+  <card>
+    <question>lee</question>
+    <answer>(Вы) читаете; (он, она) читает</answer>
+    <comment></comment>
+    <uuid>1bcc0868-6009-4b17-a0ab-3b1f3f733058</uuid>
+  </card>
+  <card>
+    <question>leemos</question>
+    <answer>(мы) читаем</answer>
+    <comment></comment>
+    <uuid>b8f71057-a59c-4e37-afa3-f2e3640ae2ab</uuid>
+  </card>
+  <card>
+    <question>con</question>
+    <answer>с</answer>
+    <comment></comment>
+    <uuid>da8c9ad5-e183-4132-a052-381d6c0215b2</uuid>
+  </card>
+  <card>
+    <question>ayuda</question>
+    <answer>помощь</answer>
+    <comment></comment>
+    <uuid>3686e56f-6b60-44fd-9866-8943a3c811a1</uuid>
+  </card>
+  <card>
+    <question>diccionario</question>
+    <answer>словарь</answer>
+    <comment></comment>
+    <uuid>0a87a659-ee57-431e-af58-d41f91a4576e</uuid>
+  </card>
+  <card>
+    <question>comprender</question>
+    <answer>понимать</answer>
+    <comment></comment>
+    <uuid>2da721f1-9a50-4f7f-8e18-2c93b9d86fcb</uuid>
+  </card>
+  <card>
+    <question>comprende</question>
+    <answer>(Вы) понимаете; (он, она) понимает</answer>
+    <comment></comment>
+    <uuid>a2f67b85-89e6-4c24-a034-2a672b1ad429</uuid>
+  </card>
+  <card>
+    <question>comprendo</question>
+    <answer>(я) понимаю</answer>
+    <comment></comment>
+    <uuid>447ae407-bc6a-4c59-8d4a-aa27226a5d64</uuid>
+  </card>
+  <card>
+    <question>comprendes</question>
+    <answer>(ты) понимаешь</answer>
+    <comment></comment>
+    <uuid>f511e070-27ee-4eaf-9944-2ccb1110701d</uuid>
+  </card>
+  <card>
+    <question>comprendemos</question>
+    <answer>(мы) понимаем</answer>
+    <comment></comment>
+    <uuid>638a2112-f3a5-45f6-85a3-76e5fa94d50d</uuid>
+  </card>
+  <card>
+    <question>me</question>
+    <answer>меня</answer>
+    <comment></comment>
+    <uuid>539f3974-204a-4c45-8d0d-d5db442db875</uuid>
+  </card>
+  <card>
+    <question>pero</question>
+    <answer>но</answer>
+    <comment></comment>
+    <uuid>a4439b43-ed8f-40ea-b61b-5d48f43826e7</uuid>
+  </card>
+  <card>
+    <question>dificultad</question>
+    <answer>сложность, трудность</answer>
+    <comment></comment>
+    <uuid>f400211d-35fa-4367-ab4e-76ab6c6b3403</uuid>
+  </card>
+  <card>
+    <question>he comprendido</question>
+    <answer>(я) понял</answer>
+    <comment></comment>
+    <uuid>182a3793-a422-4fc9-979c-1f83f6d46537</uuid>
+  </card>
+  <card>
+    <question>no he comprendido</question>
+    <answer>(я) не понял</answer>
+    <comment></comment>
+    <uuid>ccb5e58b-2cb4-4cb4-8d57-5008158cd5da</uuid>
+  </card>
+  <card>
+    <question>comprendido</question>
+    <answer>понятый</answer>
+    <comment></comment>
+    <uuid>769f9184-a6fe-433f-b4af-707762584c75</uuid>
+  </card>
+  <card>
+    <question>ha comprendido</question>
+    <answer>(Вы) поняли; (он) понял, (она) поняла</answer>
+    <comment></comment>
+    <uuid>c899742a-a79f-410d-ae69-196bf9f1365a</uuid>
+  </card>
+  <card>
+    <question>has comprendido</question>
+    <answer>(ты) понял</answer>
+    <comment></comment>
+    <uuid>894de838-03f3-442c-b149-146911fc77de</uuid>
+  </card>
+  <card>
+    <question>repita</question>
+    <answer>повторите (ед.ч.)</answer>
+    <comment></comment>
+    <uuid>5a61cadd-fd48-478f-82c5-0d21d3814865</uuid>
+  </card>
+  <card>
+    <question>repite</question>
+    <answer>повтори</answer>
+    <comment></comment>
+    <uuid>fc22e01c-3149-4e39-8fd5-e2997d22c995</uuid>
+  </card>
+  <card>
+    <question>repetir</question>
+    <answer>повторять</answer>
+    <comment></comment>
+    <uuid>8545fe80-a69c-438a-a636-a621598bb6bd</uuid>
+  </card>
+  <card>
+    <question>por favor</question>
+    <answer>пожалуйста</answer>
+    <comment></comment>
+    <uuid>26a9648d-26d8-4afa-9e84-db3a78e77682</uuid>
+  </card>
+  <card>
+    <question>ha dicho</question>
+    <answer>(Вы) сказали; (он) сказал, (она) сказала</answer>
+    <comment></comment>
+    <uuid>b761ebcf-31ab-41b7-b39e-101876366949</uuid>
+  </card>
+  <card>
+    <question>decir</question>
+    <answer>сказать</answer>
+    <comment></comment>
+    <uuid>bee9b3e8-8535-45dc-8876-0060e61b3212</uuid>
+  </card>
+  <card>
+    <question>has dicho</question>
+    <answer>(ты) сказал</answer>
+    <comment></comment>
+    <uuid>def3586e-3663-49b5-9b24-0ff84367016c</uuid>
+  </card>
+  <card>
+    <question>he dicho</question>
+    <answer>(я) сказал</answer>
+    <comment></comment>
+    <uuid>c2f70a64-45b1-4d84-971b-ba25f158e069</uuid>
+  </card>
+  <card>
+    <question>quién</question>
+    <answer>кто?</answer>
+    <comment></comment>
+    <uuid>2bf7be12-caee-4a6d-b58e-3073358b0d98</uuid>
+  </card>
+  <card>
+    <question>hable</question>
+    <answer>говорите (ед. ч.)</answer>
+    <comment></comment>
+    <uuid>e89e0f56-8fbe-4d1a-ad3b-f4c62422fa90</uuid>
+  </card>
+  <card>
+    <question>habla</question>
+    <answer>говори</answer>
+    <comment></comment>
+    <uuid>9a741134-8df7-40b3-b8ec-5bcdf404f4f3</uuid>
+  </card>
+  <card>
+    <question>más</question>
+    <answer>более</answer>
+    <comment></comment>
+    <uuid>c54a29c5-9b49-47c6-a38e-16e568daeaa2</uuid>
+  </card>
+  <card>
+    <question>despacio</question>
+    <answer>медленно</answer>
+    <comment></comment>
+    <uuid>1a3bd3bf-6590-435e-97fa-8325b625d7ae</uuid>
+  </card>
+  <card>
+    <question>fuerte</question>
+    <answer>громко</answer>
+    <comment></comment>
+    <uuid>da9e0045-235f-41dd-83c8-b0b35586975e</uuid>
+  </card>
+  <card>
+    <question>significar</question>
+    <answer>значить, обозначать</answer>
+    <comment></comment>
+    <uuid>c06df3dd-c1fb-4d2a-857d-e2f535f97049</uuid>
+  </card>
+  <card>
+    <question>signífica</question>
+    <answer>значит, обозначает</answer>
+    <comment></comment>
+    <uuid>af09b937-885c-424a-8e61-13d072fef180</uuid>
+  </card>
+  <card>
+    <question>palabra</question>
+    <answer>слово</answer>
+    <comment></comment>
+    <uuid>bb8f3d25-b337-456d-840e-07b6e6b3a051</uuid>
+  </card>
+  <card>
+    <question>se escribe</question>
+    <answer>пишется</answer>
+    <comment></comment>
+    <uuid>0e91cde1-40a3-4ccd-9f3e-f2d2949c0eb4</uuid>
+  </card>
+  <card>
+    <question>escribir</question>
+    <answer>писать</answer>
+    <comment></comment>
+    <uuid>57858045-f18b-4b3a-b7cc-96504a848a25</uuid>
+  </card>
+  <card>
+    <question>se pronuncia</question>
+    <answer>произносится</answer>
+    <comment></comment>
+    <uuid>d83c656d-9065-4488-a836-170f7d36fe45</uuid>
+  </card>
+  <card>
+    <question>pronunciar</question>
+    <answer>произносить</answer>
+    <comment></comment>
+    <uuid>3d02940f-b97e-42f6-acd0-0dc45adc36b4</uuid>
+  </card>
+  <card>
+    <question>se dice</question>
+    <answer>говорится</answer>
+    <comment></comment>
+    <uuid>3bec606f-490e-4e1e-be09-01e9de2b1755</uuid>
+  </card>
+  <card>
+    <question>esto</question>
+    <answer>это</answer>
+    <comment></comment>
+    <uuid>a978cefa-9b09-48af-b5d1-b88b54042cd4</uuid>
+  </card>
+  <card>
+    <question>en español</question>
+    <answer>по-испански</answer>
+    <comment></comment>
+    <uuid>3ee3eff4-0997-4f34-9af4-a4ca454fbc19</uuid>
+  </card>
+  <card>
+    <question>escríbalo</question>
+    <answer>напишите (это)</answer>
+    <comment></comment>
+    <uuid>57f217bb-c2b0-457a-bc6b-29072f88a553</uuid>
+  </card>
+  <card>
+    <question>escríbelo</question>
+    <answer>напиши (это)</answer>
+    <comment></comment>
+    <uuid>0e438ac3-ce1e-49f1-8816-e3ebabb9551b</uuid>
+  </card>
+  <card>
+    <question>necesitamos</question>
+    <answer>(нам) нужен</answer>
+    <comment></comment>
+    <uuid>d08216a1-2c65-4843-816b-faa8f4871181</uuid>
+  </card>
+  <card>
+    <question>necesitar</question>
+    <answer>нуждаться ( в ком-либо, чём-либо )</answer>
+    <comment></comment>
+    <uuid>5966076b-e185-40ad-a240-95a25e9b09e9</uuid>
+  </card>
+  <card>
+    <question>intérprete</question>
+    <answer>переводчик</answer>
+    <comment>m</comment>
+    <uuid>0b0886ee-f526-4153-aa30-cc5136b49264</uuid>
+  </card>
+  <card>
+    <question>traducir</question>
+    <answer>переводить</answer>
+    <comment></comment>
+    <uuid>adf33c39-c741-450f-a8e8-ae3dc8de5d30</uuid>
+  </card>
+</cards>
+</stack>

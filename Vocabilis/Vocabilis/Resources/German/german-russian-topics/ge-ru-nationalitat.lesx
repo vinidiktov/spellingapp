@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>8b84862c-6c99-4924-830a-27dc8292025c</uuid>
+  <title>Национальность, эмиграция</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Asyl</question>
+    <answer>убежище (политическое)</answer>
+    <comment></comment>
+    <uuid>4a937f33-55e8-444c-ba8b-b8ea41112ac2</uuid>
+  </card>
+  <card>
+    <question>das Ausland</question>
+    <answer>зарубежные страны</answer>
+    <comment></comment>
+    <uuid>09c6389f-1042-4c6d-b0ca-dea8f3c5739e</uuid>
+  </card>
+  <card>
+    <question>das Heimatland</question>
+    <answer>родная страна</answer>
+    <comment></comment>
+    <uuid>61523f05-33da-4d71-a8c5-3f3efd310168</uuid>
+  </card>
+  <card>
+    <question>das Konsulat</question>
+    <answer>Консульство</answer>
+    <comment></comment>
+    <uuid>768bef0f-7ecd-42cb-9ea0-61ea6348ed1b</uuid>
+  </card>
+  <card>
+    <question>das russische Konsulat</question>
+    <answer>консульство России</answer>
+    <comment></comment>
+    <uuid>cd9c310c-d460-4544-99a5-604d8814231f</uuid>
+  </card>
+  <card>
+    <question>das Transitland</question>
+    <answer>транзитная страна</answer>
+    <comment></comment>
+    <uuid>ce6b4312-b80b-4e17-b354-bf37a2f942e1</uuid>
+  </card>
+  <card>
+    <question>der Asylberechtigte</question>
+    <answer>лицо, имеющее право на (политическое) убежище</answer>
+    <comment></comment>
+    <uuid>cafd8b67-aecb-4673-809b-22afc2423e2d</uuid>
+  </card>
+  <card>
+    <question>der Asylbewerber</question>
+    <answer>лицо, попросившее (политическое) убежище</answer>
+    <comment></comment>
+    <uuid>e489bb15-05cc-4f23-9f3f-1aac07f73906</uuid>
+  </card>
+  <card>
+    <question>der Aufenthalt</question>
+    <answer>проживание, пребывание</answer>
+    <comment></comment>
+    <uuid>3de4b117-e037-4298-8363-e45d91368e72</uuid>
+  </card>
+  <card>
+    <question>der Ausländer</question>
+    <answer>иностранец</answer>
+    <comment></comment>
+    <uuid>62a86015-5386-4691-9ab1-f7c541cb6d22</uuid>
+  </card>
+  <card>
+    <question>der Botschafter</question>
+    <answer>Посол</answer>
+    <comment></comment>
+    <uuid>c42257d3-78ab-4afd-b512-00a38bea1d92</uuid>
+  </card>
+  <card>
+    <question>der Flüchtling</question>
+    <answer>беженец</answer>
+    <comment></comment>
+    <uuid>6194a31f-fb6d-4f06-b533-4ce8764d2c35</uuid>
+  </card>
+  <card>
+    <question>der Konsul</question>
+    <answer>консул</answer>
+    <comment></comment>
+    <uuid>94e47344-282a-4da7-9a91-bb517f0b75c8</uuid>
+  </card>
+  <card>
+    <question>der Spätaussiedler</question>
+    <answer>переселенец</answer>
+    <comment></comment>
+    <uuid>c9b8e6f6-b833-407a-8cf0-3e5f4275fd02</uuid>
+  </card>
+  <card>
+    <question>die Abschiebung</question>
+    <answer>высылка из страны под конвоем</answer>
+    <comment></comment>
+    <uuid>52ca4aac-3774-4268-9db8-6555221803a4</uuid>
+  </card>
+  <card>
+    <question>die Aufenthaltserlaubnis</question>
+    <answer>вид на жительство</answer>
+    <comment></comment>
+    <uuid>e6c4fdff-795c-4566-87c8-1543a4f0445d</uuid>
+  </card>
+  <card>
+    <question>die Aufenthaltserlaubnis beantragen</question>
+    <answer>ходатайствовать о получении вида на жительство</answer>
+    <comment></comment>
+    <uuid>79566f8d-9e5e-4e32-92b4-5e664b3734c7</uuid>
+  </card>
+  <card>
+    <question>die Ausländerbehörde</question>
+    <answer>отдел по делам иностранцев</answer>
+    <comment></comment>
+    <uuid>1a8897b8-795e-485f-ad2c-7d95c0311393</uuid>
+  </card>
+  <card>
+    <question>die Ausländerin</question>
+    <answer>иностранка</answer>
+    <comment></comment>
+    <uuid>4e6fa392-5ec3-4cd3-826a-298717dfb160</uuid>
+  </card>
+  <card>
+    <question>die Botschaft</question>
+    <answer>посольство</answer>
+    <comment></comment>
+    <uuid>50502fcf-2d18-48f7-9644-d4093ec11651</uuid>
+  </card>
+  <card>
+    <question>die russische Botschaft</question>
+    <answer>посольство России</answer>
+    <comment></comment>
+    <uuid>c6c1f8a9-166a-4e1b-8ce0-4b271a110cc5</uuid>
+  </card>
+  <card>
+    <question>Ich bin Russe.</question>
+    <answer>Я русский (по национальности).</answer>
+    <comment></comment>
+    <uuid>d72f7226-3b01-4fc7-ba99-fb97d835f6ec</uuid>
+  </card>
+  <card>
+    <question>Ich möchte Asyl beantragen.</question>
+    <answer>Я хотел бы попросить политическое убежище.</answer>
+    <comment></comment>
+    <uuid>f079c1cc-8f42-4943-91a2-cebe1c41266b</uuid>
+  </card>
+  <card>
+    <question>Rußland</question>
+    <answer>Россия</answer>
+    <comment></comment>
+    <uuid>7a7b0b37-e163-493b-8c15-76604429b08c</uuid>
+  </card>
+  <card>
+    <question>Wo ist das russische Konsulat?</question>
+    <answer>Где находится русское консульство?</answer>
+    <comment></comment>
+    <uuid>603936fa-2a28-4e5d-93b2-67ef741dbb05</uuid>
+  </card>
+  <card>
+    <question>zurückweisen</question>
+    <answer>отклонить, отвергнуть</answer>
+    <comment></comment>
+    <uuid>d0011e6b-cf68-4743-9008-aead8b37ec96</uuid>
+  </card>
+</cards>
+</stack>

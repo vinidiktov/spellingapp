@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>727d5c63-4219-4638-a66c-dab96a352807</uuid>
+  <title>Растения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2010</year>
+     <month>4</month>
+     <day>28</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>bush</question>
+    <answer>куст</answer>
+    <comment>[bʊʃ]</comment>
+    <answer_picture>bush.gif</answer_picture>
+    <uuid>0a51e044-5f6d-4b09-9e81-ee47a1ac0b76</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>grow</question>
+    <answer>расти</answer>
+    <comment>[grəʊ]</comment>
+    <answer_picture>grow.gif</answer_picture>
+    <uuid>fbe27cf6-39b8-4589-9df6-b9c7be0a0bde</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>rose</question>
+    <answer>роза</answer>
+    <comment>[rəʊz]</comment>
+    <answer_picture>rose.gif</answer_picture>
+    <uuid>892d654d-d46a-403a-b879-731e86c1a557</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>grass</question>
+    <answer>трава</answer>
+    <comment>[grɑːs]</comment>
+    <answer_picture>grass.gif</answer_picture>
+    <uuid>12373ef6-1d2f-41ce-9fdf-0eaf8e57b2c3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>forest</question>
+    <answer>лес</answer>
+    <comment>[ˈfɒrɪst]</comment>
+    <answer_picture>forest.gif</answer_picture>
+    <uuid>bd1bca9b-0272-404d-9e10-d773b55b69d3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bloom</question>
+    <answer>расцветать</answer>
+    <comment>[bluːm]</comment>
+    <answer_picture>bloom.gif</answer_picture>
+    <uuid>2d988488-2e7f-4086-94c3-414f90904ba7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>crop</question>
+    <answer>урожай</answer>
+    <comment>[krɒp]</comment>
+    <answer_picture>crop.gif</answer_picture>
+    <uuid>c6ed7c8e-3e05-4a7f-9a71-5f118d302de9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>leaf</question>
+    <answer>лист, листок (растения)</answer>
+    <comment>[liːf]</comment>
+    <answer_picture>leaf.gif</answer_picture>
+    <uuid>43fa2220-d9a1-4a10-a22f-570ef89690d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>flower</question>
+    <answer>цветок</answer>
+    <comment>[ˈflаʊə]</comment>
+    <answer_picture>flower.gif</answer_picture>
+    <uuid>53a21b8b-9ae2-4936-a79a-bfe25a550169</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>conifer</question>
+    <answer>хвойное дерево</answer>
+    <comment>[ˈkəʊnɪfə]</comment>
+    <answer_picture>conifer.gif</answer_picture>
+    <uuid>5a7a64dc-dfd1-49b9-a411-ad7a59e3a524</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tree</question>
+    <answer>дерево</answer>
+    <comment>[triː]</comment>
+    <answer_picture>tree.gif</answer_picture>
+    <uuid>105784bc-da14-424b-9cfa-1e0cc54fd3a1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>tree stump</question>
+    <answer>пень</answer>
+    <comment>[triː stʌmp]</comment>
+    <answer_picture>tree_stump.gif</answer_picture>
+    <uuid>6ecafb2a-f02f-4331-b725-1f77a8480feb</uuid>
+  </card>
+</cards>
+</stack>

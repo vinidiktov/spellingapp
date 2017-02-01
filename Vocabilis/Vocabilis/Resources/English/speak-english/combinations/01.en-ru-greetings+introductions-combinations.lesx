@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6549c3c7-a93d-40cc-ac9c-01a989f60a8d</uuid>
+  <title>Знакомство, Приветствия :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a friend of mine</question>
+    <answer>мой друг</answer>
+    <comment>[ə frend əv mаɪn]</comment>
+    <question_comment>friend - друг, mine - мой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9d72b973-97bf-4061-be9b-3d5dd34fd822</uuid>
+    <examples>
+       <example>
+          <value>May I introduce a friend of mine?</value>
+          <translation>Разрешите представить моего друга?</translation>
+          <comment>may - мочь, сметь, to introduce - представить, friend - друг, mine - мой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a good trip</question>
+    <answer>хорошая поездка</answer>
+    <comment>[ə gʊd trɪp]</comment>
+    <question_comment>good - хороший, trip - поездка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6ce50a9-c263-470d-8efa-2cce06284c55</uuid>
+    <examples>
+       <example>
+          <value>Did you have a good trip?</value>
+          <translation>Как прошла поездка?</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip.</value>
+          <translation>Счастливого пути.</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip!</value>
+          <translation>Счастливого пути!</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>all right</question>
+    <answer>все в порядке</answer>
+    <comment>[ɔːl rаɪt]</comment>
+    <question_comment>all - всё, right - правильный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>da983a73-e90f-4668-a991-5f68f6a2fdb9</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m all right.</value>
+          <translation>Я в порядке.</translation>
+          <comment>all - весь, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right.</value>
+          <translation>Не за что.</translation>
+          <comment>that - это, all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right! You may pass on.</value>
+          <translation>Все в порядке! Вы можете проходить.</translation>
+          <comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</comment>
+       </example>
+       <example>
+          <value>All right!</value>
+          <translation>Правильно!</translation>
+          <comment>all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>All right. Thank you.</value>
+          <translation>Хорошо. Спасибо.</translation>
+          <comment>all - все, всё, right - правильный, to thank - благодарить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Does it fit all right?</value>
+          <translation>Это вам подойдет?</translation>
+          <comment>to fit - подходить, all - все, right - правильный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for ages</question>
+    <answer>сто лет (очень давно)</answer>
+    <comment>[fər ˈeɪʤɪz]</comment>
+    <question_comment>for - в течение, age - век, столетие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e671c338-9fa4-4167-a6c7-9d4e88bb0f97</uuid>
+    <examples>
+       <example>
+          <value>I haven&apos;t seen you for ages.</value>
+          <translation>Я тебя (вас) целую вечность не видел!</translation>
+          <comment>to see - видеть, you - тебя, вас, for - в течение, age - век, столетие</comment>
+       </example>
+       <example>
+          <value>We are the same age.</value>
+          <translation>Мы ровесники.</translation>
+          <comment>the same - тот же самый, одинаковый, age - возраст</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for weeks</question>
+    <answer>в течение многих недель</answer>
+    <comment>[fər wiːks]</comment>
+    <question_comment>for - в течение, week - неделя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>95661117-f632-4fcb-bc48-540d13a396d5</uuid>
+    <examples>
+       <example>
+          <value>I haven&apos;t seen you for weeks.</value>
+          <translation>Я не видел тебя уже несколько недель.</translation>
+          <comment>to see - видеть, you - тебя, вас, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;m going to stay in the country for a week.</value>
+          <translation>Я собираюсь пробыть в стране неделю.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, week - неделя</comment>
+       </example>
+       <example>
+          <value>I&apos;ll stay here for a week.</value>
+          <translation>Я пробуду здесь неделю.</translation>
+          <comment>to stay - остановиться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>I have stayed here for a week.</value>
+          <translation>Я пробыл здесь неделю.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>Stay in bed for a week.</value>
+          <translation>Оставайтесь в постели неделю.</translation>
+          <comment>to stay - оставаться, bed - кровать, for - в течение, week - неделя</comment>
+       </example>
+       <example>
+          <value>this week</value>
+          <translation>на этой неделе</translation>
+          <comment>this - этот, эта, это, week - неделя</comment>
+       </example>
+       <example>
+          <value>next week</value>
+          <translation>на следующей неделе</translation>
+          <comment>next - следующий, week - неделя</comment>
+       </example>
+       <example>
+          <value>last week</value>
+          <translation>на прошлой неделе</translation>
+          <comment>last - прошлый, week - неделя</comment>
+       </example>
+       <example>
+          <value>the week before last</value>
+          <translation>на позапрошлой неделе</translation>
+          <comment>week - неделя, before - до, перед, last - прошлый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>how about</question>
+    <answer>как насчет</answer>
+    <comment>[hаʊ əˈbаʊt]</comment>
+    <question_comment>how - как, about - о (чем-л.)</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68eb6385-c23d-4ef3-a4a9-06a0026af7f0</uuid>
+    <examples>
+       <example>
+          <value>How about you?</value>
+          <translation>А ты? А у тебя?</translation>
+          <comment>how - как, about - о, насчет, you - тебя, тебе</comment>
+       </example>
+       <example>
+          <value>How about going for a cup of coffee this afternoon?</value>
+          <translation>Как насчет чашечки кофе в обед?</translation>
+          <comment>how - как, about - насчет, to go - идти, cup - чашка, coffee - кофе, this - этот, эта, afternoon - день</comment>
+       </example>
+       <example>
+          <value>How about this one?</value>
+          <translation>Как насчет этого?</translation>
+          <comment>how - как, about - о, насчет, this - этот, эта, это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my first name</question>
+    <answer>мое имя</answer>
+    <comment>[mаɪ fɜːrst neɪm]</comment>
+    <question_comment>my - мой, first - первый, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4ff1ace7-0895-4691-9690-f5d2d364238b</uuid>
+    <examples>
+       <example>
+          <value>My first name is John.</value>
+          <translation>Мое имя Джон.</translation>
+          <comment>my - мой, моя, мое, first - первый, name - имя, John - Джон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my last name</question>
+    <answer>моя фамилия</answer>
+    <comment>[mаɪ læst neɪm]</comment>
+    <question_comment>my - мой, last - последний, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d710483b-4b37-49fb-a020-7e8420c984b3</uuid>
+    <examples>
+       <example>
+          <value>My last name is Locke.</value>
+          <translation>Моя фамилия Лок.</translation>
+          <comment>my - мой, моя, мое, last - последний, name - имя, Locke - Лок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my name</question>
+    <answer>мое имя (моя фамилия)</answer>
+    <comment>[mаɪ neɪm]</comment>
+    <question_comment>my - мой, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>70b49556-1aa4-4c5f-834d-f1596e975f5c</uuid>
+    <examples>
+       <example>
+          <value>My name is John Locke.</value>
+          <translation>Меня зовут Джон Лок.</translation>
+          <comment>my - мой, моя, мое, name - имя, John Locke - Джон Лок</comment>
+       </example>
+       <example>
+          <value>My first name is John.</value>
+          <translation>Мое имя Джон.</translation>
+          <comment>my - мой, моя, мое, first - первый, name - имя, John - Джон</comment>
+       </example>
+       <example>
+          <value>My last name is Locke.</value>
+          <translation>Моя фамилия Лок.</translation>
+          <comment>my - мой, моя, мое, last - последний, name - имя, Locke - Лок</comment>
+       </example>
+       <example>
+          <value>My name is ...</value>
+          <translation>Моя фамилия ...</translation>
+          <comment>name - имя</comment>
+       </example>
+       <example>
+          <value>Here is my name and address.</value>
+          <translation>Вот мое имя и адрес.</translation>
+          <comment>here - здесь, name - имя, address - адрес</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>so bad</question>
+    <answer>так плохо, такой плохой</answer>
+    <comment>[soʊ bæd]</comment>
+    <question_comment>so - так, такой, bad - плохой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0b4778b-f26c-4867-9336-1a83b40514ee</uuid>
+    <examples>
+       <example>
+          <value>Not so bad.</value>
+          <translation>Неплохо.</translation>
+          <comment>so - так, bad - плохой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>so good</question>
+    <answer>так хорошо, такой хороший</answer>
+    <comment>[soʊ gʊd]</comment>
+    <question_comment>so - так, такой, good - хороший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0f8ddc14-2d58-43f6-a667-79535ac92f5f</uuid>
+    <examples>
+       <example>
+          <value>Not so good.</value>
+          <translation>Не очень хорошо.</translation>
+          <comment>so - такой, так, good - хороший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the same age</question>
+    <answer>одинаковый возраст</answer>
+    <comment>[ðə seɪm eɪʤ]</comment>
+    <question_comment>the same - тот же самый, age - возраст</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>58e79906-0ac3-4e07-bade-6c0ae3d42669</uuid>
+    <examples>
+       <example>
+          <value>We are the same age.</value>
+          <translation>Мы ровесники.</translation>
+          <comment>the same - тот же самый, одинаковый, age - возраст</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the United States</question>
+    <answer>США</answer>
+    <comment>[ðə juːˈnаɪtɪd steɪts]</comment>
+    <question_comment>united - соединенный, state - штат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>617d074d-0bd7-4e63-9f00-688786f6344f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m from the United States.</value>
+          <translation>Я из Соединенных Штатов.</translation>
+          <comment>from - от, из, the United States - Соединенные Штаты</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to ask your name</question>
+    <answer>спросить твое, ваше имя</answer>
+    <comment>[tə æsk jər neɪm]</comment>
+    <question_comment>to ask - спрашивать, your - твой, ваш, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55395a7e-5acc-4924-845a-2dd01901914e</uuid>
+    <examples>
+       <example>
+          <value>May I ask your name?</value>
+          <translation>Позвольте поинтересоваться вашим именем?</translation>
+          <comment>may - мочь, сметь, to ask - спросить, your - твой, ваш, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>better weather</question>
+    <answer>более хорошая погода</answer>
+    <comment>[ˈbetər ˈweðər]</comment>
+    <question_comment>better - более хороший, weather - погода</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>36eded09-4223-474d-8c1e-44e539a445b7</uuid>
+    <examples>
+       <example>
+          <value>Today the weather is much better.</value>
+          <translation>Сегодня распогодилось.</translation>
+          <comment>today - сегодня, weather - погода, much - много, better - лучше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m glad to see you.</question>
+    <answer>Я рад тебя видеть.</answer>
+    <comment>[аɪm glæd tə siː juː]</comment>
+    <question_comment>glad - радостный, see - видеть</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>96c1cc4d-d90d-457a-8dde-4a2ea8c4da5a</uuid>
+    <examples>
+       <example>
+          <value>We are glad to see you.</value>
+          <translation>Мы рады вас видеть.</translation>
+          <comment>we - мы, glad - радостный, to see - видеть, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Glad to see you.</value>
+          <translation>Рад тебя видеть.</translation>
+          <comment>glad - радостный, to see - видеть, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Very glad to see you again!</value>
+          <translation>Очень рад(а, ы) видеть вас снова!</translation>
+          <comment>very - очень, glad - радостный, to see - видеть, you - тебя, вас, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>great weather</question>
+    <answer>замечательная погода</answer>
+    <comment>[greɪt ˈweðər]</comment>
+    <question_comment>great - классный, weather - погода</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5e8faa52-562f-4e29-b960-da5e32012f7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>If I&apos;m not mistaken.</question>
+    <answer>Если я не ошибаюсь.</answer>
+    <comment>[ɪf аɪm nɑːt mɪˈsteɪkən]</comment>
+    <question_comment>mistake - ошибка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c6b06783-b6c5-46fb-8cf2-2e9f5fa6e4ac</uuid>
+    <examples>
+       <example>
+          <value>Mister Norton, if I am not mistaken.</value>
+          <translation>Господин Нортон, если не ошибаюсь.</translation>
+          <comment>mister - мистер, Norton - Нортон, if - если, mistaken - ошибающийся</comment>
+       </example>
+       <example>
+          <value>I have been mistaken for someone.</value>
+          <translation>Меня с кем-то спутали.</translation>
+          <comment>mistaken - ошибочный, ошибающийся, someone - кто-либо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a nice guy</question>
+    <answer>хороший парень</answer>
+    <comment>[ə nаɪs gаɪ]</comment>
+    <question_comment>nice - хороший, славный, guy - парень</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4bd675d8-ff45-4b04-abd5-7fffce199f07</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get a cold</question>
+    <answer>простыть</answer>
+    <comment>[tə get ə koʊld]</comment>
+    <question_comment>to get - получать, cold - простуда</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>314d071f-16c3-4305-834c-6bd8f0dc3804</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s getting cold.</value>
+          <translation>Холодает.</translation>
+          <comment>to get - становиться, cold - холодный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have a good trip</question>
+    <answer>хорошо съездить</answer>
+    <comment>[tə hæv ə gʊd trɪp]</comment>
+    <question_comment>to have - иметь, good - хороший, trip - поездка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>45a08478-6cda-4baa-ad98-16f4eb5a81b2</uuid>
+    <examples>
+       <example>
+          <value>Did you have a good trip?</value>
+          <translation>Как прошла поездка?</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip.</value>
+          <translation>Счастливого пути.</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip!</value>
+          <translation>Счастливого пути!</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to hear that</question>
+    <answer>слышать это</answer>
+    <comment>[tə hɪr ðæt]</comment>
+    <question_comment>to hear - слышать, that - это, то</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d6c89920-a4fa-44f2-bf50-3ee70728d536</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m sorry to hear that.</value>
+          <translation>Мне очень жаль.</translation>
+          <comment>sorry - огорченный, to hear - слышать, that - это, то,</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to hope for the best</question>
+    <answer>надеяться на лучшее</answer>
+    <comment>[tə hoʊp fər ðə best]</comment>
+    <question_comment>to hope - надеяться, the best - лучшее, лучший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>feffbe92-d74a-4f61-8ed2-0d39859976e2</uuid>
+    <examples>
+       <example>
+          <value>It’s a pity. Let’s hope for the best.</value>
+          <translation>Жаль. Давай надеяться на лучшее.</translation>
+          <comment>pity - печальный факт, let’s - давай, давайте, to hope - надеяться, the best - лучшее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to meet you</question>
+    <answer>познакомиться с вами</answer>
+    <comment>[tə miːt juː]</comment>
+    <question_comment>to meet - знакомиться, встречаться, you - вам, вас</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c25945ef-997c-410c-9f36-22020dde5b1e</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s nice to meet you.</value>
+          <translation>Приятно познакомиться.</translation>
+          <comment>nice - замечательный, to meet - встретить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>It was nice to meet you.</value>
+          <translation>Рад был с вами познакомиться.</translation>
+          <comment>was - был, была, было, nice - замечательный, to meet - встретить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Meet James.</value>
+          <translation>Познакомьтесь, это Джеймс.</translation>
+          <comment>to meet - познакомиться, James - Джеймс</comment>
+       </example>
+       <example>
+          <value>Pleased to meet you.</value>
+          <translation>Приятно познакомиться.</translation>
+          <comment>pleased - польщенный, to meet - познакомиться, you - тебя, тебе, вам, вас</comment>
+       </example>
+       <example>
+          <value>I hope we’ll meet again.</value>
+          <translation>Я надеюсь, мы снова встретимся.</translation>
+          <comment>to hope - надеяться, to meet - встретить, again - снова</comment>
+       </example>
+       <example>
+          <value>When shall we meet?</value>
+          <translation>Когда мы встретимся?</translation>
+          <comment>when - когда, we - мы, to meet - встретиться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>too bad</question>
+    <answer>слишком плохо, слишком плохой</answer>
+    <comment>[tuː bæd]</comment>
+    <question_comment>too - слишком, bad - плохой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1379e6f1-cbf3-4f40-9739-13081ec90724</uuid>
+    <examples>
+       <example>
+          <value>Oh, not too bad, thanks.</value>
+          <translation>Довольно неплохо, спасибо.</translation>
+          <comment>too - слишком, bad - плохой, to thank - благодарить</comment>
+       </example>
+       <example>
+          <value>That&apos;s too bad.</value>
+          <translation>Жаль.</translation>
+          <comment>that - это, то, too - слишком, bad - плохой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very glad</question>
+    <answer>очень рад</answer>
+    <comment>[ˈveriː glæd]</comment>
+    <question_comment>very - очень, glad - радостный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a7f81fe-1a11-4a5e-8252-4a1ad2f5da7a</uuid>
+    <examples>
+       <example>
+          <value>Very glad to see you again!</value>
+          <translation>Очень рад(а, ы) видеть вас снова!</translation>
+          <comment>very - очень, glad - радостный, to see - видеть, you - тебя, вас, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very well</question>
+    <answer>очень хорошо</answer>
+    <comment>[ˈveriː wel]</comment>
+    <question_comment>very - очень, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3ea53544-e4b2-4a82-820d-23ab4bf58339</uuid>
+    <examples>
+       <example>
+          <value>Very well, thank you.</value>
+          <translation>Очень хорошо, спасибо.</translation>
+          <comment>very - очень, well - хорошо, to thank - благодарить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Very well.</value>
+          <translation>Очень хорошо.</translation>
+          <comment>very - очень, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>what luck</question>
+    <answer>какая удача</answer>
+    <comment>[hwʌt lʌk]</comment>
+    <question_comment>what - какой, luck - удача</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6ebedac-55f1-46a5-aea6-379f43831a41</uuid>
+    <examples>
+       <example>
+          <value>What luck running into you!</value>
+          <translation>Как хорошо, что я тебя (вас) встретил!</translation>
+          <comment>what - какой, luck - удача, to run (into) - наткнуться (на), you - тебя, тебе</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your brother</question>
+    <answer>твой брат</answer>
+    <comment>[jər ˈbrʌðər]</comment>
+    <question_comment>your - твой, ваш, brother - брат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>55b54c6c-4939-437c-9c4c-b65b255d08ad</uuid>
+    <examples>
+       <example>
+          <value>How’s your brother?</value>
+          <translation>Как дела у твоего брата?</translation>
+          <comment>how - как, your - твой, твоя, brother - брат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your family</question>
+    <answer>твоя семья</answer>
+    <comment>[jər ˈfæməliː]</comment>
+    <question_comment>your - твой, ваш, family - семья</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4c9a5924-1a5f-45fc-9c6b-422a6e200802</uuid>
+    <examples>
+       <example>
+          <value>How’s your family?</value>
+          <translation>Как дела у твоей семьи?</translation>
+          <comment>how - как, your - твой, твоя, family - семья</comment>
+       </example>
+       <example>
+          <value>Say hello to your family for me.</value>
+          <translation>Передавай от меня привет семье.</translation>
+          <comment>to say - сказать, hello - привет, your - твой, ваш, family - семья</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your name</question>
+    <answer>ваше имя</answer>
+    <comment>[jər neɪm]</comment>
+    <question_comment>your - твой, ваш, name - имя</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>40ff146e-bf7a-4420-8784-7cd66ebeb8ac</uuid>
+    <examples>
+       <example>
+          <value>What’s your name?</value>
+          <translation>Как тебя (вас) зовут?</translation>
+          <comment>what - какой, your - твой, ваш, name - имя</comment>
+       </example>
+       <example>
+          <value>May I ask your name?</value>
+          <translation>Позвольте поинтересоваться вашим именем?</translation>
+          <comment>may - мочь, сметь, to ask - спросить, your - твой, ваш, name - имя</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your parents</question>
+    <answer>твои родители</answer>
+    <comment>[jər ˈperənts]</comment>
+    <question_comment>your - твой, ваш, parents - родители</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6176e3c2-6980-4f92-9e98-d529ec722294</uuid>
+    <examples>
+       <example>
+          <value>How are your parents?</value>
+          <translation>Как дела у твоих родителей?</translation>
+          <comment>how - как, your - твой, твоя, parents - родители</comment>
+       </example>
+       <example>
+          <value>Give my regards to your parents.</value>
+          <translation>Передавайте привет вашим родителям.</translation>
+          <comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, parents - родители</comment>
+       </example>
+       <example>
+          <value>Where do your parents work?</value>
+          <translation>Где работают ваши родители?</translation>
+          <comment>where - где, your - твой, ваш, parents - родители, to work - работать</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your sister</question>
+    <answer>твоя сестра</answer>
+    <comment>[jər ˈsɪstər]</comment>
+    <question_comment>your - твой, ваш, sister - сестра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d89e030e-24d8-47db-9c6e-ef80192882de</uuid>
+    <examples>
+       <example>
+          <value>How’s your sister?</value>
+          <translation>Как дела у твоей сестры?</translation>
+          <comment>how - как, your - твой, твоя, sister - сестра</comment>
+       </example>
+       <example>
+          <value>Give my regards to your sister.</value>
+          <translation>Передавайте привет вашей сестре.</translation>
+          <comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, sister - сестра</comment>
+       </example>
+       <example>
+          <value>Please, thank your sister for me.</value>
+          <translation>Пожалуйста, поблагодарите за меня вашу сестру.</translation>
+          <comment>please - пожалуйста, to thank благодарить, your - твой, ваш, sister - сестра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>your wife</question>
+    <answer>твоя жена</answer>
+    <comment>[jər wаɪf]</comment>
+    <question_comment>your - твой, ваш, wife - жена</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a2ec7847-c26c-4cc4-b49a-f5d249f7cb15</uuid>
+    <examples>
+       <example>
+          <value>How’s your wife?</value>
+          <translation>Как дела у твоей жены?</translation>
+          <comment>how - как, your - твой, твоя, wife - жена</comment>
+       </example>
+       <example>
+          <value>Remember me to your wife.</value>
+          <translation>Передавайте привет вашей жене.</translation>
+          <comment>to remember - напомнить, me - мне, меня, your - ваш, ваша, wife - жена</comment>
+       </example>
+       <example>
+          <value>What&apos;s your wife&apos;s job?</value>
+          <translation>Кем работает ваша жена?</translation>
+          <comment>what - что, какой, your - твой, ваш, wife - жена, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>47cb3b7a-3982-4bd3-a4b2-d005b9d00a05</uuid>
+  <title>Овощи</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Gemüse</question>
+    <answer>овощи</answer>
+    <comment></comment>
+    <uuid>2b33b1b1-12d9-45f6-a6ca-046a398007a6</uuid>
+  </card>
+  <card>
+    <question>der Apfel</question>
+    <answer>яблоко</answer>
+    <comment></comment>
+    <uuid>0bd9d60f-a4b7-454f-8469-f6664b91c177</uuid>
+  </card>
+  <card>
+    <question>der Champignon</question>
+    <answer>шампиньон</answer>
+    <comment></comment>
+    <uuid>a19d5098-42a6-499b-99eb-5979562f0495</uuid>
+  </card>
+  <card>
+    <question>der Kohl, das Kraut</question>
+    <answer>капуста</answer>
+    <comment></comment>
+    <uuid>e977c64a-7023-4d3a-8321-5ea26c2e026c</uuid>
+  </card>
+  <card>
+    <question>der Kopfsalat</question>
+    <answer>кочанный салат</answer>
+    <comment></comment>
+    <uuid>4db01ffb-48e1-4386-a377-8e832f445019</uuid>
+  </card>
+  <card>
+    <question>der Nachtisch, das Dessert</question>
+    <answer>десерт</answer>
+    <comment></comment>
+    <uuid>29d64fbd-be06-483e-9d74-489186453c91</uuid>
+  </card>
+  <card>
+    <question>der Pfirsich</question>
+    <answer>персик</answer>
+    <comment></comment>
+    <uuid>40d987a3-81e8-44d5-978f-68a7093f869d</uuid>
+  </card>
+  <card>
+    <question>der Pilz</question>
+    <answer>гриб</answer>
+    <comment></comment>
+    <uuid>8ba3528c-d36b-4bc4-aebf-a6422e8b3ce6</uuid>
+  </card>
+  <card>
+    <question>der Pudding</question>
+    <answer>пудинг</answer>
+    <comment></comment>
+    <uuid>d5cf247f-acb8-427a-bcf7-25be3ac6b897</uuid>
+  </card>
+  <card>
+    <question>der Salat</question>
+    <answer>салат</answer>
+    <comment></comment>
+    <uuid>838f62a4-6448-498b-90a3-5ccbe7201e44</uuid>
+  </card>
+  <card>
+    <question>der Spargel</question>
+    <answer>спаржа</answer>
+    <comment></comment>
+    <uuid>0176c8c4-01c2-40a7-a19a-76b742aa9399</uuid>
+  </card>
+  <card>
+    <question>die Apfelsine</question>
+    <answer>апельсин</answer>
+    <comment></comment>
+    <uuid>b9e5ccca-22e2-48bb-9460-1014f2822c85</uuid>
+  </card>
+  <card>
+    <question>die Banane</question>
+    <answer>банан</answer>
+    <comment></comment>
+    <uuid>c3569f5d-7efd-4f72-b791-999a00441fc5</uuid>
+  </card>
+  <card>
+    <question>die Birne</question>
+    <answer>груша</answer>
+    <comment></comment>
+    <uuid>f5eb1cf6-3a04-44ec-94a2-8c1c308c08ea</uuid>
+  </card>
+  <card>
+    <question>die Bohne</question>
+    <answer>фасоль</answer>
+    <comment></comment>
+    <uuid>4db90e3b-02c4-45ef-b44c-4a2704c7a7d8</uuid>
+  </card>
+  <card>
+    <question>die Erbse</question>
+    <answer>горох, горошина</answer>
+    <comment></comment>
+    <uuid>52dc2ff6-451f-4229-a0bd-72a4c21d8968</uuid>
+  </card>
+  <card>
+    <question>die Erdbeere</question>
+    <answer>клубника</answer>
+    <comment></comment>
+    <uuid>2b844759-d9ae-4629-9d78-dc2c55dbad96</uuid>
+  </card>
+  <card>
+    <question>die grünen Erbsen</question>
+    <answer>зеленый горошек</answer>
+    <comment></comment>
+    <uuid>6522dda9-c3e1-4d59-9ef0-ea62fcf27313</uuid>
+  </card>
+  <card>
+    <question>die Gurke</question>
+    <answer>огурец</answer>
+    <comment></comment>
+    <uuid>2aad7522-cd6c-4b21-8a64-f1ff9d4019bf</uuid>
+  </card>
+  <card>
+    <question>die Johannisbeere</question>
+    <answer>смородина</answer>
+    <comment></comment>
+    <uuid>80d97965-ece7-4925-acc8-6d0e6275e8aa</uuid>
+  </card>
+  <card>
+    <question>die Kirsche</question>
+    <answer>вишня</answer>
+    <comment></comment>
+    <uuid>c86db115-1fe8-480d-82b7-7e078d9ccf25</uuid>
+  </card>
+  <card>
+    <question>die Mohrrübe</question>
+    <answer>морковь</answer>
+    <comment></comment>
+    <uuid>b7599bef-95e2-41f0-8485-e424446606d7</uuid>
+  </card>
+  <card>
+    <question>die Orange</question>
+    <answer>апельсин</answer>
+    <comment></comment>
+    <uuid>a34053b7-ec48-4c01-87f2-6f46b8485dba</uuid>
+  </card>
+  <card>
+    <question>die roten Beete</question>
+    <answer>свекла</answer>
+    <comment></comment>
+    <uuid>2e1b9b18-def2-4317-83ab-0bf82119d1d9</uuid>
+  </card>
+  <card>
+    <question>die Tomate</question>
+    <answer>помидор</answer>
+    <comment></comment>
+    <uuid>a7dd461d-d8c4-460e-9c1f-791b3eb9cb43</uuid>
+  </card>
+  <card>
+    <question>die Weintraube</question>
+    <answer>виноград</answer>
+    <comment></comment>
+    <uuid>52f4d642-3408-49bd-90e5-4bb1271ac579</uuid>
+  </card>
+  <card>
+    <question>die Zitrone</question>
+    <answer>лимон</answer>
+    <comment></comment>
+    <uuid>ee20bb25-8d34-4b5d-81ab-f30b724df82d</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Kilo Weintrauben.</question>
+    <answer>Я хотел бы килограмм винограда.</answer>
+    <comment></comment>
+    <uuid>1d8c2b2d-cb65-407f-b6eb-de9f32abd742</uuid>
+  </card>
+</cards>
+</stack>

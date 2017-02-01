@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>a54fdc90-3386-450f-ae6e-e078afe8bcf0</uuid>
+  <title>Игры, игрушки</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el juego de tablero</question>
+    <answer>настольная игра</answer>
+    <comment></comment>
+    <uuid>f962ef37-98e3-48a7-a2ac-931dd927fda7</uuid>
+  </card>
+  <card>
+    <question>el coche</question>
+    <answer>машина, машинка</answer>
+    <comment></comment>
+    <uuid>3efcb6b3-a2f8-4a06-b7b3-593790e90543</uuid>
+  </card>
+  <card>
+    <question>los naipes</question>
+    <answer>карты (игральные)</answer>
+    <comment></comment>
+    <uuid>efe56ccd-f88f-46db-855f-82a61b1d0416</uuid>
+  </card>
+  <card>
+    <question>los dados</question>
+    <answer>игральные кости</answer>
+    <comment></comment>
+    <uuid>378ad3b8-7705-422b-981b-da548b73c510</uuid>
+  </card>
+  <card>
+    <question>la muñeca</question>
+    <answer>кукла</answer>
+    <comment></comment>
+    <uuid>a8727c68-9d47-4729-84c7-07ad84646a29</uuid>
+  </card>
+  <card>
+    <question>el lego</question>
+    <answer>лего</answer>
+    <comment></comment>
+    <uuid>29b31794-93c9-4052-b4a7-1d1c99651f8d</uuid>
+  </card>
+  <card>
+    <question>el plano de papel</question>
+    <answer>бумажный самолётик</answer>
+    <comment></comment>
+    <uuid>dfe6c1e9-05da-4596-a8f0-888aa9b94426</uuid>
+  </card>
+  <card>
+    <question>el rompecabezas</question>
+    <answer>головоломка, ребус, мозаика</answer>
+    <comment></comment>
+    <uuid>aacca116-ac30-4836-9a71-e671eba58109</uuid>
+  </card>
+  <card>
+    <question>el videojuego</question>
+    <answer>видеоигровое устройство</answer>
+    <comment></comment>
+    <uuid>4e79b107-610b-4974-b0f0-3993d2d354cf</uuid>
+  </card>
+</cards>
+</stack>

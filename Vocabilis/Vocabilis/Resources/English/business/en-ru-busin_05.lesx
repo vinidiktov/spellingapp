@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>635c4ec3-e913-4eb8-9585-3ee418ee9634</uuid>
+  <title>Деловой английский - 5</title>
+  <author>Роман Килин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>chamber</question>
+    <answer>палата</answer>
+    <comment>[ˈʧeɪmbə]</comment>
+    <uuid>92355d73-a614-49cd-8e6e-420efa88e73d</uuid>
+  </card>
+  <card>
+    <question>change</question>
+    <answer>мелочь, обменивать, изменять</answer>
+    <comment>[ʧeɪnʤ]</comment>
+    <uuid>9e43a3ab-aba0-448c-be7f-db5a072b33ae</uuid>
+  </card>
+  <card>
+    <question>changed</question>
+    <answer>изменил</answer>
+    <comment>[ʧeɪnʤd]</comment>
+    <uuid>c4f85a2d-a905-4da0-bbba-e1abdef20043</uuid>
+  </card>
+  <card>
+    <question>changes</question>
+    <answer>изменения</answer>
+    <comment>[ʧeɪnʤ]</comment>
+    <uuid>56bc8ae4-30df-4b02-839f-e08cb04ee96c</uuid>
+  </card>
+  <card>
+    <question>changing</question>
+    <answer>изменяющий</answer>
+    <comment>[ˈʧeɪnʤɪŋ]</comment>
+    <uuid>566f0465-c5e4-4cf2-9d58-0342c1d860b8</uuid>
+  </card>
+  <card>
+    <question>characteristics</question>
+    <answer>характеристики</answer>
+    <comment>[ˌkærɪktəˈrɪstɪk]</comment>
+    <uuid>6eaec57e-797f-42e6-960d-34194bbc5ddd</uuid>
+  </card>
+  <card>
+    <question>charge</question>
+    <answer>взимать оплату</answer>
+    <comment>[ʧɑːʤ]</comment>
+    <uuid>92f2c215-342f-43aa-83fa-8b6a3793a70c</uuid>
+  </card>
+  <card>
+    <question>charged</question>
+    <answer>предусмотренный</answer>
+    <comment>[ʧɑːʤd]</comment>
+    <uuid>11378293-2661-4528-9312-7dbe1c523385</uuid>
+  </card>
+  <card>
+    <question>charges</question>
+    <answer>расходы</answer>
+    <comment>[ʧɑːʤ]</comment>
+    <uuid>766b2ed0-60cd-426f-9fec-679d75b0e1cb</uuid>
+  </card>
+  <card>
+    <question>charter</question>
+    <answer>фрахтовать (судно), нанимать</answer>
+    <comment>[ˈʧɑːtə]</comment>
+    <uuid>e38842da-1488-435b-9221-f219f6ea5781</uuid>
+  </card>
+  <card>
+    <question>charter-party</question>
+    <answer>договор на перевозку судном</answer>
+    <comment>[ˈʧɑːtəˌpɑːtɪ]</comment>
+    <uuid>57dd7b2f-d209-4b19-ba82-f53868d5830d</uuid>
+  </card>
+  <card>
+    <question>chartered</question>
+    <answer>зафрахтовал, зафрахтованный</answer>
+    <comment>[ˈʧɑːtəd]</comment>
+    <uuid>869ecea7-3e64-491a-b762-460c251a3c7c</uuid>
+  </card>
+  <card>
+    <question>chartering</question>
+    <answer>фрахтовый</answer>
+    <comment>[ˈʧɑːtəɪŋ]</comment>
+    <uuid>0b5ffc16-0924-40ed-a460-2f830d0ce9bd</uuid>
+  </card>
+  <card>
+    <question>check</question>
+    <answer>проверка, проверять</answer>
+    <comment>[ʧek]</comment>
+    <uuid>6e49db99-f148-4550-a0a8-34375e2ae517</uuid>
+  </card>
+  <card>
+    <question>check clerk</question>
+    <answer>контролер</answer>
+    <comment>[ʧek klɑːk]</comment>
+    <uuid>9cb6505b-8683-43b5-b5d8-f765ec2a457b</uuid>
+  </card>
+  <card>
+    <question>check list</question>
+    <answer>контрольная ведомость</answer>
+    <comment>[ʧek lɪst]</comment>
+    <uuid>2168ef33-72c8-4a3a-af5a-d8ebdc2afa9c</uuid>
+  </card>
+  <card>
+    <question>check of accounts</question>
+    <answer>проверка ведения бухгалтерского учета</answer>
+    <comment>[ʧek ɒv əˈkаʊnt]</comment>
+    <uuid>623756b4-fdc7-4eb5-9ab6-b4d4a51669cd</uuid>
+  </card>
+  <card>
+    <question>check tests</question>
+    <answer>испытания контрольные</answer>
+    <comment>[ʧek test]</comment>
+    <uuid>04914e86-4d2a-452c-b429-3eda8687f109</uuid>
+  </card>
+  <card>
+    <question>check weight</question>
+    <answer>вес контрольный</answer>
+    <comment>[ʧek weɪt]</comment>
+    <uuid>a5f8a0ef-1212-450d-b92f-d7c28f1e1489</uuid>
+  </card>
+  <card>
+    <question>check-out area</question>
+    <answer>площадка для проверок</answer>
+    <comment>[ˈʧəkˈаʊt ˈeərɪə]</comment>
+    <uuid>f34b46ef-6b1f-4c77-a1c3-8440230385e6</uuid>
+  </card>
+  <card>
+    <question>check-out procedures</question>
+    <answer>правила проверки</answer>
+    <comment>[ˈʧəkˈаʊt prəˈsiːʤə]</comment>
+    <uuid>8a15dc92-e0a9-4f19-b2f2-2ccc4373c9b4</uuid>
+  </card>
+  <card>
+    <question>cheque</question>
+    <answer>чек, чековый</answer>
+    <comment>[ʧek]</comment>
+    <uuid>1848486c-fe8c-48b1-a9b8-de82e931ee87</uuid>
+  </card>
+  <card>
+    <question>cheques</question>
+    <answer>чеки</answer>
+    <comment>[ʧek]</comment>
+    <uuid>7d8fb891-0c04-4507-b970-f57a93cdc4ff</uuid>
+  </card>
+  <card>
+    <question>chief</question>
+    <answer>главный</answer>
+    <comment>[ʧiːf]</comment>
+    <uuid>8b481c81-2aa3-4316-9d0a-165895a3ff84</uuid>
+  </card>
+  <card>
+    <question>choice</question>
+    <answer>выбор, отборный сорт</answer>
+    <comment>[ʧɒɪs]</comment>
+    <uuid>101e2000-5b87-42f9-a453-fb51296e6061</uuid>
+  </card>
+  <card>
+    <question>choice of manner of payment</question>
+    <answer>выбор формы платежа</answer>
+    <comment>[ʧɔɪs ɒv ˈmænə ɒv ˈpeɪmənt]</comment>
+    <uuid>1f9c4aed-3311-428c-9bf6-0a8605451095</uuid>
+  </card>
+  <card>
+    <question>choose</question>
+    <answer>избирать, выбирать</answer>
+    <comment>[ʧuːz]</comment>
+    <uuid>bdcc7c74-0164-482a-8da6-1346eabaa83c</uuid>
+  </card>
+  <card>
+    <question>circle</question>
+    <answer>круг, группа</answer>
+    <comment>[ˈsɜːkl]</comment>
+    <uuid>9306faf5-f3cd-4a50-9b21-392cd598c70f</uuid>
+  </card>
+  <card>
+    <question>circles</question>
+    <answer>круги</answer>
+    <comment>[ˈsɜːkl]</comment>
+    <uuid>43fc536c-cb71-4ee9-af74-f4443f020b23</uuid>
+  </card>
+  <card>
+    <question>circular</question>
+    <answer>циркуляр, реклама, письмо</answer>
+    <comment>[ˈsɜːkjʊlə]</comment>
+    <uuid>ced7bae0-eb86-4f6c-bf6e-1c6603294b97</uuid>
+  </card>
+  <card>
+    <question>circulating capital</question>
+    <answer>капитал оборотный</answer>
+    <comment>[ˈsɜːkjʊleɪtɪŋ ˈkæpɪtl]</comment>
+    <uuid>1b310a9a-55d2-4649-8bb6-a0bdfebfe60e</uuid>
+  </card>
+  <card>
+    <question>circulating funds</question>
+    <answer>средства оборотные</answer>
+    <comment>[ˈsɜːkjʊleɪtɪŋ fʌnd]</comment>
+    <uuid>e215efb5-c0ef-4b67-9ab7-5852319ab3f8</uuid>
+  </card>
+  <card>
+    <question>circumstance</question>
+    <answer>обстоятельство, случай</answer>
+    <comment>[ˈsɜːkəmstəns]</comment>
+    <uuid>1c3b93e4-e86c-48bc-a90f-30aae3966b9b</uuid>
+  </card>
+  <card>
+    <question>circumstances</question>
+    <answer>обстоятельства</answer>
+    <comment>[ˈsɜːkəmstəns]</comment>
+    <uuid>c03f8a40-f89a-4516-9816-2856bc29a6ff</uuid>
+  </card>
+  <card>
+    <question>claim</question>
+    <answer>претензия, требовать</answer>
+    <comment>[kleɪm]</comment>
+    <uuid>a3bd80fe-4c94-4e30-a009-48911bce43d5</uuid>
+  </card>
+  <card>
+    <question>claim for a discovery</question>
+    <answer>заявка на изобретение</answer>
+    <comment>[kleɪm fə ə dɪsˈkʌvərɪ]</comment>
+    <uuid>a81761c0-1081-4663-8b83-77554f2d1c27</uuid>
+  </card>
+  <card>
+    <question>claim to property</question>
+    <answer>взыскание на имущество</answer>
+    <comment>[kleɪm tʊ ˈprɒpətɪ]</comment>
+    <uuid>68995458-5db9-4ad8-8b50-0a6c87fac863</uuid>
+  </card>
+  <card>
+    <question>claim under contract</question>
+    <answer>иск по контракту</answer>
+    <comment>[kleɪm ˈʌndə ˈkɒntrækt]</comment>
+    <uuid>9187deea-625b-44ec-b7db-b6c25873e0d7</uuid>
+  </card>
+  <card>
+    <question>claimant</question>
+    <answer>истец</answer>
+    <comment>[ˈkleɪmənt]</comment>
+    <uuid>51988ed5-2572-45d5-bc33-b55a0df8b72f</uuid>
+  </card>
+  <card>
+    <question>class</question>
+    <answer>групповой</answer>
+    <comment>[klɑːs]</comment>
+    <uuid>caf6c349-b025-409c-8b9e-ba8059a9c0d5</uuid>
+  </card>
+  <card>
+    <question>clause</question>
+    <answer>пункт, глава</answer>
+    <comment>[klɔːz]</comment>
+    <uuid>b1c3c0da-87f3-4f9e-aad0-76708e2b4642</uuid>
+  </card>
+  <card>
+    <question>clauses</question>
+    <answer>главы</answer>
+    <comment>[klɔːz]</comment>
+    <uuid>6a9548c7-c0a4-4935-bd8a-a55b8917bec0</uuid>
+  </card>
+  <card>
+    <question>clean bill of exchange</question>
+    <answer>вексель недокументированный</answer>
+    <comment>[kliːn bɪl ɒv ɪksˈʧeɪnʤ]</comment>
+    <uuid>3070bd83-c420-4cbc-aa3b-e9a7f92a0afd</uuid>
+  </card>
+  <card>
+    <question>clean encashment</question>
+    <answer>инкассо чистое</answer>
+    <comment>[kliːn (---)]</comment>
+    <uuid>073624c3-b09d-4f23-89af-e259d7a9f377</uuid>
+  </card>
+  <card>
+    <question>clean letter of credit</question>
+    <answer>аккредитив чистый</answer>
+    <comment>[kliːn ˈletə ɒv ˈkredɪt]</comment>
+    <uuid>24534b12-553e-4e5a-973d-6d732a00a224</uuid>
+  </card>
+  <card>
+    <question>clear</question>
+    <answer>выяснить, понятный</answer>
+    <comment>[klɪə]</comment>
+    <uuid>72d63ad6-70a7-465a-a2ce-a81fe8c545c3</uuid>
+  </card>
+  <card>
+    <question>clearance</question>
+    <answer>очистка</answer>
+    <comment>[ˈklɪərəns]</comment>
+    <uuid>d6cbeb4a-a76a-4f48-852e-14c6ce2e163f</uuid>
+  </card>
+  <card>
+    <question>clearance sale</question>
+    <answer>распродажа по сниженным ценам</answer>
+    <comment>[ˈklɪərəns seɪl]</comment>
+    <uuid>ba8d913d-47aa-4deb-9cba-4da6c4a30b39</uuid>
+  </card>
+  <card>
+    <question>clearing</question>
+    <answer>клиринг, безналичные расчеты</answer>
+    <comment>[ˈklɪərɪŋ]</comment>
+    <uuid>b23049e6-6881-499e-95a0-0b219772f6b6</uuid>
+  </card>
+  <card>
+    <question>clearing bank</question>
+    <answer>клиринг-банк</answer>
+    <comment>[ˈklɪərɪŋˈbæŋk]</comment>
+    <uuid>10b8cca9-66a8-4e20-8d78-6cd3068f7f04</uuid>
+  </card>
+  <card>
+    <question>clerical</question>
+    <answer>канцелярский</answer>
+    <comment>[ˈklerɪkəl]</comment>
+    <uuid>097a6591-4361-4f62-9117-7a5cb5cfc5a1</uuid>
+  </card>
+  <card>
+    <question>clerk</question>
+    <answer>конторский служащий, клерк</answer>
+    <comment>[klɑːk]</comment>
+    <uuid>0167cd4a-f59c-40a7-87c4-de8aec9dfee2</uuid>
+  </card>
+  <card>
+    <question>client</question>
+    <answer>клиент, заказчик</answer>
+    <comment>[ˈklаɪənt]</comment>
+    <uuid>b8806a17-c88c-4dbc-bc69-daf441ff82b8</uuid>
+  </card>
+  <card>
+    <question>close</question>
+    <answer>заканчивать, закрывать</answer>
+    <comment>[kləʊs]</comment>
+    <uuid>6c1376ea-f8d0-462d-b45c-cf67975c519d</uuid>
+  </card>
+  <card>
+    <question>close company</question>
+    <answer>компания закрытого типа</answer>
+    <comment>[kləʊs ˈkʌmpənɪ]</comment>
+    <uuid>ec305ee8-23f0-482c-923a-d06351631631</uuid>
+  </card>
+  <card>
+    <question>closed</question>
+    <answer>законченный</answer>
+    <comment>[kləʊzd]</comment>
+    <uuid>21310b50-d5d5-4e0e-a6b4-154336af7927</uuid>
+  </card>
+  <card>
+    <question>closing down of an enterprise</question>
+    <answer>ликвидация предприятия</answer>
+    <comment>[ˈkləʊzɪŋ dаʊn ɒv ən ˈentəprаɪz]</comment>
+    <uuid>b6a11a01-70fc-4636-928a-2d520f833fdd</uuid>
+  </card>
+  <card>
+    <question>closing out a contract</question>
+    <answer>ликвидация контракта</answer>
+    <comment>[ˈkləʊzɪŋ аʊt ə ˈkɒntrækt]</comment>
+    <uuid>3952ab4f-517c-49dd-b1b8-718f5de52d30</uuid>
+  </card>
+  <card>
+    <question>co-manager</question>
+    <answer>соуправляющий</answer>
+    <comment>[(---)]</comment>
+    <uuid>d393cc68-1e19-4912-88dc-9dfcdadfb7a3</uuid>
+  </card>
+  <card>
+    <question>co-ordinator</question>
+    <answer>координатор</answer>
+    <comment>[(---)]</comment>
+    <uuid>3bfb5739-900f-4719-b510-88393b01a02e</uuid>
+  </card>
+  <card>
+    <question>co-signer</question>
+    <answer>сопоручитель</answer>
+    <comment>[(---)]</comment>
+    <uuid>3e414c4a-2b6b-46b7-a963-f3f70237958c</uuid>
+  </card>
+  <card>
+    <question>coach</question>
+    <answer>автобус</answer>
+    <comment>[kəʊʧ]</comment>
+    <uuid>a74a6800-3629-4a0a-9c1c-ef42569a369c</uuid>
+  </card>
+  <card>
+    <question>coffee</question>
+    <answer>кофе</answer>
+    <comment>[ˈkɒfɪ]</comment>
+    <uuid>9c770aeb-fb9a-4250-a87b-93e47e1945b7</uuid>
+  </card>
+  <card>
+    <question>collateral</question>
+    <answer>залог, обеспечение, гарантия</answer>
+    <comment>[kɒˈlætərəl]</comment>
+    <uuid>2b1525d6-b54f-453d-88b5-114623cfce25</uuid>
+  </card>
+  <card>
+    <question>colleague</question>
+    <answer>сослуживец, коллега</answer>
+    <comment>[ˈkɒliːg]</comment>
+    <uuid>e57e7846-abea-4948-bd29-8f52348388cf</uuid>
+  </card>
+  <card>
+    <question>colleagues</question>
+    <answer>коллеги</answer>
+    <comment>[ˈkɒliːg]</comment>
+    <uuid>ffd8d39a-adc1-41a3-8487-ef3435b44841</uuid>
+  </card>
+  <card>
+    <question>collect</question>
+    <answer>инкассировать, собирать</answer>
+    <comment>[kəˈlekt]</comment>
+    <uuid>d8160958-38a0-46cb-acd0-f643d2fc9d10</uuid>
+  </card>
+  <card>
+    <question>collect taxes</question>
+    <answer>взимать налоги</answer>
+    <comment>[kəˈlekt tæks]</comment>
+    <uuid>e67c8bea-6392-4634-ab0f-215768d9f202</uuid>
+  </card>
+  <card>
+    <question>collected</question>
+    <answer>собранный</answer>
+    <comment>[kəˈlektɪd]</comment>
+    <uuid>e20db727-4a88-4413-b27e-feca48b73d46</uuid>
+  </card>
+  <card>
+    <question>collection</question>
+    <answer>инкассо</answer>
+    <comment>[kəˈlekʃən]</comment>
+    <uuid>083c1115-7695-4df0-860c-38ea0c22eeb9</uuid>
+  </card>
+  <card>
+    <question>collective currency</question>
+    <answer>валюта коллективная</answer>
+    <comment>[kɒˈlektɪv ˈkʌrənsɪ]</comment>
+    <uuid>f2a6ce4c-4c81-4b98-9718-717e538aae6f</uuid>
+  </card>
+  <card>
+    <question>collective show</question>
+    <answer>выставка совместная</answer>
+    <comment>[kɒˈlektɪv ʃəʊ]</comment>
+    <uuid>61571fad-1117-458d-97fe-723eaf960884</uuid>
+  </card>
+  <card>
+    <question>collision</question>
+    <answer>столкновение</answer>
+    <comment>[kəˈlɪʒən]</comment>
+    <uuid>9f093831-0f7d-41e2-be2c-ac0d58a13460</uuid>
+  </card>
+  <card>
+    <question>collusion</question>
+    <answer>тайный сговор</answer>
+    <comment>[kəˈluːʒən]</comment>
+    <uuid>004451d6-b5a1-452f-9b56-d3aa66f649b7</uuid>
+  </card>
+  <card>
+    <question>combine</question>
+    <answer>объединять</answer>
+    <comment>[ˈkɒmbаɪn]</comment>
+    <uuid>1a6555d6-d437-4960-91b5-72d411420ae7</uuid>
+  </card>
+  <card>
+    <question>come</question>
+    <answer>приезжать, происходить, подходить</answer>
+    <comment>[kʌm]</comment>
+    <uuid>557dbc25-1d97-43f3-b76e-27553f495b12</uuid>
+  </card>
+  <card>
+    <question>come at</question>
+    <answer>получить доступ к чему-либо</answer>
+    <comment>[kʌm æt]</comment>
+    <uuid>6016e2f3-3b75-4a84-9fc6-6dd020318716</uuid>
+  </card>
+  <card>
+    <question>comes</question>
+    <answer>подходит</answer>
+    <comment>[kʌm]</comment>
+    <uuid>722dd84e-ff88-4120-9af7-f4230bf7544a</uuid>
+  </card>
+  <card>
+    <question>comment</question>
+    <answer>замечание</answer>
+    <comment>[ˈkɒment]</comment>
+    <uuid>3129ad11-e008-489f-a8af-00303a5f2ee6</uuid>
+  </card>
+  <card>
+    <question>comments</question>
+    <answer>замечания</answer>
+    <comment>[ˈkɒment]</comment>
+    <uuid>2ef8a3a2-f4a8-4e6f-947b-271a08792c51</uuid>
+  </card>
+  <card>
+    <question>commerce</question>
+    <answer>коммерция, торговля</answer>
+    <comment>[ˈkɒmɜːs]</comment>
+    <uuid>e8220e18-ee98-443e-a5a7-ccb326cc8b21</uuid>
+  </card>
+  <card>
+    <question>commercial</question>
+    <answer>коммерческий</answer>
+    <comment>[kəˈmɜːʃəl]</comment>
+    <uuid>86cd7cd5-5950-4e97-b8d4-748bac31c6b4</uuid>
+  </card>
+  <card>
+    <question>commercial bank</question>
+    <answer>коммерческий банк</answer>
+    <comment>[kəˈmɜːʃəl bæŋk]</comment>
+    <uuid>6599633e-5ce9-4625-b6b8-c7c8528a3eaa</uuid>
+  </card>
+  <card>
+    <question>commercial credit</question>
+    <answer>расчет в кредит</answer>
+    <comment>[kəˈmɜːʃəl ˈkredɪt]</comment>
+    <uuid>620dbb00-b6d6-4135-9be8-b4399ca8b6af</uuid>
+  </card>
+  <card>
+    <question>commercial traveler</question>
+    <answer>коммивояжер</answer>
+    <comment>[kəˈmɜːʃəl ˈtrævlə]</comment>
+    <uuid>7f79efe0-bfa4-43cc-bc08-9c1158376948</uuid>
+  </card>
+  <card>
+    <question>commercialization</question>
+    <answer>коммерциализация</answer>
+    <comment>[(---)]</comment>
+    <uuid>a90999ea-d8a0-4cec-8967-2877666d2f36</uuid>
+  </card>
+  <card>
+    <question>commission</question>
+    <answer>поручение комиссионное, сбор комиссионный</answer>
+    <comment>[kəˈmɪʃən]</comment>
+    <uuid>50758854-1199-4349-a9e9-c2cee8c715f2</uuid>
+  </card>
+  <card>
+    <question>commission agent</question>
+    <answer>комиссионер</answer>
+    <comment>[kəˈmɪʃən ˈeɪʤənt]</comment>
+    <uuid>862e4a61-5b8e-47f6-bdc2-2a2a97ea58b7</uuid>
+  </card>
+  <card>
+    <question>commission for collection</question>
+    <answer>комиссия инкассовая</answer>
+    <comment>[kəˈmɪʃən fə kəˈlekʃən]</comment>
+    <uuid>1f6814f6-ca34-47ce-94e6-c8ce5dad6d7c</uuid>
+  </card>
+  <card>
+    <question>commissioning</question>
+    <answer>ввод в эксплуатацию</answer>
+    <comment>[kəˈmɪʃənɪŋ]</comment>
+    <uuid>6f0077b7-2f71-4a7d-b806-68e47f7712b6</uuid>
+  </card>
+  <card>
+    <question>committee</question>
+    <answer>комитет, комиссия</answer>
+    <comment>[kəˈmɪtɪ]</comment>
+    <uuid>701e68ee-a988-47b5-b4ea-236bf770c850</uuid>
+  </card>
+  <card>
+    <question>commodities</question>
+    <answer>товары</answer>
+    <comment>[kəˈmɒdɪtɪ]</comment>
+    <uuid>a857faaa-41dd-4349-a41b-cbaf492e650a</uuid>
+  </card>
+  <card>
+    <question>commodity</question>
+    <answer>товар, продукт</answer>
+    <comment>[kəˈmɒdɪtɪ]</comment>
+    <uuid>4a5adc25-7877-48f0-a797-1b95059130de</uuid>
+  </card>
+  <card>
+    <question>commodity exchange</question>
+    <answer>биржа товарная</answer>
+    <comment>[kəˈmɒdɪtɪ ɪksˈʧeɪnʤ]</comment>
+    <uuid>d1243447-bed7-430a-8a15-f0c540e9fa3a</uuid>
+  </card>
+  <card>
+    <question>commodity expert</question>
+    <answer>товаровед</answer>
+    <comment>[kəˈmɒdɪtɪ ˈekspɜːt]</comment>
+    <uuid>cbef1928-b8db-4b21-922e-6071d462a114</uuid>
+  </card>
+  <card>
+    <question>commodity item</question>
+    <answer>позиция товарная</answer>
+    <comment>[kəˈmɒdɪtɪ ˈаɪtəm]</comment>
+    <uuid>1bfc637f-93cb-4c51-93c8-f2a12423a429</uuid>
+  </card>
+  <card>
+    <question>commodity producer</question>
+    <answer>товаропроизводитель</answer>
+    <comment>[kəˈmɒdɪtɪ prəˈdjuːsə]</comment>
+    <uuid>98c5f3ea-884a-4df2-bd4a-d06a0cfcf0db</uuid>
+  </card>
+  <card>
+    <question>commodity reserves</question>
+    <answer>резервы товарные</answer>
+    <comment>[kəˈmɒdɪtɪ rɪˈzɜːv]</comment>
+    <uuid>d95a8eff-06c2-43b2-bdbe-7e838f4d6f8e</uuid>
+  </card>
+  <card>
+    <question>common</question>
+    <answer>общий</answer>
+    <comment>[ˈkɒmən]</comment>
+    <uuid>cfb78bd0-2f3f-4a2c-a66a-3c97345144ed</uuid>
+  </card>
+  <card>
+    <question>common currency</question>
+    <answer>единая валюта</answer>
+    <comment>[ˈkɒmən ˈkʌrənsɪ]</comment>
+    <uuid>fc40c372-7d8b-4782-9796-6969534012f6</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>b04c75be-fc04-4c13-90e0-fb46aa5cfd09</uuid>
+  <title>Музыка</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>la guitare acoustique</question>
+    <answer>акустическая гитара</answer>
+    <comment></comment>
+    <answer_picture>acoustic_guitar.gif</answer_picture>
+    <uuid>7a8ed80f-4fc8-4fb9-89a7-4b15543fd689</uuid>
+  </card>
+  <card>
+    <question>le ballet</question>
+    <answer>балет</answer>
+    <comment></comment>
+    <answer_picture>ballet.gif</answer_picture>
+    <uuid>0cf935c3-6e63-4893-babf-dc0b7bd5ca6c</uuid>
+  </card>
+  <card>
+    <question>la danse de salon</question>
+    <answer>бальный танец</answer>
+    <comment></comment>
+    <answer_picture>ballroom_dance.gif</answer_picture>
+    <uuid>56d2c97c-a426-49f5-8a80-408099a757e6</uuid>
+  </card>
+  <card>
+    <question>le groupe</question>
+    <answer>музыкальная группа</answer>
+    <comment></comment>
+    <answer_picture>band.gif</answer_picture>
+    <uuid>bb4c2264-6783-4e03-a2d6-eb6d77382eec</uuid>
+  </card>
+  <card>
+    <question>la cassette</question>
+    <answer>кассета</answer>
+    <comment></comment>
+    <answer_picture>cassette.gif</answer_picture>
+    <uuid>06dcb855-1959-4db7-b832-2cc322db7d3f</uuid>
+  </card>
+  <card>
+    <question>le chœur [kœr]</question>
+    <answer>хор</answer>
+    <comment></comment>
+    <answer_picture>choir.gif</answer_picture>
+    <uuid>2caeac24-6e85-4bc2-95b4-00a1b4e06fe5</uuid>
+  </card>
+  <card>
+    <question>le chef d&apos;orchestre</question>
+    <answer>дирижёр</answer>
+    <comment></comment>
+    <answer_picture>conductor.gif</answer_picture>
+    <uuid>281200b1-0183-4d38-a01e-4e9ef2fd0fd0</uuid>
+  </card>
+  <card>
+    <question>les cymbales</question>
+    <answer>тарелки (в музыке)</answer>
+    <comment></comment>
+    <answer_picture>cymbals.gif</answer_picture>
+    <uuid>0063238f-57dc-4dc8-9bf2-c07aae48800e</uuid>
+  </card>
+  <card>
+    <question>danser</question>
+    <answer>танцевать</answer>
+    <comment></comment>
+    <answer_picture>dance.gif</answer_picture>
+    <uuid>72814403-1ad0-4c2b-b659-df7cc91f8172</uuid>
+  </card>
+  <card>
+    <question>le tambour</question>
+    <answer>барабан</answer>
+    <comment></comment>
+    <answer_picture>drum_set.gif</answer_picture>
+    <uuid>4cba87b4-b7d7-4805-bf71-d93e2b01d413</uuid>
+  </card>
+  <card>
+    <question>la batterie</question>
+    <answer>ударная установка</answer>
+    <comment></comment>
+    <answer_picture>drum.gif</answer_picture>
+    <uuid>a995d330-c43c-4d1e-bf86-443b196fafbe</uuid>
+  </card>
+  <card>
+    <question>la guitare électrique</question>
+    <answer>электрогитара</answer>
+    <comment></comment>
+    <answer_picture>electric_guitar.gif</answer_picture>
+    <uuid>3dce26d7-5b8d-4002-bb9c-54116708e5b4</uuid>
+  </card>
+  <card>
+    <question>la flûte</question>
+    <answer>флейта</answer>
+    <comment></comment>
+    <answer_picture>flute.gif</answer_picture>
+    <uuid>61737a11-662d-4ba9-8d32-d5a38ecba02c</uuid>
+  </card>
+  <card>
+    <question>le microphone</question>
+    <answer>микрофон</answer>
+    <comment></comment>
+    <answer_picture>microphone.gif</answer_picture>
+    <uuid>da172219-b6b6-4083-ae22-8f350f30bdd5</uuid>
+  </card>
+  <card>
+    <question>la musique</question>
+    <answer>музыка</answer>
+    <comment></comment>
+    <answer_picture>music.gif</answer_picture>
+    <uuid>6a69d4c6-fa04-4a84-9c25-869fa52c35f0</uuid>
+  </card>
+  <card>
+    <question>l&apos;orchestre</question>
+    <answer>оркестр</answer>
+    <comment></comment>
+    <answer_picture>orchestra.gif</answer_picture>
+    <uuid>b25b1bb6-a318-457c-b1a4-659f0fae06a4</uuid>
+  </card>
+  <card>
+    <question>le piano</question>
+    <answer>фортепьяно</answer>
+    <comment></comment>
+    <answer_picture>piano.gif</answer_picture>
+    <uuid>aef34b15-1c80-4b9b-a3e5-126f362281b5</uuid>
+  </card>
+  <card>
+    <question>jouer</question>
+    <answer>играть</answer>
+    <comment></comment>
+    <answer_picture>to_play.gif</answer_picture>
+    <uuid>53a99d18-9d83-4698-83fd-38f79122996d</uuid>
+  </card>
+  <card>
+    <question>le saxophone</question>
+    <answer>саксофон</answer>
+    <comment></comment>
+    <answer_picture>saxophone.gif</answer_picture>
+    <uuid>9ca5fe96-a902-4bb3-8cc9-5b3ad966ffd5</uuid>
+  </card>
+  <card>
+    <question>chanter</question>
+    <answer>петь</answer>
+    <comment></comment>
+    <answer_picture>sing.gif</answer_picture>
+    <uuid>5c9379f4-fcf4-4bdc-b86b-deba29bc4e76</uuid>
+  </card>
+  <card>
+    <question>le tambourin</question>
+    <answer>бубен</answer>
+    <comment></comment>
+    <answer_picture>tambourine.gif</answer_picture>
+    <uuid>a7853e40-5a02-42c7-bfc4-79443e1ab50b</uuid>
+  </card>
+  <card>
+    <question>la trompette</question>
+    <answer>труба (музыкальная)</answer>
+    <comment></comment>
+    <answer_picture>trumpet.gif</answer_picture>
+    <uuid>fbc10565-cbc8-4360-8257-7c637f8b5f10</uuid>
+  </card>
+  <card>
+    <question>mélodieux</question>
+    <answer>мелодичный</answer>
+    <comment></comment>
+    <answer_picture>tuneful.gif</answer_picture>
+    <uuid>c2737691-63f1-4dbc-ba94-f8852439be2d</uuid>
+  </card>
+  <card>
+    <question>désagréable</question>
+    <answer>неприятный</answer>
+    <comment></comment>
+    <answer_picture>unpleasant.gif</answer_picture>
+    <uuid>26ab35f5-23d2-4279-b5a3-100b6e5b6ee3</uuid>
+  </card>
+  <card>
+    <question>le violon</question>
+    <answer>скрипка</answer>
+    <comment></comment>
+    <answer_picture>violin.gif</answer_picture>
+    <uuid>d8972267-8682-4f93-856c-c8a9e4028415</uuid>
+  </card>
+  <card>
+    <question>le walkman</question>
+    <answer>аудиоплеер</answer>
+    <comment></comment>
+    <answer_picture>walkman.gif</answer_picture>
+    <uuid>c0e9bb94-5c0c-409b-b03c-47d31d7793db</uuid>
+  </card>
+</cards>
+</stack>

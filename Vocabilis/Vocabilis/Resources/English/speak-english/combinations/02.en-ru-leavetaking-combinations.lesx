@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>daaef7bf-6936-4556-b0f7-99f7493cc567</uuid>
+  <title>Прощание :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a good journey</question>
+    <answer>хорошее путешествие</answer>
+    <comment>[ə gʊd ˈʤɜːrniː]</comment>
+    <question_comment>good - хороший, journey - путешествие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6715687-f4d4-41e2-b101-f20fced20f6d</uuid>
+    <examples>
+       <example>
+          <value>Have a good journey!</value>
+          <translation>Счастливого пути.</translation>
+          <comment>to have - иметь, good - хороший, journey - путешествие</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a good trip</question>
+    <answer>хорошая поездка</answer>
+    <comment>[ə gʊd trɪp]</comment>
+    <question_comment>good - хороший, trip - поездка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7b810a29-860d-42e5-b0df-f9ea5dcc721d</uuid>
+    <examples>
+       <example>
+          <value>Did you have a good trip?</value>
+          <translation>Как прошла поездка?</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip.</value>
+          <translation>Счастливого пути.</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+       <example>
+          <value>Have a good trip!</value>
+          <translation>Счастливого пути!</translation>
+          <comment>to have - иметь, good - хороший, trip - поездка</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>He&apos;ll come back.</question>
+    <answer>Он вернется.</answer>
+    <comment>[hiːl kʌm bæk]</comment>
+    <question_comment>to come - приезжать, прибывать, back - обратно</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f168efe6-98ae-40f8-b2b8-362eb2f3a2d5</uuid>
+    <examples>
+       <example>
+          <value>Come back soon.</value>
+          <translation>Возвращайтесь быстрее.</translation>
+          <comment>to come - приходить, back - обратно, soon - скоро</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>my regards</question>
+    <answer>мой привет</answer>
+    <comment>[mаɪ rɪˈgɑːrdz]</comment>
+    <question_comment>my - мой, моя, regards - поклон, приветствие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6f4538e-c13c-49fc-81b9-4832f4b5549c</uuid>
+    <examples>
+       <example>
+          <value>Give my regards to your sister.</value>
+          <translation>Передавайте привет вашей сестре.</translation>
+          <comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, sister - сестра</comment>
+       </example>
+       <example>
+          <value>Give my regards to your parents.</value>
+          <translation>Передавайте привет вашим родителям.</translation>
+          <comment>to give - давать, my - мой, моя, regard - привет, your - твой, ваш, parents - родители</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>so glad</question>
+    <answer>так рад</answer>
+    <comment>[soʊ glæd]</comment>
+    <question_comment>so - так, glad - рад, радостный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5a653df4-a1d4-4e4b-ba22-cef2f5d252ff</uuid>
+    <examples>
+       <example>
+          <value>I’m so glad to have met you.</value>
+          <translation>Было очень приятно с вами познакомиться.</translation>
+          <comment>so - так, такой, glad - радостный, to meet - встретить, you - тебя, вас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to go home</question>
+    <answer>идти домой</answer>
+    <comment>[tə goʊ hoʊm]</comment>
+    <question_comment>to go - идти, home - домой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4816aa23-b5a5-430f-8762-d71e785ca9ce</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m in a hurry.</question>
+    <answer>Я спешу.</answer>
+    <comment>[аɪm ɪn ə ˈhɜːriː]</comment>
+    <question_comment>hurry - спешка</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e350ce50-ff68-489c-94e1-55be20ae430b</uuid>
+    <examples>
+       <example>
+          <value>You’re not in a hurry, are you?</value>
+          <translation>Вы ведь не торопитесь, не так ли?</translation>
+          <comment>hurry - спешка</comment>
+       </example>
+       <example>
+          <value>I&apos;m in a hurry.</value>
+          <translation>Я спешу.</translation>
+          <comment>hurry - спешаший, торопливый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get late</question>
+    <answer>становиться поздно</answer>
+    <comment>[tə get leɪt]</comment>
+    <question_comment>to get - становиться, late - поздний</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51f43884-0a50-4138-ab47-53dddff072fb</uuid>
+    <examples>
+       <example>
+          <value>It’s getting late.</value>
+          <translation>Становится поздно.</translation>
+          <comment>to get - становиться, late - поздний</comment>
+       </example>
+       <example>
+          <value>Can you drive faster? I&apos;m getting late.</value>
+          <translation>Не могли бы вы ехать быстрее? Я опаздываю.</translation>
+          <comment>can - мочь, to drive - ехать, faster - быстрее, to get - становиться, late - поздний, опоздавший</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get moving</question>
+    <answer>выдвигаться</answer>
+    <comment>[tə get ˈmuːvɪŋ]</comment>
+    <question_comment>to get - становиться, moving - двигающийся</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5849d0ad-fa41-4626-b620-7e1e459c672c</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve got to get moving.</value>
+          <translation>Мне пора выдвигаться.</translation>
+          <comment>to have got to - быть должным, moving - двигающийся</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to meet again</question>
+    <answer>встретиться снова</answer>
+    <comment>[tə miːt əˈgen]</comment>
+    <question_comment>to meet - встречаться, again - снова</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0981b147-e229-4763-9311-92337bdadbd6</uuid>
+    <examples>
+       <example>
+          <value>I hope we’ll meet again.</value>
+          <translation>Я надеюсь, мы снова встретимся.</translation>
+          <comment>to hope - надеяться, to meet - встретить, again - снова</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to say goodbye</question>
+    <answer>попрощаться</answer>
+    <comment>[tə seɪ ˌgʊdˈbаɪ]</comment>
+    <question_comment>to say - говорить, сказать, goodbye - до свидания</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d14ce28b-a1cc-4fdf-b60c-ebda81624c9b</uuid>
+    <examples>
+       <example>
+          <value>I&apos;ve come to say goodbye.</value>
+          <translation>Я пришел попрощаться.</translation>
+          <comment>to come - прийти, to say - сказать, goodbye - до свидания</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to say hello</question>
+    <answer>передать привет, поздороваться</answer>
+    <comment>[tə seɪ heˈloʊ]</comment>
+    <question_comment>to say - говорить, сказать, hello - привет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aa486430-8a7c-480e-854e-a51e76ad8046</uuid>
+    <examples>
+       <example>
+          <value>Say hello to Mary.</value>
+          <translation>Передавай привет Мэри.</translation>
+          <comment>to say - сказать, hello - привет, Mary - Мэри</comment>
+       </example>
+       <example>
+          <value>Say hello to your family for me.</value>
+          <translation>Передавай от меня привет семье.</translation>
+          <comment>to say - сказать, hello - привет, your - твой, ваш, family - семья</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to see somebody again</question>
+    <answer>снова увидеть кого-л.</answer>
+    <comment>[tə siː ˈsʌmˌbɑːdiː əˈgen]</comment>
+    <question_comment>to see - увидеть, видеть, somebody - кто-либо, again - снова</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>892efdb7-f877-4372-a49d-ccb526f01b7f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>too late</question>
+    <answer>слишком поздно</answer>
+    <comment>[tuː leɪt]</comment>
+    <question_comment>too - слишком, late- поздний, опоздавший</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84f9e1f5-ea02-4b78-9a09-9c48a47708ef</uuid>
+    <examples>
+       <example>
+          <value>It’s too late, I have to go.</value>
+          <translation>Уже слишком поздно, мне нужно идти.</translation>
+          <comment>too - слишком, late - поздний, have to - быть должным, to go - идти</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>good advice</question>
+    <answer>хороший совет</answer>
+    <comment>[gʊd ædˈvаɪs]</comment>
+    <question_comment>good - хороший, advice - совет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>52d4cc2a-d6be-4383-932c-eb7c265ec3bf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>your attention</question>
+    <answer>ваше внимание</answer>
+    <comment>[jər əˈtenʃən]</comment>
+    <question_comment>your - твой, ваш, attention - внимание</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>18c81baf-7bf3-4bbd-961c-6f2803287a1e</uuid>
+    <examples>
+       <example>
+          <value>Thank you for your attention.</value>
+          <translation>Спасибо за внимание.</translation>
+          <comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, attention - внимание</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to meet your family</question>
+    <answer>познакомиться с твоей семьей</answer>
+    <comment>[tə miːt jər ˈfæməliː]</comment>
+    <question_comment>to meet - знакомиться с, your - твой, ваш, family - семья</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2cfce860-7e01-4d71-8ca3-bb4158a37563</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to need your help</question>
+    <answer>нуждаться в твоей помощи</answer>
+    <comment>[tə niːd jər help]</comment>
+    <question_comment>to need - нуждаться в, your - твой, ваш, help - помощь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>70d87fc6-94b2-4449-957f-ac31cd75c9c1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to accept his invitation</question>
+    <answer>принять его приглашение</answer>
+    <comment>[tə ækˈsept hɪz ˌɪnvɪˈteɪʃən]</comment>
+    <question_comment>to accept - принимать, his - его, invitation - приглашение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2379637e-1701-458f-aa01-115793a085b3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to see your parents</question>
+    <answer>увидеться с твоими родителями</answer>
+    <comment>[tə siː jər ˈperənts]</comment>
+    <question_comment>to see - видеть, your - твой, ваш, parents - родители</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cfa4498c-983b-4ed5-8204-42b85202b8d5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to meet your sister</question>
+    <answer>познакомиться с твоей сестрой</answer>
+    <comment>[tə miːt jər ˈsɪstər]</comment>
+    <question_comment>to meet - знакомиться с, your - твой, ваш, sister - сестра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>965ca55b-d5ed-4557-983d-17e2a2a56b3a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to meet your wife</question>
+    <answer>познакомиться с твоей женой</answer>
+    <comment>[tə miːt jər wаɪf]</comment>
+    <question_comment>to meet - знакомиться с, your - твой, ваш, wife - жена</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c9563402-16df-49ec-a555-561d054699b1</uuid>
+  </card>
+</cards>
+</stack>

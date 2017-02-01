@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6f44a81d-f868-4fcb-a038-dc7c19057c46</uuid>
+  <title>Форма</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le cône</question>
+    <answer>конус</answer>
+    <comment></comment>
+    <answer_picture>cone.gif</answer_picture>
+    <uuid>fb0b440d-ba71-437e-aa01-d1e66feaa207</uuid>
+  </card>
+  <card>
+    <question>le cube</question>
+    <answer>куб</answer>
+    <comment></comment>
+    <answer_picture>cube.gif</answer_picture>
+    <uuid>9324e8aa-ef36-4459-bd00-8137ab9cec78</uuid>
+  </card>
+  <card>
+    <question>le cylindre</question>
+    <answer>цилиндр</answer>
+    <comment></comment>
+    <answer_picture>cylinder.gif</answer_picture>
+    <uuid>6effc469-c5ff-4416-94c4-12db72609bfb</uuid>
+  </card>
+  <card>
+    <question>différent</question>
+    <answer>другой, непохожий</answer>
+    <comment></comment>
+    <answer_picture>different.gif</answer_picture>
+    <uuid>7d5f2886-7537-4acd-88e7-350c6e8e6f1a</uuid>
+  </card>
+  <card>
+    <question>en bas</question>
+    <answer>вниз</answer>
+    <comment></comment>
+    <answer_picture>down.gif</answer_picture>
+    <uuid>0775efe2-4633-4142-bd25-ee951ae97318</uuid>
+  </card>
+  <card>
+    <question>identique</question>
+    <answer>одинаковые</answer>
+    <comment></comment>
+    <answer_picture>identical.gif</answer_picture>
+    <uuid>b66f2d4b-aee3-4cd6-880f-12382411c387</uuid>
+  </card>
+  <card>
+    <question>à gauche</question>
+    <answer>налево</answer>
+    <comment></comment>
+    <answer_picture>left.gif</answer_picture>
+    <uuid>c3fb7692-695d-466f-8704-808df284d402</uuid>
+  </card>
+  <card>
+    <question>l&apos;ovale</question>
+    <answer>овал</answer>
+    <comment></comment>
+    <answer_picture>oval.gif</answer_picture>
+    <uuid>e938ed50-b97e-4e32-a71e-4ab35185ff8d</uuid>
+  </card>
+  <card>
+    <question>le pentagone [pɛ̃-]</question>
+    <answer>пятиугольник</answer>
+    <comment></comment>
+    <answer_picture>pentagon.gif</answer_picture>
+    <uuid>8ce360b7-6835-4992-99ee-19eb5b43a937</uuid>
+  </card>
+  <card>
+    <question>pyramide</question>
+    <answer>пирамида</answer>
+    <comment></comment>
+    <answer_picture>pyramid.gif</answer_picture>
+    <uuid>f768253e-d0e0-49ec-bc35-3fd05e17a039</uuid>
+  </card>
+  <card>
+    <question>le quadrilatère [k(w)a-]</question>
+    <answer>четырёхугольник</answer>
+    <comment></comment>
+    <answer_picture>quadrangle.gif</answer_picture>
+    <uuid>84ac9cae-9779-4a3f-b814-b7692388e9c2</uuid>
+  </card>
+  <card>
+    <question>le rectangle</question>
+    <answer>прямоугольник</answer>
+    <comment></comment>
+    <answer_picture>rectangle.gif</answer_picture>
+    <uuid>fab63310-8846-4200-ae74-e61779002126</uuid>
+  </card>
+  <card>
+    <question>à droite</question>
+    <answer>направо</answer>
+    <comment></comment>
+    <answer_picture>right.gif</answer_picture>
+    <uuid>f415f6b9-b0df-49ea-a4f2-5d5bbda8f715</uuid>
+  </card>
+  <card>
+    <question>le demi-cercle</question>
+    <answer>полукруг</answer>
+    <comment></comment>
+    <answer_picture>semi_circle.gif</answer_picture>
+    <uuid>5d8bf3be-f29c-4896-8f50-688dbc5f4da5</uuid>
+  </card>
+  <card>
+    <question>similaire</question>
+    <answer>подобные, похожие</answer>
+    <comment></comment>
+    <answer_picture>similar.gif</answer_picture>
+    <uuid>46784d2e-3567-47e0-82f0-85118cc4e045</uuid>
+  </card>
+  <card>
+    <question>la sphère</question>
+    <answer>сфера, шар</answer>
+    <comment></comment>
+    <answer_picture>sphere.gif</answer_picture>
+    <uuid>21385ed8-2815-4b8d-bd10-4191f45f61b2</uuid>
+  </card>
+  <card>
+    <question>le triangle</question>
+    <answer>треугольник</answer>
+    <comment></comment>
+    <answer_picture>triangle.gif</answer_picture>
+    <uuid>c5c22951-65de-48e3-bf47-d73758a80194</uuid>
+  </card>
+  <card>
+    <question>en haut</question>
+    <answer>вверх</answer>
+    <comment></comment>
+    <answer_picture>up.gif</answer_picture>
+    <uuid>5cd7a241-0247-48ed-839d-e8efb4cf4d65</uuid>
+  </card>
+</cards>
+</stack>

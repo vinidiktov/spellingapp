@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>0fbeb053-9fa7-4c32-b0a5-7d46eb713958</uuid>
+  <title>Благодарность. Извинения :: Словосочетания</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>5</month>
+     <day>24</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>all right</question>
+    <answer>все в порядке</answer>
+    <comment>[ɔːl rаɪt]</comment>
+    <question_comment>all - все, right - надлежащим или должным образом</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>46a074e6-7a72-4728-aee8-6bf2bfe7b6a7</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m all right.</value>
+          <translation>Я в порядке.</translation>
+          <comment>all - весь, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right.</value>
+          <translation>Не за что.</translation>
+          <comment>that - это, all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>That&apos;s all right! You may pass on.</value>
+          <translation>Все в порядке! Вы можете проходить.</translation>
+          <comment>that - это, то, all - все, всё, right - правильный, you - ты, вы, may - мочь, to pass on - проходить (дальше)</comment>
+       </example>
+       <example>
+          <value>All right!</value>
+          <translation>Правильно!</translation>
+          <comment>all - всё, все, right - правильный</comment>
+       </example>
+       <example>
+          <value>All right. Thank you.</value>
+          <translation>Хорошо. Спасибо.</translation>
+          <comment>all - все, всё, right - правильный, to thank - благодарить, you - тебя, вас</comment>
+       </example>
+       <example>
+          <value>Does it fit all right?</value>
+          <translation>Это вам подойдет?</translation>
+          <comment>to fit - подходить, all - все, right - правильный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>awfully sorry</question>
+    <answer>очень жаль</answer>
+    <comment>[ˈɔːfəli ˈsɑːriː]</comment>
+    <question_comment>awfully - ужасно, sorry - огорченный, полный сожаления</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5ee03d0d-4648-4757-92e0-17f779683a1e</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m awfully sorry...</value>
+          <translation>Мне очень жаль...</translation>
+          <comment>awfully - страшно, sorry - сожалеющий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>so much</question>
+    <answer>так много</answer>
+    <comment>[soʊ mʌʧ]</comment>
+    <question_comment>so - так, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3324088-f4c6-4ced-99bf-927efc2ff3b5</uuid>
+    <examples>
+       <example>
+          <value>Thank you ever so much.</value>
+          <translation>Большое спасибо.</translation>
+          <comment>to thank - благодарить, you - тебя, тебе, вам, вас, ever so - очень, much - много</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>much obliged</question>
+    <answer>очень обязан</answer>
+    <comment>[mʌʧ əˈblаɪʤd]</comment>
+    <question_comment>much - много, obliged - обязанный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>05a07e5b-41b4-4952-bd64-3b9ea811ea51</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m much obliged to you.</value>
+          <translation>Я вам очень обязан.</translation>
+          <comment>much - много, obliged - обязанный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>of you</question>
+    <answer>с вашей стороны</answer>
+    <comment>[əv juː]</comment>
+    <question_comment>you - вам, вас</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5199d2f5-f8d6-4507-9002-f646b4cca598</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>terribly sorry</question>
+    <answer>очень жаль</answer>
+    <comment>[ˈterəbli ˈsɑːriː]</comment>
+    <question_comment>terribly - ужасно, sorry - огорченный, полный сожаления</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0a495da-fbbc-4d97-b0ab-2a4ab77a7e1f</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m terribly sorry...</value>
+          <translation>Мне очень жаль...</translation>
+          <comment>terribly - страшно, sorry - сожалеющий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to apologize for disturbing</question>
+    <answer>извиняться за беспокойство</answer>
+    <comment>[tə əˈpɑːləˌʤаɪz fər dɪˈstɜːrbɪŋ]</comment>
+    <question_comment>to apologize - извиняться, to disturb - мешать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3344e308-954f-4b47-97bc-12f7f8f1b95d</uuid>
+    <examples>
+       <example>
+          <value>I must apologize for disturbing you.</value>
+          <translation>Я должен извиниться, что побеспокоил вас.</translation>
+          <comment>must - должен, должна, to apologize - извиниться, disturbing - помеха, you - тебе, тебя, вам, вас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to keep you waiting</question>
+    <answer>заставлять тебя ждать</answer>
+    <comment>[tə kiːp juː ˈweɪtiːŋ]</comment>
+    <question_comment>to keep - держать, to wait - ждать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>de81e4a9-5a8c-4c72-bd4c-7eeef58fec84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be angry at you</question>
+    <answer>сердиться на тебя</answer>
+    <comment>[tə biː ˈæŋgriː ət jʊ]</comment>
+    <question_comment>angry - сердитый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9b88c63b-de6b-437e-b158-f75d52b904dd</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t be angry.</value>
+          <translation>Не сердитесь.</translation>
+          <comment>to be - быть, angry - сердитый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to offend you</question>
+    <answer>обидеть тебя</answer>
+    <comment>[tə əˈfend jʊ]</comment>
+    <question_comment>to offend - обижать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bf0dc66d-ed41-4227-aca9-bd64cac13728</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t be offended.</value>
+          <translation>Не обижайтесь.</translation>
+          <comment>to be - быть, offended - обиженный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to beg your pardon</question>
+    <answer>просить у тебя прощения</answer>
+    <comment>[tə beg jər ˈpɑːrdn]</comment>
+    <question_comment>to beg - просить, your - твой, ваш, pardon - прощение, извинение</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d33815cf-48dd-4738-99db-813c5fce4278</uuid>
+    <examples>
+       <example>
+          <value>I beg your pardon, I didn&apos;t catch what you said.</value>
+          <translation>Извините, я не услышал, что вы мне сказали.</translation>
+          <comment>to beg - просить, your - твой, ваш, pardon - прощение, to catch - поймать, уловить, what - что, you - ты, вы, to say - сказать</comment>
+       </example>
+       <example>
+          <value>I beg your pardon.</value>
+          <translation>Прошу прощения.</translation>
+          <comment>to beg - просить, your - твой, ваш, pardon - прощение</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get that</question>
+    <answer>понять это</answer>
+    <comment>[tə get ðæt]</comment>
+    <question_comment>to get - получить, достать, that - то</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>dec85e2f-f381-4a51-8446-c7f0a4caf049</uuid>
+    <examples>
+       <example>
+          <value>Sorry, I didn&apos;t quite get that.</value>
+          <translation>Извините, я не совсем понял.</translation>
+          <comment>sorry - сожалеющий, quite - абсолютно, совсем, to get - уловить, понять, that - то, это</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to worry about that</question>
+    <answer>волноваться об этом</answer>
+    <comment>[tə ˈwɜːriː əˈbаʊt ðæt]</comment>
+    <question_comment>to worry - беспокоиться, about - о (чем-л.), that - то</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c7e9257-5b0a-4444-ac7a-c847b75d972a</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t worry about that.</value>
+          <translation>Не волнуйтесь об этом.</translation>
+          <comment>to worry - волноваться, about -о (чем-л.), that - это, то</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very grateful</question>
+    <answer>очень благодарен</answer>
+    <comment>[ˈveriː ˈgreɪtfəl]</comment>
+    <question_comment>very - очень, grateful - благодарный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ddf9db50-953d-4d9e-8579-b172342e06d5</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m very grateful to you.</value>
+          <translation>Я вам очень благодарен.</translation>
+          <comment>very - очень, grateful - благодарный, you - тебе, тебя, вам, вас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very kind</question>
+    <answer>очень любезно</answer>
+    <comment>[ˈveriː kаɪnd]</comment>
+    <question_comment>very - очень, kind - любезный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>862a2a76-da28-4b40-b6dc-c984a971834a</uuid>
+    <examples>
+       <example>
+          <value>That&apos;s very kind of you.</value>
+          <translation>Очень любезно с вашей стороны.</translation>
+          <comment>that - это, very - очень, kind - любезный, you - тебя, вас</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very much</question>
+    <answer>очень</answer>
+    <comment>[ˈveriː mʌʧ]</comment>
+    <question_comment>very - очень, much - много</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2d1a8cd2-1b19-47bf-a38e-29796846bcf2</uuid>
+    <examples>
+       <example>
+          <value>Thank you very much.</value>
+          <translation>Большое спасибо.</translation>
+          <comment>to thank - благодарить, you - тебя, тебе, вам, вас, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I liked the play very much.</value>
+          <translation>Спектакль мне очень понравился.</translation>
+          <comment>to like - любить, нравиться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I enjoyed the play very much.</value>
+          <translation>Мне очень понравился спектакль.</translation>
+          <comment>to enjoy - наслаждаться, play - пьеса, спектакль, very - очень, much - много</comment>
+       </example>
+       <example>
+          <value>I enjoy fishing very much.</value>
+          <translation>Мне очень нравится рыбалка.</translation>
+          <comment>to enjoy - наслаждаться, fishing - рыбалка, very - очень, much - много</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>warm welcome</question>
+    <answer>теплый прием</answer>
+    <comment>[wɔːrm ˈwelkəm]</comment>
+    <question_comment>warm - теплый, welcome - приветствие</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e1e4eca4-1aaf-4527-bca0-cd4bbe587c4a</uuid>
+    <examples>
+       <example>
+          <value>Thanks for your warm welcome.</value>
+          <translation>Спасибо за теплую встречу.</translation>
+          <comment>to thank - благодарить, your - твой, ваш, warm - теплый, welcome - радушный прием</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>his advice</question>
+    <answer>его совет</answer>
+    <comment>[hɪz ædˈvаɪs]</comment>
+    <question_comment>your - твой, ваш, advice - совет</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4cb6b18f-f362-4827-9bda-ac660ba8c92a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Thanks for your help.</question>
+    <answer>Спасибо за (твою) помощь.</answer>
+    <comment>[θæŋks fər jər help]</comment>
+    <question_comment>to thank - благодарить, your - твой, ваш, help - помощь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>76041151-1711-42dd-8a24-743edb876676</uuid>
+    <examples>
+       <example>
+          <value>Thank you for your help.</value>
+          <translation>Спасибо за помощь.</translation>
+          <comment>to thank - благодарить, you - тебя, вас, your - твой, ваш, help - помощь</comment>
+       </example>
+       <example>
+          <value>Thanks for your help.</value>
+          <translation>Спасибо за помощь.</translation>
+          <comment>to thank - благодарить, your - твой, ваш, help - помощь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is my sister.</question>
+    <answer>Это моя сестра.</answer>
+    <comment>[ðɪs ɪz mаɪ ˈsɪstər]</comment>
+    <question_comment>this - это, my - мой, sister - сестра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fd292253-4b50-43a4-a9c8-5de9dbd7265f</uuid>
+  </card>
+</cards>
+</stack>

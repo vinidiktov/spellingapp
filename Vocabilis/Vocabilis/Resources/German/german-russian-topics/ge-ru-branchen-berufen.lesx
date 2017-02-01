@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>5109fb5a-48ed-49ca-8a45-69d54f0b4957</uuid>
+  <title>Профессии</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Dienstleistungsgewerbe</question>
+    <answer>сфера бытовых услуг</answer>
+    <comment></comment>
+    <uuid>ee7ab94f-b16a-40db-82f6-d83642184393</uuid>
+  </card>
+  <card>
+    <question>das Handwerk</question>
+    <answer>ремесло</answer>
+    <comment></comment>
+    <uuid>89688d2f-44e0-472d-a4e1-d3b34aee4ea3</uuid>
+  </card>
+  <card>
+    <question>das produzierende Gewerbe</question>
+    <answer>производственный промысел</answer>
+    <comment></comment>
+    <uuid>e1d77a8f-4cab-4571-8a7d-27faf8bbb0c1</uuid>
+  </card>
+  <card>
+    <question>das Transportwesen</question>
+    <answer>транспортное дело</answer>
+    <comment></comment>
+    <uuid>14c60582-d56c-4b86-9efb-5f600825ad08</uuid>
+  </card>
+  <card>
+    <question>das Zimmermädchen</question>
+    <answer>горничная</answer>
+    <comment></comment>
+    <uuid>6a19ac98-6859-4103-9570-5925424c5a5a</uuid>
+  </card>
+  <card>
+    <question>der Bankkaufmann</question>
+    <answer>экономист</answer>
+    <comment></comment>
+    <uuid>5bc1e4eb-fc0f-404e-a090-3b64ca0c4ce4</uuid>
+  </card>
+  <card>
+    <question>der Bergbau</question>
+    <answer>горная промышленность</answer>
+    <comment></comment>
+    <uuid>3053e3da-0d34-4268-b22d-fba661256091</uuid>
+  </card>
+  <card>
+    <question>der Dachdecker</question>
+    <answer>кровельщик</answer>
+    <comment></comment>
+    <uuid>596cc1aa-b1aa-4baa-8486-9f0196dcddec</uuid>
+  </card>
+  <card>
+    <question>der Einzelhandel</question>
+    <answer>розничная торговля</answer>
+    <comment></comment>
+    <uuid>c63741bc-a77d-4751-8658-65b8ef0b25a1</uuid>
+  </card>
+  <card>
+    <question>der Elektriker</question>
+    <answer>электрик</answer>
+    <comment></comment>
+    <uuid>16a1213c-739c-490b-8bc9-af1f286ead7a</uuid>
+  </card>
+  <card>
+    <question>der Fernfahrer</question>
+    <answer>водитель грузовика для дальних перевозок</answer>
+    <comment></comment>
+    <uuid>b6298fc8-6422-442a-b89c-41c29364b4b6</uuid>
+  </card>
+  <card>
+    <question>der Gerüstbauer</question>
+    <answer>монтажник лесов</answer>
+    <comment></comment>
+    <uuid>50575bb7-2952-451b-a9dd-77ace8fa49f4</uuid>
+  </card>
+  <card>
+    <question>der Hausmeister</question>
+    <answer>смотритель</answer>
+    <comment></comment>
+    <uuid>4c806d5d-bf8c-45ba-ba24-c94741166822</uuid>
+  </card>
+  <card>
+    <question>der Ingenieur</question>
+    <answer>инженер</answer>
+    <comment></comment>
+    <uuid>63bcf4bc-9623-40b9-815e-c0b34a832e1a</uuid>
+  </card>
+  <card>
+    <question>der Kaufmann</question>
+    <answer>коммерсант</answer>
+    <comment></comment>
+    <uuid>1ba79498-c4a7-40e8-9c78-bdcb60b9a2f1</uuid>
+  </card>
+  <card>
+    <question>der Kellner</question>
+    <answer>официант</answer>
+    <comment></comment>
+    <uuid>df149129-e891-462f-81e5-17f98c66f5d0</uuid>
+  </card>
+  <card>
+    <question>der KFZ-Mechaniker</question>
+    <answer>автомеханик</answer>
+    <comment></comment>
+    <uuid>8ec5e50c-128b-49e5-bdd8-cf66d71854cf</uuid>
+  </card>
+  <card>
+    <question>der Koch</question>
+    <answer>повар</answer>
+    <comment></comment>
+    <uuid>3d770bd9-8f74-4096-ae57-4cea1ef38277</uuid>
+  </card>
+  <card>
+    <question>der Kranführer</question>
+    <answer>крановщик</answer>
+    <comment></comment>
+    <uuid>a81072a0-000c-4251-88b4-f2775705d26b</uuid>
+  </card>
+  <card>
+    <question>der Landarbeiter</question>
+    <answer>сельскохозяйственный рабочий</answer>
+    <comment></comment>
+    <uuid>e02e58a8-3c8b-4867-b92a-b538246d92de</uuid>
+  </card>
+  <card>
+    <question>der Maler</question>
+    <answer>маляр</answer>
+    <comment></comment>
+    <uuid>21fb5f9c-f764-4b3b-b372-fff13051d997</uuid>
+  </card>
+  <card>
+    <question>der Maschinenbau</question>
+    <answer>машиностроение</answer>
+    <comment></comment>
+    <uuid>efaf3cb8-0549-43b4-affc-a46cac75ef3d</uuid>
+  </card>
+  <card>
+    <question>der Maschinenschlosser</question>
+    <answer>слесарь-механик</answer>
+    <comment></comment>
+    <uuid>f02dfc4e-1165-4fb8-b709-4a5d43257684</uuid>
+  </card>
+  <card>
+    <question>der Maurer</question>
+    <answer>каменщик</answer>
+    <comment></comment>
+    <uuid>cf85b0fb-6d86-4d32-a5af-88945eb41746</uuid>
+  </card>
+  <card>
+    <question>der Schreiner</question>
+    <answer>столяр</answer>
+    <comment></comment>
+    <uuid>488cd7fd-bb24-45b8-9697-4539453f6a58</uuid>
+  </card>
+  <card>
+    <question>der Straßenbau</question>
+    <answer>дорожное строительство</answer>
+    <comment></comment>
+    <uuid>ee23f430-5bea-4268-b1ed-e564c6bce8d7</uuid>
+  </card>
+  <card>
+    <question>der Traktorfahrer</question>
+    <answer>тракторист</answer>
+    <comment></comment>
+    <uuid>adea90c9-fd27-4f91-a5f4-960bbd3ad44d</uuid>
+  </card>
+  <card>
+    <question>die Autoindustrie</question>
+    <answer>автомобильная промышленность</answer>
+    <comment></comment>
+    <uuid>d676438b-a693-4643-a7e3-7f64b68a123d</uuid>
+  </card>
+  <card>
+    <question>die Banken</question>
+    <answer>банки</answer>
+    <comment></comment>
+    <uuid>42e00ea1-9fa5-4c15-af84-f808dfbc809d</uuid>
+  </card>
+  <card>
+    <question>die Bankkauffrau</question>
+    <answer>женщина-экономист</answer>
+    <comment></comment>
+    <uuid>82031bfc-af18-48ea-bf11-a0d6bad92463</uuid>
+  </card>
+  <card>
+    <question>die Baustelle</question>
+    <answer>стройка</answer>
+    <comment></comment>
+    <uuid>8c940ee5-2838-48a3-af4b-84d7d4fcbe30</uuid>
+  </card>
+  <card>
+    <question>die Bauwirtschaft</question>
+    <answer>строительство</answer>
+    <comment></comment>
+    <uuid>2e31d82a-2285-4e7a-9266-7c37ac4a0919</uuid>
+  </card>
+  <card>
+    <question>die Chemieindustrie</question>
+    <answer>химическая промышленность</answer>
+    <comment></comment>
+    <uuid>be37195e-d69c-481b-ba14-abc0c4202626</uuid>
+  </card>
+  <card>
+    <question>die Druckindustrie</question>
+    <answer>полиграфическая промышленность</answer>
+    <comment></comment>
+    <uuid>83187db9-33d0-4b4c-9d66-7407004688b5</uuid>
+  </card>
+  <card>
+    <question>die Elektroindustrie</question>
+    <answer>электропромышленность</answer>
+    <comment></comment>
+    <uuid>05c0932e-fbbe-465f-aca3-9e25c2174904</uuid>
+  </card>
+  <card>
+    <question>die Großhandel</question>
+    <answer>оптовая торговля</answer>
+    <comment></comment>
+    <uuid>d8b86475-1a08-4edc-9612-d0a8d0cd4869</uuid>
+  </card>
+  <card>
+    <question>die Landwirtschaft</question>
+    <answer>сельское хозяйство</answer>
+    <comment></comment>
+    <uuid>8625d181-dce3-4ae9-b965-c3eaf12e3086</uuid>
+  </card>
+  <card>
+    <question>die Pharma-Industrie</question>
+    <answer>фармацевтическая промышленность</answer>
+    <comment></comment>
+    <uuid>c5db78ae-5332-42c9-b06a-a8695b90ffb1</uuid>
+  </card>
+  <card>
+    <question>die Putzfrau</question>
+    <answer>уборщица</answer>
+    <comment></comment>
+    <uuid>a7c65ff9-b4db-487b-ba87-a2c31478d34a</uuid>
+  </card>
+  <card>
+    <question>die Stahlindustrie</question>
+    <answer>сталелитейная промышленность</answer>
+    <comment></comment>
+    <uuid>9ca38ce8-277c-47f6-986b-e07ca3465439</uuid>
+  </card>
+  <card>
+    <question>die Verkäuferin</question>
+    <answer>продавщица</answer>
+    <comment></comment>
+    <uuid>98c8d6b3-d987-4fb6-af39-565ada77d337</uuid>
+  </card>
+  <card>
+    <question>Hotels und Gaststätten</question>
+    <answer>гостиницы и предприятия общепита</answer>
+    <comment></comment>
+    <uuid>e63a1ac2-81ce-4c6f-85db-883032f16938</uuid>
+  </card>
+</cards>
+</stack>

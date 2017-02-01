@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>7a2876e2-31d2-43a8-8100-1159b1c65267</uuid>
+  <title>Деловой английский - 2</title>
+  <author>Роман Килин</author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>appeal</question>
+    <answer>апелляция</answer>
+    <comment>[əˈpiːl ]</comment>
+    <uuid>a711664a-f4ed-475f-8c0f-9aeea1483d3f</uuid>
+  </card>
+  <card>
+    <question>appellant</question>
+    <answer>апеллянт</answer>
+    <comment>[əˈpelənt ]</comment>
+    <uuid>4ee5f9f7-adcc-4b2c-bd49-4c31cf400a6e</uuid>
+  </card>
+  <card>
+    <question>application</question>
+    <answer>заявка, заявление</answer>
+    <comment>[ˌæplɪˈkeɪʃən ]</comment>
+    <uuid>333454ed-d544-49d8-af97-ab43f9f1f78e</uuid>
+  </card>
+  <card>
+    <question>apply</question>
+    <answer>применять, обращаться</answer>
+    <comment>[əˈplаɪ ]</comment>
+    <uuid>9a5ab8e0-bc54-4382-9b63-d955820ac1a6</uuid>
+  </card>
+  <card>
+    <question>appointment</question>
+    <answer>условленная встреча</answer>
+    <comment>[əˈpɔɪntmənt ]</comment>
+    <uuid>c1bc8396-fcd5-474c-8c20-e1a1fce0b599</uuid>
+  </card>
+  <card>
+    <question>appraise</question>
+    <answer>оценивать</answer>
+    <comment>[əˈpreɪz ]</comment>
+    <uuid>a0cb7525-d5f5-4d98-b7ce-dabed83463de</uuid>
+  </card>
+  <card>
+    <question>appreciate</question>
+    <answer>(высоко) ценить</answer>
+    <comment>[əˈpriːʃɪeɪt ]</comment>
+    <uuid>1770debb-b124-4274-a291-62eb7413917b</uuid>
+  </card>
+  <card>
+    <question>apprenticeship</question>
+    <answer>срок, период обучения</answer>
+    <comment>[əˈprentɪʃɪp ]</comment>
+    <uuid>eac2439c-2b97-4388-8318-eceec512930c</uuid>
+  </card>
+  <card>
+    <question>approach</question>
+    <answer>обратиться</answer>
+    <comment>[əˈprəʊʧ ]</comment>
+    <uuid>9873b061-dd31-4482-b4fb-d496d50e1e57</uuid>
+  </card>
+  <card>
+    <question>appropriation</question>
+    <answer>ассигнование</answer>
+    <comment>[əˌprəʊprɪˈeɪʃən ]</comment>
+    <uuid>d5d4de88-ee61-4d57-b4bb-52911ac0c85d</uuid>
+  </card>
+  <card>
+    <question>approval</question>
+    <answer>одобрение</answer>
+    <comment>[əˈpruːvəl ]</comment>
+    <uuid>54dbcbe1-c8fa-4b88-990a-84b98bca36f7</uuid>
+  </card>
+  <card>
+    <question>approve</question>
+    <answer>утверждать, одобрять</answer>
+    <comment>[əˈpruːv ]</comment>
+    <uuid>925c2bd8-682a-48c8-8aa7-20e63893e8d4</uuid>
+  </card>
+  <card>
+    <question>approved</question>
+    <answer>утвержденный, утвердил</answer>
+    <comment>[əˈpruːvd ]</comment>
+    <uuid>f0d7abcf-a319-4190-aa9a-f41ffbf11ab3</uuid>
+  </card>
+  <card>
+    <question>appurtenances</question>
+    <answer>принадлежности</answer>
+    <comment>[əˈpɜːtɪnəns]</comment>
+    <uuid>fdab3bdd-4cc3-4219-b6ec-1f3d2a9ac600</uuid>
+  </card>
+  <card>
+    <question>arbitrage</question>
+    <answer>арбитражная сделка</answer>
+    <comment>[ˈɑːbɪtrɪʤ ]</comment>
+    <uuid>592d53fd-0290-4afc-a56a-b69b6df9c105</uuid>
+  </card>
+  <card>
+    <question>arbitrated</question>
+    <answer>арбитражный</answer>
+    <comment>[ˈɑːbɪtreɪtd]</comment>
+    <uuid>52e20437-a325-4e56-807b-16bd92e11207</uuid>
+  </card>
+  <card>
+    <question>arbitration</question>
+    <answer>арбитраж</answer>
+    <comment>[ˌɑːbɪˈtreɪʃən ]</comment>
+    <uuid>cc26a758-6c58-4a14-8313-a4f7e44a59df</uuid>
+  </card>
+  <card>
+    <question>arbitrator</question>
+    <answer>арбитр</answer>
+    <comment>[ˈɑːbɪtreɪtə ]</comment>
+    <uuid>834fa933-cd94-4de5-82c3-3d6efc2f75e6</uuid>
+  </card>
+  <card>
+    <question>architect</question>
+    <answer>архитектор</answer>
+    <comment>[ˈɑːkɪtekt ]</comment>
+    <uuid>9763e565-870b-4186-bf4e-44656e52ff92</uuid>
+  </card>
+  <card>
+    <question>archives</question>
+    <answer>архив</answer>
+    <comment>[ˈɑːkаɪvz ]</comment>
+    <uuid>03b2319a-a935-4bac-9ffe-4d461dedd4f6</uuid>
+  </card>
+  <card>
+    <question>area</question>
+    <answer>территория, площадь, район</answer>
+    <comment>[ˈeərɪə ]</comment>
+    <uuid>0c393204-7254-4666-9ed4-7a73a4c182a7</uuid>
+  </card>
+  <card>
+    <question>argue</question>
+    <answer>спорить</answer>
+    <comment>[ˈɑːgjuː ]</comment>
+    <uuid>77c680f0-caf6-4f54-a387-492076d5a2c3</uuid>
+  </card>
+  <card>
+    <question>argument</question>
+    <answer>спор, аргумент</answer>
+    <comment>[ˈɑːgjʊmənt ]</comment>
+    <uuid>2b96d593-af70-4585-bfca-0d06e7f05bd6</uuid>
+  </card>
+  <card>
+    <question>arguments</question>
+    <answer>аргументы</answer>
+    <comment>[ˈɑːgjʊmənt]</comment>
+    <uuid>0a59a2ee-e586-451f-86c7-1043ff1eb04b</uuid>
+  </card>
+  <card>
+    <question>arise</question>
+    <answer>возникать</answer>
+    <comment>[əˈrаɪz ]</comment>
+    <uuid>338f8019-2059-4399-bf25-31544cbe5719</uuid>
+  </card>
+  <card>
+    <question>arrange</question>
+    <answer>устраивать</answer>
+    <comment>[əˈreɪnʤ ]</comment>
+    <uuid>13bce057-9a65-41ea-bd07-4b3c03ef77ed</uuid>
+  </card>
+  <card>
+    <question>arrangement</question>
+    <answer>договоренность</answer>
+    <comment>[əˈreɪnʤmənt ]</comment>
+    <uuid>75545518-f556-41b8-800c-6045fda8b484</uuid>
+  </card>
+  <card>
+    <question>arrears</question>
+    <answer>просрочка платежа, долги</answer>
+    <comment>[əˈrɪəz ]</comment>
+    <uuid>a507fc7b-2ec3-4421-9133-71a79e26c9f9</uuid>
+  </card>
+  <card>
+    <question>arrive</question>
+    <answer>приезжать</answer>
+    <comment>[əˈrаɪv ]</comment>
+    <uuid>01a437cb-3ea5-4521-a7c3-7732a226ee12</uuid>
+  </card>
+  <card>
+    <question>arrived</question>
+    <answer>прибыл</answer>
+    <comment>[əˈrаɪvd]</comment>
+    <uuid>224245b1-7792-4c32-bfd9-754ee81cdf97</uuid>
+  </card>
+  <card>
+    <question>as</question>
+    <answer>насколько, как</answer>
+    <comment>[æz ]</comment>
+    <uuid>edc320b9-6989-46b3-9af6-8ac5a8f5c580</uuid>
+  </card>
+  <card>
+    <question>as per</question>
+    <answer>согласно</answer>
+    <comment>[æz pɜː]</comment>
+    <uuid>cd7e1685-964e-4313-a9e3-fe3b8fca19ed</uuid>
+  </card>
+  <card>
+    <question>as soon as</question>
+    <answer>как только</answer>
+    <comment>[æz suːn æz]</comment>
+    <uuid>532d4cc9-2620-4f26-bbcb-f3a2cc7b4c19</uuid>
+  </card>
+  <card>
+    <question>ask</question>
+    <answer>просить; цена спроса</answer>
+    <comment>[ɑːsk ]</comment>
+    <uuid>e8a56a87-1c3f-41d4-89d8-fa72f732a2ca</uuid>
+  </card>
+  <card>
+    <question>assembly</question>
+    <answer>сборочный</answer>
+    <comment>[əˈsemblɪ ]</comment>
+    <uuid>c2d55da2-0fe4-4f13-b718-33b5b93342a0</uuid>
+  </card>
+  <card>
+    <question>assignment</question>
+    <answer>задание</answer>
+    <comment>[əˈsаɪnmənt ]</comment>
+    <uuid>db190ced-b329-444e-bd69-6d546d222422</uuid>
+  </card>
+  <card>
+    <question>assortment</question>
+    <answer>ассортимент</answer>
+    <comment>[əˈsɔːtmənt ]</comment>
+    <uuid>aefc1c5e-83e0-4765-96e8-977093fc37a4</uuid>
+  </card>
+  <card>
+    <question>at least</question>
+    <answer>по крайней мере</answer>
+    <comment>[æt liːst]</comment>
+    <uuid>1177f2fe-99c6-41dd-90ba-17c6a0ace900</uuid>
+  </card>
+  <card>
+    <question>attention</question>
+    <answer>внимание</answer>
+    <comment>[əˈtenʃən ]</comment>
+    <uuid>b9c73325-4e86-4dbc-b4c3-cab6e172cd16</uuid>
+  </card>
+  <card>
+    <question>attorney</question>
+    <answer>адвокат, юрист</answer>
+    <comment>[əˈtɜːnɪ ]</comment>
+    <uuid>a2823709-1967-4aa4-987d-2a5be4c20d0b</uuid>
+  </card>
+  <card>
+    <question>auction</question>
+    <answer>аукцион</answer>
+    <comment>[ˈɔːkʃən ]</comment>
+    <uuid>7e876637-c6fa-493c-8ab3-5df6fd091dc9</uuid>
+  </card>
+  <card>
+    <question>audience</question>
+    <answer>аудитория, публика</answer>
+    <comment>[ˈɔːdjəns ]</comment>
+    <uuid>14afc1f2-12fc-4e7f-bec4-a85a7cc12749</uuid>
+  </card>
+  <card>
+    <question>audio visual advertisement</question>
+    <answer>реклама аудио-визуальная</answer>
+    <comment>[(---) ˈvɪzjʊəl ədˈvɜːtɪsmənt]</comment>
+    <uuid>368af6b1-5e21-4683-9514-33f4a516255e</uuid>
+  </card>
+  <card>
+    <question>audit</question>
+    <answer>ревизовать</answer>
+    <comment>[ˈɔːdɪt ]</comment>
+    <uuid>0d36eb75-d82e-48af-b87b-012b2e369d3c</uuid>
+  </card>
+  <card>
+    <question>auditing</question>
+    <answer>ревизия</answer>
+    <comment>[ˈɔːdɪtɪŋ]</comment>
+    <uuid>957f15ed-3de2-4f79-9254-8420a607abd3</uuid>
+  </card>
+  <card>
+    <question>auditor</question>
+    <answer>аудитор, ревизор</answer>
+    <comment>[ˈɔːdɪtə ]</comment>
+    <uuid>4d5b8f71-a09f-4633-b569-86cc309b2049</uuid>
+  </card>
+  <card>
+    <question>audits</question>
+    <answer>ревизует</answer>
+    <comment>[ˈɔːdɪt]</comment>
+    <uuid>fde5dfd2-d041-46b5-9510-8f75713fa0b4</uuid>
+  </card>
+  <card>
+    <question>authentic</question>
+    <answer>подлинный</answer>
+    <comment>[ɔːˈθentɪk ]</comment>
+    <uuid>5104f910-52ef-44e4-98fb-c466f6969b75</uuid>
+  </card>
+  <card>
+    <question>authenticity</question>
+    <answer>подлинность</answer>
+    <comment>[ˌɔːθenˈtɪsɪtɪ ]</comment>
+    <uuid>cb7e3b3b-9166-46c6-a870-3d1dd8fc08b1</uuid>
+  </card>
+  <card>
+    <question>author of an invention</question>
+    <answer>автор изобретения</answer>
+    <comment>[ˈɔːθə ɒv ən ɪnˈvenʃən]</comment>
+    <uuid>900649bf-2ef4-4f87-b280-ac3e94ad9f0f</uuid>
+  </card>
+  <card>
+    <question>author&apos;s copy</question>
+    <answer>образец авторский</answer>
+    <comment>[ˈɔːθə ˈkɒpɪ]</comment>
+    <uuid>71607e74-452f-4115-9e97-67ff15ff43c5</uuid>
+  </card>
+  <card>
+    <question>authorities</question>
+    <answer>власти</answer>
+    <comment>[ɔːˈθɒrɪtɪ]</comment>
+    <uuid>d78594ab-d1c8-45b0-bdee-c2c9082f7098</uuid>
+  </card>
+  <card>
+    <question>authority</question>
+    <answer>власть</answer>
+    <comment>[ɔːˈθɒrɪtɪ ]</comment>
+    <uuid>3d47a1c1-6a22-4858-a2bc-927a8e8a8b6b</uuid>
+  </card>
+  <card>
+    <question>authority to sign</question>
+    <answer>право подписи</answer>
+    <comment>[ɔːˈθɒrɪtɪ tʊ sаɪn]</comment>
+    <uuid>365335dd-d0d6-48a8-ae49-3b23c56bfbe6</uuid>
+  </card>
+  <card>
+    <question>authorized</question>
+    <answer>уставной</answer>
+    <comment>[ˈɔːʌərаɪzd ]</comment>
+    <uuid>534e614a-cb98-4af5-ad67-3e23f60eb77b</uuid>
+  </card>
+  <card>
+    <question>authorized dealer</question>
+    <answer>официальный дилер</answer>
+    <comment>[ˈɔːʌərаɪzd ˈdiːlə]</comment>
+    <uuid>e6a48524-2913-4b36-91e7-37fb8353c3e6</uuid>
+  </card>
+  <card>
+    <question>authorized person</question>
+    <answer>лицо доверенное</answer>
+    <comment>[ˈɔːʌərаɪzd ˈpɜːsn]</comment>
+    <uuid>852e4ac5-4ac0-4d6c-9551-f4ce81762385</uuid>
+  </card>
+  <card>
+    <question>available</question>
+    <answer>наличный</answer>
+    <comment>[əˈveɪləbl ]</comment>
+    <uuid>d5c38057-ac5e-424b-b7e8-27768fb4d6d1</uuid>
+  </card>
+  <card>
+    <question>average</question>
+    <answer>авария</answer>
+    <comment>[ˈævərɪʤ ]</comment>
+    <uuid>9b917060-cd24-40e1-aa22-866113986505</uuid>
+  </card>
+  <card>
+    <question>award</question>
+    <answer>решение (арбитража)</answer>
+    <comment>[əˈwɔːd ]</comment>
+    <uuid>ee9a9d75-d935-48c5-95e1-b57eafb8ab03</uuid>
+  </card>
+  <card>
+    <question>aware</question>
+    <answer>осведомленный, сознающий</answer>
+    <comment>[əˈweə ]</comment>
+    <uuid>df7f8d13-bb46-4a55-88cd-448aa6e503a2</uuid>
+  </card>
+  <card>
+    <question>away</question>
+    <answer>прочь</answer>
+    <comment>[əˈweɪ ]</comment>
+    <uuid>9a3a9185-5ae6-40c8-8feb-333dc9bfda50</uuid>
+  </card>
+  <card>
+    <question>Bank for International Settlements (BIS)</question>
+    <answer>Банк международных расчетов</answer>
+    <comment>[bæŋk fə ˌɪntəˈnæʃənl ˈsetlmənt bɪs]</comment>
+    <uuid>7a2fdaac-4614-4642-afb4-c20586abd7e2</uuid>
+  </card>
+  <card>
+    <question>back</question>
+    <answer>назад, обратно</answer>
+    <comment>[bæk]</comment>
+    <uuid>d8eeeade-6b3b-4edf-933c-c664723b60b1</uuid>
+  </card>
+  <card>
+    <question>bad</question>
+    <answer>плохой</answer>
+    <comment>[bæd]</comment>
+    <uuid>5141840d-cb77-4940-938c-1dea8cf8792f</uuid>
+  </card>
+  <card>
+    <question>balance</question>
+    <answer>баланс, сальдо, сбалансировать, балансовый</answer>
+    <comment>[ˈbæləns]</comment>
+    <uuid>c94228f0-72bb-43f2-8c2c-86f7ce10848a</uuid>
+  </card>
+  <card>
+    <question>balance in hand</question>
+    <answer>остаток в наличии, кассовая наличность</answer>
+    <comment>[ˈbæləns ɪn hænd]</comment>
+    <uuid>d9182d71-5e85-4725-a2b0-5d2385020569</uuid>
+  </card>
+  <card>
+    <question>balance of payments</question>
+    <answer>баланс платежный</answer>
+    <comment>[ˈbæləns ɒv ˈpeɪmənt]</comment>
+    <uuid>21e32a49-4a5d-4ecc-96ae-ed40f0253cd3</uuid>
+  </card>
+  <card>
+    <question>balance of trade</question>
+    <answer>торговый баланс</answer>
+    <comment>[ˈbæləns ɒv treɪd]</comment>
+    <uuid>61b2d068-b003-42de-acb0-bff232af7b53</uuid>
+  </card>
+  <card>
+    <question>balance sum</question>
+    <answer>остаток суммы</answer>
+    <comment>[ˈbæləns sʌm]</comment>
+    <uuid>bf9d1e5a-9d5d-4619-9d10-1f31639e8c8e</uuid>
+  </card>
+  <card>
+    <question>balance-sheet</question>
+    <answer>балансовый счет</answer>
+    <comment>[ˈbælənsʃiːt]</comment>
+    <uuid>69c62286-d7cf-44db-9f01-29e22bd497bd</uuid>
+  </card>
+  <card>
+    <question>bank</question>
+    <answer>банк</answer>
+    <comment>[bæŋk]</comment>
+    <uuid>5e1ccb58-8fab-4b32-b5fd-69c6b54f6be9</uuid>
+  </card>
+  <card>
+    <question>bank clearing</question>
+    <answer>банковский клиринг</answer>
+    <comment>[bæŋk ˈklɪərɪŋ]</comment>
+    <uuid>4da64d30-4780-4bec-90e4-7c046e801312</uuid>
+  </card>
+  <card>
+    <question>bank commission</question>
+    <answer>банковская комиссия</answer>
+    <comment>[bæŋk kəˈmɪʃən]</comment>
+    <uuid>cf3f1a6d-1103-4cb9-a85a-8f9ee7678182</uuid>
+  </card>
+  <card>
+    <question>bank customer</question>
+    <answer>клиент банка</answer>
+    <comment>[bæŋk ˈkʌstəmə]</comment>
+    <uuid>e73894ed-a7eb-4bca-83a0-081ce49c99a2</uuid>
+  </card>
+  <card>
+    <question>bank deposit</question>
+    <answer>банковский депозит, вклад в банке</answer>
+    <comment>[bæŋk dɪˈpɒzɪt]</comment>
+    <uuid>f82722cb-de8e-4ca4-9241-203c9b50a755</uuid>
+  </card>
+  <card>
+    <question>bank discount rate</question>
+    <answer>ставка банковская учетная</answer>
+    <comment>[bæŋk ˈdɪskаʊnt reɪt]</comment>
+    <uuid>d707137c-3452-4cf4-ad35-01a95fdb5584</uuid>
+  </card>
+  <card>
+    <question>bank estimates</question>
+    <answer>оценка банковская</answer>
+    <comment>[bæŋk ˈestɪmɪt]</comment>
+    <uuid>13de8bf3-35da-4dca-8009-9aa4f47b0b44</uuid>
+  </card>
+  <card>
+    <question>bank hours</question>
+    <answer>часы работы банка</answer>
+    <comment>[bæŋk ˈаʊə]</comment>
+    <uuid>88f951ab-5bb0-42a8-af4a-ecd09dec5872</uuid>
+  </card>
+  <card>
+    <question>bank indebtedness</question>
+    <answer>задолженность банку</answer>
+    <comment>[bæŋk ɪnˈdetɪdnɪs]</comment>
+    <uuid>5d8e745d-ca3f-4e59-a268-caa04b57f9c5</uuid>
+  </card>
+  <card>
+    <question>bank loan</question>
+    <answer>банковская ссуда</answer>
+    <comment>[bæŋk ləʊn]</comment>
+    <uuid>391102f1-0d41-43fd-b2b2-35fae369d836</uuid>
+  </card>
+  <card>
+    <question>bank of issue</question>
+    <answer>банк эмиссионный</answer>
+    <comment>[bæŋk ɒv ˈɪʃuː]</comment>
+    <uuid>66711b84-4ae2-4a5e-80e3-573c04a6bb93</uuid>
+  </card>
+  <card>
+    <question>bank rate</question>
+    <answer>учетный банковский процент, учетная ставка</answer>
+    <comment>[bæŋk reɪt]</comment>
+    <uuid>7a611791-36b1-4bd7-b460-2deb11ecafe5</uuid>
+  </card>
+  <card>
+    <question>bank return</question>
+    <answer>банковский отчет</answer>
+    <comment>[bæŋk rɪˈtɜːn]</comment>
+    <uuid>ff4c9b13-8adb-4a6f-b0a6-5ec1985d31e1</uuid>
+  </card>
+  <card>
+    <question>bank with mixed capital</question>
+    <answer>банк смешанный</answer>
+    <comment>[bæŋk wɪð mɪkst ˈkæpɪtl]</comment>
+    <uuid>4935525e-a28c-4064-8004-d41977eb759e</uuid>
+  </card>
+  <card>
+    <question>banker&apos;s instructions</question>
+    <answer>банковское поручение</answer>
+    <comment>[ˈbæŋkə ɪnˈstrʌkʃən]</comment>
+    <uuid>612a1f8c-5275-4706-a856-9d6fc74d50b0</uuid>
+  </card>
+  <card>
+    <question>bankers draft</question>
+    <answer>банковская тратта</answer>
+    <comment>[ˈbæŋkə drаʌft]</comment>
+    <uuid>32812125-1e10-462f-9d1c-a756cd188bf3</uuid>
+  </card>
+  <card>
+    <question>banking</question>
+    <answer>банковский</answer>
+    <comment>[ˈbæŋkɪŋ]</comment>
+    <uuid>bf2bc275-d760-4497-a9ef-ac95debb9c51</uuid>
+  </card>
+  <card>
+    <question>banking expenses</question>
+    <answer>банковские расходы</answer>
+    <comment>[ˈbæŋkɪŋ ɪksˈpens]</comment>
+    <uuid>2b81fa82-e294-4559-9804-d8d82ae0fc8c</uuid>
+  </card>
+  <card>
+    <question>banking support</question>
+    <answer>банковская интервенция</answer>
+    <comment>[ˈbæŋkɪŋ səˈpɔːt]</comment>
+    <uuid>7f30a731-2d82-4b1a-9110-8439ca03997a</uuid>
+  </card>
+  <card>
+    <question>banking system</question>
+    <answer>банковская система</answer>
+    <comment>[ˈbæŋkɪŋ ˈsɪstɪm]</comment>
+    <uuid>a7d7ab47-1db2-4fe2-88d4-b6f70b488529</uuid>
+  </card>
+  <card>
+    <question>banking transaction</question>
+    <answer>банковская сделка</answer>
+    <comment>[ˈbæŋkɪŋ trænˈzækʃən]</comment>
+    <uuid>0098b5c2-1e73-4d7f-adcc-75404bd7f400</uuid>
+  </card>
+  <card>
+    <question>bankrupt</question>
+    <answer>банкрот</answer>
+    <comment>[ˈbæŋkrʌpt]</comment>
+    <uuid>50f1fc5a-285b-40c7-b3fa-42bf5991ae40</uuid>
+  </card>
+  <card>
+    <question>bankruptcy</question>
+    <answer>банкротство</answer>
+    <comment>[ˈbæŋkrəptsɪ]</comment>
+    <uuid>e6639c5b-fd33-4ee0-8272-43ef178cc076</uuid>
+  </card>
+  <card>
+    <question>bargain</question>
+    <answer>торговая сделка, выгодная покупка</answer>
+    <comment>[ˈbɑːgɪn]</comment>
+    <uuid>8379a920-c143-4da6-ae9c-f69fee94c77d</uuid>
+  </card>
+  <card>
+    <question>bargain sale</question>
+    <answer>распродажа по сниженным ценам</answer>
+    <comment>[ˈbɑːgɪn seɪl]</comment>
+    <uuid>e52099ef-7414-4bbf-b880-88a6e7fbb86d</uuid>
+  </card>
+  <card>
+    <question>barter</question>
+    <answer>бартер, бартерный</answer>
+    <comment>[ˈbɑːtə]</comment>
+    <uuid>e2a3dd6b-01be-4d4f-ae31-436a56146ff4</uuid>
+  </card>
+  <card>
+    <question>basis</question>
+    <answer>обоснование, основа</answer>
+    <comment>[ˈbeɪsɪs]</comment>
+    <uuid>cd45ea3a-7d91-4a09-8624-171abee11984</uuid>
+  </card>
+  <card>
+    <question>be able</question>
+    <answer>уметь, мочь</answer>
+    <comment>[biː ˈeɪbl]</comment>
+    <uuid>f6856483-e193-4819-8e65-7959954de05c</uuid>
+  </card>
+  <card>
+    <question>be going to</question>
+    <answer>собираться что-либо сделать</answer>
+    <comment>[biː ˈgəʊɪŋ tʊ]</comment>
+    <uuid>5d39e71e-6f8b-4395-95b8-8210b4eb8b6e</uuid>
+  </card>
+</cards>
+</stack>

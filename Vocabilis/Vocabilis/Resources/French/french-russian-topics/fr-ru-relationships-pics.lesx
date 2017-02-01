@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4cdf0521-6756-4816-b991-2d7684426cfe</uuid>
+  <title>Семеья и отношения</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le frère</question>
+    <answer>брат</answer>
+    <comment></comment>
+    <answer_picture>brother.gif</answer_picture>
+    <uuid>183d1ee6-c823-44b9-9f32-24c23dedc7d3</uuid>
+  </card>
+  <card>
+    <question>la fille</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <answer_picture>daughter.gif</answer_picture>
+    <uuid>63d874ed-85e1-4a59-980b-a26f3155b018</uuid>
+  </card>
+  <card>
+    <question>le père</question>
+    <answer>отец</answer>
+    <comment></comment>
+    <answer_picture>father.gif</answer_picture>
+    <uuid>d0f24e53-4bb9-4904-9e29-ad4426f11117</uuid>
+  </card>
+  <card>
+    <question>l&apos;ami</question>
+    <answer>друг</answer>
+    <comment></comment>
+    <answer_picture>friend.gif</answer_picture>
+    <uuid>5f035827-c21f-46b4-afa8-e13fa4cf44fd</uuid>
+  </card>
+  <card>
+    <question>la mère</question>
+    <answer>мать</answer>
+    <comment></comment>
+    <answer_picture>mother.gif</answer_picture>
+    <uuid>999ec962-7849-424d-ae66-bb25f2b72aeb</uuid>
+  </card>
+  <card>
+    <question>la sœur</question>
+    <answer>сестра</answer>
+    <comment></comment>
+    <answer_picture>sister.gif</answer_picture>
+    <uuid>02be1df8-9fa5-4917-a20c-967478917527</uuid>
+  </card>
+  <card>
+    <question>le fils</question>
+    <answer>сын</answer>
+    <comment></comment>
+    <answer_picture>son.gif</answer_picture>
+    <uuid>1f5d7b1b-6919-4881-9917-0cc454e894b7</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>3bcf4e98-a814-4818-bb01-06b2b5828559</uuid>
+  <title>Животные</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>le crocodile</question>
+    <answer>крокодил</answer>
+    <comment></comment>
+    <answer_picture>crocodile.gif</answer_picture>
+    <uuid>25a14a54-fecd-4cdc-b84e-4b1bec7821d1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le serpent</question>
+    <answer>змея</answer>
+    <comment></comment>
+    <answer_picture>snake.gif</answer_picture>
+    <uuid>a5173bda-efeb-41d7-b296-b54bc89eb539</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le  parc zoologique</question>
+    <answer>зоопарк</answer>
+    <comment></comment>
+    <answer_picture>zoo.gif</answer_picture>
+    <uuid>5e528e5d-6b99-4574-af2a-85fc32e7397e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le rhinocéros</question>
+    <answer>носорог</answer>
+    <comment></comment>
+    <answer_picture>rhinoceros.gif</answer_picture>
+    <uuid>e80510af-46d5-4243-91e5-d11f9bbebfdb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la grenouille</question>
+    <answer>лягушка</answer>
+    <comment></comment>
+    <answer_picture>frog.gif</answer_picture>
+    <uuid>7054dcd9-af5a-44eb-9b9a-83c027aff194</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la loutre</question>
+    <answer>выдра</answer>
+    <comment></comment>
+    <answer_picture>otter.gif</answer_picture>
+    <uuid>850ee32d-3ab9-418e-9f75-c30359feff85</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;huître</question>
+    <answer>устрица</answer>
+    <comment></comment>
+    <answer_picture>oyster.gif</answer_picture>
+    <uuid>cba326fd-ac9c-4a3f-b8d3-98d055215c5f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le dauphin</question>
+    <answer>дельфин</answer>
+    <comment></comment>
+    <answer_picture>dolphin.gif</answer_picture>
+    <uuid>03e458e8-a510-4966-87bf-c75c3e198663</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le koala [kɔala]</question>
+    <answer>коала</answer>
+    <comment></comment>
+    <answer_picture>koala.gif</answer_picture>
+    <uuid>57844ef4-f132-4e77-a89c-bad38fd87008</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le loup</question>
+    <answer>волк</answer>
+    <comment></comment>
+    <answer_picture>wolf.gif</answer_picture>
+    <uuid>dcd13629-9698-4d56-9620-bcc7cad49cd1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;écureuil</question>
+    <answer>белка</answer>
+    <comment></comment>
+    <answer_picture>squirrel.gif</answer_picture>
+    <uuid>e4389b2c-4506-4158-ad09-de33adc40d84</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cerf [sɛr]</question>
+    <answer>олень</answer>
+    <comment></comment>
+    <answer_picture>deer.gif</answer_picture>
+    <uuid>4bd45974-688d-4edf-834b-dc0b12e0484d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le chien</question>
+    <answer>собака</answer>
+    <comment></comment>
+    <answer_picture>dog.gif</answer_picture>
+    <uuid>1b1bf22c-0e2d-477e-9eb8-ee18fb8a294d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le scarabée</question>
+    <answer>жук</answer>
+    <comment></comment>
+    <answer_picture>beetle.gif</answer_picture>
+    <uuid>25527bc4-731b-434f-bb65-8075c83b9516</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;abeille</question>
+    <answer>пчела</answer>
+    <comment></comment>
+    <answer_picture>bee.gif</answer_picture>
+    <uuid>fbeee430-8b22-46e1-a048-d0a59d95c6de</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la crevette</question>
+    <answer>креветка</answer>
+    <comment></comment>
+    <answer_picture>prawn.gif</answer_picture>
+    <uuid>797d8e72-b6a4-4cfa-94df-ce1df0bcaab7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le lion</question>
+    <answer>лев</answer>
+    <comment></comment>
+    <answer_picture>lion.gif</answer_picture>
+    <uuid>e6bc78b9-1b09-46af-b16c-7d8ce4b24c1e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la mouche</question>
+    <answer>муха</answer>
+    <comment></comment>
+    <answer_picture>fly.gif</answer_picture>
+    <uuid>e382a823-f995-4343-818e-4264fcacc75c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le singe</question>
+    <answer>обезьяна</answer>
+    <comment></comment>
+    <answer_picture>monkey.gif</answer_picture>
+    <uuid>2cd05787-4c0e-43c8-bd9e-5fd27139616d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;araignée</question>
+    <answer>паук</answer>
+    <comment></comment>
+    <answer_picture>spider.gif</answer_picture>
+    <uuid>fd970592-dafa-41d3-9129-493899fa2d2f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;ours [urs]</question>
+    <answer>медведь</answer>
+    <comment></comment>
+    <answer_picture>bear.gif</answer_picture>
+    <uuid>265033f7-fe5f-4f56-b97e-2c8155bca7a8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le porc-épic</question>
+    <answer>дикобраз</answer>
+    <comment></comment>
+    <answer_picture>porcupine.gif</answer_picture>
+    <uuid>4631f213-8d7b-4652-aaa4-ea302f064b4a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>nourrir</question>
+    <answer>кормить</answer>
+    <comment></comment>
+    <answer_picture>feed.gif</answer_picture>
+    <uuid>02fa3935-76b7-473e-b2b5-8ff84a20e6c6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la plume</question>
+    <answer>перо</answer>
+    <comment></comment>
+    <answer_picture>feather.gif</answer_picture>
+    <uuid>48591d67-c5e2-466d-b3e7-b7a45d33f671</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le homard</question>
+    <answer>омар</answer>
+    <comment></comment>
+    <answer_picture>lobster.gif</answer_picture>
+    <uuid>da4d5618-332a-4a80-83e5-9a0767346a8b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;escargot</question>
+    <answer>улитка</answer>
+    <comment></comment>
+    <answer_picture>snail.gif</answer_picture>
+    <uuid>dab3b427-2856-4726-a812-2b2874baa4f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le requin</question>
+    <answer>акула</answer>
+    <comment></comment>
+    <answer_picture>shark.gif</answer_picture>
+    <uuid>ea54f3b3-c05b-40e2-906b-c142facd5475</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le tigre</question>
+    <answer>тигр</answer>
+    <comment></comment>
+    <answer_picture>tiger.gif</answer_picture>
+    <uuid>f25e9fd0-bc6d-410d-b6ec-39198e91f1a7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cheval</question>
+    <answer>лошадь</answer>
+    <comment></comment>
+    <answer_picture>horse.gif</answer_picture>
+    <uuid>914ba0b4-98bc-4156-b463-77b07a0feed1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le papillon</question>
+    <answer>бабочка</answer>
+    <comment></comment>
+    <answer_picture>butterfly.gif</answer_picture>
+    <uuid>9f63a1e9-0af3-42a1-87fa-bf8178f0ea6a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le canard</question>
+    <answer>утка</answer>
+    <comment></comment>
+    <answer_picture>duck.gif</answer_picture>
+    <uuid>8873f4fc-d9eb-42e2-9d06-f414d141d426</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le crabe</question>
+    <answer>краб</answer>
+    <comment></comment>
+    <answer_picture>crab.gif</answer_picture>
+    <uuid>f3bbe67b-a8ba-4ac6-8648-3d67222b6a2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le kangourou</question>
+    <answer>кенгуру</answer>
+    <comment></comment>
+    <answer_picture>kangaroo.gif</answer_picture>
+    <uuid>26262360-465c-421e-ba46-bb3c99ef81a0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le chat</question>
+    <answer>кошка</answer>
+    <comment></comment>
+    <answer_picture>cat.gif</answer_picture>
+    <uuid>2099347f-4de1-4ec5-9422-4c4996b94a29</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cochon</question>
+    <answer>свинья</answer>
+    <comment></comment>
+    <answer_picture>pig.gif</answer_picture>
+    <uuid>4351a51c-f512-4b48-9b6c-37e906e23c81</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la vache</question>
+    <answer>корова</answer>
+    <comment></comment>
+    <answer_picture>cow.gif</answer_picture>
+    <uuid>39bc7acf-b238-4e87-8956-d22ac44cf349</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le hérisson</question>
+    <answer>ёж</answer>
+    <comment></comment>
+    <answer_picture>hedgehog.gif</answer_picture>
+    <uuid>f875ee7a-5477-4ddb-b325-888534062d4c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poisson</question>
+    <answer>рыба</answer>
+    <comment></comment>
+    <answer_picture>fish.gif</answer_picture>
+    <uuid>d5b2d01b-110b-4e0e-88c3-5e1002679519</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le zèbre</question>
+    <answer>зебра</answer>
+    <comment></comment>
+    <answer_picture>zebra.gif</answer_picture>
+    <uuid>008d41d8-82c4-4242-b878-cf259fb2111b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le léopard</question>
+    <answer>леопард</answer>
+    <comment></comment>
+    <answer_picture>leopard.gif</answer_picture>
+    <uuid>17d7f109-534b-4bd8-8546-475f2a5fd022</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la tortue</question>
+    <answer>черепаха</answer>
+    <comment></comment>
+    <answer_picture>turtle.gif</answer_picture>
+    <uuid>191332d7-1686-470e-b25f-540dc2392332</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;oiseau</question>
+    <answer>птица</answer>
+    <comment></comment>
+    <answer_picture>bird.gif</answer_picture>
+    <uuid>0c8e0e1b-68f5-4d04-ad0b-793b769a6b8a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le renard</question>
+    <answer>лиса</answer>
+    <comment></comment>
+    <answer_picture>fox.gif</answer_picture>
+    <uuid>5e7a0bc5-b3a9-4f41-ac6c-5e5484849556</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;éléphant</question>
+    <answer>слон</answer>
+    <comment></comment>
+    <answer_picture>elephant.gif</answer_picture>
+    <uuid>1b4d13e0-f17d-4e5b-a99f-1367732b1940</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la guêpe</question>
+    <answer>оса</answer>
+    <comment></comment>
+    <answer_picture>wasp.gif</answer_picture>
+    <uuid>83594c0b-3a12-46a7-8037-5cb3840f2ea7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le poulet</question>
+    <answer>цыплёнок</answer>
+    <comment></comment>
+    <answer_picture>a_chicken.gif</answer_picture>
+    <uuid>b1dad8d6-8b43-46ee-bf2d-ebff52d02ed8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la chenille</question>
+    <answer>гусеница</answer>
+    <comment></comment>
+    <answer_picture>caterpillar.gif</answer_picture>
+    <uuid>1357cfeb-af5e-4c1a-93a0-5ff1458db924</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>baleine</question>
+    <answer>кит</answer>
+    <comment></comment>
+    <answer_picture>whale.gif</answer_picture>
+    <uuid>c710b1a5-a0e9-4510-8d5c-ead57c40260a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la limace</question>
+    <answer>слизень, слизняк</answer>
+    <comment></comment>
+    <answer_picture>slug.gif</answer_picture>
+    <uuid>59397e2c-66a2-4fa8-b7f0-a34b7f3e580f</uuid>
+  </card>
+</cards>
+</stack>

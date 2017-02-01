@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>4411841a-6976-4e8d-bce2-907e5c3f966a</uuid>
+  <title>Знакомство, Приветствия :: Фразы</title>
+  <author>Алексей Ермаков, Алексей Винидиктов</author>
+  <date>
+     <year>2009</year>
+     <month>2</month>
+     <day>16</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>Good morning!</question>
+    <answer>Доброе утро!</answer>
+    <comment>[gʊd ˈmɔːrnɪŋ]</comment>
+    <answer_comment>good - хороший, morning - утро</answer_comment>
+    <uuid>9cca6c4d-b50c-45fb-b9c5-0a58ddc645e6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good afternoon!</question>
+    <answer>Добрый день!</answer>
+    <comment>[gʊd ˈæftərˈnuːn]</comment>
+    <answer_comment>good - хороший, afternoon - время после полудня</answer_comment>
+    
+    <uuid>a7a1fba2-f359-48fc-a4a6-f4843d82be10</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Good evening!</question>
+    <answer>Добрый вечер!</answer>
+    <comment>[gʊd ˈiːvnɪŋ]</comment>
+    <answer_comment>good - хороший, evening - вечер</answer_comment>
+    
+    <uuid>a1889038-0ba4-476a-a1fc-6923f62ff78c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hello!</question>
+    <answer>Здравствуй(те)!</answer>
+    <comment>[heˈloʊ]</comment>
+    <answer_comment>hello - здравствуй(те),</answer_comment>
+    
+    <uuid>c2b09e7f-f2aa-40f6-bbed-3f6bd2550018</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hello, Sam!</question>
+    <answer>Здравствуй, Сэм!</answer>
+    <comment>[heˈloʊ sæm]</comment>
+    <answer_comment>hello - здравствуй(те), Sam - Сэм</answer_comment>
+    
+    <uuid>771bc041-389e-4b56-8cab-e35a69d4d1c9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hi!</question>
+    <answer>Привет!</answer>
+    <comment>[hаɪ]</comment>
+    <answer_comment>hi - привет</answer_comment>
+    
+    <uuid>e00d9271-31d6-47ca-bd3b-2b0533fe000c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Hi, Josh.</question>
+    <answer>Привет, Джош!</answer>
+    <comment>[hаɪ ʤɑːʃ]</comment>
+    <answer_comment>hi - привет, Josh -Джош</answer_comment>
+    
+    <uuid>8e420dcd-731f-4b81-9172-5454118071f3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How do you do?</question>
+    <answer>Здравствуйте! (только при знакомстве)</answer>
+    <comment>[hаʊ djuː duː]</comment>
+    <answer_comment>do - делать</answer_comment>
+    
+    <uuid>8d027467-5a88-466d-95bb-5fa874715278</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Welcome!</question>
+    <answer>Добро пожаловать!</answer>
+    <comment>[ˈwelkəm]</comment>
+    <answer_comment>welcome - приветствовать, радушно принимать,</answer_comment>
+    
+    <uuid>adb0cf23-48d7-40b3-b193-09542f8dd268</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Mister Norton, if I am not mistaken.</question>
+    <answer>Господин Нортон, если не ошибаюсь.</answer>
+    <comment>[ˈmɪstər nɔːrtn ɪf аɪ æm nɑːt mɪˈsteɪkən]</comment>
+    <answer_comment>mister - мистер, Norton - Нортон, if - если, mistaken - ошибающийся</answer_comment>
+    
+    <uuid>fd3ebf1c-f96e-41b7-a5bd-2fb6c6b26a57</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>No other.</question>
+    <answer>Он самый.</answer>
+    <comment>[noʊ ˈʌðər]</comment>
+    <answer_comment>no - никакой, other - другой</answer_comment>
+    
+    <uuid>3dcd304c-8f24-49e5-a0c2-93fc4ab8fc03</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We are glad to see you.</question>
+    <answer>Мы рады вас видеть.</answer>
+    <comment>[wiː ɑːr glæd tə siː jʊ]</comment>
+    <answer_comment>we - мы, glad - радостный, to see - видеть, you - тебя, вас</answer_comment>
+    
+    <uuid>b290a11c-f67e-4ab7-bd41-3149bbd357e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Glad to see you.</question>
+    <answer>Рад тебя видеть.</answer>
+    <comment>[glæd tə siː jʊ]</comment>
+    <answer_comment>glad - радостный, to see - видеть, you - тебя, вас</answer_comment>
+    
+    <uuid>43bec428-7b3f-4298-9535-d82e93e8a2e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Very glad to see you again!</question>
+    <answer>Очень рад(а, ы) видеть вас снова!</answer>
+    <comment>[ˈveriː glæd tə siː jʊ əˈgen]</comment>
+    <answer_comment>very - очень, glad - радостный, to see - видеть, you - тебя, вас, again - снова</answer_comment>
+    
+    <uuid>27d64098-aa1a-4233-9b6d-6477f1169ec6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It’s nice to see you.</question>
+    <answer>Замечательно, что увиделись.</answer>
+    <comment>[ɪts nаɪs tə siː jʊ]</comment>
+    <answer_comment>nice - замечательный, to see - видеть, you - тебя, вас</answer_comment>
+    
+    <uuid>a328c2a9-2a97-4e04-ad5a-1f6b246c2157</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It’s nice to see you again.</question>
+    <answer>Замечательно, что снова увиделись.</answer>
+    <comment>[ɪts nаɪs tə siː jʊ əˈgen]</comment>
+    <answer_comment>nice - замечательный, to see - видеть, you - тебя, вас, again - снова</answer_comment>
+    
+    <uuid>d90c3996-b3f6-43d5-8611-0fd8c0353fdb</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What luck running into you!</question>
+    <answer>Как хорошо, что я тебя (вас) встретил!</answer>
+    <comment>[hwʌt lʌk ˈrʌnɪŋ ˈɪntə jʊ]</comment>
+    <answer_comment>what - какой, luck - удача, to run (into) - наткнуться (на), you - тебя, тебе</answer_comment>
+    
+    <uuid>317bd7e6-4891-481a-b1b0-80122e41a725</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I haven&apos;t seen you for ages.</question>
+    <answer>Я тебя (вас) целую вечность не видел!</answer>
+    <comment>[аɪ ˈhævənt seen juː fər ˈeɪʤɪz]</comment>
+    <answer_comment>to see - видеть, you - тебя, вас, for - в течение, age - век, столетие</answer_comment>
+    
+    <uuid>54fa5ac4-f145-4bbf-b8b5-6ad408d66ac6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I haven&apos;t seen you for weeks.</question>
+    <answer>Я не видел тебя уже несколько недель.</answer>
+    <comment>[аɪ ˈhаvənt seen juː fər wiːks]</comment>
+    <answer_comment>to see - видеть, you - тебя, вас, for - в течение, week - неделя</answer_comment>
+    
+    <uuid>bd1925e2-eb08-498a-8a73-5b8ea3bfcafd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are you?</question>
+    <answer>Как ты (вы)?</answer>
+    <comment>[hаʊ ɑːr juː]</comment>
+    <answer_comment>how - как, you - ты, вы</answer_comment>
+    
+    <uuid>dc26cc16-9203-4990-8c9f-1f576ba00ce4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How&apos;s it going?</question>
+    <answer>Как жизнь? (неформ.)</answer>
+    <comment>[hаʊz ɪt ˈgoʊɪŋ]</comment>
+    <answer_comment>how - как, it - это, to go - идти</answer_comment>
+    
+    <uuid>24eca1c6-3746-46b3-91f3-25b02457d0ad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are you getting on?</question>
+    <answer>Как поживаешь? Как поживаете?</answer>
+    <comment>[hаʊ ɑːr juː ˈgetɪŋ ɑːn]</comment>
+    <answer_comment>how - как, to get on - поживать</answer_comment>
+    
+    <uuid>42de4556-410c-4bce-85e9-dca18299efef</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are you doing?</question>
+    <answer>Как дела?</answer>
+    <comment>[hаʊ ɑːr juː ˈduːɪŋ]</comment>
+    <answer_comment>how - как, to do - делать</answer_comment>
+    
+    <uuid>e1bbd1bb-652f-4ee5-ab98-5af213cc417e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are things?</question>
+    <answer>Как дела?</answer>
+    <comment>[hаʊ ɑːr θɪŋz]</comment>
+    <answer_comment>how - как, thing - вещь, дело</answer_comment>
+    
+    <uuid>888f8aae-4cca-48b5-a9eb-c083eac6046a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are you feeling?</question>
+    <answer>Как самочувствие?</answer>
+    <comment>[hаʊ ɑːr juː ˈfiːlɪŋ]</comment>
+    <answer_comment>how - как, to feel - чувствовать</answer_comment>
+    
+    <uuid>411c6ca0-b018-49ff-92c3-4c21a75e8630</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How’s your sister?</question>
+    <answer>Как дела у твоей сестры?</answer>
+    <comment>[hаʊz jʊr ˈsɪstər]</comment>
+    <answer_comment>how - как, your - твой, твоя, sister - сестра</answer_comment>
+    
+    <uuid>efc5e4fc-761d-4f1f-a818-f2acf86f1739</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How’s your brother?</question>
+    <answer>Как дела у твоего брата?</answer>
+    <comment>[hаʊz jʊr ˈbrʌðər]</comment>
+    <answer_comment>how - как, your - твой, твоя, brother - брат</answer_comment>
+    
+    <uuid>2e3555d5-ed68-4aa8-8b1f-7a3ca13d95c1</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How are your parents?</question>
+    <answer>Как дела у твоих родителей?</answer>
+    <comment>[hаʊ ɑːr jʊr ˈperənts]</comment>
+    <answer_comment>how - как, your - твой, твоя, parents - родители</answer_comment>
+    
+    <uuid>2eb92e35-c932-48d9-80d3-75096f7ab0c0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How’s your wife?</question>
+    <answer>Как дела у твоей жены?</answer>
+    <comment>[hаʊz jʊr wаɪf]</comment>
+    <answer_comment>how - как, your - твой, твоя, wife - жена</answer_comment>
+    
+    <uuid>9635a111-57a7-41e0-b572-b2094ef50663</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How’s your family?</question>
+    <answer>Как дела у твоей семьи?</answer>
+    <comment>[hаʊz jʊr ˈfæməliː]</comment>
+    <answer_comment>how - как, your - твой, твоя, family - семья</answer_comment>
+    
+    <uuid>1d67e17b-7caa-4d6e-a50e-b94d2036f400</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What’s new?</question>
+    <answer>Что нового?</answer>
+    <comment>[hwʌts nuː]</comment>
+    <answer_comment>what - что, new - новый</answer_comment>
+    
+    <uuid>52024065-8258-4b3d-80c0-8045cc68c8ad</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Did you have a good trip?</question>
+    <answer>Как прошла поездка?</answer>
+    <comment>[dɪd juː hæv ə gʊd trɪp]</comment>
+    <answer_comment>to have - иметь, good - хороший, trip - поездка</answer_comment>
+    
+    <uuid>33ace893-4278-4af4-8d91-5e5a84892285</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Very well, thank you.</question>
+    <answer>Очень хорошо, спасибо.</answer>
+    <comment>[ˈveriː wel θæŋk juː]</comment>
+    <answer_comment>very - очень, well - хорошо, to thank - благодарить, you - тебя, вас</answer_comment>
+    
+    <uuid>d2b77187-3cb2-4461-a4df-22ccd3ee9b72</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Things couldn’t be better.</question>
+    <answer>Лучше не может и быть!</answer>
+    <comment>[θɪŋz kʊdnt biː ˈbetər]</comment>
+    <answer_comment>thing - вещь, дело, could - мог, могли, to be - быть, better - лучше</answer_comment>
+    
+    <uuid>75bbc65a-ccbc-4ed1-9657-db494e96cbc6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Fine, thank you.</question>
+    <answer>Спасибо, замечательно.</answer>
+    <comment>[fаɪn θæŋk juː]</comment>
+    <answer_comment>fine - замечательный, to thank - благодарить, you - тебя, вас</answer_comment>
+    
+    <uuid>7f935ec9-530a-4b13-b667-01e50f77432d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m all right.</question>
+    <answer>Я в порядке.</answer>
+    <comment>[аɪm ɔːl rаɪt]</comment>
+    <answer_comment>all - весь, все, right - правильный</answer_comment>
+    
+    <uuid>3c1e11cc-7015-4c05-9f69-3ca844d81820</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Not so bad.</question>
+    <answer>Неплохо.</answer>
+    <comment>[nɑːt soʊ bæd]</comment>
+    <answer_comment>so - так, bad - плохой</answer_comment>
+    
+    <uuid>a8ce4008-f7a2-4b54-98ef-e324ecb333ca</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Oh, not too bad, thanks.</question>
+    <answer>Довольно неплохо, спасибо.</answer>
+    <comment>[oʊ nɑːt tuː bæd θæŋks]</comment>
+    <answer_comment>too - слишком, bad - плохой, to thank - благодарить</answer_comment>
+    
+    <uuid>5d3a1f12-2409-4e16-bd4f-514571bf53f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I can&apos;t complain.</question>
+    <answer>Не жалуюсь.</answer>
+    <comment>[аɪ kænt kəmˈpleɪn]</comment>
+    <answer_comment>can - мочь, to complain - жаловаться</answer_comment>
+    
+    <uuid>e2b390ae-e364-4403-ab6d-1860511a1418</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Not so good.</question>
+    <answer>Не очень хорошо.</answer>
+    <comment>[nɑːt soʊ gʊd]</comment>
+    <answer_comment>so - такой, так, good - хороший</answer_comment>
+    
+    <uuid>854b0eaa-edee-4f2b-8739-fd75c1ef6a61</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Great!</question>
+    <answer>Отлично!</answer>
+    <comment>[greɪt]</comment>
+    <answer_comment>great - великолепный, отличный</answer_comment>
+    
+    <uuid>48464483-228a-4225-8a0f-359a02050f1e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;ve got a cold.</question>
+    <answer>Я простыл(а).</answer>
+    <comment>[аɪv gɑːt ə koʊld]</comment>
+    <answer_comment>to get - получить, cold - простуда</answer_comment>
+    
+    <uuid>3ca9941e-4565-45f6-8f03-2d53e57f67da</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>That&apos;s too bad.</question>
+    <answer>Жаль.</answer>
+    <comment>[ðаts tuː bæd]</comment>
+    <answer_comment>that - это, то, too - слишком, bad - плохой</answer_comment>
+    
+    <uuid>8e82da04-cc53-4c33-8994-7fbdf7d69ec0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m sorry to hear that.</question>
+    <answer>Мне очень жаль.</answer>
+    <comment>[аɪm ˈsɑːriː tuː hiːr ðæt]</comment>
+    <answer_comment>sorry - огорченный, to hear - слышать, that - это, то,</answer_comment>
+    
+    <uuid>546c89b7-db58-4f74-a4b5-55563f2531cf</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It’s a pity. Let’s hope for the best.</question>
+    <answer>Жаль. Давай надеяться на лучшее.</answer>
+    <comment>[ɪts ə ˈpɪtiː lets hoʊp fər ðə best]</comment>
+    <answer_comment>pity - печальный факт, let’s - давай, давайте, to hope - надеяться, the best - лучшее</answer_comment>
+    
+    <uuid>14a89bc8-4493-4cdf-bf07-30fad916ee13</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let me introduce myself, I’m John Smith.</question>
+    <answer>Позвольте представиться, я Джон Смит.</answer>
+    <comment>[let ˈmiː ˌɪntrəˈduːs mаɪˈself аɪm ʤɑːn smɪθ]</comment>
+    <answer_comment>let - позволять, me - мне, меня, to introduce - представить, myself - себя, John Smith - Джон Смит</answer_comment>
+    
+    <uuid>7a755261-5610-49fb-92b8-4221b965e27e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Let me introduce David Ward.</question>
+    <answer>Позвольте представить вам Дэвида Ворда.</answer>
+    <comment>[let ˈmiː ˌɪntrəˈduːs ˈdeɪvɪd wɔːrd]</comment>
+    <answer_comment>let - позволять, me - мне, меня, to introduce - представлять, David Ward - Дэвид Ворд</answer_comment>
+    
+    <uuid>fc27b691-4a62-47a5-a088-287bd7a363d7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I introduce a friend of mine?</question>
+    <answer>Разрешите представить моего друга?</answer>
+    <comment>[meɪ аɪ ˌɪntrəˈduːs ə frend əv mаɪn]</comment>
+    <answer_comment>may - мочь, сметь, to introduce - представить, friend - друг, mine - мой</answer_comment>
+    
+    <uuid>c563d0a2-0e91-4b56-b053-30053d1e150b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>You haven&apos;t met my friend, have you?</question>
+    <answer>Вы не знакомы с моим другом, не так ли?</answer>
+    <comment>[juː ˈhævənt met mаɪ frend, hæv juː]</comment>
+    <answer_comment>to meet - встретить, my - мой, моя, friend - друг, подруга</answer_comment>
+    
+    <uuid>3647d62c-9999-458f-bc2d-62d0c289adaa</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s nice to meet you.</question>
+    <answer>Приятно познакомиться.</answer>
+    <comment>[its nаɪs tə miːt jʊ]</comment>
+    <answer_comment>nice - замечательный, to meet - встретить, you - тебя, вас</answer_comment>
+    
+    <uuid>f6dc447c-e5ed-4fc6-9c29-94be18bd5b2a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Nice meeting you.</question>
+    <answer>Приятно познакомиться (неформ.).</answer>
+    <comment>[nаɪs ˈmiːtɪŋ jʊ]</comment>
+    <answer_comment>nice - замечательный, to meet - встретить, you - тебя, вас</answer_comment>
+    
+    <uuid>c98d88e4-ce4e-4ae4-ad40-f41308a036c7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>And you?</question>
+    <answer>А вы? А у вас?</answer>
+    <comment>[ənd jʊ]</comment>
+    <answer_comment>and - а, и, you - ты, вы</answer_comment>
+    
+    <uuid>ceefef6b-1bdb-41a1-9a51-58e7bd8cfc3e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How about you?</question>
+    <answer>А ты? А у тебя?</answer>
+    <comment>[hаʊ əˈbаʊt juː]</comment>
+    <answer_comment>how - как, about - о, насчет, you - тебя, тебе</answer_comment>
+    
+    <uuid>dba9ee1f-1c67-4430-bf6f-584ae46a3e96</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It was nice to meet you.</question>
+    <answer>Рад был с вами познакомиться.</answer>
+    <comment>[ɪt wʌz nаɪs tə miːt jʊ]</comment>
+    <answer_comment>was - был, была, было, nice - замечательный, to meet - встретить, you - тебя, вас</answer_comment>
+    
+    <uuid>8ee93bed-4c45-4c29-a0c2-458368c7f70d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>It was great seeing you.</question>
+    <answer>Очень рад был нашей встрече. (неформ.)</answer>
+    <comment>[ɪt wʌz greɪt ˈsiːɪŋ jʊ]</comment>
+    <answer_comment>was - был, была, было, great - замечательный, to see - видеть, you - тебя, вас</answer_comment>
+    
+    <uuid>2b59e5d7-1be5-423d-b91d-b44f87630aee</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>What’s your name?</question>
+    <answer>Как тебя (вас) зовут?</answer>
+    <comment>[hwʌts jʊr neɪm]</comment>
+    <answer_comment>what - какой, your - твой, ваш, name - имя</answer_comment>
+    
+    <uuid>984e87c4-2df3-455a-8d61-579ce454ae9c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>May I ask your name?</question>
+    <answer>Позвольте поинтересоваться вашим именем?</answer>
+    <comment>[meɪ аɪ æsk jʊr neɪm]</comment>
+    <answer_comment>may - мочь, сметь, to ask - спросить, your - твой, ваш, name - имя</answer_comment>
+    
+    <uuid>61d74de7-e95f-470b-a562-884dfc81ab0d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Where are you from?</question>
+    <answer>Откуда вы?</answer>
+    <comment>[hwer ɑːr jʊ frəm]</comment>
+    <answer_comment>where - где, куда, you - ты, вы, from - от</answer_comment>
+    
+    <uuid>7084de6c-d58a-46db-a778-b8aa086437b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>How old are you?</question>
+    <answer>Сколько вам лет?</answer>
+    <comment>[hаʊ oʊld ɑːr juː]</comment>
+    <answer_comment>how - как, old - старый, you - ты, вы</answer_comment>
+    
+    <uuid>792b52a2-fd54-477a-8734-0804732611f8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Meet James.</question>
+    <answer>Познакомьтесь, это Джеймс.</answer>
+    <comment>[miːt ʤeɪmz]</comment>
+    <answer_comment>to meet - познакомиться, James - Джеймс</answer_comment>
+    
+    <uuid>9fa8e3c3-2ee7-4331-a819-34426fea9fb8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>This is Anna.</question>
+    <answer>Это Анна.</answer>
+    <comment>[ðɪs ɪz ˈænə]</comment>
+    <answer_comment>this - это, этот, эта, Anna - Анна</answer_comment>
+    
+    <uuid>d3f48535-92bf-488f-becb-042b4f2f64f2</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Pleased to meet you.</question>
+    <answer>Приятно познакомиться.</answer>
+    <comment>[pliːzd tə miːt juː.]</comment>
+    <answer_comment>pleased - польщенный, to meet - познакомиться, you - тебя, тебе, вам, вас</answer_comment>
+    
+    <uuid>9a7aacd9-099c-4535-9ea6-2db36ce5f18c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My name is John Locke.</question>
+    <answer>Меня зовут Джон Лок.</answer>
+    <comment>[mаɪ neɪm ɪz ʤɑːn lɑːk]</comment>
+    <answer_comment>my - мой, моя, мое, name - имя, John Locke - Джон Лок</answer_comment>
+    
+    <uuid>1bb5da50-15d0-4e38-922e-59e91324d355</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My first name is John.</question>
+    <answer>Мое имя Джон.</answer>
+    <comment>[mаɪ fɜːrst neɪm ɪz ʤɑːn]</comment>
+    <answer_comment>my - мой, моя, мое, first - первый, name - имя, John - Джон</answer_comment>
+    
+    <uuid>804d63f2-1ec1-464c-92d6-badf4a71a0ae</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>My last name is Locke.</question>
+    <answer>Моя фамилия Лок.</answer>
+    <comment>[mаɪ læst neɪm ɪz lɑːk]</comment>
+    <answer_comment>my - мой, моя, мое, last - последний, name - имя, Locke - Лок</answer_comment>
+    
+    <uuid>36071c3e-a618-43f4-aa26-8eaab375409e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I&apos;m from the United States.</question>
+    <answer>Я из Соединенных Штатов.</answer>
+    <comment>[аɪm frəm ðə juːˈnаɪtɪd steɪts]</comment>
+    <answer_comment>from - от, из, the United States - Соединенные Штаты</answer_comment>
+    
+    <uuid>0e73163b-3a52-4d67-99b8-263f6e53139a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I am twenty.</question>
+    <answer>Мне двадцать лет.</answer>
+    <comment>[аɪ æm ˈtwentiː]</comment>
+    <answer_comment>twenty - двадцать</answer_comment>
+    
+    <uuid>eaf2d67b-d91b-46db-99d2-d09622dca363</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I am thirty.</question>
+    <answer>Мне тридцать лет.</answer>
+    <comment>[аɪ æm ˈθɜːrtiː]</comment>
+    <answer_comment>thirty - тридцать</answer_comment>
+    
+    <uuid>445d3898-6849-4172-9df8-27966bd882b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>I am fifty.</question>
+    <answer>Мне пятьдесят лет.</answer>
+    <comment>[аɪ æm ˈfɪftiː]</comment>
+    <answer_comment>fifty - пятьдесят</answer_comment>
+    
+    <uuid>25e441a7-ca5f-4497-baa3-59e65fb6b51f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>We are the same age.</question>
+    <answer>Мы ровесники.</answer>
+    <comment>[wiː ɑːr ðə seɪm eɪʤ]</comment>
+    <answer_comment>the same - тот же самый, одинаковый, age - возраст</answer_comment>
+    
+    <uuid>4a23992a-d0d2-4c0b-9dd1-8d0475b2352b</uuid>
+  </card>
+</cards>
+</stack>

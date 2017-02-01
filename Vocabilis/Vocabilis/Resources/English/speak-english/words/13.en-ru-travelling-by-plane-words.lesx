@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>97839cb1-e89b-40d4-8102-791399cb4ebf</uuid>
+  <title>В самолете :: Слова</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>duty</question>
+    <answer>пошлина</answer>
+    <comment>[ˈduːtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ebd03f22-d79f-459d-811f-c409954cb9eb</uuid>
+    <examples>
+       <example>
+          <value>the duty-free shop</value>
+          <translation>магазин duty-free</translation>
+          <comment>duty-free - беспошлинный, shop - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>passenger</question>
+    <answer>пассажир</answer>
+    <comment>[ˈpæsənʤər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a5fe7170-a52c-48fc-bb68-88f98dcf87ca</uuid>
+    <examples>
+       <example>
+          <value>passengers of the flight</value>
+          <translation>пассажиры рейса</translation>
+          <comment>passenger - пассажир, flight - рейс</comment>
+       </example>
+       <example>
+          <value>to check in passengers</value>
+          <translation>регистрировать пассажиров</translation>
+          <comment>to check in - регистрировать, passenger - пассажир</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ten</question>
+    <answer>десять</answer>
+    <comment>[ten]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3b7d940e-bbb6-402d-b6cb-3c3045437a5d</uuid>
+    <examples>
+       <example>
+          <value>to pay ten dollars</value>
+          <translation>доплатить 10 долларов</translation>
+          <comment>to pay - платить, ten - десять, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>number ten</value>
+          <translation>номер 10</translation>
+          <comment>number - номер, ten - десять</comment>
+       </example>
+       <example>
+          <value>to be ten minutes late</value>
+          <translation>опаздывать на 10 минут</translation>
+          <comment>ten - десять, minute - минута, late - поздний, опоздавший</comment>
+       </example>
+       <example>
+          <value>in ten minutes</value>
+          <translation>через 10 минут</translation>
+          <comment>ten - десять, minute - минута</comment>
+       </example>
+       <example>
+          <value>to sit in row ten</value>
+          <translation>сидеть в десятом ряду</translation>
+          <comment>to sit - сидеть, row - ряд, ten - десять</comment>
+       </example>
+       <example>
+          <value>ten degrees</value>
+          <translation>десять градусов</translation>
+          <comment>ten - десять, degree - градус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>child</question>
+    <answer>ребенок</answer>
+    <comment>[ʧаɪld]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b6d52cc2-6095-4f49-8ed1-00ead1e2d816</uuid>
+    <examples>
+       <example>
+          <value>a child of seven</value>
+          <translation>ребенок семи лет</translation>
+          <comment>child - ребенок, seven - семь</comment>
+       </example>
+       <example>
+          <value>a ticket for a child</value>
+          <translation>детский билет</translation>
+          <comment>ticket - билет, child - ребенок</comment>
+       </example>
+       <example>
+          <value>a five year old child</value>
+          <translation>пятилетний ребенок</translation>
+          <comment>five - пять, year - год, old - старый, child - ребенок</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>direct</question>
+    <answer>прямой</answer>
+    <comment>[dɪˈrekt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0c14a47-d65a-49d4-ba57-5ddf5746c71a</uuid>
+    <examples>
+       <example>
+          <value>a direct flight</value>
+          <translation>прямой рейс</translation>
+          <comment>direct - прямой, flight - рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>as</question>
+    <answer>в качестве</answer>
+    <comment>[æz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d01eb81-e918-4f1b-9a7d-3cbb9d6bf7d6</uuid>
+    <examples>
+       <example>
+          <value>to register as baggage</value>
+          <translation>сдать в багаж</translation>
+          <comment>to register - регистрировать, as - в качестве, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to work as</value>
+          <translation>работать в качестве</translation>
+          <comment>to work - работать, as - в качестве</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>London</question>
+    <answer>Лондон</answer>
+    <comment>[ˈlʌndən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>401c52aa-a2f2-444a-832d-d466439f3549</uuid>
+    <examples>
+       <example>
+          <value>to fly to London</value>
+          <translation>лететь в Лондон</translation>
+          <comment>to fly - лететь, London - Лондон</comment>
+       </example>
+       <example>
+          <value>a telegram to London</value>
+          <translation>телеграмма до Лондона</translation>
+          <comment>telegram - телеграмма, London - Лондон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>directly</question>
+    <answer>прямо</answer>
+    <comment>[dɪˈrektliː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4d37b8f4-b122-43b4-b756-c189d62c6033</uuid>
+    <examples>
+       <example>
+          <value>directly at the airport</value>
+          <translation>прямо в аэропорту</translation>
+          <comment>directly - прямо, airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>apply</question>
+    <answer>подавать заявление</answer>
+    <comment>[əˈplаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>aeb01edd-d440-46fe-8cf8-2653289e2958</uuid>
+    <examples>
+       <example>
+          <value>to apply for the lost baggage</value>
+          <translation>обратиться по поводу пропажи багажа</translation>
+          <comment>to apply (for) - подавать заявление (на), lost - потерянный, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>find</question>
+    <answer>находить</answer>
+    <comment>[fаɪnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e2ab2264-95fb-4b37-8f05-b48861d35097</uuid>
+    <examples>
+       <example>
+          <value>to find my suitcase</value>
+          <translation>найти свой (=мой) чемодан</translation>
+          <comment>to find - находить, my - мой, suitcase - чемодан</comment>
+       </example>
+       <example>
+          <value>to find your place</value>
+          <translation>найти свое (твое) место</translation>
+          <comment>to find - находить, place - место</comment>
+       </example>
+       <example>
+          <value>to find a witness</value>
+          <translation>найти свидетеля</translation>
+          <comment>to find - находить, witness - свидетель</comment>
+       </example>
+       <example>
+          <value>to find the fault</value>
+          <translation>найти поломку</translation>
+          <comment>to find - находить, fault - неполадка, поломка</comment>
+       </example>
+       <example>
+          <value>to manage to find</value>
+          <translation>суметь найти</translation>
+          <comment>to manage - суметь, ухитриться, to find - найти</comment>
+       </example>
+       <example>
+          <value>to find a taxi</value>
+          <translation>найти такси</translation>
+          <comment>to find - найти, taxi - такси</comment>
+       </example>
+       <example>
+          <value>to find books</value>
+          <translation>найти книги</translation>
+          <comment>to find - находить, book - книга</comment>
+       </example>
+       <example>
+          <value>to find your things</value>
+          <translation>найти твои вещи</translation>
+          <comment>to find - находить, thing - вещь</comment>
+       </example>
+       <example>
+          <value>to find a distributor</value>
+          <translation>найти дистрибьютора</translation>
+          <comment>to find - найти, distributor - дистрибьютор</comment>
+       </example>
+       <example>
+          <value>to find an engineer</value>
+          <translation>найти инженером</translation>
+          <comment>to find - находить, engineer - инженер</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>belt</question>
+    <answer>пояс, ремень</answer>
+    <comment>[belt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0930089-8a93-40a7-ab55-00cffdde680b</uuid>
+    <examples>
+       <example>
+          <value>to fasten the belt</value>
+          <translation>пристегнуть ремни</translation>
+          <comment>to fasten - пристегнуть, belt - ремень</comment>
+       </example>
+       <example>
+          <value>to show that black belt</value>
+          <translation>показать тот черный пояс</translation>
+          <comment>to show - показать, that - тот, та, black - черный, belt - пояс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>city</question>
+    <answer>город</answer>
+    <comment>[ˈsɪtiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cea17825-c853-41c9-a852-3c51711b5d0b</uuid>
+    <examples>
+       <example>
+          <value>a plan of the city</value>
+          <translation>план города</translation>
+          <comment>plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>to buy a plan of the city</value>
+          <translation>купить план города</translation>
+          <comment>to buy - покупать, plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>to get to the city</value>
+          <translation>доехать до города</translation>
+          <comment>to get (to) - добираться (до), city - город</comment>
+       </example>
+       <example>
+          <value>the city center</value>
+          <translation>центр города</translation>
+          <comment>city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>through the city center</value>
+          <translation>по центру города</translation>
+          <comment>through - через, сквозь, по, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>to have a ride through the city center</value>
+          <translation>проехаться по центру города</translation>
+          <comment>to have - иметь, ride - поездка, through - через, сквозь, по, city - город, center - центр</comment>
+       </example>
+       <example>
+          <value>around the city</value>
+          <translation>по городу</translation>
+          <comment>around - вокруг, city - город</comment>
+       </example>
+       <example>
+          <value>to take a ride around the city</value>
+          <translation>покататься по городу</translation>
+          <comment>to take - взять, ride - поездка, around - вокруг, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>police</question>
+    <answer>полиция</answer>
+    <comment>[pəˈliːs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8911b378-ae5d-4ed1-b02f-b97d9b3db45d</uuid>
+    <examples>
+       <example>
+          <value>the police service</value>
+          <translation>полицейская служба</translation>
+          <comment>police - полиция, service - служба</comment>
+       </example>
+       <example>
+          <value>to call the police</value>
+          <translation>вызвать полицию</translation>
+          <comment>to call - вызывать, police - полиция</comment>
+       </example>
+       <example>
+          <value>the police station</value>
+          <translation>полицейский участок</translation>
+          <comment>police - полиция, station - станция</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>service</question>
+    <answer>служба</answer>
+    <comment>[ˈsɜːrvɪs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c25dd644-4514-4a77-b08e-8787b08ef133</uuid>
+    <examples>
+       <example>
+          <value>the information service</value>
+          <translation>справочная служба</translation>
+          <comment>information - информация, service - служба</comment>
+       </example>
+       <example>
+          <value>the police service</value>
+          <translation>полицейская служба</translation>
+          <comment>police - полиция, service - служба</comment>
+       </example>
+       <example>
+          <value>a car service center</value>
+          <translation>автосервис</translation>
+          <comment>car - машина, service - служба, center - центр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>twenty</question>
+    <answer>двадцать</answer>
+    <comment>[ˈtwentiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>148c2b6a-4da8-4fa5-b82c-c9ba41f28f4c</uuid>
+    <examples>
+       <example>
+          <value>in twenty minutes</value>
+          <translation>через двадцать минут</translation>
+          <comment>twenty - двадцать, minute - минута</comment>
+       </example>
+       <example>
+          <value>to spend more than twenty dollars</value>
+          <translation>потратить больше 20 долларов</translation>
+          <comment>to spend - тратить, more - больше, than - чем, twenty - двадцать, dollar - доллар</comment>
+       </example>
+       <example>
+          <value>twenty five minutes</value>
+          <translation>двадцать пять минут</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>tip</question>
+    <answer>наклонять</answer>
+    <comment>[tɪp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>76d3a9b7-ed4d-449f-8c0e-52b9b59b1652</uuid>
+    <examples>
+       <example>
+          <value>to tip up the seat</value>
+          <translation>откинуть кресло</translation>
+          <comment>to tip up - опрокидывать, seat - сиденье</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>next</question>
+    <answer>следующий</answer>
+    <comment>[nekst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6afcc7ae-39c4-4bbc-b21e-0648a20c7007</uuid>
+    <examples>
+       <example>
+          <value>the next flight</value>
+          <translation>следующий рейс</translation>
+          <comment>next - следующий, flight - рейс</comment>
+       </example>
+       <example>
+          <value>at the next stop</value>
+          <translation>на следующей остановке</translation>
+          <comment>next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>the next bus</value>
+          <translation>следующий автобус</translation>
+          <comment>next - следующий, bus - автобус</comment>
+       </example>
+       <example>
+          <value>the next station</value>
+          <translation>следующая станция</translation>
+          <comment>next - следующий, station - станция</comment>
+       </example>
+       <example>
+          <value>the next stop</value>
+          <translation>следующая остановка</translation>
+          <comment>next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>to get off at the next stop</value>
+          <translation>выходить на следующей остановке</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>at the next corner</value>
+          <translation>возле следующего угла</translation>
+          <comment>next - следующий, corner - угол</comment>
+       </example>
+       <example>
+          <value>to come next time</value>
+          <translation>прийти в следующий раз</translation>
+          <comment>to come - прийти, next - следующий, time - раз</comment>
+       </example>
+       <example>
+          <value>the next feature</value>
+          <translation>следующий сеанс</translation>
+          <comment>next - следующий, feature - полнометражный фильм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>book</question>
+    <answer>заказать</answer>
+    <comment>[bʊk]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e4351b3e-b1c8-43fb-bc47-5f2808d47cd8</uuid>
+    <examples>
+       <example>
+          <value>to book tickets</value>
+          <translation>заказать билеты</translation>
+          <comment>to book - заказывать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to make the book into a movie</value>
+          <translation>экранизировать фильм</translation>
+          <comment>to make - делать, book - книга, movie - кино, фильм</comment>
+       </example>
+       <example>
+          <value>books on art</value>
+          <translation>книги по искусству</translation>
+          <comment>book - книга, art - искусство</comment>
+       </example>
+       <example>
+          <value>to find books</value>
+          <translation>найти книги</translation>
+          <comment>to find - находить, book - книга</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>board</question>
+    <answer>табло</answer>
+    <comment>[bɔːrd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>de018b1b-162e-4090-b758-601f4afdd029</uuid>
+    <examples>
+       <example>
+          <value>the arrivals board</value>
+          <translation>табло прилета</translation>
+          <comment>arrival - прибытие, board - доска (объявлений)</comment>
+       </example>
+       <example>
+          <value>the departures board</value>
+          <translation>табло вылета</translation>
+          <comment>departure - отъезд, отбытие, board - доска (объявлений)</comment>
+       </example>
+       <example>
+          <value>to announce boarding</value>
+          <translation>объявить посадку</translation>
+          <comment>to announce - объявлять, boarding - посадка</comment>
+       </example>
+       <example>
+          <value>to board the train</value>
+          <translation>сесть в поезд</translation>
+          <comment>to board - сесть (на борт), train - поезд</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>gate</question>
+    <answer>выход (на посадку)</answer>
+    <comment>[geɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ee0c3976-bdaa-43ab-b23b-99533349e7e8</uuid>
+    <examples>
+       <example>
+          <value>the gate for this flight</value>
+          <translation>выход для посадки на этот рейс</translation>
+          <comment>gate - ворота, выход, flight - рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>nonstop</question>
+    <answer>безостановочный</answer>
+    <comment>[ˈnɑːnˈstɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0b7eef35-ebe2-4ff9-aa1f-3becb450618b</uuid>
+    <examples>
+       <example>
+          <value>a nonstop flight</value>
+          <translation>беспересадочный рейс</translation>
+          <comment>nonstop - безостановочный, flight - полет, рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>economy</question>
+    <answer>экономичный</answer>
+    <comment>[ɪˈkɑːnəmiː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f8e60b8e-e845-45da-a3eb-421db59fcd98</uuid>
+    <examples>
+       <example>
+          <value>economy class ticket</value>
+          <translation>билет в эконом классе</translation>
+          <comment>economy - экономичный, class - класс, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>arrival</question>
+    <answer>прибытие</answer>
+    <comment>[əˈrаɪvəl]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>49796b05-ee36-45a4-9525-1e189f3b36ea</uuid>
+    <examples>
+       <example>
+          <value>the arrivals board</value>
+          <translation>табло прилета</translation>
+          <comment>arrival - прибытие, board - доска (объявлений)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fly</question>
+    <answer>летать</answer>
+    <comment>[flаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>69c939b3-9e8c-4ab4-8a45-82ada0386c1e</uuid>
+    <examples>
+       <example>
+          <value>to fly to London</value>
+          <translation>лететь в Лондон</translation>
+          <comment>to fly - лететь, London - Лондон</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>buy</question>
+    <answer>покупать</answer>
+    <comment>[bаɪ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b3d98e22-2c1b-4a66-bebd-0819cb933741</uuid>
+    <examples>
+       <example>
+          <value>to buy a plan of the city</value>
+          <translation>купить план города</translation>
+          <comment>to buy - покупать, plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>to buy a ticket</value>
+          <translation>купить билет</translation>
+          <comment>to buy - покупать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a map</value>
+          <translation>купить карту</translation>
+          <comment>to buy - купить, map - карта</comment>
+       </example>
+       <example>
+          <value>to buy an insurance policy</value>
+          <translation>оформить страховку</translation>
+          <comment>to buy - купить, insurance - страховка, policy - полис</comment>
+       </example>
+       <example>
+          <value>to buy envelopes</value>
+          <translation>купить конверты</translation>
+          <comment>to buy - купить, envelope - конверт</comment>
+       </example>
+       <example>
+          <value>to buy postcards</value>
+          <translation>купить открытки</translation>
+          <comment>to buy - купить, postcard - открытка</comment>
+       </example>
+       <example>
+          <value>to buy stamps</value>
+          <translation>купить марки</translation>
+          <comment>to buy - купить, stamp - марка</comment>
+       </example>
+       <example>
+          <value>to buy a telephone card</value>
+          <translation>купить телефонную карту</translation>
+          <comment>to buy - покупать, telephone - телефон, card - карта</comment>
+       </example>
+       <example>
+          <value>to want to buy</value>
+          <translation>хотеть купить</translation>
+          <comment>to want - хотеть, to buy - купить</comment>
+       </example>
+       <example>
+          <value>to buy a day ticket</value>
+          <translation>купить проездной билет на сутки</translation>
+          <comment>to buy - покупать, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a monthly ticket</value>
+          <translation>купить проездной билет на месяц</translation>
+          <comment>to buy - покупать, monthly - месячный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a three days ticket</value>
+          <translation>купить проездной билет на три дня</translation>
+          <comment>to buy - покупать, three - три, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a weekly ticket</value>
+          <translation>купить проездной билет на неделю</translation>
+          <comment>to buy - покупать, weekly - недельный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a program</value>
+          <translation>купить программку</translation>
+          <comment>to buy - покупать, program - программка</comment>
+       </example>
+       <example>
+          <value>to buy tickets</value>
+          <translation>покупать билеты</translation>
+          <comment>to buy - купить, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the current show</value>
+          <translation>купить билеты на текущий сеанс</translation>
+          <comment>to buy - купить, ticket - билет, current - текущий, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the evening show</value>
+          <translation>купить билеты на вечерний сеанс</translation>
+          <comment>to buy - купить, ticket - билет, evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for tomorrow</value>
+          <translation>купить билеты на завтра</translation>
+          <comment>to buy - купить, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to buy a jacket</value>
+          <translation>купить куртку</translation>
+          <comment>to buy - купить, jacket - куртка</comment>
+       </example>
+       <example>
+          <value>to buy a lot of things</value>
+          <translation>купить много вещей</translation>
+          <comment>to buy - купить, a lot - много, thing - вещь</comment>
+       </example>
+       <example>
+          <value>to buy a tie</value>
+          <translation>купить галстук</translation>
+          <comment>to buy - купить, tie - галстук</comment>
+       </example>
+       <example>
+          <value>to buy cigarettes with menthol</value>
+          <translation>купить сигареты с ментолом</translation>
+          <comment>to buy - купить, cigarette - сигарета, menthol - ментол</comment>
+       </example>
+       <example>
+          <value>to buy cigars</value>
+          <translation>купить сигары</translation>
+          <comment>to buy - купить, cigar - сигара</comment>
+       </example>
+       <example>
+          <value>to buy gifts</value>
+          <translation>купить подарки</translation>
+          <comment>to buy - купить, gift - подарок</comment>
+       </example>
+       <example>
+          <value>to buy pipe tobacco</value>
+          <translation>купить трубочный табак</translation>
+          <comment>to buy - купить, pipe - курительная трубка, tobacco - табак</comment>
+       </example>
+       <example>
+          <value>to buy a consignment of products</value>
+          <translation>закупить партию продукции</translation>
+          <comment>to buy - покупать, consignment - партия (товаров), product - продукт</comment>
+       </example>
+       <example>
+          <value>to buy a license</value>
+          <translation>купить лицензию</translation>
+          <comment>to buy - покупать, license - лицензия</comment>
+       </example>
+       <example>
+          <value>to buy equipment</value>
+          <translation>закупить оборудование</translation>
+          <comment>to buy - покупать, equipment - оборудование</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>flight</question>
+    <answer>полет, рейс</answer>
+    <comment>[flаɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>889cc595-8832-43c8-93ff-4809ca13bb14</uuid>
+    <examples>
+       <example>
+          <value>a direct flight</value>
+          <translation>прямой рейс</translation>
+          <comment>direct - прямой, flight - рейс</comment>
+       </example>
+       <example>
+          <value>a nonstop flight</value>
+          <translation>беспересадочный рейс</translation>
+          <comment>nonstop - безостановочный, flight - полет, рейс</comment>
+       </example>
+       <example>
+          <value>flight to Moscow</value>
+          <translation>полет до Москвы</translation>
+          <comment>flight - полет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>passengers of the flight</value>
+          <translation>пассажиры рейса</translation>
+          <comment>passenger - пассажир, flight - рейс</comment>
+       </example>
+       <example>
+          <value>the gate for this flight</value>
+          <translation>выход для посадки на этот рейс</translation>
+          <comment>gate - ворота, выход, flight - рейс</comment>
+       </example>
+       <example>
+          <value>the next flight</value>
+          <translation>следующий рейс</translation>
+          <comment>next - следующий, flight - рейс</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>information</question>
+    <answer>информация</answer>
+    <comment>[ˌɪnfərˈmeɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c4afb4e7-a093-49c8-9b4a-91593524b368</uuid>
+    <examples>
+       <example>
+          <value>the information service</value>
+          <translation>справочная служба</translation>
+          <comment>information - информация, service - служба</comment>
+       </example>
+       <example>
+          <value>the information desk</value>
+          <translation>справочное бюро</translation>
+          <comment>information - информация, desk - стол</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Moscow</question>
+    <answer>Москва</answer>
+    <comment>[ˈmɑːskаʊ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>51242517-10ef-4997-906a-c1e383d69186</uuid>
+    <examples>
+       <example>
+          <value>flight to Moscow</value>
+          <translation>полет до Москвы</translation>
+          <comment>flight - полет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>one ticket to Moscow</value>
+          <translation>один билет до Москвы</translation>
+          <comment>one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a plane to Moscow</value>
+          <translation>самолет до Москвы</translation>
+          <comment>plane - самолет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a ticket to Moscow</value>
+          <translation>билет до Москвы</translation>
+          <comment>ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>to get to Moscow</value>
+          <translation>доехать до Москвы</translation>
+          <comment>to get (to) - добираться (до), Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a train for Moscow</value>
+          <translation>поезд до Москвы</translation>
+          <comment>train - поезд, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a train from Moscow</value>
+          <translation>поезд из Москвы</translation>
+          <comment>train - поезд, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a call to Moscow</value>
+          <translation>звонок в Москву</translation>
+          <comment>call - звонок, Moscow - Москва</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>new</question>
+    <answer>новый</answer>
+    <comment>[nuː]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>db522f4b-ffa8-45fa-b114-1c2bde47fdd8</uuid>
+    <examples>
+       <example>
+          <value>to arrive in New York</value>
+          <translation>прибывать в Нью-Йорк</translation>
+          <comment>to arrive - прибывать, New York - Нью-Йорк</comment>
+       </example>
+       <example>
+          <value>a new feature film</value>
+          <translation>новый художественный фильм</translation>
+          <comment>new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>a new historical</value>
+          <translation>новый исторический фильм</translation>
+          <comment>new - новый, historical - исторический</comment>
+       </example>
+       <example>
+          <value>to see a new feature film</value>
+          <translation>посмотреть новый художественный фильм</translation>
+          <comment>to see - видеть, new - новый, feature - полнометражный, film - фильм</comment>
+       </example>
+       <example>
+          <value>to see a new historical film</value>
+          <translation>посмотреть новый исторический фильм</translation>
+          <comment>to see - видеть, new - новый, historical - исторический, film - фильм</comment>
+       </example>
+       <example>
+          <value>new moon</value>
+          <translation>новолуние</translation>
+          <comment>new - новый, moon - луна</comment>
+       </example>
+       <example>
+          <value>to look for a new job</value>
+          <translation>искать новую работу</translation>
+          <comment>to look for - искать, new - новый, job - работа</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>plane</question>
+    <answer>самолет</answer>
+    <comment>[pleɪn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>398cd33d-6f32-4039-a44f-a129dc365daf</uuid>
+    <examples>
+       <example>
+          <value>a plane to Moscow</value>
+          <translation>самолет до Москвы</translation>
+          <comment>plane - самолет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>to miss the plane</value>
+          <translation>опоздать на самолет</translation>
+          <comment>to miss - опоздать, пропустить, plane - самолет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>plan</question>
+    <answer>план</answer>
+    <comment>[plæn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6c6c9a77-7d6f-43ce-b43d-92cd627b9cf8</uuid>
+    <examples>
+       <example>
+          <value>a plan of the city</value>
+          <translation>план города</translation>
+          <comment>plan - план, city - город</comment>
+       </example>
+       <example>
+          <value>to buy a plan of the city</value>
+          <translation>купить план города</translation>
+          <comment>to buy - покупать, plan - план, city - город</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>excess</question>
+    <answer>избыточный</answer>
+    <comment>[ɪkˈses]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>030d84cf-f332-4651-9685-1f0fbe351b71</uuid>
+    <examples>
+       <example>
+          <value>excess baggage</value>
+          <translation>перевес багажа</translation>
+          <comment>excess - избыточный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to pay for the excess baggage</value>
+          <translation>доплатить за перевес багажа</translation>
+          <comment>to pay - платить, excess - избыточный, baggage - багаж</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ticket</question>
+    <answer>билет</answer>
+    <comment>[ˈtɪkɪt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0b56e632-ea02-42ef-a8b3-ddd295feae24</uuid>
+    <examples>
+       <example>
+          <value>a one-way ticket</value>
+          <translation>билет в один конец</translation>
+          <comment>one - один, way - путь, ticket - билет</comment>
+       </example>
+       <example>
+          <value>a round-trip ticket</value>
+          <translation>билет в оба конца</translation>
+          <comment>round - круговой, trip - поездка, ticket - билет</comment>
+       </example>
+       <example>
+          <value>a ticket for a child</value>
+          <translation>детский билет</translation>
+          <comment>ticket - билет, child - ребенок</comment>
+       </example>
+       <example>
+          <value>air tickets</value>
+          <translation>билеты на самолет</translation>
+          <comment>air - воздушный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>economy class ticket</value>
+          <translation>билет в эконом классе</translation>
+          <comment>economy - экономичный, class - класс, ticket - билет</comment>
+       </example>
+       <example>
+          <value>first class ticket</value>
+          <translation>билет в первом классе</translation>
+          <comment>first - первый, class - класс, ticket билет</comment>
+       </example>
+       <example>
+          <value>one ticket to Moscow</value>
+          <translation>один билет до Москвы</translation>
+          <comment>one - один, ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a ticket office</value>
+          <translation>билетная касса</translation>
+          <comment>ticket - билет, office - офис</comment>
+       </example>
+       <example>
+          <value>to book tickets</value>
+          <translation>заказать билеты</translation>
+          <comment>to book - заказывать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a ticket</value>
+          <translation>купить билет</translation>
+          <comment>to buy - покупать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to reserve one ticket</value>
+          <translation>забронировать один билет</translation>
+          <comment>to reserve - забронировать, one - один, ticket - билет</comment>
+       </example>
+       <example>
+          <value>two tickets</value>
+          <translation>два билета</translation>
+          <comment>two - два, ticket - билет</comment>
+       </example>
+       <example>
+          <value>at the ticket office</value>
+          <translation>в билетной кассе</translation>
+          <comment>ticket - билет, office - офис</comment>
+       </example>
+       <example>
+          <value>to show your ticket</value>
+          <translation>показать твой билет</translation>
+          <comment>to show - показывать, ticket - билет</comment>
+       </example>
+       <example>
+          <value>one ticket</value>
+          <translation>один билет</translation>
+          <comment>one - один, ticket - билет</comment>
+       </example>
+       <example>
+          <value>the ticket office</value>
+          <translation>билетная касса</translation>
+          <comment>ticket - билет, office - офис</comment>
+       </example>
+       <example>
+          <value>a ticket to Moscow</value>
+          <translation>билет до Москвы</translation>
+          <comment>ticket - билет, Moscow - Москва</comment>
+       </example>
+       <example>
+          <value>a ticket window</value>
+          <translation>билетная касса</translation>
+          <comment>ticket - билет, window - окно</comment>
+       </example>
+       <example>
+          <value>to get the tickets</value>
+          <translation>купить билеты</translation>
+          <comment>to get - достать, получить, ticket - билет</comment>
+       </example>
+       <example>
+          <value>a valid ticket</value>
+          <translation>действительный билет</translation>
+          <comment>valid - действительный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a day ticket</value>
+          <translation>купить проездной билет на сутки</translation>
+          <comment>to buy - покупать, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a monthly ticket</value>
+          <translation>купить проездной билет на месяц</translation>
+          <comment>to buy - покупать, monthly - месячный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a three days ticket</value>
+          <translation>купить проездной билет на три дня</translation>
+          <comment>to buy - покупать, three - три, day - день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy a weekly ticket</value>
+          <translation>купить проездной билет на неделю</translation>
+          <comment>to buy - покупать, weekly - недельный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>three tickets</value>
+          <translation>три билета</translation>
+          <comment>three - три, ticket - билеты</comment>
+       </example>
+       <example>
+          <value>to have tickets for Saturday</value>
+          <translation>иметь билеты на субботу</translation>
+          <comment>to have - иметь, ticket - билет, Saturday - суббота</comment>
+       </example>
+       <example>
+          <value>to have tickets for today</value>
+          <translation>иметь билеты на сегодня</translation>
+          <comment>to have - иметь, ticket - билет, today - сегодня</comment>
+       </example>
+       <example>
+          <value>to have tickets for tomorrow</value>
+          <translation>иметь билеты на завтра</translation>
+          <comment>to have - иметь, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to reserve two tickets</value>
+          <translation>заказать два билета</translation>
+          <comment>to reserve - заказать, two - два, ticket - билет</comment>
+       </example>
+       <example>
+          <value>two tickets for Saturday evening</value>
+          <translation>два билета на вечерний сеанс в субботу</translation>
+          <comment>two - два, ticket - билет, Saturday - суббота, evening - вечер</comment>
+       </example>
+       <example>
+          <value>two tickets for tonight&apos;s performance</value>
+          <translation>два билета на сегодняшний вечерний спектакль</translation>
+          <comment>two - два, ticket - билет, tonight - сегодня вечером, performance - спектакль</comment>
+       </example>
+       <example>
+          <value>two tickets in the stalls</value>
+          <translation>два билета в партер</translation>
+          <comment>two - два, ticket - билет, the stalls - партер в театре</comment>
+       </example>
+       <example>
+          <value>tickets for this film</value>
+          <translation>билеты на этот фильм</translation>
+          <comment>ticket - билет, this - этот, эта, film - фильм</comment>
+       </example>
+       <example>
+          <value>to buy tickets</value>
+          <translation>покупать билеты</translation>
+          <comment>to buy - купить, ticket - билет</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the current show</value>
+          <translation>купить билеты на текущий сеанс</translation>
+          <comment>to buy - купить, ticket - билет, current - текущий, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for the evening show</value>
+          <translation>купить билеты на вечерний сеанс</translation>
+          <comment>to buy - купить, ticket - билет, evening - вечер, вечерний, show - показ</comment>
+       </example>
+       <example>
+          <value>to buy tickets for tomorrow</value>
+          <translation>купить билеты на завтра</translation>
+          <comment>to buy - купить, ticket - билет, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>to order a ticket by phone</value>
+          <translation>заказать билет по телефону</translation>
+          <comment>to order - заказать, ticket - билет, phone - телефон</comment>
+       </example>
+       <example>
+          <value>to order a ticket in advance</value>
+          <translation>заказать билет заранее</translation>
+          <comment>to order - заказать, ticket - билет, in advance - заранее</comment>
+       </example>
+       <example>
+          <value>two tickets for this show</value>
+          <translation>два билета на этот сеанс</translation>
+          <comment>two - два, ticket - билет, this - этот, эта, show - показ, сеанс</comment>
+       </example>
+       <example>
+          <value>an air ticket</value>
+          <translation>билет на самолет</translation>
+          <comment>air - воздушный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifteen</question>
+    <answer>пятнадцать</answer>
+    <comment>[ˈfɪfˈtiːn]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>01196f41-2ebb-472c-8c18-bb208ef30cce</uuid>
+    <examples>
+       <example>
+          <value>fifteen minutes</value>
+          <translation>пятнадцать минут</translation>
+          <comment>fifteen - пятнадцать, minute - минута</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>class</question>
+    <answer>класс</answer>
+    <comment>[klæs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3f5d50f6-137a-4e1d-a2b7-a4301d312e80</uuid>
+    <examples>
+       <example>
+          <value>economy class ticket</value>
+          <translation>билет в эконом классе</translation>
+          <comment>economy - экономичный, class - класс, ticket - билет</comment>
+       </example>
+       <example>
+          <value>first class ticket</value>
+          <translation>билет в первом классе</translation>
+          <comment>first - первый, class - класс, ticket билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>application</question>
+    <answer>заявление</answer>
+    <comment>[ˌæpləˈkeɪʃən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>cc961dbd-ab0c-4974-9bc1-2d20cb7d3850</uuid>
+    <examples>
+       <example>
+          <value>my appilcation</value>
+          <translation>мое заявление</translation>
+          <comment>appilcation - заявление</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>insure</question>
+    <answer>страховать</answer>
+    <comment>[ˈɪnˈʃʊr]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4de2a9a4-4736-4778-9abb-718efb3cfe49</uuid>
+    <examples>
+       <example>
+          <value>My baggage is insured.</value>
+          <translation>Мой багаж застрахован.</translation>
+          <comment>baggage - багаж, to insure - страховать</comment>
+       </example>
+       <example>
+          <value>to insure your baggage</value>
+          <translation>застраховать свой (=твой) багаж</translation>
+          <comment>to insure - страховать, your - твой, ваш, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to insure the car</value>
+          <translation>застраховать машину</translation>
+          <comment>to insure - страховать, car - машина</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>loss</question>
+    <answer>потеря</answer>
+    <comment>[lɔːs]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fb350f07-9c2d-4dfe-87f2-92325b2f4476</uuid>
+    <examples>
+       <example>
+          <value>the loss of baggage</value>
+          <translation>пропажа багажа</translation>
+          <comment>loss - пропажа, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>a remedy for weight loss</value>
+          <translation>средство для похудения</translation>
+          <comment>remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+       <example>
+          <value>to give a remedy for weight loss</value>
+          <translation>давать средство для похудения</translation>
+          <comment>to give - давать, remedy - средство, weight - вес, loss - потеря</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>arrive</question>
+    <answer>прибывать</answer>
+    <comment>[əˈrаɪv]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bd56f370-6636-4728-afc3-7d69fcb3a0ed</uuid>
+    <examples>
+       <example>
+          <value>to arrive in New York</value>
+          <translation>прибывать в Нью-Йорк</translation>
+          <comment>to arrive - прибывать, New York - Нью-Йорк</comment>
+       </example>
+       <example>
+          <value>to arrive at the theater</value>
+          <translation>подъехать к театру</translation>
+          <comment>to arrive - прибывать, подъезжать, theater - театр</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>off</question>
+    <answer>прочь</answer>
+    <comment>[ɔːf]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>48f782a9-dc52-4555-b75b-6271e9b1c954</uuid>
+    <examples>
+       <example>
+          <value>It takes off at five p.m.</value>
+          <translation>Он взлетает в пять часов вечера.</translation>
+          <comment>to take off - взлетать, five - пять, p.m. - после полудня</comment>
+       </example>
+       <example>
+          <value>to turn off the light</value>
+          <translation>выключить свет</translation>
+          <comment>to turn off - выключить, light - свет</comment>
+       </example>
+       <example>
+          <value>We got cut off.</value>
+          <translation>Нас разъдинили.</translation>
+          <comment>to get cut off - разъединиться, to cut off - отрезать</comment>
+       </example>
+       <example>
+          <value>to get off at the next stop</value>
+          <translation>выходить на следующей остановке</translation>
+          <comment>to get off - выходить, next - следующий, stop - остановка</comment>
+       </example>
+       <example>
+          <value>Let me off here.</value>
+          <translation>Высадите меня здесь.</translation>
+          <comment>to let off - высаживать (из машины), here - здесь</comment>
+       </example>
+       <example>
+          <value>to let off steam</value>
+          <translation>расслабиться (&quot;выпустить пар&quot;)</translation>
+          <comment>to let off - выпускать, steam - пар</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>lost</question>
+    <answer>потерянный</answer>
+    <comment>[lɔːst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0a41d876-89de-4251-97fd-110150c1358b</uuid>
+    <examples>
+       <example>
+          <value>the lost baggage</value>
+          <translation>утерянный багаж</translation>
+          <comment>lost - утерянный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>to apply for the lost baggage</value>
+          <translation>обратиться по поводу пропажи багажа</translation>
+          <comment>to apply (for) - подавать заявление (на), lost - потерянный, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>the lost-and-found office</value>
+          <translation>бюро находок</translation>
+          <comment>lost - утерянный, found - найденный, office - офис</comment>
+       </example>
+       <example>
+          <value>I&apos;m lost.</value>
+          <translation>Я заблудился.</translation>
+          <comment>lost - потерянный, to lose - терять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>shop</question>
+    <answer>магазин</answer>
+    <comment>[ʃɑːp]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d070ec40-94c4-402d-8eef-060f67d9650c</uuid>
+    <examples>
+       <example>
+          <value>the duty-free shop</value>
+          <translation>магазин duty-free</translation>
+          <comment>duty-free - беспошлинный, shop - магазин</comment>
+       </example>
+       <example>
+          <value>the chemist&apos;s shop</value>
+          <translation>аптека</translation>
+          <comment>chemist - аптекарь, shop - магазин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>these</question>
+    <answer>эти</answer>
+    <comment>[ðiːz]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>483e21c3-d9be-4dd6-abc0-4ac8570fab2b</uuid>
+    <examples>
+       <example>
+          <value>these things</value>
+          <translation>эти вещи</translation>
+          <comment>these - эти, thing - вещь</comment>
+       </example>
+       <example>
+          <value>these oranges</value>
+          <translation>эти апельсины</translation>
+          <comment>these - эти, orange - апельсин</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>register</question>
+    <answer>регистрировать</answer>
+    <comment>[ˈreʤɪstər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>8b61da86-158e-43e4-bc00-9e4a4b9e812b</uuid>
+    <examples>
+       <example>
+          <value>to register as baggage</value>
+          <translation>сдать в багаж</translation>
+          <comment>to register - регистрировать, as - в качестве, baggage - багаж</comment>
+       </example>
+       <example>
+          <value>at the cash register</value>
+          <translation>в кассе, у кассы</translation>
+          <comment>cash - наличные деньги, register - счетный механизм</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>departure</question>
+    <answer>отъезд, отбытие</answer>
+    <comment>[dɪˈpɑːrʧər]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ffdcbe42-1489-4088-85ca-5f3453c099d8</uuid>
+    <examples>
+       <example>
+          <value>the departures board</value>
+          <translation>табло вылета</translation>
+          <comment>departure - отъезд, отбытие, board - доска (объявлений)</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>air</question>
+    <answer>воздух</answer>
+    <comment>[er]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68e01b16-21bc-42ca-898a-c70f98f429b6</uuid>
+    <examples>
+       <example>
+          <value>air tickets</value>
+          <translation>билеты на самолет</translation>
+          <comment>air - воздушный, ticket - билет</comment>
+       </example>
+       <example>
+          <value>an air ticket</value>
+          <translation>билет на самолет</translation>
+          <comment>air - воздушный, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thing</question>
+    <answer>вещь</answer>
+    <comment>[θɪŋ]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8115345-09fd-4ca4-b806-017d342b0151</uuid>
+    <examples>
+       <example>
+          <value>these things</value>
+          <translation>эти вещи</translation>
+          <comment>these - эти, thing - вещь</comment>
+       </example>
+       <example>
+          <value>to buy a lot of things</value>
+          <translation>купить много вещей</translation>
+          <comment>to buy - купить, a lot - много, thing - вещь</comment>
+       </example>
+       <example>
+          <value>to find your things</value>
+          <translation>найти твои вещи</translation>
+          <comment>to find - находить, thing - вещь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>airport</question>
+    <answer>аэропорт</answer>
+    <comment>[ˈerˌpɔːrt]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6f92baf4-010f-4838-acbe-ce36f9b33b15</uuid>
+    <examples>
+       <example>
+          <value>directly at the airport</value>
+          <translation>прямо в аэропорту</translation>
+          <comment>directly - прямо, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>to the airport</value>
+          <translation>до аэропорта</translation>
+          <comment>airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>the fare to the airport</value>
+          <translation>стоимость поездки до аэропорта</translation>
+          <comment>fare - плата, airport - аэропорт</comment>
+       </example>
+       <example>
+          <value>to take to the airport</value>
+          <translation>отвезти в аэропорт</translation>
+          <comment>to take (to) - отвезти (в), airport - аэропорт</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fasten</question>
+    <answer>пристегнуть</answer>
+    <comment>[ˈfæsən]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>3c74b919-dc4f-4f5d-9b56-b86081ef0d51</uuid>
+    <examples>
+       <example>
+          <value>to fasten the belt</value>
+          <translation>пристегнуть ремни</translation>
+          <comment>to fasten - пристегнуть, belt - ремень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fixed</question>
+    <answer>фиксированный</answer>
+    <comment>[fɪkst]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f0e35449-30e9-4a1a-a4a0-92781ba36909</uuid>
+    <examples>
+       <example>
+          <value>a fixed date</value>
+          <translation>фиксированная дата</translation>
+          <comment>fixed - фиксированный, date - дата</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>round</question>
+    <answer>круглый</answer>
+    <comment>[rаʊnd]</comment>
+    <question_comment></question_comment>
+    <answer_comment></answer_comment>
+    <uuid>9a21a6ad-0877-47d5-9fae-e871e6740518</uuid>
+    <examples>
+       <example>
+          <value>a round-trip ticket</value>
+          <translation>билет в оба конца</translation>
+          <comment>round - круговой, trip - поездка, ticket - билет</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

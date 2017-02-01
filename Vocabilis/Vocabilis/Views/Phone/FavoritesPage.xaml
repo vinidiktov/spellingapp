@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			xmlns:local="clr-namespace:Vocabilis;assembly=Vocabilis" 
+			x:Class="Vocabilis.FavoritesPage"
+			Title="Избранное"
+			Icon="ic_fa_star_o.png"
+			>
+	<ContentPage.Resources>
+        <ResourceDictionary>
+            <local:LearnedBoolToColorConverter x:Key="cnvLearned" />
+            <local:LanguageCodeToLanguageNameConverter x:Key="cnvLanguageCode" />
+            <!-- This is only an issue on the iPhone; Android and 
+           			WinPhone auto size the row height to the contents. -->
+      		<OnPlatform x:Key="rowHeight" 
+                  x:TypeArguments="x:Int32"
+                  iOS="60"
+                  Android="60"
+                  WinPhone="85" />
+        </ResourceDictionary> 
+        </ContentPage.Resources>
+	<ContentPage.Content>
+	<StackLayout VerticalOptions="FillAndExpand">
+		<StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Padding="20">
+			<Button BorderWidth="1" TextColor="Red" Text="Удалить" Command="{Binding DeleteCommand}" HorizontalOptions="Start">
+				 <Button.WidthRequest>
+					<OnPlatform x:TypeArguments="x:Double" 
+						iOS="80"
+						Android="100"
+					/>
+				</Button.WidthRequest> 
+
+			</Button>
+			<Button BorderWidth="1" Text="Учить" Clicked="OnLearnedButtonClicked" Command="{Binding LearnCommand}" HorizontalOptions="FillAndExpand">
+			</Button>
+		</StackLayout>
+        <ListView x:Name="lessonsListView" 
+        	ItemsSource="{Binding LessonsInfoList}"
+        	SelectedItem="{Binding SelectedItem, Mode=TwoWay}"
+
+        >
+	     <ListView.ItemTemplate> 
+		      <DataTemplate>
+		        <TextCell Text="{Binding Title}" 
+		        		TextColor="{Binding IsLearned, Converter={StaticResource cnvLearned}}"
+		        		Detail="{Binding QuestionLanguageCode, Converter={StaticResource cnvLanguageCode}}"
+		        />
+		      </DataTemplate>
+		    </ListView.ItemTemplate>   
+        </ListView>
+
+<!--        <ListView x:Name="listView2"
+        	ItemsSource="{Binding LessonsInfoList}"
+        	SelectedItem="{Binding SelectedItem, Mode=TwoWay}"
+        	ItemTapped="OnItemTapped"
+        	RowHeight="{StaticResource rowHeight}"
+        >
+	     <ListView.ItemTemplate>
+		      <DataTemplate>
+		      	<local:CustomCell>
+                    <ViewCell.View>
+                    <StackLayout Padding="15,0,0,0">
+                    	<StackLayout Orientation="Horizontal" >
+                    	<Label HorizontalOptions="StartAndExpand" Text="{Binding Title}"
+                    			TextColor="{Binding IsLearned, Converter={StaticResource cnvLearned}}" />
+						<Image Source="ic_action_discard.png">
+							<Image.GestureRecognizers>
+					        	<TapGestureRecognizer 
+					                Command="{Binding DeleteCommand}" 
+					                Tapped="OnItemTapped2"
+					                NumberOfTapsRequired="1" />
+					  		</Image.GestureRecognizers>
+						</Image>
+                    	</StackLayout>
+                    	<Label Font="Small" Text="{Binding LanguageCode, Converter={StaticResource cnvLanguageCode}" />
+                    </StackLayout>
+                    </ViewCell.View>
+                </local:CustomCell>
+		      </DataTemplate>
+		    </ListView.ItemTemplate>   
+        </ListView>-->
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

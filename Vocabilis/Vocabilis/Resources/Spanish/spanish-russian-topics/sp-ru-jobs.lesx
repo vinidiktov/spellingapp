@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>d74ff034-8ee8-4d9a-b4d8-07471a202233</uuid>
+  <title>Профессии</title>
+  <author></author>
+  <date>
+     <year>2014</year>
+     <month>10</month>
+     <day>29</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>spa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name></name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>el artista</question>
+    <answer>художник</answer>
+    <comment></comment>
+    <uuid>85fe2463-2283-4b1b-ae78-619165f37b79</uuid>
+  </card>
+  <card>
+    <question>el camarero</question>
+    <answer>бармен</answer>
+    <comment></comment>
+    <uuid>30143ec4-af65-4ab2-aafc-01ba969f9ca2</uuid>
+  </card>
+  <card>
+    <question>el mendigo</question>
+    <answer>попрошайка, нищий</answer>
+    <comment></comment>
+    <uuid>7d5a2d22-a6ea-430d-9879-3c12db22aff9</uuid>
+  </card>
+  <card>
+    <question>el chef</question>
+    <answer>шеф-повар</answer>
+    <comment></comment>
+    <uuid>d103a2f2-f189-4612-96f8-279ea52ae0f2</uuid>
+  </card>
+  <card>
+    <question>el limpiador</question>
+    <answer>уборщик</answer>
+    <comment></comment>
+    <uuid>45345f64-9875-4343-9f07-a040a8684774</uuid>
+  </card>
+  <card>
+    <question>el médico</question>
+    <answer>доктор, врач</answer>
+    <comment></comment>
+    <uuid>16e0339e-7e01-48e7-996d-e3ed60dbaa92</uuid>
+  </card>
+  <card>
+    <question>el agricultor</question>
+    <answer>фермер</answer>
+    <comment></comment>
+    <uuid>e8d65263-460b-40ec-bcd0-0a0da2f0499b</uuid>
+  </card>
+  <card>
+    <question>el bombero</question>
+    <answer>пожарный</answer>
+    <comment></comment>
+    <uuid>532e03eb-8452-4d8e-acf8-686809d007ce</uuid>
+  </card>
+  <card>
+    <question>el trabajador</question>
+    <answer>чернорабочий</answer>
+    <comment></comment>
+    <uuid>2cb6eb94-8115-489b-a081-ca63d5a02910</uuid>
+  </card>
+  <card>
+    <question>la enfermera</question>
+    <answer>медсестра</answer>
+    <comment></comment>
+    <uuid>ff3065fa-3ae7-4bd2-8174-aed3a664450e</uuid>
+  </card>
+  <card>
+    <question>el empleado de oficina</question>
+    <answer>служащий</answer>
+    <comment></comment>
+    <uuid>50b78dc2-7387-4a3b-bce0-0c74bfaff0bd</uuid>
+  </card>
+  <card>
+    <question>el farmacéutico</question>
+    <answer>аптекарь</answer>
+    <comment></comment>
+    <uuid>ce91fc54-2d1a-4deb-a834-65642ef2a046</uuid>
+  </card>
+  <card>
+    <question>el fotógrafo</question>
+    <answer>фотограф</answer>
+    <comment></comment>
+    <uuid>aa46fa2a-32e2-4ef3-b7e1-20b9be0918cc</uuid>
+  </card>
+  <card>
+    <question>el piloto</question>
+    <answer>лётчик</answer>
+    <comment></comment>
+    <uuid>efdf2afd-6532-4d45-884b-f5ceeb12708d</uuid>
+  </card>
+  <card>
+    <question>el fontanero</question>
+    <answer>водопроводчик</answer>
+    <comment></comment>
+    <uuid>88a07d4a-50e1-4a2a-a175-549989a9c419</uuid>
+  </card>
+  <card>
+    <question>la policía</question>
+    <answer>полиция</answer>
+    <comment></comment>
+    <uuid>d4c9cd41-2924-4b3e-9d34-7e34c4e09823</uuid>
+  </card>
+  <card>
+    <question>el oficial de policía</question>
+    <answer>офицер полиции</answer>
+    <comment></comment>
+    <uuid>c8dfaec6-2b0e-4f6b-bef8-8e7fb3a72ab3</uuid>
+  </card>
+  <card>
+    <question>el político</question>
+    <answer>политик</answer>
+    <comment></comment>
+    <uuid>da0cab6c-fb40-4a9a-926a-a7bf904d9153</uuid>
+  </card>
+  <card>
+    <question>el programador</question>
+    <answer>программист</answer>
+    <comment></comment>
+    <uuid>bbfa1352-2c0a-4f48-8e5b-213ebff0639a</uuid>
+  </card>
+  <card>
+    <question>el tendero</question>
+    <answer>владелец магазина</answer>
+    <comment></comment>
+    <uuid>8aa49cc8-ccd5-4fbe-a0e7-f30dfaa3ec0b</uuid>
+  </card>
+  <card>
+    <question>el soldado</question>
+    <answer>солдат</answer>
+    <comment></comment>
+    <uuid>7cc21730-1fd0-4532-966a-37a6a9c44f1e</uuid>
+  </card>
+  <card>
+    <question>el sastre</question>
+    <answer>портной</answer>
+    <comment></comment>
+    <uuid>ad4d0bd8-80ad-44e9-a121-ca6129f8e49c</uuid>
+  </card>
+  <card>
+    <question>el camarero</question>
+    <answer>официант</answer>
+    <comment></comment>
+    <uuid>8ed905b1-c80f-4807-ad02-ae3d558d116d</uuid>
+  </card>
+  <card>
+    <question>el soldador</question>
+    <answer>сварщик</answer>
+    <comment></comment>
+    <uuid>14c848d8-9ca1-4f7e-b3dd-c9166fa1e88c</uuid>
+  </card>
+</cards>
+</stack>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>132d9601-b52a-40aa-a52d-ade5629a966e</uuid>
+  <title>Гостиница. Кемпинг</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>Bestellen Sie bitte ein Taxi.</question>
+    <answer>Закажите, пожалуйста, такси.</answer>
+    <comment></comment>
+    <uuid>5d58efa5-f91e-4c42-96b9-947b814531e0</uuid>
+  </card>
+  <card>
+    <question>das Bad</question>
+    <answer>ванна, ванная комната</answer>
+    <comment></comment>
+    <uuid>a6cb5fae-3f8e-4a06-b41b-3514d25230d9</uuid>
+  </card>
+  <card>
+    <question>das Doppelzimmer</question>
+    <answer>двухместный номер</answer>
+    <comment></comment>
+    <uuid>165eb6b4-64da-4ee5-b780-20d28c41e251</uuid>
+  </card>
+  <card>
+    <question>das Einzelzimmer</question>
+    <answer>одноместный номер</answer>
+    <comment></comment>
+    <uuid>aebd880d-74c7-4d6a-bbf8-6f6ad3ee9871</uuid>
+  </card>
+  <card>
+    <question>das Hotel</question>
+    <answer>гостиница, отель</answer>
+    <comment></comment>
+    <uuid>cd722a45-15a2-43aa-9e55-388957dba612</uuid>
+  </card>
+  <card>
+    <question>das Motel</question>
+    <answer>мотель</answer>
+    <comment></comment>
+    <uuid>4a34ae5a-f3d1-4f2f-8486-d4ba985621aa</uuid>
+  </card>
+  <card>
+    <question>das Parterre</question>
+    <answer>первый этаж</answer>
+    <comment></comment>
+    <uuid>bee9fe10-c02b-407d-a0a1-4e24de018d61</uuid>
+  </card>
+  <card>
+    <question>das Privatzimmer</question>
+    <answer>частная комната</answer>
+    <comment></comment>
+    <uuid>6621f437-00f0-431b-b03b-331b36264f0b</uuid>
+  </card>
+  <card>
+    <question>das Wohnmobil</question>
+    <answer>транспортное средство, в котором можно жить</answer>
+    <comment></comment>
+    <uuid>eb23b514-3667-4e1c-9b7e-ca7b8f573536</uuid>
+  </card>
+  <card>
+    <question>das Zelt</question>
+    <answer>палатка</answer>
+    <comment></comment>
+    <uuid>53b505c6-ac06-4216-a04f-ccf10bbca996</uuid>
+  </card>
+  <card>
+    <question>das Zimmer</question>
+    <answer>номер</answer>
+    <comment></comment>
+    <uuid>72ce8121-16e7-4f92-8056-399ad9b5d939</uuid>
+  </card>
+  <card>
+    <question>Den Schlüssel für Zimmer 23 bitte.</question>
+    <answer>Ключ от номера 23, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>1bd9bb53-f0bc-4b8a-94a3-3141b235f728</uuid>
+  </card>
+  <card>
+    <question>Der Aufzug ist dort.</question>
+    <answer>Лифт находится там.</answer>
+    <comment></comment>
+    <uuid>5437d983-d382-4944-b1d6-c3afe26cd44b</uuid>
+  </card>
+  <card>
+    <question>der Aufzug, der Lift</question>
+    <answer>лифт</answer>
+    <comment></comment>
+    <uuid>eb797c92-b4e3-46b1-ad66-1a4e1a98275b</uuid>
+  </card>
+  <card>
+    <question>der Campingplatz</question>
+    <answer>туристская база,место для кемпинга</answer>
+    <comment></comment>
+    <uuid>3b8c34d8-d736-4ff2-bae1-8048c8deb79d</uuid>
+  </card>
+  <card>
+    <question>der erste Stock</question>
+    <answer>2-й этаж</answer>
+    <comment></comment>
+    <uuid>4c847d0e-600c-484c-bff7-3681c925974f</uuid>
+  </card>
+  <card>
+    <question>der Gasthof</question>
+    <answer>гостиница, трактир</answer>
+    <comment></comment>
+    <uuid>5a6bd6a2-de62-4e2b-8efc-eaad549c0c77</uuid>
+  </card>
+  <card>
+    <question>der Platzwart</question>
+    <answer>сторож</answer>
+    <comment></comment>
+    <uuid>bee80be9-1fe7-4498-b2af-97f94de021b8</uuid>
+  </card>
+  <card>
+    <question>der Schlafsack</question>
+    <answer>спальный мешок</answer>
+    <comment></comment>
+    <uuid>5808d5e2-04ef-4fdd-82cb-819a5f64bb1a</uuid>
+  </card>
+  <card>
+    <question>der Schlüssel</question>
+    <answer>ключ</answer>
+    <comment></comment>
+    <uuid>0ffdba07-d177-437f-a64c-47f5e5c355c9</uuid>
+  </card>
+  <card>
+    <question>der Waschraum</question>
+    <answer>умывальная</answer>
+    <comment></comment>
+    <uuid>c66d43e9-e152-4220-875f-2e58eb99e3f1</uuid>
+  </card>
+  <card>
+    <question>der Wohnwagen</question>
+    <answer>автофургон, жилой прицеп</answer>
+    <comment></comment>
+    <uuid>0f2bc3c3-c6cf-4e76-a538-24c636b3c831</uuid>
+  </card>
+  <card>
+    <question>der Zimmerschlüssel</question>
+    <answer>ключ от номера</answer>
+    <comment></comment>
+    <uuid>39f791b4-f7b7-4b99-9630-19103652d2c1</uuid>
+  </card>
+  <card>
+    <question>der zweite Stock</question>
+    <answer>3-й этаж</answer>
+    <comment></comment>
+    <uuid>094db7eb-317b-454b-af1b-41df5e2e34a8</uuid>
+  </card>
+  <card>
+    <question>die Abreise</question>
+    <answer>отъезд</answer>
+    <comment></comment>
+    <uuid>0c46e455-36a8-4e19-9e1e-f8a86050295f</uuid>
+  </card>
+  <card>
+    <question>die Anmeldung</question>
+    <answer>прописка, регистрация</answer>
+    <comment></comment>
+    <uuid>649a3932-09ae-435d-9279-40f920e90cec</uuid>
+  </card>
+  <card>
+    <question>die Dusche</question>
+    <answer>душ</answer>
+    <comment></comment>
+    <uuid>8c5952ab-17f5-4eca-a333-48c554f4a1ab</uuid>
+  </card>
+  <card>
+    <question>die Jugendherberge</question>
+    <answer>туристская база для молодежи</answer>
+    <comment></comment>
+    <uuid>2a1af491-b62d-45a0-a8a8-541b2f967833</uuid>
+  </card>
+  <card>
+    <question>die Pension</question>
+    <answer>пансион</answer>
+    <comment></comment>
+    <uuid>5a2d8308-e7e6-4eca-9ce2-1436a09c91b9</uuid>
+  </card>
+  <card>
+    <question>die Rechnung</question>
+    <answer>счет</answer>
+    <comment></comment>
+    <uuid>056b3359-8a96-4b15-bebf-d49937ec3987</uuid>
+  </card>
+  <card>
+    <question>Die Rechnung bitte.</question>
+    <answer>Счет, пожалуйста.</answer>
+    <comment></comment>
+    <uuid>fa727ace-8d0b-47a8-8105-65235e851936</uuid>
+  </card>
+  <card>
+    <question>die Toiletten</question>
+    <answer>уборная, туалет</answer>
+    <comment></comment>
+    <uuid>7c36b2fa-3ebb-4c0a-849d-15430604674c</uuid>
+  </card>
+  <card>
+    <question>Für den 10. Mai.</question>
+    <answer>На 10 мая.</answer>
+    <comment></comment>
+    <uuid>3ab69317-8479-4e20-8fad-62d9af74d9da</uuid>
+  </card>
+  <card>
+    <question>für drei Nächte</question>
+    <answer>на три ночи</answer>
+    <comment></comment>
+    <uuid>4fa9dbe5-1e63-4f58-8a9c-27fdc703076d</uuid>
+  </card>
+  <card>
+    <question>für eine Nacht</question>
+    <answer>на одну ночь</answer>
+    <comment></comment>
+    <uuid>2cf52331-ccb9-4ee6-a2ea-19514424c2cf</uuid>
+  </card>
+  <card>
+    <question>Ich möchte</question>
+    <answer>Я хотел бы</answer>
+    <comment></comment>
+    <uuid>c9e03665-e7b8-4936-bafb-b4389b830578</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Doppelzimmer. . .</question>
+    <answer>Я хотел бы двухместный номер...</answer>
+    <comment></comment>
+    <uuid>c2ee4dc1-035c-443f-b58f-cc309010d429</uuid>
+  </card>
+  <card>
+    <question>Ich möchte ein Zimmer reservieren.</question>
+    <answer>Я хотел бы забронировать номер.</answer>
+    <comment></comment>
+    <uuid>035e7ccd-cc2e-4293-ab35-85c5b464d0d3</uuid>
+  </card>
+  <card>
+    <question>Ich reise heute ab.</question>
+    <answer>Я сегодня уезжаю.</answer>
+    <comment></comment>
+    <uuid>ef73d8c4-9e5b-4391-a803-55d3767c2722</uuid>
+  </card>
+  <card>
+    <question>Ich suche ein Hotel.</question>
+    <answer>Я ищу гостиницу.</answer>
+    <comment></comment>
+    <uuid>9932ad66-eca3-4e9b-9b93-e1b743388a55</uuid>
+  </card>
+  <card>
+    <question>Mit Frühstück?</question>
+    <answer>С завтраком?</answer>
+    <comment></comment>
+    <uuid>decc5863-8c6c-46c2-ad2f-7be1c2e2007b</uuid>
+  </card>
+  <card>
+    <question>Sie haben Zimmer 23.</question>
+    <answer>У Вас номер 23.</answer>
+    <comment></comment>
+    <uuid>f1584520-c194-4435-8f56-0f1b913b0e57</uuid>
+  </card>
+  <card>
+    <question>Wieviel kostet das Zimmer?</question>
+    <answer>Сколько стоит номер?</answer>
+    <comment></comment>
+    <uuid>56d25169-4fb7-4a4f-aa10-8522f4c5dae0</uuid>
+  </card>
+  <card>
+    <question>Wo ist das Park-Hotel?</question>
+    <answer>Где Парк-отель?</answer>
+    <comment></comment>
+    <uuid>04bf2d07-e21a-4961-9468-ea47f420f123</uuid>
+  </card>
+</cards>
+</stack>

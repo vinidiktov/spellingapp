@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>c52a00a0-6c62-4e83-a2a6-2d5b192e7803</uuid>
+  <title>Родственники</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>der Bruder</question>
+    <answer>брат</answer>
+    <comment></comment>
+    <uuid>e43ffba3-7eb8-4d94-9eaf-693a1a8d309f</uuid>
+  </card>
+  <card>
+    <question>der Enkel</question>
+    <answer>внук</answer>
+    <comment></comment>
+    <uuid>2ab846dd-514d-4803-843d-b03f1c126bf8</uuid>
+  </card>
+  <card>
+    <question>der Großvater</question>
+    <answer>дедушка</answer>
+    <comment></comment>
+    <uuid>2cd9e480-3c47-4b71-832e-25f72d91ef62</uuid>
+  </card>
+  <card>
+    <question>der Neffe</question>
+    <answer>племянник</answer>
+    <comment></comment>
+    <uuid>88920692-2f68-4f23-a5e8-9bd991217a83</uuid>
+  </card>
+  <card>
+    <question>der Onkel</question>
+    <answer>дядя</answer>
+    <comment></comment>
+    <uuid>1d6e317b-db30-4dd9-bdb2-0e831141f5d0</uuid>
+  </card>
+  <card>
+    <question>der Schwager</question>
+    <answer>деверь, шурин</answer>
+    <comment></comment>
+    <uuid>637771d7-7984-4258-b686-5aa24f5fd578</uuid>
+  </card>
+  <card>
+    <question>der Schwiegersohn</question>
+    <answer>зять</answer>
+    <comment></comment>
+    <uuid>451d9ed4-9f70-4122-982d-aa4058e8ac39</uuid>
+  </card>
+  <card>
+    <question>der Sohn</question>
+    <answer>сын</answer>
+    <comment></comment>
+    <uuid>9b837884-339a-46f7-ae7d-0ca2f4db3be2</uuid>
+  </card>
+  <card>
+    <question>der Vater</question>
+    <answer>отец</answer>
+    <comment></comment>
+    <uuid>e7bfb04b-523c-41e8-b14b-f9f8a411d03f</uuid>
+  </card>
+  <card>
+    <question>der Vetter</question>
+    <answer>двоюродный брат</answer>
+    <comment></comment>
+    <uuid>919bb902-53b1-43c9-aab7-29809873b486</uuid>
+  </card>
+  <card>
+    <question>die Cousine</question>
+    <answer>двоюродная сестра</answer>
+    <comment></comment>
+    <uuid>685f16b3-2a0f-4c46-9611-0672cfc20610</uuid>
+  </card>
+  <card>
+    <question>die Enkelin</question>
+    <answer>внучка</answer>
+    <comment></comment>
+    <uuid>aa19b468-da21-4d87-9dfd-df09f4c6de42</uuid>
+  </card>
+  <card>
+    <question>die Enkelkinder</question>
+    <answer>внуки</answer>
+    <comment></comment>
+    <uuid>5fdefb44-a5a7-46f4-8e20-fcc2bd8b145c</uuid>
+  </card>
+  <card>
+    <question>die Großeltern</question>
+    <answer>бабушка с дедушкой</answer>
+    <comment></comment>
+    <uuid>f8503404-00bf-476a-b201-fafdc036847e</uuid>
+  </card>
+  <card>
+    <question>die Großmutter</question>
+    <answer>бабушка</answer>
+    <comment></comment>
+    <uuid>2b59e99b-a2da-44c5-a85c-67649208572f</uuid>
+  </card>
+  <card>
+    <question>die Mutter</question>
+    <answer>мать</answer>
+    <comment></comment>
+    <uuid>5c4e7c42-39d5-4766-ac95-b8aa75cd0ae1</uuid>
+  </card>
+  <card>
+    <question>die Nichte</question>
+    <answer>племянница</answer>
+    <comment></comment>
+    <uuid>215c223a-d14a-4d5d-8ce7-a8c688c7844d</uuid>
+  </card>
+  <card>
+    <question>die Schwester</question>
+    <answer>сестра</answer>
+    <comment></comment>
+    <uuid>e8130c2f-f56b-4dc3-8cc7-9aea11015957</uuid>
+  </card>
+  <card>
+    <question>die Schwiegertochter</question>
+    <answer>невестка</answer>
+    <comment></comment>
+    <uuid>f3f3cde6-5643-4a8e-9ec6-9917b9d6709b</uuid>
+  </card>
+  <card>
+    <question>die Schwägerin</question>
+    <answer>золовка, свояченица, невестка</answer>
+    <comment></comment>
+    <uuid>e3de57b6-c39a-42c1-bc94-d7b27a9ec4e2</uuid>
+  </card>
+  <card>
+    <question>die Tante</question>
+    <answer>тётя</answer>
+    <comment></comment>
+    <uuid>60346993-7d78-4114-b167-c3faec70e793</uuid>
+  </card>
+  <card>
+    <question>die Tochter</question>
+    <answer>дочь</answer>
+    <comment></comment>
+    <uuid>62b83681-c814-48a0-a95b-e8016b8fcd77</uuid>
+  </card>
+</cards>
+</stack>

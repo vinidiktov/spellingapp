@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>db88e679-3c61-480b-99ac-22f76ad9a39d</uuid>
+  <title>Здания</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>11</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>l&apos;aéroport</question>
+    <answer>аэропорт</answer>
+    <comment></comment>
+    <answer_picture>airport.gif</answer_picture>
+    <uuid>c45c48fa-e38a-4390-8d7c-96a50b13b392</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;immeuble d&apos;habitation</question>
+    <answer>многоквартирный дом</answer>
+    <comment></comment>
+    <answer_picture>apartment_building.gif</answer_picture>
+    <uuid>d7047879-69c0-445b-9a08-97215bd840b9</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la galerie de peinture</question>
+    <answer>картинная галерея</answer>
+    <comment></comment>
+    <answer_picture>art_gallery.gif</answer_picture>
+    <uuid>4cc65834-128b-42b6-ba3c-4e712928a58e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la banque</question>
+    <answer>банк</answer>
+    <comment></comment>
+    <answer_picture>bank.gif</answer_picture>
+    <uuid>6b34b53c-966f-40b6-b2ad-536d1b8e6f3a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>bâtir</question>
+    <answer>строить</answer>
+    <comment></comment>
+    <answer_picture>build.gif</answer_picture>
+    <uuid>419ac1c7-7250-433c-8089-8e94f88da7fe</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le bâtiment</question>
+    <answer>здание</answer>
+    <comment></comment>
+    <answer_picture>building.gif</answer_picture>
+    <uuid>6323cc33-768e-4d71-b8ec-f351987b8f1a</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le terminus</question>
+    <answer>автовокзал</answer>
+    <comment></comment>
+    <answer_picture>bus_terminal.gif</answer_picture>
+    <uuid>fc32fd1b-2b73-45e5-955f-8b4e5a3df421</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;église</question>
+    <answer>церковь</answer>
+    <comment></comment>
+    <answer_picture>church.gif</answer_picture>
+    <uuid>e8aa707c-3faf-4e7d-bfbc-1e9de7543b7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le cinéma</question>
+    <answer>кино</answer>
+    <comment></comment>
+    <answer_picture>cinema.gif</answer_picture>
+    <uuid>0ef7b0e2-2564-4dde-9031-3e6bb5e09e66</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la ville</question>
+    <answer>город</answer>
+    <comment></comment>
+    <answer_picture>city.gif</answer_picture>
+    <uuid>eef006f7-0fdf-40e4-9416-0eb2ea93c08b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le chantier de construction</question>
+    <answer>стройка, стройплощадка</answer>
+    <comment></comment>
+    <answer_picture>construction_site.gif</answer_picture>
+    <uuid>6145b778-15cf-494d-a784-3c5e035cd136</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>démolir</question>
+    <answer>сносить (здание)</answer>
+    <comment></comment>
+    <answer_picture>demolish.gif</answer_picture>
+    <uuid>13d0e15d-13ca-43c7-aecc-982981925fc0</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la destruction</question>
+    <answer>разрушение</answer>
+    <comment></comment>
+    <answer_picture>destruction.gif</answer_picture>
+    <uuid>8dd3b31f-8a11-486f-9729-ed9bd666eb44</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;usine</question>
+    <answer>завод, фабрика</answer>
+    <comment></comment>
+    <answer_picture>factory.gif</answer_picture>
+    <uuid>97fa796e-941c-42e7-a1f8-89d22a73fe7c</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la caserne de pompiers</question>
+    <answer>пожарное депо</answer>
+    <comment></comment>
+    <answer_picture>fire_station.gif</answer_picture>
+    <uuid>da556a50-c1a7-4698-b0ef-fe6a215972d6</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le mât de pavillon</question>
+    <answer>флагшток</answer>
+    <comment></comment>
+    <answer_picture>flagpole.gif</answer_picture>
+    <uuid>0056d22d-df23-4fad-956f-bb09eac25f7e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la station-service</question>
+    <answer>бензоколонка</answer>
+    <comment></comment>
+    <answer_picture>gas_station.gif</answer_picture>
+    <uuid>940e0083-8cb4-4bc7-bafc-ec8023fd3ef3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;hôtel</question>
+    <answer>гостиница</answer>
+    <comment></comment>
+    <answer_picture>hotel.gif</answer_picture>
+    <uuid>5b5f13f7-efbb-4076-bb52-25788f15330f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la maison</question>
+    <answer>дом</answer>
+    <comment></comment>
+    <answer_picture>house.gif</answer_picture>
+    <uuid>43132d05-535b-4cde-9f65-64f5115fe524</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le phare</question>
+    <answer>маяк</answer>
+    <comment></comment>
+    <answer_picture>lighthouse.gif</answer_picture>
+    <uuid>d34957ab-f09a-49b2-9c36-eb7c4f6e573e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le centre commercial</question>
+    <answer>торговый комплекс</answer>
+    <comment></comment>
+    <answer_picture>mall.gif</answer_picture>
+    <uuid>c96f3b64-29ba-40c7-87d6-fdeae1c8c265</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la mosquée</question>
+    <answer>мечеть</answer>
+    <comment></comment>
+    <answer_picture>mosque.gif</answer_picture>
+    <uuid>9887acbf-71e3-4cf3-b110-18f3fb503261</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le musée</question>
+    <answer>музей</answer>
+    <comment></comment>
+    <answer_picture>museum.gif</answer_picture>
+    <uuid>337b29fa-b4bb-4d5e-83a2-b9debfbf4621</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;immeuble de bureaux</question>
+    <answer>административное здание</answer>
+    <comment></comment>
+    <answer_picture>office_building.gif</answer_picture>
+    <uuid>bba834a5-3215-407c-8565-9b21234f2548</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>vieux</question>
+    <answer>старый</answer>
+    <comment></comment>
+    <answer_picture>old.gif</answer_picture>
+    <uuid>0a6de459-24e0-4bd6-a3eb-52124be7e5e3</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la poste</question>
+    <answer>почта</answer>
+    <comment></comment>
+    <answer_picture>post_office.gif</answer_picture>
+    <uuid>9f7fed81-0158-47a1-8ae9-13b2a6f0a534</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la gare</question>
+    <answer>железнодорожная станция, вокзал</answer>
+    <comment></comment>
+    <answer_picture>railroad_station.gif</answer_picture>
+    <uuid>ab37a188-d23c-462a-b41e-dd54462a249f</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le restaurant</question>
+    <answer>ресторан</answer>
+    <comment></comment>
+    <answer_picture>restaurant.gif</answer_picture>
+    <uuid>198c5025-39a6-4b29-b589-9c2b8ce19052</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;échafaudage</question>
+    <answer>леса, подмостки</answer>
+    <comment></comment>
+    <answer_picture>scaffolding.gif</answer_picture>
+    <uuid>39d210cf-f38b-41de-9231-c473f5dc82e4</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;école</question>
+    <answer>школа</answer>
+    <comment></comment>
+    <answer_picture>school.gif</answer_picture>
+    <uuid>cc81578c-21ee-4da1-895b-452f72134a4e</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le magasin</question>
+    <answer>магазин</answer>
+    <comment></comment>
+    <answer_picture>shop.gif</answer_picture>
+    <uuid>17f20f09-3b4d-4ae3-9c6c-28eb223624e8</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le stade</question>
+    <answer>стадион</answer>
+    <comment></comment>
+    <answer_picture>stadium.gif</answer_picture>
+    <uuid>e7f74692-8504-4f2c-9282-7521250179fd</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>la station</question>
+    <answer>станция, вокзал</answer>
+    <comment></comment>
+    <answer_picture>station.gif</answer_picture>
+    <uuid>6b35bf1d-b5e7-4b4a-a77a-86a05fed4933</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le temple</question>
+    <answer>храм</answer>
+    <comment></comment>
+    <answer_picture>temple.gif</answer_picture>
+    <uuid>1242b5db-cd35-4b05-aa98-9a12202b4719</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>l&apos;université</question>
+    <answer>университет</answer>
+    <comment></comment>
+    <answer_picture>university.gif</answer_picture>
+    <uuid>4ffcc74c-ef07-45b6-8d62-f7dfb02c2493</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>le village</question>
+    <answer>деревня</answer>
+    <comment></comment>
+    <answer_picture>village.gif</answer_picture>
+    <uuid>531b197e-dc3f-42d5-8258-7154d3969eec</uuid>
+  </card>
+</cards>
+</stack>

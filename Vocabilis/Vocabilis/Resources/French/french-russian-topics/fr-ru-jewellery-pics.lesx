@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>e24ea9e2-550f-4e04-8699-4ed510b9f188</uuid>
+  <title>Драгоценности</title>
+  <author>Алексей Винидиктов</author>
+  <date>
+     <year>2012</year>
+     <month>3</month>
+     <day>18</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>fra</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>le bracelet</question>
+    <answer>браслет</answer>
+    <comment></comment>
+    <answer_picture>bracelet.gif</answer_picture>
+    <uuid>eca6a2e9-590b-44e1-a696-df030374b80b</uuid>
+  </card>
+  <card>
+    <question>les boucles d&apos;oreille</question>
+    <answer>серёжки</answer>
+    <comment></comment>
+    <answer_picture>earrings.gif</answer_picture>
+    <uuid>7f56d3e1-1660-421e-b631-72274d9e2301</uuid>
+  </card>
+  <card>
+    <question>le porte-clés</question>
+    <answer>колько для ключей</answer>
+    <comment></comment>
+    <answer_picture>key_ring.gif</answer_picture>
+    <uuid>0ce32ef4-d0ea-4964-82ad-e1c84dbb996f</uuid>
+  </card>
+  <card>
+    <question>le collier</question>
+    <answer>ожерелье</answer>
+    <comment></comment>
+    <answer_picture>necklace.gif</answer_picture>
+    <uuid>b18a2304-e5bd-4181-943c-8a81bad3c3cc</uuid>
+  </card>
+  <card>
+    <question>la bague</question>
+    <answer>кольцо</answer>
+    <comment></comment>
+    <answer_picture>ring.gif</answer_picture>
+    <uuid>c434a159-b476-4d52-946e-982ea97e91c5</uuid>
+  </card>
+  <card>
+    <question>la montre</question>
+    <answer>часы</answer>
+    <comment></comment>
+    <answer_picture>a_watch.gif</answer_picture>
+    <uuid>d48e8e45-8007-4a9c-9c0f-0097e757098f</uuid>
+  </card>
+</cards>
+</stack>

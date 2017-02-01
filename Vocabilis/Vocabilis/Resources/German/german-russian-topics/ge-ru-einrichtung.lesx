@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>6b5ad36b-10f8-4aad-836b-010d31ba7d58</uuid>
+  <title>Обстановка, мебель</title>
+  <author>Алексей Ермаков</author>
+  <date>
+     <year>2007</year>
+     <month>2</month>
+     <day>12</day>
+  </date>
+  <stage>0</stage>
+  <font_size>10</font_size>
+  <languages>
+     <question_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Arial</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>deu</name>
+        <font>
+            <name>Arial</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+  <text>  </text>
+</info>
+<cards>
+  <card>
+    <question>das Bett</question>
+    <answer>кровать</answer>
+    <comment></comment>
+    <uuid>36efe094-5f15-4262-b3ef-78c5b73d6c6f</uuid>
+  </card>
+  <card>
+    <question>das Bild</question>
+    <answer>картина</answer>
+    <comment></comment>
+    <uuid>7f01f446-73ef-4e20-b244-58f770bc7fc8</uuid>
+  </card>
+  <card>
+    <question>das Geschirr</question>
+    <answer>посуда</answer>
+    <comment></comment>
+    <uuid>e8ad08bb-b741-4f43-a496-ca60272de728</uuid>
+  </card>
+  <card>
+    <question>das Kopfkissen</question>
+    <answer>подушка</answer>
+    <comment></comment>
+    <uuid>c8399311-bdb1-4fce-a8f6-a565dc1be89f</uuid>
+  </card>
+  <card>
+    <question>das Laken</question>
+    <answer>простыня</answer>
+    <comment></comment>
+    <uuid>0fd36d21-c897-445e-bb2c-e03c27218b71</uuid>
+  </card>
+  <card>
+    <question>das Oberbett</question>
+    <answer>покрывало, одеяло</answer>
+    <comment></comment>
+    <uuid>55526820-6500-48c3-89fc-04b33e112104</uuid>
+  </card>
+  <card>
+    <question>das Sideboard</question>
+    <answer>буфет-сервант</answer>
+    <comment></comment>
+    <uuid>f49bbef8-ba3d-4107-9612-76743f14ef37</uuid>
+  </card>
+  <card>
+    <question>das Sofa</question>
+    <answer>диван, тахта</answer>
+    <comment></comment>
+    <uuid>c0fc5f9b-9de6-41f3-aeb4-8da574014bfb</uuid>
+  </card>
+  <card>
+    <question>der Bettvorleger</question>
+    <answer>коврик перед кроватью</answer>
+    <comment></comment>
+    <uuid>8c266bdc-ed00-4730-8f30-914c6b343d49</uuid>
+  </card>
+  <card>
+    <question>der Bücherschrank</question>
+    <answer>книжный шкаф</answer>
+    <comment></comment>
+    <uuid>5db8bef1-7860-42a5-a1a0-e0602c2c6eaf</uuid>
+  </card>
+  <card>
+    <question>der Einbauschrank</question>
+    <answer>встроенный шкаф</answer>
+    <comment></comment>
+    <uuid>1a2db807-3967-40b4-91b0-a7f884a5acc3</uuid>
+  </card>
+  <card>
+    <question>der Fernseher</question>
+    <answer>телевизор</answer>
+    <comment></comment>
+    <uuid>b2f322f2-4afc-40fa-8634-a2b218ddd124</uuid>
+  </card>
+  <card>
+    <question>der Fußboden</question>
+    <answer>пол</answer>
+    <comment></comment>
+    <uuid>37c60895-68b5-44af-8e1c-3492dacb13bb</uuid>
+  </card>
+  <card>
+    <question>der Hifi-Turm</question>
+    <answer>аудиосистема</answer>
+    <comment></comment>
+    <uuid>d9bc1ed7-da14-496e-b2da-1f475b0f6d3e</uuid>
+  </card>
+  <card>
+    <question>der Hängeschrank</question>
+    <answer>настенный шкаф</answer>
+    <comment></comment>
+    <uuid>9f7cd2ed-bdb7-4636-b43e-d64356939e1c</uuid>
+  </card>
+  <card>
+    <question>der Nachttisch</question>
+    <answer>ночной столик, тумбочка</answer>
+    <comment></comment>
+    <uuid>79b88c37-e78b-4ef1-bdc5-ca77272edffa</uuid>
+  </card>
+  <card>
+    <question>der Schlafzimmerschrank</question>
+    <answer>шкаф в спальне</answer>
+    <comment></comment>
+    <uuid>72862b16-7591-4392-9ec0-b1126590e8f4</uuid>
+  </card>
+  <card>
+    <question>der Schrank</question>
+    <answer>шкаф</answer>
+    <comment></comment>
+    <uuid>e18cf343-3f60-4ca6-bffa-cc5b624b3535</uuid>
+  </card>
+  <card>
+    <question>der Sessel</question>
+    <answer>кресло</answer>
+    <comment></comment>
+    <uuid>f1c12355-089a-4fcd-8c7f-9f162e6648b4</uuid>
+  </card>
+  <card>
+    <question>der Stuhl</question>
+    <answer>стул</answer>
+    <comment></comment>
+    <uuid>3493a1ee-eace-4425-b22a-bb12a2d2799e</uuid>
+  </card>
+  <card>
+    <question>der Teppich</question>
+    <answer>ковер</answer>
+    <comment></comment>
+    <uuid>44c4d052-9402-4ece-914f-6166db2b6e03</uuid>
+  </card>
+  <card>
+    <question>der Tisch</question>
+    <answer>стол</answer>
+    <comment></comment>
+    <uuid>3ea5de9b-371f-4a69-b95f-2b160c7d81dc</uuid>
+  </card>
+  <card>
+    <question>der Wecker</question>
+    <answer>будильник</answer>
+    <comment></comment>
+    <uuid>d2a1a043-c0bd-4ccb-a358-0eec28c796b9</uuid>
+  </card>
+  <card>
+    <question>die Decke</question>
+    <answer>потолок</answer>
+    <comment></comment>
+    <uuid>f8d075ab-14bd-4f2a-8bec-ece4f6b2b08f</uuid>
+  </card>
+  <card>
+    <question>die Gardine</question>
+    <answer>гардина</answer>
+    <comment></comment>
+    <uuid>9f66af3d-d29f-4d8d-afb9-50c1fa109f48</uuid>
+  </card>
+  <card>
+    <question>die Hängelampe</question>
+    <answer>висячая лампа</answer>
+    <comment></comment>
+    <uuid>25f8cb3a-3da0-46cf-9b9b-1e6825810c63</uuid>
+  </card>
+  <card>
+    <question>die Innenausstattung</question>
+    <answer>обстановка</answer>
+    <comment></comment>
+    <uuid>a687a26e-c09d-40d8-93ba-894b8cb1678d</uuid>
+  </card>
+  <card>
+    <question>die Matratze</question>
+    <answer>матрац, туфяк</answer>
+    <comment></comment>
+    <uuid>fb36be5a-46af-4762-a555-b447bd872978</uuid>
+  </card>
+  <card>
+    <question>die Renovierung</question>
+    <answer>ремонт</answer>
+    <comment></comment>
+    <uuid>31a96dd0-6053-4df8-8044-24dfb14a991f</uuid>
+  </card>
+  <card>
+    <question>die Wandlampe</question>
+    <answer>настенная лампа</answer>
+    <comment></comment>
+    <uuid>6e365d05-588b-4d7d-aade-28d527c310b3</uuid>
+  </card>
+</cards>
+</stack>

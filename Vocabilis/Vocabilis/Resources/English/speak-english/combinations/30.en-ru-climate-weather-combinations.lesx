@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>33feb985-b58e-4dda-a084-117a35cffdc6</uuid>
+  <title>Климат, Погода :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>a continental climate</question>
+    <answer>континентальный климат</answer>
+    <comment>[ə ˌkɑːnˈtnentl ˈklаɪmɪt]</comment>
+    <question_comment>continental - континентальный, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>554b640c-d73e-4002-8143-1d69ff5ae19c</uuid>
+    <examples>
+       <example>
+          <value>We have a continental climate.</value>
+          <translation>У нас континентальный климат.</translation>
+          <comment>to have - иметь, continental - континентальный, climate - климат</comment>
+       </example>
+       <example>
+          <value>We have a sharp continental climate.</value>
+          <translation>У нас резко континентальный климат.</translation>
+          <comment>to have - иметь, sharp - резкий, continental - континентальный, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a lovely day</question>
+    <answer>прекрасный день</answer>
+    <comment>[ə ˈlʌvliː deɪ]</comment>
+    <question_comment>lovely - прекрасный, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>eaf53b32-5aaf-4518-8259-41e545c46c59</uuid>
+    <examples>
+       <example>
+          <value>What a lovely day!</value>
+          <translation>Какой прекрасный день!</translation>
+          <comment>what - что, какой, lovely - замечательный, day - день</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a mediterranean climate</question>
+    <answer>средиземноморский климат</answer>
+    <comment>[ə ˌmedətəˈreɪnɪən ˈklаɪmɪt]</comment>
+    <question_comment>mediterranean - средиземноморский, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>568f9cde-a09a-4b1c-8f0d-c76dd3e69d0a</uuid>
+    <examples>
+       <example>
+          <value>We have a mediterranean climate.</value>
+          <translation>У нас средиземноморский климат.</translation>
+          <comment>to have - иметь, mediterranean - средиземноморский, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a nice day</question>
+    <answer>хороший день</answer>
+    <comment>[ə nаɪs deɪ]</comment>
+    <question_comment>nice - хороший, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c3cb6acb-77f1-4966-ab90-0b67930788e1</uuid>
+    <examples>
+       <example>
+          <value>Do you think it&apos;s going to be a nice day tomorrow?</value>
+          <translation>Как вы думаете, завтра будет хороший день?</translation>
+          <comment>to think - думать, to be going to - собираться (что-л. делать), to be - быть, nice - замечательный, day - день, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a sea climate</question>
+    <answer>морской климат</answer>
+    <comment>[ə siː ˈklаɪmɪt]</comment>
+    <question_comment>sea - морской, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>64b071b1-d4f7-44d8-ad17-8d48346e567f</uuid>
+    <examples>
+       <example>
+          <value>We have a sea climate.</value>
+          <translation>У нас морской климат.</translation>
+          <comment>to have - иметь, sea - морской, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a severe winter</question>
+    <answer>холодная зима</answer>
+    <comment>[ə sɪˈvɪr ˈwɪntər]</comment>
+    <question_comment>severe - суровый, winter - зима</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1cf4df9a-3aeb-43fd-a2f5-9ee703c38ad9</uuid>
+    <examples>
+       <example>
+          <value>Is winter in your country severe?</value>
+          <translation>У вас суровая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, severe - суровый</comment>
+       </example>
+       <example>
+          <value>What a severe winter we have this year!</value>
+          <translation>Какая холодная зима в этом году!</translation>
+          <comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a sharp continental climate</question>
+    <answer>резко континентальный климат</answer>
+    <comment>[ə ʃɑːrp ˌkɑːnˈtnentl ˈklаɪmɪt]</comment>
+    <question_comment>sharp - резкий, continental - континентальный, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c85c5173-c22c-47fd-a609-e57d491deeb5</uuid>
+    <examples>
+       <example>
+          <value>We have a sharp continental climate.</value>
+          <translation>У нас резко континентальный климат.</translation>
+          <comment>to have - иметь, sharp - резкий, continental - континентальный, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a subtropical climate</question>
+    <answer>субтропический климат</answer>
+    <comment>[ə səbˈtrɑːpɪkəl ˈklаɪmɪt]</comment>
+    <question_comment>subtropical - субтропический, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>35e70f9c-1352-4b82-9019-47fa44037911</uuid>
+    <examples>
+       <example>
+          <value>We have a subtropical climate.</value>
+          <translation>У нас субтропический климат.</translation>
+          <comment>to have - иметь, subtropical - субтропический, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a tropical climate</question>
+    <answer>тропический климат</answer>
+    <comment>[ə ˈtrɑːpɪkəl ˈklаɪmɪt]</comment>
+    <question_comment>tropical - тропический, climate - климат</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>42068f34-8155-4393-8260-09af2b3a1b82</uuid>
+    <examples>
+       <example>
+          <value>We have a tropical climate.</value>
+          <translation>У нас тропический климат.</translation>
+          <comment>to have - иметь, tropical - тропический, climate - климат</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>all day long</question>
+    <answer>целый день</answer>
+    <comment>[ɔːl deɪ lɔːŋ]</comment>
+    <question_comment>all - весь, day - день, long - долго</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b5f1fd8-f3db-45d0-a12d-b69bf0387365</uuid>
+    <examples>
+       <example>
+          <value>Yesterday it was hot all day long.</value>
+          <translation>Вчера весь день было жарко.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, hot - жаркий, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday it was cold all day long.</value>
+          <translation>Вчера весь день было холодно.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, cold - холодный, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday snow was falling all day long.</value>
+          <translation>Вчера весь день шел снег.</translation>
+          <comment>yesterday - вчера, snow - снег, was - был, была, было, falling - падающий, all - весь, day - день, long - длинный</comment>
+       </example>
+       <example>
+          <value>Yesterday rain was pouring all day long.</value>
+          <translation>Вчера весь день шел дождь.</translation>
+          <comment>yesterday - вчера, rain - дождь, was - был, была, было, pouring - льющий, all - весь, day - день, long - длинный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>awful weather</question>
+    <answer>ужасная погода</answer>
+    <comment>[ˈɔːfəl ˈweðər]</comment>
+    <question_comment>awful - ужасный, weather - погода</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2146d062-d118-4ba4-a45a-a382d609671a</uuid>
+    <examples>
+       <example>
+          <value>What awful weather!</value>
+          <translation>Какая ужасная погода!</translation>
+          <comment>what - что, какой, awful - ужасный, weather - погода</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for five minutes</question>
+    <answer>в течение пяти минут</answer>
+    <comment>[fər fаɪv ˈmɪnɪts]</comment>
+    <question_comment>five - пять, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e6994505-80b0-4a9f-b041-a62c83e9635e</uuid>
+    <examples>
+       <example>
+          <value>Can&apos;t even stay in the sun for five minutes.</value>
+          <translation>На солнце невозможно находиться и пяти минут!</translation>
+          <comment>can - мочь, even - даже, to stay - оставаться, sun - солнце, for - в течение, five - пять, minute - минута</comment>
+       </example>
+       <example>
+          <value>It&apos;s five minutes after one.</value>
+          <translation>Сейчас пять минут второго.</translation>
+          <comment>five - пять, minute - минута, after - после, one - один</comment>
+       </example>
+       <example>
+          <value>five minutes after eight</value>
+          <translation>пять минут девятого</translation>
+          <comment>five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes after eight</value>
+          <translation>двадцать пять минут девятого</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes to nine</value>
+          <translation>без двадцати пяти девять</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+       <example>
+          <value>five minutes to nine</value>
+          <translation>без пяти девять</translation>
+          <comment>five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>for months</question>
+    <answer>на протяжении нескольких месяцев</answer>
+    <comment>[fər mʌnθs]</comment>
+    <question_comment>month - месяц</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>63aaddd1-d8dd-4f05-bd05-fb94991c5d02</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m going to stay in the country for a month.</value>
+          <translation>Я собираюсь пробыть в стране месяц.</translation>
+          <comment>to be going to - собираться (что-л. сделать), to stay - оставаться, country - страна, several - несколько, month - месяц</comment>
+       </example>
+       <example>
+          <value>It hasn&apos;t rained a drop for months.</value>
+          <translation>На протяжении нескольких месяцев не выпало ни капли.</translation>
+          <comment>to rain - идти (о дожде), drop - капля, for - в течение, month - месяц</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>full moon</question>
+    <answer>полнолуние</answer>
+    <comment>[fʊl muːn]</comment>
+    <question_comment>full - полный, moon - луна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>01125833-9996-46ed-9d86-2a01615c3591</uuid>
+    <examples>
+       <example>
+          <value>Now it&apos;s full moon.</value>
+          <translation>Сейчас полнолуние.</translation>
+          <comment>now - сейчас, full - полный, moon - луна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>high humidity</question>
+    <answer>высокая влажность</answer>
+    <comment>[hаɪ hjuːˈmɪdɪtiː]</comment>
+    <question_comment>high - высокий, humidity - влажность</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1628ca3d-d450-490c-84ae-dea65548693d</uuid>
+    <examples>
+       <example>
+          <value>Are you having high humidity?</value>
+          <translation>У вас высокая влажность?</translation>
+          <comment>having - имеющий, high - высокий, humidity - влажность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in autumn</question>
+    <answer>осенью</answer>
+    <comment>[ɪn ˈɔːtəm]</comment>
+    <question_comment>autumn - осень</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>d7c4951f-5796-403e-86af-4a5da819b0c2</uuid>
+    <examples>
+       <example>
+          <value>What is the average temperature in your country in autumn?</value>
+          <translation>Какая у вас средняя температура осенью?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, autumn - осень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in spring</question>
+    <answer>весной</answer>
+    <comment>[ɪn sprɪŋ]</comment>
+    <question_comment>spring - весна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>4af7fce6-c47e-48c8-831d-278b59e6778d</uuid>
+    <examples>
+       <example>
+          <value>The Spring sales are on.</value>
+          <translation>Идут весенние распродажи.</translation>
+          <comment>spring - весна, весенний, sale - продажа, on - происходящий</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in spring?</value>
+          <translation>Какая у вас средняя температура весной?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, spring - весна</comment>
+       </example>
+       <example>
+          <value>When does spring come here?</value>
+          <translation>Когда здесь наступает весна?</translation>
+          <comment>when - когда, spring - весна, to come - приходить, here - здесь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in summer</question>
+    <answer>летом</answer>
+    <comment>[ɪn ˈsʌmər]</comment>
+    <question_comment>summer - лето</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5d13ea91-3bba-47bc-9bf8-fd971d869e80</uuid>
+    <examples>
+       <example>
+          <value>Is summer in your country hot?</value>
+          <translation>У вас жаркое лето?</translation>
+          <comment>summer - лето, your - твой, ваш, country - страна, hot - жаркий</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in summer?</value>
+          <translation>Какая у вас средняя температура летом?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, summer - лето</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in winter</question>
+    <answer>зимой</answer>
+    <comment>[ɪn ˈwɪntər]</comment>
+    <question_comment>winter - зима</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>31d237d6-7f38-4b8e-8699-bf905844c515</uuid>
+    <examples>
+       <example>
+          <value>Is winter in your country severe?</value>
+          <translation>У вас суровая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, severe - суровый</comment>
+       </example>
+       <example>
+          <value>Is winter in your country soft?</value>
+          <translation>У вас мягкая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, soft - мягкий</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in winter?</value>
+          <translation>Какая у вас средняя температура зимой?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, winter - зима</comment>
+       </example>
+       <example>
+          <value>Do you have snow in winter?</value>
+          <translation>У вас бывает зимой снег?</translation>
+          <comment>to have - иметь, snow - снег, winter - зима</comment>
+       </example>
+       <example>
+          <value>What a severe winter we have this year!</value>
+          <translation>Какая холодная зима в этом году!</translation>
+          <comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>in your country</question>
+    <answer>в вашей стране</answer>
+    <comment>[ɪn jər ˈkʌntriː]</comment>
+    <question_comment>your - твой, ваш, country - страна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0ff838cf-45b0-43bf-8360-5157ad318736</uuid>
+    <examples>
+       <example>
+          <value>What is the purpose of your visit to this country?</value>
+          <translation>Какова цель вашего прибытия в страну?</translation>
+          <comment>what - что, какой, purpose - цель, your - твой, ваш, visit - визит, посещение, this - этот, эта, country - страна</comment>
+       </example>
+       <example>
+          <value>I&apos;m just passing your country.</value>
+          <translation>Я в вашей стране только проездом.</translation>
+          <comment>just - только, просто, passing - проезжающий, your - твой, ваш, country - страна</comment>
+       </example>
+       <example>
+          <value>What is the climate in your country like?</value>
+          <translation>Какой у вас климат?</translation>
+          <comment>what - что, какой, climate - климат, your - твой, ваш, country - страна, like - как, наподобии</comment>
+       </example>
+       <example>
+          <value>Is winter in your country severe?</value>
+          <translation>У вас суровая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, severe - суровый</comment>
+       </example>
+       <example>
+          <value>Is winter in your country soft?</value>
+          <translation>У вас мягкая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, soft - мягкий</comment>
+       </example>
+       <example>
+          <value>Is summer in your country hot?</value>
+          <translation>У вас жаркое лето?</translation>
+          <comment>summer - лето, your - твой, ваш, country - страна, hot - жаркий</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in winter?</value>
+          <translation>Какая у вас средняя температура зимой?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, winter - зима</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in spring?</value>
+          <translation>Какая у вас средняя температура весной?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, spring - весна</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in summer?</value>
+          <translation>Какая у вас средняя температура летом?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, summer - лето</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in autumn?</value>
+          <translation>Какая у вас средняя температура осенью?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, autumn - осень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>low humidity</question>
+    <answer>низкая влажность</answer>
+    <comment>[loʊ hjuːˈmɪdɪtiː]</comment>
+    <question_comment>low - низкий, humidity - влажность</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5437a12e-e08c-494a-a45e-39439a5268fe</uuid>
+    <examples>
+       <example>
+          <value>Are you having low humidity?</value>
+          <translation>У вас низкая влажность?</translation>
+          <comment>having - имеющий, low - низкий, humidity - влажность</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>much better</question>
+    <answer>гораздо лучше</answer>
+    <comment>[mʌʧ ˈbetər]</comment>
+    <question_comment>much - гораздо, много, better - лучше</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b9e7608a-d80d-45ca-8c80-54fa7fd1e1cc</uuid>
+    <examples>
+       <example>
+          <value>Today the weather is much better.</value>
+          <translation>Сегодня распогодилось.</translation>
+          <comment>today - сегодня, weather - погода, much - много, better - лучше</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>new moon</question>
+    <answer>новолуние</answer>
+    <comment>[nuː muːn]</comment>
+    <question_comment>new - новый, moon - луна</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>121c1664-1f22-48f8-b71f-4061eb3b0c67</uuid>
+    <examples>
+       <example>
+          <value>Now it&apos;s new moon.</value>
+          <translation>Сейчас новолуние.</translation>
+          <comment>now - сейчас, new - новый, moon - луна</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>strong wind</question>
+    <answer>сильный ветер</answer>
+    <comment>[strɔːŋ wɪnd]</comment>
+    <question_comment>strong - сильный, wind - ветер</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>64cc1bfb-f487-40fd-8348-13d77f53aa95</uuid>
+    <examples>
+       <example>
+          <value>Strong wind blows.</value>
+          <translation>Дует сильный ветер.</translation>
+          <comment>strong - сильный, wind - ветер, to blow - дуть</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>ten degrees</question>
+    <answer>десять градусов</answer>
+    <comment>[ten dɪˈgriːz]</comment>
+    <question_comment>ten - десять, degree - градус</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>c600e976-bd5d-443e-bb8d-d581a2ea0d3f</uuid>
+    <examples>
+       <example>
+          <value>Plus ten degrees.</value>
+          <translation>Плюс 10 градусов.</translation>
+          <comment>plus - плюс, ten - десять, degree - градус</comment>
+       </example>
+       <example>
+          <value>Minus ten degrees.</value>
+          <translation>Минус 10 градусов.</translation>
+          <comment>minus - минус, ten - десять, degree - градус</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the average temperature</question>
+    <answer>средняя температура</answer>
+    <comment>[ðiː ˈævərɪʤ ˈtempərəʧər]</comment>
+    <question_comment>average - средний, temperature - температура</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>ec59e320-6e0e-4762-94f4-e13a3c952cfc</uuid>
+    <examples>
+       <example>
+          <value>What is the average temperature in your country in winter?</value>
+          <translation>Какая у вас средняя температура зимой?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, winter - зима</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in spring?</value>
+          <translation>Какая у вас средняя температура весной?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, spring - весна</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in summer?</value>
+          <translation>Какая у вас средняя температура летом?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, summer - лето</comment>
+       </example>
+       <example>
+          <value>What is the average temperature in your country in autumn?</value>
+          <translation>Какая у вас средняя температура осенью?</translation>
+          <comment>what - что, какой, average - средний, temperature - температура, your - твой, ваш, country - страна, autumn - осень</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the weather forecast</question>
+    <answer>прогноз погоды</answer>
+    <comment>[ðə ˈweðər ˈfɔːrˌkæst]</comment>
+    <question_comment>weather - погода, forecast - прогноз</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0e4f440b-5d8f-4ad3-b7c5-1a411d8f2a96</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the weather forecast for tomorrow?</value>
+          <translation>Какой прогноз погоды на завтра?</translation>
+          <comment>what - что, какой, weather - погода, forecast - прогноз, tomorrow - завтра</comment>
+       </example>
+       <example>
+          <value>What&apos;s the weather forecast for today?</value>
+          <translation>Какой прогноз погоды на сегодня?</translation>
+          <comment>what - что, какой, weather - погода, forecast - прогноз, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the weather forecast for today</question>
+    <answer>прогноз погоды на сегодня</answer>
+    <comment>[ðə ˈweðər ˈfɔːrˌkæst fər təˈdeɪ]</comment>
+    <question_comment>weather - погода, forecast - прогноз, today - сегодня</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e8d934fd-6913-4bd9-b916-15add07bf5ca</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the weather forecast for today?</value>
+          <translation>Какой прогноз погоды на сегодня?</translation>
+          <comment>what - что, какой, weather - погода, forecast - прогноз, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the weather forecast for tomorrow</question>
+    <answer>прогноз погоды на завтра</answer>
+    <comment>[ðə ˈweðər ˈfɔːrˌkæst fər təˈmɔːroʊ]</comment>
+    <question_comment>weather - погода, forecast - прогноз, tomorrow - завтра</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2df6eabc-2ef1-4058-834d-59286d8ba839</uuid>
+    <examples>
+       <example>
+          <value>What&apos;s the weather forecast for tomorrow?</value>
+          <translation>Какой прогноз погоды на завтра?</translation>
+          <comment>what - что, какой, weather - погода, forecast - прогноз, tomorrow - завтра</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>the wind force</question>
+    <answer>сила ветра</answer>
+    <comment>[ðə wɪnd fɔːrs]</comment>
+    <question_comment>wind - ветер, force - сила</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>0998cfdc-92cc-4ea8-84fa-888b6ec50101</uuid>
+    <examples>
+       <example>
+          <value>What is the wind force?</value>
+          <translation>Какая сила ветра?</translation>
+          <comment>what - что, какой, wind - ветер, force - сила</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>this year</question>
+    <answer>в этом году</answer>
+    <comment>[ðɪs jɪr]</comment>
+    <question_comment>this - этот, эта, year - год</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b885e132-ccc1-4b66-9da7-1f66716e02d1</uuid>
+    <examples>
+       <example>
+          <value>I have a multiple-entry visa for this year.</value>
+          <translation>У меня многократная виза на этот год.</translation>
+          <comment>to have - иметь, multiple - множественный, entry - вход, въезд, visa - виза, this - этот, эта, year - год</comment>
+       </example>
+       <example>
+          <value>That&apos;s the best film I&apos;ve seen this year.</value>
+          <translation>Это лучший фильм, который я видел в этом году.</translation>
+          <comment>that - то, это, best - лучший, film - фильм, to see - видеть, this - этот, эта, это, year - год</comment>
+       </example>
+       <example>
+          <value>What a severe winter we have this year!</value>
+          <translation>Какая холодная зима в этом году!</translation>
+          <comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</comment>
+       </example>
+       <example>
+          <value>this year</value>
+          <translation>в этом году</translation>
+          <comment>this - этот, эта, это, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a clear sky</question>
+    <answer>ясное небо</answer>
+    <comment>[ə klɪr skаɪ]</comment>
+    <question_comment>clear - ясный, sky - небо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34b7e8d8-3315-4c3c-99a3-5c611760ccd4</uuid>
+    <examples>
+       <example>
+          <value>The sky is clear.</value>
+          <translation>Небо ясное.</translation>
+          <comment>sky - небо, clear - ясный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a cloudy sky</question>
+    <answer>пасмурное небо</answer>
+    <comment>[ə ˈklаʊdiː skаɪ]</comment>
+    <question_comment>cloudy - пасмурный, sky - небо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e0e326ee-f07a-49e5-a100-35f9f1cac9ce</uuid>
+    <examples>
+       <example>
+          <value>The sky is cloudy.</value>
+          <translation>Небо облачное.</translation>
+          <comment>sky - небо, cloudy - облачный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a cold day</question>
+    <answer>холодный день</answer>
+    <comment>[ə koʊld deɪ]</comment>
+    <question_comment>cold - холодный, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1c9ebc04-ed30-4c44-8ed4-a9185573240e</uuid>
+    <examples>
+       <example>
+          <value>Yesterday it was cold all day long.</value>
+          <translation>Вчера весь день было холодно.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, cold - холодный, all - весь, day - день, long - длинный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a cool day</question>
+    <answer>прохладный день</answer>
+    <comment>[ə kuːl deɪ]</comment>
+    <question_comment>cool - прохладный, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5978439e-0ec2-4e6f-b06b-b997a909dda5</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a foggy day</question>
+    <answer>туманный день</answer>
+    <comment>[ə ˈfɑːgiː deɪ]</comment>
+    <question_comment>foggy - туманный, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9bcc19c-e352-4d9b-9319-ca909a412b0b</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>Swimming is forbidden.</question>
+    <answer>Плаванье запрещено.</answer>
+    <comment>[ˈswɪmɪŋ ɪz fərˈbɪdn]</comment>
+    <question_comment>swimming - плавание, to swim - плавать, forbidden - запрещенный, to forbid - запрещать</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>beb63dd0-3acf-4a3c-8ba9-8bb0ddc1cc8a</uuid>
+    <examples>
+       <example>
+          <value>Swimming is forbidden.</value>
+          <translation>Купаться запрещено.</translation>
+          <comment>swimming - плавание, forbidden - запрещенный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>Don&apos;t be frostbitten!</question>
+    <answer>Не обморозься!</answer>
+    <comment>[doʊnt biː ˈfrɔːstˌbɪtn]</comment>
+    <question_comment>frostbitten - обмороженный, frostbite - отмороженное место</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b2e37b45-ad32-4ff3-a462-184a036f9c19</uuid>
+    <examples>
+       <example>
+          <value>Don&apos;t be frostbitten!</value>
+          <translation>Не обморозься!</translation>
+          <comment>to be - быть, frostbitten - обмороженный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s frosty.</question>
+    <answer>Морозно.</answer>
+    <comment>[its ˈfrɔːstiː]</comment>
+    <question_comment>frosty - морозный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>fc39f1a7-4a72-499c-863e-63322cc0f1ca</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s frosty.</value>
+          <translation>Морозно.</translation>
+          <comment>frosty - морозный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a hot day</question>
+    <answer>жаркий день</answer>
+    <comment>[ə hɑːt deɪ]</comment>
+    <question_comment>hot - жаркий, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e190cc59-efce-4e1d-9b2a-d98a9d29b769</uuid>
+    <examples>
+       <example>
+          <value>Yesterday it was hot all day long.</value>
+          <translation>Вчера весь день было жарко.</translation>
+          <comment>yesterday - вчера, it - это, was - был, было, была, hot - жаркий, all - весь, day - день, long - длинный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a rainy day</question>
+    <answer>дождливый день</answer>
+    <comment>[ə ˈreɪniː deɪ]</comment>
+    <question_comment>rainy - дождливый, day - день</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>14286034-7c44-4703-b5de-5fc27b8b63e7</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>a severe winter</question>
+    <answer>суровая зима</answer>
+    <comment>[ə sɪˈvɪr ˈwɪntər]</comment>
+    <question_comment>severe - суровый, winter - зима</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>91dea9bb-2473-4693-815a-0236f4efa8bc</uuid>
+    <examples>
+       <example>
+          <value>Is winter in your country severe?</value>
+          <translation>У вас суровая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, severe - суровый</comment>
+       </example>
+       <example>
+          <value>What a severe winter we have this year!</value>
+          <translation>Какая холодная зима в этом году!</translation>
+          <comment>what - что, какой, severe - суровый, winter - зима, we - мы, to have - иметь, this - этот, это, эта, year - год</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>a soft winter</question>
+    <answer>мягкая зима</answer>
+    <comment>[ə sɔːft ˈwɪntər]</comment>
+    <question_comment>soft - мягкий, winter - зима</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>1269d739-747b-465d-982a-897214b9b032</uuid>
+    <examples>
+       <example>
+          <value>Is winter in your country soft?</value>
+          <translation>У вас мягкая зима?</translation>
+          <comment>winter - зима, your - твой, ваш, country - страна, soft - мягкий</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>The sea is stormy.</question>
+    <answer>Море штормит.</answer>
+    <comment>[ðə siː ɪz ˈstɔːrmiː]</comment>
+    <question_comment>sea - море, stormy - штормовой, storm - шторм</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>68863eb0-6430-4c53-8b63-5bdbd52286ff</uuid>
+    <examples>
+       <example>
+          <value>The sea is stormy.</value>
+          <translation>Море штормит.</translation>
+          <comment>sea - море, stormy - штормовой</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s stuffy.</question>
+    <answer>Душно.</answer>
+    <comment>[its ˈstʌfiː]</comment>
+    <question_comment>stuffy - душный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>00b1ee15-5c11-485b-bc53-140ba3346cda</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s stuffy.</value>
+          <translation>Душно.</translation>
+          <comment>stuffy - душный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>It&apos;s windy.</question>
+    <answer>Ветрено.</answer>
+    <comment>[its ˈwɪndiː]</comment>
+    <question_comment>windy - ветреный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a953604b-ef94-4102-aebe-077ebb9695db</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s windy.</value>
+          <translation>Ветрено.</translation>
+          <comment>windy - ветреный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>A storm has broken out.</question>
+    <answer>Разыгрался шторм.</answer>
+    <comment>[ə stɔːrm hæz ˈbroʊkən аʊt]</comment>
+    <question_comment>storm - шторм, to break out - разыграться</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b0407b02-807c-4d3e-93ef-48f4b2357428</uuid>
+    <examples>
+       <example>
+          <value>Today a storm has broken out.</value>
+          <translation>Сегодня разыгрался шторм.</translation>
+          <comment>today - сегодня, storm - буря, to break out - разразиться</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to fall thick</question>
+    <answer>выпасть в большом объеме</answer>
+    <comment>[tə fɔːl θɪk]</comment>
+    <question_comment>to fall - падать, thick - густой</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f840c5da-2cf8-4edd-9cc0-04e617267b8d</uuid>
+    <examples>
+       <example>
+          <value>The snow is going to fall thick.</value>
+          <translation>Будет сильный снегопад.</translation>
+          <comment>snow - снег, to be going to - собираться (что-л. сделать), to fall - падать, thick - густой, толстый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get clearer</question>
+    <answer>проясняться</answer>
+    <comment>[tə get ˈklɪrər]</comment>
+    <question_comment>to get - становиться, clearer - яснее, clear - ясный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e14f4263-7c66-4da4-b4cd-4379455dd95a</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s getting clearer.</value>
+          <translation>Проясняется.</translation>
+          <comment>to get - становиться, clearer - яснее</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to get cold</question>
+    <answer>холодать</answer>
+    <comment>[tə get koʊld]</comment>
+    <question_comment>to get - становиться, cold - холодный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5169b018-bcab-427c-8993-4a7ec590c5ae</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s getting cold.</value>
+          <translation>Холодает.</translation>
+          <comment>to get - становиться, cold - холодный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to shine brightly</question>
+    <answer>ярко светить</answer>
+    <comment>[tə ʃаɪn ˈbrаɪtli]</comment>
+    <question_comment>to shine - светить, brightly - ярко, bright - яркий</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>f6a47eee-cf98-4b89-be6e-36efe034997d</uuid>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stand cold well</question>
+    <answer>хорошо переносить холод</answer>
+    <comment>[tə stænd koʊld wel]</comment>
+    <question_comment>to stand - переносить, выдерживать, cold - холод, well - хорошо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bbc8c024-aff5-4b27-8b65-07cbaabe17af</uuid>
+    <examples>
+       <example>
+          <value>Do you stand cold well?</value>
+          <translation>Вы хорошо переносите холод?</translation>
+          <comment>to stand - выдерживать, cold - холод, well - хорошо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stand heat badly</question>
+    <answer>хорошо переносить жару</answer>
+    <comment>[tə stænd hiːt ˈbædliː]</comment>
+    <question_comment>to stand - переносить, выдерживать, heat - жар, badly - плохо</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a4d581dd-8dd8-4acb-9f50-d1a4b9810c14</uuid>
+    <examples>
+       <example>
+          <value>Do you stand heat badly?</value>
+          <translation>Вы плохо переносите жару?</translation>
+          <comment>to stand - выдерживать, heat - жара, badly - плохо</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to stay in the sun</question>
+    <answer>оставаться на солнце</answer>
+    <comment>[tə steɪ ɪn ðə sʌn]</comment>
+    <question_comment>to stay - оставаться, sun - солнце</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>7d29bed6-a7a3-43b4-bfa0-ae7b96c93636</uuid>
+    <examples>
+       <example>
+          <value>Can&apos;t even stay in the sun for five minutes.</value>
+          <translation>На солнце невозможно находиться и пяти минут!</translation>
+          <comment>can - мочь, even - даже, to stay - оставаться, sun - солнце, for - в течение, five - пять, minute - минута</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>water temperature</question>
+    <answer>температура воды</answer>
+    <comment>[ˈwɔːtər ˈtempərəʧər]</comment>
+    <question_comment>water - вода, temperature - температура</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>59dbddc7-feb2-4b39-a610-0caaf1d2cdd8</uuid>
+    <examples>
+       <example>
+          <value>What is water temperature today?</value>
+          <translation>Какая сегодня температура воды?</translation>
+          <comment>what - что, какой, water - вода, temperature - температура, today - сегодня</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>

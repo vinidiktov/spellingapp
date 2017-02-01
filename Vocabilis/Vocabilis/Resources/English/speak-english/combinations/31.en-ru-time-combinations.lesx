@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack version="1.2">
+<info>
+  <uuid>57b82456-1fe3-4293-851e-4f64e0f0f791</uuid>
+  <title>Время :: Словосочетания</title>
+  <author>Alex Ermakov</author>
+  <date>
+     <year>2009</year>
+     <month>6</month>
+     <day>5</day>
+  </date>
+  <stage>0</stage>
+  <font_size>12</font_size>
+  <languages>
+     <question_language>
+        <name>eng</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </question_language>
+     <answer_language>
+        <name>rus</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>204</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </answer_language>
+     <comment_language>
+        <name>ipa</name>
+        <font>
+            <name>Lucida Sans Unicode</name>
+            <charset>0</charset>
+            <bold>false</bold>
+            <italic>false</italic>
+            <underline>false</underline>
+            <strikeout>false</strikeout>
+        </font>
+     </comment_language>
+  </languages>
+</info>
+<cards>
+  <card stage="0" rating="0">
+    <question>after eight</question>
+    <answer>после восьми</answer>
+    <comment>[ˈæftər eɪt]</comment>
+    <question_comment>after - после, eight - восемь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e3b048b7-4871-4523-b0af-e8b1ee093786</uuid>
+    <examples>
+       <example>
+          <value>five minutes after eight</value>
+          <translation>пять минут девятого</translation>
+          <comment>five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes after eight</value>
+          <translation>двадцать пять минут девятого</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>after one</question>
+    <answer>после часа</answer>
+    <comment>[ˈæftər wʌn]</comment>
+    <question_comment>after - после, one - один</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>10037a94-9d7e-4e90-b32a-74c72647527c</uuid>
+    <examples>
+       <example>
+          <value>It&apos;s five minutes after one.</value>
+          <translation>Сейчас пять минут второго.</translation>
+          <comment>five - пять, minute - минута, after - после, one - один</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>eight o&apos;clock</question>
+    <answer>восемь часов</answer>
+    <comment>[eɪt əˈklɑːk]</comment>
+    <question_comment>eight - восемь, o&apos;clock - часы</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>56432411-cff3-4f3d-a554-2105f38f4aa7</uuid>
+    <examples>
+       <example>
+          <value>eight o&apos;clock sharp</value>
+          <translation>ровно восемь</translation>
+          <comment>eight - восемь, o&apos;clock - часы, sharp - ровно</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>fifteen minutes</question>
+    <answer>пятнадцать минут</answer>
+    <comment>[ˈfɪfˈtiːn ˈmɪnɪts]</comment>
+    <question_comment>fifteen - пятнадцать, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>663cbb0a-e277-4c07-8b84-84877167db54</uuid>
+    <examples>
+       <example>
+          <value>The plane to Moscow is fifteen minutes late.</value>
+          <translation>Самолет до Москвы опаздывает на 15 минут.</translation>
+          <comment>plane - самолет, Moscow - Москва, fifteen - пятнадцать, minute - минута, late - опоздавший</comment>
+       </example>
+       <example>
+          <value>fifteen minutes to nine</value>
+          <translation>без пятнадцати девять</translation>
+          <comment>fifteen - пятнадцать, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>five minutes</question>
+    <answer>пять минут</answer>
+    <comment>[fаɪv ˈmɪnɪts]</comment>
+    <question_comment>five - пять, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6b0db74c-533c-4c94-bb00-029cca34d227</uuid>
+    <examples>
+       <example>
+          <value>Can&apos;t even stay in the sun for five minutes.</value>
+          <translation>На солнце невозможно находиться и пяти минут!</translation>
+          <comment>can - мочь, even - даже, to stay - оставаться, sun - солнце, for - в течение, five - пять, minute - минута</comment>
+       </example>
+       <example>
+          <value>It&apos;s five minutes after one.</value>
+          <translation>Сейчас пять минут второго.</translation>
+          <comment>five - пять, minute - минута, after - после, one - один</comment>
+       </example>
+       <example>
+          <value>five minutes after eight</value>
+          <translation>пять минут девятого</translation>
+          <comment>five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes after eight</value>
+          <translation>двадцать пять минут девятого</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes to nine</value>
+          <translation>без двадцати пяти девять</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+       <example>
+          <value>five minutes to nine</value>
+          <translation>без пяти девять</translation>
+          <comment>five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>from... to...</question>
+    <answer>от ... до ...</answer>
+    <comment>[frʌm ... tu...]</comment>
+    <question_comment>from - от, to - до</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>5aa238b0-f6b6-4fbe-b7db-621e868cc693</uuid>
+    <examples>
+       <example>
+          <value>Where are you from?</value>
+          <translation>Откуда вы?</translation>
+          <comment>where - где, куда, you - ты, вы, from - от</comment>
+       </example>
+       <example>
+          <value>I&apos;m from the United States.</value>
+          <translation>Я из Соединенных Штатов.</translation>
+          <comment>from - от, из, the United States - Соединенные Штаты</comment>
+       </example>
+       <example>
+          <value>I&apos;m expecting some money from Russia. Has it arrived yet?</value>
+          <translation>Для меня должны быть деньги из России. Они уже пришли?</translation>
+          <comment>expecting - ожидающий, some - некоторое количество, money - деньги, Russia - Россия, to arrive - прибыть, yet - уже</comment>
+       </example>
+       <example>
+          <value>What airport does my plane take off from?</value>
+          <translation>Из какого аэропорта отправляется мой самолет?</translation>
+          <comment>what - какой, airport - аэропорт, plane - самолет, to take off - отправляться, from - от, из</comment>
+       </example>
+       <example>
+          <value>The train leaves at seven p.m. from platform number three.</value>
+          <translation>Поезд отправляется в 7 вечера с платформы №3.</translation>
+          <comment>train - поезд, to leave - отправляться, seven - семь, p.m. - после полудня, from - от, из, platform - платформа, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>When does the train from Moscow arrive?</value>
+          <translation>Когда прибывает поезд из Москвы?</translation>
+          <comment>when - когда, train - поезд, from - от, из, Moscow - Москва, to arrive - прибыть</comment>
+       </example>
+       <example>
+          <value>At what platform does the train from Moscow arrive?</value>
+          <translation>На какую платформу прибывает поезд из Москвы?</translation>
+          <comment>what - какой, platform - платформа, train - поезд, from - от, из, Moscow - Москва, to arrive - прибывать</comment>
+       </example>
+       <example>
+          <value>What plarform does the train to Moscow leave from?</value>
+          <translation>С какой платформы отправляется поезд до Москвы?</translation>
+          <comment>what - какой, platform - платформа, train - поезд, Moscow - Москва, to leave - отправляется</comment>
+       </example>
+       <example>
+          <value>Where can I make a call from?</value>
+          <translation>Откуда можно позвонить?</translation>
+          <comment>where - где, can - мочь, to make - сделать, call - звонок, from - от, из</comment>
+       </example>
+       <example>
+          <value>I prefer to sit some distance from the screen.</value>
+          <translation>Я люблю сидеть не очень близко от экрана.</translation>
+          <comment>to prefer - предпочитать, to sit - сидеть, some - некоторый, distance - расстояние, screen - экран</comment>
+       </example>
+       <example>
+          <value>I can&apos;t see much from here.</value>
+          <translation>Мне отсюда не видно.</translation>
+          <comment>to see - видеть, much - много, from - от, из, here - здесь</comment>
+       </example>
+       <example>
+          <value>I&apos;ve come from Russia.</value>
+          <translation>Я приехал из России.</translation>
+          <comment>to come - приехать, from - из, от, Russia - Россия</comment>
+       </example>
+       <example>
+          <value>Please call an official from the embassy.</value>
+          <translation>Пожалуйста, пригласите сотрудника посольства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, embassy - посольство</comment>
+       </example>
+       <example>
+          <value>Please call an official from the consulate.</value>
+          <translation>Пожалуйста, пригласите сотрудника консульства.</translation>
+          <comment>to call - звать, official - официальное лицо, from - от, из, consulate - консульство</comment>
+       </example>
+       <example>
+          <value>from half past three to four o&apos;clock</value>
+          <translation>от половины четвертого до четырех</translation>
+          <comment>from - от, half - половина, past - после, three - три, to - к, до, four - четыре, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>Where do raw materials come from?</value>
+          <translation>Откуда поставляется сырье?</translation>
+          <comment>where - где, raw - сырой, material - материал, to come - приходить, from - от, из</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>past eight</question>
+    <answer>после восьми</answer>
+    <comment>[pæst eɪt]</comment>
+    <question_comment>past - после, eight - восемь</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>bb49e78c-c249-4539-909b-b116175e7d82</uuid>
+    <examples>
+       <example>
+          <value>a quarter past eight</value>
+          <translation>четверть девятого</translation>
+          <comment>quarter - четверть, past - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>half past eight</value>
+          <translation>половина девятого</translation>
+          <comment>half - половина, past - после, eight- восемь</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>thirty five</question>
+    <answer>тридцать пять</answer>
+    <comment>[ˈθɜːrtiː fаɪv]</comment>
+    <question_comment>thirty - тридцать, five - пять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>2c927202-b95c-4029-a6ce-f845686446c7</uuid>
+    <examples>
+       <example>
+          <value>eight thirty five</value>
+          <translation>тридцать пять девятого</translation>
+          <comment>eight- восемь, thirty - тридцать, five - пять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be a bit fast</question>
+    <answer>немного спешить</answer>
+    <comment>[tə biː ə bɪt fæst]</comment>
+    <question_comment>a bit - немного, fast - быстрый</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>949e9360-1352-43bf-8001-65513534950b</uuid>
+    <examples>
+       <example>
+          <value>My watch is a bit fast.</value>
+          <translation>Мои часы спешат.</translation>
+          <comment>my - мой, моя, мое, мои, watch - часы, a bit - немного, fast - быстрый</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>an accurate watch</question>
+    <answer>точные часы</answer>
+    <comment>[ən ˈækjərɪt wɑːʧ]</comment>
+    <question_comment>accurate - точный, watch - часы</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>e1de57e4-bc77-4312-8552-db4c4e457b70</uuid>
+    <examples>
+       <example>
+          <value>Is your watch accurate?</value>
+          <translation>У вас точные часы?</translation>
+          <comment>your - твой, ваш, watch - часы, accurate - точный</comment>
+       </example>
+       <example>
+          <value>My watch is accurate.</value>
+          <translation>Мои часы идут верно.</translation>
+          <comment>my - мой, моя, мое, мои, watch - часы, accurate - точный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to be an hour late</question>
+    <answer>опаздывать на один час</answer>
+    <comment>[tə biː ən аʊr leɪt]</comment>
+    <question_comment>hour - час, late - поздний</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>803bbdbc-2470-4019-9cbf-2a331703d9d6</uuid>
+    <examples>
+       <example>
+          <value>I&apos;m half an hour late.</value>
+          <translation>Я опаздываю на полчаса.</translation>
+          <comment>half - половина, hour - час, late - поздний</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>My watch is slow.</question>
+    <answer>Мои часы отстают.</answer>
+    <comment>[mаɪ wɑːʧ ɪz sloʊ]</comment>
+    <question_comment>watch - часы, slow - медленный</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>84680ee6-0ae0-4528-b3cd-fe21a58f72a5</uuid>
+    <examples>
+       <example>
+          <value>My watch is slow.</value>
+          <translation>Мои часы отстают.</translation>
+          <comment>my - мой, моя, мое, мои, watch - часы, slow - медленный</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to have very little time</question>
+    <answer>иметь очень мало времени</answer>
+    <comment>[tə hæv ˈveriː ˈlɪtl tаɪm]</comment>
+    <question_comment>to have - иметь, very - очень, little - мало, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a813e40d-3617-4258-9997-e6283f5e6882</uuid>
+    <examples>
+       <example>
+          <value>I have very little time.</value>
+          <translation>У меня очень мало времени.</translation>
+          <comment>to have - иметь, very - очень, little - мало, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to nine</question>
+    <answer>до девяти (часов)</answer>
+    <comment>[tə nаɪn]</comment>
+    <question_comment>nine - девять</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>59a85518-e65e-4811-b918-6496744e0487</uuid>
+    <examples>
+       <example>
+          <value>twenty five minutes to nine</value>
+          <translation>без двадцати пяти девять</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+       <example>
+          <value>a quarter to nine</value>
+          <translation>без четверти девять</translation>
+          <comment>quarter - четверть, to - до, к, nine - девять</comment>
+       </example>
+       <example>
+          <value>fifteen minutes to nine</value>
+          <translation>без пятнадцати девять</translation>
+          <comment>fifteen - пятнадцать, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+       <example>
+          <value>five minutes to nine</value>
+          <translation>без пяти девять</translation>
+          <comment>five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to tell the time</question>
+    <answer>сказать время</answer>
+    <comment>[tə tel ðə tаɪm]</comment>
+    <question_comment>to tell - сказать, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>34833bd7-29ad-4ea9-9f5a-17fe2c3212c3</uuid>
+    <examples>
+       <example>
+          <value>Excuse me. Can you tell me the time?</value>
+          <translation>Будьте добры! Который час?</translation>
+          <comment>to excuse - извинять, me - мне, меня, can - мочь, you - ты, вы, to tell - сказать, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>to three</question>
+    <answer>до трех (часов)</answer>
+    <comment>[tə θriː]</comment>
+    <question_comment>three - три</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>a9250b7f-cecd-4e37-9b07-0d7e17b1849a</uuid>
+    <examples>
+       <example>
+          <value>Can you come at three?</value>
+          <translation>Вы можете прийти в три часа?</translation>
+          <comment>can - мочь, to come - прийти, three - три</comment>
+       </example>
+       <example>
+          <value>I have stayed here for three days.</value>
+          <translation>Я пробыл здесь три дня.</translation>
+          <comment>to stay - оставаться, пребывать, here - здесь, for - в течение, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>There is a table for three reserved for me.</value>
+          <translation>Для меня зарезервирован столик на троих.</translation>
+          <comment>there is - есть, имеется, table - стол, three - три, reserved - зарезервированный, me - мне, меня</comment>
+       </example>
+       <example>
+          <value>You can get the tickets at ticket office number three.</value>
+          <translation>Вы можете купить билеты в кассе 3.</translation>
+          <comment>can - мочь, to get - достать, приобрести, ticket - билет, office - офис, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>The train leaves at seven p.m. from platform number three.</value>
+          <translation>Поезд отправляется в 7 вечера с платформы №3.</translation>
+          <comment>train - поезд, to leave - отправляться, seven - семь, p.m. - после полудня, from - от, из, platform - платформа, number - номер, three - три</comment>
+       </example>
+       <example>
+          <value>I want to rent a car for three days.</value>
+          <translation>Я хочу арендовать машину на три дня.</translation>
+          <comment>to want - хотеть, to rent - арендовать, car - машина, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>I need a garage for three days.</value>
+          <translation>Мне нужен гараж на три дня.</translation>
+          <comment>need - нуждаться, garage - гараж, three - три, day - день</comment>
+       </example>
+       <example>
+          <value>Please give me three envelopes.</value>
+          <translation>Пожалуйста, дайте мне три конверта.</translation>
+          <comment>to give - дать, me - мне, меня, three - три, envelope - конверт</comment>
+       </example>
+       <example>
+          <value>It&apos;s about six dollars for a three minute call.</value>
+          <translation>Это будет стоить около 6 долларов за трехминутный звонок.</translation>
+          <comment>about - примерно, около, six - шесть, dollar - доллар, three - три, minute - минута, call - звонок</comment>
+       </example>
+       <example>
+          <value>Can I buy a three days ticket?</value>
+          <translation>Можно купить проездной билет на три дня?</translation>
+          <comment>can - мочь, to buy - купить, three - три, day -день, ticket - билет</comment>
+       </example>
+       <example>
+          <value>Take it three times a day after meals.</value>
+          <translation>Принимайте три раза в день после еды.</translation>
+          <comment>to take - принимать, it - это, three - три, time - раз, day - день, after - после, meal - еда</comment>
+       </example>
+       <example>
+          <value>It&apos;s a three act play.</value>
+          <translation>Это пьеса на три акта.</translation>
+          <comment>it - это, three - три, act - акт, действие, play - пьеса, спектакль</comment>
+       </example>
+       <example>
+          <value>Please give me three tickets.</value>
+          <translation>Дайте, пожалуйста, три билета.</translation>
+          <comment>to give - давать, me - мне, меня, three - три, ticket - билет</comment>
+       </example>
+       <example>
+          <value>I&apos;ll take three oranges.</value>
+          <translation>Я возьму три апельсина.</translation>
+          <comment>to take - взять, three - три, orange - апельсин</comment>
+       </example>
+       <example>
+          <value>Three oranges and a bunch of grapes.</value>
+          <translation>Три апельсина и гроздь винограда.</translation>
+          <comment>three - три, orange - апельсин, bunch - гроздь, grapes - виноград</comment>
+       </example>
+       <example>
+          <value>a quarter to three</value>
+          <translation>без четверти три</translation>
+          <comment>quarter - четверть, to - до, к, three - три</comment>
+       </example>
+       <example>
+          <value>from half past three to four o&apos;clock</value>
+          <translation>от половины четвертого до четырех</translation>
+          <comment>from - от, half - половина, past - после, three - три, to - к, до, four - четыре, o&apos;clock - часы</comment>
+       </example>
+       <example>
+          <value>in three hours</value>
+          <translation>через три часа</translation>
+          <comment>three - три, hour - час</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>twenty five minutes</question>
+    <answer>двадцать пять минут</answer>
+    <comment>[ˈtwentiː fаɪv ˈmɪnɪts]</comment>
+    <question_comment>twenty - двадцать, five - пять, minute - минута</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>25c88387-c9f2-46bb-93e5-6aaba0f8c5c6</uuid>
+    <examples>
+       <example>
+          <value>twenty five minutes after eight</value>
+          <translation>двадцать пять минут девятого</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, after - после, eight - восемь</comment>
+       </example>
+       <example>
+          <value>twenty five minutes to nine</value>
+          <translation>без двадцати пяти девять</translation>
+          <comment>twenty - двадцать, five - пять, minute - минута, to - до, к, nine - девять</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very little time</question>
+    <answer>очень мало времени</answer>
+    <comment>[ˈveriː ˈlɪtl tаɪm]</comment>
+    <question_comment>very - очень, little - мало, time - время</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>6f96019e-b2cd-488d-9b55-3090d2b104bd</uuid>
+    <examples>
+       <example>
+          <value>I have very little time.</value>
+          <translation>У меня очень мало времени.</translation>
+          <comment>to have - иметь, very - очень, little - мало, time - время</comment>
+       </example>
+    </examples>
+  </card>
+  <card stage="0" rating="0">
+    <question>very soon</question>
+    <answer>очень скоро</answer>
+    <comment>[ˈveriː suːn]</comment>
+    <question_comment>very - очень, soon - скоро</question_comment>
+    <answer_comment></answer_comment>
+    <uuid>b51af4ab-e5c1-44c6-a186-90811239ed23</uuid>
+    <examples>
+       <example>
+          <value>not very soon</value>
+          <translation>не скоро</translation>
+          <comment>very - очень, soon - скоро</comment>
+       </example>
+    </examples>
+  </card>
+</cards>
+</stack>
